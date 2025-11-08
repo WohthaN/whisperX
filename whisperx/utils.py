@@ -431,6 +431,28 @@ class WriteJSON(ResultWriter):
         json.dump(result, file, ensure_ascii=False)
 
 
+class WritePhonemes(ResultWriter):
+    """
+    Write phoneme-level alignments to a text file.
+    Each line contains: start_time\tend_time\tphoneme\tscore
+    """
+    extension: str = "phonemes"
+
+    def write_result(self, result: dict, file: TextIO, options: dict):
+        print(f"WritePhonemes: Checking result dictionary keys: {list(result.keys())}", file=file)
+        print(f"WritePhonemes: phoneme_segments available: {'phoneme_segments' in result}", file=file)
+        
+        if "phoneme_segments" not in result:
+            print("No phoneme segments available in result", file=file)
+            return
+            
+        phonemes = result.get("phoneme_segments", [])
+        print(f"WritePhonemes: Writing {len(phonemes)} phonemes to file", file=file)
+        for i, phoneme in enumerate(phonemes):
+            print(f"WritePhonemes: Phoneme {i}: {phoneme}", file=file)
+            print(f"{phoneme['start']}\t{phoneme['end']}\t{phoneme['phoneme']}\t{phoneme.get('score', 'N/A')}", file=file)
+
+
 def get_writer(
     output_format: str, output_dir: str
 ) -> Callable[[dict, str, dict], None]:
@@ -440,6 +462,7 @@ def get_writer(
         "srt": WriteSRT,
         "tsv": WriteTSV,
         "json": WriteJSON,
+        "phonemes": WritePhonemes,
     }
     optional_writers = {
         "aud": WriteAudacity,

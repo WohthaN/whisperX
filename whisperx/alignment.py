@@ -20,6 +20,7 @@ from whisperx.schema import (
     SingleSegment,
     SingleAlignedSegment,
     SingleWordSegment,
+    SinglePhonemeSegment,
     SegmentData,
 )
 import nltk
@@ -122,6 +123,7 @@ def align(
     device: str,
     interpolate_method: str = "nearest",
     return_char_alignments: bool = False,
+    return_phoneme_alignments: bool = False,
     print_progress: bool = False,
     combined_progress: bool = False,
 ) -> AlignedTranscriptionResult:
@@ -223,10 +225,14 @@ def align(
             "text": text,
             "words": [],
             "chars": None,
+            "phonemes": None,
         }
 
         if return_char_alignments:
             aligned_seg["chars"] = []
+        
+        if return_phoneme_alignments:
+            aligned_seg["phonemes"] = []
 
         # check we can align
         if len(segment_data[sdx]["clean_char"]) == 0:
@@ -367,25 +373,59 @@ def align(
                 curr_chars = [{key: val for key, val in char.items() if val != -1} for char in curr_chars]
                 aligned_subsegments[-1]["chars"] = curr_chars
 
-        aligned_subsegments = pd.DataFrame(aligned_subsegments)
-        aligned_subsegments["start"] = interpolate_nans(aligned_subsegments["start"], method=interpolate_method)
-        aligned_subsegments["end"] = interpolate_nans(aligned_subsegments["end"], method=interpolate_method)
-        # concatenate sentences with same timestamps
-        agg_dict = {"text": " ".join, "words": "sum"}
-        if model_lang in LANGUAGES_WITHOUT_SPACES:
-            agg_dict["text"] = "".join
-        if return_char_alignments:
-            agg_dict["chars"] = "sum"
-        aligned_subsegments= aligned_subsegments.groupby(["start", "end"], as_index=False).agg(agg_dict)
-        aligned_subsegments = aligned_subsegments.to_dict('records')
+    if return_phoneme_alignments:
+        logger.info(f"Processing segment {sdx2+1} for phoneme alignment...")
+        
+        # Convert chars to list of dicts for phoneme grouping
+        chars_list = curr_chars[["char", "start", "end", "score"]].fillna(-1).to_dict("records")
+        chars_list = [{key: val for key, val in char.items() if val != -1} for char in chars_list]
+        
+        logger.info(f"Segment {sdx2+1}: chars_list length = {len(chars_list)}")
+        for i, char_info in enumerate(chars_list):
+            logger.info(f"  Char {i}: '{char_info.get('char', 'N/A')}' start={char_info.get('start', 'N/A')} end={char_info.get('end', 'N/A')} score={char_info.get('score', 'N/A')}")
+        
+        phonemes = group_chars_to_phonemes(chars_list, model_lang)
+        logger.info(f"Segment {sdx2+1}: generated {len(phonemes)} phonemes")
+        
+        for i, phoneme in enumerate(phonemes):
+            logger.info(f"  Phoneme {i}: '{phoneme['phoneme']}' start={phoneme['start']} end={phoneme['end']} score={phoneme['score']}")
+        
+        aligned_subsegments[-1]["phonemes"] = phonemes
+        logger.info(f"Segment {sdx2+1}: phonemes assigned to aligned_subsegments")
+
+    aligned_subsegments_df = pd.DataFrame(aligned_subsegments)
+    aligned_subsegments_df["start"] = interpolate_nans(aligned_subsegments_df["start"], method=interpolate_method)
+    aligned_subsegments_df["end"] = interpolate_nans(aligned_subsegments_df["end"], method=interpolate_method)
+    # concatenate sentences with same timestamps
+    agg_dict = {"text": " ".join, "words": "sum"}
+    if model_lang in LANGUAGES_WITHOUT_SPACES:
+        agg_dict["text"] = "".join
+    if return_char_alignments:
+        agg_dict["chars"] = "sum"
+    if return_phoneme_alignments:
+        agg_dict["phonemes"] = "sum"
+    
+    if len(aligned_subsegments_df) > 0:
+        aligned_subsegments_grouped = aligned_subsegments_df.groupby(["start", "end"], as_index=False).agg(agg_dict)
+        aligned_subsegments = aligned_subsegments_grouped.to_dict('records')
+        aligned_segments += aligned_subsegments
+    else:
         aligned_segments += aligned_subsegments
 
-    # create word_segments list
+    # create word_segments and phoneme_segments lists
     word_segments: List[SingleWordSegment] = []
+    phoneme_segments: List[SinglePhonemeSegment] = []
+    
     for segment in aligned_segments:
         word_segments += segment["words"]
+        if return_phoneme_alignments and "phonemes" in segment:
+            phoneme_segments.extend(segment["phonemes"])
 
-    return {"segments": aligned_segments, "word_segments": word_segments}
+    result = {"segments": aligned_segments, "word_segments": word_segments}
+    if return_phoneme_alignments:
+        result["phoneme_segments"] = phoneme_segments
+    
+    return result
 
 """
 source: https://pytorch.org/tutorials/intermediate/forced_alignment_with_torchaudio_tutorial.html
@@ -635,3 +675,115 @@ def merge_words(segments, separator="|"):
         else:
             i2 += 1
     return words
+
+
+def group_chars_to_phonemes(char_segments: List[dict], language: str) -> List[SinglePhonemeSegment]:
+    """
+    Group character segments into phoneme segments based on language-specific rules.
+    
+    Args:
+        char_segments: List of character-level alignment segments
+        language: Language code for phoneme grouping rules
+        
+    Returns:
+        List of phoneme segments with aggregated timing and scores
+    """
+    if not char_segments:
+        return []
+    
+    # Filter out space characters and segments without timing
+    valid_chars = [c for c in char_segments if c["char"] != " " and c["start"] is not None]
+    
+    if not valid_chars:
+        return []
+    
+    phoneme_segments = []
+    i = 0
+    
+    while i < len(valid_chars):
+        # Start with current character
+        current_phoneme = valid_chars[i]["char"]
+        start_time = valid_chars[i]["start"]
+        end_time = valid_chars[i]["end"]
+        scores = [valid_chars[i]["score"]]
+        
+        # Language-specific phoneme grouping rules
+        if language == "en":
+            # English digraphs and trigraphs
+            if i + 1 < len(valid_chars):
+                two_chars = current_phoneme + valid_chars[i + 1]["char"]
+                if two_chars in ["th", "sh", "ch", "ph", "wh", "ng"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+                elif two_chars in ["ti", "ci", "si"] and i + 2 < len(valid_chars):
+                    # "tion", "cion", "sion" patterns
+                    if valid_chars[i + 2]["char"] in ["o", "a"]:
+                        current_phoneme = two_chars + valid_chars[i + 2]["char"]
+                        end_time = valid_chars[i + 2]["end"]
+                        scores.extend([valid_chars[i + 1]["score"], valid_chars[i + 2]["score"]])
+                        i += 2
+                        
+        elif language == "it":
+            # Italian digraphs and trigraphs
+            if i + 1 < len(valid_chars):
+                two_chars = current_phoneme + valid_chars[i + 1]["char"]
+                if two_chars in ["gl", "gn", "sc", "zz"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+                elif two_chars in ["ci", "ce", "gi", "ge"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+                    
+        elif language == "de":
+            # German digraphs and trigraphs
+            if i + 1 < len(valid_chars):
+                two_chars = current_phoneme + valid_chars[i + 1]["char"]
+                if two_chars in ["ch", "sch", "st", "sp", "pf"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+                elif two_chars == "ts" and i + 2 < len(valid_chars):
+                    if valid_chars[i + 2]["char"] == "c":
+                        current_phoneme = "tsch"
+                        end_time = valid_chars[i + 2]["end"]
+                        scores.extend([valid_chars[i + 1]["score"], valid_chars[i + 2]["score"]])
+                        i += 2
+                        
+        elif language == "fr":
+            # French digraphs
+            if i + 1 < len(valid_chars):
+                two_chars = current_phoneme + valid_chars[i + 1]["char"]
+                if two_chars in ["ch", "gn", "ph", "th", "ou"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+                elif current_phoneme == "c" and valid_chars[i + 1]["char"] in ["e", "i", "y"]:
+                    current_phoneme = two_chars
+                    end_time = valid_chars[i + 1]["end"]
+                    scores.append(valid_chars[i + 1]["score"])
+                    i += 1
+        
+        # For other languages, use basic character grouping (can be extended)
+        # Most characters will remain as individual phonemes
+        
+        # Calculate average score for the phoneme
+        avg_score = round(sum(s for s in scores if s is not None) / len(scores), 3)
+        
+        phoneme_segments.append({
+            "phoneme": current_phoneme,
+            "start": round(start_time, 3),
+            "end": round(end_time, 3),
+            "score": avg_score
+        })
+        
+        i += 1
+    
+    return phoneme_segments

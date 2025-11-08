@@ -49,6 +49,7 @@ def transcribe_task(args: dict, parser: argparse.ArgumentParser):
         no_align = True
 
     return_char_alignments: bool = args.pop("return_char_alignments")
+    return_phoneme_alignments: bool = args.pop("return_phoneme_alignments")
 
     hf_token: str = args.pop("hf_token")
     vad_method: str = args.pop("vad_method")
@@ -194,6 +195,7 @@ def transcribe_task(args: dict, parser: argparse.ArgumentParser):
                     device,
                     interpolate_method=interpolate_method,
                     return_char_alignments=return_char_alignments,
+                    return_phoneme_alignments=return_phoneme_alignments,
                     print_progress=print_progress,
                 )
 

@@ -20,6 +20,16 @@ class SingleCharSegment(TypedDict):
     score: float
 
 
+class SinglePhonemeSegment(TypedDict):
+    """
+    A single phoneme of a speech.
+    """
+    phoneme: str
+    start: float
+    end: float
+    score: float
+
+
 class SingleSegment(TypedDict):
     """
     A single segment (up to multiple sentences) of a speech.
@@ -51,6 +61,7 @@ class SingleAlignedSegment(TypedDict):
     text: str
     words: List[SingleWordSegment]
     chars: Optional[List[SingleCharSegment]]
+    phonemes: Optional[List[SinglePhonemeSegment]]
 
 
 class TranscriptionResult(TypedDict):
@@ -67,3 +78,4 @@ class AlignedTranscriptionResult(TypedDict):
     """
     segments: List[SingleAlignedSegment]
     word_segments: List[SingleWordSegment]
+    phoneme_segments: Optional[List[SinglePhonemeSegment]]
