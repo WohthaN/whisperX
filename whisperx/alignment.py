@@ -211,6 +211,7 @@ def align(
         }
 
     aligned_segments: List[SingleAlignedSegment] = []
+    aligned_subsegments = []  # Initialize here to accumulate across all segments
 
     # 2. Get prediction matrix from alignment model & align
     for sdx, segment in enumerate(transcript):
@@ -321,7 +322,6 @@ def align(
 
         char_segments_arr = pd.DataFrame(char_segments_arr)
 
-        aligned_subsegments = []
         # assign sentence_idx to each character index
         char_segments_arr["sentence-idx"] = None
         for sdx2, (sstart, send) in enumerate(segment_data[sdx]["sentence_spans"]):
@@ -373,26 +373,27 @@ def align(
                 curr_chars = [{key: val for key, val in char.items() if val != -1} for char in curr_chars]
                 aligned_subsegments[-1]["chars"] = curr_chars
 
-    if return_phoneme_alignments:
-        logger.info(f"Processing segment {sdx2+1} for phoneme alignment...")
-        
-        # Convert chars to list of dicts for phoneme grouping
-        chars_list = curr_chars[["char", "start", "end", "score"]].fillna(-1).to_dict("records")
-        chars_list = [{key: val for key, val in char.items() if val != -1} for char in chars_list]
-        
-        logger.info(f"Segment {sdx2+1}: chars_list length = {len(chars_list)}")
-        for i, char_info in enumerate(chars_list):
-            logger.info(f"  Char {i}: '{char_info.get('char', 'N/A')}' start={char_info.get('start', 'N/A')} end={char_info.get('end', 'N/A')} score={char_info.get('score', 'N/A')}")
-        
-        phonemes = group_chars_to_phonemes(chars_list, model_lang)
-        logger.info(f"Segment {sdx2+1}: generated {len(phonemes)} phonemes")
-        
-        for i, phoneme in enumerate(phonemes):
-            logger.info(f"  Phoneme {i}: '{phoneme['phoneme']}' start={phoneme['start']} end={phoneme['end']} score={phoneme['score']}")
-        
-        aligned_subsegments[-1]["phonemes"] = phonemes
-        logger.info(f"Segment {sdx2+1}: phonemes assigned to aligned_subsegments")
+            if return_phoneme_alignments:
+                logger.info(f"Processing segment {sdx2+1} for phoneme alignment...")
+                
+                # Convert chars to list of dicts for phoneme grouping
+                chars_list = curr_chars[["char", "start", "end", "score"]].fillna(-1).to_dict("records")
+                chars_list = [{key: val for key, val in char.items() if val != -1} for char in chars_list]
+                
+                logger.info(f"Segment {sdx2+1}: chars_list length = {len(chars_list)}")
+                for i, char_info in enumerate(chars_list):
+                    logger.info(f"  Char {i}: '{char_info.get('char', 'N/A')}' start={char_info.get('start', 'N/A')} end={char_info.get('end', 'N/A')} score={char_info.get('score', 'N/A')}")
+                
+                phonemes = group_chars_to_phonemes(chars_list, model_lang)
+                logger.info(f"Segment {sdx2+1}: generated {len(phonemes)} phonemes")
+                
+                for i, phoneme in enumerate(phonemes):
+                    logger.info(f"  Phoneme {i}: '{phoneme['phoneme']}' start={phoneme['start']} end={phoneme['end']} score={phoneme['score']}")
+                
+                aligned_subsegments[-1]["phonemes"] = phonemes
+                logger.info(f"Segment {sdx2+1}: phonemes assigned to aligned_subsegments")
 
+    # Process all accumulated subsegments after the loop
     aligned_subsegments_df = pd.DataFrame(aligned_subsegments)
     aligned_subsegments_df["start"] = interpolate_nans(aligned_subsegments_df["start"], method=interpolate_method)
     aligned_subsegments_df["end"] = interpolate_nans(aligned_subsegments_df["end"], method=interpolate_method)
