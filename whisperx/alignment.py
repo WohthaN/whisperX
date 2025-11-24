@@ -281,7 +281,7 @@ def align(
 
         trellis = get_trellis(emission, tokens, blank_id)
         # path = backtrack(trellis, emission, tokens, blank_id)
-        path = backtrack_beam(trellis, emission, tokens, blank_id, beam_width=2)
+        path = backtrack_beam(trellis, emission, tokens, blank_id, beam_width=5)
 
         if path is None:
             logger.warning(f'Failed to align segment ("{segment["text"]}"): backtrack failed, resorting to original')
@@ -291,7 +291,7 @@ def align(
         char_segments = merge_repeats(path, text_clean)
 
         duration = t2 - t1
-        ratio = duration * waveform_segment.size(0) / (trellis.size(0) - 1)
+        ratio = float(duration) * float(waveform_segment.size(0)) / float(trellis.size(0) - 1)
 
         # assign timestamps to aligned characters
         char_segments_arr = []
@@ -300,9 +300,9 @@ def align(
             start, end, score = None, None, None
             if cdx in segment_data[sdx]["clean_cdx"]:
                 char_seg = char_segments[segment_data[sdx]["clean_cdx"].index(cdx)]
-                start = round(char_seg.start * ratio + t1, 3)
-                end = round(char_seg.end * ratio + t1, 3)
-                score = round(char_seg.score, 3)
+                start = round(char_seg.start * ratio + t1, 4)
+                end = round(char_seg.end * ratio + t1, 4)
+                score = round(char_seg.score, 4)
 
             char_segments_arr.append(
                 {
@@ -345,7 +345,7 @@ def align(
 
                 word_start = word_chars["start"].min()
                 word_end = word_chars["end"].max()
-                word_score = round(word_chars["score"].mean(), 3)
+                word_score = round(word_chars["score"].mean(), 4)
 
                 # -1 indicates unalignable
                 word_segment = {"word": word_text}
@@ -776,12 +776,12 @@ def group_chars_to_phonemes(char_segments: List[dict], language: str) -> List[Si
         # Most characters will remain as individual phonemes
         
         # Calculate average score for the phoneme
-        avg_score = round(sum(s for s in scores if s is not None) / len(scores), 3)
+        avg_score = round(sum(s for s in scores if s is not None) / len(scores), 4)
         
         phoneme_segments.append({
             "phoneme": current_phoneme,
-            "start": round(start_time, 3),
-            "end": round(end_time, 3),
+            "start": round(start_time, 4),
+            "end": round(end_time, 4),
             "score": avg_score
         })
         
