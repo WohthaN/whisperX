@@ -2,7 +2,7 @@
 urls = { repository = "https://github.com/m-bain/whisperx" }
 authors = [{ name = "Max Bain" }]
 name = "whisperx"
-version = "3.7.4"
+version = "10.1"
 description = "Time-Accurate Automatic Speech Recognition using Whisper."
 readme = "README.md"
 requires-python = ">=3.9, <3.14"
@@ -14,7 +14,7 @@ dependencies = [
     "nltk>=3.9.1",
     "omegaconf>=2.3.0",
     # Restrict numpy, onnxruntime, pandas, av to be compatible with Python 3.9
-    "numpy>=2.0.2,<2.1.0; python_version <'3.13'",
+    "numpy>=2.0.2; python_version <'3.13'",
     "onnxruntime>=1.19,<1.20.0; python_version <'3.10'",
     "pandas>=2.2.3,<2.4.0",
     "av>=15.1.0,<16.0.0",
