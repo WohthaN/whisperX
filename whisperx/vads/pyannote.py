@@ -15,6 +15,16 @@ from whisperx.diarize import Segment as SegmentX
 from whisperx.vads.vad import Vad
 from whisperx.log_utils import get_logger
 
+# Monkey patch torch.load to handle weights_only issue for PyTorch 2.6+
+original_torch_load = torch.load
+def patched_torch_load(f, *args, **kwargs):
+    # Force weights_only=False for compatibility with models containing omegaconf
+    kwargs['weights_only'] = False
+    return original_torch_load(f, *args, **kwargs)
+
+# Apply the monkey patch
+torch.load = patched_torch_load
+
 logger = get_logger(__name__)
 
 
