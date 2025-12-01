@@ -463,6 +463,32 @@ class WritePhonemes(ResultWriter):
             print(f"{phoneme['start']}\t{phoneme['end']}\t{phoneme['phoneme']}\t{phoneme.get('score', 'N/A')}", file=file)
 
 
+class WriteIPA(ResultWriter):
+    """
+    Write IPA-level alignments to a text file with linguistic weights.
+    Each line contains: start_time\tend_time\tipa_symbol\torthographic\tlinguistic_weight\tconfidence\tdescription
+    """
+    extension: str = "ipa"
+
+    def write_result(self, result: dict, file: TextIO, options: dict):
+        print(f"WriteIPA: Checking result dictionary keys: {list(result.keys())}", file=file)
+        print(f"WriteIPA: ipa_segments available: {'ipa_segments' in result}", file=file)
+        
+        if "ipa_segments" not in result:
+            print("No IPA segments available in result", file=file)
+            return
+            
+        ipa_segments = result.get("ipa_segments", [])
+        print(f"WriteIPA: Writing {len(ipa_segments)} IPA segments to file", file=file)
+        
+        # Write header
+        print("start_time\tend_time\tipa_symbol\torthographic\tlinguistic_weight\tconfidence\tdescription", file=file)
+        
+        for i, ipa_seg in enumerate(ipa_segments):
+            print(f"WriteIPA: IPA Segment {i}: {ipa_seg}", file=file)
+            print(f"{ipa_seg['start']}\t{ipa_seg['end']}\t{ipa_seg['ipa_symbol']}\t{ipa_seg['orthographic']}\t{ipa_seg['linguistic_weight']}\t{ipa_seg['confidence']}\t{ipa_seg.get('description', '')}", file=file)
+
+
 def get_writer(
     output_format: str, output_dir: str
 ) -> Callable[[dict, str, dict], None]:
@@ -473,6 +499,7 @@ def get_writer(
         "tsv": WriteTSV,
         "json": WriteJSON,
         "phonemes": WritePhonemes,
+        "ipa": WriteIPA,
     }
     optional_writers = {
         "aud": WriteAudacity,

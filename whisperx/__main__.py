@@ -22,7 +22,7 @@ def cli():
     parser.add_argument("--compute_type", default="float16", type=str, choices=["float16", "float32", "int8"], help="compute type for computation")
 
     parser.add_argument("--output_dir", "-o", type=str, default=".", help="directory to save the outputs")
-    parser.add_argument("--output_format", "-f", type=str, default="all", choices=["all", "srt", "vtt", "txt", "tsv", "json", "aud", "phonemes"], help="format of the output file; if not specified, all available formats will be produced")
+    parser.add_argument("--output_format", "-f", type=str, default="all", choices=["all", "srt", "vtt", "txt", "tsv", "json", "aud", "phonemes", "ipa"], help="format of the output file; if not specified, all available formats will be produced")
     parser.add_argument("--verbose", type=str2bool, default=True, help="whether to print out the progress and debug messages")
     parser.add_argument("--log-level", type=str, default=None, choices=["debug", "info", "warning", "error", "critical"], help="logging level (overrides --verbose if set)")
 
@@ -35,6 +35,7 @@ def cli():
     parser.add_argument("--no_align", action='store_true', help="Do not perform phoneme alignment")
     parser.add_argument("--return_char_alignments", action='store_true', help="Return character-level alignments in the output json file")
     parser.add_argument("--return_phoneme_alignments", action='store_true', help="Return phoneme-level alignments in the output json file")
+    parser.add_argument("--return_ipa_alignments", action='store_true', help="Return IPA-level alignments in the output json file")
 
     # vad params
     parser.add_argument("--vad_method", type=str, default="pyannote", choices=["pyannote", "silero"], help="VAD method to be used")

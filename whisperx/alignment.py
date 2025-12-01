@@ -21,6 +21,7 @@ from whisperx.schema import (
     SingleAlignedSegment,
     SingleWordSegment,
     SinglePhonemeSegment,
+    SingleIPASegment,
     SegmentData,
 )
 import nltk
@@ -124,6 +125,7 @@ def align(
     interpolate_method: str = "nearest",
     return_char_alignments: bool = False,
     return_phoneme_alignments: bool = False,
+    return_ipa_alignments: bool = False,
     print_progress: bool = False,
     combined_progress: bool = False,
 ) -> AlignedTranscriptionResult:
@@ -392,6 +394,15 @@ def align(
                 
                 aligned_subsegments[-1]["phonemes"] = phonemes
                 logger.info(f"Segment {sdx2+1}: phonemes assigned to aligned_subsegments")
+                
+                # Convert to IPA if requested and supported
+                if return_ipa_alignments:
+                    ipa_segments = convert_phonemes_to_ipa(phonemes, model_lang, sentence_text)
+                    aligned_subsegments[-1]["ipa_segments"] = ipa_segments
+                    logger.info(f"Segment {sdx2+1}: generated {len(ipa_segments)} IPA segments")
+                    
+                    for i, ipa_seg in enumerate(ipa_segments):
+                        logger.info(f"  IPA {i}: '{ipa_seg['ipa_symbol']}' ({ipa_seg['orthographic']}) weight={ipa_seg['linguistic_weight']} conf={ipa_seg['confidence']}")
 
     # Process all accumulated subsegments after the loop
     aligned_subsegments_df = pd.DataFrame(aligned_subsegments)
@@ -405,6 +416,8 @@ def align(
         agg_dict["chars"] = "sum"
     if return_phoneme_alignments:
         agg_dict["phonemes"] = "sum"
+    if return_ipa_alignments:
+        agg_dict["ipa_segments"] = "sum"
     
     if len(aligned_subsegments_df) > 0:
         aligned_subsegments_grouped = aligned_subsegments_df.groupby(["start", "end"], as_index=False).agg(agg_dict)
@@ -416,15 +429,20 @@ def align(
     # create word_segments and phoneme_segments lists
     word_segments: List[SingleWordSegment] = []
     phoneme_segments: List[SinglePhonemeSegment] = []
+    ipa_segments: List[SingleIPASegment] = []
     
     for segment in aligned_segments:
         word_segments += segment["words"]
         if return_phoneme_alignments and "phonemes" in segment:
             phoneme_segments.extend(segment["phonemes"])
+        if return_ipa_alignments and "ipa_segments" in segment:
+            ipa_segments.extend(segment["ipa_segments"])
 
     result = {"segments": aligned_segments, "word_segments": word_segments}
     if return_phoneme_alignments:
         result["phoneme_segments"] = phoneme_segments
+    if return_ipa_alignments:
+        result["ipa_segments"] = ipa_segments
     
     return result
 
@@ -788,3 +806,58 @@ def group_chars_to_phonemes(char_segments: List[dict], language: str) -> List[Si
         i += 1
     
     return phoneme_segments
+
+
+def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment], 
+                           language: str,
+                           word_context: str = "") -> List[SingleIPASegment]:
+    """
+    Convert phoneme segments to IPA segments for supported languages.
+    
+    Args:
+        phoneme_segments: List of phoneme segments from group_chars_to_phonemes
+        language: Language code
+        word_context: Full word context for IPA conversion rules
+        
+    Returns:
+        List of IPA segments with linguistic weights and descriptions
+    """
+    if not phoneme_segments or language not in ["it"]:
+        # Return empty list for unsupported languages
+        return []
+    
+    # Import here to avoid circular imports
+    from whisperx.ipa_converter import create_italian_ipa_converter
+    
+    # Create IPA converter for Italian
+    if language == "it":
+        ipa_converter = create_italian_ipa_converter()
+    else:
+        return []
+    
+    ipa_segments = []
+    
+    for phoneme_seg in phoneme_segments:
+        orthographic = phoneme_seg["phoneme"]
+        
+        # Convert to IPA with context
+        ipa_symbol, linguistic_weight = ipa_converter.convert_orthographic_to_ipa(
+            orthographic, 0, word_context
+        )
+        
+        # Get description
+        description = ipa_converter.get_phoneme_description(ipa_symbol)
+        
+        ipa_segment: SingleIPASegment = {
+            "ipa_symbol": ipa_symbol,
+            "orthographic": orthographic,
+            "start": phoneme_seg["start"],
+            "end": phoneme_seg["end"],
+            "linguistic_weight": linguistic_weight,
+            "confidence": phoneme_seg.get("score", 1.0),
+            "description": description
+        }
+        
+        ipa_segments.append(ipa_segment)
+    
+    return ipa_segments
