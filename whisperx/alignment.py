@@ -813,6 +813,7 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
                            word_context: str = "") -> List[SingleIPASegment]:
     """
     Convert phoneme segments to IPA segments for supported languages.
+    Uses dictionary-first approach for Italian with rule-based fallback.
     
     Args:
         phoneme_segments: List of phoneme segments from group_chars_to_phonemes
@@ -827,16 +828,57 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
         return []
     
     # Import here to avoid circular imports
-    from whisperx.ipa_converter import create_italian_ipa_converter
+    from whisperx.ipa_converter import create_italian_ipa_converter, ItalianDictionary
     
-    # Create IPA converter for Italian
+    # Create IPA converter for Italian with dictionary support
     if language == "it":
-        ipa_converter = create_italian_ipa_converter()
+        # Initialize dictionary for Italian
+        italian_dictionary = ItalianDictionary()
+        ipa_converter = create_italian_ipa_converter(italian_dictionary)
     else:
         return []
     
     ipa_segments = []
     
+    # Extract phonemes for dictionary lookup
+    phonemes = [seg["phoneme"] for seg in phoneme_segments]
+    
+    # Try dictionary-first conversion for the whole word
+    try:
+        ipa_sequence = ipa_converter.convert_word_to_ipa_dict_first(word_context, phonemes)
+        
+        # If we got IPA from dictionary, create segments with timing
+        if len(ipa_sequence) > 0:
+            # Distribute timing evenly across IPA symbols from dictionary
+            total_duration = phoneme_segments[-1]["end"] - phoneme_segments[0]["start"]
+            segment_duration = total_duration / len(ipa_sequence) if len(ipa_sequence) > 0 else total_duration
+            
+            for i, (ipa_symbol, linguistic_weight) in enumerate(ipa_sequence):
+                start_time = phoneme_segments[0]["start"] + (i * segment_duration)
+                end_time = start_time + segment_duration
+                
+                description = ipa_converter.get_phoneme_description(ipa_symbol)
+                
+                ipa_segment: SingleIPASegment = {
+                    "ipa_symbol": ipa_symbol,
+                    "orthographic": word_context,  # Use full word as orthographic for dictionary entries
+                    "start": round(start_time, 4),
+                    "end": round(end_time, 4),
+                    "linguistic_weight": linguistic_weight,
+                    "confidence": 1.0,  # Dictionary entries have high confidence
+                    "description": description
+                }
+                
+                ipa_segments.append(ipa_segment)
+            
+            return ipa_segments
+            
+    except Exception as e:
+        # If dictionary conversion fails, fall back to rule-based
+        import logging
+        logging.getLogger(__name__).debug(f"Dictionary conversion failed for '{word_context}': {e}, using rule-based fallback")
+    
+    # Fallback to rule-based conversion (original logic)
     for phoneme_seg in phoneme_segments:
         orthographic = phoneme_seg["phoneme"]
         

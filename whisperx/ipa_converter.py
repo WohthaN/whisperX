@@ -5,18 +5,144 @@ Converts Italian orthographic phoneme groups to IPA symbols with linguistic weig
 
 from typing import Dict, List, Tuple, Optional
 import re
+import json
+import os
+from pathlib import Path
 from whisperx.log_utils import get_logger
 
 logger = get_logger(__name__)
+
+
+class ItalianDictionary:
+    """
+    Manages Italian pronunciation dictionary for IPA transcription.
+    Loads and provides lookup functionality for Italian word pronunciations.
+    """
+    
+    def __init__(self, assets_dir: Optional[str] = None):
+        """
+        Initialize Italian dictionary.
+        
+        Args:
+            assets_dir: Path to assets directory containing dictionary files
+        """
+        self.dictionary = {}
+        self.is_loaded_flag = False
+        
+        if assets_dir is None:
+            # Default assets directory relative to this file
+            current_dir = Path(__file__).parent
+            self.assets_dir = current_dir / "assets"
+        else:
+            self.assets_dir = Path(assets_dir)
+        
+        self._load_dictionary()
+    
+    def _load_dictionary(self):
+        """Load Italian pronunciation dictionary from assets."""
+        try:
+
+            dict_path = self.assets_dir / "it.json"
+            if dict_path:
+                with open(dict_path, 'r', encoding='utf-8') as f:
+                    self.dictionary = json.load(f)
+                self.is_loaded_flag = True
+                logger.info(f"Loaded {len(self.dictionary)} Italian word pronunciations")
+            else:
+                logger.warning("No Italian dictionary file found in assets directory")
+                
+        except Exception as e:
+            logger.error(f"Failed to load Italian dictionary: {e}")
+            self.dictionary = {}
+            self.is_loaded_flag = False
+    
+    def lookup_word(self, word: str) -> List[str]:
+        """
+        Look up IPA transcriptions for a word.
+        
+        Args:
+            word: The word to look up
+            
+        Returns:
+            List of IPA transcriptions (empty if not found)
+        """
+        if not self.is_loaded_flag:
+            return []
+        
+        # Try exact match first
+        if word in self.dictionary:
+            return self.dictionary[word]
+        
+        # Try lowercase match
+        lower_word = word.lower()
+        if lower_word in self.dictionary:
+            return self.dictionary[lower_word]
+        
+        # Try removing common accents/diacritics
+        normalized_word = self._normalize_word(word)
+        if normalized_word in self.dictionary:
+            return self.dictionary[normalized_word]
+        
+        return []
+    
+    def _normalize_word(self, word: str) -> str:
+        """
+        Normalize word by removing common accents and diacritics.
+        
+        Args:
+            word: Word to normalize
+            
+        Returns:
+            Normalized word
+        """
+        # Basic normalization - can be expanded as needed
+        replacements = {
+            'à': 'a', 'á': 'a', 'â': 'a', 'ä': 'a', 'ã': 'a',
+            'è': 'e', 'é': 'e', 'ê': 'e', 'ë': 'e',
+            'ì': 'i', 'í': 'i', 'î': 'i', 'ï': 'i',
+            'ò': 'o', 'ó': 'o', 'ô': 'o', 'ö': 'o', 'õ': 'o',
+            'ù': 'u', 'ú': 'u', 'û': 'u', 'ü': 'u',
+            'À': 'A', 'Á': 'A', 'Â': 'A', 'Ä': 'A', 'Ã': 'A',
+            'È': 'E', 'É': 'E', 'Ê': 'E', 'Ë': 'E',
+            'Ì': 'I', 'Í': 'I', 'Î': 'I', 'Ï': 'I',
+            'Ò': 'O', 'Ó': 'O', 'Ô': 'O', 'Ö': 'O', 'Õ': 'O',
+            'Ù': 'U', 'Ú': 'U', 'Û': 'U', 'Ü': 'U'
+        }
+        
+        normalized = word
+        for accented, plain in replacements.items():
+            normalized = normalized.replace(accented, plain)
+        
+        return normalized
+    
+    def is_loaded(self) -> bool:
+        """Check if dictionary is successfully loaded."""
+        return self.is_loaded_flag
+    
+    def get_dictionary_size(self) -> int:
+        """Get the number of entries in the dictionary."""
+        return len(self.dictionary)
 
 
 class ItalianIPAConverter:
     """
     Converts Italian orthographic characters to IPA symbols with context-aware rules
     and assigns linguistic weights based on phonological characteristics.
+    Uses dictionary-first approach with rule-based fallback.
     """
     
-    def __init__(self):
+    def __init__(self, dictionary: Optional[ItalianDictionary] = None):
+        """
+        Initialize Italian IPA converter.
+        
+        Args:
+            dictionary: ItalianDictionary instance for pronunciation lookup
+        """
+        # Initialize dictionary if not provided
+        if dictionary is None:
+            self.dictionary = ItalianDictionary()
+        else:
+            self.dictionary = dictionary
         # IPA weights from user's schema
         self.ipa_weights = {
             'ʧ': 0.9,  # C morbida (es. cena)
@@ -315,11 +441,79 @@ class ItalianIPAConverter:
             ipa_sequence.append((ipa_symbol, weight))
         
         return ipa_sequence
+    
+    def convert_word_to_ipa_dict_first(self, word: str, phonemes: List[str]) -> List[Tuple[str, float]]:
+        """
+        Convert a word to IPA using dictionary-first approach.
+        
+        Args:
+            word: The original word
+            phonemes: List of orthographic phonemes (for fallback)
+            
+        Returns:
+            List of (IPA_symbol, linguistic_weight) tuples
+        """
+        # Try dictionary lookup first
+        if self.dictionary.is_loaded():
+            dictionary_transcriptions = self.dictionary.lookup_word(word)
+            if dictionary_transcriptions:
+                # Use the first transcription from dictionary
+                ipa_transcription = dictionary_transcriptions[0]
+                return self._parse_dictionary_ipa(ipa_transcription)
+        
+        # Fallback to rule-based conversion
+        logger.debug(f"Word '{word}' not found in dictionary, using rule-based conversion")
+        return self.convert_word_to_ipa_sequence(word, phonemes)
+    
+    def _parse_dictionary_ipa(self, ipa_transcription: str) -> List[Tuple[str, float]]:
+        """
+        Parse IPA transcription from dictionary into weighted phoneme sequence.
+        
+        Args:
+            ipa_transcription: Space-separated IPA symbols from dictionary
+            
+        Returns:
+            List of (IPA_symbol, linguistic_weight) tuples
+        """
+        if not ipa_transcription:
+            return []
+        
+        # Split by spaces and filter out empty strings
+        ipa_symbols = [symbol for symbol in ipa_transcription.split() if symbol.strip()]
+        
+        ipa_sequence = []
+        for symbol in ipa_symbols:
+            # Dictionary transcriptions get higher base weight
+            base_weight = 0.95
+            
+            # Adjust weight based on phoneme type using existing weight system
+            if symbol in self.ipa_weights:
+                weight = self.ipa_weights[symbol]
+            elif symbol in ['a', 'e', 'i', 'o', 'u', 'ɛ', 'ɔ']:
+                weight = self.default_weights['vowel']
+            elif symbol in ['j', 'w']:
+                weight = self.default_weights['semivowel']
+            else:
+                weight = self.default_weights['consonant']
+            
+            # Use higher of base weight and specific weight
+            final_weight = max(base_weight, weight)
+            ipa_sequence.append((symbol, final_weight))
+        
+        return ipa_sequence
 
 
-def create_italian_ipa_converter() -> ItalianIPAConverter:
-    """Factory function to create Italian IPA converter instance."""
-    return ItalianIPAConverter()
+def create_italian_ipa_converter(dictionary: Optional[ItalianDictionary] = None) -> ItalianIPAConverter:
+    """
+    Factory function to create Italian IPA converter instance.
+    
+    Args:
+        dictionary: Optional ItalianDictionary instance for pronunciation lookup
+        
+    Returns:
+        ItalianIPAConverter instance
+    """
+    return ItalianIPAConverter(dictionary)
 
 
 # Utility function for batch conversion
