@@ -41,15 +41,33 @@ class ItalianDictionary:
     def _load_dictionary(self):
         """Load Italian pronunciation dictionary from assets."""
         try:
-
-            dict_path = self.assets_dir / "it.json"
-            if dict_path:
-                with open(dict_path, 'r', encoding='utf-8') as f:
-                    self.dictionary = json.load(f)
+            # Load both it_full.json and it_small.json
+            full_dict_path = self.assets_dir / "it_full.json"
+            small_dict_path = self.assets_dir / "it_small.json"
+            
+            self.dictionary = {}
+            loaded_files = []
+            
+            # Load full dictionary first
+            if full_dict_path.exists():
+                with open(full_dict_path, 'r', encoding='utf-8') as f:
+                    full_dict = json.load(f)
+                    self.dictionary.update(full_dict)
+                    loaded_files.append("it_full.json")
+            
+            # Load small dictionary and merge
+            if small_dict_path.exists():
+                with open(small_dict_path, 'r', encoding='utf-8') as f:
+                    small_dict = json.load(f)
+                    self.dictionary.update(small_dict)
+                    loaded_files.append("it_small.json")
+            
+            if loaded_files:
                 self.is_loaded_flag = True
-                logger.info(f"Loaded {len(self.dictionary)} Italian word pronunciations")
+                logger.info(f"Loaded {len(self.dictionary)} Italian word pronunciations from {', '.join(loaded_files)}")
             else:
-                logger.warning("No Italian dictionary file found in assets directory")
+                logger.warning("No Italian dictionary files found in assets directory")
+                self.is_loaded_flag = False
                 
         except Exception as e:
             logger.error(f"Failed to load Italian dictionary: {e}")
