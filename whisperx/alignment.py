@@ -808,6 +808,36 @@ def group_chars_to_phonemes(char_segments: List[dict], language: str) -> List[Si
     return phoneme_segments
 
 
+def _map_ipa_to_orthographic(ipa_symbol: str, phonemes: List[str], ipa_index: int) -> str:
+    """
+    Helper function to map IPA symbols back to their orthographic representation.
+    For dictionary-based conversion, this tries to find the corresponding phoneme(s).
+    
+    Args:
+        ipa_symbol: The IPA symbol to map
+        phonemes: List of original phonemes
+        ipa_index: Index of the IPA symbol in the sequence
+        
+    Returns:
+        Orthographic representation string
+    """
+    # Simple mapping: if we have the same number of IPA symbols as phonemes,
+    # use the corresponding phoneme. Otherwise, use a best-effort approach.
+    if ipa_index < len(phonemes):
+        return phonemes[ipa_index]
+    
+    # Fallback: try to find a phoneme that could correspond to this IPA symbol
+    # This is a simplified approach - could be made more sophisticated
+    for phoneme in phonemes:
+        if len(phoneme) == 1 and ipa_symbol in ['a', 'e', 'i', 'o', 'u']:
+            return phoneme
+        elif len(phoneme) > 1 and ipa_symbol in ['ʧ', 'ʤ', 'ʎ', 'ɲ', 'ʃ', 'ʦ', 'ʣ']:
+            return phoneme
+    
+    # Ultimate fallback
+    return ipa_symbol
+
+
 def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment], 
                            language: str,
                            word_context: str = "") -> List[SingleIPASegment]:
@@ -859,9 +889,12 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
                 
                 description = ipa_converter.get_phoneme_description(ipa_symbol)
                 
+                # Map IPA symbol back to corresponding orthographic phoneme(s)
+                orthographic_repr = _map_ipa_to_orthographic(ipa_symbol, phonemes, i)
+                
                 ipa_segment: SingleIPASegment = {
                     "ipa_symbol": ipa_symbol,
-                    "orthographic": word_context,  # Use full word as orthographic for dictionary entries
+                    "orthographic": orthographic_repr,
                     "start": round(start_time, 4),
                     "end": round(end_time, 4),
                     "linguistic_weight": linguistic_weight,
