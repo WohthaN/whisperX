@@ -3,7 +3,7 @@
 Letter-Phoneme Alignment Extractor
 
 Extracts and displays letter-phoneme correspondence from WhisperX aligned output JSON files.
-Shows two lines per segment: one for letters, one for phonemes, with visual alignment.
+Shows three lines per segment: letters, pipes, and phonemes, with perfect vertical alignment.
 """
 
 import json
@@ -32,11 +32,12 @@ def extract_segment_data(segment):
 
 def build_aligned_lines(text, ipa_segments):
     """
-    Build aligned letters and phonemes lines with proper word and phoneme spacing.
-    Returns: (letters_line, phonemes_line)
+    Build three-line display with letters, pipes, and phonemes.
+    Letters may be shifted to ensure vertical alignment with pipes.
+    Returns: (letters_line, pipes_line, phonemes_line)
     """
     if not ipa_segments:
-        return text, ""
+        return text, "", ""
     
     # Split original text into words to preserve word boundaries
     words = text.split()
@@ -71,8 +72,9 @@ def build_aligned_lines(text, ipa_segments):
     if current_word_segments:
         word_segments.append(current_word_segments)
     
-    # Build aligned lines for each word
+    # Build three-line display for each word
     letters_words = []
+    pipes_words = []
     phonemes_words = []
     
     for word_idx, word_ipa_segments in enumerate(word_segments):
@@ -88,16 +90,81 @@ def build_aligned_lines(text, ipa_segments):
                 letter_groups.append(orthographic)
                 phonemes.append(ipa_symbol)
             
-            # Build the word lines with proper alignment
-            word_letters, word_phonemes = align_word_letters_and_phonemes(letter_groups, phonemes)
+            # Build the word three lines with proper alignment
+            word_letters, word_pipes, word_phonemes = build_word_three_lines(letter_groups, phonemes)
             letters_words.append(word_letters)
+            pipes_words.append(word_pipes)
             phonemes_words.append(word_phonemes)
     
     # Join words with 4 spaces
     letters_line = '    '.join(letters_words)
+    pipes_line = '    '.join(pipes_words)
     phonemes_line = '    '.join(phonemes_words)
     
-    return letters_line, phonemes_line
+    return letters_line, pipes_line, phonemes_line
+
+
+def build_word_three_lines(letter_groups, phonemes):
+    """
+    Build three lines for a single word with perfect vertical alignment.
+    Returns: (letters_line, pipes_line, phonemes_line)
+    """
+    
+    # Calculate the width needed for each position
+    # Use the maximum of letter width and phoneme width for each column
+    column_widths = []
+    for letter_group, phoneme in zip(letter_groups, phonemes):
+        letter_width = len(letter_group)
+        phoneme_width = len(phoneme)
+        max_width = max(letter_width, phoneme_width)
+        column_widths.append(max_width)
+    
+    # Line 3: Phonemes (bottom line) - build this first
+    phonemes_parts = []
+    for i, (phoneme, column_width) in enumerate(zip(phonemes, column_widths)):
+        if i > 0:
+            phonemes_parts.append(' ')  # 1 space between phonemes
+        
+        # Center phoneme in its allocated space
+        padding = column_width - len(phoneme)
+        left_padding = padding // 2
+        right_padding = padding - left_padding
+        
+        phoneme_with_padding = ' ' * left_padding + phoneme + ' ' * right_padding
+        phonemes_parts.append(phoneme_with_padding)
+    
+    phonemes_line = ''.join(phonemes_parts)
+    
+    # Line 2: Pipes (middle line) - one pipe per letter group, centered
+    pipes_parts = []
+    for i, column_width in enumerate(column_widths):
+        if i > 0:
+            pipes_parts.append(' ')  # 1 space between pipes
+        
+        # Center the pipe in its allocated space
+        pipe_position = column_width // 2
+        pipe_with_padding = ' ' * pipe_position + '|' + ' ' * (column_width - pipe_position - 1)
+        pipes_parts.append(pipe_with_padding)
+    
+    pipes_line = ''.join(pipes_parts)
+    
+    # Line 1: Letters (top line) - shift letters to align with pipes
+    letters_parts = []
+    for i, (letter_group, column_width) in enumerate(zip(letter_groups, column_widths)):
+        if i > 0:
+            letters_parts.append(' ')  # 1 space between letter groups
+        
+        # Center letter group in its allocated space
+        padding = column_width - len(letter_group)
+        left_padding = padding // 2
+        right_padding = padding - left_padding
+        
+        letters_with_padding = ' ' * left_padding + letter_group + ' ' * right_padding
+        letters_parts.append(letters_with_padding)
+    
+    letters_line = ''.join(letters_parts)
+    
+    return letters_line, pipes_line, phonemes_line
 
 
 def align_word_letters_and_phonemes(letter_groups, phonemes):
@@ -137,9 +204,9 @@ def align_word_letters_and_phonemes(letter_groups, phonemes):
     return letters_line, phonemes_line
 
 
-def format_segment_output(letters_line, phonemes_line):
+def format_segment_output(letters_line, pipes_line, phonemes_line):
     """Format the output for a single segment."""
-    return "{}\n{}".format(letters_line, phonemes_line)
+    return "{}\n{}\n{}".format(letters_line, pipes_line, phonemes_line)
 
 
 def main():
@@ -166,12 +233,12 @@ def main():
         if not text or not ipa_segments:
             continue
         
-        letters_line, phonemes_line = build_aligned_lines(text, ipa_segments)
+        letters_line, pipes_line, phonemes_line = build_aligned_lines(text, ipa_segments)
         
         if not first_segment:
             print()  # Empty line between segments for better readability
         
-        output = format_segment_output(letters_line, phonemes_line)
+        output = format_segment_output(letters_line, pipes_line, phonemes_line)
         print(output)
         
         first_segment = False
