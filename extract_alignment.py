@@ -4,10 +4,125 @@ Letter-Phoneme Alignment Extractor
 
 Extracts and displays letter-phoneme correspondence from WhisperX aligned output JSON files.
 Shows three lines per segment: letters, pipes, and phonemes, with perfect vertical alignment.
+Supports configurable line length limits with word boundary wrapping.
 """
 
 import json
 import sys
+import argparse
+
+
+def get_default_config():
+    """Get default configuration for line wrapping."""
+    return {
+        'max_line_length': 200,
+        'prefer_word_boundaries': True,
+        'min_wrap_length': 50,  # Don't wrap very short lines
+        'no_wrap': False
+    }
+
+
+def parse_command_line_args():
+    """Parse command line arguments including line length option."""
+    parser = argparse.ArgumentParser(
+        description='Extract letter-phoneme alignment from WhisperX JSON output'
+    )
+    parser.add_argument('json_file', help='Path to JSON file')
+    parser.add_argument(
+        '--max-length', 
+        type=int, 
+        default=200,
+        help='Maximum line length before wrapping (default: 200)'
+    )
+    parser.add_argument(
+        '--no-wrap',
+        action='store_true',
+        help='Disable line wrapping entirely'
+    )
+    
+    return parser.parse_args()
+
+
+def find_word_boundary_breaks(line, max_length, config):
+    """
+    Find optimal break points at word boundaries.
+    Prioritizes natural word breaks over character limits.
+    """
+    if len(line) <= max_length:
+        return []  # No wrapping needed
+    
+    break_points = []
+    current_pos = 0
+    
+    while current_pos + max_length < len(line):
+        # Search for word boundary within reasonable range
+        search_start = max(current_pos + max_length - 20, current_pos)
+        search_end = current_pos + max_length
+        
+        # Find the last space before the limit
+        break_pos = line.rfind(' ', search_start, search_end)
+        
+        if break_pos == -1:
+            # No word boundary found, look further back
+            search_start = max(current_pos + max_length // 2, current_pos)
+            break_pos = line.rfind(' ', search_start, search_end)
+        
+        if break_pos == -1:
+            # Still no space found, force break at max_length as last resort
+            break_pos = current_pos + max_length
+        
+        break_points.append(break_pos)
+        current_pos = break_pos + 1  # Skip the space
+    
+    return break_points
+
+
+def wrap_three_lines_synchronized(letters_line, pipes_line, phonemes_line, config):
+    """
+    Wrap all three lines at the same positions to maintain alignment.
+    Returns list of (letters, pipes, phonemes) tuples.
+    """
+    # Use letters line as reference for break points
+    break_points = find_word_boundary_breaks(letters_line, config['max_line_length'], config)
+    
+    if not break_points:
+        return [(letters_line, pipes_line, phonemes_line)]  # No wrapping needed
+    
+    wrapped_segments = []
+    start_pos = 0
+    
+    # Add all break points plus the end of the line
+    all_breaks = break_points + [len(letters_line)]
+    
+    for break_pos in all_breaks:
+        # Extract segments, ensuring we don't go out of bounds
+        end_pos = min(break_pos, len(letters_line))
+        
+        letters_segment = letters_line[start_pos:end_pos].rstrip()
+        pipes_segment = pipes_line[start_pos:end_pos].rstrip()
+        phonemes_segment = phonemes_line[start_pos:end_pos].rstrip()
+        
+        wrapped_segments.append((letters_segment, pipes_segment, phonemes_segment))
+        start_pos = end_pos + 1  # Skip the space
+    
+    return wrapped_segments
+
+
+def format_wrapped_segment_output(wrapped_segments):
+    """
+    Format wrapped segments with proper spacing and separation.
+    """
+    output_lines = []
+    
+    for i, (letters, pipes, phonemes) in enumerate(wrapped_segments):
+        if i > 0:
+            output_lines.append('')  # Empty line between wrapped parts
+        
+        output_lines.append(letters)
+        output_lines.append(pipes)
+        output_lines.append(phonemes)
+    
+    return '\n'.join(output_lines)
 
 
 def load_json_file(file_path):
@@ -30,14 +145,15 @@ def extract_segment_data(segment):
     return text, ipa_segments
 
 
-def build_aligned_lines(text, ipa_segments):
+def build_aligned_lines(text, ipa_segments, config):
     """
     Build three-line display with letters, pipes, and phonemes.
     Letters may be shifted to ensure vertical alignment with pipes.
-    Returns: (letters_line, pipes_line, phonemes_line)
+    Supports configurable line length limits with word boundary wrapping.
+    Returns: list of (letters_line, pipes_line, phonemes_line) tuples
     """
     if not ipa_segments:
-        return text, "", ""
+        return [(text, "", "")]
     
     # Split original text into words to preserve word boundaries
     words = text.split()
@@ -101,7 +217,11 @@ def build_aligned_lines(text, ipa_segments):
     pipes_line = '    '.join(pipes_words)
     phonemes_line = '    '.join(phonemes_words)
     
-    return letters_line, pipes_line, phonemes_line
+    # Apply line wrapping if needed
+    if config['no_wrap']:
+        return [(letters_line, pipes_line, phonemes_line)]
+    else:
+        return wrap_three_lines_synchronized(letters_line, pipes_line, phonemes_line, config)
 
 
 def build_word_three_lines(letter_groups, phonemes):
@@ -204,20 +324,28 @@ def align_word_letters_and_phonemes(letter_groups, phonemes):
     return letters_line, phonemes_line
 
 
-def format_segment_output(letters_line, pipes_line, phonemes_line):
-    """Format the output for a single segment."""
-    return "{}\n{}\n{}".format(letters_line, pipes_line, phonemes_line)
+def format_segment_output(wrapped_segments):
+    """Format the output for a single segment (may be wrapped)."""
+    if len(wrapped_segments) == 1:
+        # Single segment, no wrapping needed
+        letters, pipes, phonemes = wrapped_segments[0]
+        return "{}\n{}\n{}".format(letters, pipes, phonemes)
+    else:
+        # Multiple wrapped segments
+        return format_wrapped_segment_output(wrapped_segments)
 
 
 def main():
     """Main function with CLI argument parsing."""
-    if len(sys.argv) != 2:
-        print("Usage: python extract_alignment.py <json_file>", file=sys.stderr)
-        print("Extracts letter-phoneme alignment from WhisperX JSON output", file=sys.stderr)
-        sys.exit(1)
+    args = parse_command_line_args()
     
-    file_path = sys.argv[1]
-    data = load_json_file(file_path)
+    # Build configuration
+    config = get_default_config()
+    config['max_line_length'] = args.max_length
+    config['no_wrap'] = args.no_wrap
+    
+    # Load and validate JSON file
+    data = load_json_file(args.json_file)
     
     # Check if this is the expected format
     segments = data.get('segments', [])
@@ -233,12 +361,12 @@ def main():
         if not text or not ipa_segments:
             continue
         
-        letters_line, pipes_line, phonemes_line = build_aligned_lines(text, ipa_segments)
+        wrapped_segments = build_aligned_lines(text, ipa_segments, config)
         
         if not first_segment:
             print()  # Empty line between segments for better readability
         
-        output = format_segment_output(letters_line, pipes_line, phonemes_line)
+        output = format_segment_output(wrapped_segments)
         print(output)
         
         first_segment = False
