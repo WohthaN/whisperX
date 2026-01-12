@@ -1,502 +1,1529 @@
 {
-  "intorbare": ["i n t o r b a r e"],
-  "intorno": ["i n t o r n o"],
-  "intorpidato": ["i n t o r p i d a t o"],
-  "intorpidire": ["i n t o r p i d i r e"],
-  "intorpidirsi": ["i n t o r p i d i r s i"],
-  "intorpidito": ["i n t o r p i d i t o"],
-  "intossicamenti": ["i n t o sː i k a m e n t i"],
-  "intossicamento": ["i n t o sː i k a m e n t o"],
-  "intossicante": ["i n t o sː i k a n t e"],
-  "intossicanti": ["i n t o sː i k a n t i"],
-  "intossicare": ["i n t o sː i k a r e"],
-  "intossicato": ["i n t o sː i k a t o"],
-  "intossicazione": ["i n t o sː i k a tː s j o n e"],
-  "intossicazioni": ["i n t o sː i k a tː s j o n e"],
-  "intracardiaco": ["i n t r a k a r d i a k o"],
-  "intracellulare": ["i n t r a t ʃ e lː u l a r e"],
-  "intracellulari": ["i n t r a t ʃ e lː u l a r i"],
-  "intradossi": ["i n t r a d ɔ sː i"],
-  "intradosso": ["i n t r a d ɔ sː o"],
-  "intraducibile": ["i n t r a d u t ʃ i b i l e"],
-  "intraducibili": ["i n t r a d u t ʃ i b i l i"],
-  "intralasciare": ["i n t r a l a ʃ ʃ a r e"],
-  "intralciare": ["i n t r a l t ʃ a r e"],
-  "intralciato": ["i n t r a l t ʃ a t o"],
-  "intralcio": ["i n t r a l t ʃ o"],
-  "intrallazzare": ["i n t r a lː a tː s a r e"],
-  "intrallazzato": ["i n t r a lː a tː s a t o"],
-  "intrallazzatore": ["i n t r a lː a tː s a t o r e"],
-  "intrallazzo": ["i n t r a lː a tː s o"],
-  "intramoenia": ["i n t r a m ɛ n j a"],
-  "intramontabile": ["i n t r a m o n t a b i l e"],
-  "intransigente": ["i n t r a n s i d ʒ ɛ n t e"],
-  "intransigentemente": ["i n t r a n s i d ʒ e n t e m e n t e"],
-  "intransigenti": ["i n t r a n s i d ʒ ɛ n t i"],
-  "intransigentissima": ["i n t r a n s i d ʒ ɛ n t i sː i m a"],
-  "intransigentissime": ["i n t r a n s i d ʒ ɛ n t i sː i m e"],
-  "intransigentissimi": ["i n t r a n s i d ʒ ɛ n t i sː i m i"],
-  "intransigentissimo": ["i n t r a n s i d ʒ ɛ n t i sː i m o"],
-  "intransigenza": ["i n t r a n s i d ʒ ɛ n t s a"],
-  "intransitabile": ["i n t r a n s i t a b i l e"],
-  "intransitivo": ["i n t r a n s i t i v o"],
-  "intrappolamento": ["i n t r a pː o l a m e n t o"],
-  "intrappolante": ["i n t r a pː o l a n t e"],
-  "intrappolare": ["i n t r a pː o l a r e"],
-  "intrappolato": ["i n t r a pː o l a t o"],
-  "intraprendente": ["i n t r a p r e n d ɛ n t e"],
-  "intraprendenti": ["i n t r a p r e n d ɛ n t i"],
-  "intraprendenza": ["i n t r a p r e n d e n t s a"],
-  "intraprendenze": ["i n t r a p r e n d e n t s e"],
-  "intraprendere": ["i n t r a p r ɛ n d e r e"],
-  "intrare": ["i n t r a r e"],
-  "intrasferibile": ["i n t r a s f e r i b i l e"],
-  "intrasferibili": ["i n t r a s f e r i b i l i"],
-  "intraspecifico": ["i n t r a s p e t ʃ i f i k o"],
-  "intrasportabile": ["i n t r a s p o r t a b i l e"],
-  "intrasportabili": ["i n t r a s p o r t a b i l i"],
-  "intrata": ["i n t r a t a"],
-  "intrattabile": ["i n t r a tː a b i l e"],
-  "intrattenere": ["i n t r a tː e n e r e"],
-  "intrattenimenti": ["i n t r a tː e n i m e n t i"],
-  "intrattenimento": ["i n t r a tː e n i m e n t o"],
-  "intravascolare": ["i n t r a v a s k o l a r e"],
-  "intravascolari": ["i n t r a v a s k o l a r i"],
-  "intravedente": ["i n t r a v e d e n t e"],
-  "intravedere": ["i n t r a v e d e r e"],
-  "intravisto": ["i n t r a v i s t o"],
-  "intrecciare": ["i n t r e tː ʃ a r e"],
-  "intrecciato": ["i n t r e tː ʃ a t o"],
-  "intreccio": ["i n t r e tː ʃ o"],
-  "intrepido": ["i n t r ɛ p i d o"],
-  "intricato": ["i n t r i k a t o"],
-  "intrico": ["i n t r i k o"],
-  "intridere": ["i n t r i d e r e"],
-  "intrigante": ["i n t r i ɡ a n t e"],
-  "intriganti": ["i n t r i ɡ a n t i"],
-  "intrighi": ["i n t r i ɡ i"],
-  "intrigo": ["i n t r i ɡ o"],
-  "intrinsecare": ["i n t r i n s e k a r e"],
-  "intrinseco": ["i n t r i n s e k o"],
-  "intriso": ["i n t r i z o"],
-  "intristimenti": ["i n t r i s t i m e n t i"],
-  "intristimento": ["i n t r i s t i m e n t o"],
-  "intristito": ["i n t r i s t i t o"],
-  "introdotta": ["i n r t r o d o tː a"],
-  "introdotte": ["i n r t r o d o tː e"],
-  "introdotti": ["i n r t r o d o tː i"],
-  "introdotto": ["i n r t r o d o tː o", "i n t r o d o tː o"],
-  "introduca": ["i n r t r o d u k a"],
-  "introducano": ["i n r t r o d u k a n o"],
-  "introduce": ["i n r t r o d u t ʃ e"],
-  "introducemmo": ["i n r t r o d u t ʃ e mː o"],
-  "introducendo": ["i n r t r o d u t ʃ e n d o", "i n t r o d u t ʃ ɛ n d o"],
-  "introducente": ["i n r t r o d u t ʃ e n t e"],
-  "introducesse": ["i n r t r o d u t ʃ e sː e"],
-  "introducessero": ["i n r t r o d u t ʃ e sː e r o"],
-  "introducessi": ["i n r t r o d u t ʃ e sː i"],
-  "introducessimo": ["i n r t r o d u t ʃ e sː i m o"],
-  "introduceste": ["i n r t r o d u t ʃ e s t e"],
-  "introducesti": ["i n r t r o d u t ʃ e s t i"],
-  "introducete": ["i n r t r o d u t ʃ e t e"],
-  "introduceva": ["i n r t r o d u t ʃ e v a", "i n t r o d u t ʃ e v a"],
-  "introducevamo": ["i n r t r o d u t ʃ e v a m o"],
-  "introducevano": ["i n r t r o d u t ʃ e v a n o"],
-  "introducevate": ["i n r t r o d u t ʃ e v a t e"],
-  "introducevi": ["i n r t r o d u t ʃ e v i"],
-  "introducevo": ["i n r t r o d u t ʃ e v o"],
-  "introduci": ["i n r t r o d u t ʃ i"],
-  "introduciamo": ["i n r t r o d u t ʃ a m o"],
-  "introduciate": ["i n r t r o d u t ʃ a t e"],
-  "introduco": ["i n r t r o d u k o"],
-  "introducono": ["i n r t r o d u k o n o"],
-  "introdurrà": ["i n r t r o d u r a"],
-  "introdurrai": ["i n r t r o d u rː a i"],
-  "introdurranno": ["i n r t r o d u rː a nː o"],
-  "introdurre": ["i n t r o d u rː e"],
-  "introdurrebbe": ["i n r t r o d u rː e bː e"],
-  "introdurrebbero": ["i n r t r o d u rː e bː e r o"],
-  "introdurrei": ["i n r t r o d u rː e i"],
-  "introdurremmo": ["i n r t r o d u rː e mː o"],
-  "introdurremo": ["i n r t r o d u rː e m o"],
-  "introdurreste": ["i n r t r o d u rː e s t e"],
-  "introdurresti": ["i n r t r o d u rː e s t i"],
-  "introdurrete": ["i n r t r o d u rː e t e"],
-  "introdurrò": ["i n r t r o d u rː o"],
-  "introdursi": ["i n t r o d u r s i"],
-  "introdusse": ["i n r t r o d u sː e"],
-  "introdussero": ["i n r t r o d u sː e r o"],
-  "introdussi": ["i n r t r o d u sː i"],
-  "introduttivo": ["i n t r o d u tː i v o"],
-  "introduzione": ["i n t r o d u t s j o n e", "i n t r o d u tː s j o n e"],
-  "introflessione": ["i n t r o f l e sː j o n e"],
-  "introgressione": ["i n t r o ɡ r e sː j o n e"],
-  "introgressivo": ["i n t r o ɡ r e sː i v o"],
-  "introiettare": ["i n t r o j e tː a r e"],
-  "introiettato": ["i n t r o j e tː a t o"],
-  "introiezione": ["i n t r o j e tː s j o n e"],
-  "introitare": ["i n t r o j t a r e"],
-  "introiti": ["i n t r ɔ j t i"],
-  "introito": ["i n t r ɔ j t o"],
-  "intromissione": ["i n t r o m i sː j o n e"],
-  "intronato": ["i n t r o n a t o"],
-  "intronizzazione": ["i n t r o n i z z a z i o n i"],
-  "introspettivamente": ["i n t r o s p e tː i v a m e n t e"],
-  "introspettivo": ["i n t r o s p e tː i v o"],
-  "introspezione": ["i n t r o s p e t s j o n e", "i n t r o s p e tː s j o n e"],
-  "introspezioni": ["i n t r o s p e t s j o n i"],
-  "introvabile": ["i n t r o v a b i l e"],
-  "introvabili": ["i n t r o v a b i l i"],
-  "introversione": ["i n t r o v e r s j o n e"],
-  "introverso": ["i n t r o v ɛ r s o"],
-  "intrudere": ["i n t r u d e r e"],
-  "intrufolare": ["i n t r u f o l a r e"],
-  "intrufolarsi": ["i n t r u f o l a r s i"],
-  "intrugliare": ["i n t r u ʎ a r e"],
-  "intruglio": ["i n t r u ʎ o"],
-  "intruppato": ["i n t r u pː a t o"],
-  "intrusa": ["i n t r u z a"],
-  "intrusione": ["i n t r u z j o n e"],
-  "intruso": ["i n t r u z o"],
-  "intuarsi": ["i n t u a r s i"],
-  "intubato": ["i n t u b a t o"],
-  "intubazione": ["i n t u b a tː s j o n e"],
-  "intubettare": ["i n t u b e tː a r e"],
-  "intuire": ["i n t u i r e"],
-  "intuitivamente": ["i n t u i t i v a m e n t e", "i n t w i t i v a m e n t e"],
-  "intuitivo": ["i n t u i t i v o"],
-  "intuito": ["i n t u i t o", "i n t u j t o", "i n t w i t o"],
-  "intuizione": ["i n t u i tː s j o n e"],
-  "intuizioni": ["i n t u i tː s j o n i"],
-  "intuizionismo": ["i n t u i tː s j o n i z m o"],
-  "intuizionista": ["i n t u i tː s j o n i s t a"],
-  "intuizionistico": ["i n t u i tː s j o n i s t i k o"],
-  "inudibile": ["i n u d i b i l e"],
-  "inudibili": ["i n u d i b i l i"],
-  "inulto": ["i n u l t o"],
-  "inumanità": ["i n u m a n i t a"],
-  "inumano": ["i n u m a n o"],
-  "inumare": ["i n u m a r e"],
-  "inumidire": ["i n u m i d i r e"],
-  "inurbano": ["i n u r b a n o"],
-  "inusitatamente": ["i n u z i t a t a m e n t e"],
-  "inusitato": ["i n u z i t a t o"],
-  "inusto": ["i n u s t o"],
-  "inusuale": ["i n u z u a l e"],
-  "inutile": ["i n u t i l e"],
-  "inutili": ["i n u t i l i"],
-  "inutilità": ["i n u t i l i t a"],
-  "inutilizzabile": ["i n u t i l i dː z a b i l e"],
-  "inutilizzabili": ["i n u t i l i dː z a b i l i"],
-  "inutilmente": ["i n u t i l m e n t e"],
-  "invadente": ["i n v a d ɛ n t e"],
-  "invadere": ["i n v a d e r e"],
-  "invaghito": ["i n v a ɡ i t o"],
-  "invaiare": ["i n v a j a r e"],
-  "invaiatura": ["i n v a j a t u r a"],
-  "invalere": ["i n v a l e r e"],
-  "invalicabile": ["i n v a l i k a b i l e"],
-  "invalicabili": ["i n v a l i k a b i l i"],
-  "invalidabile": ["i n v a l i d a b i l e"],
-  "invalidabili": ["i n v a l i d a b i l i"],
-  "invalidamente": ["i n v a l i d a m e n t e"],
-  "invalidante": ["i n v a l i d a n t e"],
-  "invalidanti": ["i n v a l i d a n t i"],
-  "invalidare": ["i n v a l i d a r e"],
-  "invalidarsi": ["i n v a l i d a r s i"],
-  "invalidato": ["i n v a l i d a t o"],
-  "invalide": ["i n v a l i d e"],
-  "invalidità": ["i n v a l i d i t a"],
-  "invalido": ["i n v a l i d o"],
-  "invalsa": ["i n v a l s a"],
-  "invalse": ["i n v a l s e"],
-  "invalsi": ["i n v a l s i"],
-  "invalso": ["i n v a l s o"],
-  "invano": ["i n v a n o", "i n v a n ɔ"],
-  "invariabile": ["i n v a r j a b i l e"],
-  "invariabili": ["i n v a r j a b i l e"],
-  "invariabilità": ["i n v a r j a b i l i t a"],
-  "invariabilmente": ["i n v a r j a b i l m e n t e"],
-  "invariante": ["i n v a r j a n t e"],
-  "invarianti": ["i n v a r j a n t i"],
-  "invarianza": ["i n v a r j a n t s a"],
-  "invariato": ["i n v a r j a t o"],
-  "invasare": ["i n v a z a r e"],
-  "invasatura": ["i n v a z a t u r a"],
-  "invasione": ["i n v a z j o n e"],
-  "invasioni": ["i n v a z j o n i"],
-  "invasivo": ["i n v a z i v o"],
-  "invaso": ["i n v a z o"],
-  "invasore": ["i n v a z o r e"],
-  "invecchiamenti": ["i n v e kː j a m e n t i"],
-  "invecchiamento": ["i n v e kː j a m e n t o"],
-  "invecchiare": ["i n v e kː j a r e"],
-  "invecchiarsi": ["i n v e kː j a r s i"],
-  "invecchiata": ["i n v e kː j a t a"],
-  "invecchiate": ["i n v e kː j a t e"],
-  "invecchiati": ["i n v e kː j a t i"],
-  "invecchiato": ["i n v e kː j a t o"],
-  "invece": ["i n v e t ʃ e"],
-  "inveggia": ["i n v e dː ʒ a"],
-  "inveggiare": ["i n v e dː ʒ a r e"],
-  "invegliare": ["i n v e ʎ a r e"],
-  "invela": ["i n v e l a"],
-  "invelano": ["i n v e l a n o"],
-  "invelare": ["i n v e l a r e"],
-  "invelenire": ["i n v e l e n i r e"],
-  "invelenirsi": ["i n v e l e n i r s i"],
-  "invendibile": ["i n v e n d i b i l e"],
-  "invendibili": ["i n v e n d i b i l i"],
-  "invendicabile": ["i n v e n d i k a b i l e"],
-  "inventando": ["i n v ɛ n t a n d o"],
-  "inventante": ["i n v ɛ n t a n t e"],
-  "inventare": ["i m v e n t a r e", "i n v e n t a r e"],
-  "inventario": ["i n v e n t a r j o"],
-  "inventata": ["i n v e n t a t a"],
-  "inventate": ["i n v e n t a t e"],
-  "inventati": ["i n v e n t a t i"],
-  "inventato": ["i n v e n t a t o"],
-  "inventione": ["i n v e n t s j o n e"],
-  "inventioni": ["i n v e n t s i o n i"],
-  "inventiva": ["i n v e n t i v a"],
-  "inventore": ["i n v e n t o r e"],
-  "inventori": ["i n v e n t o r i"],
-  "inventrice": ["i n v e n t r i t ʃ e"],
-  "inventrici": ["i n v e n t r i t ʃ i"],
-  "invenzione": ["i n v e n t s j o n e"],
-  "invenzioni": ["i n v e n t s j o n i"],
-  "inverare": ["i n v e r a r e"],
-  "invereconda": ["i n v e r e k o n d a"],
-  "invereconde": ["i n v e r e k o n d e"],
-  "inverecondi": ["i n v e r e k o n d i"],
-  "inverecondo": ["i n v e r e k o n d o"],
-  "inverificabile": ["i n v e r i f i k a b i l e"],
-  "inverificabili": ["i n v e r i f i k a b i l i"],
-  "inverificata": ["i n v e r i f i k a t a"],
-  "inverificate": ["i n v e r i f i k a t e"],
-  "inverificati": ["i n v e r i f i k a t i"],
-  "inverificato": ["i n v e r i f i k a t o"],
-  "invernale": ["i n v e r n a l e"],
-  "inverni": ["i n v ɛ r n i"],
-  "inverno": ["i n v ɛ r n o"],
-  "inverosimiglianza": ["i n v e r o s i m i ʎ a n t s a"],
-  "inverosimile": ["i n v e r o s i m i l e"],
-  "inversamente": ["i n v e r s a m e n t e"],
-  "inversione": ["i n v e r s j o n e"],
-  "inverso": ["i n v ɛ r s o"],
-  "invertebrati": ["i n v e r t e b r a t i"],
-  "invertebrato": ["i n v e r t e b r a t o"],
-  "invertente": ["i n v e r t e n t e"],
-  "inverter": ["i n v e r t e r"],
-  "invertibile": ["i n v e r t i b i l e"],
-  "invertibili": ["i n v e r t i b i l i"],
-  "invertire": ["i n v e r t i r e"],
-  "invertito": ["i n v e r t i t o"],
-  "investigare": ["i n v e s t i ɡ a r e"],
-  "investigata": ["i n v e s t i ɡ a t a"],
-  "investigate": ["i n v e s t i ɡ a t e"],
-  "investigati": ["i n v e s t i ɡ a t i"],
-  "investigativo": ["i n v e s t i ɡ a t i v o"],
-  "investigato": ["i n v e s t i ɡ a t o"],
-  "investigatore": ["i n v e s t i ɡ a t o r e"],
-  "investigatrice": ["i n v e s t i ɡ a t r i t ʃ e"],
-  "investigazione": ["i n v e s t i ɡ a t s j o n e"],
-  "investigazioni": ["i n v e s t i ɡ a t s j o n i"],
-  "investimenti": ["i n v e s t i m e n t i"],
-  "investimento": ["i n v e s t i m e n t o"],
-  "investire": ["i n v e s t i r e", "i n v ɛ s t i r e"],
-  "investito": ["i n v e s t i t o"],
-  "investitore": ["i n v e s t i t o r e"],
-  "investitori": ["i n v e s t i t o r i"],
-  "investitrice": ["i n v e s t i t r i t ʃ e"],
-  "investitrici": ["i n v e s t i t r i t ʃ i"],
-  "investitura": ["i n v e s t i t u r a"],
-  "investiture": ["i n v e s t i t u r e"],
-  "inveterare": ["i n v e t e r a r e"],
-  "inveterata": ["i n v e t e r a t a"],
-  "inveterate": ["i n v e t e r a t e"],
-  "inveterati": ["i n v e t e r a t i"],
-  "inveterato": ["i n v e t e r a t o"],
-  "invettiva": ["i n v e tː i v a"],
-  "inviabile": ["i n v i a b i l e"],
-  "inviabili": ["i n v i a b i l i"],
-  "inviare": ["i n v i a r e"],
-  "inviato": ["i n v i a t o"],
-  "invidi": ["i n v i d i"],
-  "invidia": ["i n v i d j a"],
-  "invidiabile": ["i n v i d i a b i l e", "i n v i d j a b i l e"],
-  "invidiabili": ["i n v i d i a b i l i"],
-  "invidiare": ["i n v i d j a r e"],
-  "invidie": ["i n v i d j e"],
-  "invidioso": ["i n v i d j o z o"],
-  "invigilare": ["i n v i d ʒ i l a r e"],
-  "invincibile": ["i n v i n t ʃ i b i l e"],
-  "invincibili": ["i n v i n t ʃ i b i l i"],
-  "invincibilità": ["i n v i n t ʃ i b i l i t a"],
-  "invio": ["i n v i o"],
-  "inviolabile": ["i n v i o l a b i l e"],
-  "inviolabili": ["i n v i o l a b i l i"],
-  "inviolabilità": ["i n v i o l a b i l i t a"],
-  "inviolabilmente": ["i n v i o l a b i l m e n t e"],
-  "inviolata": ["i n v i o l a t a"],
-  "inviolate": ["i n v i o l a t e"],
-  "inviolati": ["i n v i o l a t i"],
-  "inviolato": ["i n v i o l a t o"],
-  "invisa": ["i n v i z a"],
-  "invisamente": ["i n v i z a m e n t e"],
-  "invischiato": ["i n v i s k j a t o"],
-  "invise": ["i n v i z e"],
-  "invisi": ["i n v i z i"],
-  "invisibile": ["i n v i z i b i l e", "n v i z i b i l e"],
-  "invisibili": ["i n v i z i b i l i"],
-  "invisibilità": ["i n v i z i b i l i t a"],
-  "invisibilmente": ["i n v i z i b i l m e n t e"],
-  "inviso": ["i n v i z o"],
-  "invitando": ["i n v i t a n d o"],
-  "invitante": ["i n v i t a n t e"],
-  "invitanti": ["i n v i t a n t i"],
-  "invitare": ["i n v i t a r e"],
-  "invitarsi": ["i n v i t a r s i"],
-  "invitata": ["i n v i t a t a"],
-  "invitato": ["i n v i t a t o"],
-  "inviti": ["i n v i t i"],
-  "invito": ["i n v i t o", "i n v i t ɔ"],
-  "invitto": ["i n v i tː o"],
-  "invivibile": ["i n v i v i b i l e"],
-  "invivibili": ["i n v i v i b i l i"],
-  "invivibilità": ["i n v i v i b i l i t a"],
-  "invocabile": ["i n v o k a b i l e"],
-  "invocabili": ["i n v o k a b i l i"],
-  "invocare": ["i n v o k a r e"],
-  "invocativo": ["i n v o k a t i v o"],
-  "invocato": ["i n v o k a t o"],
-  "invocazione": ["i n v o k a tː s j o n e"],
-  "invocazioni": ["i n v o k a tː s j o n i"],
-  "invogliare": ["i n v o ʎ a r e", "i n v ɔ ʎ a r e"],
-  "invogliato": ["i n v o ʎ a t o"],
-  "involgente": ["i n v ɔ l d ʒ e n t e"],
-  "involgere": ["i n v ɔ l d ʒ e r e"],
-  "involgersi": ["i n v ɔ l d ʒ e r s i"],
-  "involontari": ["i n v o l o n t a r i"],
-  "involontaria": ["i n v o l o n t a r j a"],
-  "involontariamente": ["i n v o l o n t a r i a m e n t e", "i n v o l o n t a r j a m e n t e"],
-  "involontarie": ["i n v o l o n t a r j e"],
-  "involontario": ["i n v o l o n t a r i o", "i n v o l o n t a r j o"],
-  "involto": ["i n v ɔ l t o"],
-  "involucro": ["i n v ɔ l u k r o"],
-  "involuto": ["i n v o l u t o"],
-  "involuzione": ["i n v o l u tː s j o n e"],
-  "involvere": ["i n v ɔ l v e r e"],
-  "invulnerabile": ["i n v u l n e r a b i l e"],
-  "invulnerabili": ["i n v u l n e r a b i l i"],
-  "invulnerabilità": ["i n v u l n e r a b i l i t a"],
-  "inzaccherare": ["i n d z a kː e r a r e", "i n t s a kː e r a r e"],
-  "inzaccherarsi": ["i n d z a kː e r a r s i", "i n t s a kː e r a r s i"],
-  "inzaccherato": ["i n d z a kː e r a t o", "i n t s a kː e r a t o"],
-  "inzeppante": ["i n t s e pː a n t e"],
-  "inzeppato": ["i n t s e pː a t o"],
-  "inzufolare": ["i n d z u f o l a r e"],
-  "inzuppante": ["i n t s u pː a n t e"],
-  "inzuppare": ["i n t s u pː a r e"],
-  "inzuppato": ["i n t s u pː a t o"],
-  "io": ["i o", "i ɔ"],
-  "iod": ["j ɔ d"],
-  "iodare": ["j o d a r e"],
-  "iodica": ["i ɔ d i k a"],
-  "iodiche": ["i ɔ d i k e"],
-  "iodici": ["i ɔ d i t ʃ i"],
-  "iodico": ["i ɔ d i k o", "j ɔ d i k o"],
-  "iodio": ["j ɔ d j o"],
-  "iodoanilina": ["j ɔ d o a n i l i n a"],
-  "iododialogenuro": ["j ɔ d o d i a l o d ʒ e n u r o"],
-  "iodoformio": ["j ɔ d o f ɔ r m j o"],
-  "iodoforo": ["j o d ɔ f o r o"],
-  "iogurt": ["j ɔ ɡ u r t"],
-  "ioide": ["i ɔ j d e"],
-  "iolanda": ["j o l a n d a"],
-  "iolla": ["j ɔ lː a"],
-  "ione": ["j o n e"],
-  "ioni": ["j o n i"],
-  "ionica": ["j ɔ n i k a"],
-  "ionicamente": ["j o n i k a m e n t e"],
-  "ioniche": ["j ɔ n i k e"],
-  "ionici": ["j ɔ n i t ʃ i"],
-  "ionico": ["j ɔ n i k o"],
-  "ionizzabile": ["j o n i dː z a b i l e"],
-  "ionizzabili": ["j o n i dː z a b i l i"],
-  "ionizzante": ["j ɔ n i dː z a n t e"],
-  "ionizzanti": ["j ɔ n i dː z a n t i"],
-  "ionizzare": ["j o n i dː z a r e", "j ɔ n i dː z a r e"],
-  "ionizzato": ["j o n i dː z a t o", "j ɔ n i dː z a t o"],
-  "ionosfera": ["j o n e s f ɛ r a", "j o n o s f ɛ r a"],
-  "ionosfere": ["j o n e s f ɛ r e"],
-  "ionosferica": ["j o n e s f ɛ r i k a"],
-  "ionosferiche": ["j o n e s f ɛ r i k e"],
-  "ionosferici": ["j o n e s f ɛ r i t ʃ i"],
-  "ionosferico": ["j o n e s f ɛ r i k o"],
-  "iota": ["j ɔ t a"],
-  "iowa": ["a j o w a"],
-  "ipacusica": ["i p a k u z i k a"],
-  "ipacusico": ["i p a k u z i k o"],
-  "ipanzio": ["i p a n t s j o"],
-  "iperacusico": ["i p e r a k u z i k o"],
-  "iperadrenalismo": ["i p e r a d r e n a l i z m o"],
-  "iperaldosteronismo": ["i p e r a l d o s t e r o n i z m o"],
-  "iperattiva": ["i p e r a tː i v a"],
-  "iperattive": ["i p e r a tː i v e"],
-  "iperattivi": ["i p e r a tː i v i"],
-  "iperattività": ["i p e r a tː i v i t a"],
-  "iperattivo": ["i p e r a tː i v o"],
-  "iperbole": ["i p ɛ r b o l e"],
-  "iperbolico": ["i p e r b ɔ l i k o"],
-  "ipercalorico": ["i p e r k a l ɔ r i k o"],
-  "ipercellulare": ["i p e r t ʃ e lː u l a r e"],
-  "ipercellulari": ["i p e r t ʃ e lː u l a r e"],
-  "ipercellularità": ["i p e r t ʃ e lː u l a r i t a"],
-  "iperciclica": ["i p e r t ʃ i k l i k a"],
-  "ipercicliche": ["i p e r t ʃ i k l i k e"],
-  "iperciclici": ["i p e r t ʃ i k l i t ʃ i"],
-  "iperciclico": ["i p e r t ʃ i k l i k o"],
-  "ipercifosi": ["i p e r t ʃ i f o z i"],
-  "ipercloremia": ["i p e r k l o r e m i a"],
-  "iperdosaggi": ["i p e r d o z a dː ʒ i"],
-  "iperdosaggio": ["i p e r d o z a dː ʒ o"],
-  "iperelastica": ["i p e r e l a s t i k a"],
-  "iperelastiche": ["i p e r e l a s t i k e"],
-  "iperelastici": ["i p e r e l a s t i t ʃ i"],
-  "iperelasticità": ["i p e r e l a s t i t ʃ i t a"],
-  "iperelastico": ["i p e r e l a s t i k o"],
-  "iperfagia": ["i p e r f a d ʒ i a"],
-  "iperfagica": ["i p e r f a d ʒ i k a", "i p e r f a d ʒ i t ʃ i"],
-  "iperfagiche": ["i p e r f a d ʒ i k e"],
-  "iperfagici": ["i p e r f a d ʒ i t ʃ i"],
-  "iperfagico": ["i p e r f a d ʒ i k o"],
-  "iperfagie": ["i p e r f a d ʒ i e"],
-  "iperfemminile": ["i p e r f e mː i n i l e"],
-  "iperfilosofia": ["i p e r f i l o z o f i a"],
-  "iperfilosofico": ["i p e r f i l o z ɔ f i k o"],
-  "iperforie": ["i p e r f ɔ r j e"],
-  "ipergigante": ["i p e r d ʒ i ɡ a n t e"],
-  "ipergiganti": ["i p e r d ʒ i ɡ a n t i"],
-  "iperglicemia": ["i p e r ɡ l i t ʃ e m i a"],
-  "iperglicemica": ["i p e r ɡ l i t ʃ ɛ m i k a"],
-  "iperglicemiche": ["i p e r ɡ l i t ʃ ɛ m i k e"],
-  "iperglicemici": ["i p e r ɡ l i t ʃ ɛ m i t ʃ i"],
-  "iperglicemico": ["i p e r ɡ l i t ʃ ɛ m i k o"],
-  "iperglicemie": ["i p e r ɡ l i t ʃ e m i e"],
-  "iperinflazione": ["i p e r i n f l a tː s j o n e"],
-  "iperinflazionista": ["i p e r i n f l a t s j o n i s t a"],
-  "iperinflazioniste": ["i p e r i n f l a t s j o n i s t e"],
-  "iperinflazionisti": ["i p e r i n f l a t s j o n i s t i"],
-  "iperinsulinismi": ["i p e r i n s u l i n i z m o"],
-  "iperinsulinismo": ["i p e r i n s u l i n i z m o"],
-  "iperinsulismi": ["i p e r i n s u l i z m i"],
-  "iperinsulismo": ["i p e r i n s u l i n i z m o", "i p e r i n s u l i z m o"],
-  "ipermedia": ["i p e r m ɛ d j a"],
-  "ipermercati": ["i p e r m e r k a t i"],
-  "ipermercato": ["i p e r m e r k a t o"],
-  "ipermetropia": ["i p e r m e t r o p i a"],
-  "ipermetropie": ["i p e r m e t r o p i e"],
-  "iperminiaturizzazione": ["i p e r m i n j a t u r i dː ʒ a t s j o n e"],
-  "iperminiaturizzazioni": ["i p e r m i n j a t u r i dː ʒ a t s j o n i"]
+  "intorbare": [
+    "intorbare"
+  ],
+  "intorno": [
+    "intorno"
+  ],
+  "intorpidato": [
+    "intorpidato"
+  ],
+  "intorpidire": [
+    "intorpidire"
+  ],
+  "intorpidirsi": [
+    "intorpidirsi"
+  ],
+  "intorpidito": [
+    "intorpidito"
+  ],
+  "intossicamenti": [
+    "intosːikamenti"
+  ],
+  "intossicamento": [
+    "intosːikamento"
+  ],
+  "intossicante": [
+    "intosːikante"
+  ],
+  "intossicanti": [
+    "intosːikanti"
+  ],
+  "intossicare": [
+    "intosːikare"
+  ],
+  "intossicato": [
+    "intosːikato"
+  ],
+  "intossicazione": [
+    "intosːikatːsjone"
+  ],
+  "intossicazioni": [
+    "intosːikatːsjone"
+  ],
+  "intracardiaco": [
+    "intrakardiako"
+  ],
+  "intracellulare": [
+    "intratʃelːulare"
+  ],
+  "intracellulari": [
+    "intratʃelːulari"
+  ],
+  "intradossi": [
+    "intradɔsːi"
+  ],
+  "intradosso": [
+    "intradɔsːo"
+  ],
+  "intraducibile": [
+    "intradutʃibile"
+  ],
+  "intraducibili": [
+    "intradutʃibili"
+  ],
+  "intralasciare": [
+    "intralaʃʃare"
+  ],
+  "intralciare": [
+    "intraltʃare"
+  ],
+  "intralciato": [
+    "intraltʃato"
+  ],
+  "intralcio": [
+    "intraltʃo"
+  ],
+  "intrallazzare": [
+    "intralːatːsare"
+  ],
+  "intrallazzato": [
+    "intralːatːsato"
+  ],
+  "intrallazzatore": [
+    "intralːatːsatore"
+  ],
+  "intrallazzo": [
+    "intralːatːso"
+  ],
+  "intramoenia": [
+    "intramɛnja"
+  ],
+  "intramontabile": [
+    "intramontabile"
+  ],
+  "intransigente": [
+    "intransidʒɛnte"
+  ],
+  "intransigentemente": [
+    "intransidʒentemente"
+  ],
+  "intransigenti": [
+    "intransidʒɛnti"
+  ],
+  "intransigentissima": [
+    "intransidʒɛntisːima"
+  ],
+  "intransigentissime": [
+    "intransidʒɛntisːime"
+  ],
+  "intransigentissimi": [
+    "intransidʒɛntisːimi"
+  ],
+  "intransigentissimo": [
+    "intransidʒɛntisːimo"
+  ],
+  "intransigenza": [
+    "intransidʒɛntsa"
+  ],
+  "intransitabile": [
+    "intransitabile"
+  ],
+  "intransitivo": [
+    "intransitivo"
+  ],
+  "intrappolamento": [
+    "intrapːolamento"
+  ],
+  "intrappolante": [
+    "intrapːolante"
+  ],
+  "intrappolare": [
+    "intrapːolare"
+  ],
+  "intrappolato": [
+    "intrapːolato"
+  ],
+  "intraprendente": [
+    "intraprendɛnte"
+  ],
+  "intraprendenti": [
+    "intraprendɛnti"
+  ],
+  "intraprendenza": [
+    "intraprendentsa"
+  ],
+  "intraprendenze": [
+    "intraprendentse"
+  ],
+  "intraprendere": [
+    "intraprɛndere"
+  ],
+  "intrare": [
+    "intrare"
+  ],
+  "intrasferibile": [
+    "intrasferibile"
+  ],
+  "intrasferibili": [
+    "intrasferibili"
+  ],
+  "intraspecifico": [
+    "intraspetʃifiko"
+  ],
+  "intrasportabile": [
+    "intrasportabile"
+  ],
+  "intrasportabili": [
+    "intrasportabili"
+  ],
+  "intrata": [
+    "intrata"
+  ],
+  "intrattabile": [
+    "intratːabile"
+  ],
+  "intrattenere": [
+    "intratːenere"
+  ],
+  "intrattenimenti": [
+    "intratːenimenti"
+  ],
+  "intrattenimento": [
+    "intratːenimento"
+  ],
+  "intravascolare": [
+    "intravaskolare"
+  ],
+  "intravascolari": [
+    "intravaskolari"
+  ],
+  "intravedente": [
+    "intravedente"
+  ],
+  "intravedere": [
+    "intravedere"
+  ],
+  "intravisto": [
+    "intravisto"
+  ],
+  "intrecciare": [
+    "intretːʃare"
+  ],
+  "intrecciato": [
+    "intretːʃato"
+  ],
+  "intreccio": [
+    "intretːʃo"
+  ],
+  "intrepido": [
+    "intrɛpido"
+  ],
+  "intricato": [
+    "intrikato"
+  ],
+  "intrico": [
+    "intriko"
+  ],
+  "intridere": [
+    "intridere"
+  ],
+  "intrigante": [
+    "intriɡante"
+  ],
+  "intriganti": [
+    "intriɡanti"
+  ],
+  "intrighi": [
+    "intriɡi"
+  ],
+  "intrigo": [
+    "intriɡo"
+  ],
+  "intrinsecare": [
+    "intrinsekare"
+  ],
+  "intrinseco": [
+    "intrinseko"
+  ],
+  "intriso": [
+    "intrizo"
+  ],
+  "intristimenti": [
+    "intristimenti"
+  ],
+  "intristimento": [
+    "intristimento"
+  ],
+  "intristito": [
+    "intristito"
+  ],
+  "introdotta": [
+    "inrtrodotːa"
+  ],
+  "introdotte": [
+    "inrtrodotːe"
+  ],
+  "introdotti": [
+    "inrtrodotːi"
+  ],
+  "introdotto": [
+    "inrtrodotːo",
+    "introdotːo"
+  ],
+  "introduca": [
+    "inrtroduka"
+  ],
+  "introducano": [
+    "inrtrodukano"
+  ],
+  "introduce": [
+    "inrtrodutʃe"
+  ],
+  "introducemmo": [
+    "inrtrodutʃemːo"
+  ],
+  "introducendo": [
+    "inrtrodutʃendo",
+    "introdutʃɛndo"
+  ],
+  "introducente": [
+    "inrtrodutʃente"
+  ],
+  "introducesse": [
+    "inrtrodutʃesːe"
+  ],
+  "introducessero": [
+    "inrtrodutʃesːero"
+  ],
+  "introducessi": [
+    "inrtrodutʃesːi"
+  ],
+  "introducessimo": [
+    "inrtrodutʃesːimo"
+  ],
+  "introduceste": [
+    "inrtrodutʃeste"
+  ],
+  "introducesti": [
+    "inrtrodutʃesti"
+  ],
+  "introducete": [
+    "inrtrodutʃete"
+  ],
+  "introduceva": [
+    "inrtrodutʃeva",
+    "introdutʃeva"
+  ],
+  "introducevamo": [
+    "inrtrodutʃevamo"
+  ],
+  "introducevano": [
+    "inrtrodutʃevano"
+  ],
+  "introducevate": [
+    "inrtrodutʃevate"
+  ],
+  "introducevi": [
+    "inrtrodutʃevi"
+  ],
+  "introducevo": [
+    "inrtrodutʃevo"
+  ],
+  "introduci": [
+    "inrtrodutʃi"
+  ],
+  "introduciamo": [
+    "inrtrodutʃamo"
+  ],
+  "introduciate": [
+    "inrtrodutʃate"
+  ],
+  "introduco": [
+    "inrtroduko"
+  ],
+  "introducono": [
+    "inrtrodukono"
+  ],
+  "introdurrà": [
+    "inrtrodura"
+  ],
+  "introdurrai": [
+    "inrtrodurːai"
+  ],
+  "introdurranno": [
+    "inrtrodurːanːo"
+  ],
+  "introdurre": [
+    "introdurːe"
+  ],
+  "introdurrebbe": [
+    "inrtrodurːebːe"
+  ],
+  "introdurrebbero": [
+    "inrtrodurːebːero"
+  ],
+  "introdurrei": [
+    "inrtrodurːei"
+  ],
+  "introdurremmo": [
+    "inrtrodurːemːo"
+  ],
+  "introdurremo": [
+    "inrtrodurːemo"
+  ],
+  "introdurreste": [
+    "inrtrodurːeste"
+  ],
+  "introdurresti": [
+    "inrtrodurːesti"
+  ],
+  "introdurrete": [
+    "inrtrodurːete"
+  ],
+  "introdurrò": [
+    "inrtrodurːo"
+  ],
+  "introdursi": [
+    "introdursi"
+  ],
+  "introdusse": [
+    "inrtrodusːe"
+  ],
+  "introdussero": [
+    "inrtrodusːero"
+  ],
+  "introdussi": [
+    "inrtrodusːi"
+  ],
+  "introduttivo": [
+    "introdutːivo"
+  ],
+  "introduzione": [
+    "introdutsjone",
+    "introdutːsjone"
+  ],
+  "introflessione": [
+    "introflesːjone"
+  ],
+  "introgressione": [
+    "introɡresːjone"
+  ],
+  "introgressivo": [
+    "introɡresːivo"
+  ],
+  "introiettare": [
+    "introjetːare"
+  ],
+  "introiettato": [
+    "introjetːato"
+  ],
+  "introiezione": [
+    "introjetːsjone"
+  ],
+  "introitare": [
+    "introjtare"
+  ],
+  "introiti": [
+    "intrɔjti"
+  ],
+  "introito": [
+    "intrɔjto"
+  ],
+  "intromissione": [
+    "intromisːjone"
+  ],
+  "intronato": [
+    "intronato"
+  ],
+  "intronizzazione": [
+    "intronizzazioni"
+  ],
+  "introspettivamente": [
+    "introspetːivamente"
+  ],
+  "introspettivo": [
+    "introspetːivo"
+  ],
+  "introspezione": [
+    "introspetsjone",
+    "introspetːsjone"
+  ],
+  "introspezioni": [
+    "introspetsjoni"
+  ],
+  "introvabile": [
+    "introvabile"
+  ],
+  "introvabili": [
+    "introvabili"
+  ],
+  "introversione": [
+    "introversjone"
+  ],
+  "introverso": [
+    "introvɛrso"
+  ],
+  "intrudere": [
+    "intrudere"
+  ],
+  "intrufolare": [
+    "intrufolare"
+  ],
+  "intrufolarsi": [
+    "intrufolarsi"
+  ],
+  "intrugliare": [
+    "intruʎare"
+  ],
+  "intruglio": [
+    "intruʎo"
+  ],
+  "intruppato": [
+    "intrupːato"
+  ],
+  "intrusa": [
+    "intruza"
+  ],
+  "intrusione": [
+    "intruzjone"
+  ],
+  "intruso": [
+    "intruzo"
+  ],
+  "intuarsi": [
+    "intuarsi"
+  ],
+  "intubato": [
+    "intubato"
+  ],
+  "intubazione": [
+    "intubatːsjone"
+  ],
+  "intubettare": [
+    "intubetːare"
+  ],
+  "intuire": [
+    "intuire"
+  ],
+  "intuitivamente": [
+    "intuitivamente",
+    "intwitivamente"
+  ],
+  "intuitivo": [
+    "intuitivo"
+  ],
+  "intuito": [
+    "intuito",
+    "intujto",
+    "intwito"
+  ],
+  "intuizione": [
+    "intuitːsjone"
+  ],
+  "intuizioni": [
+    "intuitːsjoni"
+  ],
+  "intuizionismo": [
+    "intuitːsjonizmo"
+  ],
+  "intuizionista": [
+    "intuitːsjonista"
+  ],
+  "intuizionistico": [
+    "intuitːsjonistiko"
+  ],
+  "inudibile": [
+    "inudibile"
+  ],
+  "inudibili": [
+    "inudibili"
+  ],
+  "inulto": [
+    "inulto"
+  ],
+  "inumanità": [
+    "inumanita"
+  ],
+  "inumano": [
+    "inumano"
+  ],
+  "inumare": [
+    "inumare"
+  ],
+  "inumidire": [
+    "inumidire"
+  ],
+  "inurbano": [
+    "inurbano"
+  ],
+  "inusitatamente": [
+    "inuzitatamente"
+  ],
+  "inusitato": [
+    "inuzitato"
+  ],
+  "inusto": [
+    "inusto"
+  ],
+  "inusuale": [
+    "inuzuale"
+  ],
+  "inutile": [
+    "inutile"
+  ],
+  "inutili": [
+    "inutili"
+  ],
+  "inutilità": [
+    "inutilita"
+  ],
+  "inutilizzabile": [
+    "inutilidːzabile"
+  ],
+  "inutilizzabili": [
+    "inutilidːzabili"
+  ],
+  "inutilmente": [
+    "inutilmente"
+  ],
+  "invadente": [
+    "invadɛnte"
+  ],
+  "invadere": [
+    "invadere"
+  ],
+  "invaghito": [
+    "invaɡito"
+  ],
+  "invaiare": [
+    "invajare"
+  ],
+  "invaiatura": [
+    "invajatura"
+  ],
+  "invalere": [
+    "invalere"
+  ],
+  "invalicabile": [
+    "invalikabile"
+  ],
+  "invalicabili": [
+    "invalikabili"
+  ],
+  "invalidabile": [
+    "invalidabile"
+  ],
+  "invalidabili": [
+    "invalidabili"
+  ],
+  "invalidamente": [
+    "invalidamente"
+  ],
+  "invalidante": [
+    "invalidante"
+  ],
+  "invalidanti": [
+    "invalidanti"
+  ],
+  "invalidare": [
+    "invalidare"
+  ],
+  "invalidarsi": [
+    "invalidarsi"
+  ],
+  "invalidato": [
+    "invalidato"
+  ],
+  "invalide": [
+    "invalide"
+  ],
+  "invalidità": [
+    "invalidita"
+  ],
+  "invalido": [
+    "invalido"
+  ],
+  "invalsa": [
+    "invalsa"
+  ],
+  "invalse": [
+    "invalse"
+  ],
+  "invalsi": [
+    "invalsi"
+  ],
+  "invalso": [
+    "invalso"
+  ],
+  "invano": [
+    "invano",
+    "invanɔ"
+  ],
+  "invariabile": [
+    "invarjabile"
+  ],
+  "invariabili": [
+    "invarjabile"
+  ],
+  "invariabilità": [
+    "invarjabilita"
+  ],
+  "invariabilmente": [
+    "invarjabilmente"
+  ],
+  "invariante": [
+    "invarjante"
+  ],
+  "invarianti": [
+    "invarjanti"
+  ],
+  "invarianza": [
+    "invarjantsa"
+  ],
+  "invariato": [
+    "invarjato"
+  ],
+  "invasare": [
+    "invazare"
+  ],
+  "invasatura": [
+    "invazatura"
+  ],
+  "invasione": [
+    "invazjone"
+  ],
+  "invasioni": [
+    "invazjoni"
+  ],
+  "invasivo": [
+    "invazivo"
+  ],
+  "invaso": [
+    "invazo"
+  ],
+  "invasore": [
+    "invazore"
+  ],
+  "invecchiamenti": [
+    "invekːjamenti"
+  ],
+  "invecchiamento": [
+    "invekːjamento"
+  ],
+  "invecchiare": [
+    "invekːjare"
+  ],
+  "invecchiarsi": [
+    "invekːjarsi"
+  ],
+  "invecchiata": [
+    "invekːjata"
+  ],
+  "invecchiate": [
+    "invekːjate"
+  ],
+  "invecchiati": [
+    "invekːjati"
+  ],
+  "invecchiato": [
+    "invekːjato"
+  ],
+  "invece": [
+    "invetʃe"
+  ],
+  "inveggia": [
+    "invedːʒa"
+  ],
+  "inveggiare": [
+    "invedːʒare"
+  ],
+  "invegliare": [
+    "inveʎare"
+  ],
+  "invela": [
+    "invela"
+  ],
+  "invelano": [
+    "invelano"
+  ],
+  "invelare": [
+    "invelare"
+  ],
+  "invelenire": [
+    "invelenire"
+  ],
+  "invelenirsi": [
+    "invelenirsi"
+  ],
+  "invendibile": [
+    "invendibile"
+  ],
+  "invendibili": [
+    "invendibili"
+  ],
+  "invendicabile": [
+    "invendikabile"
+  ],
+  "inventando": [
+    "invɛntando"
+  ],
+  "inventante": [
+    "invɛntante"
+  ],
+  "inventare": [
+    "imventare",
+    "inventare"
+  ],
+  "inventario": [
+    "inventarjo"
+  ],
+  "inventata": [
+    "inventata"
+  ],
+  "inventate": [
+    "inventate"
+  ],
+  "inventati": [
+    "inventati"
+  ],
+  "inventato": [
+    "inventato"
+  ],
+  "inventione": [
+    "inventsjone"
+  ],
+  "inventioni": [
+    "inventsioni"
+  ],
+  "inventiva": [
+    "inventiva"
+  ],
+  "inventore": [
+    "inventore"
+  ],
+  "inventori": [
+    "inventori"
+  ],
+  "inventrice": [
+    "inventritʃe"
+  ],
+  "inventrici": [
+    "inventritʃi"
+  ],
+  "invenzione": [
+    "inventsjone"
+  ],
+  "invenzioni": [
+    "inventsjoni"
+  ],
+  "inverare": [
+    "inverare"
+  ],
+  "invereconda": [
+    "inverekonda"
+  ],
+  "invereconde": [
+    "inverekonde"
+  ],
+  "inverecondi": [
+    "inverekondi"
+  ],
+  "inverecondo": [
+    "inverekondo"
+  ],
+  "inverificabile": [
+    "inverifikabile"
+  ],
+  "inverificabili": [
+    "inverifikabili"
+  ],
+  "inverificata": [
+    "inverifikata"
+  ],
+  "inverificate": [
+    "inverifikate"
+  ],
+  "inverificati": [
+    "inverifikati"
+  ],
+  "inverificato": [
+    "inverifikato"
+  ],
+  "invernale": [
+    "invernale"
+  ],
+  "inverni": [
+    "invɛrni"
+  ],
+  "inverno": [
+    "invɛrno"
+  ],
+  "inverosimiglianza": [
+    "inverosimiʎantsa"
+  ],
+  "inverosimile": [
+    "inverosimile"
+  ],
+  "inversamente": [
+    "inversamente"
+  ],
+  "inversione": [
+    "inversjone"
+  ],
+  "inverso": [
+    "invɛrso"
+  ],
+  "invertebrati": [
+    "invertebrati"
+  ],
+  "invertebrato": [
+    "invertebrato"
+  ],
+  "invertente": [
+    "invertente"
+  ],
+  "inverter": [
+    "inverter"
+  ],
+  "invertibile": [
+    "invertibile"
+  ],
+  "invertibili": [
+    "invertibili"
+  ],
+  "invertire": [
+    "invertire"
+  ],
+  "invertito": [
+    "invertito"
+  ],
+  "investigare": [
+    "investiɡare"
+  ],
+  "investigata": [
+    "investiɡata"
+  ],
+  "investigate": [
+    "investiɡate"
+  ],
+  "investigati": [
+    "investiɡati"
+  ],
+  "investigativo": [
+    "investiɡativo"
+  ],
+  "investigato": [
+    "investiɡato"
+  ],
+  "investigatore": [
+    "investiɡatore"
+  ],
+  "investigatrice": [
+    "investiɡatritʃe"
+  ],
+  "investigazione": [
+    "investiɡatsjone"
+  ],
+  "investigazioni": [
+    "investiɡatsjoni"
+  ],
+  "investimenti": [
+    "investimenti"
+  ],
+  "investimento": [
+    "investimento"
+  ],
+  "investire": [
+    "investire",
+    "invɛstire"
+  ],
+  "investito": [
+    "investito"
+  ],
+  "investitore": [
+    "investitore"
+  ],
+  "investitori": [
+    "investitori"
+  ],
+  "investitrice": [
+    "investitritʃe"
+  ],
+  "investitrici": [
+    "investitritʃi"
+  ],
+  "investitura": [
+    "investitura"
+  ],
+  "investiture": [
+    "investiture"
+  ],
+  "inveterare": [
+    "inveterare"
+  ],
+  "inveterata": [
+    "inveterata"
+  ],
+  "inveterate": [
+    "inveterate"
+  ],
+  "inveterati": [
+    "inveterati"
+  ],
+  "inveterato": [
+    "inveterato"
+  ],
+  "invettiva": [
+    "invetːiva"
+  ],
+  "inviabile": [
+    "inviabile"
+  ],
+  "inviabili": [
+    "inviabili"
+  ],
+  "inviare": [
+    "inviare"
+  ],
+  "inviato": [
+    "inviato"
+  ],
+  "invidi": [
+    "invidi"
+  ],
+  "invidia": [
+    "invidja"
+  ],
+  "invidiabile": [
+    "invidiabile",
+    "invidjabile"
+  ],
+  "invidiabili": [
+    "invidiabili"
+  ],
+  "invidiare": [
+    "invidjare"
+  ],
+  "invidie": [
+    "invidje"
+  ],
+  "invidioso": [
+    "invidjozo"
+  ],
+  "invigilare": [
+    "invidʒilare"
+  ],
+  "invincibile": [
+    "invintʃibile"
+  ],
+  "invincibili": [
+    "invintʃibili"
+  ],
+  "invincibilità": [
+    "invintʃibilita"
+  ],
+  "invio": [
+    "invio"
+  ],
+  "inviolabile": [
+    "inviolabile"
+  ],
+  "inviolabili": [
+    "inviolabili"
+  ],
+  "inviolabilità": [
+    "inviolabilita"
+  ],
+  "inviolabilmente": [
+    "inviolabilmente"
+  ],
+  "inviolata": [
+    "inviolata"
+  ],
+  "inviolate": [
+    "inviolate"
+  ],
+  "inviolati": [
+    "inviolati"
+  ],
+  "inviolato": [
+    "inviolato"
+  ],
+  "invisa": [
+    "inviza"
+  ],
+  "invisamente": [
+    "invizamente"
+  ],
+  "invischiato": [
+    "inviskjato"
+  ],
+  "invise": [
+    "invize"
+  ],
+  "invisi": [
+    "invizi"
+  ],
+  "invisibile": [
+    "invizibile",
+    "nvizibile"
+  ],
+  "invisibili": [
+    "invizibili"
+  ],
+  "invisibilità": [
+    "invizibilita"
+  ],
+  "invisibilmente": [
+    "invizibilmente"
+  ],
+  "inviso": [
+    "invizo"
+  ],
+  "invitando": [
+    "invitando"
+  ],
+  "invitante": [
+    "invitante"
+  ],
+  "invitanti": [
+    "invitanti"
+  ],
+  "invitare": [
+    "invitare"
+  ],
+  "invitarsi": [
+    "invitarsi"
+  ],
+  "invitata": [
+    "invitata"
+  ],
+  "invitato": [
+    "invitato"
+  ],
+  "inviti": [
+    "inviti"
+  ],
+  "invito": [
+    "invito",
+    "invitɔ"
+  ],
+  "invitto": [
+    "invitːo"
+  ],
+  "invivibile": [
+    "invivibile"
+  ],
+  "invivibili": [
+    "invivibili"
+  ],
+  "invivibilità": [
+    "invivibilita"
+  ],
+  "invocabile": [
+    "invokabile"
+  ],
+  "invocabili": [
+    "invokabili"
+  ],
+  "invocare": [
+    "invokare"
+  ],
+  "invocativo": [
+    "invokativo"
+  ],
+  "invocato": [
+    "invokato"
+  ],
+  "invocazione": [
+    "invokatːsjone"
+  ],
+  "invocazioni": [
+    "invokatːsjoni"
+  ],
+  "invogliare": [
+    "invoʎare",
+    "invɔʎare"
+  ],
+  "invogliato": [
+    "invoʎato"
+  ],
+  "involgente": [
+    "invɔldʒente"
+  ],
+  "involgere": [
+    "invɔldʒere"
+  ],
+  "involgersi": [
+    "invɔldʒersi"
+  ],
+  "involontari": [
+    "involontari"
+  ],
+  "involontaria": [
+    "involontarja"
+  ],
+  "involontariamente": [
+    "involontariamente",
+    "involontarjamente"
+  ],
+  "involontarie": [
+    "involontarje"
+  ],
+  "involontario": [
+    "involontario",
+    "involontarjo"
+  ],
+  "involto": [
+    "invɔlto"
+  ],
+  "involucro": [
+    "invɔlukro"
+  ],
+  "involuto": [
+    "involuto"
+  ],
+  "involuzione": [
+    "involutːsjone"
+  ],
+  "involvere": [
+    "invɔlvere"
+  ],
+  "invulnerabile": [
+    "invulnerabile"
+  ],
+  "invulnerabili": [
+    "invulnerabili"
+  ],
+  "invulnerabilità": [
+    "invulnerabilita"
+  ],
+  "inzaccherare": [
+    "indzakːerare",
+    "intsakːerare"
+  ],
+  "inzaccherarsi": [
+    "indzakːerarsi",
+    "intsakːerarsi"
+  ],
+  "inzaccherato": [
+    "indzakːerato",
+    "intsakːerato"
+  ],
+  "inzeppante": [
+    "intsepːante"
+  ],
+  "inzeppato": [
+    "intsepːato"
+  ],
+  "inzufolare": [
+    "indzufolare"
+  ],
+  "inzuppante": [
+    "intsupːante"
+  ],
+  "inzuppare": [
+    "intsupːare"
+  ],
+  "inzuppato": [
+    "intsupːato"
+  ],
+  "io": [
+    "io",
+    "iɔ"
+  ],
+  "iod": [
+    "jɔd"
+  ],
+  "iodare": [
+    "jodare"
+  ],
+  "iodica": [
+    "iɔdika"
+  ],
+  "iodiche": [
+    "iɔdike"
+  ],
+  "iodici": [
+    "iɔditʃi"
+  ],
+  "iodico": [
+    "iɔdiko",
+    "jɔdiko"
+  ],
+  "iodio": [
+    "jɔdjo"
+  ],
+  "iodoanilina": [
+    "jɔdoanilina"
+  ],
+  "iododialogenuro": [
+    "jɔdodialodʒenuro"
+  ],
+  "iodoformio": [
+    "jɔdofɔrmjo"
+  ],
+  "iodoforo": [
+    "jodɔforo"
+  ],
+  "iogurt": [
+    "jɔɡurt"
+  ],
+  "ioide": [
+    "iɔjde"
+  ],
+  "iolanda": [
+    "jolanda"
+  ],
+  "iolla": [
+    "jɔlːa"
+  ],
+  "ione": [
+    "jone"
+  ],
+  "ioni": [
+    "joni"
+  ],
+  "ionica": [
+    "jɔnika"
+  ],
+  "ionicamente": [
+    "jonikamente"
+  ],
+  "ioniche": [
+    "jɔnike"
+  ],
+  "ionici": [
+    "jɔnitʃi"
+  ],
+  "ionico": [
+    "jɔniko"
+  ],
+  "ionizzabile": [
+    "jonidːzabile"
+  ],
+  "ionizzabili": [
+    "jonidːzabili"
+  ],
+  "ionizzante": [
+    "jɔnidːzante"
+  ],
+  "ionizzanti": [
+    "jɔnidːzanti"
+  ],
+  "ionizzare": [
+    "jonidːzare",
+    "jɔnidːzare"
+  ],
+  "ionizzato": [
+    "jonidːzato",
+    "jɔnidːzato"
+  ],
+  "ionosfera": [
+    "jonesfɛra",
+    "jonosfɛra"
+  ],
+  "ionosfere": [
+    "jonesfɛre"
+  ],
+  "ionosferica": [
+    "jonesfɛrika"
+  ],
+  "ionosferiche": [
+    "jonesfɛrike"
+  ],
+  "ionosferici": [
+    "jonesfɛritʃi"
+  ],
+  "ionosferico": [
+    "jonesfɛriko"
+  ],
+  "iota": [
+    "jɔta"
+  ],
+  "iowa": [
+    "ajowa"
+  ],
+  "ipacusica": [
+    "ipakuzika"
+  ],
+  "ipacusico": [
+    "ipakuziko"
+  ],
+  "ipanzio": [
+    "ipantsjo"
+  ],
+  "iperacusico": [
+    "iperakuziko"
+  ],
+  "iperadrenalismo": [
+    "iperadrenalizmo"
+  ],
+  "iperaldosteronismo": [
+    "iperaldosteronizmo"
+  ],
+  "iperattiva": [
+    "iperatːiva"
+  ],
+  "iperattive": [
+    "iperatːive"
+  ],
+  "iperattivi": [
+    "iperatːivi"
+  ],
+  "iperattività": [
+    "iperatːivita"
+  ],
+  "iperattivo": [
+    "iperatːivo"
+  ],
+  "iperbole": [
+    "ipɛrbole"
+  ],
+  "iperbolico": [
+    "iperbɔliko"
+  ],
+  "ipercalorico": [
+    "iperkalɔriko"
+  ],
+  "ipercellulare": [
+    "ipertʃelːulare"
+  ],
+  "ipercellulari": [
+    "ipertʃelːulare"
+  ],
+  "ipercellularità": [
+    "ipertʃelːularita"
+  ],
+  "iperciclica": [
+    "ipertʃiklika"
+  ],
+  "ipercicliche": [
+    "ipertʃiklike"
+  ],
+  "iperciclici": [
+    "ipertʃiklitʃi"
+  ],
+  "iperciclico": [
+    "ipertʃikliko"
+  ],
+  "ipercifosi": [
+    "ipertʃifozi"
+  ],
+  "ipercloremia": [
+    "iperkloremia"
+  ],
+  "iperdosaggi": [
+    "iperdozadːʒi"
+  ],
+  "iperdosaggio": [
+    "iperdozadːʒo"
+  ],
+  "iperelastica": [
+    "iperelastika"
+  ],
+  "iperelastiche": [
+    "iperelastike"
+  ],
+  "iperelastici": [
+    "iperelastitʃi"
+  ],
+  "iperelasticità": [
+    "iperelastitʃita"
+  ],
+  "iperelastico": [
+    "iperelastiko"
+  ],
+  "iperfagia": [
+    "iperfadʒia"
+  ],
+  "iperfagica": [
+    "iperfadʒika",
+    "iperfadʒitʃi"
+  ],
+  "iperfagiche": [
+    "iperfadʒike"
+  ],
+  "iperfagici": [
+    "iperfadʒitʃi"
+  ],
+  "iperfagico": [
+    "iperfadʒiko"
+  ],
+  "iperfagie": [
+    "iperfadʒie"
+  ],
+  "iperfemminile": [
+    "iperfemːinile"
+  ],
+  "iperfilosofia": [
+    "iperfilozofia"
+  ],
+  "iperfilosofico": [
+    "iperfilozɔfiko"
+  ],
+  "iperforie": [
+    "iperfɔrje"
+  ],
+  "ipergigante": [
+    "iperdʒiɡante"
+  ],
+  "ipergiganti": [
+    "iperdʒiɡanti"
+  ],
+  "iperglicemia": [
+    "iperɡlitʃemia"
+  ],
+  "iperglicemica": [
+    "iperɡlitʃɛmika"
+  ],
+  "iperglicemiche": [
+    "iperɡlitʃɛmike"
+  ],
+  "iperglicemici": [
+    "iperɡlitʃɛmitʃi"
+  ],
+  "iperglicemico": [
+    "iperɡlitʃɛmiko"
+  ],
+  "iperglicemie": [
+    "iperɡlitʃemie"
+  ],
+  "iperinflazione": [
+    "iperinflatːsjone"
+  ],
+  "iperinflazionista": [
+    "iperinflatsjonista"
+  ],
+  "iperinflazioniste": [
+    "iperinflatsjoniste"
+  ],
+  "iperinflazionisti": [
+    "iperinflatsjonisti"
+  ],
+  "iperinsulinismi": [
+    "iperinsulinizmo"
+  ],
+  "iperinsulinismo": [
+    "iperinsulinizmo"
+  ],
+  "iperinsulismi": [
+    "iperinsulizmi"
+  ],
+  "iperinsulismo": [
+    "iperinsulinizmo",
+    "iperinsulizmo"
+  ],
+  "ipermedia": [
+    "ipermɛdja"
+  ],
+  "ipermercati": [
+    "ipermerkati"
+  ],
+  "ipermercato": [
+    "ipermerkato"
+  ],
+  "ipermetropia": [
+    "ipermetropia"
+  ],
+  "ipermetropie": [
+    "ipermetropie"
+  ],
+  "iperminiaturizzazione": [
+    "iperminjaturidːʒatsjone"
+  ],
+  "iperminiaturizzazioni": [
+    "iperminjaturidːʒatsjoni"
+  ]
 }

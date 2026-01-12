@@ -1,502 +1,1531 @@
 {
-  "gettato": ["d ʒ ɛ tː a t o"],
-  "getti": ["d ʒ ɛ tː i"],
-  "gettito": ["d ʒ ɛ tː i t o"],
-  "getto": ["d ʒ ɛ tː o"],
-  "gettone": ["d ʒ e tː o n e"],
-  "gettopressatura": ["d ʒ ɛ tː o p r e sː a t u r a"],
-  "gettopropulsione": ["d ʒ ɛ tː o p r o p u l s j o n e"],
-  "ghana": ["ɡ a n a"],
-  "ghanaese": ["ɡ a n a e s e"],
-  "ghanaesi": ["ɡ a n a e s i"],
-  "ghaneana": ["ɡ a e a n a"],
-  "ghaneane": ["ɡ a e a n e"],
-  "ghaneani": ["ɡ a e a n i"],
-  "ghaneano": ["ɡ a e a n o"],
-  "ghanese": ["ɡ a n e s e"],
-  "ghanesi": ["ɡ a n e s i"],
-  "ghebo": ["ɡ ɛ b o"],
-  "ghega": ["ɡ ɛ ɡ a"],
-  "ghego": ["ɡ ɛ ɡ o"],
-  "gheiscia": ["ɡ ɛ j ʃ ʃ a"],
-  "ghenga": ["ɡ ɛ n ɡ a"],
-  "ghepardato": ["ɡ e p a r d a t o"],
-  "ghepardi": ["ɡ e p a r d i"],
-  "ghepardo": ["ɡ e p a r d o"],
-  "gheppio": ["ɡ e pː j o"],
-  "gherardo": ["ɡ e r a r d o"],
-  "gherigli": ["ɡ e r i ʎ i"],
-  "gheriglio": ["ɡ e r i ʎ o"],
-  "ghermire": ["ɡ e r m i r e"],
-  "ghermito": ["ɡ e r m i t o"],
-  "gherone": ["ɡ e r o n e"],
-  "ghetta": ["ɡ e tː a"],
-  "ghetti": ["ɡ e tː i"],
-  "ghettizzare": ["ɡ e tː i dː z a r e"],
-  "ghetto": ["ɡ e tː o"],
-  "ghezzo": ["ɡ e tː s o"],
-  "ghi": ["ɡ i"],
-  "ghiacce": ["ɡ j a tː ʃ e"],
-  "ghiacci": ["ɡ j a tː ʃ i"],
-  "ghiaccia": ["ɡ j a tː ʃ a"],
-  "ghiacciaio": ["ɡ j a tː ʃ a j o"],
-  "ghiacciante": ["ɡ j a tː ʃ a n t e"],
-  "ghiacciare": ["ɡ j a tː ʃ a r e"],
-  "ghiacciato": ["ɡ j a tː ʃ a t o"],
-  "ghiaccio": ["ɡ j a tː ʃ o"],
-  "ghiaccioli": ["ɡ j a tː ʃ ɔ l i"],
-  "ghiacciolo": ["ɡ j a tː ʃ ɔ l o"],
-  "ghiado": ["ɡ j a d o"],
-  "ghiaia": ["ɡ j a j a"],
-  "ghiaioso": ["ɡ j a j o z o"],
-  "ghianda": ["ɡ j a n d a"],
-  "ghiandaia": ["ɡ j a n d a j a"],
-  "ghiandaie": ["ɡ j a n d a j e"],
-  "ghiande": ["ɡ j a n d e"],
-  "ghiandola": ["ɡ j a n d o l a"],
-  "ghiandolare": ["ɡ j a n d o l a r e"],
-  "ghiara": ["ɡ j a r a"],
-  "ghiaroso": ["ɡ j a r o z o"],
-  "ghiazarino": ["ɡ j a dː z a r i n o"],
-  "ghiazzerino": ["ɡ j a dː z e r i n o"],
-  "ghibellinismo": ["ɡ i b e lː i n i z m o"],
-  "ghibellino": ["ɡ i b e lː i n o"],
-  "ghibli": ["ɡ i b l i"],
-  "ghiera": ["ɡ j ɛ r a"],
-  "ghierla": ["ɡ j ɛ r l a"],
-  "ghigliottina": ["ɡ i ʎ o tː i n a"],
-  "ghigliottinare": ["ɡ i ʎ o tː i n a r e"],
-  "ghigliottinato": ["ɡ i ʎ o tː i n a t o"],
-  "ghigliottine": ["ɡ i ʎ o tː i n e"],
-  "ghignare": ["ɡ i ɲ ɲ a r e"],
-  "ghimel": ["ɡ i m e l"],
-  "ghinda": ["ɡ i n d a"],
-  "ghindazzo": ["ɡ i n d a tː s o"],
-  "ghiomo": ["ɡ j ɔ m o"],
-  "ghiordes": ["ɡ j o r d ɛ s"],
-  "ghiottamente": ["ɡ j o tː a m e n t e"],
-  "ghiotto": ["ɡ j o tː o"],
-  "ghiottona": ["ɡ j o tː o n a"],
-  "ghiottone": ["ɡ j o tː o n e"],
-  "ghiottoneria": ["ɡ j o tː o n e r i a"],
-  "ghiottoni": ["ɡ j o tː o n i"],
-  "ghiri": ["ɡ i r i"],
-  "ghiribizzo": ["ɡ i r i b i dː z o", "ɡ i r i b i tː s o"],
-  "ghirigoro": ["ɡ i r i ɡ ɔ r o"],
-  "ghirlanda": ["ɡ i r l a n d a"],
-  "ghirlandaia": ["ɡ i r l a n d a j a"],
-  "ghirlandaio": ["ɡ i r l a n d a j o"],
-  "ghirlandare": ["ɡ i r l a n d a r e"],
-  "ghirlande": ["ɡ i r l a n d e"],
-  "ghiro": ["ɡ i r o"],
-  "ghironda": ["ɡ i r o n d a"],
-  "ghirondista": ["ɡ i r o n d i s t a"],
-  "ghirondiste": ["ɡ i r o n d i s t e"],
-  "ghirondisti": ["ɡ i r o n d i s t i"],
-  "ghisa": ["ɡ i z a"],
-  "ghosting": ["ɡ o s t i n ɡ"],
-  "gi": ["d ʒ i"],
-  "già": ["d ʒ a"],
-  "giacca": ["d ʒ a kː a"],
-  "giacché": ["d ʒ a kː e"],
-  "giacchio": ["d ʒ a kː j o"],
-  "giaccio": ["d ʒ a tː ʃ o"],
-  "giacente": ["d ʒ a t ʃ e n t e", "d ʒ a t ʃ ɛ n t e"],
-  "giacenza": ["d ʒ a t ʃ e n t s a"],
-  "giacere": ["d ʒ a t ʃ e r e"],
-  "giacimenti": ["d ʒ a t ʃ i m e n t i"],
-  "giacimento": ["d ʒ a t ʃ i m e n t o"],
-  "giacinti": ["d ʒ a t ʃ i n t i"],
-  "giacinto": ["d ʒ a t ʃ i n t o"],
-  "giaciuto": ["d ʒ a t ʃ u t o"],
-  "giaco": ["d ʒ a k o"],
-  "giacobina": ["d ʒ a k o b i n a"],
-  "giacobine": ["d ʒ a k o b i n e"],
-  "giacobini": ["d ʒ a k o b i n i"],
-  "giacobinismi": ["d ʒ a k o b i n i z m i"],
-  "giacobinismo": ["d ʒ a k o b i n i z m o"],
-  "giacobino": ["d ʒ a k o b i n o"],
-  "giaculatoria": ["d ʒ a k u l a t ɔ r j a"],
-  "giada": ["d ʒ a d a"],
-  "giade": ["d ʒ a d e"],
-  "giaffa": ["d ʒ a fː a"],
-  "giaggiolo": ["d ʒ a dː ʒ ɔ l o"],
-  "giaguari": ["d ʒ a ɡ w a r i"],
-  "giaguaro": ["d ʒ a ɡ w a r o"],
-  "gialappa": ["d ʒ a l a pː a"],
-  "gialla": ["d ʒ a lː a", "d ʒ a lː o"],
-  "gialle": ["d ʒ a lː e"],
-  "gialli": ["d ʒ a lː i"],
-  "gialliccio": ["d ʒ a lː i tː ʃ o"],
-  "giallissima": ["d ʒ a lː i sː i m a"],
-  "giallissime": ["d ʒ a lː i sː i m e"],
-  "giallissimi": ["d ʒ a lː i sː i m i"],
-  "giallissimo": ["d ʒ a lː i sː i m o"],
-  "giallista": ["d ʒ a lː i s t a"],
-  "giallo": ["d ʒ a lː a", "d ʒ a lː o"],
-  "giallognolo": ["d ʒ a lː o ɲ ɲ o l o", "d ʒ a lː ɔ ɲ ɲ o l o"],
-  "giallone": ["d ʒ a lː o n e"],
-  "giamaica": ["d ʒ a m a i k a"],
-  "giamaicana": ["d ʒ a m a i k a n a"],
-  "giamaicane": ["d ʒ a m a i k a n e"],
-  "giamaicani": ["d ʒ a m a i k a n i"],
-  "giamaicano": ["d ʒ a m a i k a n o", "d ʒ a m a j k a n o"],
-  "giambo": ["d ʒ a m b o"],
-  "giamburrasca": ["d ʒ a m b u rː a s k a"],
-  "giammai": ["d ʒ a mː a j"],
-  "giammario": ["d ʒ a mː a r j o"],
-  "gian": ["d ʒ a n"],
-  "gianduia": ["d ʒ a n d u j a"],
-  "gianduiotto": ["d ʒ a n d u j ɔ tː o"],
-  "gianduja": ["d ʒ a n d u j a"],
-  "gianicolense": ["d ʒ a n i k o l ɛ n s e"],
-  "gianicolo": ["d ʒ a n i k o l o"],
-  "gianluca": ["d ʒ a n l u k a"],
-  "gianmarco": ["d ʒ a n m a r k o"],
-  "gianmario": ["d ʒ a mː a r j o"],
-  "gianna": ["d ʒ a nː a"],
-  "gianni": ["d ʒ a nː i"],
-  "giannina": ["d ʒ a nː i n a"],
-  "giannizzero": ["d ʒ a nː i tː s e r o"],
-  "giano": ["d ʒ i a n o"],
-  "giansenismo": ["d ʒ a n s e n i z m o"],
-  "giansenista": ["d ʒ a n s e n i s t a"],
-  "giappone": ["d ʒ a pː o n e"],
-  "giapponese": ["d ʒ a pː o n e z e"],
-  "giapponeseria": ["d ʒ a pː o n e s e r i a", "d ʒ a pː o n e z e r i a"],
-  "giapponesi": ["d ʒ a pː o n e z i"],
-  "giapponesità": ["d ʒ a pː o n e s i t a", "d ʒ a pː o n e z i t a"],
-  "giapponio": ["d ʒ a pː ɔ n j o"],
-  "giara": ["d ʒ a r a"],
-  "giarda": ["d ʒ a r d a"],
-  "giardinabile": ["d ʒ a r d i n a b i l e"],
-  "giardinabili": ["d ʒ a r d i n a b i l i"],
-  "giardinaggi": ["d ʒ a r d i n a dː ʒ i"],
-  "giardinaggio": ["d ʒ a r d i n a dː ʒ o"],
-  "giardinaio": ["d ʒ a r d i n a j o"],
-  "giardinare": ["d ʒ a r d i n a r e"],
-  "giardinetta": ["d ʒ a r d i n e tː a"],
-  "giardinette": ["d ʒ a r d i n e tː e"],
-  "giardinetti": ["d ʒ a r d i n e tː i"],
-  "giardinetto": ["d ʒ a r d i n e tː o"],
-  "giardiniera": ["d ʒ a r d i n j ɛ r a"],
-  "giardiniere": ["d ʒ a r d i n j ɛ r e"],
-  "giardinieri": ["d ʒ a r d i n j ɛ r i"],
-  "giardino": ["d ʒ a r d i n o"],
-  "giardone": ["d ʒ a r d o n e"],
-  "giargone": ["d ʒ a r ɡ o n e"],
-  "giasmino": ["d ʒ a z m i n o"],
-  "giaspide": ["d ʒ a s p i d e"],
-  "giaurro": ["d ʒ a u rː o"],
-  "giava": ["d ʒ a v a"],
-  "giavazzo": ["d ʒ a v a tː s o"],
-  "giavellotti": ["d ʒ a v e lː ɔ tː i"],
-  "giavellottista": ["d ʒ a v e lː o t i s t a"],
-  "giavellottiste": ["d ʒ a v e lː o t i s t e"],
-  "giavellottisti": ["d ʒ a v e lː o t i s t i"],
-  "giavellotto": ["d ʒ a v e lː ɔ tː o"],
-  "giazzerino": ["d ʒ a dː z e r i n o"],
-  "giazzista": ["d ʒ a tː s i s t a"],
-  "gibassiera": ["d ʒ i b a sː j ɛ r a"],
-  "gibbone": ["d ʒ i bː o n e"],
-  "gibboni": ["d ʒ i bː o n i"],
-  "gibbosa": ["d ʒ i bː ɔ s a"],
-  "gibbose": ["d ʒ i bː ɔ s e"],
-  "gibbosi": ["d ʒ i bː ɔ s i"],
-  "gibbosità": ["d ʒ i bː o s i t a"],
-  "gibboso": ["d ʒ i bː o z o", "d ʒ i bː ɔ s o"],
-  "giberna": ["d ʒ i b ɛ r n a"],
-  "gibetto": ["d ʒ i b e tː o"],
-  "gibigiana": ["d ʒ i b i d ʒ a n a"],
-  "gibigianna": ["d ʒ i b i d ʒ a nː a"],
-  "gibilterra": ["ɡ i b i l t e rː a"],
-  "gibilterriana": ["ɡ i b i l t e rː j a n a"],
-  "gibilterriane": ["ɡ i b i l t e rː j a n e"],
-  "gibilterriani": ["ɡ i b i l t e rː j a n i"],
-  "gibilterriano": ["ɡ i b i l t e rː j a n o"],
-  "gibus": ["d ʒ i b u s"],
-  "gibuti": ["d ʒ i b u t i"],
-  "gibutiana": ["d ʒ i b u t j a n a"],
-  "gibutiane": ["d ʒ i b u t j a n e"],
-  "gibutiani": ["d ʒ i b u t j a n i"],
-  "gibutiano": ["d ʒ i b u t j a n o"],
-  "gigabyte": ["d ʒ i ɡ a b a j t"],
-  "gigante": ["d ʒ i ɡ a n t e"],
-  "giganteggiante": ["d ʒ i ɡ a n t e dː ʒ a n t e"],
-  "giganteggiare": ["d ʒ i ɡ a n t e dː ʒ a r e"],
-  "giganteggiato": ["d ʒ i ɡ a n t e dː ʒ a t o"],
-  "gigantesca": ["d ʒ i ɡ a n t e s k a"],
-  "gigantescamente": ["d ʒ i ɡ a n t e s k a m e n t e"],
-  "gigantesche": ["d ʒ i ɡ a n t e s k e"],
-  "giganteschi": ["d ʒ i ɡ a n t e s k i"],
-  "gigantesco": ["d ʒ i ɡ a n t e s k o"],
-  "gigantessa": ["d ʒ i ɡ a n t e sː a"],
-  "gigantesse": ["d ʒ i ɡ a n t e sː e"],
-  "giganti": ["d ʒ i ɡ a n t i"],
-  "gigantismi": ["d ʒ i ɡ a n t i z m i"],
-  "gigantismo": ["d ʒ i ɡ a n t i z m o"],
-  "gigantista": ["d ʒ i ɡ a n t i s t a"],
-  "gigantiste": ["d ʒ i ɡ a n t i s t e"],
-  "gigantisti": ["d ʒ i ɡ a n t i s t i"],
-  "gigantomachia": ["d ʒ i ɡ a n t o m a k j a"],
-  "gigantopitechi": ["d ʒ i ɡ a n t o p i t e k o"],
-  "gigantopiteco": ["d ʒ i ɡ a n t o p i t e k o"],
-  "gigi": ["d ʒ i d ʒ i"],
-  "gigione": ["d ʒ i d ʒ o n e"],
-  "gigli": ["d ʒ i ʎ i", "ɡ i ʎ i"],
-  "giglio": ["d ʒ i ʎ o", "ɡ i ʎ o"],
-  "gilbertese": ["d ʒ i l b e r t ɛ z e"],
-  "gilbertesi": ["d ʒ i l b e r t ɛ z i"],
-  "gilberto": ["d ʒ i l b ɛ r t o"],
-  "gilè": ["d ʒ i l ɛ"],
-  "gillotaggio": ["d ʒ i lː o t a dː ʒ o"],
-  "gimcana": ["d ʒ i m k a n a"],
-  "gimnosofista": ["d ʒ i m n o s o f i s t a"],
-  "gimnosofisti": ["d ʒ i m n o s o f i s t e"],
-  "gimnosperme": ["d ʒ i m n o s p ɛ r m e"],
-  "gincana": ["d ʒ i n k a n a"],
-  "gineceo": ["d ʒ i n e t ʃ ɛ o"],
-  "ginecologi": ["d ʒ i n e k ɔ l o d ʒ i"],
-  "ginecologia": ["d ʒ i n e k o l o d ʒ i a"],
-  "ginecologica": ["d ʒ i n e k o l ɔ d ʒ i k a"],
-  "ginecologiche": ["d ʒ i n e k o l ɔ d ʒ i k e"],
-  "ginecologici": ["d ʒ i n e k o l ɔ d ʒ i t ʃ i"],
-  "ginecologico": ["d ʒ i n e k o l ɔ d ʒ i k o"],
-  "ginecologo": ["d ʒ i n e k ɔ l o ɡ o"],
-  "ginepraio": ["d ʒ i n e p r a j o"],
-  "ginepri": ["d ʒ i n e p r i"],
-  "ginepro": ["d ʒ i n e p r o"],
-  "ginestra": ["d ʒ i n ɛ s t r a"],
-  "ginestre": ["d ʒ i n ɛ s t r e"],
-  "ginestreti": ["d ʒ i n e s t r e t i"],
-  "ginestreto": ["d ʒ i n e s t r e t o"],
-  "ginevra": ["d ʒ i n e v r a"],
-  "gingillarsi": ["d ʒ i n d ʒ i lː a r s i"],
-  "gingillo": ["d ʒ i n d ʒ i lː o"],
-  "ginnare": ["d ʒ i nː a r e"],
-  "ginnasio": ["d ʒ i nː a z j o"],
-  "ginnasta": ["d ʒ i nː a s t a"],
-  "ginnastica": ["d ʒ i nː a s t i k a"],
-  "ginnatura": ["d ʒ i nː a t u r a"],
-  "ginnature": ["d ʒ i nː a t u r e"],
-  "ginnico": ["d ʒ i nː i k o"],
-  "gino": ["d ʒ i n o"],
-  "ginocchi": ["d ʒ i n ɔ kː i"],
-  "ginocchia": ["d ʒ i n ɔ kː j a"],
-  "ginocchiata": ["d ʒ i n o kː j a t a"],
-  "ginocchiate": ["d ʒ i n o kː j a t e"],
-  "ginocchielli": ["d ʒ i n o kː j ɛ lː i"],
-  "ginocchiello": ["d ʒ i n o kː j ɛ lː o"],
-  "ginocchiera": ["d ʒ i n o kː j ɛ r a"],
-  "ginocchiere": ["d ʒ i n o kː j ɛ r e"],
-  "ginocchio": ["d ʒ i n ɔ kː j o"],
-  "ginocchioni": ["d ʒ i n o kː j o n i"],
-  "giobbe": ["d ʒ o bː e"],
-  "giobertiano": ["d ʒ o b e r t j a n o"],
-  "giobertismo": ["d ʒ o b e r t i z m o"],
-  "giocabile": ["d ʒ o k a b i l e"],
-  "giocabili": ["d ʒ o k a b i l i"],
-  "giocano": ["d ʒ ɔ k a n o"],
-  "giocante": ["d ʒ ɔ k a n t e"],
-  "giocantesi": ["d ʒ ɔ k a n t e s i"],
-  "giocanti": ["d ʒ ɔ k a n t i"],
-  "giocare": ["d ʒ o k a r e", "d ʒ ɔ k a r e"],
-  "giocarsi": ["d ʒ o k a r s i"],
-  "giocata": ["d ʒ o k a t a"],
-  "giocato": ["d ʒ o k a t o", "d ʒ ɔ k a t o"],
-  "giocatore": ["d z ɔ k a t o r e", "d ʒ o k a t o r e"],
-  "giocatori": ["d z ɔ k a t o r i", "d ʒ o k a t o r i"],
-  "giocatrice": ["d z ɔ k a t r i t ʃ e"],
-  "giocatrici": ["d z ɔ k a t r i t ʃ i"],
-  "giocattolai": ["d ʒ o k a tː o l a j"],
-  "giocattolaia": ["d ʒ o k a tː o l a j a"],
-  "giocattolaie": ["d ʒ o k a tː o l a j e"],
-  "giocattolaio": ["d ʒ o k a tː o l a j o"],
-  "giocattoli": ["d ʒ o k a tː o l i"],
-  "giocattolino": ["d ʒ o k a tː o l i n o"],
-  "giocattolo": ["d ʒ o k a tː o l o"],
-  "giochetto": ["d ʒ o k e tː o"],
-  "giochi": ["d ʒ ɔ k i"],
-  "giochino": ["d ʒ o k i n o"],
-  "gioco": ["d ʒ ɔ k o"],
-  "giocoforza": ["d ʒ o k o f ɔ r t s a"],
-  "giocoliera": ["d ʒ o k ɔ l j ɛ r a"],
-  "giocoliere": ["d ʒ o k ɔ l j ɛ r e"],
-  "giocolieri": ["d ʒ o k ɔ l j ɛ r i"],
-  "gioconda": ["d ʒ o k o n d a"],
-  "giocondità": ["d ʒ o k o n d i t a"],
-  "giocondo": ["d ʒ o k o n d o"],
-  "giocoso": ["d ʒ o k o z o"],
-  "gioele": ["d ʒ i o ɛ l e", "d ʒ o ɛ l e"],
-  "giogaia": ["d ʒ o ɡ a j a"],
-  "gioghi": ["d ʒ o ɡ i"],
-  "giogo": ["d ʒ o ɡ o"],
-  "gioia": ["d ʒ ɔ j a"],
-  "gioiale": ["d ʒ o j a l e"],
-  "gioie": ["d ʒ ɔ j z"],
-  "gioielleria": ["d ʒ o j e lː e r i a"],
-  "gioiellerie": ["d ʒ o j e lː e r i e"],
-  "gioielliera": ["d ʒ o j e lː j e r a"],
-  "gioielliere": ["d ʒ o i e lː i ɛ r e", "d ʒ o j e lː j e r e", "d ʒ o j e lː j ɛ r e"],
-  "gioiellieri": ["d ʒ o j e lː j e r i"],
-  "gioiello": ["d ʒ o j ɛ lː o"],
-  "gioiosa": ["d ʒ o j o z a"],
-  "gioiosamente": ["d ʒ o j o s a m e n t e", "d ʒ o j o z a m e n t e"],
-  "gioiose": ["d ʒ o j o z e"],
-  "gioiosi": ["d ʒ o j o z o"],
-  "gioioso": ["d ʒ o j o z o"],
-  "gioire": ["d ʒ o i r e"],
-  "gioito": ["d ʒ o i t o"],
-  "giolitti": ["d ʒ o l i tː i"],
-  "giolittiano": ["d ʒ o l i tː j a n o"],
-  "giordana": ["d ʒ o r d a n a", "d ʒ ɔ r d a n a"],
-  "giordane": ["d ʒ o r d a n e"],
-  "giordani": ["d ʒ o r d a n i"],
-  "giordania": ["d ʒ o r d ʒ a n j a"],
-  "giordaniana": ["d ʒ o r d ʒ a n j a n a"],
-  "giordaniane": ["d ʒ o r d ʒ a n j a n e"],
-  "giordaniani": ["d ʒ o r d ʒ a n j a n i"],
-  "giordaniano": ["d ʒ o r d ʒ a n j a n", "d ʒ o r d ʒ a n j a n o"],
-  "giordano": ["d ʒ o r d a n o", "d ʒ ɔ r d a n o"],
-  "giorgia": ["d ʒ ɔ r d ʒ a"],
-  "giorgio": ["d ʒ o r d ʒ o", "d ʒ ɔ r d ʒ o"],
-  "giornalai": ["d ʒ o r n a l a i"],
-  "giornalaia": ["d ʒ o r n a l a j a"],
-  "giornalaie": ["d ʒ o r n a l a j e"],
-  "giornalaio": ["d ʒ o r n a l a j o"],
-  "giornale": ["d ʒ o r n a l e"],
-  "giornalese": ["d ʒ o r n a l ɛ s e"],
-  "giornalesi": ["d ʒ o r n a l ɛ s i"],
-  "giornali": ["d ʒ o r n a l i"],
-  "giornaliera": ["d ʒ o r n a l j ɛ r a"],
-  "giornaliere": ["d ʒ o r n a l j ɛ r e"],
-  "giornalieri": ["d ʒ o r n a l j ɛ r i"],
-  "giornaliero": ["d ʒ o r n a l j ɛ r o"],
-  "giornalini": ["d ʒ o r n a l i n i"],
-  "giornalino": ["d ʒ o r n a l i n o"],
-  "giornalismi": ["d ʒ o r n a l i z m i"],
-  "giornalismo": ["d ʒ o r n a l i z m o"],
-  "giornalista": ["d ʒ o r n a l i s t a"],
-  "giornaliste": ["d ʒ o r n a l i s t e"],
-  "giornalisti": ["d ʒ o r n a l i s t i"],
-  "giornalistica": ["d ʒ o r n a l i s t i k a"],
-  "giornalisticamente": ["d ʒ o r n a l i s t i k a m e n t e"],
-  "giornalistiche": ["d ʒ o r n a l i s t i k e"],
-  "giornalistici": ["d ʒ o r n a l i s t i t ʃ i"],
-  "giornalistico": ["d ʒ o r n a l i s t i k o"],
-  "giornalizzazione": ["d ʒ o r n a l i dː z a tː s j o n e"],
-  "giornalizzazioni": ["d ʒ o r n a l i dː z a tː s j o n i"],
-  "giornalmente": ["d ʒ o r n a l m e n t e"],
-  "giornata": ["d ʒ o r n a t a"],
-  "giornate": ["d ʒ o r n a t e"],
-  "giorni": ["d ʒ o r n i"],
-  "giorno": ["d ʒ o r n o"],
-  "giosselino": ["d ʒ ɔ sː ɛ l i n o"],
-  "giosta": ["d ʒ ɔ s t a"],
-  "giostra": ["d ʒ ɔ s t r a"],
-  "giostrare": ["d ʒ o s t r a r e"],
-  "giosuè": ["d ʒ o z u ɛ"],
-  "giottesco": ["d ʒ o tː e s k o"],
-  "giotto": ["d ʒ ɔ tː o"],
-  "giovamento": ["d ʒ o v a m e n t o"],
-  "giovanaglia": ["d ʒ o v a n a ʎ a"],
-  "giovane": ["d ʒ o v a n e", "d ʒ ɔ v a n e"],
-  "giovaneggiare": ["d ʒ o v a n e dː ʒ a r e"],
-  "giovanesco": ["d ʒ o v a n e s k o"],
-  "giovanezza": ["d ʒ o v a n e tː s a"],
-  "giovani": ["d ʒ ɔ v a n i"],
-  "giovanile": ["d ʒ o v a n i l e"],
-  "giovanilismo": ["d ʒ o v a n i l i z m o"],
-  "giovanissima": ["d ʒ ɔ v a n i sː i m a"],
-  "giovanissime": ["d ʒ ɔ v a n i sː i m e"],
-  "giovanissimi": ["d ʒ ɔ v a n i sː i m i"],
-  "giovanissimo": ["d ʒ ɔ v a n i sː i m o"],
-  "giovanna": ["d ʒ o v a nː a"],
-  "giovanni": ["d ʒ o v a nː i", "d ʒ ɔ v a nː i"],
-  "giovanotta": ["d ʒ o v a n ɔ tː a"],
-  "giovanotti": ["d ʒ o v a n ɔ tː i"],
-  "giovanotto": ["d ʒ o v a n ɔ tː o"],
-  "giovante": ["d ʒ o v a n t e"],
-  "giovare": ["d ʒ o v a r e"],
-  "giovarsi": ["d ʒ o v a r s i"],
-  "giove": ["d ʒ ɔ v e"],
-  "giovedì": ["d ʒ o v e d i", "d ʒ o v e d i pː r ɔ sː i m o"],
-  "giovenca": ["d ʒ o v e n k a", "d ʒ o v ɛ n k a"],
-  "giovenche": ["d ʒ o v ɛ n kː e"],
-  "giovenco": ["d ʒ o v e n k o", "d ʒ o v ɛ n k o"],
-  "giovenile": ["d ʒ o v e n i l e"],
-  "gioventù": ["d ʒ o v e n t u"],
-  "gioventude": ["d ʒ o v e n t u d e"],
-  "gioventute": ["d ʒ o v e n t u t e"],
-  "giovevole": ["d ʒ o v e v o l e"],
-  "gioviale": ["d ʒ o v j a l e"],
-  "gioviali": ["d ʒ o v j a l i"],
-  "giovialità": ["d ʒ o v j a l i t a"],
-  "giovialmente": ["d ʒ o v j a l m e n t e"],
-  "gioviano": ["d ʒ o v j a n o"],
-  "giovinaccia": ["d ʒ o v i n a tː ʃ a"],
-  "giovinaccio": ["d ʒ o v i n a tː ʃ o"],
-  "giovinastro": ["d ʒ o v i n a s t r o"],
-  "giovinazzi": ["d ʒ o v i n a dː z i"],
-  "giovincella": ["d ʒ o v i n t ʃ ɛ lː a"],
-  "giovincello": ["d ʒ o v i n t ʃ ɛ lː o"],
-  "giovine": ["d ʒ o v i n e"],
-  "giovinetta": ["d ʒ o v i n e tː a"],
-  "giovinetto": ["d ʒ o v i n e tː o"],
-  "giovinezza": ["d ʒ o v i n e tː s a"],
-  "giovinezze": ["d ʒ o v i n e tː s e"],
-  "giovinotta": ["d ʒ o v i n ɔ tː a"],
-  "giovinotto": ["d ʒ o v i n ɔ tː o"],
-  "gip": ["d ʒ i p"],
-  "gipeto": ["d ʒ i p ɛ t o"],
-  "gippone": ["d ʒ i pː o n e"],
-  "gipsoteca": ["d ʒ i p s o t ɛ k a"],
-  "gipsoteche": ["d ʒ i p s o t ɛ k e"],
-  "girabacchini": ["d ʒ i r a b a kː i n i"],
-  "girabacchino": ["d ʒ i r a b a kː i n o"],
-  "girabarchini": ["d ʒ i r a b a r k i n i"],
-  "girabarchino": ["d ʒ i r a b a r k i n o"],
-  "girabecchini": ["d ʒ i r a b e kː i n o"],
-  "girabecchino": ["d ʒ i r a b e kː i n o"],
-  "girabile": ["d ʒ i r a b i l e"],
-  "girabili": ["d ʒ i r a b i l i"],
-  "giradischi": ["d ʒ i r a d i s k i"],
-  "giraffa": ["d ʒ i r a fː a"],
-  "giraffe": ["d ʒ i r a fː e"],
-  "giraffide": ["d ʒ i r a fː i d e"],
-  "giraffista": ["d ʒ i r a fː i s t a"],
-  "giraffiste": ["d ʒ i r a fː i s t e"],
-  "giraffisti": ["d ʒ i r a fː i s t i"],
-  "giragiare": ["d ʒ i r a d ʒ a r e"],
-  "giramondo": ["d ʒ i r a m o n d o"],
-  "girando": ["d ʒ i r a n d o"],
-  "girandola": ["d ʒ i r a n d o l a"],
-  "girante": ["d ʒ i r a n t e"],
-  "girare": ["d ʒ i r a r e"],
-  "girarrosto": ["d ʒ i r a rː ɔ s t o"],
-  "girarsi": ["d ʒ i r a r s i"],
-  "girasole": ["d ʒ i r a s o l e", "d ʒ i r a z o l e"],
-  "girasoli": ["d ʒ i r a s o l i"],
-  "girati": ["d ʒ i r a t i"],
-  "girato": ["d ʒ i r a t o"],
-  "giratore": ["d ʒ i r a t o r e"],
-  "giratubi": ["d ʒ i r a t u b i"],
-  "giravite": ["d ʒ i r a v i t e"],
-  "giravolta": ["d ʒ i r a v ɔ l t a"],
-  "giravoltare": ["d ʒ i r a v o l t a r e"],
-  "gire": ["d ʒ i r e"],
-  "girella": ["d ʒ i r ɛ lː a"],
-  "girello": ["d ʒ i r ɛ lː o"],
-  "giretto": ["d ʒ i r e tː o"],
-  "girevole": ["d ʒ i r e v o l e"],
-  "girfalco": ["d ʒ i r f a l k o"],
-  "girgentino": ["d ʒ i r d ʒ e n t i n o"],
-  "giri": ["d ʒ i r i"],
-  "girifalco": ["d ʒ i r i f a l k o"],
-  "girificazione": ["d ʒ i r i f i k a tː s j o n e"],
-  "girificazioni": ["d ʒ i r i f i k a tː s j o n i"],
-  "girini": ["d ʒ i r i n i"],
-  "girino": ["d ʒ i r i n o"],
-  "girl": ["ɡ ɛ r l"],
-  "girlo": ["d ʒ i r l o"]
+  "gettato": [
+    "dʒɛtːato"
+  ],
+  "getti": [
+    "dʒɛtːi"
+  ],
+  "gettito": [
+    "dʒɛtːito"
+  ],
+  "getto": [
+    "dʒɛtːo"
+  ],
+  "gettone": [
+    "dʒetːone"
+  ],
+  "gettopressatura": [
+    "dʒɛtːopresːatura"
+  ],
+  "gettopropulsione": [
+    "dʒɛtːopropulsjone"
+  ],
+  "ghana": [
+    "ɡana"
+  ],
+  "ghanaese": [
+    "ɡanaese"
+  ],
+  "ghanaesi": [
+    "ɡanaesi"
+  ],
+  "ghaneana": [
+    "ɡaeana"
+  ],
+  "ghaneane": [
+    "ɡaeane"
+  ],
+  "ghaneani": [
+    "ɡaeani"
+  ],
+  "ghaneano": [
+    "ɡaeano"
+  ],
+  "ghanese": [
+    "ɡanese"
+  ],
+  "ghanesi": [
+    "ɡanesi"
+  ],
+  "ghebo": [
+    "ɡɛbo"
+  ],
+  "ghega": [
+    "ɡɛɡa"
+  ],
+  "ghego": [
+    "ɡɛɡo"
+  ],
+  "gheiscia": [
+    "ɡɛjʃʃa"
+  ],
+  "ghenga": [
+    "ɡɛnɡa"
+  ],
+  "ghepardato": [
+    "ɡepardato"
+  ],
+  "ghepardi": [
+    "ɡepardi"
+  ],
+  "ghepardo": [
+    "ɡepardo"
+  ],
+  "gheppio": [
+    "ɡepːjo"
+  ],
+  "gherardo": [
+    "ɡerardo"
+  ],
+  "gherigli": [
+    "ɡeriʎi"
+  ],
+  "gheriglio": [
+    "ɡeriʎo"
+  ],
+  "ghermire": [
+    "ɡermire"
+  ],
+  "ghermito": [
+    "ɡermito"
+  ],
+  "gherone": [
+    "ɡerone"
+  ],
+  "ghetta": [
+    "ɡetːa"
+  ],
+  "ghetti": [
+    "ɡetːi"
+  ],
+  "ghettizzare": [
+    "ɡetːidːzare"
+  ],
+  "ghetto": [
+    "ɡetːo"
+  ],
+  "ghezzo": [
+    "ɡetːso"
+  ],
+  "ghi": [
+    "ɡi"
+  ],
+  "ghiacce": [
+    "ɡjatːʃe"
+  ],
+  "ghiacci": [
+    "ɡjatːʃi"
+  ],
+  "ghiaccia": [
+    "ɡjatːʃa"
+  ],
+  "ghiacciaio": [
+    "ɡjatːʃajo"
+  ],
+  "ghiacciante": [
+    "ɡjatːʃante"
+  ],
+  "ghiacciare": [
+    "ɡjatːʃare"
+  ],
+  "ghiacciato": [
+    "ɡjatːʃato"
+  ],
+  "ghiaccio": [
+    "ɡjatːʃo"
+  ],
+  "ghiaccioli": [
+    "ɡjatːʃɔli"
+  ],
+  "ghiacciolo": [
+    "ɡjatːʃɔlo"
+  ],
+  "ghiado": [
+    "ɡjado"
+  ],
+  "ghiaia": [
+    "ɡjaja"
+  ],
+  "ghiaioso": [
+    "ɡjajozo"
+  ],
+  "ghianda": [
+    "ɡjanda"
+  ],
+  "ghiandaia": [
+    "ɡjandaja"
+  ],
+  "ghiandaie": [
+    "ɡjandaje"
+  ],
+  "ghiande": [
+    "ɡjande"
+  ],
+  "ghiandola": [
+    "ɡjandola"
+  ],
+  "ghiandolare": [
+    "ɡjandolare"
+  ],
+  "ghiara": [
+    "ɡjara"
+  ],
+  "ghiaroso": [
+    "ɡjarozo"
+  ],
+  "ghiazarino": [
+    "ɡjadːzarino"
+  ],
+  "ghiazzerino": [
+    "ɡjadːzerino"
+  ],
+  "ghibellinismo": [
+    "ɡibelːinizmo"
+  ],
+  "ghibellino": [
+    "ɡibelːino"
+  ],
+  "ghibli": [
+    "ɡibli"
+  ],
+  "ghiera": [
+    "ɡjɛra"
+  ],
+  "ghierla": [
+    "ɡjɛrla"
+  ],
+  "ghigliottina": [
+    "ɡiʎotːina"
+  ],
+  "ghigliottinare": [
+    "ɡiʎotːinare"
+  ],
+  "ghigliottinato": [
+    "ɡiʎotːinato"
+  ],
+  "ghigliottine": [
+    "ɡiʎotːine"
+  ],
+  "ghignare": [
+    "ɡiɲɲare"
+  ],
+  "ghimel": [
+    "ɡimel"
+  ],
+  "ghinda": [
+    "ɡinda"
+  ],
+  "ghindazzo": [
+    "ɡindatːso"
+  ],
+  "ghiomo": [
+    "ɡjɔmo"
+  ],
+  "ghiordes": [
+    "ɡjordɛs"
+  ],
+  "ghiottamente": [
+    "ɡjotːamente"
+  ],
+  "ghiotto": [
+    "ɡjotːo"
+  ],
+  "ghiottona": [
+    "ɡjotːona"
+  ],
+  "ghiottone": [
+    "ɡjotːone"
+  ],
+  "ghiottoneria": [
+    "ɡjotːoneria"
+  ],
+  "ghiottoni": [
+    "ɡjotːoni"
+  ],
+  "ghiri": [
+    "ɡiri"
+  ],
+  "ghiribizzo": [
+    "ɡiribidːzo",
+    "ɡiribitːso"
+  ],
+  "ghirigoro": [
+    "ɡiriɡɔro"
+  ],
+  "ghirlanda": [
+    "ɡirlanda"
+  ],
+  "ghirlandaia": [
+    "ɡirlandaja"
+  ],
+  "ghirlandaio": [
+    "ɡirlandajo"
+  ],
+  "ghirlandare": [
+    "ɡirlandare"
+  ],
+  "ghirlande": [
+    "ɡirlande"
+  ],
+  "ghiro": [
+    "ɡiro"
+  ],
+  "ghironda": [
+    "ɡironda"
+  ],
+  "ghirondista": [
+    "ɡirondista"
+  ],
+  "ghirondiste": [
+    "ɡirondiste"
+  ],
+  "ghirondisti": [
+    "ɡirondisti"
+  ],
+  "ghisa": [
+    "ɡiza"
+  ],
+  "ghosting": [
+    "ɡostinɡ"
+  ],
+  "gi": [
+    "dʒi"
+  ],
+  "già": [
+    "dʒa"
+  ],
+  "giacca": [
+    "dʒakːa"
+  ],
+  "giacché": [
+    "dʒakːe"
+  ],
+  "giacchio": [
+    "dʒakːjo"
+  ],
+  "giaccio": [
+    "dʒatːʃo"
+  ],
+  "giacente": [
+    "dʒatʃente",
+    "dʒatʃɛnte"
+  ],
+  "giacenza": [
+    "dʒatʃentsa"
+  ],
+  "giacere": [
+    "dʒatʃere"
+  ],
+  "giacimenti": [
+    "dʒatʃimenti"
+  ],
+  "giacimento": [
+    "dʒatʃimento"
+  ],
+  "giacinti": [
+    "dʒatʃinti"
+  ],
+  "giacinto": [
+    "dʒatʃinto"
+  ],
+  "giaciuto": [
+    "dʒatʃuto"
+  ],
+  "giaco": [
+    "dʒako"
+  ],
+  "giacobina": [
+    "dʒakobina"
+  ],
+  "giacobine": [
+    "dʒakobine"
+  ],
+  "giacobini": [
+    "dʒakobini"
+  ],
+  "giacobinismi": [
+    "dʒakobinizmi"
+  ],
+  "giacobinismo": [
+    "dʒakobinizmo"
+  ],
+  "giacobino": [
+    "dʒakobino"
+  ],
+  "giaculatoria": [
+    "dʒakulatɔrja"
+  ],
+  "giada": [
+    "dʒada"
+  ],
+  "giade": [
+    "dʒade"
+  ],
+  "giaffa": [
+    "dʒafːa"
+  ],
+  "giaggiolo": [
+    "dʒadːʒɔlo"
+  ],
+  "giaguari": [
+    "dʒaɡwari"
+  ],
+  "giaguaro": [
+    "dʒaɡwaro"
+  ],
+  "gialappa": [
+    "dʒalapːa"
+  ],
+  "gialla": [
+    "dʒalːa",
+    "dʒalːo"
+  ],
+  "gialle": [
+    "dʒalːe"
+  ],
+  "gialli": [
+    "dʒalːi"
+  ],
+  "gialliccio": [
+    "dʒalːitːʃo"
+  ],
+  "giallissima": [
+    "dʒalːisːima"
+  ],
+  "giallissime": [
+    "dʒalːisːime"
+  ],
+  "giallissimi": [
+    "dʒalːisːimi"
+  ],
+  "giallissimo": [
+    "dʒalːisːimo"
+  ],
+  "giallista": [
+    "dʒalːista"
+  ],
+  "giallo": [
+    "dʒalːa",
+    "dʒalːo"
+  ],
+  "giallognolo": [
+    "dʒalːoɲɲolo",
+    "dʒalːɔɲɲolo"
+  ],
+  "giallone": [
+    "dʒalːone"
+  ],
+  "giamaica": [
+    "dʒamaika"
+  ],
+  "giamaicana": [
+    "dʒamaikana"
+  ],
+  "giamaicane": [
+    "dʒamaikane"
+  ],
+  "giamaicani": [
+    "dʒamaikani"
+  ],
+  "giamaicano": [
+    "dʒamaikano",
+    "dʒamajkano"
+  ],
+  "giambo": [
+    "dʒambo"
+  ],
+  "giamburrasca": [
+    "dʒamburːaska"
+  ],
+  "giammai": [
+    "dʒamːaj"
+  ],
+  "giammario": [
+    "dʒamːarjo"
+  ],
+  "gian": [
+    "dʒan"
+  ],
+  "gianduia": [
+    "dʒanduja"
+  ],
+  "gianduiotto": [
+    "dʒandujɔtːo"
+  ],
+  "gianduja": [
+    "dʒanduja"
+  ],
+  "gianicolense": [
+    "dʒanikolɛnse"
+  ],
+  "gianicolo": [
+    "dʒanikolo"
+  ],
+  "gianluca": [
+    "dʒanluka"
+  ],
+  "gianmarco": [
+    "dʒanmarko"
+  ],
+  "gianmario": [
+    "dʒamːarjo"
+  ],
+  "gianna": [
+    "dʒanːa"
+  ],
+  "gianni": [
+    "dʒanːi"
+  ],
+  "giannina": [
+    "dʒanːina"
+  ],
+  "giannizzero": [
+    "dʒanːitːsero"
+  ],
+  "giano": [
+    "dʒiano"
+  ],
+  "giansenismo": [
+    "dʒansenizmo"
+  ],
+  "giansenista": [
+    "dʒansenista"
+  ],
+  "giappone": [
+    "dʒapːone"
+  ],
+  "giapponese": [
+    "dʒapːoneze"
+  ],
+  "giapponeseria": [
+    "dʒapːoneseria",
+    "dʒapːonezeria"
+  ],
+  "giapponesi": [
+    "dʒapːonezi"
+  ],
+  "giapponesità": [
+    "dʒapːonesita",
+    "dʒapːonezita"
+  ],
+  "giapponio": [
+    "dʒapːɔnjo"
+  ],
+  "giara": [
+    "dʒara"
+  ],
+  "giarda": [
+    "dʒarda"
+  ],
+  "giardinabile": [
+    "dʒardinabile"
+  ],
+  "giardinabili": [
+    "dʒardinabili"
+  ],
+  "giardinaggi": [
+    "dʒardinadːʒi"
+  ],
+  "giardinaggio": [
+    "dʒardinadːʒo"
+  ],
+  "giardinaio": [
+    "dʒardinajo"
+  ],
+  "giardinare": [
+    "dʒardinare"
+  ],
+  "giardinetta": [
+    "dʒardinetːa"
+  ],
+  "giardinette": [
+    "dʒardinetːe"
+  ],
+  "giardinetti": [
+    "dʒardinetːi"
+  ],
+  "giardinetto": [
+    "dʒardinetːo"
+  ],
+  "giardiniera": [
+    "dʒardinjɛra"
+  ],
+  "giardiniere": [
+    "dʒardinjɛre"
+  ],
+  "giardinieri": [
+    "dʒardinjɛri"
+  ],
+  "giardino": [
+    "dʒardino"
+  ],
+  "giardone": [
+    "dʒardone"
+  ],
+  "giargone": [
+    "dʒarɡone"
+  ],
+  "giasmino": [
+    "dʒazmino"
+  ],
+  "giaspide": [
+    "dʒaspide"
+  ],
+  "giaurro": [
+    "dʒaurːo"
+  ],
+  "giava": [
+    "dʒava"
+  ],
+  "giavazzo": [
+    "dʒavatːso"
+  ],
+  "giavellotti": [
+    "dʒavelːɔtːi"
+  ],
+  "giavellottista": [
+    "dʒavelːotista"
+  ],
+  "giavellottiste": [
+    "dʒavelːotiste"
+  ],
+  "giavellottisti": [
+    "dʒavelːotisti"
+  ],
+  "giavellotto": [
+    "dʒavelːɔtːo"
+  ],
+  "giazzerino": [
+    "dʒadːzerino"
+  ],
+  "giazzista": [
+    "dʒatːsista"
+  ],
+  "gibassiera": [
+    "dʒibasːjɛra"
+  ],
+  "gibbone": [
+    "dʒibːone"
+  ],
+  "gibboni": [
+    "dʒibːoni"
+  ],
+  "gibbosa": [
+    "dʒibːɔsa"
+  ],
+  "gibbose": [
+    "dʒibːɔse"
+  ],
+  "gibbosi": [
+    "dʒibːɔsi"
+  ],
+  "gibbosità": [
+    "dʒibːosita"
+  ],
+  "gibboso": [
+    "dʒibːozo",
+    "dʒibːɔso"
+  ],
+  "giberna": [
+    "dʒibɛrna"
+  ],
+  "gibetto": [
+    "dʒibetːo"
+  ],
+  "gibigiana": [
+    "dʒibidʒana"
+  ],
+  "gibigianna": [
+    "dʒibidʒanːa"
+  ],
+  "gibilterra": [
+    "ɡibilterːa"
+  ],
+  "gibilterriana": [
+    "ɡibilterːjana"
+  ],
+  "gibilterriane": [
+    "ɡibilterːjane"
+  ],
+  "gibilterriani": [
+    "ɡibilterːjani"
+  ],
+  "gibilterriano": [
+    "ɡibilterːjano"
+  ],
+  "gibus": [
+    "dʒibus"
+  ],
+  "gibuti": [
+    "dʒibuti"
+  ],
+  "gibutiana": [
+    "dʒibutjana"
+  ],
+  "gibutiane": [
+    "dʒibutjane"
+  ],
+  "gibutiani": [
+    "dʒibutjani"
+  ],
+  "gibutiano": [
+    "dʒibutjano"
+  ],
+  "gigabyte": [
+    "dʒiɡabajt"
+  ],
+  "gigante": [
+    "dʒiɡante"
+  ],
+  "giganteggiante": [
+    "dʒiɡantedːʒante"
+  ],
+  "giganteggiare": [
+    "dʒiɡantedːʒare"
+  ],
+  "giganteggiato": [
+    "dʒiɡantedːʒato"
+  ],
+  "gigantesca": [
+    "dʒiɡanteska"
+  ],
+  "gigantescamente": [
+    "dʒiɡanteskamente"
+  ],
+  "gigantesche": [
+    "dʒiɡanteske"
+  ],
+  "giganteschi": [
+    "dʒiɡanteski"
+  ],
+  "gigantesco": [
+    "dʒiɡantesko"
+  ],
+  "gigantessa": [
+    "dʒiɡantesːa"
+  ],
+  "gigantesse": [
+    "dʒiɡantesːe"
+  ],
+  "giganti": [
+    "dʒiɡanti"
+  ],
+  "gigantismi": [
+    "dʒiɡantizmi"
+  ],
+  "gigantismo": [
+    "dʒiɡantizmo"
+  ],
+  "gigantista": [
+    "dʒiɡantista"
+  ],
+  "gigantiste": [
+    "dʒiɡantiste"
+  ],
+  "gigantisti": [
+    "dʒiɡantisti"
+  ],
+  "gigantomachia": [
+    "dʒiɡantomakja"
+  ],
+  "gigantopitechi": [
+    "dʒiɡantopiteko"
+  ],
+  "gigantopiteco": [
+    "dʒiɡantopiteko"
+  ],
+  "gigi": [
+    "dʒidʒi"
+  ],
+  "gigione": [
+    "dʒidʒone"
+  ],
+  "gigli": [
+    "dʒiʎi",
+    "ɡiʎi"
+  ],
+  "giglio": [
+    "dʒiʎo",
+    "ɡiʎo"
+  ],
+  "gilbertese": [
+    "dʒilbertɛze"
+  ],
+  "gilbertesi": [
+    "dʒilbertɛzi"
+  ],
+  "gilberto": [
+    "dʒilbɛrto"
+  ],
+  "gilè": [
+    "dʒilɛ"
+  ],
+  "gillotaggio": [
+    "dʒilːotadːʒo"
+  ],
+  "gimcana": [
+    "dʒimkana"
+  ],
+  "gimnosofista": [
+    "dʒimnosofista"
+  ],
+  "gimnosofisti": [
+    "dʒimnosofiste"
+  ],
+  "gimnosperme": [
+    "dʒimnospɛrme"
+  ],
+  "gincana": [
+    "dʒinkana"
+  ],
+  "gineceo": [
+    "dʒinetʃɛo"
+  ],
+  "ginecologi": [
+    "dʒinekɔlodʒi"
+  ],
+  "ginecologia": [
+    "dʒinekolodʒia"
+  ],
+  "ginecologica": [
+    "dʒinekolɔdʒika"
+  ],
+  "ginecologiche": [
+    "dʒinekolɔdʒike"
+  ],
+  "ginecologici": [
+    "dʒinekolɔdʒitʃi"
+  ],
+  "ginecologico": [
+    "dʒinekolɔdʒiko"
+  ],
+  "ginecologo": [
+    "dʒinekɔloɡo"
+  ],
+  "ginepraio": [
+    "dʒineprajo"
+  ],
+  "ginepri": [
+    "dʒinepri"
+  ],
+  "ginepro": [
+    "dʒinepro"
+  ],
+  "ginestra": [
+    "dʒinɛstra"
+  ],
+  "ginestre": [
+    "dʒinɛstre"
+  ],
+  "ginestreti": [
+    "dʒinestreti"
+  ],
+  "ginestreto": [
+    "dʒinestreto"
+  ],
+  "ginevra": [
+    "dʒinevra"
+  ],
+  "gingillarsi": [
+    "dʒindʒilːarsi"
+  ],
+  "gingillo": [
+    "dʒindʒilːo"
+  ],
+  "ginnare": [
+    "dʒinːare"
+  ],
+  "ginnasio": [
+    "dʒinːazjo"
+  ],
+  "ginnasta": [
+    "dʒinːasta"
+  ],
+  "ginnastica": [
+    "dʒinːastika"
+  ],
+  "ginnatura": [
+    "dʒinːatura"
+  ],
+  "ginnature": [
+    "dʒinːature"
+  ],
+  "ginnico": [
+    "dʒinːiko"
+  ],
+  "gino": [
+    "dʒino"
+  ],
+  "ginocchi": [
+    "dʒinɔkːi"
+  ],
+  "ginocchia": [
+    "dʒinɔkːja"
+  ],
+  "ginocchiata": [
+    "dʒinokːjata"
+  ],
+  "ginocchiate": [
+    "dʒinokːjate"
+  ],
+  "ginocchielli": [
+    "dʒinokːjɛlːi"
+  ],
+  "ginocchiello": [
+    "dʒinokːjɛlːo"
+  ],
+  "ginocchiera": [
+    "dʒinokːjɛra"
+  ],
+  "ginocchiere": [
+    "dʒinokːjɛre"
+  ],
+  "ginocchio": [
+    "dʒinɔkːjo"
+  ],
+  "ginocchioni": [
+    "dʒinokːjoni"
+  ],
+  "giobbe": [
+    "dʒobːe"
+  ],
+  "giobertiano": [
+    "dʒobertjano"
+  ],
+  "giobertismo": [
+    "dʒobertizmo"
+  ],
+  "giocabile": [
+    "dʒokabile"
+  ],
+  "giocabili": [
+    "dʒokabili"
+  ],
+  "giocano": [
+    "dʒɔkano"
+  ],
+  "giocante": [
+    "dʒɔkante"
+  ],
+  "giocantesi": [
+    "dʒɔkantesi"
+  ],
+  "giocanti": [
+    "dʒɔkanti"
+  ],
+  "giocare": [
+    "dʒokare",
+    "dʒɔkare"
+  ],
+  "giocarsi": [
+    "dʒokarsi"
+  ],
+  "giocata": [
+    "dʒokata"
+  ],
+  "giocato": [
+    "dʒokato",
+    "dʒɔkato"
+  ],
+  "giocatore": [
+    "dzɔkatore",
+    "dʒokatore"
+  ],
+  "giocatori": [
+    "dzɔkatori",
+    "dʒokatori"
+  ],
+  "giocatrice": [
+    "dzɔkatritʃe"
+  ],
+  "giocatrici": [
+    "dzɔkatritʃi"
+  ],
+  "giocattolai": [
+    "dʒokatːolaj"
+  ],
+  "giocattolaia": [
+    "dʒokatːolaja"
+  ],
+  "giocattolaie": [
+    "dʒokatːolaje"
+  ],
+  "giocattolaio": [
+    "dʒokatːolajo"
+  ],
+  "giocattoli": [
+    "dʒokatːoli"
+  ],
+  "giocattolino": [
+    "dʒokatːolino"
+  ],
+  "giocattolo": [
+    "dʒokatːolo"
+  ],
+  "giochetto": [
+    "dʒoketːo"
+  ],
+  "giochi": [
+    "dʒɔki"
+  ],
+  "giochino": [
+    "dʒokino"
+  ],
+  "gioco": [
+    "dʒɔko"
+  ],
+  "giocoforza": [
+    "dʒokofɔrtsa"
+  ],
+  "giocoliera": [
+    "dʒokɔljɛra"
+  ],
+  "giocoliere": [
+    "dʒokɔljɛre"
+  ],
+  "giocolieri": [
+    "dʒokɔljɛri"
+  ],
+  "gioconda": [
+    "dʒokonda"
+  ],
+  "giocondità": [
+    "dʒokondita"
+  ],
+  "giocondo": [
+    "dʒokondo"
+  ],
+  "giocoso": [
+    "dʒokozo"
+  ],
+  "gioele": [
+    "dʒioɛle",
+    "dʒoɛle"
+  ],
+  "giogaia": [
+    "dʒoɡaja"
+  ],
+  "gioghi": [
+    "dʒoɡi"
+  ],
+  "giogo": [
+    "dʒoɡo"
+  ],
+  "gioia": [
+    "dʒɔja"
+  ],
+  "gioiale": [
+    "dʒojale"
+  ],
+  "gioie": [
+    "dʒɔjz"
+  ],
+  "gioielleria": [
+    "dʒojelːeria"
+  ],
+  "gioiellerie": [
+    "dʒojelːerie"
+  ],
+  "gioielliera": [
+    "dʒojelːjera"
+  ],
+  "gioielliere": [
+    "dʒoielːiɛre",
+    "dʒojelːjere",
+    "dʒojelːjɛre"
+  ],
+  "gioiellieri": [
+    "dʒojelːjeri"
+  ],
+  "gioiello": [
+    "dʒojɛlːo"
+  ],
+  "gioiosa": [
+    "dʒojoza"
+  ],
+  "gioiosamente": [
+    "dʒojosamente",
+    "dʒojozamente"
+  ],
+  "gioiose": [
+    "dʒojoze"
+  ],
+  "gioiosi": [
+    "dʒojozo"
+  ],
+  "gioioso": [
+    "dʒojozo"
+  ],
+  "gioire": [
+    "dʒoire"
+  ],
+  "gioito": [
+    "dʒoito"
+  ],
+  "giolitti": [
+    "dʒolitːi"
+  ],
+  "giolittiano": [
+    "dʒolitːjano"
+  ],
+  "giordana": [
+    "dʒordana",
+    "dʒɔrdana"
+  ],
+  "giordane": [
+    "dʒordane"
+  ],
+  "giordani": [
+    "dʒordani"
+  ],
+  "giordania": [
+    "dʒordʒanja"
+  ],
+  "giordaniana": [
+    "dʒordʒanjana"
+  ],
+  "giordaniane": [
+    "dʒordʒanjane"
+  ],
+  "giordaniani": [
+    "dʒordʒanjani"
+  ],
+  "giordaniano": [
+    "dʒordʒanjan",
+    "dʒordʒanjano"
+  ],
+  "giordano": [
+    "dʒordano",
+    "dʒɔrdano"
+  ],
+  "giorgia": [
+    "dʒɔrdʒa"
+  ],
+  "giorgio": [
+    "dʒordʒo",
+    "dʒɔrdʒo"
+  ],
+  "giornalai": [
+    "dʒornalai"
+  ],
+  "giornalaia": [
+    "dʒornalaja"
+  ],
+  "giornalaie": [
+    "dʒornalaje"
+  ],
+  "giornalaio": [
+    "dʒornalajo"
+  ],
+  "giornale": [
+    "dʒornale"
+  ],
+  "giornalese": [
+    "dʒornalɛse"
+  ],
+  "giornalesi": [
+    "dʒornalɛsi"
+  ],
+  "giornali": [
+    "dʒornali"
+  ],
+  "giornaliera": [
+    "dʒornaljɛra"
+  ],
+  "giornaliere": [
+    "dʒornaljɛre"
+  ],
+  "giornalieri": [
+    "dʒornaljɛri"
+  ],
+  "giornaliero": [
+    "dʒornaljɛro"
+  ],
+  "giornalini": [
+    "dʒornalini"
+  ],
+  "giornalino": [
+    "dʒornalino"
+  ],
+  "giornalismi": [
+    "dʒornalizmi"
+  ],
+  "giornalismo": [
+    "dʒornalizmo"
+  ],
+  "giornalista": [
+    "dʒornalista"
+  ],
+  "giornaliste": [
+    "dʒornaliste"
+  ],
+  "giornalisti": [
+    "dʒornalisti"
+  ],
+  "giornalistica": [
+    "dʒornalistika"
+  ],
+  "giornalisticamente": [
+    "dʒornalistikamente"
+  ],
+  "giornalistiche": [
+    "dʒornalistike"
+  ],
+  "giornalistici": [
+    "dʒornalistitʃi"
+  ],
+  "giornalistico": [
+    "dʒornalistiko"
+  ],
+  "giornalizzazione": [
+    "dʒornalidːzatːsjone"
+  ],
+  "giornalizzazioni": [
+    "dʒornalidːzatːsjoni"
+  ],
+  "giornalmente": [
+    "dʒornalmente"
+  ],
+  "giornata": [
+    "dʒornata"
+  ],
+  "giornate": [
+    "dʒornate"
+  ],
+  "giorni": [
+    "dʒorni"
+  ],
+  "giorno": [
+    "dʒorno"
+  ],
+  "giosselino": [
+    "dʒɔsːɛlino"
+  ],
+  "giosta": [
+    "dʒɔsta"
+  ],
+  "giostra": [
+    "dʒɔstra"
+  ],
+  "giostrare": [
+    "dʒostrare"
+  ],
+  "giosuè": [
+    "dʒozuɛ"
+  ],
+  "giottesco": [
+    "dʒotːesko"
+  ],
+  "giotto": [
+    "dʒɔtːo"
+  ],
+  "giovamento": [
+    "dʒovamento"
+  ],
+  "giovanaglia": [
+    "dʒovanaʎa"
+  ],
+  "giovane": [
+    "dʒovane",
+    "dʒɔvane"
+  ],
+  "giovaneggiare": [
+    "dʒovanedːʒare"
+  ],
+  "giovanesco": [
+    "dʒovanesko"
+  ],
+  "giovanezza": [
+    "dʒovanetːsa"
+  ],
+  "giovani": [
+    "dʒɔvani"
+  ],
+  "giovanile": [
+    "dʒovanile"
+  ],
+  "giovanilismo": [
+    "dʒovanilizmo"
+  ],
+  "giovanissima": [
+    "dʒɔvanisːima"
+  ],
+  "giovanissime": [
+    "dʒɔvanisːime"
+  ],
+  "giovanissimi": [
+    "dʒɔvanisːimi"
+  ],
+  "giovanissimo": [
+    "dʒɔvanisːimo"
+  ],
+  "giovanna": [
+    "dʒovanːa"
+  ],
+  "giovanni": [
+    "dʒovanːi",
+    "dʒɔvanːi"
+  ],
+  "giovanotta": [
+    "dʒovanɔtːa"
+  ],
+  "giovanotti": [
+    "dʒovanɔtːi"
+  ],
+  "giovanotto": [
+    "dʒovanɔtːo"
+  ],
+  "giovante": [
+    "dʒovante"
+  ],
+  "giovare": [
+    "dʒovare"
+  ],
+  "giovarsi": [
+    "dʒovarsi"
+  ],
+  "giove": [
+    "dʒɔve"
+  ],
+  "giovedì": [
+    "dʒovedi",
+    "dʒovedipːrɔsːimo"
+  ],
+  "giovenca": [
+    "dʒovenka",
+    "dʒovɛnka"
+  ],
+  "giovenche": [
+    "dʒovɛnkːe"
+  ],
+  "giovenco": [
+    "dʒovenko",
+    "dʒovɛnko"
+  ],
+  "giovenile": [
+    "dʒovenile"
+  ],
+  "gioventù": [
+    "dʒoventu"
+  ],
+  "gioventude": [
+    "dʒoventude"
+  ],
+  "gioventute": [
+    "dʒoventute"
+  ],
+  "giovevole": [
+    "dʒovevole"
+  ],
+  "gioviale": [
+    "dʒovjale"
+  ],
+  "gioviali": [
+    "dʒovjali"
+  ],
+  "giovialità": [
+    "dʒovjalita"
+  ],
+  "giovialmente": [
+    "dʒovjalmente"
+  ],
+  "gioviano": [
+    "dʒovjano"
+  ],
+  "giovinaccia": [
+    "dʒovinatːʃa"
+  ],
+  "giovinaccio": [
+    "dʒovinatːʃo"
+  ],
+  "giovinastro": [
+    "dʒovinastro"
+  ],
+  "giovinazzi": [
+    "dʒovinadːzi"
+  ],
+  "giovincella": [
+    "dʒovintʃɛlːa"
+  ],
+  "giovincello": [
+    "dʒovintʃɛlːo"
+  ],
+  "giovine": [
+    "dʒovine"
+  ],
+  "giovinetta": [
+    "dʒovinetːa"
+  ],
+  "giovinetto": [
+    "dʒovinetːo"
+  ],
+  "giovinezza": [
+    "dʒovinetːsa"
+  ],
+  "giovinezze": [
+    "dʒovinetːse"
+  ],
+  "giovinotta": [
+    "dʒovinɔtːa"
+  ],
+  "giovinotto": [
+    "dʒovinɔtːo"
+  ],
+  "gip": [
+    "dʒip"
+  ],
+  "gipeto": [
+    "dʒipɛto"
+  ],
+  "gippone": [
+    "dʒipːone"
+  ],
+  "gipsoteca": [
+    "dʒipsotɛka"
+  ],
+  "gipsoteche": [
+    "dʒipsotɛke"
+  ],
+  "girabacchini": [
+    "dʒirabakːini"
+  ],
+  "girabacchino": [
+    "dʒirabakːino"
+  ],
+  "girabarchini": [
+    "dʒirabarkini"
+  ],
+  "girabarchino": [
+    "dʒirabarkino"
+  ],
+  "girabecchini": [
+    "dʒirabekːino"
+  ],
+  "girabecchino": [
+    "dʒirabekːino"
+  ],
+  "girabile": [
+    "dʒirabile"
+  ],
+  "girabili": [
+    "dʒirabili"
+  ],
+  "giradischi": [
+    "dʒiradiski"
+  ],
+  "giraffa": [
+    "dʒirafːa"
+  ],
+  "giraffe": [
+    "dʒirafːe"
+  ],
+  "giraffide": [
+    "dʒirafːide"
+  ],
+  "giraffista": [
+    "dʒirafːista"
+  ],
+  "giraffiste": [
+    "dʒirafːiste"
+  ],
+  "giraffisti": [
+    "dʒirafːisti"
+  ],
+  "giragiare": [
+    "dʒiradʒare"
+  ],
+  "giramondo": [
+    "dʒiramondo"
+  ],
+  "girando": [
+    "dʒirando"
+  ],
+  "girandola": [
+    "dʒirandola"
+  ],
+  "girante": [
+    "dʒirante"
+  ],
+  "girare": [
+    "dʒirare"
+  ],
+  "girarrosto": [
+    "dʒirarːɔsto"
+  ],
+  "girarsi": [
+    "dʒirarsi"
+  ],
+  "girasole": [
+    "dʒirasole",
+    "dʒirazole"
+  ],
+  "girasoli": [
+    "dʒirasoli"
+  ],
+  "girati": [
+    "dʒirati"
+  ],
+  "girato": [
+    "dʒirato"
+  ],
+  "giratore": [
+    "dʒiratore"
+  ],
+  "giratubi": [
+    "dʒiratubi"
+  ],
+  "giravite": [
+    "dʒiravite"
+  ],
+  "giravolta": [
+    "dʒiravɔlta"
+  ],
+  "giravoltare": [
+    "dʒiravoltare"
+  ],
+  "gire": [
+    "dʒire"
+  ],
+  "girella": [
+    "dʒirɛlːa"
+  ],
+  "girello": [
+    "dʒirɛlːo"
+  ],
+  "giretto": [
+    "dʒiretːo"
+  ],
+  "girevole": [
+    "dʒirevole"
+  ],
+  "girfalco": [
+    "dʒirfalko"
+  ],
+  "girgentino": [
+    "dʒirdʒentino"
+  ],
+  "giri": [
+    "dʒiri"
+  ],
+  "girifalco": [
+    "dʒirifalko"
+  ],
+  "girificazione": [
+    "dʒirifikatːsjone"
+  ],
+  "girificazioni": [
+    "dʒirifikatːsjoni"
+  ],
+  "girini": [
+    "dʒirini"
+  ],
+  "girino": [
+    "dʒirino"
+  ],
+  "girl": [
+    "ɡɛrl"
+  ],
+  "girlo": [
+    "dʒirlo"
+  ]
 }

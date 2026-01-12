@@ -1,502 +1,1532 @@
 {
-  "accusaste": ["a kː u z a s t e"],
-  "accusasti": ["a kː u z a s t i"],
-  "accusata": ["a kː u s a t a", "a kː u z a t a"],
-  "accusate": ["a kː u s a t e", "a kː u z a t e"],
-  "accusati": ["a kː u s a t i", "a kː u z a t i"],
-  "accusativa": ["a kː u z a t i v a"],
-  "accusative": ["a kː u z a t i v e"],
-  "accusativi": ["a kː u z a t i v i"],
-  "accusativo": ["a kː u z a t i v o"],
-  "accusato": ["a kː u z a t o"],
-  "accusatore": ["a kː u z a t o r e", "a kː u z a t ɔ r e"],
-  "accusatori": ["a kː u s a t o r i", "a kː u z a t ɔ r i"],
-  "accusatoria": ["a kː u z a t ɔ r j a"],
-  "accusatorie": ["a kː u z a t ɔ r j e"],
-  "accusatorio": ["a kː u z a t ɔ r j o"],
-  "accusatrice": ["a kː u s a t r i t ʃ e", "a kː u z a t r i t ʃ e"],
-  "accusatrici": ["a kː u s a t r i t ʃ i", "a kː u z a t r i t ʃ i"],
-  "accusava": ["a kː u z a v a"],
-  "accusavamo": ["a kː u z a v a m o"],
-  "accusavano": ["a kː u z a v a n o"],
-  "accusavate": ["a kː u z a v a t e"],
-  "accusavi": ["a kː u s a v i", "a kː u z a v i"],
-  "accusavo": ["a kː u z a v o"],
-  "accuse": ["a kː u z e"],
-  "accuserà": ["a kː u z e r a"],
-  "accuserai": ["a kː u z e r a i"],
-  "accuseranno": ["a kː u z e r a nː o"],
-  "accuserebbe": ["a kː u z e r e bː e"],
-  "accuserebbero": ["a kː u z e r e bː e r o"],
-  "accuserei": ["a kː u z e r e i"],
-  "accuseremmo": ["a kː u z e r e mː o"],
-  "accuseremo": ["a kː u z e r e m o"],
-  "accusereste": ["a kː u z e r e s t e"],
-  "accuseresti": ["a kː u z e r e s t i"],
-  "accuserete": ["a kː u z e r e t e"],
-  "accuserò": ["a kː u z e r o"],
-  "accusi": ["a kː u z i"],
-  "accusiamo": ["a kː u z i a m o"],
-  "accusiate": ["a kː u z i a t e"],
-  "accusino": ["a kː u z i n o"],
-  "accuso": ["a kː u z o"],
-  "accusò": ["a kː u z o"],
-  "ace": ["a t ʃ e", "e i s"],
-  "acedia": ["a t ʃ ɛ d j a"],
-  "acefalia": ["a t ʃ e f a l i a"],
-  "acefalie": ["a t ʃ e f a l i e"],
-  "acefalo": ["a t ʃ ɛ f a l o"],
-  "acerba": ["a t ʃ ɛ r b a"],
-  "acerbe": ["a t ʃ ɛ r b e"],
-  "acerbi": ["a t ʃ ɛ r b i"],
-  "acerbo": ["a t ʃ ɛ r b o"],
-  "aceri": ["a t ʃ e r i", "a t ʃ ɛ r i"],
-  "acero": ["a t ʃ e r o", "a t ʃ ɛ r ɔ"],
-  "acerrima": ["a t ʃ ɛ rː i m a"],
-  "acerrimi": ["a t ʃ ɛ rː i m i"],
-  "acerrimo": ["a t ʃ ɛ rː i m o"],
-  "acervo": ["a t ʃ ɛ r v o"],
-  "acescente": ["a t ʃ e ʃ ʃ ɛ n t e"],
-  "acescenti": ["a t ʃ e ʃ ʃ ɛ n t i"],
-  "acescenza": ["a t ʃ e ʃ ʃ ɛ n t s a"],
-  "acetabolo": ["a t ʃ e t a b o l o"],
-  "acetale": ["a t ʃ e t a l e"],
-  "acetati": ["a t ʃ e t a t o"],
-  "acetato": ["a t ʃ e t a t o"],
-  "aceti": ["a t ʃ e t i", "a t ʃ ɛ t i"],
-  "acetica": ["a t ʃ ɛ t i k a"],
-  "acetiche": ["a t ʃ ɛ t i k e"],
-  "acetici": ["a t ʃ ɛ t i t ʃ i"],
-  "acetico": ["a t ʃ ɛ t i k o"],
-  "acetificare": ["a t ʃ e t i f i k a r e"],
-  "acetila": ["a t ʃ e t i l a"],
-  "acetilare": ["a t ʃ e t i l a r e"],
-  "acetilazione": ["a t ʃ e t i l a t s j o n e", "a t ʃ e t i l a tː s j o n e"],
-  "acetilazioni": ["a t ʃ e t i l a t s j o n i"],
-  "acetilcoenzima": ["a t ʃ e t i l k o e n d z i m a"],
-  "acetilcolina": ["a t ʃ e t i l k o l i n a"],
-  "acetilcoline": ["a t ʃ e t i l k o l i n e"],
-  "acetile": ["a t ʃ e t i l e"],
-  "acetilene": ["a t ʃ e t i l ɛ n e"],
-  "acetili": ["a t ʃ e t i l i"],
-  "acetilo": ["a t ʃ e t i l o"],
-  "acetilsalicilica": ["a t ʃ e t i l s a l i t ʃ i l i k a"],
-  "acetilsaliciliche": ["a t ʃ e t i l s a l i t ʃ i l i k e"],
-  "acetilsalicilici": ["a t ʃ e t i l s a l i t ʃ i l i t ʃ i"],
-  "acetilsalicilico": ["a t ʃ e t i l s a l i t ʃ i l i k o"],
-  "aceto": ["a t ʃ e t o", "a t ʃ ɛ t o"],
-  "acetone": ["a t ʃ e t o n e"],
-  "acetonemia": ["a t ʃ e t o n e m i a"],
-  "acetonemico": ["a t ʃ e t o n ɛ m i k o"],
-  "acetonuria": ["a t ʃ e t o n u r j a"],
-  "acetosa": ["a t ʃ e t o s a", "a t ʃ e t o z a"],
-  "acetosità": ["a t ʃ e t o s i t a", "a t ʃ e t o z i t a"],
-  "acetoso": ["a t ʃ e t o s o", "a t ʃ e t o z o"],
-  "acetozone": ["a t ʃ e t o dː z o n e"],
-  "achelia": ["a k e l i a"],
-  "achenio": ["a k ɛ n j o"],
-  "acheo": ["a k ɛ o"],
-  "acheronteo": ["a k e r o n t ɛ o"],
-  "acheuleano": ["a k e w l e a n o", "a ʃ ʃ e w l e a n o"],
-  "achille": ["a k i lː e"],
-  "achillea": ["a k i lː e a", "a k i lː ɛ a"],
-  "achillee": ["a k i lː ɛ e"],
-  "achillei": ["a k i lː ɛ i"],
-  "achilleo": ["a k i lː ɛ o"],
-  "achivo": ["a k i v o"],
-  "aci": ["a t ʃ i"],
-  "aciclica": ["a t ʃ i k l i k a"],
-  "acicliche": ["a t ʃ i k l i k e"],
-  "aciclici": ["a t ʃ i k l i t ʃ i"],
-  "aciclico": ["a t ʃ i k l i k o"],
-  "acicula": ["a t ʃ i k u l a"],
-  "aciculare": ["a t ʃ i k u l a r e"],
-  "acida": ["a t ʃ i d a"],
-  "acidamente": ["a t ʃ i d a m e n t e"],
-  "acidare": ["a t ʃ i d a r e"],
-  "acidaspide": ["a t ʃ i d a s p i d e"],
-  "acide": ["a t ʃ i d e"],
-  "acidemia": ["a t ʃ i d e m i a"],
-  "acidemie": ["a t ʃ i d e m i e"],
-  "acidi": ["a t ʃ i d i"],
-  "acidificante": ["a t ʃ i d i f i k a n t", "a t ʃ i d i f i k a n t e"],
-  "acidificanti": ["a t ʃ i d i f i k a n t i"],
-  "acidificare": ["a t ʃ i d i f i k a r e"],
-  "acidificata": ["a t ʃ i d i f i k a t a"],
-  "acidificate": ["a t ʃ i d i f i k a t e"],
-  "acidificati": ["a t ʃ i d i f i k a t i"],
-  "acidificato": ["a t ʃ i d i f i k a t o"],
-  "acidificazione": ["a t ʃ i d i f i k a tː s j o n e"],
-  "acidificazioni": ["a t ʃ i d i f i k a tː s j o n i"],
-  "acidimetri": ["a t ʃ i d i m e t r i"],
-  "acidimetro": ["a t ʃ i d i m e t r o"],
-  "acidità": ["a t ʃ i d i t a"],
-  "acido": ["a t ʃ i d o"],
-  "acidosi": ["a t ʃ i d ɔ z i"],
-  "acidosica": ["a t ʃ i d ɔ z i k a"],
-  "acidosiche": ["a t ʃ i d ɔ z i k e"],
-  "acidosici": ["a t ʃ i d ɔ z i t ʃ i"],
-  "acidosico": ["a t ʃ i d ɔ z i k o"],
-  "acidula": ["a t ʃ i d u l a"],
-  "acidulando": ["a t ʃ i d u l a n d o"],
-  "acidulante": ["a t ʃ i d u l a n t e"],
-  "acidulare": ["a t ʃ i d u l a r e"],
-  "acidulata": ["a t ʃ i d u l a t a"],
-  "acidulate": ["a t ʃ i d u l a t e"],
-  "acidulati": ["a t ʃ i d u l a t i"],
-  "acidulato": ["a t ʃ i d u l a t o"],
-  "acidulazione": ["a t ʃ i d u l a t s j o n e"],
-  "acidulazioni": ["a t ʃ i d u l a t s j o n i"],
-  "acidule": ["a t ʃ i d u l e"],
-  "aciduli": ["a t ʃ i d u l i"],
-  "acidulo": ["a t ʃ i d u l o"],
-  "acini": ["a t ʃ i n i"],
-  "acino": ["a t ʃ i n o", "a t ʃ i n ɔ"],
-  "acluofobia": ["a k l u o f o b i a"],
-  "acluofobie": ["a k l u o f o b i e"],
-  "acme": ["a k m e"],
-  "acmeismo": ["a k m e i z m o"],
-  "acne": ["a k n e"],
-  "acni": ["a k n i"],
-  "acondroplasia": ["a k o n d r o p l a z i a"],
-  "acondroplasie": ["a k o n d r o p l a z i e"],
-  "aconiti": ["a k o n i t i"],
-  "aconitica": ["a k o n i t i k a"],
-  "aconitiche": ["a k o n i t i k e"],
-  "aconitici": ["a k o n i t i t ʃ i"],
-  "aconitico": ["a k o n i t i k o"],
-  "aconito": ["a k o n i t o"],
-  "acqua": ["a kː u a", "a kː w a"],
-  "acquacoltura": ["a kː w a k o l t u r a"],
-  "acquacolture": ["a kː w a k o l t u r e"],
-  "acquacotta": ["a kː w a k ɔ tː a"],
-  "acquadella": ["a kː w a d ɛ lː a"],
-  "acquadernare": ["a kː w a d e r n a r e"],
-  "acquaforestazione": ["a kː w a f o r e s t a tː s j o n e"],
-  "acquaforestazioni": ["a kː w a f o r e s t a tː s j o n i"],
-  "acquaforte": ["a kː w a f ɔ r t e"],
-  "acquafortista": ["a kː w a f ɔ r t i s t a"],
-  "acquafortiste": ["a kː w a f ɔ r t i s t e"],
-  "acquafortisti": ["a kː w a f ɔ r t i s t i"],
-  "acquafreddese": ["a kː w a f r e dː e s e", "a kː w a f r e dː e z e"],
-  "acquaio": ["a kː w a j o"],
-  "acquaiolo": ["a kː w a j ɔ l o"],
-  "acquaiuolo": ["a kː w a j w ɔ l o"],
-  "acquamarina": ["a kː w a m a r i n a"],
-  "acquaplanista": ["a kː w a p l a n i s t a"],
-  "acquaplano": ["a kː w a p l a n o"],
-  "acquaragia": ["a kː w a r a d ʒ a"],
-  "acquare": ["a kː w a r e"],
-  "acquarella": ["a kː w a r ɛ lː a"],
-  "acquarellai": ["a kː w a r e lː a i"],
-  "acquarellammo": ["a kː w a r e lː a mː o"],
-  "acquarellando": ["a kː w a r e lː a n d o"],
-  "acquarellano": ["a kː w a r e lː a n o"],
-  "acquarellante": ["a kː w a r e lː a n t e"],
-  "acquarellare": ["a kː w a r e lː a r e"],
-  "acquarellarono": ["a kː w a r e lː a r o n o"],
-  "acquarellasse": ["a kː w a r e lː a sː e"],
-  "acquarellassero": ["a kː w a r e lː a sː e r o"],
-  "acquarellassi": ["a kː w a r e lː a sː i"],
-  "acquarellassimo": ["a kː w a r e lː a sː i m o"],
-  "acquarellaste": ["a kː w a r e lː a s t e"],
-  "acquarellasti": ["a kː w a r e lː a s t i"],
-  "acquarellata": ["a kː w a r e lː a t a"],
-  "acquarellate": ["a kː w a r e lː a t e"],
-  "acquarellati": ["a kː w a r e lː a t i"],
-  "acquarellato": ["a kː w a r e lː a t o"],
-  "acquarellava": ["a kː w a r e lː a v a"],
-  "acquarellavamo": ["a kː w a r e lː a v a m o"],
-  "acquarellavano": ["a kː w a r e lː a v a n o"],
-  "acquarellavate": ["a kː w a r e lː a v a t e"],
-  "acquarellavi": ["a kː w a r e lː a v i"],
-  "acquarellavo": ["a kː w a r e lː a v o"],
-  "acquarellerà": ["a kː w a r e lː e r a"],
-  "acquarellerai": ["a kː w a r e lː e r a i"],
-  "acquarelleranno": ["a kː w a r e lː e r a nː o"],
-  "acquarellerebbe": ["a kː w a r e lː e r e bː e"],
-  "acquarellerebbero": ["a kː w a r e lː e r e bː e r o"],
-  "acquarellerei": ["a kː w a r e lː e r e i"],
-  "acquarelleremmo": ["a kː w a r e lː e r e mː o"],
-  "acquarelleremo": ["a kː w a r e lː e r e m o"],
-  "acquarellereste": ["a kː w a r e lː e r e s t e"],
-  "acquarelleresti": ["a kː w a r e lː e r e s t i"],
-  "acquarellerete": ["a kː w a r e lː e r e t e"],
-  "acquarellerò": ["a kː w a r e lː e r o"],
-  "acquarelli": ["a kː w a r ɛ lː i"],
-  "acquarelliamo": ["a kː w a r e lː j a m o"],
-  "acquarelliate": ["a kː w a r e lː j a t e"],
-  "acquarellino": ["a kː w a r e lː i n o"],
-  "acquarellista": ["a kː w a r e lː i s t a"],
-  "acquarelliste": ["a kː w a r e lː i s t e"],
-  "acquarellisti": ["a kː w a r e lː i s t i"],
-  "acquarello": ["a kː w a r ɛ lː o"],
-  "acquarellò": ["a kː w a r e lː o"],
-  "acquari": ["a kː w a r i"],
-  "acquario": ["a kː w a r j o"],
-  "acquariofila": ["a kː w a r j o f i l a"],
-  "acquariofile": ["a kː w a r j o f i l e"],
-  "acquariofili": ["a kː w a r j o f i l i"],
-  "acquariofilia": ["a kː w a r j o f i l i a"],
-  "acquariofilie": ["a kː w a r j o f i l i e"],
-  "acquariofilo": ["a kː w a r j o f i l o"],
-  "acquariologia": ["a kː w a r j o l o d ʒ i a"],
-  "acquariologica": ["a kː w a r j o l ɔ d ʒ i k a"],
-  "acquariologiche": ["a kː w a r j o l ɔ d ʒ i k e"],
-  "acquariologici": ["a kː w a r j o l ɔ d ʒ i t ʃ i"],
-  "acquariologico": ["a kː w a r j o l ɔ d ʒ i k o"],
-  "acquariologie": ["a kː w a r j o l o d ʒ i e"],
-  "acquartiera": ["a kː w a r t j ɛ r a"],
-  "acquartieramenti": ["a kː w a r t j e r a m e n t i"],
-  "acquartieramento": ["a kː w a r t j e r a m e n t o"],
-  "acquartierare": ["a kː w a r t j e r a r e"],
-  "acquartieri": ["a kː w a r t j ɛ r i"],
-  "acquartiero": ["a kː w a r t j ɛ r o"],
-  "acquasantiera": ["a kː w a s a n t j ɛ r a"],
-  "acquasantiere": ["a kː w a s a n t j ɛ r e"],
-  "acquascooter": ["a kː w a s k u t e r"],
-  "acquastrino": ["a kː w a s t r i n o"],
-  "acquatella": ["a kː w a t ɛ lː a"],
-  "acquatica": ["a kː w a t i k a"],
-  "acquatiche": ["a kː w a t i k e"],
-  "acquatici": ["a kː w a t i t ʃ i"],
-  "acquatico": ["a kː w a t i k o"],
-  "acquatta": ["a kː w a tː a"],
-  "acquattai": ["a kː w a tː a i"],
-  "acquattammo": ["a kː w a tː a mː o"],
-  "acquattando": ["a kː w a tː a n d o"],
-  "acquattano": ["a kː w a tː a n o"],
-  "acquattante": ["a kː w a tː a n t e"],
-  "acquattare": ["a kː w a tː a r e"],
-  "acquattarono": ["a kː w a tː a r o n o"],
-  "acquattasse": ["a kː w a tː a sː e"],
-  "acquattassero": ["a kː w a tː a sː e r o"],
-  "acquattassi": ["a kː w a tː a sː i"],
-  "acquattassimo": ["a kː w a tː a sː i m o"],
-  "acquattaste": ["a kː w a tː a s t e"],
-  "acquattasti": ["a kː w a tː a s t i"],
-  "acquattata": ["a kː w a tː a t a"],
-  "acquattate": ["a kː w a tː a t e"],
-  "acquattati": ["a kː w a tː a t i"],
-  "acquattato": ["a kː w a tː a t o"],
-  "acquattava": ["a kː w a tː a v a"],
-  "acquattavamo": ["a kː w a tː a v a m o"],
-  "acquattavano": ["a kː w a tː a v a n o"],
-  "acquattavate": ["a kː w a tː a v a t e"],
-  "acquattavi": ["a kː w a tː a v i"],
-  "acquattavo": ["a kː w a tː a v o"],
-  "acquatterà": ["a kː w a tː e r a"],
-  "acquatterai": ["a kː w a tː e r a i"],
-  "acquatteranno": ["a kː w a tː e r a nː o"],
-  "acquatterebbe": ["a kː w a tː e r e bː e"],
-  "acquatterebbero": ["a kː w a tː e r e bː e r o"],
-  "acquatterei": ["a kː w a tː e r e i"],
-  "acquatteremmo": ["a kː w a tː e r e mː o"],
-  "acquatteremo": ["a kː w a tː e r e m o"],
-  "acquattereste": ["a kː w a tː e r e s t e"],
-  "acquatteresti": ["a kː w a tː e r e s t i"],
-  "acquatterete": ["a kː w a tː e r e t e"],
-  "acquatterò": ["a kː w a tː e r o"],
-  "acquatti": ["a kː w a tː i"],
-  "acquattiamo": ["a kː w a tː j a m o"],
-  "acquattiate": ["a kː w a tː j a t e"],
-  "acquattino": ["a kː w a tː i n o"],
-  "acquatto": ["a kː w a tː o"],
-  "acquattò": ["a kː w a tː o"],
-  "acquavitaio": ["a kː w a v i t a j o"],
-  "acquavite": ["a kː w a v i t e"],
-  "acquazzone": ["a kː u a tː s o n e", "a kː w a tː s o n e", "a kː w a tː s ɔ n e"],
-  "acque": ["a kː u e", "a kː w e"],
-  "acquea": ["a kː w e a"],
-  "acquedotti": ["a kː w e d o tː i"],
-  "acquedotto": ["a kː w e d o tː o"],
-  "acquee": ["a kː w e e"],
-  "acqueforti": ["a kː w e f ɔ r t i"],
-  "acquei": ["a kː w e i"],
-  "acquemarine": ["a kː w e m a r i n e"],
-  "acqueo": ["a kː w e o"],
-  "acquerella": ["a kː w a r ɛ lː a", "a kː w e r ɛ lː a"],
-  "acquerellai": ["a kː w e r e lː a i"],
-  "acquerellammo": ["a kː w e r e lː a mː o"],
-  "acquerellando": ["a kː w e r e lː a n d o"],
-  "acquerellano": ["a kː w e r e lː a n o"],
-  "acquerellante": ["a kː w e r e lː a n t e"],
-  "acquerellare": ["a kː w e r e lː a r e"],
-  "acquerellarono": ["a kː w e r e lː a r o n o"],
-  "acquerellasse": ["a kː w e r e lː a sː e"],
-  "acquerellassero": ["a kː w e r e lː a sː e r o"],
-  "acquerellassi": ["a kː w e r e lː a sː i"],
-  "acquerellassimo": ["a kː w e r e lː a sː i m o"],
-  "acquerellaste": ["a kː w e r e lː a s t e"],
-  "acquerellasti": ["a kː w e r e lː a s t i"],
-  "acquerellata": ["a kː w e r e lː a t a"],
-  "acquerellate": ["a kː w e r e lː a t e"],
-  "acquerellati": ["a kː w e r e lː a t i"],
-  "acquerellato": ["a kː w e r e lː a t o"],
-  "acquerellava": ["a kː w e r e lː a v a"],
-  "acquerellavamo": ["a kː w e r e lː a v a m o"],
-  "acquerellavano": ["a kː w e r e lː a v a n o"],
-  "acquerellavate": ["a kː w e r e lː a v a t e"],
-  "acquerellavi": ["a kː w e r e lː a v i"],
-  "acquerellavo": ["a kː w e r e lː a v o"],
-  "acquerellerà": ["a kː w e r e lː e r a"],
-  "acquerellerai": ["a kː w e r e lː e r a i"],
-  "acquerelleranno": ["a kː w e r e lː e r a nː o"],
-  "acquerellerebbe": ["a kː w e r e lː e r e bː e"],
-  "acquerellerebbero": ["a kː w e r e lː e r e bː e r o"],
-  "acquerellerei": ["a kː w e r e lː e r e i"],
-  "acquerelleremmo": ["a kː w e r e lː e r e mː o"],
-  "acquerelleremo": ["a kː w e r e lː e r e m o"],
-  "acquerellereste": ["a kː w e r e lː e r e s t e"],
-  "acquerelleresti": ["a kː w e r e lː e r e s t i"],
-  "acquerellerete": ["a kː w e r e lː e r e t e"],
-  "acquerellerò": ["a kː w e r e lː e r o"],
-  "acquerelli": ["a kː w e r ɛ lː i"],
-  "acquerelliamo": ["a kː w e r e lː j a m o"],
-  "acquerelliate": ["a kː w e r e lː j a t e"],
-  "acquerellino": ["a kː w e r e lː i n o"],
-  "acquerellista": ["a kː w e r e lː i s t a"],
-  "acquerelliste": ["a kː w e r e lː i s t e"],
-  "acquerellisti": ["a kː w e r e lː i s t i"],
-  "acquerello": ["a kː w e r ɛ lː o"],
-  "acquerellò": ["a kː w e r e lː o"],
-  "acqueta": ["a kː w e t a"],
-  "acquetai": ["a i"],
-  "acquetammo": ["a mː o"],
-  "acquetano": ["a n o"],
-  "acquetante": ["a n t e"],
-  "acquetare": ["a kː w e t a r e"],
-  "acquetarono": ["a r o n o"],
-  "acquetasse": ["a sː e"],
-  "acquetassero": ["a sː e r o"],
-  "acquetassi": ["a sː i"],
-  "acquetassimo": ["a sː i m o"],
-  "acquetaste": ["a s t e"],
-  "acquetasti": ["a s t i"],
-  "acquetata": ["a t a"],
-  "acquetate": ["a t e"],
-  "acquetati": ["a t i"],
-  "acquetava": ["a v a"],
-  "acquetavamo": ["a v a m o"],
-  "acquetavano": ["a v a n o"],
-  "acquetavate": ["a v a t e"],
-  "acquetavi": ["a v i"],
-  "acquetavo": ["a v o"],
-  "acqueterà": ["e r a"],
-  "acqueterai": ["e r a i"],
-  "acqueteranno": ["e r a nː o"],
-  "acqueterebbe": ["e r e bː e"],
-  "acqueterebbero": ["e r e bː e r o"],
-  "acqueterei": ["e r e i"],
-  "acqueteremmo": ["e r e mː o"],
-  "acqueteremo": ["e r e m o"],
-  "acquetereste": ["e r e s t e"],
-  "acqueteresti": ["e r e s t i"],
-  "acqueterete": ["e r e t e"],
-  "acqueterò": ["e r o"],
-  "acqueti": ["a kː w e t i"],
-  "acquetiamo": ["j a m o"],
-  "acquetiate": ["j a t e"],
-  "acquetino": ["i n o"],
-  "acqueto": ["a kː w e t o"],
-  "acquetò": ["o"],
-  "acquetta": ["a kː w e tː a"],
-  "acquicolo": ["a kː w i k o l o"],
-  "acquicoltura": ["a kː w i k o l t u r a"],
-  "acquicolture": ["a kː w i k o l t u r e"],
-  "acquidoso": ["a kː w i d o s o", "a kː w i d o z o"],
-  "acquiescente": ["a kː w j e ʃ ʃ ɛ n t e"],
-  "acquiescentemente": ["a kː w j e ʃ ʃ e n t e m e n t e"],
-  "acquiescenti": ["a kː w j e ʃ ʃ ɛ n t i"],
-  "acquiescenza": ["a kː w j e ʃ ʃ ɛ n t s a"],
-  "acquiescere": ["a kː w i ɛ ʃ ʃ e r e"],
-  "acquieta": ["a kː w j e t a"],
-  "acquietai": ["a i"],
-  "acquietamenti": ["a kː j e t a m e n t i"],
-  "acquietamento": ["a kː j e t a m e n t o"],
-  "acquietammo": ["a mː o"],
-  "acquietando": ["a kː w j e t a n d o"],
-  "acquietano": ["a n o"],
-  "acquietante": ["a kː w j e t a n t e"],
-  "acquietare": ["a k j e t a r e", "a kː w j e t a r e"],
-  "acquietarono": ["a r o n o"],
-  "acquietarsi": ["a kː w j e t a r s i"],
-  "acquietasse": ["a sː e"],
-  "acquietassero": ["a sː e r o"],
-  "acquietassi": ["a sː i"],
-  "acquietassimo": ["a sː i m o"],
-  "acquietaste": ["a s t e"],
-  "acquietasti": ["a s t i"],
-  "acquietata": ["a t a"],
-  "acquietate": ["a t e"],
-  "acquietati": ["a t i"],
-  "acquietato": ["a kː w j e t a t o"],
-  "acquietava": ["a v a"],
-  "acquietavamo": ["a v a m o"],
-  "acquietavano": ["a v a n o"],
-  "acquietavate": ["a v a t e"],
-  "acquietavi": ["a v i"],
-  "acquietavo": ["a v o"],
-  "acquieterà": ["e r a"],
-  "acquieterai": ["e r a i"],
-  "acquieteranno": ["e r a nː o"],
-  "acquieterebbe": ["e r e bː e"],
-  "acquieterebbero": ["e r e bː e r o"],
-  "acquieterei": ["e r e i"],
-  "acquieteremmo": ["e r e mː o"],
-  "acquieteremo": ["e r e m o"],
-  "acquietereste": ["e r e s t e"],
-  "acquieteresti": ["e r e s t i"],
-  "acquieterete": ["e r e t e"],
-  "acquieterò": ["e r o"],
-  "acquieti": ["a kː w j e t i"],
-  "acquietiamo": ["j a m o"],
-  "acquietiate": ["j a t e"],
-  "acquietino": ["i n o"],
-  "acquieto": ["a kː w j e t o"],
-  "acquietò": ["a kː w j e t o"],
-  "acquifera": ["a kː w i f e r a"],
-  "acquifere": ["a kː w i f e r e"],
-  "acquiferi": ["a kː w i f e r i"],
-  "acquifero": ["a kː w i f e r o"],
-  "acquirente": ["a kː w i r ɛ n t e"],
-  "acquirenti": ["a kː w i r ɛ n t i"],
-  "acquisente": ["a kː w i z e n t e"],
-  "acquisibile": ["a kː w i z i b i l e"],
-  "acquisibili": ["a kː w i z i b i l i"],
-  "acquisire": ["a kː w i z i r e"],
-  "acquisita": ["a kː w i z i t a"],
-  "acquisite": ["a kː w i z i t e"],
-  "acquisiti": ["a kː w i z i t o"],
-  "acquisitivo": ["a kː w i z i t i v o"],
-  "acquisito": ["a kː w i z i t o"],
-  "acquisitore": ["a kː u i s t o r e"],
-  "acquisizione": ["a kː w i z i t s j o n e", "a kː w i z i tː s j o n e"],
-  "acquisizioni": ["a kː w i z i t s j o n i"],
-  "acquisizone": ["a kː w i z i tː s j o n e"],
-  "acquista": ["a kː w i s t a"],
-  "acquistabile": ["a kː w i s t a b i l e"],
-  "acquistabili": ["a kː w i s t a b i l i"],
-  "acquistai": ["a kː w i s t a i"],
-  "acquistammo": ["a kː w i s t a mː o"],
-  "acquistando": ["a kː w i s t a n d o"],
-  "acquistano": ["a kː w i s t a n o"],
-  "acquistante": ["a kː w i s t a n t e"],
-  "acquistare": ["a kː w i s t a r e"],
-  "acquistarono": ["a kː w i s t a r o n o"],
-  "acquistasse": ["a kː w i s t a sː e"],
-  "acquistassero": ["a kː w i s t a sː e r o"],
-  "acquistassi": ["a kː w i s t a sː i"],
-  "acquistassimo": ["a kː w i s t a sː i m o"],
-  "acquistaste": ["a kː w i s t a s t e"],
-  "acquistasti": ["a kː w i s t a s t i"],
-  "acquistata": ["a kː w i s t a t a"],
-  "acquistate": ["a kː w i s t a t e"],
-  "acquistati": ["a kː w i s t a t i"],
-  "acquistato": ["a kː w i s t a t o"],
-  "acquistava": ["a kː w i s t a v a"],
-  "acquistavamo": ["a kː w i s t a v a m o"],
-  "acquistavano": ["a kː w i s t a v a n o"],
-  "acquistavate": ["a kː w i s t a v a t e"],
-  "acquistavi": ["a kː w i s t a v i"]
+  "accusaste": [
+    "akːuzaste"
+  ],
+  "accusasti": [
+    "akːuzasti"
+  ],
+  "accusata": [
+    "akːusata",
+    "akːuzata"
+  ],
+  "accusate": [
+    "akːusate",
+    "akːuzate"
+  ],
+  "accusati": [
+    "akːusati",
+    "akːuzati"
+  ],
+  "accusativa": [
+    "akːuzativa"
+  ],
+  "accusative": [
+    "akːuzative"
+  ],
+  "accusativi": [
+    "akːuzativi"
+  ],
+  "accusativo": [
+    "akːuzativo"
+  ],
+  "accusato": [
+    "akːuzato"
+  ],
+  "accusatore": [
+    "akːuzatore",
+    "akːuzatɔre"
+  ],
+  "accusatori": [
+    "akːusatori",
+    "akːuzatɔri"
+  ],
+  "accusatoria": [
+    "akːuzatɔrja"
+  ],
+  "accusatorie": [
+    "akːuzatɔrje"
+  ],
+  "accusatorio": [
+    "akːuzatɔrjo"
+  ],
+  "accusatrice": [
+    "akːusatritʃe",
+    "akːuzatritʃe"
+  ],
+  "accusatrici": [
+    "akːusatritʃi",
+    "akːuzatritʃi"
+  ],
+  "accusava": [
+    "akːuzava"
+  ],
+  "accusavamo": [
+    "akːuzavamo"
+  ],
+  "accusavano": [
+    "akːuzavano"
+  ],
+  "accusavate": [
+    "akːuzavate"
+  ],
+  "accusavi": [
+    "akːusavi",
+    "akːuzavi"
+  ],
+  "accusavo": [
+    "akːuzavo"
+  ],
+  "accuse": [
+    "akːuze"
+  ],
+  "accuserà": [
+    "akːuzera"
+  ],
+  "accuserai": [
+    "akːuzerai"
+  ],
+  "accuseranno": [
+    "akːuzeranːo"
+  ],
+  "accuserebbe": [
+    "akːuzerebːe"
+  ],
+  "accuserebbero": [
+    "akːuzerebːero"
+  ],
+  "accuserei": [
+    "akːuzerei"
+  ],
+  "accuseremmo": [
+    "akːuzeremːo"
+  ],
+  "accuseremo": [
+    "akːuzeremo"
+  ],
+  "accusereste": [
+    "akːuzereste"
+  ],
+  "accuseresti": [
+    "akːuzeresti"
+  ],
+  "accuserete": [
+    "akːuzerete"
+  ],
+  "accuserò": [
+    "akːuzero"
+  ],
+  "accusi": [
+    "akːuzi"
+  ],
+  "accusiamo": [
+    "akːuziamo"
+  ],
+  "accusiate": [
+    "akːuziate"
+  ],
+  "accusino": [
+    "akːuzino"
+  ],
+  "accuso": [
+    "akːuzo"
+  ],
+  "accusò": [
+    "akːuzo"
+  ],
+  "ace": [
+    "atʃe",
+    "eis"
+  ],
+  "acedia": [
+    "atʃɛdja"
+  ],
+  "acefalia": [
+    "atʃefalia"
+  ],
+  "acefalie": [
+    "atʃefalie"
+  ],
+  "acefalo": [
+    "atʃɛfalo"
+  ],
+  "acerba": [
+    "atʃɛrba"
+  ],
+  "acerbe": [
+    "atʃɛrbe"
+  ],
+  "acerbi": [
+    "atʃɛrbi"
+  ],
+  "acerbo": [
+    "atʃɛrbo"
+  ],
+  "aceri": [
+    "atʃeri",
+    "atʃɛri"
+  ],
+  "acero": [
+    "atʃero",
+    "atʃɛrɔ"
+  ],
+  "acerrima": [
+    "atʃɛrːima"
+  ],
+  "acerrimi": [
+    "atʃɛrːimi"
+  ],
+  "acerrimo": [
+    "atʃɛrːimo"
+  ],
+  "acervo": [
+    "atʃɛrvo"
+  ],
+  "acescente": [
+    "atʃeʃʃɛnte"
+  ],
+  "acescenti": [
+    "atʃeʃʃɛnti"
+  ],
+  "acescenza": [
+    "atʃeʃʃɛntsa"
+  ],
+  "acetabolo": [
+    "atʃetabolo"
+  ],
+  "acetale": [
+    "atʃetale"
+  ],
+  "acetati": [
+    "atʃetato"
+  ],
+  "acetato": [
+    "atʃetato"
+  ],
+  "aceti": [
+    "atʃeti",
+    "atʃɛti"
+  ],
+  "acetica": [
+    "atʃɛtika"
+  ],
+  "acetiche": [
+    "atʃɛtike"
+  ],
+  "acetici": [
+    "atʃɛtitʃi"
+  ],
+  "acetico": [
+    "atʃɛtiko"
+  ],
+  "acetificare": [
+    "atʃetifikare"
+  ],
+  "acetila": [
+    "atʃetila"
+  ],
+  "acetilare": [
+    "atʃetilare"
+  ],
+  "acetilazione": [
+    "atʃetilatsjone",
+    "atʃetilatːsjone"
+  ],
+  "acetilazioni": [
+    "atʃetilatsjoni"
+  ],
+  "acetilcoenzima": [
+    "atʃetilkoendzima"
+  ],
+  "acetilcolina": [
+    "atʃetilkolina"
+  ],
+  "acetilcoline": [
+    "atʃetilkoline"
+  ],
+  "acetile": [
+    "atʃetile"
+  ],
+  "acetilene": [
+    "atʃetilɛne"
+  ],
+  "acetili": [
+    "atʃetili"
+  ],
+  "acetilo": [
+    "atʃetilo"
+  ],
+  "acetilsalicilica": [
+    "atʃetilsalitʃilika"
+  ],
+  "acetilsaliciliche": [
+    "atʃetilsalitʃilike"
+  ],
+  "acetilsalicilici": [
+    "atʃetilsalitʃilitʃi"
+  ],
+  "acetilsalicilico": [
+    "atʃetilsalitʃiliko"
+  ],
+  "aceto": [
+    "atʃeto",
+    "atʃɛto"
+  ],
+  "acetone": [
+    "atʃetone"
+  ],
+  "acetonemia": [
+    "atʃetonemia"
+  ],
+  "acetonemico": [
+    "atʃetonɛmiko"
+  ],
+  "acetonuria": [
+    "atʃetonurja"
+  ],
+  "acetosa": [
+    "atʃetosa",
+    "atʃetoza"
+  ],
+  "acetosità": [
+    "atʃetosita",
+    "atʃetozita"
+  ],
+  "acetoso": [
+    "atʃetoso",
+    "atʃetozo"
+  ],
+  "acetozone": [
+    "atʃetodːzone"
+  ],
+  "achelia": [
+    "akelia"
+  ],
+  "achenio": [
+    "akɛnjo"
+  ],
+  "acheo": [
+    "akɛo"
+  ],
+  "acheronteo": [
+    "akerontɛo"
+  ],
+  "acheuleano": [
+    "akewleano",
+    "aʃʃewleano"
+  ],
+  "achille": [
+    "akilːe"
+  ],
+  "achillea": [
+    "akilːea",
+    "akilːɛa"
+  ],
+  "achillee": [
+    "akilːɛe"
+  ],
+  "achillei": [
+    "akilːɛi"
+  ],
+  "achilleo": [
+    "akilːɛo"
+  ],
+  "achivo": [
+    "akivo"
+  ],
+  "aci": [
+    "atʃi"
+  ],
+  "aciclica": [
+    "atʃiklika"
+  ],
+  "acicliche": [
+    "atʃiklike"
+  ],
+  "aciclici": [
+    "atʃiklitʃi"
+  ],
+  "aciclico": [
+    "atʃikliko"
+  ],
+  "acicula": [
+    "atʃikula"
+  ],
+  "aciculare": [
+    "atʃikulare"
+  ],
+  "acida": [
+    "atʃida"
+  ],
+  "acidamente": [
+    "atʃidamente"
+  ],
+  "acidare": [
+    "atʃidare"
+  ],
+  "acidaspide": [
+    "atʃidaspide"
+  ],
+  "acide": [
+    "atʃide"
+  ],
+  "acidemia": [
+    "atʃidemia"
+  ],
+  "acidemie": [
+    "atʃidemie"
+  ],
+  "acidi": [
+    "atʃidi"
+  ],
+  "acidificante": [
+    "atʃidifikant",
+    "atʃidifikante"
+  ],
+  "acidificanti": [
+    "atʃidifikanti"
+  ],
+  "acidificare": [
+    "atʃidifikare"
+  ],
+  "acidificata": [
+    "atʃidifikata"
+  ],
+  "acidificate": [
+    "atʃidifikate"
+  ],
+  "acidificati": [
+    "atʃidifikati"
+  ],
+  "acidificato": [
+    "atʃidifikato"
+  ],
+  "acidificazione": [
+    "atʃidifikatːsjone"
+  ],
+  "acidificazioni": [
+    "atʃidifikatːsjoni"
+  ],
+  "acidimetri": [
+    "atʃidimetri"
+  ],
+  "acidimetro": [
+    "atʃidimetro"
+  ],
+  "acidità": [
+    "atʃidita"
+  ],
+  "acido": [
+    "atʃido"
+  ],
+  "acidosi": [
+    "atʃidɔzi"
+  ],
+  "acidosica": [
+    "atʃidɔzika"
+  ],
+  "acidosiche": [
+    "atʃidɔzike"
+  ],
+  "acidosici": [
+    "atʃidɔzitʃi"
+  ],
+  "acidosico": [
+    "atʃidɔziko"
+  ],
+  "acidula": [
+    "atʃidula"
+  ],
+  "acidulando": [
+    "atʃidulando"
+  ],
+  "acidulante": [
+    "atʃidulante"
+  ],
+  "acidulare": [
+    "atʃidulare"
+  ],
+  "acidulata": [
+    "atʃidulata"
+  ],
+  "acidulate": [
+    "atʃidulate"
+  ],
+  "acidulati": [
+    "atʃidulati"
+  ],
+  "acidulato": [
+    "atʃidulato"
+  ],
+  "acidulazione": [
+    "atʃidulatsjone"
+  ],
+  "acidulazioni": [
+    "atʃidulatsjoni"
+  ],
+  "acidule": [
+    "atʃidule"
+  ],
+  "aciduli": [
+    "atʃiduli"
+  ],
+  "acidulo": [
+    "atʃidulo"
+  ],
+  "acini": [
+    "atʃini"
+  ],
+  "acino": [
+    "atʃino",
+    "atʃinɔ"
+  ],
+  "acluofobia": [
+    "akluofobia"
+  ],
+  "acluofobie": [
+    "akluofobie"
+  ],
+  "acme": [
+    "akme"
+  ],
+  "acmeismo": [
+    "akmeizmo"
+  ],
+  "acne": [
+    "akne"
+  ],
+  "acni": [
+    "akni"
+  ],
+  "acondroplasia": [
+    "akondroplazia"
+  ],
+  "acondroplasie": [
+    "akondroplazie"
+  ],
+  "aconiti": [
+    "akoniti"
+  ],
+  "aconitica": [
+    "akonitika"
+  ],
+  "aconitiche": [
+    "akonitike"
+  ],
+  "aconitici": [
+    "akonititʃi"
+  ],
+  "aconitico": [
+    "akonitiko"
+  ],
+  "aconito": [
+    "akonito"
+  ],
+  "acqua": [
+    "akːua",
+    "akːwa"
+  ],
+  "acquacoltura": [
+    "akːwakoltura"
+  ],
+  "acquacolture": [
+    "akːwakolture"
+  ],
+  "acquacotta": [
+    "akːwakɔtːa"
+  ],
+  "acquadella": [
+    "akːwadɛlːa"
+  ],
+  "acquadernare": [
+    "akːwadernare"
+  ],
+  "acquaforestazione": [
+    "akːwaforestatːsjone"
+  ],
+  "acquaforestazioni": [
+    "akːwaforestatːsjoni"
+  ],
+  "acquaforte": [
+    "akːwafɔrte"
+  ],
+  "acquafortista": [
+    "akːwafɔrtista"
+  ],
+  "acquafortiste": [
+    "akːwafɔrtiste"
+  ],
+  "acquafortisti": [
+    "akːwafɔrtisti"
+  ],
+  "acquafreddese": [
+    "akːwafredːese",
+    "akːwafredːeze"
+  ],
+  "acquaio": [
+    "akːwajo"
+  ],
+  "acquaiolo": [
+    "akːwajɔlo"
+  ],
+  "acquaiuolo": [
+    "akːwajwɔlo"
+  ],
+  "acquamarina": [
+    "akːwamarina"
+  ],
+  "acquaplanista": [
+    "akːwaplanista"
+  ],
+  "acquaplano": [
+    "akːwaplano"
+  ],
+  "acquaragia": [
+    "akːwaradʒa"
+  ],
+  "acquare": [
+    "akːware"
+  ],
+  "acquarella": [
+    "akːwarɛlːa"
+  ],
+  "acquarellai": [
+    "akːwarelːai"
+  ],
+  "acquarellammo": [
+    "akːwarelːamːo"
+  ],
+  "acquarellando": [
+    "akːwarelːando"
+  ],
+  "acquarellano": [
+    "akːwarelːano"
+  ],
+  "acquarellante": [
+    "akːwarelːante"
+  ],
+  "acquarellare": [
+    "akːwarelːare"
+  ],
+  "acquarellarono": [
+    "akːwarelːarono"
+  ],
+  "acquarellasse": [
+    "akːwarelːasːe"
+  ],
+  "acquarellassero": [
+    "akːwarelːasːero"
+  ],
+  "acquarellassi": [
+    "akːwarelːasːi"
+  ],
+  "acquarellassimo": [
+    "akːwarelːasːimo"
+  ],
+  "acquarellaste": [
+    "akːwarelːaste"
+  ],
+  "acquarellasti": [
+    "akːwarelːasti"
+  ],
+  "acquarellata": [
+    "akːwarelːata"
+  ],
+  "acquarellate": [
+    "akːwarelːate"
+  ],
+  "acquarellati": [
+    "akːwarelːati"
+  ],
+  "acquarellato": [
+    "akːwarelːato"
+  ],
+  "acquarellava": [
+    "akːwarelːava"
+  ],
+  "acquarellavamo": [
+    "akːwarelːavamo"
+  ],
+  "acquarellavano": [
+    "akːwarelːavano"
+  ],
+  "acquarellavate": [
+    "akːwarelːavate"
+  ],
+  "acquarellavi": [
+    "akːwarelːavi"
+  ],
+  "acquarellavo": [
+    "akːwarelːavo"
+  ],
+  "acquarellerà": [
+    "akːwarelːera"
+  ],
+  "acquarellerai": [
+    "akːwarelːerai"
+  ],
+  "acquarelleranno": [
+    "akːwarelːeranːo"
+  ],
+  "acquarellerebbe": [
+    "akːwarelːerebːe"
+  ],
+  "acquarellerebbero": [
+    "akːwarelːerebːero"
+  ],
+  "acquarellerei": [
+    "akːwarelːerei"
+  ],
+  "acquarelleremmo": [
+    "akːwarelːeremːo"
+  ],
+  "acquarelleremo": [
+    "akːwarelːeremo"
+  ],
+  "acquarellereste": [
+    "akːwarelːereste"
+  ],
+  "acquarelleresti": [
+    "akːwarelːeresti"
+  ],
+  "acquarellerete": [
+    "akːwarelːerete"
+  ],
+  "acquarellerò": [
+    "akːwarelːero"
+  ],
+  "acquarelli": [
+    "akːwarɛlːi"
+  ],
+  "acquarelliamo": [
+    "akːwarelːjamo"
+  ],
+  "acquarelliate": [
+    "akːwarelːjate"
+  ],
+  "acquarellino": [
+    "akːwarelːino"
+  ],
+  "acquarellista": [
+    "akːwarelːista"
+  ],
+  "acquarelliste": [
+    "akːwarelːiste"
+  ],
+  "acquarellisti": [
+    "akːwarelːisti"
+  ],
+  "acquarello": [
+    "akːwarɛlːo"
+  ],
+  "acquarellò": [
+    "akːwarelːo"
+  ],
+  "acquari": [
+    "akːwari"
+  ],
+  "acquario": [
+    "akːwarjo"
+  ],
+  "acquariofila": [
+    "akːwarjofila"
+  ],
+  "acquariofile": [
+    "akːwarjofile"
+  ],
+  "acquariofili": [
+    "akːwarjofili"
+  ],
+  "acquariofilia": [
+    "akːwarjofilia"
+  ],
+  "acquariofilie": [
+    "akːwarjofilie"
+  ],
+  "acquariofilo": [
+    "akːwarjofilo"
+  ],
+  "acquariologia": [
+    "akːwarjolodʒia"
+  ],
+  "acquariologica": [
+    "akːwarjolɔdʒika"
+  ],
+  "acquariologiche": [
+    "akːwarjolɔdʒike"
+  ],
+  "acquariologici": [
+    "akːwarjolɔdʒitʃi"
+  ],
+  "acquariologico": [
+    "akːwarjolɔdʒiko"
+  ],
+  "acquariologie": [
+    "akːwarjolodʒie"
+  ],
+  "acquartiera": [
+    "akːwartjɛra"
+  ],
+  "acquartieramenti": [
+    "akːwartjeramenti"
+  ],
+  "acquartieramento": [
+    "akːwartjeramento"
+  ],
+  "acquartierare": [
+    "akːwartjerare"
+  ],
+  "acquartieri": [
+    "akːwartjɛri"
+  ],
+  "acquartiero": [
+    "akːwartjɛro"
+  ],
+  "acquasantiera": [
+    "akːwasantjɛra"
+  ],
+  "acquasantiere": [
+    "akːwasantjɛre"
+  ],
+  "acquascooter": [
+    "akːwaskuter"
+  ],
+  "acquastrino": [
+    "akːwastrino"
+  ],
+  "acquatella": [
+    "akːwatɛlːa"
+  ],
+  "acquatica": [
+    "akːwatika"
+  ],
+  "acquatiche": [
+    "akːwatike"
+  ],
+  "acquatici": [
+    "akːwatitʃi"
+  ],
+  "acquatico": [
+    "akːwatiko"
+  ],
+  "acquatta": [
+    "akːwatːa"
+  ],
+  "acquattai": [
+    "akːwatːai"
+  ],
+  "acquattammo": [
+    "akːwatːamːo"
+  ],
+  "acquattando": [
+    "akːwatːando"
+  ],
+  "acquattano": [
+    "akːwatːano"
+  ],
+  "acquattante": [
+    "akːwatːante"
+  ],
+  "acquattare": [
+    "akːwatːare"
+  ],
+  "acquattarono": [
+    "akːwatːarono"
+  ],
+  "acquattasse": [
+    "akːwatːasːe"
+  ],
+  "acquattassero": [
+    "akːwatːasːero"
+  ],
+  "acquattassi": [
+    "akːwatːasːi"
+  ],
+  "acquattassimo": [
+    "akːwatːasːimo"
+  ],
+  "acquattaste": [
+    "akːwatːaste"
+  ],
+  "acquattasti": [
+    "akːwatːasti"
+  ],
+  "acquattata": [
+    "akːwatːata"
+  ],
+  "acquattate": [
+    "akːwatːate"
+  ],
+  "acquattati": [
+    "akːwatːati"
+  ],
+  "acquattato": [
+    "akːwatːato"
+  ],
+  "acquattava": [
+    "akːwatːava"
+  ],
+  "acquattavamo": [
+    "akːwatːavamo"
+  ],
+  "acquattavano": [
+    "akːwatːavano"
+  ],
+  "acquattavate": [
+    "akːwatːavate"
+  ],
+  "acquattavi": [
+    "akːwatːavi"
+  ],
+  "acquattavo": [
+    "akːwatːavo"
+  ],
+  "acquatterà": [
+    "akːwatːera"
+  ],
+  "acquatterai": [
+    "akːwatːerai"
+  ],
+  "acquatteranno": [
+    "akːwatːeranːo"
+  ],
+  "acquatterebbe": [
+    "akːwatːerebːe"
+  ],
+  "acquatterebbero": [
+    "akːwatːerebːero"
+  ],
+  "acquatterei": [
+    "akːwatːerei"
+  ],
+  "acquatteremmo": [
+    "akːwatːeremːo"
+  ],
+  "acquatteremo": [
+    "akːwatːeremo"
+  ],
+  "acquattereste": [
+    "akːwatːereste"
+  ],
+  "acquatteresti": [
+    "akːwatːeresti"
+  ],
+  "acquatterete": [
+    "akːwatːerete"
+  ],
+  "acquatterò": [
+    "akːwatːero"
+  ],
+  "acquatti": [
+    "akːwatːi"
+  ],
+  "acquattiamo": [
+    "akːwatːjamo"
+  ],
+  "acquattiate": [
+    "akːwatːjate"
+  ],
+  "acquattino": [
+    "akːwatːino"
+  ],
+  "acquatto": [
+    "akːwatːo"
+  ],
+  "acquattò": [
+    "akːwatːo"
+  ],
+  "acquavitaio": [
+    "akːwavitajo"
+  ],
+  "acquavite": [
+    "akːwavite"
+  ],
+  "acquazzone": [
+    "akːuatːsone",
+    "akːwatːsone",
+    "akːwatːsɔne"
+  ],
+  "acque": [
+    "akːue",
+    "akːwe"
+  ],
+  "acquea": [
+    "akːwea"
+  ],
+  "acquedotti": [
+    "akːwedotːi"
+  ],
+  "acquedotto": [
+    "akːwedotːo"
+  ],
+  "acquee": [
+    "akːwee"
+  ],
+  "acqueforti": [
+    "akːwefɔrti"
+  ],
+  "acquei": [
+    "akːwei"
+  ],
+  "acquemarine": [
+    "akːwemarine"
+  ],
+  "acqueo": [
+    "akːweo"
+  ],
+  "acquerella": [
+    "akːwarɛlːa",
+    "akːwerɛlːa"
+  ],
+  "acquerellai": [
+    "akːwerelːai"
+  ],
+  "acquerellammo": [
+    "akːwerelːamːo"
+  ],
+  "acquerellando": [
+    "akːwerelːando"
+  ],
+  "acquerellano": [
+    "akːwerelːano"
+  ],
+  "acquerellante": [
+    "akːwerelːante"
+  ],
+  "acquerellare": [
+    "akːwerelːare"
+  ],
+  "acquerellarono": [
+    "akːwerelːarono"
+  ],
+  "acquerellasse": [
+    "akːwerelːasːe"
+  ],
+  "acquerellassero": [
+    "akːwerelːasːero"
+  ],
+  "acquerellassi": [
+    "akːwerelːasːi"
+  ],
+  "acquerellassimo": [
+    "akːwerelːasːimo"
+  ],
+  "acquerellaste": [
+    "akːwerelːaste"
+  ],
+  "acquerellasti": [
+    "akːwerelːasti"
+  ],
+  "acquerellata": [
+    "akːwerelːata"
+  ],
+  "acquerellate": [
+    "akːwerelːate"
+  ],
+  "acquerellati": [
+    "akːwerelːati"
+  ],
+  "acquerellato": [
+    "akːwerelːato"
+  ],
+  "acquerellava": [
+    "akːwerelːava"
+  ],
+  "acquerellavamo": [
+    "akːwerelːavamo"
+  ],
+  "acquerellavano": [
+    "akːwerelːavano"
+  ],
+  "acquerellavate": [
+    "akːwerelːavate"
+  ],
+  "acquerellavi": [
+    "akːwerelːavi"
+  ],
+  "acquerellavo": [
+    "akːwerelːavo"
+  ],
+  "acquerellerà": [
+    "akːwerelːera"
+  ],
+  "acquerellerai": [
+    "akːwerelːerai"
+  ],
+  "acquerelleranno": [
+    "akːwerelːeranːo"
+  ],
+  "acquerellerebbe": [
+    "akːwerelːerebːe"
+  ],
+  "acquerellerebbero": [
+    "akːwerelːerebːero"
+  ],
+  "acquerellerei": [
+    "akːwerelːerei"
+  ],
+  "acquerelleremmo": [
+    "akːwerelːeremːo"
+  ],
+  "acquerelleremo": [
+    "akːwerelːeremo"
+  ],
+  "acquerellereste": [
+    "akːwerelːereste"
+  ],
+  "acquerelleresti": [
+    "akːwerelːeresti"
+  ],
+  "acquerellerete": [
+    "akːwerelːerete"
+  ],
+  "acquerellerò": [
+    "akːwerelːero"
+  ],
+  "acquerelli": [
+    "akːwerɛlːi"
+  ],
+  "acquerelliamo": [
+    "akːwerelːjamo"
+  ],
+  "acquerelliate": [
+    "akːwerelːjate"
+  ],
+  "acquerellino": [
+    "akːwerelːino"
+  ],
+  "acquerellista": [
+    "akːwerelːista"
+  ],
+  "acquerelliste": [
+    "akːwerelːiste"
+  ],
+  "acquerellisti": [
+    "akːwerelːisti"
+  ],
+  "acquerello": [
+    "akːwerɛlːo"
+  ],
+  "acquerellò": [
+    "akːwerelːo"
+  ],
+  "acqueta": [
+    "akːweta"
+  ],
+  "acquetai": [
+    "ai"
+  ],
+  "acquetammo": [
+    "amːo"
+  ],
+  "acquetano": [
+    "ano"
+  ],
+  "acquetante": [
+    "ante"
+  ],
+  "acquetare": [
+    "akːwetare"
+  ],
+  "acquetarono": [
+    "arono"
+  ],
+  "acquetasse": [
+    "asːe"
+  ],
+  "acquetassero": [
+    "asːero"
+  ],
+  "acquetassi": [
+    "asːi"
+  ],
+  "acquetassimo": [
+    "asːimo"
+  ],
+  "acquetaste": [
+    "aste"
+  ],
+  "acquetasti": [
+    "asti"
+  ],
+  "acquetata": [
+    "ata"
+  ],
+  "acquetate": [
+    "ate"
+  ],
+  "acquetati": [
+    "ati"
+  ],
+  "acquetava": [
+    "ava"
+  ],
+  "acquetavamo": [
+    "avamo"
+  ],
+  "acquetavano": [
+    "avano"
+  ],
+  "acquetavate": [
+    "avate"
+  ],
+  "acquetavi": [
+    "avi"
+  ],
+  "acquetavo": [
+    "avo"
+  ],
+  "acqueterà": [
+    "era"
+  ],
+  "acqueterai": [
+    "erai"
+  ],
+  "acqueteranno": [
+    "eranːo"
+  ],
+  "acqueterebbe": [
+    "erebːe"
+  ],
+  "acqueterebbero": [
+    "erebːero"
+  ],
+  "acqueterei": [
+    "erei"
+  ],
+  "acqueteremmo": [
+    "eremːo"
+  ],
+  "acqueteremo": [
+    "eremo"
+  ],
+  "acquetereste": [
+    "ereste"
+  ],
+  "acqueteresti": [
+    "eresti"
+  ],
+  "acqueterete": [
+    "erete"
+  ],
+  "acqueterò": [
+    "ero"
+  ],
+  "acqueti": [
+    "akːweti"
+  ],
+  "acquetiamo": [
+    "jamo"
+  ],
+  "acquetiate": [
+    "jate"
+  ],
+  "acquetino": [
+    "ino"
+  ],
+  "acqueto": [
+    "akːweto"
+  ],
+  "acquetò": [
+    "o"
+  ],
+  "acquetta": [
+    "akːwetːa"
+  ],
+  "acquicolo": [
+    "akːwikolo"
+  ],
+  "acquicoltura": [
+    "akːwikoltura"
+  ],
+  "acquicolture": [
+    "akːwikolture"
+  ],
+  "acquidoso": [
+    "akːwidoso",
+    "akːwidozo"
+  ],
+  "acquiescente": [
+    "akːwjeʃʃɛnte"
+  ],
+  "acquiescentemente": [
+    "akːwjeʃʃentemente"
+  ],
+  "acquiescenti": [
+    "akːwjeʃʃɛnti"
+  ],
+  "acquiescenza": [
+    "akːwjeʃʃɛntsa"
+  ],
+  "acquiescere": [
+    "akːwiɛʃʃere"
+  ],
+  "acquieta": [
+    "akːwjeta"
+  ],
+  "acquietai": [
+    "ai"
+  ],
+  "acquietamenti": [
+    "akːjetamenti"
+  ],
+  "acquietamento": [
+    "akːjetamento"
+  ],
+  "acquietammo": [
+    "amːo"
+  ],
+  "acquietando": [
+    "akːwjetando"
+  ],
+  "acquietano": [
+    "ano"
+  ],
+  "acquietante": [
+    "akːwjetante"
+  ],
+  "acquietare": [
+    "akjetare",
+    "akːwjetare"
+  ],
+  "acquietarono": [
+    "arono"
+  ],
+  "acquietarsi": [
+    "akːwjetarsi"
+  ],
+  "acquietasse": [
+    "asːe"
+  ],
+  "acquietassero": [
+    "asːero"
+  ],
+  "acquietassi": [
+    "asːi"
+  ],
+  "acquietassimo": [
+    "asːimo"
+  ],
+  "acquietaste": [
+    "aste"
+  ],
+  "acquietasti": [
+    "asti"
+  ],
+  "acquietata": [
+    "ata"
+  ],
+  "acquietate": [
+    "ate"
+  ],
+  "acquietati": [
+    "ati"
+  ],
+  "acquietato": [
+    "akːwjetato"
+  ],
+  "acquietava": [
+    "ava"
+  ],
+  "acquietavamo": [
+    "avamo"
+  ],
+  "acquietavano": [
+    "avano"
+  ],
+  "acquietavate": [
+    "avate"
+  ],
+  "acquietavi": [
+    "avi"
+  ],
+  "acquietavo": [
+    "avo"
+  ],
+  "acquieterà": [
+    "era"
+  ],
+  "acquieterai": [
+    "erai"
+  ],
+  "acquieteranno": [
+    "eranːo"
+  ],
+  "acquieterebbe": [
+    "erebːe"
+  ],
+  "acquieterebbero": [
+    "erebːero"
+  ],
+  "acquieterei": [
+    "erei"
+  ],
+  "acquieteremmo": [
+    "eremːo"
+  ],
+  "acquieteremo": [
+    "eremo"
+  ],
+  "acquietereste": [
+    "ereste"
+  ],
+  "acquieteresti": [
+    "eresti"
+  ],
+  "acquieterete": [
+    "erete"
+  ],
+  "acquieterò": [
+    "ero"
+  ],
+  "acquieti": [
+    "akːwjeti"
+  ],
+  "acquietiamo": [
+    "jamo"
+  ],
+  "acquietiate": [
+    "jate"
+  ],
+  "acquietino": [
+    "ino"
+  ],
+  "acquieto": [
+    "akːwjeto"
+  ],
+  "acquietò": [
+    "akːwjeto"
+  ],
+  "acquifera": [
+    "akːwifera"
+  ],
+  "acquifere": [
+    "akːwifere"
+  ],
+  "acquiferi": [
+    "akːwiferi"
+  ],
+  "acquifero": [
+    "akːwifero"
+  ],
+  "acquirente": [
+    "akːwirɛnte"
+  ],
+  "acquirenti": [
+    "akːwirɛnti"
+  ],
+  "acquisente": [
+    "akːwizente"
+  ],
+  "acquisibile": [
+    "akːwizibile"
+  ],
+  "acquisibili": [
+    "akːwizibili"
+  ],
+  "acquisire": [
+    "akːwizire"
+  ],
+  "acquisita": [
+    "akːwizita"
+  ],
+  "acquisite": [
+    "akːwizite"
+  ],
+  "acquisiti": [
+    "akːwizito"
+  ],
+  "acquisitivo": [
+    "akːwizitivo"
+  ],
+  "acquisito": [
+    "akːwizito"
+  ],
+  "acquisitore": [
+    "akːuistore"
+  ],
+  "acquisizione": [
+    "akːwizitsjone",
+    "akːwizitːsjone"
+  ],
+  "acquisizioni": [
+    "akːwizitsjoni"
+  ],
+  "acquisizone": [
+    "akːwizitːsjone"
+  ],
+  "acquista": [
+    "akːwista"
+  ],
+  "acquistabile": [
+    "akːwistabile"
+  ],
+  "acquistabili": [
+    "akːwistabili"
+  ],
+  "acquistai": [
+    "akːwistai"
+  ],
+  "acquistammo": [
+    "akːwistamːo"
+  ],
+  "acquistando": [
+    "akːwistando"
+  ],
+  "acquistano": [
+    "akːwistano"
+  ],
+  "acquistante": [
+    "akːwistante"
+  ],
+  "acquistare": [
+    "akːwistare"
+  ],
+  "acquistarono": [
+    "akːwistarono"
+  ],
+  "acquistasse": [
+    "akːwistasːe"
+  ],
+  "acquistassero": [
+    "akːwistasːero"
+  ],
+  "acquistassi": [
+    "akːwistasːi"
+  ],
+  "acquistassimo": [
+    "akːwistasːimo"
+  ],
+  "acquistaste": [
+    "akːwistaste"
+  ],
+  "acquistasti": [
+    "akːwistasti"
+  ],
+  "acquistata": [
+    "akːwistata"
+  ],
+  "acquistate": [
+    "akːwistate"
+  ],
+  "acquistati": [
+    "akːwistati"
+  ],
+  "acquistato": [
+    "akːwistato"
+  ],
+  "acquistava": [
+    "akːwistava"
+  ],
+  "acquistavamo": [
+    "akːwistavamo"
+  ],
+  "acquistavano": [
+    "akːwistavano"
+  ],
+  "acquistavate": [
+    "akːwistavate"
+  ],
+  "acquistavi": [
+    "akːwistavi"
+  ]
 }

@@ -1,502 +1,1536 @@
 {
-  "cronotopo": ["k r o n ɔ t o p o"],
-  "crosazzo": ["k r o z a tː s o"],
-  "crosciare": ["k r o ʃ ʃ a r e"],
-  "croscio": ["k r ɔ ʃ ʃ o"],
-  "cross": ["k r ɔ s"],
-  "crossare": ["k r o sː a r e"],
-  "crosta": ["k r ɔ s t a"],
-  "crostacei": ["k r o s t a t ʃ e i"],
-  "crostaceo": ["k r o s t a t ʃ e o"],
-  "crostare": ["k r o s t a r e"],
-  "crostata": ["k r o s t a t a"],
-  "crostatina": ["k r o s t a t i n a"],
-  "crostino": ["k r o s t i n o"],
-  "crostolo": ["k r ɔ s t o l o"],
-  "crotali": ["k r ɔ t a l i"],
-  "crotalide": ["k r o t a l i d e"],
-  "crotalidi": ["k r o t a l i d e"],
-  "crotalo": ["k r ɔ t a l o"],
-  "crotofagide": ["k r o t o f a d ʒ i d e"],
-  "crotone": ["k r o t o n e"],
-  "crotonese": ["k r o t o n e s e"],
-  "crotonesi": ["k r o t o n e s e"],
-  "crotontiglio": ["k r o t o n t i ʎ o"],
-  "crowdfunding": ["k r a u d f a n d i ɲ"],
-  "cru": ["k r u"],
-  "crucciare": ["k r u tː ʃ a r e"],
-  "crucciato": ["k r u tː ʃ a t o"],
-  "cruccio": ["k r u tː ʃ o"],
-  "crucco": ["k r u kː o"],
-  "cruciale": ["k r u t ʃ a l e"],
-  "crucifiggere": ["k r u t ʃ i f i dː ʒ e r e"],
-  "cruciforme": ["k r u t ʃ i f o r m e"],
-  "cruciformi": ["k r u t ʃ i f o r m i"],
-  "cruciverba": ["k r u t ʃ i v ɛ r b a"],
-  "cruciverbista": ["k r u t ʃ i v e r b i s t a"],
-  "cruciverbiste": ["k r u t ʃ i v e r b i s t e"],
-  "cruciverbisti": ["k r u t ʃ i v e r b i s t i"],
-  "crudamente": ["k r u d a m e n t e"],
-  "crudele": ["k r u d ɛ l e"],
-  "crudeli": ["k r u d ɛ l i"],
-  "crudelissima": ["k r u d ɛ l i sː i m a"],
-  "crudelissime": ["k r u d ɛ l i sː i m e"],
-  "crudelissimi": ["k r u d ɛ l i sː i m i"],
-  "crudelissimo": ["k r u d ɛ l i sː i m o"],
-  "crudelmente": ["k r u d e l m e n t e"],
-  "crudeltà": ["k r u d e l t a"],
-  "crudismi": ["k r u d i z m i"],
-  "crudismo": ["k r u d i z m o"],
-  "crudo": ["k r u d o", "k r u d ɔ"],
-  "cruenta": ["k r u ɛ n t a"],
-  "cruente": ["k r u ɛ n t e"],
-  "cruenti": ["k r u ɛ n t i"],
-  "cruento": ["k r u ɛ n t o"],
-  "crumiro": ["k r u m i r o"],
-  "cruna": ["k r u n a"],
-  "crune": ["k r u n e"],
-  "cruore": ["k r u o r e"],
-  "crurale": ["k r u r a l e"],
-  "crusca": ["k r u s k a"],
-  "cruscaia": ["k r u s k a j a"],
-  "cruscaio": ["k r u s k a j o"],
-  "cruscante": ["k r u s k a n t e"],
-  "cruscanti": ["k r u s k a n t i"],
-  "crusche": ["k r u s k e"],
-  "cruschevole": ["k r u s k e v o l e"],
-  "cruscotto": ["k r u s k ɔ tː o"],
-  "ctonio": ["k t ɔ n j o"],
-  "cu": ["k u"],
-  "cuba": ["k u b a"],
-  "cubaine": ["k u b ɛ"],
-  "cubaines": ["k u b ɛ"],
-  "cubains": ["k u b ɛ"],
-  "cubana": ["k u b a n a"],
-  "cubane": ["k u b a n e"],
-  "cubani": ["k u b a n i"],
-  "cubano": ["k u b a n o"],
-  "cubare": ["k u b a r e"],
-  "cubatura": ["k u b a t u r a"],
-  "cube": ["k u b e"],
-  "cubetti": ["k u b e tː i"],
-  "cubetto": ["k u b e tː o"],
-  "cubi": ["k u b i"],
-  "cubica": ["k u b i k a"],
-  "cubiche": ["k u b i k e"],
-  "cubici": ["k u b i t ʃ i"],
-  "cubico": ["k u b i k o"],
-  "cubicolo": ["k u b i k o l o"],
-  "cubiforme": ["k u b i f o r m e"],
-  "cubilotto": ["k u b i l ɔ tː o"],
-  "cubismo": ["k u b i z m o"],
-  "cubista": ["k u b i s t a"],
-  "cubitale": ["k u b i t a l e"],
-  "cubiti": ["k u b i t i"],
-  "cubitiera": ["k u b i t j ɛ r a"],
-  "cubito": ["k u b i t o"],
-  "cubo": ["k u b o"],
-  "cuccagna": ["k u kː a ɲ ɲ a"],
-  "cuccare": ["k u kː a r e"],
-  "cuccetta": ["k u tː ʃ e tː a"],
-  "cucchiai": ["k u kː j a i"],
-  "cucchiaia": ["k u kː j a j a"],
-  "cucchiaiata": ["k u kː j a j a t a"],
-  "cucchiaino": ["k u kː j a i n o"],
-  "cucchiaio": ["k u kː j a j o"],
-  "cucchiara": ["k u kː j a r a"],
-  "cuccia": ["k u tː ʃ a"],
-  "cucciare": ["k u tː ʃ a r e"],
-  "cuccio": ["k u tː ʃ o"],
-  "cucciola": ["k u tː ʃ o l a"],
-  "cùcciola": ["k u tː ʃ o l a"],
-  "cucciolata": ["k u tː ʃ o l a t a"],
-  "cucciole": ["k u tː ʃ o l e"],
-  "cùcciole": ["k u tː ʃ o l e"],
-  "cuccioletto": ["k u tː ʃ o l e tː o"],
-  "cuccioli": ["k u tː ʃ o l i"],
-  "cùccioli": ["k u tː ʃ o l i"],
-  "cucciolo": ["k u tː ʃ o l o"],
-  "cùcciolo": ["k u tː ʃ o l o"],
-  "cucco": ["k u kː o"],
-  "cuccù": ["k u kː u"],
-  "cuccustrettola": ["k u kː u s t r e tː o l a"],
-  "cuccustrettole": ["k u kː u s t r e tː o l e"],
-  "cucente": ["k u t ʃ e n t e"],
-  "cucina": ["k u t ʃ i n a"],
-  "cucinabile": ["k u t ʃ i n a b i l e"],
-  "cucinabili": ["k u t ʃ i n a b i l i"],
-  "cucinante": ["k u t ʃ i n a n t e"],
-  "cucinare": ["k u t ʃ i n a r e"],
-  "cucinata": ["k u t ʃ i n a t a"],
-  "cucinate": ["k u t ʃ i n a t e"],
-  "cucinati": ["k u t ʃ i n a t i"],
-  "cucinato": ["k u t ʃ i n a t o"],
-  "cucine": ["k u t ʃ i n e"],
-  "cuciniere": ["k u t ʃ i n j ɛ r e"],
-  "cucinieri": ["k u t ʃ i n j ɛ r i"],
-  "cucinino": ["k u t ʃ i n i n o"],
-  "cucinotto": ["k u t ʃ i n ɔ tː o"],
-  "cucire": ["k u t ʃ i r e"],
-  "cucito": ["k u t ʃ i t o"],
-  "cucitore": ["k u t ʃ i t o r e"],
-  "cucitori": ["k u t ʃ i t o r i"],
-  "cucitrice": ["k u t ʃ i t r i t ʃ e"],
-  "cucitrici": ["k u t ʃ i t r i t ʃ i"],
-  "cucitura": ["k u t ʃ i t u r a"],
-  "cuciture": ["k u t ʃ i t u r e"],
-  "cucù": ["k u k u"],
-  "cuculi": ["k u k u l i"],
-  "cuculide": ["k u k u l i d e"],
-  "cuculidi": ["k u k u l i d i"],
-  "cuculiforme": ["k u k u l i f o r m e"],
-  "cuculiformi": ["k u k u l i f o r m i"],
-  "cuculo": ["k u k u l o"],
-  "cucurbita": ["k u k u r b i t a"],
-  "cucurbitacea": ["k u k u r b i t a t ʃ e a"],
-  "cucurbitacee": ["k u k u r b i t a t ʃ e e"],
-  "cucurbite": ["k u k u r b i t e"],
-  "cudù": ["k u d u"],
-  "cuffia": ["k u fː j a"],
-  "cuffie": ["k u fː j e"],
-  "cugina": ["k u d ʒ i n a"],
-  "cuginanza": ["k u d ʒ i n a n t s a"],
-  "cugine": ["k u d ʒ i n e"],
-  "cuginetto": ["k u d ʒ i n e tː o"],
-  "cugini": ["k u d ʒ i n i"],
-  "cugino": ["k u d ʒ i n o"],
-  "cui": ["k u j"],
-  "cuiussi": ["k u j u sː i"],
-  "cuiusso": ["k u j u sː o"],
-  "culaccino": ["k u l a tː ʃ i n o"],
-  "culaccio": ["k u l a tː ʃ o"],
-  "culaco": ["k u l a k o"],
-  "culatello": ["k u l a t ɛ lː o"],
-  "culatta": ["k u l a tː a"],
-  "culbianchi": ["k u l b j a ɲ k i"],
-  "culbianco": ["k u l b j a n k o", "k u l b j a ɲ k o"],
-  "culetto": ["k u l e tː o"],
-  "culicide": ["k u l i t ʃ i d e"],
-  "culicidi": ["k u l i t ʃ i d i"],
-  "culinari": ["k u l i n a r i"],
-  "culinaria": ["k u l i n a r j a"],
-  "culinarie": ["k u l i n a r j a", "k u l i n a r j e"],
-  "culinario": ["k u l i n a r j o"],
-  "culla": ["k u lː a"],
-  "cullante": ["k u lː a n t e"],
-  "cullare": ["k u lː a r e"],
-  "cullarsi": ["k u lː a r s i"],
-  "cullato": ["k u lː a t o"],
-  "culminale": ["k u l m i n a l e"],
-  "culminante": ["k u l m i n a n t e"],
-  "culminanti": ["k u l m i n a n t i"],
-  "culminare": ["k u l m i n a r e"],
-  "culminato": ["k u l m i n a t o"],
-  "culminazione": ["k u l m i n a tː s j o n e"],
-  "culmine": ["k u l m i n e"],
-  "culo": ["k u l o"],
-  "culti": ["k u l t i"],
-  "culto": ["k u l t o"],
-  "cultore": ["k u l t o r e"],
-  "cultori": ["k u l t o r e"],
-  "cultrice": ["k u l t r i t ʃ e"],
-  "cultrici": ["k u l t r i t ʃ i"],
-  "cultuale": ["k u l t u a l e"],
-  "cultura": ["k u l t u r a"],
-  "culturale": ["k u l t u r a l e"],
-  "culturali": ["k u l t u r a l i"],
-  "culturalmente": ["k u l t u r a l m e n t e"],
-  "culturismi": ["k u l t u r i z m i"],
-  "culturismo": ["k u l t u r i z m", "k u l t u r i z m o"],
-  "culturista": ["k u l t u r i s t a"],
-  "culturiste": ["k u l t u r i s t e"],
-  "culturisti": ["k u l t u r i s t i"],
-  "cumini": ["k u m i n i"],
-  "cumino": ["k u m i n o"],
-  "cumulabile": ["k u m u l a b i l e"],
-  "cumulabili": ["k u m u l a b i l i"],
-  "cumulare": ["k u m u l a r e"],
-  "cumulativamente": ["k u m u l a t i v a m e n t e"],
-  "cumulativo": ["k u m u l a t i v o"],
-  "cumuliforme": ["k u m u l i f o r m e"],
-  "cumuliformi": ["k u m u l i f o r m i"],
-  "cumulo": ["k u m u l o"],
-  "cumulonembo": ["k u m u l o n e m b o"],
-  "cuna": ["k u n a"],
-  "cune": ["k u n e"],
-  "cuneense": ["k u n e ɛ n s e"],
-  "cuneese": ["k u n e e s e", "k u n e e z e"],
-  "cuneiforme": ["k u n e i f o r m e", "k u n e j f o r m e"],
-  "cuneiformi": ["k u n e i f o r m i"],
-  "cuneo": ["k u n e o"],
-  "cunetta": ["k u n e tː a"],
-  "cunicoli": ["k u n i k o l i", "k u n i k o l o"],
-  "cunicolo": ["k u n i k o l o"],
-  "cunicoltura": ["k u n i k o l t u r a"],
-  "cunicolture": ["k u n i k o l t u r e"],
-  "cunnilingi": ["k u nː i l i n d ʒ i"],
-  "cunnilingio": ["k u nː i l i n d ʒ o"],
-  "cunta": ["k u n t a"],
-  "cuoca": ["k w ɔ k a"],
-  "cuocere": ["k w ɔ t ʃ e r e", "k w ɔ t ʃ ɛ r e"],
-  "cuocersi": ["k w ɔ t ʃ e r s i"],
-  "cuoche": ["k w ɔ k"],
-  "cuochi": ["k w ɔ k i", "k w ɔ k o"],
-  "cuoco": ["k u ɔ k o", "k w ɔ k o"],
-  "cuoi": ["k w ɔ i"],
-  "cuoiaio": ["k w o j a j o"],
-  "cuoio": ["k u ɔ i o", "k w ɔ j o"],
-  "cuora": ["k w ɔ r a"],
-  "cuorcontento": ["k w ɔ r k o n t ɛ n t o"],
-  "cuore": ["k u ɔ r e", "k w ɔ r e"],
-  "cuori": ["k u ɔ r i", "k w ɔ r i"],
-  "cuoriforme": ["k w o r i f o r m e", "k w ɔ r i f o r m e"],
-  "cuoriformi": ["k w o r i f o r m i"],
-  "cupa": ["k u p a"],
-  "cupe": ["k u p e"],
-  "cupi": ["k u p i"],
-  "cupidigia": ["k u p i d i d ʒ a"],
-  "cupidigie": ["k u p i d i d ʒ e"],
-  "cupidità": ["k u p i d i t a"],
-  "cupido": ["k u p i d o"],
-  "cupo": ["k u p o"],
-  "cupola": ["k u p o l a"],
-  "cupoletta": ["k u p o l e tː a"],
-  "cupoliforme": ["k u p o l i f o r m e"],
-  "cupolino": ["k u p o l i n o"],
-  "cupolone": ["k u p o l o n e"],
-  "cupralluminio": ["k u p r a lː u m i n j o"],
-  "cupreo": ["k u p r e o"],
-  "cuprifero": ["k u p r i f e r o"],
-  "cuprolega": ["k u p r o l e ɡ a"],
-  "cupronichel": ["k u p r o n i k e l"],
-  "cura": ["k u r a"],
-  "curabile": ["k u r a b i l e"],
-  "curabili": ["k u r a b i l i"],
-  "curabilità": ["k u r a b i l i t a"],
-  "curandaio": ["k u r a n d a j o"],
-  "curando": ["k u r a n d o"],
-  "curante": ["k u r a n t e"],
-  "curare": ["k u r a r e"],
-  "curarsi": ["k u r a r s i"],
-  "curatela": ["k u r a t ɛ l a"],
-  "curati": ["k u r a t i"],
-  "curato": ["k u r a t ɔ"],
-  "curatore": ["k u r a t o r e"],
-  "curatrice": ["k u r a t r i t ʃ e"],
-  "curba": ["k u r b a"],
-  "curbasciata": ["k u r b a ʃ ʃ a t a"],
-  "curbascio": ["k u r b a ʃ ʃ o"],
-  "curci": ["k u r t ʃ i"],
-  "curculione": ["k u r k u l j o n e"],
-  "curculionidi": ["k u r k u l j ɔ n i d i"],
-  "curcuma": ["k u r k u m a"],
-  "curcumina": ["k u r k u m i n a"],
-  "curda": ["k u r d a"],
-  "curde": ["k u r d e"],
-  "curdi": ["k u r d i"],
-  "curdo": ["k u r d o"],
-  "curia": ["k u r j a"],
-  "curiale": ["k u r j a l e"],
-  "curialesco": ["k u r j a l e s k o"],
-  "curiate": ["k u r j a t e"],
-  "curie": ["k u r", "k u r i"],
-  "curio": ["k u r j o"],
-  "curiosa": ["k u r j ɔ z a"],
-  "curiosamente": ["k u r j o z a m e n t e"],
-  "curiosare": ["k u r j o s a r e", "k u r j o z a r e"],
-  "curiosi": ["k u r j ɔ z i"],
-  "curiosità": ["k u r j o z i t a"],
-  "curioso": ["k u r j o z o", "k u r j ɔ z o"],
-  "curling": ["k ɛ r l i n", "k ɛ r l i n ɡ", "k u r l i ɲ ɡ"],
-  "curricolare": ["k u rː i k o l a r e"],
-  "curriculum": ["k u rː i k u l u m"],
-  "curro": ["k u rː o"],
-  "cursore": ["k u r s o r e"],
-  "curva": ["k u r v", "k u r v a"],
-  "curvarsi": ["k u r v a r s i"],
-  "curvato": ["k u r v a t o"],
-  "curvatura": ["k u r v a t u r a"],
-  "curvature": ["k u r v a t u r e"],
-  "curve": ["k u r v e"],
-  "curvi": ["k u r v o"],
-  "curvimetri": ["k u r v i m e t r i"],
-  "curvimetro": ["k u r v i m e t r o"],
-  "curvo": ["k u r v o"],
-  "curvoso": ["k u r v o s o", "k u r v o z o"],
-  "cuscinetto": ["k u ʃ ʃ i n e tː o"],
-  "cuscini": ["k u ʃ ʃ i n i"],
-  "cuscino": ["k u ʃ ʃ i n o"],
-  "cuscuta": ["k u s k u t a"],
-  "cuspide": ["k u s p i d e"],
-  "cussi": ["k u sː i"],
-  "cusso": ["k u sː o"],
-  "custode": ["k u s t ɔ d e"],
-  "custodi": ["k u s t ɔ d i"],
-  "custodia": ["k u s t ɔ d j a"],
-  "custodire": ["k u s t o d i r e"],
-  "custodito": ["k u s t o d i t o"],
-  "customizzante": ["k u s t o m i dː ʒ a n t e"],
-  "customizzare": ["k u s t o m i dː ʒ a r e", "k u s t o m i tː s a r e"],
-  "customizzato": ["k u s t o m i dː ʒ a t o"],
-  "cutaneo": ["k u t a n e o"],
-  "cuticagna": ["k u t i k a ɲ ɲ a"],
-  "cuticugno": ["k u t i k u ɲ ɲ o"],
-  "cutrettola": ["k u t r e tː o l a"],
-  "cuttì": ["k u tː i"],
-  "cyberbullismi": ["s a j b e r b u lː i z m i"],
-  "cyberbullismo": ["s a j b e r b u lː i z m o"],
-  "cyberspazio": ["s a j b e r s p a tː s j o"],
-  "d": ["d", "d i"],
-  "d’": ["d"],
-  "d’abitudine": ["d a b i t u d i n e"],
-  "d’altronde": ["d a l t r ɔ n d e"],
-  "d’emblée": ["d a m b l e"],
-  "d’oro": ["d ɔ r o"],
-  "da": ["d a"],
-  "dà": ["d a"],
-  "da’": ["d a"],
-  "dab": ["d a b"],
-  "dabbasso": ["d a bː a sː o", "d a bː a sː ɔ"],
-  "dabbenaggine": ["d a bː e n a dː ʒ i n e"],
-  "dabbene": ["d a bː ɛ n e"],
-  "dabbudà": ["d a bː u d a"],
-  "dabbuddà": ["d a bː u dː a"],
-  "daboia": ["d a b ɔ j a"],
-  "dabuddà": ["d a b u dː a"],
-  "dacci": ["d a tː ʃ i"],
-  "dacia": ["d a t ʃ a"],
-  "dacico": ["d a t ʃ i k o"],
-  "dacnomania": ["d a k n o m a n i a"],
-  "daco": ["d a k o"],
-  "dacoromeno": ["d a k o r o m ɛ n o"],
-  "dacorumeno": ["d a k o r u m ɛ n o"],
-  "dadaismo": ["d a d a i z m", "d a d a i z m o"],
-  "dadaista": ["d a d a i s t a"],
-  "dadaiste": ["d a d a i s t e"],
-  "dadaisti": ["d a d a i s t i"],
-  "dadino": ["d a d i n o"],
-  "dado": ["d a d o"],
-  "dadoforo": ["d a d ɔ f o r o"],
-  "daffare": ["d a fː a r e"],
-  "dafnia": ["d a f n j a"],
-  "daga": ["d a ɡ a"],
-  "dagherrotipi": ["d a ɡ e rː ɔ t i p i"],
-  "dagherrotipia": ["d a ɡ e rː o t i p i a"],
-  "dagherrotipie": ["d a ɡ e rː o t i p i e"],
-  "dagherrotipista": ["d a ɡ e rː o t i p i s t a"],
-  "dagherrotipiste": ["d a ɡ e rː o t i p i s t e"],
-  "dagherrotipisti": ["d a ɡ e rː o t i p i s t i"],
-  "dagherrotipo": ["d a ɡ e rː ɔ t i p o"],
-  "dagli": ["d a ʎ i"],
-  "dai": ["d a i"],
-  "daini": ["d a j n i"],
-  "daino": ["d a i n o", "d a j n o"],
-  "dal": ["d a l"],
-  "dalbergia": ["d a l b ɛ r d ʒ a"],
-  "dalek": ["d a l e k"],
-  "dalet": ["d a l e t"],
-  "dalia": ["d a l i a", "d a l j a"],
-  "dalila": ["d a l i l a"],
-  "dall’": ["d a lː"],
-  "dalla": ["d a lː a"],
-  "dalle": ["d a lː e"],
-  "dalli": ["d a lː i"],
-  "dallo": ["d a lː o"],
-  "dalmata": ["d a l m a t a"],
-  "dalmate": ["d a l m a t e"],
-  "dalmati": ["d a l m a t i"],
-  "dalmatica": ["d a l m a t i k a"],
-  "dalmatico": ["d a l m a t i k o"],
-  "dalmazia": ["d a l m a tː s j a"],
-  "daltonico": ["d a l t ɔ n i k o"],
-  "daltonismo": ["d a l t o n i z m o"],
-  "dama": ["d a m a"],
-  "damalisco": ["d a m a l i s k o"],
-  "damante": ["d a m a n t e"],
-  "damare": ["d a m a r e"],
-  "damascare": ["d a m a s k o"],
-  "damascato": ["d a m a s k a t o"],
-  "damascena": ["d a m a ʃ ʃ e n a"],
-  "damascene": ["d a m a ʃ ʃ e n e"],
-  "damasceni": ["d a m a ʃ ʃ e n i"],
-  "damasceno": ["d a m a ʃ ʃ e n o"],
-  "damaschi": ["d a m a s k i"],
-  "damaschina": ["d a m a s k i n a"],
-  "damaschinante": ["d a m a s k i n a n t e"],
-  "damaschinare": ["d a m a s k i n a r e"],
-  "damaschinata": ["d a m a s k i n a t a"],
-  "damaschinate": ["d a m a s k i n a t e"],
-  "damaschinati": ["d a m a s k i n a t i"],
-  "damaschinato": ["d a m a s k i n a t o"],
-  "damaschine": ["d a m a s k i n e"],
-  "damaschini": ["d a m a s k i n i"],
-  "damaschino": ["d a m a s k i n o"],
-  "damasco": ["d a m a s k o"],
-  "damato": ["d a m a t o"],
-  "dame": ["d a m e"],
-  "damerino": ["d a m e r i n o"],
-  "damigella": ["d a m i d ʒ ɛ lː a"],
-  "damigelle": ["d a m i d ʒ ɛ lː e"],
-  "damigiana": ["d a m i d ʒ a n a"],
-  "damista": ["d a m i s t a"],
-  "damiste": ["d a m i s t e"],
-  "damisti": ["d a m i s t i"],
-  "dammaggio": ["d a mː a dː ʒ o"],
-  "dammeno": ["d a mː e n o"],
-  "dammi": ["d a mː i"],
-  "dan": ["d a n"],
-  "danaro": ["d a n a r o"],
-  "danarosamente": ["d a n a r o s a m e n t e"],
-  "danaroso": ["d a n a r o s o", "d a n a r o z o"],
-  "dandismo": ["d a n d i z m o"],
-  "dando": ["d a n d o"],
-  "danese": ["d a n e s e", "d a n e z", "d a n e z e"],
-  "daniela": ["d a n j ɛ l a"],
-  "daniele": ["d a n i ɛ l e", "d a n j ɛ l e"],
-  "danimarca": ["d a n i m a r k a"],
-  "dannabile": ["d a nː a b i l e"],
-  "dannaggio": ["d a nː a dː ʒ o"],
-  "dannante": ["d a nː a n t e"],
-  "dannare": ["d a nː a r e"],
-  "dannarsi": ["d a nː a r s i"],
-  "dannata": ["d a nː a t a"],
-  "dannate": ["d a nː a t e"],
-  "dannati": ["d a nː a t i"],
-  "dannato": ["d a nː a t o"],
-  "dannazione": ["d a nː a t s j o n e"],
-  "dannazioni": ["d a nː a t s j o n i"],
-  "danneggiamenti": ["d a nː e dː ʒ a m e n t i"],
-  "danneggiamento": ["d a nː e dː ʒ a m e n t o"],
-  "danneggiare": ["d a nː e dː ʒ a r e", "d a nː ɛ ɡ d ʒ a r e"],
-  "danneggiato": ["d a nː e dː ʒ a t o"],
-  "dannevole": ["d a nː e v o l e"],
-  "danni": ["d a nː i"],
-  "danno": ["d a nː o"],
-  "dannoso": ["d a nː o s o", "d a nː o z o"],
-  "dannunziano": ["d a nː u n t s j a n o"],
-  "dante": ["d a n t e"],
-  "dantesca": ["d a n t e s k a"],
-  "dantesche": ["d a n t e s k e"],
-  "danteschi": ["d a n t e s k i"],
-  "dantesco": ["d a n t e s k o"],
-  "danti": ["d a n t i"],
-  "dantismo": ["d a n t i z m o"],
-  "danubiano": ["d a n u b j a n o"],
-  "danubio": ["d a n u b j o"],
-  "danza": ["d a n t s a"],
-  "danzante": ["d a n t s a n t e"],
-  "danzanti": ["d a n t s a n t i"],
-  "danzare": ["d a n t s a r e"],
-  "danzato": ["d a n t s a t o"],
-  "danzatore": ["d a n t s a t o r e"],
-  "danzatori": ["d a n t s a t o r i"],
-  "danzatrice": ["d a n t s a t r i t ʃ e"],
-  "danzatrici": ["d a n t s a t r i t ʃ i"],
-  "danze": ["d a n t s e"],
-  "danzica": ["d a n t s i k a"],
-  "dape": ["d a p e"],
-  "dappertutto": ["d a pː e r t u tː o", "d a pː ɛ r t u tː ɔ"],
-  "dappocaggine": ["a pː o k a dː ʒ i n e"],
-  "dappoco": ["d a pː ɔ k o"],
-  "dappoiché": ["d a pː o j k e"]
+  "cronotopo": [
+    "kronɔtopo"
+  ],
+  "crosazzo": [
+    "krozatːso"
+  ],
+  "crosciare": [
+    "kroʃʃare"
+  ],
+  "croscio": [
+    "krɔʃʃo"
+  ],
+  "cross": [
+    "krɔs"
+  ],
+  "crossare": [
+    "krosːare"
+  ],
+  "crosta": [
+    "krɔsta"
+  ],
+  "crostacei": [
+    "krostatʃei"
+  ],
+  "crostaceo": [
+    "krostatʃeo"
+  ],
+  "crostare": [
+    "krostare"
+  ],
+  "crostata": [
+    "krostata"
+  ],
+  "crostatina": [
+    "krostatina"
+  ],
+  "crostino": [
+    "krostino"
+  ],
+  "crostolo": [
+    "krɔstolo"
+  ],
+  "crotali": [
+    "krɔtali"
+  ],
+  "crotalide": [
+    "krotalide"
+  ],
+  "crotalidi": [
+    "krotalide"
+  ],
+  "crotalo": [
+    "krɔtalo"
+  ],
+  "crotofagide": [
+    "krotofadʒide"
+  ],
+  "crotone": [
+    "krotone"
+  ],
+  "crotonese": [
+    "krotonese"
+  ],
+  "crotonesi": [
+    "krotonese"
+  ],
+  "crotontiglio": [
+    "krotontiʎo"
+  ],
+  "crowdfunding": [
+    "kraudfandiɲ"
+  ],
+  "cru": [
+    "kru"
+  ],
+  "crucciare": [
+    "krutːʃare"
+  ],
+  "crucciato": [
+    "krutːʃato"
+  ],
+  "cruccio": [
+    "krutːʃo"
+  ],
+  "crucco": [
+    "krukːo"
+  ],
+  "cruciale": [
+    "krutʃale"
+  ],
+  "crucifiggere": [
+    "krutʃifidːʒere"
+  ],
+  "cruciforme": [
+    "krutʃiforme"
+  ],
+  "cruciformi": [
+    "krutʃiformi"
+  ],
+  "cruciverba": [
+    "krutʃivɛrba"
+  ],
+  "cruciverbista": [
+    "krutʃiverbista"
+  ],
+  "cruciverbiste": [
+    "krutʃiverbiste"
+  ],
+  "cruciverbisti": [
+    "krutʃiverbisti"
+  ],
+  "crudamente": [
+    "krudamente"
+  ],
+  "crudele": [
+    "krudɛle"
+  ],
+  "crudeli": [
+    "krudɛli"
+  ],
+  "crudelissima": [
+    "krudɛlisːima"
+  ],
+  "crudelissime": [
+    "krudɛlisːime"
+  ],
+  "crudelissimi": [
+    "krudɛlisːimi"
+  ],
+  "crudelissimo": [
+    "krudɛlisːimo"
+  ],
+  "crudelmente": [
+    "krudelmente"
+  ],
+  "crudeltà": [
+    "krudelta"
+  ],
+  "crudismi": [
+    "krudizmi"
+  ],
+  "crudismo": [
+    "krudizmo"
+  ],
+  "crudo": [
+    "krudo",
+    "krudɔ"
+  ],
+  "cruenta": [
+    "kruɛnta"
+  ],
+  "cruente": [
+    "kruɛnte"
+  ],
+  "cruenti": [
+    "kruɛnti"
+  ],
+  "cruento": [
+    "kruɛnto"
+  ],
+  "crumiro": [
+    "krumiro"
+  ],
+  "cruna": [
+    "kruna"
+  ],
+  "crune": [
+    "krune"
+  ],
+  "cruore": [
+    "kruore"
+  ],
+  "crurale": [
+    "krurale"
+  ],
+  "crusca": [
+    "kruska"
+  ],
+  "cruscaia": [
+    "kruskaja"
+  ],
+  "cruscaio": [
+    "kruskajo"
+  ],
+  "cruscante": [
+    "kruskante"
+  ],
+  "cruscanti": [
+    "kruskanti"
+  ],
+  "crusche": [
+    "kruske"
+  ],
+  "cruschevole": [
+    "kruskevole"
+  ],
+  "cruscotto": [
+    "kruskɔtːo"
+  ],
+  "ctonio": [
+    "ktɔnjo"
+  ],
+  "cu": [
+    "ku"
+  ],
+  "cuba": [
+    "kuba"
+  ],
+  "cubaine": [
+    "kubɛ"
+  ],
+  "cubaines": [
+    "kubɛ"
+  ],
+  "cubains": [
+    "kubɛ"
+  ],
+  "cubana": [
+    "kubana"
+  ],
+  "cubane": [
+    "kubane"
+  ],
+  "cubani": [
+    "kubani"
+  ],
+  "cubano": [
+    "kubano"
+  ],
+  "cubare": [
+    "kubare"
+  ],
+  "cubatura": [
+    "kubatura"
+  ],
+  "cube": [
+    "kube"
+  ],
+  "cubetti": [
+    "kubetːi"
+  ],
+  "cubetto": [
+    "kubetːo"
+  ],
+  "cubi": [
+    "kubi"
+  ],
+  "cubica": [
+    "kubika"
+  ],
+  "cubiche": [
+    "kubike"
+  ],
+  "cubici": [
+    "kubitʃi"
+  ],
+  "cubico": [
+    "kubiko"
+  ],
+  "cubicolo": [
+    "kubikolo"
+  ],
+  "cubiforme": [
+    "kubiforme"
+  ],
+  "cubilotto": [
+    "kubilɔtːo"
+  ],
+  "cubismo": [
+    "kubizmo"
+  ],
+  "cubista": [
+    "kubista"
+  ],
+  "cubitale": [
+    "kubitale"
+  ],
+  "cubiti": [
+    "kubiti"
+  ],
+  "cubitiera": [
+    "kubitjɛra"
+  ],
+  "cubito": [
+    "kubito"
+  ],
+  "cubo": [
+    "kubo"
+  ],
+  "cuccagna": [
+    "kukːaɲɲa"
+  ],
+  "cuccare": [
+    "kukːare"
+  ],
+  "cuccetta": [
+    "kutːʃetːa"
+  ],
+  "cucchiai": [
+    "kukːjai"
+  ],
+  "cucchiaia": [
+    "kukːjaja"
+  ],
+  "cucchiaiata": [
+    "kukːjajata"
+  ],
+  "cucchiaino": [
+    "kukːjaino"
+  ],
+  "cucchiaio": [
+    "kukːjajo"
+  ],
+  "cucchiara": [
+    "kukːjara"
+  ],
+  "cuccia": [
+    "kutːʃa"
+  ],
+  "cucciare": [
+    "kutːʃare"
+  ],
+  "cuccio": [
+    "kutːʃo"
+  ],
+  "cucciola": [
+    "kutːʃola"
+  ],
+  "cùcciola": [
+    "kutːʃola"
+  ],
+  "cucciolata": [
+    "kutːʃolata"
+  ],
+  "cucciole": [
+    "kutːʃole"
+  ],
+  "cùcciole": [
+    "kutːʃole"
+  ],
+  "cuccioletto": [
+    "kutːʃoletːo"
+  ],
+  "cuccioli": [
+    "kutːʃoli"
+  ],
+  "cùccioli": [
+    "kutːʃoli"
+  ],
+  "cucciolo": [
+    "kutːʃolo"
+  ],
+  "cùcciolo": [
+    "kutːʃolo"
+  ],
+  "cucco": [
+    "kukːo"
+  ],
+  "cuccù": [
+    "kukːu"
+  ],
+  "cuccustrettola": [
+    "kukːustretːola"
+  ],
+  "cuccustrettole": [
+    "kukːustretːole"
+  ],
+  "cucente": [
+    "kutʃente"
+  ],
+  "cucina": [
+    "kutʃina"
+  ],
+  "cucinabile": [
+    "kutʃinabile"
+  ],
+  "cucinabili": [
+    "kutʃinabili"
+  ],
+  "cucinante": [
+    "kutʃinante"
+  ],
+  "cucinare": [
+    "kutʃinare"
+  ],
+  "cucinata": [
+    "kutʃinata"
+  ],
+  "cucinate": [
+    "kutʃinate"
+  ],
+  "cucinati": [
+    "kutʃinati"
+  ],
+  "cucinato": [
+    "kutʃinato"
+  ],
+  "cucine": [
+    "kutʃine"
+  ],
+  "cuciniere": [
+    "kutʃinjɛre"
+  ],
+  "cucinieri": [
+    "kutʃinjɛri"
+  ],
+  "cucinino": [
+    "kutʃinino"
+  ],
+  "cucinotto": [
+    "kutʃinɔtːo"
+  ],
+  "cucire": [
+    "kutʃire"
+  ],
+  "cucito": [
+    "kutʃito"
+  ],
+  "cucitore": [
+    "kutʃitore"
+  ],
+  "cucitori": [
+    "kutʃitori"
+  ],
+  "cucitrice": [
+    "kutʃitritʃe"
+  ],
+  "cucitrici": [
+    "kutʃitritʃi"
+  ],
+  "cucitura": [
+    "kutʃitura"
+  ],
+  "cuciture": [
+    "kutʃiture"
+  ],
+  "cucù": [
+    "kuku"
+  ],
+  "cuculi": [
+    "kukuli"
+  ],
+  "cuculide": [
+    "kukulide"
+  ],
+  "cuculidi": [
+    "kukulidi"
+  ],
+  "cuculiforme": [
+    "kukuliforme"
+  ],
+  "cuculiformi": [
+    "kukuliformi"
+  ],
+  "cuculo": [
+    "kukulo"
+  ],
+  "cucurbita": [
+    "kukurbita"
+  ],
+  "cucurbitacea": [
+    "kukurbitatʃea"
+  ],
+  "cucurbitacee": [
+    "kukurbitatʃee"
+  ],
+  "cucurbite": [
+    "kukurbite"
+  ],
+  "cudù": [
+    "kudu"
+  ],
+  "cuffia": [
+    "kufːja"
+  ],
+  "cuffie": [
+    "kufːje"
+  ],
+  "cugina": [
+    "kudʒina"
+  ],
+  "cuginanza": [
+    "kudʒinantsa"
+  ],
+  "cugine": [
+    "kudʒine"
+  ],
+  "cuginetto": [
+    "kudʒinetːo"
+  ],
+  "cugini": [
+    "kudʒini"
+  ],
+  "cugino": [
+    "kudʒino"
+  ],
+  "cui": [
+    "kuj"
+  ],
+  "cuiussi": [
+    "kujusːi"
+  ],
+  "cuiusso": [
+    "kujusːo"
+  ],
+  "culaccino": [
+    "kulatːʃino"
+  ],
+  "culaccio": [
+    "kulatːʃo"
+  ],
+  "culaco": [
+    "kulako"
+  ],
+  "culatello": [
+    "kulatɛlːo"
+  ],
+  "culatta": [
+    "kulatːa"
+  ],
+  "culbianchi": [
+    "kulbjaɲki"
+  ],
+  "culbianco": [
+    "kulbjanko",
+    "kulbjaɲko"
+  ],
+  "culetto": [
+    "kuletːo"
+  ],
+  "culicide": [
+    "kulitʃide"
+  ],
+  "culicidi": [
+    "kulitʃidi"
+  ],
+  "culinari": [
+    "kulinari"
+  ],
+  "culinaria": [
+    "kulinarja"
+  ],
+  "culinarie": [
+    "kulinarja",
+    "kulinarje"
+  ],
+  "culinario": [
+    "kulinarjo"
+  ],
+  "culla": [
+    "kulːa"
+  ],
+  "cullante": [
+    "kulːante"
+  ],
+  "cullare": [
+    "kulːare"
+  ],
+  "cullarsi": [
+    "kulːarsi"
+  ],
+  "cullato": [
+    "kulːato"
+  ],
+  "culminale": [
+    "kulminale"
+  ],
+  "culminante": [
+    "kulminante"
+  ],
+  "culminanti": [
+    "kulminanti"
+  ],
+  "culminare": [
+    "kulminare"
+  ],
+  "culminato": [
+    "kulminato"
+  ],
+  "culminazione": [
+    "kulminatːsjone"
+  ],
+  "culmine": [
+    "kulmine"
+  ],
+  "culo": [
+    "kulo"
+  ],
+  "culti": [
+    "kulti"
+  ],
+  "culto": [
+    "kulto"
+  ],
+  "cultore": [
+    "kultore"
+  ],
+  "cultori": [
+    "kultore"
+  ],
+  "cultrice": [
+    "kultritʃe"
+  ],
+  "cultrici": [
+    "kultritʃi"
+  ],
+  "cultuale": [
+    "kultuale"
+  ],
+  "cultura": [
+    "kultura"
+  ],
+  "culturale": [
+    "kulturale"
+  ],
+  "culturali": [
+    "kulturali"
+  ],
+  "culturalmente": [
+    "kulturalmente"
+  ],
+  "culturismi": [
+    "kulturizmi"
+  ],
+  "culturismo": [
+    "kulturizm",
+    "kulturizmo"
+  ],
+  "culturista": [
+    "kulturista"
+  ],
+  "culturiste": [
+    "kulturiste"
+  ],
+  "culturisti": [
+    "kulturisti"
+  ],
+  "cumini": [
+    "kumini"
+  ],
+  "cumino": [
+    "kumino"
+  ],
+  "cumulabile": [
+    "kumulabile"
+  ],
+  "cumulabili": [
+    "kumulabili"
+  ],
+  "cumulare": [
+    "kumulare"
+  ],
+  "cumulativamente": [
+    "kumulativamente"
+  ],
+  "cumulativo": [
+    "kumulativo"
+  ],
+  "cumuliforme": [
+    "kumuliforme"
+  ],
+  "cumuliformi": [
+    "kumuliformi"
+  ],
+  "cumulo": [
+    "kumulo"
+  ],
+  "cumulonembo": [
+    "kumulonembo"
+  ],
+  "cuna": [
+    "kuna"
+  ],
+  "cune": [
+    "kune"
+  ],
+  "cuneense": [
+    "kuneɛnse"
+  ],
+  "cuneese": [
+    "kuneese",
+    "kuneeze"
+  ],
+  "cuneiforme": [
+    "kuneiforme",
+    "kunejforme"
+  ],
+  "cuneiformi": [
+    "kuneiformi"
+  ],
+  "cuneo": [
+    "kuneo"
+  ],
+  "cunetta": [
+    "kunetːa"
+  ],
+  "cunicoli": [
+    "kunikoli",
+    "kunikolo"
+  ],
+  "cunicolo": [
+    "kunikolo"
+  ],
+  "cunicoltura": [
+    "kunikoltura"
+  ],
+  "cunicolture": [
+    "kunikolture"
+  ],
+  "cunnilingi": [
+    "kunːilindʒi"
+  ],
+  "cunnilingio": [
+    "kunːilindʒo"
+  ],
+  "cunta": [
+    "kunta"
+  ],
+  "cuoca": [
+    "kwɔka"
+  ],
+  "cuocere": [
+    "kwɔtʃere",
+    "kwɔtʃɛre"
+  ],
+  "cuocersi": [
+    "kwɔtʃersi"
+  ],
+  "cuoche": [
+    "kwɔk"
+  ],
+  "cuochi": [
+    "kwɔki",
+    "kwɔko"
+  ],
+  "cuoco": [
+    "kuɔko",
+    "kwɔko"
+  ],
+  "cuoi": [
+    "kwɔi"
+  ],
+  "cuoiaio": [
+    "kwojajo"
+  ],
+  "cuoio": [
+    "kuɔio",
+    "kwɔjo"
+  ],
+  "cuora": [
+    "kwɔra"
+  ],
+  "cuorcontento": [
+    "kwɔrkontɛnto"
+  ],
+  "cuore": [
+    "kuɔre",
+    "kwɔre"
+  ],
+  "cuori": [
+    "kuɔri",
+    "kwɔri"
+  ],
+  "cuoriforme": [
+    "kworiforme",
+    "kwɔriforme"
+  ],
+  "cuoriformi": [
+    "kworiformi"
+  ],
+  "cupa": [
+    "kupa"
+  ],
+  "cupe": [
+    "kupe"
+  ],
+  "cupi": [
+    "kupi"
+  ],
+  "cupidigia": [
+    "kupididʒa"
+  ],
+  "cupidigie": [
+    "kupididʒe"
+  ],
+  "cupidità": [
+    "kupidita"
+  ],
+  "cupido": [
+    "kupido"
+  ],
+  "cupo": [
+    "kupo"
+  ],
+  "cupola": [
+    "kupola"
+  ],
+  "cupoletta": [
+    "kupoletːa"
+  ],
+  "cupoliforme": [
+    "kupoliforme"
+  ],
+  "cupolino": [
+    "kupolino"
+  ],
+  "cupolone": [
+    "kupolone"
+  ],
+  "cupralluminio": [
+    "kupralːuminjo"
+  ],
+  "cupreo": [
+    "kupreo"
+  ],
+  "cuprifero": [
+    "kuprifero"
+  ],
+  "cuprolega": [
+    "kuproleɡa"
+  ],
+  "cupronichel": [
+    "kupronikel"
+  ],
+  "cura": [
+    "kura"
+  ],
+  "curabile": [
+    "kurabile"
+  ],
+  "curabili": [
+    "kurabili"
+  ],
+  "curabilità": [
+    "kurabilita"
+  ],
+  "curandaio": [
+    "kurandajo"
+  ],
+  "curando": [
+    "kurando"
+  ],
+  "curante": [
+    "kurante"
+  ],
+  "curare": [
+    "kurare"
+  ],
+  "curarsi": [
+    "kurarsi"
+  ],
+  "curatela": [
+    "kuratɛla"
+  ],
+  "curati": [
+    "kurati"
+  ],
+  "curato": [
+    "kuratɔ"
+  ],
+  "curatore": [
+    "kuratore"
+  ],
+  "curatrice": [
+    "kuratritʃe"
+  ],
+  "curba": [
+    "kurba"
+  ],
+  "curbasciata": [
+    "kurbaʃʃata"
+  ],
+  "curbascio": [
+    "kurbaʃʃo"
+  ],
+  "curci": [
+    "kurtʃi"
+  ],
+  "curculione": [
+    "kurkuljone"
+  ],
+  "curculionidi": [
+    "kurkuljɔnidi"
+  ],
+  "curcuma": [
+    "kurkuma"
+  ],
+  "curcumina": [
+    "kurkumina"
+  ],
+  "curda": [
+    "kurda"
+  ],
+  "curde": [
+    "kurde"
+  ],
+  "curdi": [
+    "kurdi"
+  ],
+  "curdo": [
+    "kurdo"
+  ],
+  "curia": [
+    "kurja"
+  ],
+  "curiale": [
+    "kurjale"
+  ],
+  "curialesco": [
+    "kurjalesko"
+  ],
+  "curiate": [
+    "kurjate"
+  ],
+  "curie": [
+    "kur",
+    "kuri"
+  ],
+  "curio": [
+    "kurjo"
+  ],
+  "curiosa": [
+    "kurjɔza"
+  ],
+  "curiosamente": [
+    "kurjozamente"
+  ],
+  "curiosare": [
+    "kurjosare",
+    "kurjozare"
+  ],
+  "curiosi": [
+    "kurjɔzi"
+  ],
+  "curiosità": [
+    "kurjozita"
+  ],
+  "curioso": [
+    "kurjozo",
+    "kurjɔzo"
+  ],
+  "curling": [
+    "kɛrlin",
+    "kɛrlinɡ",
+    "kurliɲɡ"
+  ],
+  "curricolare": [
+    "kurːikolare"
+  ],
+  "curriculum": [
+    "kurːikulum"
+  ],
+  "curro": [
+    "kurːo"
+  ],
+  "cursore": [
+    "kursore"
+  ],
+  "curva": [
+    "kurv",
+    "kurva"
+  ],
+  "curvarsi": [
+    "kurvarsi"
+  ],
+  "curvato": [
+    "kurvato"
+  ],
+  "curvatura": [
+    "kurvatura"
+  ],
+  "curvature": [
+    "kurvature"
+  ],
+  "curve": [
+    "kurve"
+  ],
+  "curvi": [
+    "kurvo"
+  ],
+  "curvimetri": [
+    "kurvimetri"
+  ],
+  "curvimetro": [
+    "kurvimetro"
+  ],
+  "curvo": [
+    "kurvo"
+  ],
+  "curvoso": [
+    "kurvoso",
+    "kurvozo"
+  ],
+  "cuscinetto": [
+    "kuʃʃinetːo"
+  ],
+  "cuscini": [
+    "kuʃʃini"
+  ],
+  "cuscino": [
+    "kuʃʃino"
+  ],
+  "cuscuta": [
+    "kuskuta"
+  ],
+  "cuspide": [
+    "kuspide"
+  ],
+  "cussi": [
+    "kusːi"
+  ],
+  "cusso": [
+    "kusːo"
+  ],
+  "custode": [
+    "kustɔde"
+  ],
+  "custodi": [
+    "kustɔdi"
+  ],
+  "custodia": [
+    "kustɔdja"
+  ],
+  "custodire": [
+    "kustodire"
+  ],
+  "custodito": [
+    "kustodito"
+  ],
+  "customizzante": [
+    "kustomidːʒante"
+  ],
+  "customizzare": [
+    "kustomidːʒare",
+    "kustomitːsare"
+  ],
+  "customizzato": [
+    "kustomidːʒato"
+  ],
+  "cutaneo": [
+    "kutaneo"
+  ],
+  "cuticagna": [
+    "kutikaɲɲa"
+  ],
+  "cuticugno": [
+    "kutikuɲɲo"
+  ],
+  "cutrettola": [
+    "kutretːola"
+  ],
+  "cuttì": [
+    "kutːi"
+  ],
+  "cyberbullismi": [
+    "sajberbulːizmi"
+  ],
+  "cyberbullismo": [
+    "sajberbulːizmo"
+  ],
+  "cyberspazio": [
+    "sajberspatːsjo"
+  ],
+  "d": [
+    "d",
+    "di"
+  ],
+  "d’": [
+    "d"
+  ],
+  "d’abitudine": [
+    "dabitudine"
+  ],
+  "d’altronde": [
+    "daltrɔnde"
+  ],
+  "d’emblée": [
+    "damble"
+  ],
+  "d’oro": [
+    "dɔro"
+  ],
+  "da": [
+    "da"
+  ],
+  "dà": [
+    "da"
+  ],
+  "da’": [
+    "da"
+  ],
+  "dab": [
+    "dab"
+  ],
+  "dabbasso": [
+    "dabːasːo",
+    "dabːasːɔ"
+  ],
+  "dabbenaggine": [
+    "dabːenadːʒine"
+  ],
+  "dabbene": [
+    "dabːɛne"
+  ],
+  "dabbudà": [
+    "dabːuda"
+  ],
+  "dabbuddà": [
+    "dabːudːa"
+  ],
+  "daboia": [
+    "dabɔja"
+  ],
+  "dabuddà": [
+    "dabudːa"
+  ],
+  "dacci": [
+    "datːʃi"
+  ],
+  "dacia": [
+    "datʃa"
+  ],
+  "dacico": [
+    "datʃiko"
+  ],
+  "dacnomania": [
+    "daknomania"
+  ],
+  "daco": [
+    "dako"
+  ],
+  "dacoromeno": [
+    "dakoromɛno"
+  ],
+  "dacorumeno": [
+    "dakorumɛno"
+  ],
+  "dadaismo": [
+    "dadaizm",
+    "dadaizmo"
+  ],
+  "dadaista": [
+    "dadaista"
+  ],
+  "dadaiste": [
+    "dadaiste"
+  ],
+  "dadaisti": [
+    "dadaisti"
+  ],
+  "dadino": [
+    "dadino"
+  ],
+  "dado": [
+    "dado"
+  ],
+  "dadoforo": [
+    "dadɔforo"
+  ],
+  "daffare": [
+    "dafːare"
+  ],
+  "dafnia": [
+    "dafnja"
+  ],
+  "daga": [
+    "daɡa"
+  ],
+  "dagherrotipi": [
+    "daɡerːɔtipi"
+  ],
+  "dagherrotipia": [
+    "daɡerːotipia"
+  ],
+  "dagherrotipie": [
+    "daɡerːotipie"
+  ],
+  "dagherrotipista": [
+    "daɡerːotipista"
+  ],
+  "dagherrotipiste": [
+    "daɡerːotipiste"
+  ],
+  "dagherrotipisti": [
+    "daɡerːotipisti"
+  ],
+  "dagherrotipo": [
+    "daɡerːɔtipo"
+  ],
+  "dagli": [
+    "daʎi"
+  ],
+  "dai": [
+    "dai"
+  ],
+  "daini": [
+    "dajni"
+  ],
+  "daino": [
+    "daino",
+    "dajno"
+  ],
+  "dal": [
+    "dal"
+  ],
+  "dalbergia": [
+    "dalbɛrdʒa"
+  ],
+  "dalek": [
+    "dalek"
+  ],
+  "dalet": [
+    "dalet"
+  ],
+  "dalia": [
+    "dalia",
+    "dalja"
+  ],
+  "dalila": [
+    "dalila"
+  ],
+  "dall’": [
+    "dalː"
+  ],
+  "dalla": [
+    "dalːa"
+  ],
+  "dalle": [
+    "dalːe"
+  ],
+  "dalli": [
+    "dalːi"
+  ],
+  "dallo": [
+    "dalːo"
+  ],
+  "dalmata": [
+    "dalmata"
+  ],
+  "dalmate": [
+    "dalmate"
+  ],
+  "dalmati": [
+    "dalmati"
+  ],
+  "dalmatica": [
+    "dalmatika"
+  ],
+  "dalmatico": [
+    "dalmatiko"
+  ],
+  "dalmazia": [
+    "dalmatːsja"
+  ],
+  "daltonico": [
+    "daltɔniko"
+  ],
+  "daltonismo": [
+    "daltonizmo"
+  ],
+  "dama": [
+    "dama"
+  ],
+  "damalisco": [
+    "damalisko"
+  ],
+  "damante": [
+    "damante"
+  ],
+  "damare": [
+    "damare"
+  ],
+  "damascare": [
+    "damasko"
+  ],
+  "damascato": [
+    "damaskato"
+  ],
+  "damascena": [
+    "damaʃʃena"
+  ],
+  "damascene": [
+    "damaʃʃene"
+  ],
+  "damasceni": [
+    "damaʃʃeni"
+  ],
+  "damasceno": [
+    "damaʃʃeno"
+  ],
+  "damaschi": [
+    "damaski"
+  ],
+  "damaschina": [
+    "damaskina"
+  ],
+  "damaschinante": [
+    "damaskinante"
+  ],
+  "damaschinare": [
+    "damaskinare"
+  ],
+  "damaschinata": [
+    "damaskinata"
+  ],
+  "damaschinate": [
+    "damaskinate"
+  ],
+  "damaschinati": [
+    "damaskinati"
+  ],
+  "damaschinato": [
+    "damaskinato"
+  ],
+  "damaschine": [
+    "damaskine"
+  ],
+  "damaschini": [
+    "damaskini"
+  ],
+  "damaschino": [
+    "damaskino"
+  ],
+  "damasco": [
+    "damasko"
+  ],
+  "damato": [
+    "damato"
+  ],
+  "dame": [
+    "dame"
+  ],
+  "damerino": [
+    "damerino"
+  ],
+  "damigella": [
+    "damidʒɛlːa"
+  ],
+  "damigelle": [
+    "damidʒɛlːe"
+  ],
+  "damigiana": [
+    "damidʒana"
+  ],
+  "damista": [
+    "damista"
+  ],
+  "damiste": [
+    "damiste"
+  ],
+  "damisti": [
+    "damisti"
+  ],
+  "dammaggio": [
+    "damːadːʒo"
+  ],
+  "dammeno": [
+    "damːeno"
+  ],
+  "dammi": [
+    "damːi"
+  ],
+  "dan": [
+    "dan"
+  ],
+  "danaro": [
+    "danaro"
+  ],
+  "danarosamente": [
+    "danarosamente"
+  ],
+  "danaroso": [
+    "danaroso",
+    "danarozo"
+  ],
+  "dandismo": [
+    "dandizmo"
+  ],
+  "dando": [
+    "dando"
+  ],
+  "danese": [
+    "danese",
+    "danez",
+    "daneze"
+  ],
+  "daniela": [
+    "danjɛla"
+  ],
+  "daniele": [
+    "daniɛle",
+    "danjɛle"
+  ],
+  "danimarca": [
+    "danimarka"
+  ],
+  "dannabile": [
+    "danːabile"
+  ],
+  "dannaggio": [
+    "danːadːʒo"
+  ],
+  "dannante": [
+    "danːante"
+  ],
+  "dannare": [
+    "danːare"
+  ],
+  "dannarsi": [
+    "danːarsi"
+  ],
+  "dannata": [
+    "danːata"
+  ],
+  "dannate": [
+    "danːate"
+  ],
+  "dannati": [
+    "danːati"
+  ],
+  "dannato": [
+    "danːato"
+  ],
+  "dannazione": [
+    "danːatsjone"
+  ],
+  "dannazioni": [
+    "danːatsjoni"
+  ],
+  "danneggiamenti": [
+    "danːedːʒamenti"
+  ],
+  "danneggiamento": [
+    "danːedːʒamento"
+  ],
+  "danneggiare": [
+    "danːedːʒare",
+    "danːɛɡdʒare"
+  ],
+  "danneggiato": [
+    "danːedːʒato"
+  ],
+  "dannevole": [
+    "danːevole"
+  ],
+  "danni": [
+    "danːi"
+  ],
+  "danno": [
+    "danːo"
+  ],
+  "dannoso": [
+    "danːoso",
+    "danːozo"
+  ],
+  "dannunziano": [
+    "danːuntsjano"
+  ],
+  "dante": [
+    "dante"
+  ],
+  "dantesca": [
+    "danteska"
+  ],
+  "dantesche": [
+    "danteske"
+  ],
+  "danteschi": [
+    "danteski"
+  ],
+  "dantesco": [
+    "dantesko"
+  ],
+  "danti": [
+    "danti"
+  ],
+  "dantismo": [
+    "dantizmo"
+  ],
+  "danubiano": [
+    "danubjano"
+  ],
+  "danubio": [
+    "danubjo"
+  ],
+  "danza": [
+    "dantsa"
+  ],
+  "danzante": [
+    "dantsante"
+  ],
+  "danzanti": [
+    "dantsanti"
+  ],
+  "danzare": [
+    "dantsare"
+  ],
+  "danzato": [
+    "dantsato"
+  ],
+  "danzatore": [
+    "dantsatore"
+  ],
+  "danzatori": [
+    "dantsatori"
+  ],
+  "danzatrice": [
+    "dantsatritʃe"
+  ],
+  "danzatrici": [
+    "dantsatritʃi"
+  ],
+  "danze": [
+    "dantse"
+  ],
+  "danzica": [
+    "dantsika"
+  ],
+  "dape": [
+    "dape"
+  ],
+  "dappertutto": [
+    "dapːertutːo",
+    "dapːɛrtutːɔ"
+  ],
+  "dappocaggine": [
+    "apːokadːʒine"
+  ],
+  "dappoco": [
+    "dapːɔko"
+  ],
+  "dappoiché": [
+    "dapːojke"
+  ]
 }

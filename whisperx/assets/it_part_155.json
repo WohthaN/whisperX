@@ -1,502 +1,1530 @@
 {
-  "scollacciato": ["s k o lː a tː ʃ a t o"],
-  "scollare": ["s k o lː a r e"],
-  "scollato": ["s k o lː a t o"],
-  "scollatura": ["s k o lː a t u r a"],
-  "scollature": ["s k o lː a t u r e"],
-  "scolo": ["s k o l o"],
-  "scolopacide": ["s k o l o p a t ʃ i d e"],
-  "scolopacidi": ["s k o l o p a t ʃ i d i"],
-  "scolorazione": ["s k o l o r a tː s j o n e"],
-  "scolorazioni": ["s k o l o r a tː s j o n i"],
-  "scolorente": ["s k o l o r e n t e"],
-  "scolorire": ["s k o l o r i r e"],
-  "scolorirsi": ["s k o l o r i r s i"],
-  "scolorito": ["s k o l o r i t o"],
-  "scolpire": ["s k o l p i r e"],
-  "scolpito": ["s k o l p i t o"],
-  "scolta": ["s k o l t a"],
-  "scolto": ["s k o l t o"],
-  "scombiccherare": ["s k o m b i kː e r a r e"],
-  "scombinare": ["k o m b i n a r e"],
-  "scombinato": ["s k o m b i n a t o"],
-  "scombuglio": ["s k o m b u ʎ o"],
-  "scombussolamento": ["s k o m b u sː o l a m e n t o"],
-  "scombussolare": ["s k o m b u sː o l a r e"],
-  "scombussolato": ["s k o m b u sː o l a t o"],
-  "scomma": ["s k ɔ mː a"],
-  "scommessa": ["s k o mː e sː a"],
-  "scommesse": ["s k o mː e sː e"],
-  "scommessi": ["s k o mː e sː i"],
-  "scommesso": ["s k o mː e sː o"],
-  "scommetta": ["s k o mː e tː a"],
-  "scommettano": ["s k o mː e tː a n o"],
-  "scommette": ["s k o mː e tː e"],
-  "scommettemmo": ["s k o mː e tː e mː o"],
-  "scommettendo": ["s k o mː e tː e n d o"],
-  "scommettente": ["s k o mː e tː e n t e"],
-  "scommetterà": ["s k o mː e tː e r a"],
-  "scommetterai": ["s k o mː e tː e r a i"],
-  "scommetteranno": ["s k o mː e tː e r a nː o"],
-  "scommettere": ["s k o mː e tː e r e", "s k ɔ mː ɛ tː ɛ r e"],
-  "scommetterebbe": ["s k o mː e tː e r e bː e"],
-  "scommetterebbero": ["s k o mː e tː e r e bː e r o"],
-  "scommetterei": ["s k o mː e tː e r e i"],
-  "scommetteremmo": ["s k o mː e tː e r e mː o"],
-  "scommetteremo": ["s k o mː e tː e r e m o"],
-  "scommettereste": ["s k o mː e tː e r e s t e"],
-  "scommetteresti": ["s k o mː e tː e r e s t i"],
-  "scommetterete": ["s k o mː e tː e r e t e"],
-  "scommetterò": ["s k o mː e tː e r o"],
-  "scommettesse": ["s k o mː e tː e sː e"],
-  "scommettessero": ["s k o mː e tː e sː e r o"],
-  "scommettessi": ["s k o mː e tː e sː i"],
-  "scommettessimo": ["s k o mː e tː e sː i m o"],
-  "scommetteste": ["s k o mː e tː e s t e"],
-  "scommettesti": ["s k o mː e tː e s t i"],
-  "scommettete": ["s k o mː e tː e t e"],
-  "scommetteva": ["s k o mː e tː e v a"],
-  "scommettevamo": ["s k o mː e tː e v a m o"],
-  "scommettevano": ["s k o mː e tː e v a n o"],
-  "scommettevate": ["s k o mː e tː e v a t e"],
-  "scommettevi": ["s k o mː e tː e v i"],
-  "scommettevo": ["s k o mː e tː e v o"],
-  "scommetti": ["s k o mː e tː i"],
-  "scommettiamo": ["s k o mː e tː j a m o"],
-  "scommettiate": ["s k o mː e tː j a t e"],
-  "scommetto": ["s k o mː e tː o"],
-  "scommettono": ["s k o mː e tː o n o"],
-  "scommise": ["s k o mː i z e"],
-  "scommisero": ["s k o mː i z e r o"],
-  "scommisi": ["s k o mː i z i"],
-  "scomodamente": ["s k o m o d a m e n t e"],
-  "scomodare": ["s k o m o d a r e"],
-  "scomodato": ["s k o m o d a t o"],
-  "scomodo": ["s k ɔ m o d o"],
-  "scompaginare": ["s k o m p a d ʒ i n a r e"],
-  "scompaginato": ["s k o m p a d ʒ i n a t o"],
-  "scompagnato": ["s k o m p a ɲ ɲ a t o"],
-  "scompagno": ["s k o m p a ɲ ɲ o"],
-  "scomparire": ["s k o m p a r i r e"],
-  "scomparsa": ["s k o m p a r s a"],
-  "scomparse": ["s k o m p a r s e"],
-  "scomparti": ["s k o m p a r t i"],
-  "scompartimenti": ["s k o m p a r t i m e n t i"],
-  "scompartimento": ["s k o m p a r t i m e n t o"],
-  "scompartire": ["s k o m p a r t i r e"],
-  "scomparto": ["s k o m p a r t o"],
-  "scompenso": ["s k o m p ɛ n s o"],
-  "scompigliare": ["s k o m p i ʎ a r e"],
-  "scompigliato": ["s k o m p i ʎ a t o"],
-  "scompiglio": ["s k o m p i ʎ i o", "s k o m p i ʎ o"],
-  "scomplessare": ["s k o m p l e sː a r e"],
-  "scompleti": ["s k o m p l ɛ t i"],
-  "scompleto": ["s k o m p l ɛ t o"],
-  "scompone": ["s k o m p o n e"],
-  "scomponemmo": ["s k o m p o n e mː o"],
-  "scomponendo": ["s k o m p o n e n d o"],
-  "scomponente": ["s k o m p o n e n t e"],
-  "scomponesse": ["s k o m p o n e sː e"],
-  "scomponessero": ["s k o m p o n e sː e r o"],
-  "scomponessi": ["s k o m p o n e sː i"],
-  "scomponessimo": ["s k o m p o n e sː i m o"],
-  "scomponeste": ["s k o m p o nː e s t e"],
-  "scomponesti": ["s k o m p o n e s t i"],
-  "scomponete": ["s k o m p o n e t e"],
-  "scomponeva": ["s k o m p o n e v a"],
-  "scomponevamo": ["s k o m p o n e v a m o"],
-  "scomponevano": ["s k o m p o n e v a n o"],
-  "scomponevate": ["s k o m p o n e v a t e"],
-  "scomponevi": ["s k o m p o n e v i"],
-  "scomponevo": ["s k o m p o n e v o"],
-  "scomponga": ["s k o m p o n ɡ a"],
-  "scompongano": ["s k o m p o n ɡ a n o"],
-  "scompongo": ["s k o m p o n ɡ o"],
-  "scompongono": ["s k o m p o n ɡ o n o"],
-  "scomponi": ["s k o m p o n i"],
-  "scomponiamo": ["s k o m p o n j a m o"],
-  "scomponiate": ["s k o m p o n j a t e"],
-  "scomponibile": ["s k o m p o n i b i l e"],
-  "scomponibili": ["s k o m p o n i b i l i"],
-  "scomporrà": ["p o rː a"],
-  "scomporrai": ["s k o m p o rː a i"],
-  "scomporranno": ["s k o m p o rː a nː o"],
-  "scomporre": ["s k o m p o rː e"],
-  "scomporrebbe": ["s k o m p o rː e bː e"],
-  "scomporrebbero": ["s k o m p o rː e bː e r o"],
-  "scomporrei": ["s k o m p o rː e i"],
-  "scomporremmo": ["s k o m p o rː e m o"],
-  "scomporremo": ["s k o m p o rː e m o"],
-  "scomporreste": ["s k o m p o rː e s t e"],
-  "scomporresti": ["s k o m p o rː e s t i"],
-  "scomporrete": ["s k o m p o rː e t e"],
-  "scomporrò": ["s k o m p o rː o"],
-  "scompose": ["s k o m p o s e"],
-  "scomposero": ["s k o m p o s e r o"],
-  "scomposi": ["s k o m p o s i"],
-  "scomposizione": ["s k o m p o z i tː s j o n e"],
-  "scomposta": ["s k o m p o s t a"],
-  "scompostamente": ["s k o m p o s t a m e n t e"],
-  "scomposte": ["s k o m p o s t e"],
-  "scomposti": ["s k o m p o s t i"],
-  "scomposto": ["s k o m p o s t o"],
-  "scomputare": ["s k o m p u t a r e"],
-  "scomputo": ["s k ɔ m p u t o"],
-  "scomunica": ["s k o m u n i k a"],
-  "scomunicante": ["s k o m u n i k a n t e"],
-  "scomunicare": ["s k o m u n i k a r e"],
-  "scomunicato": ["s k o m u n i k a t o"],
-  "sconcare": ["s k o n k a r e"],
-  "sconce": ["s k o n t ʃ e"],
-  "sconcertante": ["s k o n t ʃ e r t a n t e"],
-  "sconcertare": ["s k o n t ʃ e r t a r e"],
-  "sconcertato": ["s k o n t ʃ e r t a t o"],
-  "sconcerto": ["s k o n t ʃ ɛ r t o"],
-  "sconcezza": ["s k o n t ʃ e tː s a"],
-  "sconci": ["s k o n t ʃ i"],
-  "sconcia": ["s k o n t ʃ a"],
-  "sconciamente": ["s k o n t ʃ a m e n t e"],
-  "sconciare": ["s k o n t ʃ a r e"],
-  "sconcio": ["s k o n t ʃ o"],
-  "sconcludere": ["s k o n k l u d e r e"],
-  "sconclusionata": ["s k o n k l u z j o n a t a"],
-  "sconclusionate": ["s k o n k l u z j o n a t e"],
-  "sconclusionati": ["s k o n k l u z j o n a t i"],
-  "sconclusionato": ["s k o n k l u z j o n a t o"],
-  "scondito": ["s k o n d i t o"],
-  "sconfacente": ["s k o n f a t ʃ ɛ n t e"],
-  "sconfessante": ["s k o n f ɛ sː a n t e"],
-  "sconfessare": ["s k o n f e sː a r e", "s k o n f ɛ sː a r e"],
-  "sconfessato": ["s k o n f e sː a t o", "s k o n f ɛ sː a t o"],
-  "sconfessione": ["s k o n f e sː j o n e"],
-  "sconfiggere": ["s k o n f i dː ʒ e r e"],
-  "sconfinante": ["s k o ɲ f i n a n t e"],
-  "sconfinare": ["s k o n f i n a r e", "s k o ɲ f i n a r e"],
-  "sconfinato": ["s k o n f i n a t o"],
-  "sconfitta": ["s k o n f i tː a"],
-  "sconfitte": ["s k o n f i tː e"],
-  "sconfitto": ["s k o n f i tː o"],
-  "sconfondere": ["s k o n f o n d e r e"],
-  "sconfortante": ["s k o n f o r t a n t e"],
-  "sconfortare": ["s k o n f o r t a r e"],
-  "sconfortato": ["s k o n f o r t a t o"],
-  "sconforto": ["s k o n f ɔ r t o"],
-  "scongelante": ["s k o ɲ d ʒ e l a n t e"],
-  "scongelare": ["s k o n d ʒ e l a r e", "s k o ɲ d ʒ e l a r e"],
-  "scongelato": ["s k o n d ʒ e l a t o", "s k o ɲ d ʒ e l a t o"],
-  "scongiurabile": ["s k o n d ʒ u r a b i l e"],
-  "scongiuramento": ["s k o n d ʒ u r a m e n t o"],
-  "scongiurare": ["s k o n d ʒ u r a r e"],
-  "scongiurato": ["s k o n d ʒ u r a t o"],
-  "scongiuratore": ["s k o n d ʒ u r a t o r e"],
-  "scongiurazione": ["s k o n d ʒ u r a tː s j o n e"],
-  "scongiuro": ["s k o n d ʒ u r o"],
-  "sconnesso": ["s k o nː e sː o", "s k o nː ɛ sː o"],
-  "sconnettente": ["s k o nː ɛ tː e n t e"],
-  "sconnettere": ["s k o nː e tː e r e", "s k o nː ɛ tː e r e"],
-  "sconoscere": ["s k o n o ʃ ʃ e r e"],
-  "sconosciuta": ["s k ɔ n ɔ ʃ ʃ u t a"],
-  "sconosciutamente": ["s k o n o ʃ ʃ u t a m e n t e"],
-  "sconosciute": ["s k ɔ n ɔ ʃ ʃ u t e"],
-  "sconosciuti": ["s k ɔ n ɔ ʃ ʃ u t i"],
-  "sconosciuto": ["s k o n o ʃ ʃ u t o", "s k ɔ n ɔ ʃ ʃ u t ɔ"],
-  "sconquassare": ["s k o n k w a sː a r e"],
-  "sconquasso": ["s k o n k w a sː o"],
-  "sconsacrante": ["s k o n s a k r a n t e"],
-  "sconsacrare": ["s k o n s a k r a r e"],
-  "sconsacrato": ["s k o n s a k r a t o"],
-  "sconsiderata": ["s k o n s i d e r a t a"],
-  "sconsideratamente": ["s k o n s i d e r a t a m e n t e"],
-  "sconsiderate": ["s k o n s i d e r a t e"],
-  "sconsideratezza": ["s k o n s i d e r a t e tː s a"],
-  "sconsiderati": ["s k o n s i d e r a t i"],
-  "sconsiderato": ["s k o n s i d e r a t o"],
-  "sconsigliabile": ["s k o n s i ʎ a b i l e"],
-  "sconsigliante": ["s k o n s i ʎ j a n t e"],
-  "sconsigliare": ["s k o n s i ʎ a r e", "s k o n s i ʎ j a r e"],
-  "sconsigliatamente": ["s k o n s i ʎ a t a m e n t e"],
-  "sconsigliato": ["s k o n s i ʎ a t o", "s k o n s i ʎ j a t o"],
-  "sconsigliatore": ["s k o n s i ʎ a t o r e"],
-  "sconsigliatori": ["s k o n s i ʎ a t o r i"],
-  "sconsigliatrice": ["s k o n s i ʎ a t r i t ʃ e"],
-  "sconsigliatrici": ["s k o n s i ʎ a t r i t ʃ i"],
-  "sconsolato": ["s k o n s o l a t o"],
-  "scontante": ["s k o n t a n t e"],
-  "scontare": ["s k o n t a r e"],
-  "scontato": ["s k o n t a t o"],
-  "scontenta": ["s k o n t ɛ n t a"],
-  "scontentante": ["s k o n t e n t a n t e"],
-  "scontentare": ["s k o n t e n t a r e"],
-  "scontentato": ["s k o n t e n t a t o"],
-  "scontente": ["s k o n t ɛ n t e"],
-  "scontentezza": ["s k o n t e n t e tː s a"],
-  "scontentezze": ["s k o n t e n t e tː s e"],
-  "scontenti": ["s k o n t ɛ n t i"],
-  "scontento": ["s k o n t ɛ n t o"],
-  "sconti": ["s k o n t i"],
-  "sconto": ["s k o n t o"],
-  "scontorcere": ["s k o n t ɔ r t ʃ e r e"],
-  "scontrarsi": ["s k o n t r a r s i"],
-  "scontrazzo": ["s k o n t r a tː s o"],
-  "scontrini": ["s k o n t r i n i"],
-  "scontrino": ["s k o n t r i n o"],
-  "scontro": ["s k o n t r o"],
-  "scontrosamente": ["s k o n t r o s a m e n t e"],
-  "scontrosità": ["s k o n t r o s i t a"],
-  "scontroso": ["s k o n t r o z o"],
-  "sconveniente": ["s k o n v e n j ɛ n t e"],
-  "sconvenientemente": ["s k o n v e n j e n t e m e n t e"],
-  "sconvenienti": ["s k o n v e n j ɛ n t i"],
-  "sconvenienza": ["s k o n v e n j ɛ n t s a"],
-  "sconvenire": ["s k o n v e n i r e"],
-  "sconvolgente": ["s k o n v o l d ʒ ɛ n t e"],
-  "sconvolgere": ["s k o n v ɔ l d ʒ e r e"],
-  "sconvolgimento": ["s k o n v o l d ʒ i m e n t o"],
-  "sconvolto": ["s k o n v ɔ l t o"],
-  "scoordinare": ["s k o o r d i n a r e"],
-  "scoordinazione": ["s k o o r d i n a t s j o n e"],
-  "scoordinazioni": ["s k o o r d i n a t s j o n i"],
-  "scooter": ["s k u t e r"],
-  "scooterista": ["s k u t e r i s t a"],
-  "scopa": ["s k ɔ p a"],
-  "scopaia": ["s k o p a j a"],
-  "scopante": ["s k o p a n t e"],
-  "scopare": ["s k o p a r e"],
-  "scopata": ["s k o p a t a"],
-  "scopato": ["s k o p a t o"],
-  "scopazzo": ["s k o p a tː s o"],
-  "scoperchiato": ["s k o p e r k j a t o"],
-  "scoperta": ["s k o p ɛ r t a", "s k ɔ p ɛ r t a"],
-  "scopertamente": ["s k o p e r t a m e n t e"],
-  "scoperte": ["s k ɔ p ɛ r t e"],
-  "scoperto": ["s k o p ɛ r t o"],
-  "scopi": ["s k ɔ p i"],
-  "scopiazzare": ["s k o p j a tː s a r e"],
-  "scopiazzato": ["s k o p j a tː s a t o"],
-  "scopino": ["s k o p i n o"],
-  "scopo": ["s k o p o", "s k ɔ p o"],
-  "scopofobia": ["s k o p o f o b i a"],
-  "scoppi": ["s k ɔ pː i"],
-  "scoppiabile": ["s k o pː j a b i l e"],
-  "scoppiabili": ["s k o pː j a b i l i"],
-  "scoppiare": ["s k o pː j a r e"],
-  "scoppiato": ["s k o pː j a t o"],
-  "scoppiettante": ["s k o pː j e tː a n t e"],
-  "scoppiettare": ["s k o pː j e tː a r e"],
-  "scoppiettiere": ["s k o pː j e tː j ɛ r e"],
-  "scoppietto": ["s k o pː j e tː o"],
-  "scoppio": ["s k ɔ pː j o"],
-  "scoprire": ["s k o p r i r e", "s k ɔ p r i r e"],
-  "scopula": ["s k ɔ p u l a"],
-  "scopulo": ["s k ɔ p u l o"],
-  "scoraggiabile": ["s k o r a dː ʒ a b i l e"],
-  "scoraggiabili": ["s k o r a dː ʒ a b i l i"],
-  "scoraggiamenti": ["s k o r a dː ʒ a m e n t i"],
-  "scoraggiamento": ["s k o r a dː ʒ a m e n t o"],
-  "scoraggiante": ["s k o r a dː ʒ a n t e"],
-  "scoraggianti": ["s k o r a dː ʒ a n t i"],
-  "scoraggiare": ["s k o r a dː ʒ a r e"],
-  "scoraggiato": ["s k o r a dː ʒ a t o"],
-  "scoramento": ["s k o r a m e n t o"],
-  "scorazzare": ["s k o r a tː s a r e"],
-  "scorbuticamente": ["s k o r b u t i k a m e n t e"],
-  "scorbutico": ["s k o r b u t i k o"],
-  "scorbuto": ["s k o r b u t o", "s k ɔ r b u t o"],
-  "scorciare": ["s k o r t ʃ a r e"],
-  "scorciato": ["s k o r t ʃ a t o"],
-  "scorciatoia": ["s k o r t ʃ a t o j a"],
-  "scorcio": ["s k o r t ʃ o"],
-  "scordare": ["s k o r d a r e"],
-  "scordato": ["s k o r d a t o"],
-  "scordatura": ["s k o r d a t u r a"],
-  "scordature": ["s k o r d a t u r e"],
-  "scoregge": ["s k o r e dː ʒ e"],
-  "scoreggia": ["s k o r e dː ʒ a"],
-  "scoreggiare": ["s k o r e dː ʒ a r e"],
-  "scorfano": ["s k ɔ r f a n o"],
-  "scorgente": ["s k ɔ r d ʒ e n t e"],
-  "scorgere": ["s k ɔ r d ʒ e r e"],
-  "scoria": ["s k ɔ r j a"],
-  "scorificazione": ["s k o r i f i k a tː s j o n e"],
-  "scorificazioni": ["s k o r i f i k a tː s j o n i"],
-  "scornabecchi": ["s k o r n a b e kː i"],
-  "scornato": ["s k o r n a t o"],
-  "scorpacciata": ["s k o r p a tː ʃ a t a"],
-  "scorpena": ["s k o r p ɛ n a", "s k ɔ r p e n a"],
-  "scorpione": ["s k o r p i o n e", "s k o r p j o n e"],
-  "scorpioni": ["s k o r p j o n i"],
-  "scorporato": ["s k o r p o r a t o"],
-  "scorporo": ["s k ɔ r p o r o"],
-  "scorrazzare": ["s k o rː a tː s a r e"],
-  "scorreggia": ["s k o rː e dː ʒ a"],
-  "scorrere": ["s k o rː e r e", "s k ɔ rː ɛ r e"],
-  "scorreria": ["s k o rː e r i a"],
-  "scorrettamente": ["s k o rː e tː a m e n t e"],
-  "scorrettezza": ["s k o rː e tː e tː s a"],
-  "scorrettezze": ["s k o rː e tː e tː s e"],
-  "scorretto": ["s k o rː ɛ tː o"],
-  "scorrevole": ["s k o rː e v o l e"],
-  "scorribanda": ["s k o rː i b a n d a"],
-  "scorrimento": ["s k o rː i m e n t o"],
-  "scorso": ["s k ɔ r s ɔ"],
-  "scorta": ["s k ɔ r t a"],
-  "scortante": ["s k o r t a n t e"],
-  "scortare": ["s k o r t a r e"],
-  "scortato": ["s k o r t a t o"],
-  "scortese": ["s k o r t e s e", "s k o r t e z e", "s k ɔ r t ɛ z e"],
-  "scortesemente": ["s k o r t e z e m e n t e"],
-  "scortesi": ["s k o r t e z i"],
-  "scorticante": ["s k o r t i k a n t e"],
-  "scorticare": ["s k o r t i k a r e"],
-  "scorticato": ["s k o r t i k a t o"],
-  "scorticatore": ["s k o r t i k a t o r e"],
-  "scorticatori": ["s k o r t i k a t o r i"],
-  "scorticatrice": ["s k o r t i k a t r i t ʃ e"],
-  "scorticatrici": ["s k o r t i k a t r i t ʃ i"],
-  "scorto": ["s k o r t o", "s k ɔ r t o"],
-  "scorza": ["s k ɔ r d z a", "s k ɔ r t s a"],
-  "scorze": ["s k ɔ r t s e"],
-  "scorzonera": ["s k o r t s o n e r a"],
-  "scoscenda": ["s k o ʃ e n d a"],
-  "scoscendano": ["s k o ʃ e n d a n o"],
-  "scoscende": ["s k o ʃ e n d e"],
-  "scoscendemmo": ["s k o ʃ e n d e mː o"],
-  "scoscendendo": ["s k o ʃ e n d e n d o"],
-  "scoscendente": ["s k o ʃ e n d e n t e"],
-  "scoscenderà": ["s k o ʃ e n d e r a"],
-  "scoscenderai": ["s k o ʃ e n d e r a i"],
-  "scoscenderanno": ["s k o ʃ e n d e r a nː o"],
-  "scoscendere": ["s k o ʃ ʃ e n d e r e", "s k o ʃ ʃ ɛ n d e r e"],
-  "scoscenderebbe": ["s k o ʃ e n d e r e bː e"],
-  "scoscenderebbero": ["s k o ʃ e n d e r e bː e r o"],
-  "scoscenderei": ["s k o ʃ e n d e r e i"],
-  "scoscenderemmo": ["s k o ʃ e n d e r e mː o"],
-  "scoscenderemo": ["s k o ʃ e n d e r e m o"],
-  "scoscendereste": ["s k o ʃ e n d e r e s t e"],
-  "scoscenderesti": ["s k o ʃ e n d e r e s t i"],
-  "scoscenderete": ["s k o ʃ e n d e r e t e"],
-  "scoscenderò": ["s k o ʃ e n d e r o"],
-  "scoscendesse": ["s k o ʃ e n d e sː e"],
-  "scoscendessero": ["s k o ʃ e n d e sː e r o"],
-  "scoscendessi": ["s k o ʃ e n d e sː i"],
-  "scoscendessimo": ["s k o ʃ e n d e sː i m o"],
-  "scoscendeste": ["s k o ʃ e n d e s t e"],
-  "scoscendesti": ["s k o ʃ e n d e s t i"],
-  "scoscendete": ["s k o ʃ e n d e t e"],
-  "scoscendeva": ["s k o ʃ e n d e v a"],
-  "scoscendevamo": ["s k o ʃ e n d a v e m o"],
-  "scoscendevano": ["s k o ʃ e n d e v a n o"],
-  "scoscendevate": ["s k o ʃ e n d e v a t e"],
-  "scoscendevi": ["s k o ʃ e n d e v i"],
-  "scoscendevo": ["s k o ʃ e n d e v o"],
-  "scoscendi": ["s k o ʃ e n d i"],
-  "scoscendiamo": ["s k o ʃ e n d j a m o"],
-  "scoscendiate": ["s k o ʃ e n d j a t e"],
-  "scoscendo": ["s k o ʃ e n d o"],
-  "scoscendono": ["s k o ʃ e n d o n o"],
-  "scoscesa": ["s k o ʃ e s a"],
-  "scoscese": ["s k o ʃ e s e"],
-  "scoscesero": ["s k o ʃ e s e r o"],
-  "scoscesi": ["s k o ʃ e s i"],
-  "scosceso": ["k o ʃ ʃ e s o", "s k o ʃ e s o", "s k o ʃ ʃ e s o", "s k o ʃ ʃ e z o"],
-  "scoscio": ["s k ɔ ʃ ʃ o"],
-  "scossa": ["s k ɔ sː a"],
-  "scosso": ["s k ɔ sː o"],
-  "scostante": ["s k o s t a n t e"],
-  "scostantemente": ["s k o s t a n t e m e n t e"],
-  "scostare": ["s k o s t a r e"],
-  "scostumatamente": ["s k o s t u m a t a m e n t e"],
-  "scostumato": ["s k o s t u m a t o"],
-  "scotch": ["s k ɔ t ʃ"],
-  "scotennante": ["s k o t e nː a n t e"],
-  "scotennare": ["s k o t e nː a r e"],
-  "scotennato": ["s k o t e nː a t o"],
-  "scotennatore": ["s k o t e nː a t o r e"],
-  "scotennatori": ["s k o t e nː a t o r e"],
-  "scotennatrice": ["s k o t e nː a t r i t ʃ e"],
-  "scotennatrici": ["s k o t e nː a t r i t ʃ i"],
-  "scotennatura": ["s k o t e nː a t u r a"],
-  "scotennature": ["s k o t e nː a t u r e"],
-  "scotente": ["s k o t e n t e"],
-  "scotere": ["s k o t e r e"],
-  "scotersi": ["s k o t e r s i"],
-  "scoticamento": ["s k o t i k a m e n t o"],
-  "scoticare": ["s k o t i k a r e"],
-  "scotofobia": ["s k o t o f o b i a"],
-  "scotomizzare": ["s k o t o m i dː z a r e"],
-  "scotomizzazione": ["s k o t o m i dː z a tː s j o n e"],
-  "scottadito": ["s k ɔ tː a d i t o"],
-  "scottante": ["s k o tː a n t e"],
-  "scottare": ["s k o tː a r e"],
-  "scottarsi": ["s k o tː a r s i"],
-  "scottato": ["s k o tː a t o"],
-  "scottatura": ["s k o tː a t u r a"],
-  "scottature": ["s k o tː a t u r e"],
-  "scotto": ["s k ɔ tː o"],
-  "scout": ["s k a u t", "s k a w t"],
-  "scovolino": ["s k o v o l i n o"],
-  "scozia": ["s k ɔ tː s j a"],
-  "scozzese": ["s k o tː s e z e"],
-  "scozzesi": ["s k o tː s e z i"],
-  "scranno": ["s k r a nː o"],
-  "screanzata": ["s k r e a n t s a t a"],
-  "screanzatamente": ["s k r e a n t s a t a m e n t e"],
-  "screanzate": ["s k r e a n t s a t e"],
-  "screanzati": ["s k r e a n t s a t i"],
-  "screanzato": ["s k r e a n t s a t o"],
-  "screda": ["s k r e d a"],
-  "scredano": ["s k r e d a n o"],
-  "scredere": ["s k r e d e r e"],
-  "screditante": ["s k r e d i t a n t e"],
-  "screditare": ["s k r e d i t a r e"],
-  "screditarsi": ["s k r e d i t a r s i"],
-  "screditato": ["s k r e d i t a t o"],
-  "screening": ["s k r i n i n ɡ"],
-  "screenshot": ["s k r i n ʃ ɔ t"],
-  "scremare": ["s k r e m a r e"],
-  "scremata": ["s k r e m a t a"],
-  "scremate": ["s k r e m a t e"],
-  "scremati": ["s k r e m a t i"],
-  "scremato": ["s k r e m a t o"],
-  "scrematura": ["s k r e m a t u r a"],
-  "scremature": ["s k r e m a t u r e"],
-  "screpolante": ["s k r e p o l a n t e"],
-  "screpolanti": ["s k r e p o l a n t i"],
-  "screpolare": ["s k r e p o l a r e"],
-  "screpolato": ["s k r e p o l a t o"],
-  "screpolatura": ["s k r e p o l a t u r a"],
-  "screpolature": ["s k r e p o l a t u r e"],
-  "screziare": ["s k r e tː s j a r e"],
-  "screziata": ["s k r e tː s j a t a"],
-  "screziate": ["s k r e tː s j a t e"],
-  "screziati": ["s k r e tː s j a t i"],
-  "screziato": ["s k r e tː s j a t o"],
-  "screzio": ["s k r ɛ tː s j o"],
-  "scriba": ["s k r i b a"],
-  "scribacchiare": ["s k r i b a kː j a r e"],
-  "scribacchino": ["s k r i b a kː i n o"],
-  "scricchiolare": ["s k r i kː j o l a r e"],
-  "scriccioli": ["s k r i tː ʃ o l i"],
-  "scricciolo": ["s k r i tː ʃ o l o"],
-  "scrigno": ["s k r i ɲ ɲ o"],
-  "scriminante": ["s k r i m i n a n t e"],
-  "scriminatura": ["s k r i m i n a t u r a"],
-  "scriminature": ["s k r i m i n a t u r e"],
-  "scripofilia": ["s k r i p o f i l i a"],
-  "scripofilie": ["s k r i p o f i l i e"],
-  "script": ["s k r i p t"],
-  "scrisse": ["s k r i s e"],
-  "scrissero": ["s k r i sː e r o"],
-  "scrissi": ["s k r i sː i"],
-  "scriteriato": ["s k r i t e r j a t o"],
-  "scritta": ["s k r i tː a"],
-  "scritte": ["s k r i tː e"],
-  "scritti": ["s k r i tː i"],
-  "scritto": ["s k r i tː o"],
-  "scrittoi": ["s k r i tː o i"],
-  "scrittoio": ["s k r i tː o j o"],
-  "scrittore": ["s k r i tː o r e"],
-  "scrittori": ["s k r i tː o r i"],
-  "scrittrice": ["s k r i tː r i t ʃ e"],
-  "scrittrici": ["s k r i tː r i t ʃ i"]
+  "scollacciato": [
+    "skolːatːʃato"
+  ],
+  "scollare": [
+    "skolːare"
+  ],
+  "scollato": [
+    "skolːato"
+  ],
+  "scollatura": [
+    "skolːatura"
+  ],
+  "scollature": [
+    "skolːature"
+  ],
+  "scolo": [
+    "skolo"
+  ],
+  "scolopacide": [
+    "skolopatʃide"
+  ],
+  "scolopacidi": [
+    "skolopatʃidi"
+  ],
+  "scolorazione": [
+    "skoloratːsjone"
+  ],
+  "scolorazioni": [
+    "skoloratːsjoni"
+  ],
+  "scolorente": [
+    "skolorente"
+  ],
+  "scolorire": [
+    "skolorire"
+  ],
+  "scolorirsi": [
+    "skolorirsi"
+  ],
+  "scolorito": [
+    "skolorito"
+  ],
+  "scolpire": [
+    "skolpire"
+  ],
+  "scolpito": [
+    "skolpito"
+  ],
+  "scolta": [
+    "skolta"
+  ],
+  "scolto": [
+    "skolto"
+  ],
+  "scombiccherare": [
+    "skombikːerare"
+  ],
+  "scombinare": [
+    "kombinare"
+  ],
+  "scombinato": [
+    "skombinato"
+  ],
+  "scombuglio": [
+    "skombuʎo"
+  ],
+  "scombussolamento": [
+    "skombusːolamento"
+  ],
+  "scombussolare": [
+    "skombusːolare"
+  ],
+  "scombussolato": [
+    "skombusːolato"
+  ],
+  "scomma": [
+    "skɔmːa"
+  ],
+  "scommessa": [
+    "skomːesːa"
+  ],
+  "scommesse": [
+    "skomːesːe"
+  ],
+  "scommessi": [
+    "skomːesːi"
+  ],
+  "scommesso": [
+    "skomːesːo"
+  ],
+  "scommetta": [
+    "skomːetːa"
+  ],
+  "scommettano": [
+    "skomːetːano"
+  ],
+  "scommette": [
+    "skomːetːe"
+  ],
+  "scommettemmo": [
+    "skomːetːemːo"
+  ],
+  "scommettendo": [
+    "skomːetːendo"
+  ],
+  "scommettente": [
+    "skomːetːente"
+  ],
+  "scommetterà": [
+    "skomːetːera"
+  ],
+  "scommetterai": [
+    "skomːetːerai"
+  ],
+  "scommetteranno": [
+    "skomːetːeranːo"
+  ],
+  "scommettere": [
+    "skomːetːere",
+    "skɔmːɛtːɛre"
+  ],
+  "scommetterebbe": [
+    "skomːetːerebːe"
+  ],
+  "scommetterebbero": [
+    "skomːetːerebːero"
+  ],
+  "scommetterei": [
+    "skomːetːerei"
+  ],
+  "scommetteremmo": [
+    "skomːetːeremːo"
+  ],
+  "scommetteremo": [
+    "skomːetːeremo"
+  ],
+  "scommettereste": [
+    "skomːetːereste"
+  ],
+  "scommetteresti": [
+    "skomːetːeresti"
+  ],
+  "scommetterete": [
+    "skomːetːerete"
+  ],
+  "scommetterò": [
+    "skomːetːero"
+  ],
+  "scommettesse": [
+    "skomːetːesːe"
+  ],
+  "scommettessero": [
+    "skomːetːesːero"
+  ],
+  "scommettessi": [
+    "skomːetːesːi"
+  ],
+  "scommettessimo": [
+    "skomːetːesːimo"
+  ],
+  "scommetteste": [
+    "skomːetːeste"
+  ],
+  "scommettesti": [
+    "skomːetːesti"
+  ],
+  "scommettete": [
+    "skomːetːete"
+  ],
+  "scommetteva": [
+    "skomːetːeva"
+  ],
+  "scommettevamo": [
+    "skomːetːevamo"
+  ],
+  "scommettevano": [
+    "skomːetːevano"
+  ],
+  "scommettevate": [
+    "skomːetːevate"
+  ],
+  "scommettevi": [
+    "skomːetːevi"
+  ],
+  "scommettevo": [
+    "skomːetːevo"
+  ],
+  "scommetti": [
+    "skomːetːi"
+  ],
+  "scommettiamo": [
+    "skomːetːjamo"
+  ],
+  "scommettiate": [
+    "skomːetːjate"
+  ],
+  "scommetto": [
+    "skomːetːo"
+  ],
+  "scommettono": [
+    "skomːetːono"
+  ],
+  "scommise": [
+    "skomːize"
+  ],
+  "scommisero": [
+    "skomːizero"
+  ],
+  "scommisi": [
+    "skomːizi"
+  ],
+  "scomodamente": [
+    "skomodamente"
+  ],
+  "scomodare": [
+    "skomodare"
+  ],
+  "scomodato": [
+    "skomodato"
+  ],
+  "scomodo": [
+    "skɔmodo"
+  ],
+  "scompaginare": [
+    "skompadʒinare"
+  ],
+  "scompaginato": [
+    "skompadʒinato"
+  ],
+  "scompagnato": [
+    "skompaɲɲato"
+  ],
+  "scompagno": [
+    "skompaɲɲo"
+  ],
+  "scomparire": [
+    "skomparire"
+  ],
+  "scomparsa": [
+    "skomparsa"
+  ],
+  "scomparse": [
+    "skomparse"
+  ],
+  "scomparti": [
+    "skomparti"
+  ],
+  "scompartimenti": [
+    "skompartimenti"
+  ],
+  "scompartimento": [
+    "skompartimento"
+  ],
+  "scompartire": [
+    "skompartire"
+  ],
+  "scomparto": [
+    "skomparto"
+  ],
+  "scompenso": [
+    "skompɛnso"
+  ],
+  "scompigliare": [
+    "skompiʎare"
+  ],
+  "scompigliato": [
+    "skompiʎato"
+  ],
+  "scompiglio": [
+    "skompiʎio",
+    "skompiʎo"
+  ],
+  "scomplessare": [
+    "skomplesːare"
+  ],
+  "scompleti": [
+    "skomplɛti"
+  ],
+  "scompleto": [
+    "skomplɛto"
+  ],
+  "scompone": [
+    "skompone"
+  ],
+  "scomponemmo": [
+    "skomponemːo"
+  ],
+  "scomponendo": [
+    "skomponendo"
+  ],
+  "scomponente": [
+    "skomponente"
+  ],
+  "scomponesse": [
+    "skomponesːe"
+  ],
+  "scomponessero": [
+    "skomponesːero"
+  ],
+  "scomponessi": [
+    "skomponesːi"
+  ],
+  "scomponessimo": [
+    "skomponesːimo"
+  ],
+  "scomponeste": [
+    "skomponːeste"
+  ],
+  "scomponesti": [
+    "skomponesti"
+  ],
+  "scomponete": [
+    "skomponete"
+  ],
+  "scomponeva": [
+    "skomponeva"
+  ],
+  "scomponevamo": [
+    "skomponevamo"
+  ],
+  "scomponevano": [
+    "skomponevano"
+  ],
+  "scomponevate": [
+    "skomponevate"
+  ],
+  "scomponevi": [
+    "skomponevi"
+  ],
+  "scomponevo": [
+    "skomponevo"
+  ],
+  "scomponga": [
+    "skomponɡa"
+  ],
+  "scompongano": [
+    "skomponɡano"
+  ],
+  "scompongo": [
+    "skomponɡo"
+  ],
+  "scompongono": [
+    "skomponɡono"
+  ],
+  "scomponi": [
+    "skomponi"
+  ],
+  "scomponiamo": [
+    "skomponjamo"
+  ],
+  "scomponiate": [
+    "skomponjate"
+  ],
+  "scomponibile": [
+    "skomponibile"
+  ],
+  "scomponibili": [
+    "skomponibili"
+  ],
+  "scomporrà": [
+    "porːa"
+  ],
+  "scomporrai": [
+    "skomporːai"
+  ],
+  "scomporranno": [
+    "skomporːanːo"
+  ],
+  "scomporre": [
+    "skomporːe"
+  ],
+  "scomporrebbe": [
+    "skomporːebːe"
+  ],
+  "scomporrebbero": [
+    "skomporːebːero"
+  ],
+  "scomporrei": [
+    "skomporːei"
+  ],
+  "scomporremmo": [
+    "skomporːemo"
+  ],
+  "scomporremo": [
+    "skomporːemo"
+  ],
+  "scomporreste": [
+    "skomporːeste"
+  ],
+  "scomporresti": [
+    "skomporːesti"
+  ],
+  "scomporrete": [
+    "skomporːete"
+  ],
+  "scomporrò": [
+    "skomporːo"
+  ],
+  "scompose": [
+    "skompose"
+  ],
+  "scomposero": [
+    "skomposero"
+  ],
+  "scomposi": [
+    "skomposi"
+  ],
+  "scomposizione": [
+    "skompozitːsjone"
+  ],
+  "scomposta": [
+    "skomposta"
+  ],
+  "scompostamente": [
+    "skompostamente"
+  ],
+  "scomposte": [
+    "skomposte"
+  ],
+  "scomposti": [
+    "skomposti"
+  ],
+  "scomposto": [
+    "skomposto"
+  ],
+  "scomputare": [
+    "skomputare"
+  ],
+  "scomputo": [
+    "skɔmputo"
+  ],
+  "scomunica": [
+    "skomunika"
+  ],
+  "scomunicante": [
+    "skomunikante"
+  ],
+  "scomunicare": [
+    "skomunikare"
+  ],
+  "scomunicato": [
+    "skomunikato"
+  ],
+  "sconcare": [
+    "skonkare"
+  ],
+  "sconce": [
+    "skontʃe"
+  ],
+  "sconcertante": [
+    "skontʃertante"
+  ],
+  "sconcertare": [
+    "skontʃertare"
+  ],
+  "sconcertato": [
+    "skontʃertato"
+  ],
+  "sconcerto": [
+    "skontʃɛrto"
+  ],
+  "sconcezza": [
+    "skontʃetːsa"
+  ],
+  "sconci": [
+    "skontʃi"
+  ],
+  "sconcia": [
+    "skontʃa"
+  ],
+  "sconciamente": [
+    "skontʃamente"
+  ],
+  "sconciare": [
+    "skontʃare"
+  ],
+  "sconcio": [
+    "skontʃo"
+  ],
+  "sconcludere": [
+    "skonkludere"
+  ],
+  "sconclusionata": [
+    "skonkluzjonata"
+  ],
+  "sconclusionate": [
+    "skonkluzjonate"
+  ],
+  "sconclusionati": [
+    "skonkluzjonati"
+  ],
+  "sconclusionato": [
+    "skonkluzjonato"
+  ],
+  "scondito": [
+    "skondito"
+  ],
+  "sconfacente": [
+    "skonfatʃɛnte"
+  ],
+  "sconfessante": [
+    "skonfɛsːante"
+  ],
+  "sconfessare": [
+    "skonfesːare",
+    "skonfɛsːare"
+  ],
+  "sconfessato": [
+    "skonfesːato",
+    "skonfɛsːato"
+  ],
+  "sconfessione": [
+    "skonfesːjone"
+  ],
+  "sconfiggere": [
+    "skonfidːʒere"
+  ],
+  "sconfinante": [
+    "skoɲfinante"
+  ],
+  "sconfinare": [
+    "skonfinare",
+    "skoɲfinare"
+  ],
+  "sconfinato": [
+    "skonfinato"
+  ],
+  "sconfitta": [
+    "skonfitːa"
+  ],
+  "sconfitte": [
+    "skonfitːe"
+  ],
+  "sconfitto": [
+    "skonfitːo"
+  ],
+  "sconfondere": [
+    "skonfondere"
+  ],
+  "sconfortante": [
+    "skonfortante"
+  ],
+  "sconfortare": [
+    "skonfortare"
+  ],
+  "sconfortato": [
+    "skonfortato"
+  ],
+  "sconforto": [
+    "skonfɔrto"
+  ],
+  "scongelante": [
+    "skoɲdʒelante"
+  ],
+  "scongelare": [
+    "skondʒelare",
+    "skoɲdʒelare"
+  ],
+  "scongelato": [
+    "skondʒelato",
+    "skoɲdʒelato"
+  ],
+  "scongiurabile": [
+    "skondʒurabile"
+  ],
+  "scongiuramento": [
+    "skondʒuramento"
+  ],
+  "scongiurare": [
+    "skondʒurare"
+  ],
+  "scongiurato": [
+    "skondʒurato"
+  ],
+  "scongiuratore": [
+    "skondʒuratore"
+  ],
+  "scongiurazione": [
+    "skondʒuratːsjone"
+  ],
+  "scongiuro": [
+    "skondʒuro"
+  ],
+  "sconnesso": [
+    "skonːesːo",
+    "skonːɛsːo"
+  ],
+  "sconnettente": [
+    "skonːɛtːente"
+  ],
+  "sconnettere": [
+    "skonːetːere",
+    "skonːɛtːere"
+  ],
+  "sconoscere": [
+    "skonoʃʃere"
+  ],
+  "sconosciuta": [
+    "skɔnɔʃʃuta"
+  ],
+  "sconosciutamente": [
+    "skonoʃʃutamente"
+  ],
+  "sconosciute": [
+    "skɔnɔʃʃute"
+  ],
+  "sconosciuti": [
+    "skɔnɔʃʃuti"
+  ],
+  "sconosciuto": [
+    "skonoʃʃuto",
+    "skɔnɔʃʃutɔ"
+  ],
+  "sconquassare": [
+    "skonkwasːare"
+  ],
+  "sconquasso": [
+    "skonkwasːo"
+  ],
+  "sconsacrante": [
+    "skonsakrante"
+  ],
+  "sconsacrare": [
+    "skonsakrare"
+  ],
+  "sconsacrato": [
+    "skonsakrato"
+  ],
+  "sconsiderata": [
+    "skonsiderata"
+  ],
+  "sconsideratamente": [
+    "skonsideratamente"
+  ],
+  "sconsiderate": [
+    "skonsiderate"
+  ],
+  "sconsideratezza": [
+    "skonsideratetːsa"
+  ],
+  "sconsiderati": [
+    "skonsiderati"
+  ],
+  "sconsiderato": [
+    "skonsiderato"
+  ],
+  "sconsigliabile": [
+    "skonsiʎabile"
+  ],
+  "sconsigliante": [
+    "skonsiʎjante"
+  ],
+  "sconsigliare": [
+    "skonsiʎare",
+    "skonsiʎjare"
+  ],
+  "sconsigliatamente": [
+    "skonsiʎatamente"
+  ],
+  "sconsigliato": [
+    "skonsiʎato",
+    "skonsiʎjato"
+  ],
+  "sconsigliatore": [
+    "skonsiʎatore"
+  ],
+  "sconsigliatori": [
+    "skonsiʎatori"
+  ],
+  "sconsigliatrice": [
+    "skonsiʎatritʃe"
+  ],
+  "sconsigliatrici": [
+    "skonsiʎatritʃi"
+  ],
+  "sconsolato": [
+    "skonsolato"
+  ],
+  "scontante": [
+    "skontante"
+  ],
+  "scontare": [
+    "skontare"
+  ],
+  "scontato": [
+    "skontato"
+  ],
+  "scontenta": [
+    "skontɛnta"
+  ],
+  "scontentante": [
+    "skontentante"
+  ],
+  "scontentare": [
+    "skontentare"
+  ],
+  "scontentato": [
+    "skontentato"
+  ],
+  "scontente": [
+    "skontɛnte"
+  ],
+  "scontentezza": [
+    "skontentetːsa"
+  ],
+  "scontentezze": [
+    "skontentetːse"
+  ],
+  "scontenti": [
+    "skontɛnti"
+  ],
+  "scontento": [
+    "skontɛnto"
+  ],
+  "sconti": [
+    "skonti"
+  ],
+  "sconto": [
+    "skonto"
+  ],
+  "scontorcere": [
+    "skontɔrtʃere"
+  ],
+  "scontrarsi": [
+    "skontrarsi"
+  ],
+  "scontrazzo": [
+    "skontratːso"
+  ],
+  "scontrini": [
+    "skontrini"
+  ],
+  "scontrino": [
+    "skontrino"
+  ],
+  "scontro": [
+    "skontro"
+  ],
+  "scontrosamente": [
+    "skontrosamente"
+  ],
+  "scontrosità": [
+    "skontrosita"
+  ],
+  "scontroso": [
+    "skontrozo"
+  ],
+  "sconveniente": [
+    "skonvenjɛnte"
+  ],
+  "sconvenientemente": [
+    "skonvenjentemente"
+  ],
+  "sconvenienti": [
+    "skonvenjɛnti"
+  ],
+  "sconvenienza": [
+    "skonvenjɛntsa"
+  ],
+  "sconvenire": [
+    "skonvenire"
+  ],
+  "sconvolgente": [
+    "skonvoldʒɛnte"
+  ],
+  "sconvolgere": [
+    "skonvɔldʒere"
+  ],
+  "sconvolgimento": [
+    "skonvoldʒimento"
+  ],
+  "sconvolto": [
+    "skonvɔlto"
+  ],
+  "scoordinare": [
+    "skoordinare"
+  ],
+  "scoordinazione": [
+    "skoordinatsjone"
+  ],
+  "scoordinazioni": [
+    "skoordinatsjoni"
+  ],
+  "scooter": [
+    "skuter"
+  ],
+  "scooterista": [
+    "skuterista"
+  ],
+  "scopa": [
+    "skɔpa"
+  ],
+  "scopaia": [
+    "skopaja"
+  ],
+  "scopante": [
+    "skopante"
+  ],
+  "scopare": [
+    "skopare"
+  ],
+  "scopata": [
+    "skopata"
+  ],
+  "scopato": [
+    "skopato"
+  ],
+  "scopazzo": [
+    "skopatːso"
+  ],
+  "scoperchiato": [
+    "skoperkjato"
+  ],
+  "scoperta": [
+    "skopɛrta",
+    "skɔpɛrta"
+  ],
+  "scopertamente": [
+    "skopertamente"
+  ],
+  "scoperte": [
+    "skɔpɛrte"
+  ],
+  "scoperto": [
+    "skopɛrto"
+  ],
+  "scopi": [
+    "skɔpi"
+  ],
+  "scopiazzare": [
+    "skopjatːsare"
+  ],
+  "scopiazzato": [
+    "skopjatːsato"
+  ],
+  "scopino": [
+    "skopino"
+  ],
+  "scopo": [
+    "skopo",
+    "skɔpo"
+  ],
+  "scopofobia": [
+    "skopofobia"
+  ],
+  "scoppi": [
+    "skɔpːi"
+  ],
+  "scoppiabile": [
+    "skopːjabile"
+  ],
+  "scoppiabili": [
+    "skopːjabili"
+  ],
+  "scoppiare": [
+    "skopːjare"
+  ],
+  "scoppiato": [
+    "skopːjato"
+  ],
+  "scoppiettante": [
+    "skopːjetːante"
+  ],
+  "scoppiettare": [
+    "skopːjetːare"
+  ],
+  "scoppiettiere": [
+    "skopːjetːjɛre"
+  ],
+  "scoppietto": [
+    "skopːjetːo"
+  ],
+  "scoppio": [
+    "skɔpːjo"
+  ],
+  "scoprire": [
+    "skoprire",
+    "skɔprire"
+  ],
+  "scopula": [
+    "skɔpula"
+  ],
+  "scopulo": [
+    "skɔpulo"
+  ],
+  "scoraggiabile": [
+    "skoradːʒabile"
+  ],
+  "scoraggiabili": [
+    "skoradːʒabili"
+  ],
+  "scoraggiamenti": [
+    "skoradːʒamenti"
+  ],
+  "scoraggiamento": [
+    "skoradːʒamento"
+  ],
+  "scoraggiante": [
+    "skoradːʒante"
+  ],
+  "scoraggianti": [
+    "skoradːʒanti"
+  ],
+  "scoraggiare": [
+    "skoradːʒare"
+  ],
+  "scoraggiato": [
+    "skoradːʒato"
+  ],
+  "scoramento": [
+    "skoramento"
+  ],
+  "scorazzare": [
+    "skoratːsare"
+  ],
+  "scorbuticamente": [
+    "skorbutikamente"
+  ],
+  "scorbutico": [
+    "skorbutiko"
+  ],
+  "scorbuto": [
+    "skorbuto",
+    "skɔrbuto"
+  ],
+  "scorciare": [
+    "skortʃare"
+  ],
+  "scorciato": [
+    "skortʃato"
+  ],
+  "scorciatoia": [
+    "skortʃatoja"
+  ],
+  "scorcio": [
+    "skortʃo"
+  ],
+  "scordare": [
+    "skordare"
+  ],
+  "scordato": [
+    "skordato"
+  ],
+  "scordatura": [
+    "skordatura"
+  ],
+  "scordature": [
+    "skordature"
+  ],
+  "scoregge": [
+    "skoredːʒe"
+  ],
+  "scoreggia": [
+    "skoredːʒa"
+  ],
+  "scoreggiare": [
+    "skoredːʒare"
+  ],
+  "scorfano": [
+    "skɔrfano"
+  ],
+  "scorgente": [
+    "skɔrdʒente"
+  ],
+  "scorgere": [
+    "skɔrdʒere"
+  ],
+  "scoria": [
+    "skɔrja"
+  ],
+  "scorificazione": [
+    "skorifikatːsjone"
+  ],
+  "scorificazioni": [
+    "skorifikatːsjoni"
+  ],
+  "scornabecchi": [
+    "skornabekːi"
+  ],
+  "scornato": [
+    "skornato"
+  ],
+  "scorpacciata": [
+    "skorpatːʃata"
+  ],
+  "scorpena": [
+    "skorpɛna",
+    "skɔrpena"
+  ],
+  "scorpione": [
+    "skorpione",
+    "skorpjone"
+  ],
+  "scorpioni": [
+    "skorpjoni"
+  ],
+  "scorporato": [
+    "skorporato"
+  ],
+  "scorporo": [
+    "skɔrporo"
+  ],
+  "scorrazzare": [
+    "skorːatːsare"
+  ],
+  "scorreggia": [
+    "skorːedːʒa"
+  ],
+  "scorrere": [
+    "skorːere",
+    "skɔrːɛre"
+  ],
+  "scorreria": [
+    "skorːeria"
+  ],
+  "scorrettamente": [
+    "skorːetːamente"
+  ],
+  "scorrettezza": [
+    "skorːetːetːsa"
+  ],
+  "scorrettezze": [
+    "skorːetːetːse"
+  ],
+  "scorretto": [
+    "skorːɛtːo"
+  ],
+  "scorrevole": [
+    "skorːevole"
+  ],
+  "scorribanda": [
+    "skorːibanda"
+  ],
+  "scorrimento": [
+    "skorːimento"
+  ],
+  "scorso": [
+    "skɔrsɔ"
+  ],
+  "scorta": [
+    "skɔrta"
+  ],
+  "scortante": [
+    "skortante"
+  ],
+  "scortare": [
+    "skortare"
+  ],
+  "scortato": [
+    "skortato"
+  ],
+  "scortese": [
+    "skortese",
+    "skorteze",
+    "skɔrtɛze"
+  ],
+  "scortesemente": [
+    "skortezemente"
+  ],
+  "scortesi": [
+    "skortezi"
+  ],
+  "scorticante": [
+    "skortikante"
+  ],
+  "scorticare": [
+    "skortikare"
+  ],
+  "scorticato": [
+    "skortikato"
+  ],
+  "scorticatore": [
+    "skortikatore"
+  ],
+  "scorticatori": [
+    "skortikatori"
+  ],
+  "scorticatrice": [
+    "skortikatritʃe"
+  ],
+  "scorticatrici": [
+    "skortikatritʃi"
+  ],
+  "scorto": [
+    "skorto",
+    "skɔrto"
+  ],
+  "scorza": [
+    "skɔrdza",
+    "skɔrtsa"
+  ],
+  "scorze": [
+    "skɔrtse"
+  ],
+  "scorzonera": [
+    "skortsonera"
+  ],
+  "scoscenda": [
+    "skoʃenda"
+  ],
+  "scoscendano": [
+    "skoʃendano"
+  ],
+  "scoscende": [
+    "skoʃende"
+  ],
+  "scoscendemmo": [
+    "skoʃendemːo"
+  ],
+  "scoscendendo": [
+    "skoʃendendo"
+  ],
+  "scoscendente": [
+    "skoʃendente"
+  ],
+  "scoscenderà": [
+    "skoʃendera"
+  ],
+  "scoscenderai": [
+    "skoʃenderai"
+  ],
+  "scoscenderanno": [
+    "skoʃenderanːo"
+  ],
+  "scoscendere": [
+    "skoʃʃendere",
+    "skoʃʃɛndere"
+  ],
+  "scoscenderebbe": [
+    "skoʃenderebːe"
+  ],
+  "scoscenderebbero": [
+    "skoʃenderebːero"
+  ],
+  "scoscenderei": [
+    "skoʃenderei"
+  ],
+  "scoscenderemmo": [
+    "skoʃenderemːo"
+  ],
+  "scoscenderemo": [
+    "skoʃenderemo"
+  ],
+  "scoscendereste": [
+    "skoʃendereste"
+  ],
+  "scoscenderesti": [
+    "skoʃenderesti"
+  ],
+  "scoscenderete": [
+    "skoʃenderete"
+  ],
+  "scoscenderò": [
+    "skoʃendero"
+  ],
+  "scoscendesse": [
+    "skoʃendesːe"
+  ],
+  "scoscendessero": [
+    "skoʃendesːero"
+  ],
+  "scoscendessi": [
+    "skoʃendesːi"
+  ],
+  "scoscendessimo": [
+    "skoʃendesːimo"
+  ],
+  "scoscendeste": [
+    "skoʃendeste"
+  ],
+  "scoscendesti": [
+    "skoʃendesti"
+  ],
+  "scoscendete": [
+    "skoʃendete"
+  ],
+  "scoscendeva": [
+    "skoʃendeva"
+  ],
+  "scoscendevamo": [
+    "skoʃendavemo"
+  ],
+  "scoscendevano": [
+    "skoʃendevano"
+  ],
+  "scoscendevate": [
+    "skoʃendevate"
+  ],
+  "scoscendevi": [
+    "skoʃendevi"
+  ],
+  "scoscendevo": [
+    "skoʃendevo"
+  ],
+  "scoscendi": [
+    "skoʃendi"
+  ],
+  "scoscendiamo": [
+    "skoʃendjamo"
+  ],
+  "scoscendiate": [
+    "skoʃendjate"
+  ],
+  "scoscendo": [
+    "skoʃendo"
+  ],
+  "scoscendono": [
+    "skoʃendono"
+  ],
+  "scoscesa": [
+    "skoʃesa"
+  ],
+  "scoscese": [
+    "skoʃese"
+  ],
+  "scoscesero": [
+    "skoʃesero"
+  ],
+  "scoscesi": [
+    "skoʃesi"
+  ],
+  "scosceso": [
+    "koʃʃeso",
+    "skoʃeso",
+    "skoʃʃeso",
+    "skoʃʃezo"
+  ],
+  "scoscio": [
+    "skɔʃʃo"
+  ],
+  "scossa": [
+    "skɔsːa"
+  ],
+  "scosso": [
+    "skɔsːo"
+  ],
+  "scostante": [
+    "skostante"
+  ],
+  "scostantemente": [
+    "skostantemente"
+  ],
+  "scostare": [
+    "skostare"
+  ],
+  "scostumatamente": [
+    "skostumatamente"
+  ],
+  "scostumato": [
+    "skostumato"
+  ],
+  "scotch": [
+    "skɔtʃ"
+  ],
+  "scotennante": [
+    "skotenːante"
+  ],
+  "scotennare": [
+    "skotenːare"
+  ],
+  "scotennato": [
+    "skotenːato"
+  ],
+  "scotennatore": [
+    "skotenːatore"
+  ],
+  "scotennatori": [
+    "skotenːatore"
+  ],
+  "scotennatrice": [
+    "skotenːatritʃe"
+  ],
+  "scotennatrici": [
+    "skotenːatritʃi"
+  ],
+  "scotennatura": [
+    "skotenːatura"
+  ],
+  "scotennature": [
+    "skotenːature"
+  ],
+  "scotente": [
+    "skotente"
+  ],
+  "scotere": [
+    "skotere"
+  ],
+  "scotersi": [
+    "skotersi"
+  ],
+  "scoticamento": [
+    "skotikamento"
+  ],
+  "scoticare": [
+    "skotikare"
+  ],
+  "scotofobia": [
+    "skotofobia"
+  ],
+  "scotomizzare": [
+    "skotomidːzare"
+  ],
+  "scotomizzazione": [
+    "skotomidːzatːsjone"
+  ],
+  "scottadito": [
+    "skɔtːadito"
+  ],
+  "scottante": [
+    "skotːante"
+  ],
+  "scottare": [
+    "skotːare"
+  ],
+  "scottarsi": [
+    "skotːarsi"
+  ],
+  "scottato": [
+    "skotːato"
+  ],
+  "scottatura": [
+    "skotːatura"
+  ],
+  "scottature": [
+    "skotːature"
+  ],
+  "scotto": [
+    "skɔtːo"
+  ],
+  "scout": [
+    "skaut",
+    "skawt"
+  ],
+  "scovolino": [
+    "skovolino"
+  ],
+  "scozia": [
+    "skɔtːsja"
+  ],
+  "scozzese": [
+    "skotːseze"
+  ],
+  "scozzesi": [
+    "skotːsezi"
+  ],
+  "scranno": [
+    "skranːo"
+  ],
+  "screanzata": [
+    "skreantsata"
+  ],
+  "screanzatamente": [
+    "skreantsatamente"
+  ],
+  "screanzate": [
+    "skreantsate"
+  ],
+  "screanzati": [
+    "skreantsati"
+  ],
+  "screanzato": [
+    "skreantsato"
+  ],
+  "screda": [
+    "skreda"
+  ],
+  "scredano": [
+    "skredano"
+  ],
+  "scredere": [
+    "skredere"
+  ],
+  "screditante": [
+    "skreditante"
+  ],
+  "screditare": [
+    "skreditare"
+  ],
+  "screditarsi": [
+    "skreditarsi"
+  ],
+  "screditato": [
+    "skreditato"
+  ],
+  "screening": [
+    "skrininɡ"
+  ],
+  "screenshot": [
+    "skrinʃɔt"
+  ],
+  "scremare": [
+    "skremare"
+  ],
+  "scremata": [
+    "skremata"
+  ],
+  "scremate": [
+    "skremate"
+  ],
+  "scremati": [
+    "skremati"
+  ],
+  "scremato": [
+    "skremato"
+  ],
+  "scrematura": [
+    "skrematura"
+  ],
+  "scremature": [
+    "skremature"
+  ],
+  "screpolante": [
+    "skrepolante"
+  ],
+  "screpolanti": [
+    "skrepolanti"
+  ],
+  "screpolare": [
+    "skrepolare"
+  ],
+  "screpolato": [
+    "skrepolato"
+  ],
+  "screpolatura": [
+    "skrepolatura"
+  ],
+  "screpolature": [
+    "skrepolature"
+  ],
+  "screziare": [
+    "skretːsjare"
+  ],
+  "screziata": [
+    "skretːsjata"
+  ],
+  "screziate": [
+    "skretːsjate"
+  ],
+  "screziati": [
+    "skretːsjati"
+  ],
+  "screziato": [
+    "skretːsjato"
+  ],
+  "screzio": [
+    "skrɛtːsjo"
+  ],
+  "scriba": [
+    "skriba"
+  ],
+  "scribacchiare": [
+    "skribakːjare"
+  ],
+  "scribacchino": [
+    "skribakːino"
+  ],
+  "scricchiolare": [
+    "skrikːjolare"
+  ],
+  "scriccioli": [
+    "skritːʃoli"
+  ],
+  "scricciolo": [
+    "skritːʃolo"
+  ],
+  "scrigno": [
+    "skriɲɲo"
+  ],
+  "scriminante": [
+    "skriminante"
+  ],
+  "scriminatura": [
+    "skriminatura"
+  ],
+  "scriminature": [
+    "skriminature"
+  ],
+  "scripofilia": [
+    "skripofilia"
+  ],
+  "scripofilie": [
+    "skripofilie"
+  ],
+  "script": [
+    "skript"
+  ],
+  "scrisse": [
+    "skrise"
+  ],
+  "scrissero": [
+    "skrisːero"
+  ],
+  "scrissi": [
+    "skrisːi"
+  ],
+  "scriteriato": [
+    "skriterjato"
+  ],
+  "scritta": [
+    "skritːa"
+  ],
+  "scritte": [
+    "skritːe"
+  ],
+  "scritti": [
+    "skritːi"
+  ],
+  "scritto": [
+    "skritːo"
+  ],
+  "scrittoi": [
+    "skritːoi"
+  ],
+  "scrittoio": [
+    "skritːojo"
+  ],
+  "scrittore": [
+    "skritːore"
+  ],
+  "scrittori": [
+    "skritːori"
+  ],
+  "scrittrice": [
+    "skritːritʃe"
+  ],
+  "scrittrici": [
+    "skritːritʃi"
+  ]
 }

@@ -1,502 +1,1532 @@
 {
-  "bocciato": ["b o tː ʃ a t o"],
-  "bocciatore": ["b o tː ʃ a t o r e"],
-  "bocciatura": ["b o tː ʃ a t u r a"],
-  "boccino": ["b o tː ʃ i n o"],
-  "bocciolo": ["b o tː ʃ ɔ l o"],
-  "boccista": ["b o tː ʃ i s t a"],
-  "bocciste": ["b o tː ʃ i s t e"],
-  "boccisti": ["b o tː ʃ i s t i"],
-  "bocco": ["b ɔ kː o"],
-  "boccone": ["b o kː o n e"],
-  "bocconi": ["b o kː o n i"],
-  "bocconiana": ["b o kː o n j a n a"],
-  "bocconiano": ["b o kː o n j a n o"],
-  "boccuccia": ["b o kː u tː ʃ a"],
-  "boce": ["b o t ʃ e"],
-  "bocervo": ["b o t ʃ ɛ r v o"],
-  "boci": ["b o t ʃ i"],
-  "bocia": ["b ɔ t ʃ a"],
-  "bodola": ["b ɔ d o l a"],
-  "body": ["b ɔ d i"],
-  "boemo": ["b o ɛ m o"],
-  "boero": ["b o ɛ r o"],
-  "bofonchiare": ["b o f o ɲ k j a r e"],
-  "boga": ["b o ɡ a", "b ɔ ɡ a"],
-  "boghe": ["b o ɡ e"],
-  "bogliente": ["b o ʎ ɛ n t e"],
-  "bogliolo": ["b o ʎ o l o"],
-  "boglire": ["b o ʎ i r e"],
-  "bogotà": ["b o ɡ o t a"],
-  "boh": ["b o"],
-  "bohemien": ["b ɔ e m j ɛ"],
-  "bohrio": ["b ɔ r j o"],
-  "boia": ["b ɔ j a"],
-  "boiacca": ["b o j a kː a"],
-  "boiata": ["b o j a t a"],
-  "boicottaggi": ["b o j k o tː a dː ʒ i"],
-  "boicottaggio": ["b o i k o tː a dː ʒ o", "b o j k o tː a dː ʒ o"],
-  "boicottante": ["b o i k o tː a n t e"],
-  "boicottare": ["b o i k o tː a r e", "b o j k o tː a r e"],
-  "boicottato": ["b o i k o tː a t o"],
-  "boide": ["b ɔ j d e"],
-  "boidi": ["b ɔ j d i"],
-  "boiler": ["b ɔ j l e r"],
-  "bolentino": ["b o l e n t i n i"],
-  "boleti": ["b o l ɛ t i"],
-  "boleto": ["b o l ɛ t o"],
-  "bolgia": ["b ɔ l d ʒ a"],
-  "bolide": ["b ɔ l i d e"],
-  "bolivia": ["b o l i v j a"],
-  "boliviana": ["b o l i v j a n a"],
-  "boliviane": ["b o l i v j a n e"],
-  "boliviani": ["b o l i v j a n i"],
-  "boliviano": ["b o l i v j a n o"],
-  "bolla": ["b o lː a"],
-  "bollante": ["b o lː a n t e"],
-  "bollare": ["b o lː a r e"],
-  "bollato": ["b o lː a t o"],
-  "bolle": ["b o lː e"],
-  "bollente": ["b o lː e n t e", "b o lː ɛ n t e"],
-  "bollenti": ["b o lː e n t i"],
-  "bolletta": ["b o lː e tː a"],
-  "bollettario": ["b o lː e tː a r j o"],
-  "bollette": ["b o lː e tː e"],
-  "bollettini": ["b o lː e tː i n i"],
-  "bollettino": ["b o lː e tː i n o"],
-  "bolli": ["b o lː i"],
-  "bollicare": ["b o lː i k a r e"],
-  "bollimenti": ["b o lː i m e n t i"],
-  "bollimento": ["b o lː i m e n t o"],
-  "bollinare": ["b o lː i n a r e"],
-  "bollire": ["b o lː i r e", "b ɔ lː i r e"],
-  "bollito": ["b o lː i t o"],
-  "bollitore": ["b o lː i t o r e"],
-  "bollitori": ["b o lː i t o r i"],
-  "bollitura": ["b o lː i t u r a"],
-  "bollo": ["b o lː o", "b ɔ lː ɔ"],
-  "bollore": ["b o lː o r e"],
-  "bolloso": ["b o lː o s o", "b o lː o z o"],
-  "bolo": ["b ɔ l o"],
-  "bologna": ["b o l o ɲ a", "b o l o ɲ ɲ a"],
-  "bolognese": ["b o l o ɲ ɲ e s e", "b o l o ɲ ɲ e z e"],
-  "bolognesi": ["b o l o ɲ ɲ e s i"],
-  "bolscevico": ["b o l ʃ e v i k o", "b o l ʃ ɛ v i k o"],
-  "bolscevismo": ["b o l ʃ e v i z m o"],
-  "bolsedine": ["b o l s ɛ d i n e"],
-  "bolso": ["b o l s o"],
-  "bolzanino": ["b o l t s a n i n o"],
-  "bolzano": ["b ɔ l t s a n o"],
-  "bomba": ["b o m b a"],
-  "bombarda": ["b o m b a r d a"],
-  "bombardamenti": ["b o m b a r d a m e n t i"],
-  "bombardamento": ["b o m b a r d a m e n t o"],
-  "bombardante": ["b o m b a r d a n t e"],
-  "bombardare": ["b o m b a r d a r e"],
-  "bombardato": ["b o m b a r d a t o"],
-  "bombarde": ["b o m b a r d e"],
-  "bombardiere": ["b o m b a r d j ɛ r e"],
-  "bombardieri": ["b o m b a r d j ɛ r i"],
-  "bombardone": ["b o m b a r d o n e"],
-  "bombare": ["b o m b a r e"],
-  "bombato": ["b o m b a t o"],
-  "bombe": ["b o m b e"],
-  "bomber": ["b ɔ m b e r"],
-  "bombetta": ["b o m b e tː a"],
-  "bombette": ["b o m b e tː e"],
-  "bombicillide": ["b o m b i t ʃ i lː i d e"],
-  "bombicillidi": ["b o m b i t ʃ i lː i d i"],
-  "bombo": ["b o m b o"],
-  "bombola": ["b o m b o l a"],
-  "bombolaia": ["b o m b o l a j a"],
-  "bombolaio": ["b o m b o l a j o"],
-  "bombole": ["b o m b o l e"],
-  "bombolone": ["b o m b o l o n e"],
-  "bomboniera": ["b o m b o n j ɛ r a"],
-  "bompressi": ["b o m p r ɛ sː i"],
-  "bompresso": ["b o m p r ɛ sː o"],
-  "bona": ["b o n a"],
-  "bonacce": ["b o n a tː ʃ e"],
-  "bonaccia": ["b o n a tː ʃ a"],
-  "bonacciona": ["b o n a tː ʃ o n a"],
-  "bonaccione": ["b o n a tː ʃ o n e"],
-  "bonaccioni": ["b o n a tː ʃ o n i"],
-  "bonango": ["b o n a n ɡ o"],
-  "bonanno": ["b o n a nː o"],
-  "bonapartesco": ["b o n a p a r t e s k o"],
-  "bonapartismi": ["b o n a p a r t i z m i"],
-  "bonapartismo": ["b o n a p a r t i z m o"],
-  "bonapartista": ["b o n a p a r t i s t a"],
-  "bonapartiste": ["b o n a p a r t i s t e"],
-  "bonapartisti": ["b o n a p a r t i s t i"],
-  "bonari": ["b o n a r i", "b o n a r j"],
-  "bonaria": ["b o n a r j a"],
-  "bonariamente": ["b o n a r j a m e n t e"],
-  "bonarie": ["b o n a r j e"],
-  "bonario": ["b o n a r j o"],
-  "bondiola": ["b o n d j ɔ l a"],
-  "bondiole": ["b o n d j ɔ l e"],
-  "bone": ["b o n e"],
-  "bonet": ["b o n ɛ t"],
-  "bongo": ["b ɔ n ɡ o"],
-  "boni": ["b o n i"],
-  "bonifacina": ["b o n i f a t ʃ i n a"],
-  "bonifacino": ["b o n i f a t ʃ i n o"],
-  "bonifacio": ["b o n i f a t ʃ o"],
-  "bonifazio": ["b o n i f a tː s j o"],
-  "bonifica": ["b o n i f i k a"],
-  "bonificabile": ["b o n i f i k a b i l e"],
-  "bonificabili": ["b o n i f i k a b i l i"],
-  "bonificante": ["b o n i f i k a n t e"],
-  "bonificare": ["b o n i f i k a r e"],
-  "bonificata": ["b o n i f i k a t a"],
-  "bonificate": ["b o n i f i k a t e"],
-  "bonificati": ["b o n i f i k a t i"],
-  "bonificato": ["b o n i f i k a t o"],
-  "bonificatore": ["b o n i f i k a t o r e"],
-  "bonificatori": ["b o n i f i k a t o r i"],
-  "bonificatrice": ["b o n i f i k a t r i t ʃ e"],
-  "bonificatrici": ["b o n i f i k a t r i t ʃ i"],
-  "bonifiche": ["b o n i f i k e"],
-  "bonifici": ["b o n i f i t ʃ i"],
-  "bonifico": ["b o n i f i k o"],
-  "bono": ["b o n o", "b ɔ n o"],
-  "bonobo": ["b o n ɔ b o"],
-  "bonomia": ["b o n o m i a"],
-  "bonomie": ["b o n o m i e"],
-  "bonsaista": ["b o n s a i s t a"],
-  "bonsaiste": ["b o n s a i s t e"],
-  "bonsaisti": ["b o n s a i s t i"],
-  "bontà": ["b o n t a"],
-  "bonto": ["b ɔ n t o"],
-  "bonus": ["b ɔ n u s"],
-  "bonzo": ["b o n d z o"],
-  "bookmaker": ["b u k m e j k e r"],
-  "boot": ["b u t"],
-  "bootabile": ["b u t a b i l e"],
-  "bootabili": ["b u t a b i l i"],
-  "borace": ["b o r a t ʃ e"],
-  "boracica": ["b o r a t ʃ i k a"],
-  "boraciche": ["b o r a t ʃ i k e"],
-  "boracici": ["b o r a t ʃ i t ʃ i"],
-  "boracico": ["b o r a t ʃ i k o"],
-  "boracifero": ["b o r a t ʃ i f e r o"],
-  "boracite": ["b o r a t ʃ i t e"],
-  "boraciti": ["b o r a t ʃ i t i"],
-  "boragine": ["b o r a d ʒ i n e"],
-  "borano": ["b o r a n o"],
-  "borasso": ["b o r a sː o"],
-  "borbogliare": ["b o r b o ʎ a r e"],
-  "borbonica": ["b o r b ɔ n i k a"],
-  "borboniche": ["b o r b ɔ n i k e"],
-  "borbonici": ["b o r b ɔ n i t ʃ i"],
-  "borbonico": ["b o r b ɔ n i k o"],
-  "borbonismi": ["b o r b o n i z m i"],
-  "borbonismo": ["b o r b o n i z m o"],
-  "borbotta": ["b o r b o tː a"],
-  "borbottai": ["b o r b o tː a i"],
-  "borbottammo": ["b o r b o tː a mː o"],
-  "borbottando": ["b o r b o tː a n d o"],
-  "borbottano": ["b o r b o tː a n o"],
-  "borbottante": ["b o r b o tː a n t e"],
-  "borbottare": ["b o r b o tː a r e"],
-  "borbottarono": ["b o r b o tː a r o n o"],
-  "borbottasse": ["b o r b o tː a sː e"],
-  "borbottassero": ["b o r b o tː a sː e r o"],
-  "borbottassi": ["b o r b o tː a sː i"],
-  "borbottassimo": ["b o r b o tː a sː i m o"],
-  "borbottaste": ["b o r b o tː a s t e"],
-  "borbottasti": ["b o r b o tː a s t i"],
-  "borbottate": ["b o r b o tː a t e"],
-  "borbottato": ["b o r b o tː a t o"],
-  "borbottava": ["b o r b o tː a v a"],
-  "borbottavamo": ["b o r b o tː a v a m o"],
-  "borbottavano": ["b o r b o tː a v a n o"],
-  "borbottavate": ["b o r b o tː a v a t e"],
-  "borbottavi": ["b o r b o tː a v i"],
-  "borbottavo": ["b o r b o tː a v o"],
-  "borbotterà": ["b o r b o tː e r a"],
-  "borbotterai": ["b o r b o tː e r a i"],
-  "borbotteranno": ["b o r b o tː e r a nː o"],
-  "borbotterebbe": ["b o r b o tː e r e bː e"],
-  "borbotterebbero": ["b o r b o tː e r e bː e r o"],
-  "borbotterei": ["b o r b o tː e r e i"],
-  "borbotteremmo": ["b o r b o tː e r e mː o"],
-  "borbotteremo": ["b o r b o tː e r e m o"],
-  "borbottereste": ["b o r b o tː e r e s t e"],
-  "borbotteresti": ["b o r b o tː e r e s t i"],
-  "borbotterete": ["b o r b o tː e r e t e"],
-  "borbotterò": ["b o r b o tː e r o"],
-  "borbotti": ["b o r b o tː i"],
-  "borbottiamo": ["b o r b o tː j a m o"],
-  "borbottiate": ["b o r b o tː j a t e"],
-  "borbottino": ["b o r b o tː i n o"],
-  "borbotto": ["b o r b o tː o"],
-  "borbottò": ["b o r b o tː o"],
-  "borbottone": ["b o r b o tː o n e"],
-  "bordando": ["b o r d a n d o"],
-  "bordante": ["b o r d a n t e"],
-  "bordare": ["b o r d a r e"],
-  "bordata": ["b o r d a t a"],
-  "bordatrice": ["b o r d a t r i t ʃ e"],
-  "bordatrici": ["b o r d a t r i t ʃ i"],
-  "bordatura": ["b o r d a t u r a"],
-  "bordature": ["b o r d a t u r e"],
-  "bordeaux": ["b o r d o", "b o r d ɔ"],
-  "bordeggiare": ["b o r d e dː ʒ a r e"],
-  "bordelli": ["b o r d ɛ lː i"],
-  "bordello": ["b o r d ɛ lː o"],
-  "bordi": ["b o r d i"],
-  "bordigalese": ["b o r d i ɡ a l e s e"],
-  "bordigalesi": ["b o r d i ɡ a l e s i"],
-  "bordo": ["b o r d o"],
-  "bordò": ["b o r d", "b o r d o", "b o r d ɔ"],
-  "bordolese": ["b o r d o l e s e", "b o r d o l e z e"],
-  "bordolesi": ["b o r d o l e s i"],
-  "bordura": ["b o r d u r a"],
-  "bordure": ["b o r d u r e"],
-  "borea": ["b ɔ r e a"],
-  "boreale": ["b o r e a l e"],
-  "borgata": ["b o r ɡ a t a"],
-  "borgataro": ["b o r ɡ a t a r o"],
-  "borghese": ["b o r ɡ e s e", "b o r ɡ e z e"],
-  "borghesemente": ["b o r ɡ e s e m e n t e"],
-  "borghesi": ["b o r ɡ e s i"],
-  "borghesia": ["b o r ɡ e s i a", "b o r ɡ e z i a"],
-  "borgo": ["b o r ɡ o"],
-  "borgogna": ["b o r ɡ o ɲ ɲ a"],
-  "borgomastro": ["b o r ɡ o m a s t r o"],
-  "boria": ["b ɔ r j a"],
-  "borica": ["b ɔ r i k a"],
-  "boriche": ["b ɔ r i k e"],
-  "borici": ["b ɔ r i t ʃ i"],
-  "borico": ["b ɔ r i k o"],
-  "borio": ["b ɔ r j o"],
-  "boriosa": ["b o r j o z a"],
-  "boriosamente": ["b o r j o s a m e n t e"],
-  "boriose": ["b o r j o z e"],
-  "boriosi": ["b o r j o z i"],
-  "borioso": ["b o r j o s o", "b o r j o z o"],
-  "borlonaia": ["b o r l o n a j a"],
-  "borlonaio": ["b o r l o n a j o"],
-  "borlotto": ["b o r l ɔ tː o"],
-  "bormidese": ["b o r m i d e s e", "b o r m i d e z e"],
-  "boro": ["b ɔ r o"],
-  "boroscopi": ["b o r o s k ɔ p i"],
-  "boroscopio": ["b o r o s k ɔ p j o"],
-  "borotalco": ["b o r o t a l k o"],
-  "borracce": ["b o rː a tː ʃ e"],
-  "borraccia": ["b o rː a tː ʃ a"],
-  "borraggi": ["b o rː a dː ʒ i"],
-  "borraggio": ["b o rː a dː ʒ o"],
-  "borragine": ["b o rː a d ʒ i n e"],
-  "borsa": ["b o r s a"],
-  "borsaiolo": ["b o r s a i o l o"],
-  "borsalino": ["b o r s a l i n o"],
-  "borse": ["b o r s a", "b o r s e"],
-  "borseggiare": ["b o r s e dː ʒ a r e"],
-  "borseggiatore": ["b o r s e dː ʒ a t o r e"],
-  "borseggiatori": ["b o r s e dː ʒ a t ɔ r i"],
-  "borseggiatrice": ["b o r s e dː ʒ a t r i t ʃ e"],
-  "borseggiatrici": ["b o r s e dː ʒ a t r i t ʃ i"],
-  "borselli": ["b o r s e lː i"],
-  "borsellini": ["b o r s ɛ lː i n i"],
-  "borsellino": ["b o r s ɛ lː i n o"],
-  "borsello": ["b o r s e lː o"],
-  "borsetta": ["b o r s e tː a"],
-  "borsette": ["b o r s e tː e"],
-  "borsista": ["b o r s i s t a"],
-  "borsiste": ["b o r s i s t e"],
-  "borsisti": ["b o r s i s t i"],
-  "borsistico": ["b o r s i s t i k o"],
-  "borsoli": ["b o r s o l i"],
-  "borsolo": ["b o r s o l o"],
-  "borsone": ["b o r s o n e"],
-  "boscaiolo": ["b o s k a j ɔ l o"],
-  "boschetto": ["b o s k e tː o"],
-  "boschi": ["b ɔ s k o"],
-  "boschivo": ["b o s k i v o"],
-  "bosco": ["b ɔ s k o", "b ɔ s k ɔ"],
-  "boscoso": ["b o s k o s o", "b o s k o z o"],
-  "bosega": ["b o z e ɡ a"],
-  "bosnia": ["b ɔ z n j a"],
-  "bosniaca": ["b o z n j a k a"],
-  "bosniache": ["b o z n j a k e"],
-  "bosniaci": ["b o z n j a t ʃ i"],
-  "bosniaco": ["b o z n i a k o", "b o z n j a k o"],
-  "bosone": ["b o z o n e"],
-  "boss": ["b ɔ s"],
-  "bosso": ["b ɔ sː o"],
-  "bossolo": ["b ɔ sː o l o"],
-  "bostrice": ["b ɔ s t r i t ʃ e"],
-  "botanica": ["b o t a n i k a"],
-  "botanicamente": ["b o t a n i k a m e n t e"],
-  "botaniche": ["b o t a n i k a", "b o t a n i k e"],
-  "botanici": ["b o t a n i t ʃ i"],
-  "botanico": ["b o t a n i k o"],
-  "botanista": ["b o t a n i s t a"],
-  "botaniste": ["b o t a n i s t e"],
-  "botanisti": ["b o t a n i s t i"],
-  "botola": ["b ɔ t o l a"],
-  "botoli": ["b ɔ t o l i"],
-  "botolo": ["b ɔ t o l o"],
-  "botswana": ["b o tː s u a n a"],
-  "botswane": ["b o tː s u a n e"],
-  "botswani": ["b o tː s u a n i"],
-  "botswano": ["b o tː s u a n o"],
-  "botta": ["b ɔ tː a"],
-  "bottai": ["b o tː a i"],
-  "bottaio": ["b o tː a j o"],
-  "bottazzo": ["b o tː a tː s o"],
-  "botte": ["b o tː e", "b ɔ tː e"],
-  "bottega": ["b o tː e ɡ a"],
-  "bottegai": ["b o tː e ɡ a j"],
-  "bottegaie": ["b o tː e ɡ a j e"],
-  "bottegaio": ["b o tː e ɡ a j o"],
-  "botteghe": ["b o tː e ɡ e"],
-  "botti": ["b o tː i"],
-  "botticella": ["b o tː i t ʃ ɛ lː a"],
-  "bottiglia": ["b o tː i ʎ a", "b ɔ tː i ʎ a"],
-  "bottiglie": ["b ɔ tː i ʎ e"],
-  "bottinatore": ["b o tː i n a t o r"],
-  "bottinatori": ["b o tː i n a t o r i"],
-  "bottinatrice": ["b o tː i n a t r i t ʃ i"],
-  "bottinatrici": ["b o tː i n a t r i t ʃ i"],
-  "bottino": ["b o tː i n o"],
-  "botto": ["b ɔ tː o"],
-  "bottoncino": ["b o tː o n t ʃ i n o"],
-  "bottone": ["b o tː o n e"],
-  "bottoni": ["b o tː o n i"],
-  "bottoniero": ["b o tː o n j ɛ r o"],
-  "botulismi": ["b o t u l i z m i"],
-  "botulismo": ["b o t u l i z m o"],
-  "bouquet": ["b u k e"],
-  "boutique": ["b u t i k"],
-  "bovarismo": ["b o v a r i z m o"],
-  "bovaro": ["b o v a r o"],
-  "bove": ["b ɔ v e"],
-  "bovide": ["b ɔ v i d e"],
-  "bovidi": ["b ɔ v i d i"],
-  "bovina": ["b o v i n a"],
-  "bovinamente": ["b o v i n a m e n t e"],
-  "bovine": ["b o v i n e"],
-  "bovini": ["b o v i n i"],
-  "bovinicoltura": ["b o v i n i k o l t u r a"],
-  "bovinicolture": ["b o v i n i k o l t u r e"],
-  "bovino": ["b o v i n o"],
-  "box": ["b ɔ k s"],
-  "boxante": ["b o k s a n t e"],
-  "boxata": ["b o k s a t a"],
-  "boxate": ["b o k s a t e"],
-  "boxati": ["b o k s a t i"],
-  "boxato": ["b o k s a t o"],
-  "boxe": ["b ɔ k s"],
-  "boy": ["b ɔ j"],
-  "boyscout": ["b o j s k a w t"],
-  "bozza": ["b ɔ tː s a"],
-  "bozzacchione": ["b o t sː a kː j ɔ n e"],
-  "bozzetto": ["b o tː s e tː o"],
-  "bozzima": ["b ɔ d z i m a"],
-  "bozzolo": ["b ɔ tː s o l o"],
-  "bozzoloso": ["b o tː s o l o s o", "b o tː s o l o z o"],
-  "bracalone": ["b r a k a l o n e"],
-  "bracaloni": ["b r a k a l ɔ n i"],
-  "bracare": ["b r a k a r e"],
-  "braccante": ["b r a kː a n t e"],
-  "braccare": ["b r a kː a r e"],
-  "braccata": ["b r a kː a t a"],
-  "braccate": ["b r a kː a t e"],
-  "braccato": ["b r a kː a t o"],
-  "bracchetto": ["b r a kː e tː o"],
-  "braccia": ["b r a tː ʃ o"],
-  "bracciale": ["b r a tː ʃ a l e"],
-  "braccialetto": ["b r a tː ʃ a l e tː o"],
-  "bracciante": ["b r a tː ʃ a n t e"],
-  "braccianti": ["b r a tː ʃ a n t i"],
-  "bracciare": ["b r a tː ʃ a r e"],
-  "bracciata": ["b r a tː ʃ a t a"],
-  "braccino": ["b r a tː ʃ i n o"],
-  "braccio": ["b r a tː ʃ o"],
-  "bracciolo": ["b r a tː ʃ ɔ l o"],
-  "bracco": ["b r a kː o"],
-  "bracconaggi": ["b r a kː o n a dː ʒ i"],
-  "bracconaggio": ["b r a kː o n a dː ʒ o"],
-  "bracconiere": ["b r a kː o n j ɛ r e"],
-  "brace": ["b r a t ʃ e"],
-  "brachetta": ["b r a k e tː a"],
-  "brachette": ["b r a k e tː e"],
-  "brachiale": ["b r a k j a l e"],
-  "brachiatore": ["b r a k j a t o r e"],
-  "brachiblasto": ["b r a k i b l a s t o"],
-  "brachiceri": ["b r a k i t ʃ e r i"],
-  "brachicero": ["b r a k i t ʃ e r o"],
-  "brachigalba": ["b r a k i ɡ a l b a"],
-  "brachilogia": ["r a k i l o d ʒ i a"],
-  "brachilogica": ["b r a k i l ɔ d ʒ i k a"],
-  "brachilogiche": ["b r a k i l ɔ d ʒ i k e"],
-  "brachilogici": ["b r a k i l ɔ d ʒ i t ʃ i"],
-  "brachilogico": ["b r a k i l ɔ d ʒ i k o"],
-  "brachistocrona": ["b r a k i s t ɔ k r o n a"],
-  "braci": ["b r a t ʃ i"],
-  "braciaia": ["b r a t ʃ a j a"],
-  "braciaio": ["b r a t ʃ a j o"],
-  "braciere": ["b r a t ʃ ɛ r e"],
-  "bracieri": ["b r a t ʃ ɛ r i"],
-  "bracino": ["b r a t ʃ i n o"],
-  "braciola": ["b r a t ʃ ɔ l a"],
-  "bradicardia": ["b r a k i k a r d i a"],
-  "bradicinesia": ["b r a d i t ʃ i n e s i a"],
-  "bradicinesie": ["b r a d i t ʃ i n e s i e"],
-  "bradipi": ["b r a d i p i"],
-  "bradipo": ["b r a d i p o"],
-  "bradipodidi": ["b r a d i p ɔ d i d i"],
-  "bradisismo": ["b r a d i z i z m o"],
-  "brado": ["b r a d o"],
-  "bragagna": ["b r a ɡ a ɲ ɲ a"],
-  "braganza": ["b r a ɡ a n t s a"],
-  "braghetta": ["b r a ɡ e tː a"],
-  "braghette": ["b r a ɡ e tː e"],
-  "braida": ["b r a j d a"],
-  "braidense": ["b r a j d ɛ n s e"],
-  "brama": ["b r a m a"],
-  "bramante": ["b r a m a n t e"],
-  "bramantesco": ["b r a m a n t e s k o"],
-  "bramare": ["b r a m a r e"],
-  "bramato": ["b r a m a t o"],
-  "brame": ["b r a m e"],
-  "bramire": ["b r a m i r e"],
-  "bramito": ["b r a m i t o"],
-  "bramosa": ["b r a m ɔ z a"],
-  "bramosamente": ["b r a m o s a m e n t e"],
-  "bramose": ["b r a m ɔ z e"],
-  "bramosi": ["b r a m ɔ z i"],
-  "bramosia": ["b r a m o z i a"],
-  "bramoso": ["b r a m o s o", "b r a m o z o", "b r a m ɔ z o"],
-  "branca": ["b r a n k a"],
-  "branche": ["b r a n k e"],
-  "branchi": ["b r a n k i"],
-  "branchia": ["b r a n k j a"],
-  "branchiale": ["b r a n k j a l e"],
-  "branchiali": ["b r a n k j a l i"],
-  "branchie": ["b r a n k j e"],
-  "branchiopode": ["b r a n k j ɔ p o d e"],
-  "branchiopodi": ["b r a n k j ɔ p o d i"],
-  "brancicare": ["b r a n t ʃ i k a r e"],
-  "branco": ["b r a n k o"],
-  "brancolante": ["b r a ɲ k o l a n t e"],
-  "brancolare": ["b r a ɲ k o l a r e"],
-  "brancolato": ["b r a ɲ k o l a t o"],
-  "brand": ["b r ɛ n d"],
-  "branda": ["b r a n d a"],
-  "brandeburgo": ["b r a n d e b u r ɡ o"],
-  "brandeggiare": ["b r a n d e dː ʒ a r e"],
-  "brandelli": ["b r a n d ɛ lː i"],
-  "brandello": ["b r a n d ɛ lː o"],
-  "brandente": ["b r a n d e n t e"],
-  "brandina": ["b r a n d i n a"],
-  "brandire": ["b r a n d i r e"],
-  "brandistocco": ["b r a n d i s t ɔ kː o"],
-  "brandito": ["b r a n d i t o"],
-  "brando": ["b r a n d o"],
-  "brano": ["b r a n o"]
+  "bocciato": [
+    "botːʃato"
+  ],
+  "bocciatore": [
+    "botːʃatore"
+  ],
+  "bocciatura": [
+    "botːʃatura"
+  ],
+  "boccino": [
+    "botːʃino"
+  ],
+  "bocciolo": [
+    "botːʃɔlo"
+  ],
+  "boccista": [
+    "botːʃista"
+  ],
+  "bocciste": [
+    "botːʃiste"
+  ],
+  "boccisti": [
+    "botːʃisti"
+  ],
+  "bocco": [
+    "bɔkːo"
+  ],
+  "boccone": [
+    "bokːone"
+  ],
+  "bocconi": [
+    "bokːoni"
+  ],
+  "bocconiana": [
+    "bokːonjana"
+  ],
+  "bocconiano": [
+    "bokːonjano"
+  ],
+  "boccuccia": [
+    "bokːutːʃa"
+  ],
+  "boce": [
+    "botʃe"
+  ],
+  "bocervo": [
+    "botʃɛrvo"
+  ],
+  "boci": [
+    "botʃi"
+  ],
+  "bocia": [
+    "bɔtʃa"
+  ],
+  "bodola": [
+    "bɔdola"
+  ],
+  "body": [
+    "bɔdi"
+  ],
+  "boemo": [
+    "boɛmo"
+  ],
+  "boero": [
+    "boɛro"
+  ],
+  "bofonchiare": [
+    "bofoɲkjare"
+  ],
+  "boga": [
+    "boɡa",
+    "bɔɡa"
+  ],
+  "boghe": [
+    "boɡe"
+  ],
+  "bogliente": [
+    "boʎɛnte"
+  ],
+  "bogliolo": [
+    "boʎolo"
+  ],
+  "boglire": [
+    "boʎire"
+  ],
+  "bogotà": [
+    "boɡota"
+  ],
+  "boh": [
+    "bo"
+  ],
+  "bohemien": [
+    "bɔemjɛ"
+  ],
+  "bohrio": [
+    "bɔrjo"
+  ],
+  "boia": [
+    "bɔja"
+  ],
+  "boiacca": [
+    "bojakːa"
+  ],
+  "boiata": [
+    "bojata"
+  ],
+  "boicottaggi": [
+    "bojkotːadːʒi"
+  ],
+  "boicottaggio": [
+    "boikotːadːʒo",
+    "bojkotːadːʒo"
+  ],
+  "boicottante": [
+    "boikotːante"
+  ],
+  "boicottare": [
+    "boikotːare",
+    "bojkotːare"
+  ],
+  "boicottato": [
+    "boikotːato"
+  ],
+  "boide": [
+    "bɔjde"
+  ],
+  "boidi": [
+    "bɔjdi"
+  ],
+  "boiler": [
+    "bɔjler"
+  ],
+  "bolentino": [
+    "bolentini"
+  ],
+  "boleti": [
+    "bolɛti"
+  ],
+  "boleto": [
+    "bolɛto"
+  ],
+  "bolgia": [
+    "bɔldʒa"
+  ],
+  "bolide": [
+    "bɔlide"
+  ],
+  "bolivia": [
+    "bolivja"
+  ],
+  "boliviana": [
+    "bolivjana"
+  ],
+  "boliviane": [
+    "bolivjane"
+  ],
+  "boliviani": [
+    "bolivjani"
+  ],
+  "boliviano": [
+    "bolivjano"
+  ],
+  "bolla": [
+    "bolːa"
+  ],
+  "bollante": [
+    "bolːante"
+  ],
+  "bollare": [
+    "bolːare"
+  ],
+  "bollato": [
+    "bolːato"
+  ],
+  "bolle": [
+    "bolːe"
+  ],
+  "bollente": [
+    "bolːente",
+    "bolːɛnte"
+  ],
+  "bollenti": [
+    "bolːenti"
+  ],
+  "bolletta": [
+    "bolːetːa"
+  ],
+  "bollettario": [
+    "bolːetːarjo"
+  ],
+  "bollette": [
+    "bolːetːe"
+  ],
+  "bollettini": [
+    "bolːetːini"
+  ],
+  "bollettino": [
+    "bolːetːino"
+  ],
+  "bolli": [
+    "bolːi"
+  ],
+  "bollicare": [
+    "bolːikare"
+  ],
+  "bollimenti": [
+    "bolːimenti"
+  ],
+  "bollimento": [
+    "bolːimento"
+  ],
+  "bollinare": [
+    "bolːinare"
+  ],
+  "bollire": [
+    "bolːire",
+    "bɔlːire"
+  ],
+  "bollito": [
+    "bolːito"
+  ],
+  "bollitore": [
+    "bolːitore"
+  ],
+  "bollitori": [
+    "bolːitori"
+  ],
+  "bollitura": [
+    "bolːitura"
+  ],
+  "bollo": [
+    "bolːo",
+    "bɔlːɔ"
+  ],
+  "bollore": [
+    "bolːore"
+  ],
+  "bolloso": [
+    "bolːoso",
+    "bolːozo"
+  ],
+  "bolo": [
+    "bɔlo"
+  ],
+  "bologna": [
+    "boloɲa",
+    "boloɲɲa"
+  ],
+  "bolognese": [
+    "boloɲɲese",
+    "boloɲɲeze"
+  ],
+  "bolognesi": [
+    "boloɲɲesi"
+  ],
+  "bolscevico": [
+    "bolʃeviko",
+    "bolʃɛviko"
+  ],
+  "bolscevismo": [
+    "bolʃevizmo"
+  ],
+  "bolsedine": [
+    "bolsɛdine"
+  ],
+  "bolso": [
+    "bolso"
+  ],
+  "bolzanino": [
+    "boltsanino"
+  ],
+  "bolzano": [
+    "bɔltsano"
+  ],
+  "bomba": [
+    "bomba"
+  ],
+  "bombarda": [
+    "bombarda"
+  ],
+  "bombardamenti": [
+    "bombardamenti"
+  ],
+  "bombardamento": [
+    "bombardamento"
+  ],
+  "bombardante": [
+    "bombardante"
+  ],
+  "bombardare": [
+    "bombardare"
+  ],
+  "bombardato": [
+    "bombardato"
+  ],
+  "bombarde": [
+    "bombarde"
+  ],
+  "bombardiere": [
+    "bombardjɛre"
+  ],
+  "bombardieri": [
+    "bombardjɛri"
+  ],
+  "bombardone": [
+    "bombardone"
+  ],
+  "bombare": [
+    "bombare"
+  ],
+  "bombato": [
+    "bombato"
+  ],
+  "bombe": [
+    "bombe"
+  ],
+  "bomber": [
+    "bɔmber"
+  ],
+  "bombetta": [
+    "bombetːa"
+  ],
+  "bombette": [
+    "bombetːe"
+  ],
+  "bombicillide": [
+    "bombitʃilːide"
+  ],
+  "bombicillidi": [
+    "bombitʃilːidi"
+  ],
+  "bombo": [
+    "bombo"
+  ],
+  "bombola": [
+    "bombola"
+  ],
+  "bombolaia": [
+    "bombolaja"
+  ],
+  "bombolaio": [
+    "bombolajo"
+  ],
+  "bombole": [
+    "bombole"
+  ],
+  "bombolone": [
+    "bombolone"
+  ],
+  "bomboniera": [
+    "bombonjɛra"
+  ],
+  "bompressi": [
+    "bomprɛsːi"
+  ],
+  "bompresso": [
+    "bomprɛsːo"
+  ],
+  "bona": [
+    "bona"
+  ],
+  "bonacce": [
+    "bonatːʃe"
+  ],
+  "bonaccia": [
+    "bonatːʃa"
+  ],
+  "bonacciona": [
+    "bonatːʃona"
+  ],
+  "bonaccione": [
+    "bonatːʃone"
+  ],
+  "bonaccioni": [
+    "bonatːʃoni"
+  ],
+  "bonango": [
+    "bonanɡo"
+  ],
+  "bonanno": [
+    "bonanːo"
+  ],
+  "bonapartesco": [
+    "bonapartesko"
+  ],
+  "bonapartismi": [
+    "bonapartizmi"
+  ],
+  "bonapartismo": [
+    "bonapartizmo"
+  ],
+  "bonapartista": [
+    "bonapartista"
+  ],
+  "bonapartiste": [
+    "bonapartiste"
+  ],
+  "bonapartisti": [
+    "bonapartisti"
+  ],
+  "bonari": [
+    "bonari",
+    "bonarj"
+  ],
+  "bonaria": [
+    "bonarja"
+  ],
+  "bonariamente": [
+    "bonarjamente"
+  ],
+  "bonarie": [
+    "bonarje"
+  ],
+  "bonario": [
+    "bonarjo"
+  ],
+  "bondiola": [
+    "bondjɔla"
+  ],
+  "bondiole": [
+    "bondjɔle"
+  ],
+  "bone": [
+    "bone"
+  ],
+  "bonet": [
+    "bonɛt"
+  ],
+  "bongo": [
+    "bɔnɡo"
+  ],
+  "boni": [
+    "boni"
+  ],
+  "bonifacina": [
+    "bonifatʃina"
+  ],
+  "bonifacino": [
+    "bonifatʃino"
+  ],
+  "bonifacio": [
+    "bonifatʃo"
+  ],
+  "bonifazio": [
+    "bonifatːsjo"
+  ],
+  "bonifica": [
+    "bonifika"
+  ],
+  "bonificabile": [
+    "bonifikabile"
+  ],
+  "bonificabili": [
+    "bonifikabili"
+  ],
+  "bonificante": [
+    "bonifikante"
+  ],
+  "bonificare": [
+    "bonifikare"
+  ],
+  "bonificata": [
+    "bonifikata"
+  ],
+  "bonificate": [
+    "bonifikate"
+  ],
+  "bonificati": [
+    "bonifikati"
+  ],
+  "bonificato": [
+    "bonifikato"
+  ],
+  "bonificatore": [
+    "bonifikatore"
+  ],
+  "bonificatori": [
+    "bonifikatori"
+  ],
+  "bonificatrice": [
+    "bonifikatritʃe"
+  ],
+  "bonificatrici": [
+    "bonifikatritʃi"
+  ],
+  "bonifiche": [
+    "bonifike"
+  ],
+  "bonifici": [
+    "bonifitʃi"
+  ],
+  "bonifico": [
+    "bonifiko"
+  ],
+  "bono": [
+    "bono",
+    "bɔno"
+  ],
+  "bonobo": [
+    "bonɔbo"
+  ],
+  "bonomia": [
+    "bonomia"
+  ],
+  "bonomie": [
+    "bonomie"
+  ],
+  "bonsaista": [
+    "bonsaista"
+  ],
+  "bonsaiste": [
+    "bonsaiste"
+  ],
+  "bonsaisti": [
+    "bonsaisti"
+  ],
+  "bontà": [
+    "bonta"
+  ],
+  "bonto": [
+    "bɔnto"
+  ],
+  "bonus": [
+    "bɔnus"
+  ],
+  "bonzo": [
+    "bondzo"
+  ],
+  "bookmaker": [
+    "bukmejker"
+  ],
+  "boot": [
+    "but"
+  ],
+  "bootabile": [
+    "butabile"
+  ],
+  "bootabili": [
+    "butabili"
+  ],
+  "borace": [
+    "boratʃe"
+  ],
+  "boracica": [
+    "boratʃika"
+  ],
+  "boraciche": [
+    "boratʃike"
+  ],
+  "boracici": [
+    "boratʃitʃi"
+  ],
+  "boracico": [
+    "boratʃiko"
+  ],
+  "boracifero": [
+    "boratʃifero"
+  ],
+  "boracite": [
+    "boratʃite"
+  ],
+  "boraciti": [
+    "boratʃiti"
+  ],
+  "boragine": [
+    "boradʒine"
+  ],
+  "borano": [
+    "borano"
+  ],
+  "borasso": [
+    "borasːo"
+  ],
+  "borbogliare": [
+    "borboʎare"
+  ],
+  "borbonica": [
+    "borbɔnika"
+  ],
+  "borboniche": [
+    "borbɔnike"
+  ],
+  "borbonici": [
+    "borbɔnitʃi"
+  ],
+  "borbonico": [
+    "borbɔniko"
+  ],
+  "borbonismi": [
+    "borbonizmi"
+  ],
+  "borbonismo": [
+    "borbonizmo"
+  ],
+  "borbotta": [
+    "borbotːa"
+  ],
+  "borbottai": [
+    "borbotːai"
+  ],
+  "borbottammo": [
+    "borbotːamːo"
+  ],
+  "borbottando": [
+    "borbotːando"
+  ],
+  "borbottano": [
+    "borbotːano"
+  ],
+  "borbottante": [
+    "borbotːante"
+  ],
+  "borbottare": [
+    "borbotːare"
+  ],
+  "borbottarono": [
+    "borbotːarono"
+  ],
+  "borbottasse": [
+    "borbotːasːe"
+  ],
+  "borbottassero": [
+    "borbotːasːero"
+  ],
+  "borbottassi": [
+    "borbotːasːi"
+  ],
+  "borbottassimo": [
+    "borbotːasːimo"
+  ],
+  "borbottaste": [
+    "borbotːaste"
+  ],
+  "borbottasti": [
+    "borbotːasti"
+  ],
+  "borbottate": [
+    "borbotːate"
+  ],
+  "borbottato": [
+    "borbotːato"
+  ],
+  "borbottava": [
+    "borbotːava"
+  ],
+  "borbottavamo": [
+    "borbotːavamo"
+  ],
+  "borbottavano": [
+    "borbotːavano"
+  ],
+  "borbottavate": [
+    "borbotːavate"
+  ],
+  "borbottavi": [
+    "borbotːavi"
+  ],
+  "borbottavo": [
+    "borbotːavo"
+  ],
+  "borbotterà": [
+    "borbotːera"
+  ],
+  "borbotterai": [
+    "borbotːerai"
+  ],
+  "borbotteranno": [
+    "borbotːeranːo"
+  ],
+  "borbotterebbe": [
+    "borbotːerebːe"
+  ],
+  "borbotterebbero": [
+    "borbotːerebːero"
+  ],
+  "borbotterei": [
+    "borbotːerei"
+  ],
+  "borbotteremmo": [
+    "borbotːeremːo"
+  ],
+  "borbotteremo": [
+    "borbotːeremo"
+  ],
+  "borbottereste": [
+    "borbotːereste"
+  ],
+  "borbotteresti": [
+    "borbotːeresti"
+  ],
+  "borbotterete": [
+    "borbotːerete"
+  ],
+  "borbotterò": [
+    "borbotːero"
+  ],
+  "borbotti": [
+    "borbotːi"
+  ],
+  "borbottiamo": [
+    "borbotːjamo"
+  ],
+  "borbottiate": [
+    "borbotːjate"
+  ],
+  "borbottino": [
+    "borbotːino"
+  ],
+  "borbotto": [
+    "borbotːo"
+  ],
+  "borbottò": [
+    "borbotːo"
+  ],
+  "borbottone": [
+    "borbotːone"
+  ],
+  "bordando": [
+    "bordando"
+  ],
+  "bordante": [
+    "bordante"
+  ],
+  "bordare": [
+    "bordare"
+  ],
+  "bordata": [
+    "bordata"
+  ],
+  "bordatrice": [
+    "bordatritʃe"
+  ],
+  "bordatrici": [
+    "bordatritʃi"
+  ],
+  "bordatura": [
+    "bordatura"
+  ],
+  "bordature": [
+    "bordature"
+  ],
+  "bordeaux": [
+    "bordo",
+    "bordɔ"
+  ],
+  "bordeggiare": [
+    "bordedːʒare"
+  ],
+  "bordelli": [
+    "bordɛlːi"
+  ],
+  "bordello": [
+    "bordɛlːo"
+  ],
+  "bordi": [
+    "bordi"
+  ],
+  "bordigalese": [
+    "bordiɡalese"
+  ],
+  "bordigalesi": [
+    "bordiɡalesi"
+  ],
+  "bordo": [
+    "bordo"
+  ],
+  "bordò": [
+    "bord",
+    "bordo",
+    "bordɔ"
+  ],
+  "bordolese": [
+    "bordolese",
+    "bordoleze"
+  ],
+  "bordolesi": [
+    "bordolesi"
+  ],
+  "bordura": [
+    "bordura"
+  ],
+  "bordure": [
+    "bordure"
+  ],
+  "borea": [
+    "bɔrea"
+  ],
+  "boreale": [
+    "boreale"
+  ],
+  "borgata": [
+    "borɡata"
+  ],
+  "borgataro": [
+    "borɡataro"
+  ],
+  "borghese": [
+    "borɡese",
+    "borɡeze"
+  ],
+  "borghesemente": [
+    "borɡesemente"
+  ],
+  "borghesi": [
+    "borɡesi"
+  ],
+  "borghesia": [
+    "borɡesia",
+    "borɡezia"
+  ],
+  "borgo": [
+    "borɡo"
+  ],
+  "borgogna": [
+    "borɡoɲɲa"
+  ],
+  "borgomastro": [
+    "borɡomastro"
+  ],
+  "boria": [
+    "bɔrja"
+  ],
+  "borica": [
+    "bɔrika"
+  ],
+  "boriche": [
+    "bɔrike"
+  ],
+  "borici": [
+    "bɔritʃi"
+  ],
+  "borico": [
+    "bɔriko"
+  ],
+  "borio": [
+    "bɔrjo"
+  ],
+  "boriosa": [
+    "borjoza"
+  ],
+  "boriosamente": [
+    "borjosamente"
+  ],
+  "boriose": [
+    "borjoze"
+  ],
+  "boriosi": [
+    "borjozi"
+  ],
+  "borioso": [
+    "borjoso",
+    "borjozo"
+  ],
+  "borlonaia": [
+    "borlonaja"
+  ],
+  "borlonaio": [
+    "borlonajo"
+  ],
+  "borlotto": [
+    "borlɔtːo"
+  ],
+  "bormidese": [
+    "bormidese",
+    "bormideze"
+  ],
+  "boro": [
+    "bɔro"
+  ],
+  "boroscopi": [
+    "boroskɔpi"
+  ],
+  "boroscopio": [
+    "boroskɔpjo"
+  ],
+  "borotalco": [
+    "borotalko"
+  ],
+  "borracce": [
+    "borːatːʃe"
+  ],
+  "borraccia": [
+    "borːatːʃa"
+  ],
+  "borraggi": [
+    "borːadːʒi"
+  ],
+  "borraggio": [
+    "borːadːʒo"
+  ],
+  "borragine": [
+    "borːadʒine"
+  ],
+  "borsa": [
+    "borsa"
+  ],
+  "borsaiolo": [
+    "borsaiolo"
+  ],
+  "borsalino": [
+    "borsalino"
+  ],
+  "borse": [
+    "borsa",
+    "borse"
+  ],
+  "borseggiare": [
+    "borsedːʒare"
+  ],
+  "borseggiatore": [
+    "borsedːʒatore"
+  ],
+  "borseggiatori": [
+    "borsedːʒatɔri"
+  ],
+  "borseggiatrice": [
+    "borsedːʒatritʃe"
+  ],
+  "borseggiatrici": [
+    "borsedːʒatritʃi"
+  ],
+  "borselli": [
+    "borselːi"
+  ],
+  "borsellini": [
+    "borsɛlːini"
+  ],
+  "borsellino": [
+    "borsɛlːino"
+  ],
+  "borsello": [
+    "borselːo"
+  ],
+  "borsetta": [
+    "borsetːa"
+  ],
+  "borsette": [
+    "borsetːe"
+  ],
+  "borsista": [
+    "borsista"
+  ],
+  "borsiste": [
+    "borsiste"
+  ],
+  "borsisti": [
+    "borsisti"
+  ],
+  "borsistico": [
+    "borsistiko"
+  ],
+  "borsoli": [
+    "borsoli"
+  ],
+  "borsolo": [
+    "borsolo"
+  ],
+  "borsone": [
+    "borsone"
+  ],
+  "boscaiolo": [
+    "boskajɔlo"
+  ],
+  "boschetto": [
+    "bosketːo"
+  ],
+  "boschi": [
+    "bɔsko"
+  ],
+  "boschivo": [
+    "boskivo"
+  ],
+  "bosco": [
+    "bɔsko",
+    "bɔskɔ"
+  ],
+  "boscoso": [
+    "boskoso",
+    "boskozo"
+  ],
+  "bosega": [
+    "bozeɡa"
+  ],
+  "bosnia": [
+    "bɔznja"
+  ],
+  "bosniaca": [
+    "boznjaka"
+  ],
+  "bosniache": [
+    "boznjake"
+  ],
+  "bosniaci": [
+    "boznjatʃi"
+  ],
+  "bosniaco": [
+    "bozniako",
+    "boznjako"
+  ],
+  "bosone": [
+    "bozone"
+  ],
+  "boss": [
+    "bɔs"
+  ],
+  "bosso": [
+    "bɔsːo"
+  ],
+  "bossolo": [
+    "bɔsːolo"
+  ],
+  "bostrice": [
+    "bɔstritʃe"
+  ],
+  "botanica": [
+    "botanika"
+  ],
+  "botanicamente": [
+    "botanikamente"
+  ],
+  "botaniche": [
+    "botanika",
+    "botanike"
+  ],
+  "botanici": [
+    "botanitʃi"
+  ],
+  "botanico": [
+    "botaniko"
+  ],
+  "botanista": [
+    "botanista"
+  ],
+  "botaniste": [
+    "botaniste"
+  ],
+  "botanisti": [
+    "botanisti"
+  ],
+  "botola": [
+    "bɔtola"
+  ],
+  "botoli": [
+    "bɔtoli"
+  ],
+  "botolo": [
+    "bɔtolo"
+  ],
+  "botswana": [
+    "botːsuana"
+  ],
+  "botswane": [
+    "botːsuane"
+  ],
+  "botswani": [
+    "botːsuani"
+  ],
+  "botswano": [
+    "botːsuano"
+  ],
+  "botta": [
+    "bɔtːa"
+  ],
+  "bottai": [
+    "botːai"
+  ],
+  "bottaio": [
+    "botːajo"
+  ],
+  "bottazzo": [
+    "botːatːso"
+  ],
+  "botte": [
+    "botːe",
+    "bɔtːe"
+  ],
+  "bottega": [
+    "botːeɡa"
+  ],
+  "bottegai": [
+    "botːeɡaj"
+  ],
+  "bottegaie": [
+    "botːeɡaje"
+  ],
+  "bottegaio": [
+    "botːeɡajo"
+  ],
+  "botteghe": [
+    "botːeɡe"
+  ],
+  "botti": [
+    "botːi"
+  ],
+  "botticella": [
+    "botːitʃɛlːa"
+  ],
+  "bottiglia": [
+    "botːiʎa",
+    "bɔtːiʎa"
+  ],
+  "bottiglie": [
+    "bɔtːiʎe"
+  ],
+  "bottinatore": [
+    "botːinator"
+  ],
+  "bottinatori": [
+    "botːinatori"
+  ],
+  "bottinatrice": [
+    "botːinatritʃi"
+  ],
+  "bottinatrici": [
+    "botːinatritʃi"
+  ],
+  "bottino": [
+    "botːino"
+  ],
+  "botto": [
+    "bɔtːo"
+  ],
+  "bottoncino": [
+    "botːontʃino"
+  ],
+  "bottone": [
+    "botːone"
+  ],
+  "bottoni": [
+    "botːoni"
+  ],
+  "bottoniero": [
+    "botːonjɛro"
+  ],
+  "botulismi": [
+    "botulizmi"
+  ],
+  "botulismo": [
+    "botulizmo"
+  ],
+  "bouquet": [
+    "buke"
+  ],
+  "boutique": [
+    "butik"
+  ],
+  "bovarismo": [
+    "bovarizmo"
+  ],
+  "bovaro": [
+    "bovaro"
+  ],
+  "bove": [
+    "bɔve"
+  ],
+  "bovide": [
+    "bɔvide"
+  ],
+  "bovidi": [
+    "bɔvidi"
+  ],
+  "bovina": [
+    "bovina"
+  ],
+  "bovinamente": [
+    "bovinamente"
+  ],
+  "bovine": [
+    "bovine"
+  ],
+  "bovini": [
+    "bovini"
+  ],
+  "bovinicoltura": [
+    "bovinikoltura"
+  ],
+  "bovinicolture": [
+    "bovinikolture"
+  ],
+  "bovino": [
+    "bovino"
+  ],
+  "box": [
+    "bɔks"
+  ],
+  "boxante": [
+    "boksante"
+  ],
+  "boxata": [
+    "boksata"
+  ],
+  "boxate": [
+    "boksate"
+  ],
+  "boxati": [
+    "boksati"
+  ],
+  "boxato": [
+    "boksato"
+  ],
+  "boxe": [
+    "bɔks"
+  ],
+  "boy": [
+    "bɔj"
+  ],
+  "boyscout": [
+    "bojskawt"
+  ],
+  "bozza": [
+    "bɔtːsa"
+  ],
+  "bozzacchione": [
+    "botsːakːjɔne"
+  ],
+  "bozzetto": [
+    "botːsetːo"
+  ],
+  "bozzima": [
+    "bɔdzima"
+  ],
+  "bozzolo": [
+    "bɔtːsolo"
+  ],
+  "bozzoloso": [
+    "botːsoloso",
+    "botːsolozo"
+  ],
+  "bracalone": [
+    "brakalone"
+  ],
+  "bracaloni": [
+    "brakalɔni"
+  ],
+  "bracare": [
+    "brakare"
+  ],
+  "braccante": [
+    "brakːante"
+  ],
+  "braccare": [
+    "brakːare"
+  ],
+  "braccata": [
+    "brakːata"
+  ],
+  "braccate": [
+    "brakːate"
+  ],
+  "braccato": [
+    "brakːato"
+  ],
+  "bracchetto": [
+    "brakːetːo"
+  ],
+  "braccia": [
+    "bratːʃo"
+  ],
+  "bracciale": [
+    "bratːʃale"
+  ],
+  "braccialetto": [
+    "bratːʃaletːo"
+  ],
+  "bracciante": [
+    "bratːʃante"
+  ],
+  "braccianti": [
+    "bratːʃanti"
+  ],
+  "bracciare": [
+    "bratːʃare"
+  ],
+  "bracciata": [
+    "bratːʃata"
+  ],
+  "braccino": [
+    "bratːʃino"
+  ],
+  "braccio": [
+    "bratːʃo"
+  ],
+  "bracciolo": [
+    "bratːʃɔlo"
+  ],
+  "bracco": [
+    "brakːo"
+  ],
+  "bracconaggi": [
+    "brakːonadːʒi"
+  ],
+  "bracconaggio": [
+    "brakːonadːʒo"
+  ],
+  "bracconiere": [
+    "brakːonjɛre"
+  ],
+  "brace": [
+    "bratʃe"
+  ],
+  "brachetta": [
+    "braketːa"
+  ],
+  "brachette": [
+    "braketːe"
+  ],
+  "brachiale": [
+    "brakjale"
+  ],
+  "brachiatore": [
+    "brakjatore"
+  ],
+  "brachiblasto": [
+    "brakiblasto"
+  ],
+  "brachiceri": [
+    "brakitʃeri"
+  ],
+  "brachicero": [
+    "brakitʃero"
+  ],
+  "brachigalba": [
+    "brakiɡalba"
+  ],
+  "brachilogia": [
+    "rakilodʒia"
+  ],
+  "brachilogica": [
+    "brakilɔdʒika"
+  ],
+  "brachilogiche": [
+    "brakilɔdʒike"
+  ],
+  "brachilogici": [
+    "brakilɔdʒitʃi"
+  ],
+  "brachilogico": [
+    "brakilɔdʒiko"
+  ],
+  "brachistocrona": [
+    "brakistɔkrona"
+  ],
+  "braci": [
+    "bratʃi"
+  ],
+  "braciaia": [
+    "bratʃaja"
+  ],
+  "braciaio": [
+    "bratʃajo"
+  ],
+  "braciere": [
+    "bratʃɛre"
+  ],
+  "bracieri": [
+    "bratʃɛri"
+  ],
+  "bracino": [
+    "bratʃino"
+  ],
+  "braciola": [
+    "bratʃɔla"
+  ],
+  "bradicardia": [
+    "brakikardia"
+  ],
+  "bradicinesia": [
+    "braditʃinesia"
+  ],
+  "bradicinesie": [
+    "braditʃinesie"
+  ],
+  "bradipi": [
+    "bradipi"
+  ],
+  "bradipo": [
+    "bradipo"
+  ],
+  "bradipodidi": [
+    "bradipɔdidi"
+  ],
+  "bradisismo": [
+    "bradizizmo"
+  ],
+  "brado": [
+    "brado"
+  ],
+  "bragagna": [
+    "braɡaɲɲa"
+  ],
+  "braganza": [
+    "braɡantsa"
+  ],
+  "braghetta": [
+    "braɡetːa"
+  ],
+  "braghette": [
+    "braɡetːe"
+  ],
+  "braida": [
+    "brajda"
+  ],
+  "braidense": [
+    "brajdɛnse"
+  ],
+  "brama": [
+    "brama"
+  ],
+  "bramante": [
+    "bramante"
+  ],
+  "bramantesco": [
+    "bramantesko"
+  ],
+  "bramare": [
+    "bramare"
+  ],
+  "bramato": [
+    "bramato"
+  ],
+  "brame": [
+    "brame"
+  ],
+  "bramire": [
+    "bramire"
+  ],
+  "bramito": [
+    "bramito"
+  ],
+  "bramosa": [
+    "bramɔza"
+  ],
+  "bramosamente": [
+    "bramosamente"
+  ],
+  "bramose": [
+    "bramɔze"
+  ],
+  "bramosi": [
+    "bramɔzi"
+  ],
+  "bramosia": [
+    "bramozia"
+  ],
+  "bramoso": [
+    "bramoso",
+    "bramozo",
+    "bramɔzo"
+  ],
+  "branca": [
+    "branka"
+  ],
+  "branche": [
+    "branke"
+  ],
+  "branchi": [
+    "branki"
+  ],
+  "branchia": [
+    "brankja"
+  ],
+  "branchiale": [
+    "brankjale"
+  ],
+  "branchiali": [
+    "brankjali"
+  ],
+  "branchie": [
+    "brankje"
+  ],
+  "branchiopode": [
+    "brankjɔpode"
+  ],
+  "branchiopodi": [
+    "brankjɔpodi"
+  ],
+  "brancicare": [
+    "brantʃikare"
+  ],
+  "branco": [
+    "branko"
+  ],
+  "brancolante": [
+    "braɲkolante"
+  ],
+  "brancolare": [
+    "braɲkolare"
+  ],
+  "brancolato": [
+    "braɲkolato"
+  ],
+  "brand": [
+    "brɛnd"
+  ],
+  "branda": [
+    "branda"
+  ],
+  "brandeburgo": [
+    "brandeburɡo"
+  ],
+  "brandeggiare": [
+    "brandedːʒare"
+  ],
+  "brandelli": [
+    "brandɛlːi"
+  ],
+  "brandello": [
+    "brandɛlːo"
+  ],
+  "brandente": [
+    "brandente"
+  ],
+  "brandina": [
+    "brandina"
+  ],
+  "brandire": [
+    "brandire"
+  ],
+  "brandistocco": [
+    "brandistɔkːo"
+  ],
+  "brandito": [
+    "brandito"
+  ],
+  "brando": [
+    "brando"
+  ],
+  "brano": [
+    "brano"
+  ]
 }

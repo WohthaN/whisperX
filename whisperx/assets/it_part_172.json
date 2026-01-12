@@ -1,502 +1,1547 @@
 {
-  "termonastia": ["t ɛ r m o n a s t i a"],
-  "termonastico": ["t ɛ r m o n a s t i k o"],
-  "termonastie": ["t ɛ r m o n a s t i e"],
-  "termonucleare": ["t e r m o n u k l e a r e"],
-  "termoplasticità": ["t e r m o p l a s t i t ʃ i t a", "t ɛ r m o p l a s t i t ʃ i t a"],
-  "termopolio": ["t e r m o p ɔ l j o"],
-  "termoregolatore": ["t ɛ r m o r e ɡ o l a t o r e"],
-  "termoregolazione": ["t ɛ r m o r e ɡ o l a tː s j o n e"],
-  "termoresistente": ["t e r m o r e z i s t ɛ n t e"],
-  "termoresistenti": ["t e r m o r e z i s t ɛ n t i"],
-  "termoretraibile": ["t ɛ r m o r e t r a i b i l e"],
-  "termoretraibili": ["t ɛ r m o r e t r a i b i l i"],
-  "termosensibile": ["t e r m o s e n s i b i l e"],
-  "termosensibili": ["t e r m o s e n s i b i l i"],
-  "termosfera": ["t e r m o s f ɛ r a"],
-  "termosfere": ["t e r m o s f ɛ r e"],
-  "termostabile": ["t e r m o s t a b i l e", "t ɛ r m o s t a b i l e"],
-  "termostabili": ["t e r m o s t a b i l i"],
-  "termostati": ["t e r m ɔ s t a t i"],
-  "termostatico": ["t e r m o s t a t i k o"],
-  "termostato": ["t e r m ɔ s t a t o"],
-  "termoterapia": ["t ɛ r m o t e r a p i a"],
-  "termoventilazione": ["t ɛ r m o v e n t i l a tː s j o n e"],
-  "terna": ["t ɛ r n a"],
-  "ternano": ["t e r n a n o"],
-  "ternario": ["t e r n a r j o"],
-  "terni": ["t ɛ r n i"],
-  "terno": ["t ɛ r n o"],
-  "terpandro": ["t e r p a n d r o"],
-  "terpene": ["t e r p ɛ n e"],
-  "terra": ["t ɛ rː a"],
-  "terracotta": ["t ɛ rː a k ɔ tː a"],
-  "terracotte": ["t ɛ rː a k ɔ tː e"],
-  "terracqueo": ["t e rː a kː w e o"],
-  "terraferma": ["t e rː a f e r m a"],
-  "terramara": ["t e rː a m a r a"],
-  "terranoce": ["t e rː a n o t ʃ e"],
-  "terrapiattista": ["t e rː a p j a tː i s t a"],
-  "terrapiattiste": ["t e rː a p j a tː i s t e"],
-  "terrapiattisti": ["t e rː a p j a tː i s t i"],
-  "terrapieno": ["t e rː a p j ɛ n o", "t ɛ rː a p j e n o", "t ɛ rː a p j ɛ n o"],
-  "terraqueo": ["t e rː a k w e o"],
-  "terrazza": ["t e rː a tː s a"],
-  "terrazzani": ["t e rː a tː s a n i"],
-  "terrazzano": ["t e rː a tː s a n o"],
-  "terrazzare": ["t e rː a tː s a r e"],
-  "terrazzi": ["t ɛ rː a tː s i"],
-  "terrazzo": ["t e rː a tː s o", "t ɛ rː a tː s ɔ"],
-  "terrecotte": ["t ɛ rː e k ɔ tː e"],
-  "terremotato": ["t e rː e m o t a t o"],
-  "terremoti": ["t ɛ rː ɛ m ɔ t i"],
-  "terremoto": ["t e rː e m ɔ t o", "t ɛ rː ɛ m ɔ t ɔ"],
-  "terreno": ["t e rː e n o"],
-  "terreo": ["t ɛ rː e o"],
-  "terrestre": ["t e rː ɛ s t r e", "t ɛ rː ɛ s t r e"],
-  "terrestri": ["t ɛ rː ɛ s t r i"],
-  "terribile": ["t e rː i b i l e"],
-  "terribili": ["t e rː i b i l i"],
-  "terribilissima": ["t e rː i b i l i sː i m a"],
-  "terribilissime": ["t e rː i b i l i sː i m e"],
-  "terribilissimi": ["t e rː i b i l i sː i m i"],
-  "terribilissimo": ["t e rː i b i l i sː i m o"],
-  "terribilmente": ["t e rː i b i l m e n t e"],
-  "terricci": ["t e rː i tː ʃ i"],
-  "terriccio": ["t e rː i tː ʃ o"],
-  "terriero": ["t e rː j ɛ r o"],
-  "terrificante": ["t e rː i f i k a n t e"],
-  "terrificantemente": ["t e rː i f i k a n t e m e n t e"],
-  "terrificanti": ["t e rː i f i k a n t i"],
-  "terrificare": ["t e rː i f i k a r e"],
-  "terrificato": ["t e rː i f i k a t o"],
-  "territori": ["t e rː i t ɔ r i"],
-  "territoriale": ["t e rː i t o r j a l e"],
-  "territoriali": ["t e rː i t o r j a l i"],
-  "territorio": ["t e rː i t ɔ r j o"],
-  "terrona": ["t e rː o n e a"],
-  "terrone": ["t e rː o n e"],
-  "terroni": ["t e rː o n i"],
-  "terronia": ["t e rː ɔ n j a"],
-  "terrore": ["t e rː o r e"],
-  "terrori": ["t e rː o r i"],
-  "terrorismi": ["t e rː o r i z m i"],
-  "terrorismo": ["t e rː o r i z m o"],
-  "terrorista": ["t e rː o r i s t", "t e rː o r i s t a", "t e rː o r i s t u"],
-  "terroriste": ["t e rː o r i s t e"],
-  "terroristi": ["t e rː o r i s t i"],
-  "terroristico": ["t e rː o r i s t i k o"],
-  "terrorizzante": ["t e rː o r i dː z a n t e"],
-  "terrorizzanti": ["t e rː o r i dː z a n t i"],
-  "terrorizzare": ["t e rː o r i dː z a r e"],
-  "terrorizzata": ["t e rː o r i dː z a t a"],
-  "terrorizzate": ["t e rː o r i dː z a t e"],
-  "terrorizzati": ["t e rː o r i dː z a t i"],
-  "terrorizzato": ["t e rː o r i dː z a t o"],
-  "terrosa": ["t e rː o s a"],
-  "terrose": ["t e rː o s e"],
-  "terrosi": ["t e rː o s i"],
-  "terroso": ["t e rː o s o", "t e rː o z o"],
-  "tersicoreo": ["t e r s i k o r ɛ o"],
-  "terso": ["t ɛ r s o"],
-  "terza": ["t ɛ r t s a"],
-  "terzarolare": ["t e r t s a r o l a r e"],
-  "terze": ["t ɛ r t s e"],
-  "terzetto": ["t e r t s e tː o"],
-  "terzi": ["t ɛ r t s i"],
-  "terziario": ["t e r t s j a r j o"],
-  "terzina": ["t e r t s i n a"],
-  "terzino": ["t e r t s i n o"],
-  "terzo": ["t ɛ r t s o", "t ɛ r t s ɔ"],
-  "terzomondismo": ["t e r t s o m o n d i z m o"],
-  "terzomondista": ["t e r t s o m o n d i s t a"],
-  "terzultimo": ["t e r t s u l t i m o"],
-  "tesa": ["t e s a", "t e z a"],
-  "tesaurizzare": ["t e z a w r i dː z a r e"],
-  "teschietto": ["t e s k j e tː o"],
-  "teschio": ["t e s k j o", "t ɛ s k i o", "t ɛ s k j o"],
-  "teseo": ["t e z ɛ o"],
-  "tesi": ["t e s i", "t e z i", "t ɛ z i"],
-  "teso": ["t e s o", "t e z o"],
-  "tesoretto": ["t e z o r e tː o"],
-  "tesori": ["t e z ɔ r i"],
-  "tesoriere": ["t e z o r j ɛ r e"],
-  "tesorino": ["t e z o r i n o"],
-  "tesoro": ["t e z ɔ r o"],
-  "tessalico": ["t e sː a l i k o"],
-  "tessaliota": ["t e sː a l j ɔ t a"],
-  "tessalo": ["t ɛ sː a l o"],
-  "tessalonica": ["t e sː a l ɔ n i k a"],
-  "tessalonicese": ["t e sː a l o n i t ʃ e s e", "t e sː a l o n i t ʃ e z e"],
-  "tessalonicesi": ["t e sː a l o n i t ʃ e s i"],
-  "tessera": ["t ɛ sː e r a"],
-  "tesserandolo": ["t e sː e r a n d o l o"],
-  "tesserato": ["t e sː e r a t o"],
-  "tessere": ["t ɛ sː e r e"],
-  "tessile": ["t ɛ sː i l e"],
-  "tessilsacco": ["t e sː i l s a kː o"],
-  "tessitore": ["t e sː i t o r e"],
-  "tessitori": ["t e sː i t o r i"],
-  "tessitura": ["t e sː i t u r a"],
-  "tessuta": ["t e sː u t a"],
-  "tessute": ["t e sː u t e"],
-  "tessuti": ["t e sː u t i"],
-  "tessuto": ["t e sː u t o"],
-  "test": ["t ɛ s t"],
-  "testa": ["t ɛ s t a"],
-  "testabile": ["t e s t a b i l e"],
-  "testabili": ["t e s t a b i l i"],
-  "testacroce": ["t ɛ s t a k r o t ʃ e"],
-  "testamentari": ["t e s t a m e n t a r i"],
-  "testamentaria": ["t e s t a m e n t a r j a"],
-  "testamentarie": ["t e s t a m e n t a r j e"],
-  "testamentario": ["t e s t a m e n t a r j o"],
-  "testamenti": ["t e s t a m e n t i"],
-  "testamento": ["t e s t a m e n t o"],
-  "testarda": ["t e s t a r d a"],
-  "testardaggine": ["t e s t a r d a dː ʒ i n e"],
-  "testardamente": ["t e s t a r d a m e n t e"],
-  "testarde": ["t e s t a r d e"],
-  "testardi": ["t e s t a r d i"],
-  "testardo": ["t e s t a r d o"],
-  "testata": ["t e s t a t a"],
-  "testate": ["t e s t a t a"],
-  "testato": ["t e s t a t o"],
-  "testatore": ["t e s t a t o r e"],
-  "testatori": ["t e s t a t o r i"],
-  "testatrice": ["t e s t a t r i t ʃ e"],
-  "testatrici": ["t e s t a t r i t ʃ i"],
-  "teste": ["t ɛ s t e"],
-  "testé": ["t e s t e"],
-  "testeso": ["t e s t e z o"],
-  "testi": ["t ɛ s t i"],
-  "testicolare": ["t e s t i k o l a r e"],
-  "testicolari": ["t e s t i k o l a r i"],
-  "testicoli": ["t e s t i k o l i"],
-  "testicolo": ["t e s t i k o l o"],
-  "testiera": ["t e s t j ɛ r a"],
-  "testificare": ["t e s t i f i k a r e"],
-  "testimone": ["t e s t i m ɔ n e"],
-  "testimoni": ["t e s t i m ɔ n i"],
-  "testimonianza": ["e s t i m o n j a n t s a", "t e s t i m o n j a n t s a"],
-  "testimonianze": ["t e s t i m o n j a n t s e"],
-  "testimoniare": ["t e s t i m o n j a r e"],
-  "testimoniato": ["t e s t i m o n j a t o"],
-  "testimonio": ["t e s t i m ɔ n j o"],
-  "testo": ["t ɛ s t o"],
-  "testone": ["t e s t o n e"],
-  "testoni": ["t e s t o n i"],
-  "testosterone": ["t e s t o s t e r o n e"],
-  "testuale": ["t e s t u a l e"],
-  "testualmente": ["t e s t u a l m e n t e"],
-  "testudinaria": ["t e s t u d i n a r j a"],
-  "testuggine": ["t e s t u dː ʒ i n e"],
-  "tet": ["t ɛ t"],
-  "tetanico": ["t e t a n i k o"],
-  "tetano": ["t ɛ t a n o"],
-  "tetico": ["t ɛ t i k o"],
-  "tetrabromuro": ["t ɛ t r a b r o m u r o"],
-  "tetraciclica": ["i p e r t ʃ i k l i k a"],
-  "tetracicliche": ["i p e r t ʃ i k l i k e"],
-  "tetraciclici": ["i p e r t ʃ i k l i t ʃ i"],
-  "tetraciclico": ["i p e r t ʃ i k l i k o"],
-  "tetracloroetano": ["t e t r a k l ɔ r o e t a n o"],
-  "tetracloroetilene": ["t e t r a k l ɔ r o e t i l ɛ n e"],
-  "tetraclorofenolo": ["t e t r a k l ɔ r o f e n ɔ l o"],
-  "tetracloruro": ["t e t r a k l o r u r o"],
-  "tetracordo": ["t e t r a k ɔ r d o"],
-  "tetraedrico": ["t e t r a ɛ d r i k o"],
-  "tetraedro": ["t e t r a ɛ d r o"],
-  "tetrafase": ["t ɛ t r a f a z e"],
-  "tetraggine": ["t e t r a dː ʒ i n e"],
-  "tetragonale": ["t e t r a ɡ o n a l e"],
-  "tetragono": ["t e t r a ɡ o n o"],
-  "tetragramma": ["t ɛ t r a ɡ r a mː a"],
-  "tetraidroderivato": ["t e t r a i d r o d e r i v a t o"],
-  "tetralogia": ["t e t r a l o d ʒ i a"],
-  "tetraonide": ["t e t r a ɔ n i d e"],
-  "tetraonidi": ["t e t r a ɔ n i d i"],
-  "tetraonino": ["t e t r a o n i n o"],
-  "tetrapak": ["t e t r a p a k", "t ɛ t r a p a k"],
-  "tetraplegia": ["t e t r a p l e d ʒ i a"],
-  "tetraplegica": ["t e t r a p l ɛ d ʒ i k a"],
-  "tetraplegiche": ["t e t r a p l ɛ d ʒ i k e"],
-  "tetraplegici": ["t e t r a p l ɛ d ʒ i t ʃ i"],
-  "tetraplegico": ["t e t r a p l ɛ d ʒ i k o"],
-  "tetraplegie": ["t e t r a p l e d ʒ i e"],
-  "tetrapode": ["t e t r a p o d e"],
-  "tetrarca": ["t e t r a r k a"],
-  "tetrarchia": ["t e t r a r k i a"],
-  "tetravalente": ["t e t r a v a l ɛ n t e"],
-  "tetro": ["t ɛ t r o"],
-  "tetta": ["t e tː a"],
-  "tettarella": ["t e tː a r ɛ lː a"],
-  "tette": ["t e tː e"],
-  "tetti": ["t ɛ tː i"],
-  "tetto": ["t e tː o", "t ɛ tː ɔ"],
-  "tettoia": ["t e tː o j a", "t ɛ tː ɔ j a"],
-  "tettoie": ["t ɛ tː ɔ j e"],
-  "tettola": ["t e tː o l a"],
-  "tettonicamente": ["t e tː o n i k a m e n t e"],
-  "tettonico": ["t e tː ɔ n i k o"],
-  "teutone": ["t ɛ w t o n e"],
-  "teutonico": ["t e w t ɔ n i k o"],
-  "tevere": ["t e v e r e"],
-  "texano": ["t e k s a n o"],
-  "texas": ["t ɛ k s a s"],
-  "texture": ["t e k s t u r e"],
-  "texturi": ["t e k s t u r i"],
-  "texturometri": ["t e k s t u r o m e t r i"],
-  "texturometro": ["t e k s t u r o m e t r o"],
-  "tfr": ["t i ɛ fː e ɛ rː e"],
-  "thailandese": ["t a i l a n d ɛ z e", "t a j l a n d e s e", "t a j l a n d e z e"],
-  "thailandesi": ["t a i l a n d ɛ z i"],
-  "thailandia": ["t a i l a n d j a"],
-  "theta": ["t e t a"],
-  "ti": ["t i"],
-  "tiara": ["t j a r a"],
-  "tiare": ["t j a r e"],
-  "tiberio": ["t i b ɛ r j o"],
-  "tibetano": ["t i b e t a n o"],
-  "tibia": ["t i b j a"],
-  "tibiale": ["t i b j a l e"],
-  "tibiali": ["t i b j a l i"],
-  "tibicine": ["t i b i t ʃ i n e"],
-  "tibie": ["t i b j e"],
-  "tiburio": ["t i b u r j o"],
-  "tiburtino": ["t i b u r t i n o"],
-  "ticchettare": ["t i kː e tː a r e"],
-  "ticchettio": ["t i kː e tː i o"],
-  "ticchio": ["t i kː j o"],
-  "ticinese": ["t i t ʃ i n e s e", "t i t ʃ i n e z e"],
-  "ticino": ["t i t ʃ i n o"],
-  "ticket": ["t i k e t"],
-  "ticonico": ["t i k ɔ n i k o"],
-  "tiella": ["t j ɛ lː a"],
-  "tiepida": ["t j e p i d a"],
-  "tiepide": ["t j e p i d e"],
-  "tiepidi": ["t j e p i d i"],
-  "tiepido": ["t i ɛ p i d o", "t j e p i d o", "t j ɛ p i d o"],
-  "tifare": ["t i f a r e"],
-  "tiflope": ["t i f l o p e"],
-  "tifo": ["t i f o"],
-  "tifoideo": ["t i f o i d ɛ o"],
-  "tifone": ["t i f o n e"],
-  "tifosa": ["t i f o z a"],
-  "tifose": ["t i f o z e"],
-  "tifosi": ["t i f o z i"],
-  "tifoso": ["t i f o s o", "t i f o z o"],
-  "tigli": ["t i ʎ i"],
-  "tiglio": ["t i ʎ o"],
-  "tigmonastia": ["t i ɡ m o n a s t i a"],
-  "tigmonastico": ["t i ɡ m o n a s t i k o"],
-  "tigna": ["t i ɲ ɲ a"],
-  "tigne": ["t i ɲ ɲ e"],
-  "tignola": ["t i ɲ ɲ o l a", "t i ɲ ɲ ɔ l a"],
-  "tignosa": ["t i ɲ ɲ o z a"],
-  "tigone": ["t i ɡ o n e"],
-  "tigre": ["t i ɡ r e"],
-  "tigresco": ["t i ɡ r e s k o"],
-  "tigrotto": ["t i ɡ r ɔ tː o"],
-  "tilde": ["t i l d e"],
-  "tilt": ["t i l t"],
-  "timballo": ["t i m b a lː o"],
-  "timbrare": ["t i m b r a r e"],
-  "timbratura": ["t i m b r a t u r a"],
-  "timbrature": ["t i m b r a t u r e"],
-  "timbro": ["t i m b r o"],
-  "timi": ["t i m i"],
-  "timico": ["t i m i k o"],
-  "timida": ["t i m i d a"],
-  "timidamente": ["t i m i d a m e n t e"],
-  "timide": ["t i m i d e"],
-  "timidezza": ["t i m i d e tː s a"],
-  "timidezze": ["t i m i d e tː s e"],
-  "timidi": ["t i m i d i"],
-  "timidità": ["t i m i d i t a"],
-  "timido": ["t i m i d o"],
-  "timina": ["t i m i n a"],
-  "timo": ["t i m o"],
-  "timocrazia": ["t i m o k r a t s i a"],
-  "timoma": ["t i m ɔ m a"],
-  "timone": ["t i m o n e", "t i m ɔ n e"],
-  "timoni": ["t i m ɔ n i"],
-  "timoniera": ["t i m o n j ɛ r a"],
-  "timoniere": ["t i m o n j ɛ r e"],
-  "timonieri": ["t i m o n j ɛ r i"],
-  "timoniero": ["t i m o n j ɛ r o"],
-  "timorato": ["t i m o r a t o"],
-  "timore": ["t i m o r e", "t i m ɔ r e"],
-  "timorese": ["t i m o r o s e"],
-  "timoresi": ["t i m o r o s i"],
-  "timorosa": ["t i m o r o s a", "t i m o r o z a"],
-  "timorose": ["t i m o r o s e", "t i m o r o z e"],
-  "timorosi": ["t i m o r o s i", "t i m o r o z i"],
-  "timoroso": ["t i m o r o s o", "t i m o r o z o"],
-  "timoteo": ["t i m ɔ t e o"],
-  "timpani": ["t i m p a n i"],
-  "timpanista": ["t i m p a n i s t a"],
-  "timpaniste": ["t i m p a n i s t e"],
-  "timpanisti": ["t i m p a n i s t i"],
-  "timpano": ["t i m p a n o"],
-  "timpanoplastica": ["t i m p a n o p l a s t i k a"],
-  "timpanoplastiche": ["t i m p a n o p l a s t i k e"],
-  "tinamide": ["t i n a m i d e"],
-  "tinamidi": ["t i n a m i d i"],
-  "tinamiforme": ["t i n a m i f o r m e"],
-  "tinamiformi": ["t i n a m i f o r m i"],
-  "tinamo": ["t i n a m o"],
-  "tinca": ["t i n k a", "t i ɲ k a"],
-  "tinche": ["t i n k e"],
-  "tineide": ["t i n ɛ j d e"],
-  "tineidi": ["t i n ɛ i d i"],
-  "tinello": ["t i n ɛ lː o"],
-  "tingere": ["t i n d ʒ e r e", "t i ɲ d ʒ e r e"],
-  "tinnire": ["t i nː i r e"],
-  "tino": ["t i n o"],
-  "tinornite": ["t i n ɔ r n i t e"],
-  "tinozza": ["t i n ɔ tː s a"],
-  "tinozze": ["t i n ɔ tː s e"],
-  "tinta": ["t i n t a"],
-  "tintarella": ["t i n t a r ɛ lː a"],
-  "tinteggiato": ["t i n t e dː ʒ a t o"],
-  "tintinnio": ["t i n t i nː i o"],
-  "tinto": ["t i n t o"],
-  "tintore": ["t i n t o r e"],
-  "tintoria": ["t i n t o r i a"],
-  "tintura": ["t i n t u r a"],
-  "tinture": ["t i n t u r e"],
-  "tiobacilli": ["t i o b a t ʃ i lː i"],
-  "tiobacillo": ["t i o b a t ʃ i lː o"],
-  "tiocomposto": ["t i o k o m p o s t o"],
-  "tioli": ["t i ɔ l i"],
-  "tiolo": ["t i ɔ l o"],
-  "tiorbista": ["t j o r b i s t a"],
-  "tiorbiste": ["t j o r b i s t e"],
-  "tiorbisti": ["t j o r b i s t i"],
-  "tiosolfati": ["t i o s o l f a t i"],
-  "tiosolfato": ["t i o s o l f a t o"],
-  "tiossano": ["t i o sː a n o"],
-  "tipe": ["t i p e"],
-  "tipica": ["t i p i k a"],
-  "tipicamente": ["t i p i k a m e n t e"],
-  "tipiche": ["t i p i k e"],
-  "tipici": ["t i p i t ʃ i"],
-  "tipico": ["t i p i k o"],
-  "tipino": ["t i p i n o"],
-  "tipizzato": ["t i p i dː z a t o"],
-  "tipizzazione": ["t i p i dː z a tː s j o n e"],
-  "tipizzazioni": ["t i p i dː z a tː s j o n i"],
-  "tipo": ["t i p o"],
-  "tipocromia": ["t i p o k r o m i a"],
-  "tipocromie": ["t i p o k r o m i e"],
-  "tipografi": ["t i p ɔ ɡ r a f i"],
-  "tipografia": ["t i p o ɡ r a f i a", "t i p ɔ ɡ r a f j a"],
-  "tipografico": ["t i p o ɡ r a f i k o"],
-  "tipografie": ["t i p ɔ ɡ r a f j e"],
-  "tipologia": ["t i p o l o d ʒ i a"],
-  "tipologica": ["t i p o l ɔ d ʒ i k a"],
-  "tipologiche": ["t i p o l ɔ d ʒ i k e"],
-  "tipologici": ["t i p o l ɔ d ʒ i t ʃ i"],
-  "tipologico": ["t i p o l ɔ d ʒ i k o"],
-  "tipoteca": ["t i p o t ɛ k a"],
-  "tipoteche": ["t i p o t ɛ k e"],
-  "tiragraffi": ["t i r a ɡ r a fː i"],
-  "tiramenti": ["t i r a m e n t i"],
-  "tiramento": ["t i r a m e n t o"],
-  "tiramisù": ["t i r a m i s u"],
-  "tiranese": ["t i r a n e s e", "t i r a n e z e"],
-  "tiranneggiare": ["t i r a nː e dː ʒ a r e"],
-  "tiranneggiato": ["t i r a nː e dː ʒ a t o"],
-  "tiranni": ["t i r a nː i"],
-  "tirannia": ["t i r a nː i a"],
-  "tirannica": ["t i r a nː i k a"],
-  "tirannicamente": ["t i r a nː i k a m e n t e"],
-  "tiranniche": ["t i r a nː i k e"],
-  "tirannici": ["t i r a nː i t ʃ i"],
-  "tirannicidi": ["t i r a nː i t ʃ i d i"],
-  "tirannicidio": ["t i r a nː i t ʃ i d j o"],
-  "tirannico": ["t i r a nː i k o"],
-  "tirannide": ["t i r a nː i d e"],
-  "tirannie": ["t i r a nː i e"],
-  "tiranno": ["t i r a nː o"],
-  "tirannosauri": ["t i r a nː o s a w r i"],
-  "tirannosauridi": ["t i r a nː o s a w r i d i"],
-  "tirannosauro": ["t i r a nː o s a u r o", "t i r a nː o s a w r o"],
-  "tirante": ["t i r a n t e"],
-  "tirapiedi": ["t i r a p j e d i", "t i r a p j ɛ d i"],
-  "tirapugni": ["t i r a p u ɲ ɲ i"],
-  "tirare": ["t i r a r e"],
-  "tirassegno": ["t i r a sː e ɲ ɲ o"],
-  "tirato": ["t i r a t o"],
-  "tiratore": ["t i r a t o r e"],
-  "tiratori": ["t i r a t o r i"],
-  "tiratrice": ["t i r a t r i t ʃ e"],
-  "tiratrici": ["t i r a t r i t ʃ i"],
-  "tiratura": ["t i r a t u r a"],
-  "tirature": ["t i r a t u r e"],
-  "tirchieria": ["t i r k j e r i a"],
-  "tirchio": ["t i r k j o"],
-  "tiretto": ["t i r e tː o"],
-  "tiri": ["t i r i"],
-  "tirinzi": ["t i r i n t s j"],
-  "tirinzia": ["t i r i n t s j a"],
-  "tirinzie": ["t i r i n t s j a"],
-  "tirinzio": ["t i r i n t s j o"],
-  "tirio": ["t i r j o"],
-  "tiristore": ["t i r i s t o r e"],
-  "tiristori": ["t i r i s t o r i"],
-  "tiro": ["t i r o"],
-  "tirocinante": ["t i r o t ʃ i n a n t e"],
-  "tirocinio": ["t i r o t ʃ i n j o"],
-  "tiroide": ["t i r ɔ i d e"],
-  "tiroideo": ["t i r o i d ɛ o", "t i r o j d ɛ o"],
-  "tiroidi": ["t i r ɔ i d i"],
-  "tiroidismo": ["t i r o j d i z m o"],
-  "tirolese": ["t i r o l e s e", "t i r o l e z e"],
-  "tirolo": ["t i r ɔ l o"],
-  "tirosina": ["t i r o z i n a"],
-  "tirreno": ["t i rː ɛ n o"],
-  "tirso": ["t i r s o"],
-  "tisana": ["t i z a n a"],
-  "tisane": ["t i z a n e"],
-  "tisanotteri": ["t i s a n ɔ tː e r i", "t i z a n ɔ tː e r i"],
-  "tisanottero": ["t i s a n ɔ tː e r o"],
-  "tisanuri": ["t i z a n u r i"],
-  "tisanuro": ["t i z a n u r o"],
-  "tisi": ["t i z i"],
-  "tisico": ["t i z i k o"],
-  "titanico": ["t i t a n i k o"],
-  "titanio": ["t i t a n j o"],
-  "titanite": ["t i t a n i t e"],
-  "titano": ["t i t a n o"],
-  "titillare": ["t i t i lː a r e"],
-  "tito": ["t i t o"],
-  "titolare": ["t i t o l a r e"],
-  "titolarità": ["t i t o l a r i t a"],
-  "titoli": ["t i t o l i"],
-  "titolo": ["t i t o l o"],
-  "titonide": ["t i t ɔ n i d e"],
-  "titonidi": ["t i t ɔ n i d i"],
-  "titubante": ["t i t u b a n t e"],
-  "titubanti": ["t i t u b a n t i"],
-  "titubanza": ["t i t u b a n t s a"],
-  "titubare": ["t i t u b a r e"],
-  "titubato": ["t i t u b a t o"],
-  "tivoli": ["t i v o l i"],
-  "tivù": ["t i v u"],
-  "tivvù": ["t i vː u"],
-  "tizi": ["t i tː s i"],
-  "tizianesco": ["t i tː s j a n e s k o"],
-  "tiziano": ["t i tː s j a n o"],
-  "tizio": ["t i tː s j o"],
-  "tizzo": ["t i tː s o"],
-  "tizzone": ["t i tː s o n e"],
-  "toast": ["t ɔ s t"],
-  "tocario": ["t o k a r j o"],
-  "toccabile": ["t o kː a b i l e"],
-  "toccabili": ["t o kː a b i l i"],
-  "toccaferro": ["t o kː a f ɛ rː o"],
-  "toccante": ["t ɔ kː a n t e"],
-  "toccare": ["t o kː a r e", "t ɔ kː a r e"]
+  "termonastia": [
+    "tɛrmonastia"
+  ],
+  "termonastico": [
+    "tɛrmonastiko"
+  ],
+  "termonastie": [
+    "tɛrmonastie"
+  ],
+  "termonucleare": [
+    "termonukleare"
+  ],
+  "termoplasticità": [
+    "termoplastitʃita",
+    "tɛrmoplastitʃita"
+  ],
+  "termopolio": [
+    "termopɔljo"
+  ],
+  "termoregolatore": [
+    "tɛrmoreɡolatore"
+  ],
+  "termoregolazione": [
+    "tɛrmoreɡolatːsjone"
+  ],
+  "termoresistente": [
+    "termorezistɛnte"
+  ],
+  "termoresistenti": [
+    "termorezistɛnti"
+  ],
+  "termoretraibile": [
+    "tɛrmoretraibile"
+  ],
+  "termoretraibili": [
+    "tɛrmoretraibili"
+  ],
+  "termosensibile": [
+    "termosensibile"
+  ],
+  "termosensibili": [
+    "termosensibili"
+  ],
+  "termosfera": [
+    "termosfɛra"
+  ],
+  "termosfere": [
+    "termosfɛre"
+  ],
+  "termostabile": [
+    "termostabile",
+    "tɛrmostabile"
+  ],
+  "termostabili": [
+    "termostabili"
+  ],
+  "termostati": [
+    "termɔstati"
+  ],
+  "termostatico": [
+    "termostatiko"
+  ],
+  "termostato": [
+    "termɔstato"
+  ],
+  "termoterapia": [
+    "tɛrmoterapia"
+  ],
+  "termoventilazione": [
+    "tɛrmoventilatːsjone"
+  ],
+  "terna": [
+    "tɛrna"
+  ],
+  "ternano": [
+    "ternano"
+  ],
+  "ternario": [
+    "ternarjo"
+  ],
+  "terni": [
+    "tɛrni"
+  ],
+  "terno": [
+    "tɛrno"
+  ],
+  "terpandro": [
+    "terpandro"
+  ],
+  "terpene": [
+    "terpɛne"
+  ],
+  "terra": [
+    "tɛrːa"
+  ],
+  "terracotta": [
+    "tɛrːakɔtːa"
+  ],
+  "terracotte": [
+    "tɛrːakɔtːe"
+  ],
+  "terracqueo": [
+    "terːakːweo"
+  ],
+  "terraferma": [
+    "terːaferma"
+  ],
+  "terramara": [
+    "terːamara"
+  ],
+  "terranoce": [
+    "terːanotʃe"
+  ],
+  "terrapiattista": [
+    "terːapjatːista"
+  ],
+  "terrapiattiste": [
+    "terːapjatːiste"
+  ],
+  "terrapiattisti": [
+    "terːapjatːisti"
+  ],
+  "terrapieno": [
+    "terːapjɛno",
+    "tɛrːapjeno",
+    "tɛrːapjɛno"
+  ],
+  "terraqueo": [
+    "terːakweo"
+  ],
+  "terrazza": [
+    "terːatːsa"
+  ],
+  "terrazzani": [
+    "terːatːsani"
+  ],
+  "terrazzano": [
+    "terːatːsano"
+  ],
+  "terrazzare": [
+    "terːatːsare"
+  ],
+  "terrazzi": [
+    "tɛrːatːsi"
+  ],
+  "terrazzo": [
+    "terːatːso",
+    "tɛrːatːsɔ"
+  ],
+  "terrecotte": [
+    "tɛrːekɔtːe"
+  ],
+  "terremotato": [
+    "terːemotato"
+  ],
+  "terremoti": [
+    "tɛrːɛmɔti"
+  ],
+  "terremoto": [
+    "terːemɔto",
+    "tɛrːɛmɔtɔ"
+  ],
+  "terreno": [
+    "terːeno"
+  ],
+  "terreo": [
+    "tɛrːeo"
+  ],
+  "terrestre": [
+    "terːɛstre",
+    "tɛrːɛstre"
+  ],
+  "terrestri": [
+    "tɛrːɛstri"
+  ],
+  "terribile": [
+    "terːibile"
+  ],
+  "terribili": [
+    "terːibili"
+  ],
+  "terribilissima": [
+    "terːibilisːima"
+  ],
+  "terribilissime": [
+    "terːibilisːime"
+  ],
+  "terribilissimi": [
+    "terːibilisːimi"
+  ],
+  "terribilissimo": [
+    "terːibilisːimo"
+  ],
+  "terribilmente": [
+    "terːibilmente"
+  ],
+  "terricci": [
+    "terːitːʃi"
+  ],
+  "terriccio": [
+    "terːitːʃo"
+  ],
+  "terriero": [
+    "terːjɛro"
+  ],
+  "terrificante": [
+    "terːifikante"
+  ],
+  "terrificantemente": [
+    "terːifikantemente"
+  ],
+  "terrificanti": [
+    "terːifikanti"
+  ],
+  "terrificare": [
+    "terːifikare"
+  ],
+  "terrificato": [
+    "terːifikato"
+  ],
+  "territori": [
+    "terːitɔri"
+  ],
+  "territoriale": [
+    "terːitorjale"
+  ],
+  "territoriali": [
+    "terːitorjali"
+  ],
+  "territorio": [
+    "terːitɔrjo"
+  ],
+  "terrona": [
+    "terːonea"
+  ],
+  "terrone": [
+    "terːone"
+  ],
+  "terroni": [
+    "terːoni"
+  ],
+  "terronia": [
+    "terːɔnja"
+  ],
+  "terrore": [
+    "terːore"
+  ],
+  "terrori": [
+    "terːori"
+  ],
+  "terrorismi": [
+    "terːorizmi"
+  ],
+  "terrorismo": [
+    "terːorizmo"
+  ],
+  "terrorista": [
+    "terːorist",
+    "terːorista",
+    "terːoristu"
+  ],
+  "terroriste": [
+    "terːoriste"
+  ],
+  "terroristi": [
+    "terːoristi"
+  ],
+  "terroristico": [
+    "terːoristiko"
+  ],
+  "terrorizzante": [
+    "terːoridːzante"
+  ],
+  "terrorizzanti": [
+    "terːoridːzanti"
+  ],
+  "terrorizzare": [
+    "terːoridːzare"
+  ],
+  "terrorizzata": [
+    "terːoridːzata"
+  ],
+  "terrorizzate": [
+    "terːoridːzate"
+  ],
+  "terrorizzati": [
+    "terːoridːzati"
+  ],
+  "terrorizzato": [
+    "terːoridːzato"
+  ],
+  "terrosa": [
+    "terːosa"
+  ],
+  "terrose": [
+    "terːose"
+  ],
+  "terrosi": [
+    "terːosi"
+  ],
+  "terroso": [
+    "terːoso",
+    "terːozo"
+  ],
+  "tersicoreo": [
+    "tersikorɛo"
+  ],
+  "terso": [
+    "tɛrso"
+  ],
+  "terza": [
+    "tɛrtsa"
+  ],
+  "terzarolare": [
+    "tertsarolare"
+  ],
+  "terze": [
+    "tɛrtse"
+  ],
+  "terzetto": [
+    "tertsetːo"
+  ],
+  "terzi": [
+    "tɛrtsi"
+  ],
+  "terziario": [
+    "tertsjarjo"
+  ],
+  "terzina": [
+    "tertsina"
+  ],
+  "terzino": [
+    "tertsino"
+  ],
+  "terzo": [
+    "tɛrtso",
+    "tɛrtsɔ"
+  ],
+  "terzomondismo": [
+    "tertsomondizmo"
+  ],
+  "terzomondista": [
+    "tertsomondista"
+  ],
+  "terzultimo": [
+    "tertsultimo"
+  ],
+  "tesa": [
+    "tesa",
+    "teza"
+  ],
+  "tesaurizzare": [
+    "tezawridːzare"
+  ],
+  "teschietto": [
+    "teskjetːo"
+  ],
+  "teschio": [
+    "teskjo",
+    "tɛskio",
+    "tɛskjo"
+  ],
+  "teseo": [
+    "tezɛo"
+  ],
+  "tesi": [
+    "tesi",
+    "tezi",
+    "tɛzi"
+  ],
+  "teso": [
+    "teso",
+    "tezo"
+  ],
+  "tesoretto": [
+    "tezoretːo"
+  ],
+  "tesori": [
+    "tezɔri"
+  ],
+  "tesoriere": [
+    "tezorjɛre"
+  ],
+  "tesorino": [
+    "tezorino"
+  ],
+  "tesoro": [
+    "tezɔro"
+  ],
+  "tessalico": [
+    "tesːaliko"
+  ],
+  "tessaliota": [
+    "tesːaljɔta"
+  ],
+  "tessalo": [
+    "tɛsːalo"
+  ],
+  "tessalonica": [
+    "tesːalɔnika"
+  ],
+  "tessalonicese": [
+    "tesːalonitʃese",
+    "tesːalonitʃeze"
+  ],
+  "tessalonicesi": [
+    "tesːalonitʃesi"
+  ],
+  "tessera": [
+    "tɛsːera"
+  ],
+  "tesserandolo": [
+    "tesːerandolo"
+  ],
+  "tesserato": [
+    "tesːerato"
+  ],
+  "tessere": [
+    "tɛsːere"
+  ],
+  "tessile": [
+    "tɛsːile"
+  ],
+  "tessilsacco": [
+    "tesːilsakːo"
+  ],
+  "tessitore": [
+    "tesːitore"
+  ],
+  "tessitori": [
+    "tesːitori"
+  ],
+  "tessitura": [
+    "tesːitura"
+  ],
+  "tessuta": [
+    "tesːuta"
+  ],
+  "tessute": [
+    "tesːute"
+  ],
+  "tessuti": [
+    "tesːuti"
+  ],
+  "tessuto": [
+    "tesːuto"
+  ],
+  "test": [
+    "tɛst"
+  ],
+  "testa": [
+    "tɛsta"
+  ],
+  "testabile": [
+    "testabile"
+  ],
+  "testabili": [
+    "testabili"
+  ],
+  "testacroce": [
+    "tɛstakrotʃe"
+  ],
+  "testamentari": [
+    "testamentari"
+  ],
+  "testamentaria": [
+    "testamentarja"
+  ],
+  "testamentarie": [
+    "testamentarje"
+  ],
+  "testamentario": [
+    "testamentarjo"
+  ],
+  "testamenti": [
+    "testamenti"
+  ],
+  "testamento": [
+    "testamento"
+  ],
+  "testarda": [
+    "testarda"
+  ],
+  "testardaggine": [
+    "testardadːʒine"
+  ],
+  "testardamente": [
+    "testardamente"
+  ],
+  "testarde": [
+    "testarde"
+  ],
+  "testardi": [
+    "testardi"
+  ],
+  "testardo": [
+    "testardo"
+  ],
+  "testata": [
+    "testata"
+  ],
+  "testate": [
+    "testata"
+  ],
+  "testato": [
+    "testato"
+  ],
+  "testatore": [
+    "testatore"
+  ],
+  "testatori": [
+    "testatori"
+  ],
+  "testatrice": [
+    "testatritʃe"
+  ],
+  "testatrici": [
+    "testatritʃi"
+  ],
+  "teste": [
+    "tɛste"
+  ],
+  "testé": [
+    "teste"
+  ],
+  "testeso": [
+    "testezo"
+  ],
+  "testi": [
+    "tɛsti"
+  ],
+  "testicolare": [
+    "testikolare"
+  ],
+  "testicolari": [
+    "testikolari"
+  ],
+  "testicoli": [
+    "testikoli"
+  ],
+  "testicolo": [
+    "testikolo"
+  ],
+  "testiera": [
+    "testjɛra"
+  ],
+  "testificare": [
+    "testifikare"
+  ],
+  "testimone": [
+    "testimɔne"
+  ],
+  "testimoni": [
+    "testimɔni"
+  ],
+  "testimonianza": [
+    "estimonjantsa",
+    "testimonjantsa"
+  ],
+  "testimonianze": [
+    "testimonjantse"
+  ],
+  "testimoniare": [
+    "testimonjare"
+  ],
+  "testimoniato": [
+    "testimonjato"
+  ],
+  "testimonio": [
+    "testimɔnjo"
+  ],
+  "testo": [
+    "tɛsto"
+  ],
+  "testone": [
+    "testone"
+  ],
+  "testoni": [
+    "testoni"
+  ],
+  "testosterone": [
+    "testosterone"
+  ],
+  "testuale": [
+    "testuale"
+  ],
+  "testualmente": [
+    "testualmente"
+  ],
+  "testudinaria": [
+    "testudinarja"
+  ],
+  "testuggine": [
+    "testudːʒine"
+  ],
+  "tet": [
+    "tɛt"
+  ],
+  "tetanico": [
+    "tetaniko"
+  ],
+  "tetano": [
+    "tɛtano"
+  ],
+  "tetico": [
+    "tɛtiko"
+  ],
+  "tetrabromuro": [
+    "tɛtrabromuro"
+  ],
+  "tetraciclica": [
+    "ipertʃiklika"
+  ],
+  "tetracicliche": [
+    "ipertʃiklike"
+  ],
+  "tetraciclici": [
+    "ipertʃiklitʃi"
+  ],
+  "tetraciclico": [
+    "ipertʃikliko"
+  ],
+  "tetracloroetano": [
+    "tetraklɔroetano"
+  ],
+  "tetracloroetilene": [
+    "tetraklɔroetilɛne"
+  ],
+  "tetraclorofenolo": [
+    "tetraklɔrofenɔlo"
+  ],
+  "tetracloruro": [
+    "tetrakloruro"
+  ],
+  "tetracordo": [
+    "tetrakɔrdo"
+  ],
+  "tetraedrico": [
+    "tetraɛdriko"
+  ],
+  "tetraedro": [
+    "tetraɛdro"
+  ],
+  "tetrafase": [
+    "tɛtrafaze"
+  ],
+  "tetraggine": [
+    "tetradːʒine"
+  ],
+  "tetragonale": [
+    "tetraɡonale"
+  ],
+  "tetragono": [
+    "tetraɡono"
+  ],
+  "tetragramma": [
+    "tɛtraɡramːa"
+  ],
+  "tetraidroderivato": [
+    "tetraidroderivato"
+  ],
+  "tetralogia": [
+    "tetralodʒia"
+  ],
+  "tetraonide": [
+    "tetraɔnide"
+  ],
+  "tetraonidi": [
+    "tetraɔnidi"
+  ],
+  "tetraonino": [
+    "tetraonino"
+  ],
+  "tetrapak": [
+    "tetrapak",
+    "tɛtrapak"
+  ],
+  "tetraplegia": [
+    "tetrapledʒia"
+  ],
+  "tetraplegica": [
+    "tetraplɛdʒika"
+  ],
+  "tetraplegiche": [
+    "tetraplɛdʒike"
+  ],
+  "tetraplegici": [
+    "tetraplɛdʒitʃi"
+  ],
+  "tetraplegico": [
+    "tetraplɛdʒiko"
+  ],
+  "tetraplegie": [
+    "tetrapledʒie"
+  ],
+  "tetrapode": [
+    "tetrapode"
+  ],
+  "tetrarca": [
+    "tetrarka"
+  ],
+  "tetrarchia": [
+    "tetrarkia"
+  ],
+  "tetravalente": [
+    "tetravalɛnte"
+  ],
+  "tetro": [
+    "tɛtro"
+  ],
+  "tetta": [
+    "tetːa"
+  ],
+  "tettarella": [
+    "tetːarɛlːa"
+  ],
+  "tette": [
+    "tetːe"
+  ],
+  "tetti": [
+    "tɛtːi"
+  ],
+  "tetto": [
+    "tetːo",
+    "tɛtːɔ"
+  ],
+  "tettoia": [
+    "tetːoja",
+    "tɛtːɔja"
+  ],
+  "tettoie": [
+    "tɛtːɔje"
+  ],
+  "tettola": [
+    "tetːola"
+  ],
+  "tettonicamente": [
+    "tetːonikamente"
+  ],
+  "tettonico": [
+    "tetːɔniko"
+  ],
+  "teutone": [
+    "tɛwtone"
+  ],
+  "teutonico": [
+    "tewtɔniko"
+  ],
+  "tevere": [
+    "tevere"
+  ],
+  "texano": [
+    "teksano"
+  ],
+  "texas": [
+    "tɛksas"
+  ],
+  "texture": [
+    "teksture"
+  ],
+  "texturi": [
+    "teksturi"
+  ],
+  "texturometri": [
+    "teksturometri"
+  ],
+  "texturometro": [
+    "teksturometro"
+  ],
+  "tfr": [
+    "tiɛfːeɛrːe"
+  ],
+  "thailandese": [
+    "tailandɛze",
+    "tajlandese",
+    "tajlandeze"
+  ],
+  "thailandesi": [
+    "tailandɛzi"
+  ],
+  "thailandia": [
+    "tailandja"
+  ],
+  "theta": [
+    "teta"
+  ],
+  "ti": [
+    "ti"
+  ],
+  "tiara": [
+    "tjara"
+  ],
+  "tiare": [
+    "tjare"
+  ],
+  "tiberio": [
+    "tibɛrjo"
+  ],
+  "tibetano": [
+    "tibetano"
+  ],
+  "tibia": [
+    "tibja"
+  ],
+  "tibiale": [
+    "tibjale"
+  ],
+  "tibiali": [
+    "tibjali"
+  ],
+  "tibicine": [
+    "tibitʃine"
+  ],
+  "tibie": [
+    "tibje"
+  ],
+  "tiburio": [
+    "tiburjo"
+  ],
+  "tiburtino": [
+    "tiburtino"
+  ],
+  "ticchettare": [
+    "tikːetːare"
+  ],
+  "ticchettio": [
+    "tikːetːio"
+  ],
+  "ticchio": [
+    "tikːjo"
+  ],
+  "ticinese": [
+    "titʃinese",
+    "titʃineze"
+  ],
+  "ticino": [
+    "titʃino"
+  ],
+  "ticket": [
+    "tiket"
+  ],
+  "ticonico": [
+    "tikɔniko"
+  ],
+  "tiella": [
+    "tjɛlːa"
+  ],
+  "tiepida": [
+    "tjepida"
+  ],
+  "tiepide": [
+    "tjepide"
+  ],
+  "tiepidi": [
+    "tjepidi"
+  ],
+  "tiepido": [
+    "tiɛpido",
+    "tjepido",
+    "tjɛpido"
+  ],
+  "tifare": [
+    "tifare"
+  ],
+  "tiflope": [
+    "tiflope"
+  ],
+  "tifo": [
+    "tifo"
+  ],
+  "tifoideo": [
+    "tifoidɛo"
+  ],
+  "tifone": [
+    "tifone"
+  ],
+  "tifosa": [
+    "tifoza"
+  ],
+  "tifose": [
+    "tifoze"
+  ],
+  "tifosi": [
+    "tifozi"
+  ],
+  "tifoso": [
+    "tifoso",
+    "tifozo"
+  ],
+  "tigli": [
+    "tiʎi"
+  ],
+  "tiglio": [
+    "tiʎo"
+  ],
+  "tigmonastia": [
+    "tiɡmonastia"
+  ],
+  "tigmonastico": [
+    "tiɡmonastiko"
+  ],
+  "tigna": [
+    "tiɲɲa"
+  ],
+  "tigne": [
+    "tiɲɲe"
+  ],
+  "tignola": [
+    "tiɲɲola",
+    "tiɲɲɔla"
+  ],
+  "tignosa": [
+    "tiɲɲoza"
+  ],
+  "tigone": [
+    "tiɡone"
+  ],
+  "tigre": [
+    "tiɡre"
+  ],
+  "tigresco": [
+    "tiɡresko"
+  ],
+  "tigrotto": [
+    "tiɡrɔtːo"
+  ],
+  "tilde": [
+    "tilde"
+  ],
+  "tilt": [
+    "tilt"
+  ],
+  "timballo": [
+    "timbalːo"
+  ],
+  "timbrare": [
+    "timbrare"
+  ],
+  "timbratura": [
+    "timbratura"
+  ],
+  "timbrature": [
+    "timbrature"
+  ],
+  "timbro": [
+    "timbro"
+  ],
+  "timi": [
+    "timi"
+  ],
+  "timico": [
+    "timiko"
+  ],
+  "timida": [
+    "timida"
+  ],
+  "timidamente": [
+    "timidamente"
+  ],
+  "timide": [
+    "timide"
+  ],
+  "timidezza": [
+    "timidetːsa"
+  ],
+  "timidezze": [
+    "timidetːse"
+  ],
+  "timidi": [
+    "timidi"
+  ],
+  "timidità": [
+    "timidita"
+  ],
+  "timido": [
+    "timido"
+  ],
+  "timina": [
+    "timina"
+  ],
+  "timo": [
+    "timo"
+  ],
+  "timocrazia": [
+    "timokratsia"
+  ],
+  "timoma": [
+    "timɔma"
+  ],
+  "timone": [
+    "timone",
+    "timɔne"
+  ],
+  "timoni": [
+    "timɔni"
+  ],
+  "timoniera": [
+    "timonjɛra"
+  ],
+  "timoniere": [
+    "timonjɛre"
+  ],
+  "timonieri": [
+    "timonjɛri"
+  ],
+  "timoniero": [
+    "timonjɛro"
+  ],
+  "timorato": [
+    "timorato"
+  ],
+  "timore": [
+    "timore",
+    "timɔre"
+  ],
+  "timorese": [
+    "timorose"
+  ],
+  "timoresi": [
+    "timorosi"
+  ],
+  "timorosa": [
+    "timorosa",
+    "timoroza"
+  ],
+  "timorose": [
+    "timorose",
+    "timoroze"
+  ],
+  "timorosi": [
+    "timorosi",
+    "timorozi"
+  ],
+  "timoroso": [
+    "timoroso",
+    "timorozo"
+  ],
+  "timoteo": [
+    "timɔteo"
+  ],
+  "timpani": [
+    "timpani"
+  ],
+  "timpanista": [
+    "timpanista"
+  ],
+  "timpaniste": [
+    "timpaniste"
+  ],
+  "timpanisti": [
+    "timpanisti"
+  ],
+  "timpano": [
+    "timpano"
+  ],
+  "timpanoplastica": [
+    "timpanoplastika"
+  ],
+  "timpanoplastiche": [
+    "timpanoplastike"
+  ],
+  "tinamide": [
+    "tinamide"
+  ],
+  "tinamidi": [
+    "tinamidi"
+  ],
+  "tinamiforme": [
+    "tinamiforme"
+  ],
+  "tinamiformi": [
+    "tinamiformi"
+  ],
+  "tinamo": [
+    "tinamo"
+  ],
+  "tinca": [
+    "tinka",
+    "tiɲka"
+  ],
+  "tinche": [
+    "tinke"
+  ],
+  "tineide": [
+    "tinɛjde"
+  ],
+  "tineidi": [
+    "tinɛidi"
+  ],
+  "tinello": [
+    "tinɛlːo"
+  ],
+  "tingere": [
+    "tindʒere",
+    "tiɲdʒere"
+  ],
+  "tinnire": [
+    "tinːire"
+  ],
+  "tino": [
+    "tino"
+  ],
+  "tinornite": [
+    "tinɔrnite"
+  ],
+  "tinozza": [
+    "tinɔtːsa"
+  ],
+  "tinozze": [
+    "tinɔtːse"
+  ],
+  "tinta": [
+    "tinta"
+  ],
+  "tintarella": [
+    "tintarɛlːa"
+  ],
+  "tinteggiato": [
+    "tintedːʒato"
+  ],
+  "tintinnio": [
+    "tintinːio"
+  ],
+  "tinto": [
+    "tinto"
+  ],
+  "tintore": [
+    "tintore"
+  ],
+  "tintoria": [
+    "tintoria"
+  ],
+  "tintura": [
+    "tintura"
+  ],
+  "tinture": [
+    "tinture"
+  ],
+  "tiobacilli": [
+    "tiobatʃilːi"
+  ],
+  "tiobacillo": [
+    "tiobatʃilːo"
+  ],
+  "tiocomposto": [
+    "tiokomposto"
+  ],
+  "tioli": [
+    "tiɔli"
+  ],
+  "tiolo": [
+    "tiɔlo"
+  ],
+  "tiorbista": [
+    "tjorbista"
+  ],
+  "tiorbiste": [
+    "tjorbiste"
+  ],
+  "tiorbisti": [
+    "tjorbisti"
+  ],
+  "tiosolfati": [
+    "tiosolfati"
+  ],
+  "tiosolfato": [
+    "tiosolfato"
+  ],
+  "tiossano": [
+    "tiosːano"
+  ],
+  "tipe": [
+    "tipe"
+  ],
+  "tipica": [
+    "tipika"
+  ],
+  "tipicamente": [
+    "tipikamente"
+  ],
+  "tipiche": [
+    "tipike"
+  ],
+  "tipici": [
+    "tipitʃi"
+  ],
+  "tipico": [
+    "tipiko"
+  ],
+  "tipino": [
+    "tipino"
+  ],
+  "tipizzato": [
+    "tipidːzato"
+  ],
+  "tipizzazione": [
+    "tipidːzatːsjone"
+  ],
+  "tipizzazioni": [
+    "tipidːzatːsjoni"
+  ],
+  "tipo": [
+    "tipo"
+  ],
+  "tipocromia": [
+    "tipokromia"
+  ],
+  "tipocromie": [
+    "tipokromie"
+  ],
+  "tipografi": [
+    "tipɔɡrafi"
+  ],
+  "tipografia": [
+    "tipoɡrafia",
+    "tipɔɡrafja"
+  ],
+  "tipografico": [
+    "tipoɡrafiko"
+  ],
+  "tipografie": [
+    "tipɔɡrafje"
+  ],
+  "tipologia": [
+    "tipolodʒia"
+  ],
+  "tipologica": [
+    "tipolɔdʒika"
+  ],
+  "tipologiche": [
+    "tipolɔdʒike"
+  ],
+  "tipologici": [
+    "tipolɔdʒitʃi"
+  ],
+  "tipologico": [
+    "tipolɔdʒiko"
+  ],
+  "tipoteca": [
+    "tipotɛka"
+  ],
+  "tipoteche": [
+    "tipotɛke"
+  ],
+  "tiragraffi": [
+    "tiraɡrafːi"
+  ],
+  "tiramenti": [
+    "tiramenti"
+  ],
+  "tiramento": [
+    "tiramento"
+  ],
+  "tiramisù": [
+    "tiramisu"
+  ],
+  "tiranese": [
+    "tiranese",
+    "tiraneze"
+  ],
+  "tiranneggiare": [
+    "tiranːedːʒare"
+  ],
+  "tiranneggiato": [
+    "tiranːedːʒato"
+  ],
+  "tiranni": [
+    "tiranːi"
+  ],
+  "tirannia": [
+    "tiranːia"
+  ],
+  "tirannica": [
+    "tiranːika"
+  ],
+  "tirannicamente": [
+    "tiranːikamente"
+  ],
+  "tiranniche": [
+    "tiranːike"
+  ],
+  "tirannici": [
+    "tiranːitʃi"
+  ],
+  "tirannicidi": [
+    "tiranːitʃidi"
+  ],
+  "tirannicidio": [
+    "tiranːitʃidjo"
+  ],
+  "tirannico": [
+    "tiranːiko"
+  ],
+  "tirannide": [
+    "tiranːide"
+  ],
+  "tirannie": [
+    "tiranːie"
+  ],
+  "tiranno": [
+    "tiranːo"
+  ],
+  "tirannosauri": [
+    "tiranːosawri"
+  ],
+  "tirannosauridi": [
+    "tiranːosawridi"
+  ],
+  "tirannosauro": [
+    "tiranːosauro",
+    "tiranːosawro"
+  ],
+  "tirante": [
+    "tirante"
+  ],
+  "tirapiedi": [
+    "tirapjedi",
+    "tirapjɛdi"
+  ],
+  "tirapugni": [
+    "tirapuɲɲi"
+  ],
+  "tirare": [
+    "tirare"
+  ],
+  "tirassegno": [
+    "tirasːeɲɲo"
+  ],
+  "tirato": [
+    "tirato"
+  ],
+  "tiratore": [
+    "tiratore"
+  ],
+  "tiratori": [
+    "tiratori"
+  ],
+  "tiratrice": [
+    "tiratritʃe"
+  ],
+  "tiratrici": [
+    "tiratritʃi"
+  ],
+  "tiratura": [
+    "tiratura"
+  ],
+  "tirature": [
+    "tirature"
+  ],
+  "tirchieria": [
+    "tirkjeria"
+  ],
+  "tirchio": [
+    "tirkjo"
+  ],
+  "tiretto": [
+    "tiretːo"
+  ],
+  "tiri": [
+    "tiri"
+  ],
+  "tirinzi": [
+    "tirintsj"
+  ],
+  "tirinzia": [
+    "tirintsja"
+  ],
+  "tirinzie": [
+    "tirintsja"
+  ],
+  "tirinzio": [
+    "tirintsjo"
+  ],
+  "tirio": [
+    "tirjo"
+  ],
+  "tiristore": [
+    "tiristore"
+  ],
+  "tiristori": [
+    "tiristori"
+  ],
+  "tiro": [
+    "tiro"
+  ],
+  "tirocinante": [
+    "tirotʃinante"
+  ],
+  "tirocinio": [
+    "tirotʃinjo"
+  ],
+  "tiroide": [
+    "tirɔide"
+  ],
+  "tiroideo": [
+    "tiroidɛo",
+    "tirojdɛo"
+  ],
+  "tiroidi": [
+    "tirɔidi"
+  ],
+  "tiroidismo": [
+    "tirojdizmo"
+  ],
+  "tirolese": [
+    "tirolese",
+    "tiroleze"
+  ],
+  "tirolo": [
+    "tirɔlo"
+  ],
+  "tirosina": [
+    "tirozina"
+  ],
+  "tirreno": [
+    "tirːɛno"
+  ],
+  "tirso": [
+    "tirso"
+  ],
+  "tisana": [
+    "tizana"
+  ],
+  "tisane": [
+    "tizane"
+  ],
+  "tisanotteri": [
+    "tisanɔtːeri",
+    "tizanɔtːeri"
+  ],
+  "tisanottero": [
+    "tisanɔtːero"
+  ],
+  "tisanuri": [
+    "tizanuri"
+  ],
+  "tisanuro": [
+    "tizanuro"
+  ],
+  "tisi": [
+    "tizi"
+  ],
+  "tisico": [
+    "tiziko"
+  ],
+  "titanico": [
+    "titaniko"
+  ],
+  "titanio": [
+    "titanjo"
+  ],
+  "titanite": [
+    "titanite"
+  ],
+  "titano": [
+    "titano"
+  ],
+  "titillare": [
+    "titilːare"
+  ],
+  "tito": [
+    "tito"
+  ],
+  "titolare": [
+    "titolare"
+  ],
+  "titolarità": [
+    "titolarita"
+  ],
+  "titoli": [
+    "titoli"
+  ],
+  "titolo": [
+    "titolo"
+  ],
+  "titonide": [
+    "titɔnide"
+  ],
+  "titonidi": [
+    "titɔnidi"
+  ],
+  "titubante": [
+    "titubante"
+  ],
+  "titubanti": [
+    "titubanti"
+  ],
+  "titubanza": [
+    "titubantsa"
+  ],
+  "titubare": [
+    "titubare"
+  ],
+  "titubato": [
+    "titubato"
+  ],
+  "tivoli": [
+    "tivoli"
+  ],
+  "tivù": [
+    "tivu"
+  ],
+  "tivvù": [
+    "tivːu"
+  ],
+  "tizi": [
+    "titːsi"
+  ],
+  "tizianesco": [
+    "titːsjanesko"
+  ],
+  "tiziano": [
+    "titːsjano"
+  ],
+  "tizio": [
+    "titːsjo"
+  ],
+  "tizzo": [
+    "titːso"
+  ],
+  "tizzone": [
+    "titːsone"
+  ],
+  "toast": [
+    "tɔst"
+  ],
+  "tocario": [
+    "tokarjo"
+  ],
+  "toccabile": [
+    "tokːabile"
+  ],
+  "toccabili": [
+    "tokːabili"
+  ],
+  "toccaferro": [
+    "tokːafɛrːo"
+  ],
+  "toccante": [
+    "tɔkːante"
+  ],
+  "toccare": [
+    "tokːare",
+    "tɔkːare"
+  ]
 }

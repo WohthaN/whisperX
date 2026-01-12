@@ -1,502 +1,1525 @@
 {
-  "squisito": ["s k w i z i t o"],
-  "squittio": ["s k w i tː i o"],
-  "squittire": ["s k w i tː i r e"],
-  "sradicabile": ["z r a d i k a b i l e"],
-  "sradicabili": ["z r a d i k a b i l i"],
-  "sradicamento": ["z r a d i k a m e n t o"],
-  "sradicante": ["z r a d i k a n t e"],
-  "sradicare": ["z r a d i k a r e"],
-  "sradicarsi": ["z r a d i k a r s i"],
-  "sradicato": ["z r a d i k a t o"],
-  "sragionare": ["z r a d ʒ o n a r e"],
-  "sregolata": ["z r e ɡ o l a t a"],
-  "sregolatamente": ["z r e ɡ o l a t a m e n t e"],
-  "sregolatezza": ["z r e ɡ o l a t e tː s a"],
-  "sregolato": ["z r e ɡ o l a t o"],
-  "srilankese": ["s i n ɡ a l e z e"],
-  "srilankesi": ["s i n ɡ a l e z i"],
-  "srotolare": ["z r o t o l a r e"],
-  "srotolato": ["z r o t o l a t o"],
-  "sta": ["s t a"],
-  "stabile": ["s t a b i l e"],
-  "stabili": ["s t a b i l i"],
-  "stabilimenti": ["s t a b i l i m e n t i"],
-  "stabilimento": ["s t a b i l i m e n t o"],
-  "stabilire": ["s t a b i l i r e"],
-  "stabilirsi": ["s t a b i l i r s i"],
-  "stabilissimo": ["s t a b i l i sː i m o"],
-  "stabilita": ["s t a b i l i t a"],
-  "stabilità": ["s t a b i l i t a"],
-  "stabilite": ["s t a b i l i t e"],
-  "stabiliti": ["s t a b i l i t i"],
-  "stabilito": ["s t a b i l i t o"],
-  "stabilizzante": ["s t a b i l i dː z a n t e"],
-  "stabilizzanti": ["s t a b i l i dː z a n t i"],
-  "stabilizzare": ["s t a b i l i dː z a r e"],
-  "stabilizzazione": ["s t a b i l i dː z a tː s j o n e"],
-  "stabilizzazioni": ["s t a b i l i dː z a tː s j o n e"],
-  "stabilmente": ["s t a b i l m e n t e"],
-  "stabulario": ["s t a b u l a r j o"],
-  "stacanovismi": ["s t a k a n o v i z m i"],
-  "stacanovismo": ["s t a k a n o v i z m o"],
-  "stacanovista": ["s t a k a n o v i s t a"],
-  "stacanoviste": ["s t a k a n o v i s t e"],
-  "stacanovisti": ["s t a k a n o v i s t i"],
-  "staccabile": ["s t a kː a b i l e"],
-  "staccabili": ["s t a kː a b i l i"],
-  "staccante": ["s t a kː a n t e"],
-  "staccare": ["s t a kː a r e"],
-  "staccato": ["s t a kː a t o"],
-  "stacci": ["s t a tː ʃ i"],
-  "stacciaio": ["s t a tː ʃ a j o"],
-  "staccino": ["s t a tː ʃ i n o"],
-  "staccio": ["s t a tː ʃ o"],
-  "stacciolo": ["s t a tː ʃ ɔ l o"],
-  "staccionata": ["s t a tː ʃ o n a t a"],
-  "stacciuolo": ["s t a tː ʃ w ɔ l o"],
-  "stacco": ["s t a kː o"],
-  "stadera": ["s t a d ɛ r a"],
-  "staderaia": ["s t a d e r a j a"],
-  "staderaio": ["s t a d e r a j o"],
-  "staderante": ["s t a d e r a n t e"],
-  "stadio": ["s t a d j o"],
-  "staff": ["s t a f"],
-  "staffa": ["s t a fː a"],
-  "staffare": ["s t a fː a r e"],
-  "staffetta": ["s t a fː e tː a"],
-  "staffiere": ["s t a fː j ɛ r e"],
-  "stafilococchi": ["s t a f i l o k o kː i"],
-  "stafilococco": ["s t a f i l o k o kː o", "s t a f i l o k ɔ kː o"],
-  "stage": ["s t a ʒ", "s t e j d ʒ"],
-  "stagflazione": ["s t a ɡ f l a tː s j o n e"],
-  "staggire": ["s t a dː ʒ i r e"],
-  "stagionale": ["s t a d ʒ o n a l e"],
-  "stagionalità": ["s t a d ʒ o n a l i t a"],
-  "stagionalmente": ["s t a d ʒ o n a l m e n t e"],
-  "stagionare": ["s t a d ʒ o n a r e"],
-  "stagionato": ["s t a d ʒ o n a t o"],
-  "stagionatura": ["s t a d ʒ o n a t u r a"],
-  "stagione": ["s t a d ʒ o n e", "s t a d ʒ ɔ n e"],
-  "stagioni": ["s t a d ʒ ɔ n i"],
-  "stagirita": ["s t a d ʒ i r i t a"],
-  "stagirite": ["s t a d ʒ i r i t e"],
-  "stagiriti": ["s t a d ʒ i r i t i"],
-  "stagista": ["s t a d ʒ i s t a"],
-  "stagna": ["s t a ɲ ɲ a"],
-  "stagnante": ["s t a ɲ ɲ a n t e"],
-  "stagnanti": ["s t a ɲ ɲ a n t i"],
-  "stagnare": ["s t a ɲ ɲ a r e"],
-  "stagnazione": ["s t a ɲ ɲ a tː s j o n e"],
-  "stagni": ["s t a ɲ ɲ i"],
-  "stagno": ["s t a ɲ ɲ o", "s t a ɲ ɔ"],
-  "stai": ["s t a i"],
-  "staio": ["s t a j o"],
-  "staioro": ["s t a j ɔ r o"],
-  "stalagmite": ["s t a l a ɡ m i t e"],
-  "stalattite": ["s t a l a tː i t e"],
-  "stalattiti": ["s t a l a tː i t i"],
-  "staliniano": ["s t a l i n j a n o"],
-  "stalinismo": ["s t a l i n i z m o"],
-  "stalinista": ["s t a l i n i s t a"],
-  "staliniste": ["s t a l i n i s t e"],
-  "stalinisti": ["s t a l i n i s t i"],
-  "stalla": ["s t a lː a"],
-  "stallatico": ["s t a lː a t i k o"],
-  "stallazzo": ["s t a lː a tː s o"],
-  "stalliere": ["s t a lː j ɛ r e"],
-  "stallo": ["s t a lː o"],
-  "stallone": ["s t a lː o n e"],
-  "stalloni": ["s t a lː o n i"],
-  "stamane": ["s t a m a n e"],
-  "stamani": ["s t a m a n i"],
-  "stamattina": ["s t a m a tː i n a"],
-  "stambecchi": ["s t a m b e kː o"],
-  "stambecco": ["s t a m b e kː o"],
-  "stamberga": ["s t a m b ɛ r ɡ a"],
-  "stame": ["s t a m e"],
-  "stamina": ["s t a m i n a"],
-  "staminale": ["s t a m i n a l e"],
-  "staminali": ["s t a m i n a l i"],
-  "stampa": ["s t a m p a"],
-  "stampabile": ["s t a m p a b i l e"],
-  "stampabili": ["s t a m p a b i l i"],
-  "stampabilità": ["s t a m p a b i l i t a"],
-  "stampaggi": ["s t a m p a dː ʒ i"],
-  "stampaggio": ["s t a m p a dː ʒ o"],
-  "stampante": ["s t a m p a n t e"],
-  "stampanti": ["s t a m p a n t i"],
-  "stampare": ["s t a m p a r e"],
-  "stamparsi": ["s t a m p a r s i"],
-  "stampata": ["s t a m p a t a"],
-  "stampate": ["s t a m p a t e"],
-  "stampati": ["s t a m p a t i"],
-  "stampato": ["s t a m p a t o"],
-  "stampatore": ["s t a m p a t o r e"],
-  "stampe": ["s t a m p e"],
-  "stampella": ["s t a m p ɛ lː a"],
-  "stampi": ["s t a m p i"],
-  "stampiglia": ["s t a m p i ʎ a"],
-  "stampigliare": ["s t a m p i ʎ a r e"],
-  "stampini": ["s t a m p i n i"],
-  "stampino": ["s t a m p i n o"],
-  "stampo": ["s t a m p o"],
-  "stanare": ["s t a n a r e"],
-  "stanca": ["s t a n k a", "s t a ɲ k a"],
-  "stancabile": ["s t a n k a b i l e"],
-  "stancabili": ["s t a n k a b i l i"],
-  "stancabue": ["s t a n k a b u e"],
-  "stancamente": ["s t a n k a m e n t e"],
-  "stancante": ["s t a n k a n t e"],
-  "stancare": ["s t a n k a r e"],
-  "stancarsi": ["s t a n k a r s i"],
-  "stanche": ["s t a ɲ k e"],
-  "stanchezza": ["s t a ɲ k e tː s a"],
-  "stanchezze": ["s t a ɲ k e tː s e"],
-  "stanchi": ["s t a ɲ k i"],
-  "stanchissima": ["s t a ɲ k i sː i m a"],
-  "stanchissime": ["s t a ɲ k i sː i m e"],
-  "stanchissimi": ["s t a ɲ k i sː i m i"],
-  "stanchissimo": ["s t a ɲ k i sː i m o"],
-  "stanco": ["s t a n k o", "s t a ɲ k o"],
-  "stand": ["s t ɛ n d"],
-  "standard": ["s t a n d a r d"],
-  "standardizzabile": ["s t a n d a r d i dː z a b i l e"],
-  "standardizzabili": ["s t a n d a r d i dː z a b i l i"],
-  "standardizzato": ["s t a n d a r d i dː z a t o"],
-  "stando": ["s t a n d o"],
-  "stangata": ["s t a n ɡ a t a"],
-  "stanghetta": ["s t a n ɡ e tː a"],
-  "stangona": ["s t a n ɡ o n a"],
-  "stangone": ["s t a n ɡ o n e"],
-  "stannifero": ["s t a nː i f e r o"],
-  "stanno": ["s t a nː o"],
-  "stante": ["s t a n t e"],
-  "stanti": ["s t a n t i"],
-  "stantuffo": ["s t a n t u fː o"],
-  "stanza": ["s t a n t s a", "s t a nː t s a"],
-  "stanze": ["s t a n t s e"],
-  "stanzetta": ["s t a n t s e tː a"],
-  "stanziale": ["s t a n t s j a l e"],
-  "stanziali": ["s t a n t s j a l i"],
-  "stanziare": ["s t a n t s j a r e"],
-  "stanziarsi": ["s t a n t s j a r s i"],
-  "stanzina": ["s t a n t s i n a"],
-  "stanzino": ["s t a n t s i n o"],
-  "stapedio": ["s t a p ɛ d j o"],
-  "stappabile": ["s t a pː a b i l e"],
-  "stappabili": ["s t a pː a b i l i"],
-  "stappante": ["s t a pː a n t e"],
-  "stappare": ["s t a pː a r e"],
-  "stappato": ["s t a pː a t o"],
-  "stappatura": ["s t a pː a t u r a"],
-  "stappature": ["s t a pː a t u r e"],
-  "stapula": ["s t a p u l a"],
-  "star": ["s t a r"],
-  "starà": ["s t a r a"],
-  "starai": ["s t a r a i"],
-  "staranno": ["s t a r a nː o"],
-  "stare": ["s t a r e"],
-  "starebbe": ["s t a r e bː e"],
-  "starebbero": ["s t a r e bː e r o"],
-  "starei": ["s t a r e i"],
-  "staremmo": ["s t a r e mː o"],
-  "staremo": ["s t a r e m o"],
-  "stareste": ["s t a r e s t e"],
-  "staresti": ["s t a r e s t i"],
-  "starete": ["s t a r e t e"],
-  "starlet": ["s t a r l e t"],
-  "starna": ["s t a r n a"],
-  "starnazzare": ["s t a r n a tː s a r e"],
-  "starnotto": ["s t a r n ɔ tː o"],
-  "starnutare": ["s t a r n u t a r e"],
-  "starnutatori": ["s t a r n u t a t ɔ r j"],
-  "starnutatoria": ["s t a r n u t a t ɔ r j a"],
-  "starnutatorie": ["s t a r n u t a t ɔ r j e"],
-  "starnutatorio": ["s t a r n u t a t ɔ r j o"],
-  "starnuti": ["s t a r n u t i"],
-  "starnutire": ["s t a r n u t i r e"],
-  "starnutito": ["s t a r n u t i t o"],
-  "starnuto": ["s t a r n u t o"],
-  "starò": ["s t a r o"],
-  "starter": ["s t a r t e r"],
-  "stase": ["s t a s e"],
-  "stasera": ["s t a s e r a", "s t a z e r a"],
-  "stasi": ["s t a z i"],
-  "stasimo": ["s t a z i m o"],
-  "stasse": ["s t a sː e"],
-  "stassera": ["s t a s e r a"],
-  "stata": ["s t a t a"],
-  "statale": ["s t a t a l e"],
-  "statali": ["s t a t a l i"],
-  "statalismo": ["s t a t a l i z m o"],
-  "statalista": ["s t a t a l i s t a"],
-  "stataliste": ["s t a t a l i s t e"],
-  "statalisti": ["s t a t a l i s t i"],
-  "statalizzante": ["s t a t a l i dː z a n t e"],
-  "statalizzare": ["s t a t a l i dː z a r e"],
-  "statalizzato": ["s t a t a l i dː z a t o"],
-  "statalizzazione": ["s t a t a l i dː z a t s j o n e"],
-  "statalizzazioni": ["s t a t a l i dː z a t s j o n e"],
-  "statcoulomb": ["s t a t k u l o m b", "s t a t k u l ɔ m b"],
-  "state": ["s t a t e"],
-  "staterello": ["s t a t e r ɛ lː o"],
-  "stati": ["s t a t i"],
-  "statica": ["s t a t i k a"],
-  "staticamente": ["s t a t i k a m e n t e"],
-  "statiche": ["s t a t i k e"],
-  "statici": ["s t a t i t ʃ i"],
-  "statico": ["s t a t i k o"],
-  "statista": ["s t a t i s t a"],
-  "statiste": ["s t a t i s t e"],
-  "statisti": ["s t a t i s t i"],
-  "statistica": ["s t a t i s t i k a"],
-  "statistico": ["s t a t i s t i k o"],
-  "statmografia": ["s t a t m o ɡ r a f i a"],
-  "stato": ["s t a t o"],
-  "statolder": ["s t a t ɔ l d e r"],
-  "statore": ["s t a t o r e"],
-  "statoreattore": ["s t a t o r e a tː o r e"],
-  "statoreattori": ["s t a t o r e a tː o r i"],
-  "statori": ["s t a t o r i"],
-  "statua": ["s t a t w a"],
-  "statuario": ["s t a t u a r j o"],
-  "statue": ["s t a t w e"],
-  "statuetta": ["s t a t u e tː a"],
-  "statuire": ["s t a t u i r e"],
-  "statuito": ["s t a t u i t o"],
-  "statunitense": ["s t a t u n i t ɛ n s e"],
-  "statura": ["s t a t u r a"],
-  "status": ["s t a t u s"],
-  "stauropegio": ["s t a w r o p ɛ d ʒ o"],
-  "stauroteca": ["s t a u r o t ɛ k a"],
-  "stauroteche": ["s t a u r o t ɛ k e"],
-  "stava": ["s t a v a"],
-  "stavamo": ["s t a v a m o"],
-  "stavano": ["s t a v a n o"],
-  "stavate": ["s t a v a t e"],
-  "stavi": ["s t a v i"],
-  "stavo": ["s t a v o"],
-  "stavolta": ["s t a v ɔ l t a"],
-  "stazio": ["s t a tː s j o"],
-  "staziografo": ["s t a tː s j ɔ ɡ r a f o"],
-  "stazionale": ["s t a t s j o n a l e"],
-  "stazionali": ["s t a t s j o n a l i"],
-  "stazionamento": ["s t a tː s j o n a m e n t o"],
-  "stazionante": ["s t a t s j o n a n t e"],
-  "stazionare": ["s t a t s j o n a r e", "s t a tː s j o n a r e"],
-  "stazionato": ["s t a t s j o n a t o", "s t a tː s j o n a t o"],
-  "stazioncina": ["s t a tː s j o n t ʃ i n a"],
-  "stazione": ["s t a t s j o n e", "s t a tː s j o n e"],
-  "stazioni": ["s t a t s j o n i"],
-  "stazza": ["s t a tː s a"],
-  "stazze": ["s t a tː s e"],
-  "stazzo": ["s t a tː s o", "s t a z z o"],
-  "stazzone": ["s t a tː s o n e"],
-  "stearati": ["s t e a r a t i"],
-  "stearato": ["s t e a r a t o"],
-  "steatite": ["s t e a t i t e"],
-  "steatornite": ["s t e a t ɔ r n i t e"],
-  "steatorniti": ["s t e a t ɔ r n i t e"],
-  "steatornitide": ["s t e a t o r n i t i d e"],
-  "steatornitidi": ["s t e a t o r n i t i d i"],
-  "steatosi": ["s t e a t ɔ z i"],
-  "steca": ["s t ɛ k a"],
-  "stecca": ["s t e kː a"],
-  "steccato": ["s t e kː a t o"],
-  "stecchino": ["s t e kː i n o"],
-  "stecchito": ["s t e kː i t o"],
-  "stecco": ["s t e kː o"],
-  "stecconata": ["s t e kː o n a t a"],
-  "steche": ["s t ɛ k e"],
-  "stechiometria": ["s t e k j o m e t r i a"],
-  "stechiometrico": ["s t e k j o m ɛ t r i k o"],
-  "stefano": ["s t e f a n o"],
-  "steganopodi": ["s t e ɡ a n ɔ p o d i"],
-  "stele": ["s t ɛ l e"],
-  "stella": ["s t e lː a", "s t ɛ lː a"],
-  "stellare": ["s t e lː a r e"],
-  "stellari": ["s t e lː a r e"],
-  "stellarsi": ["s t e lː a r s i"],
-  "stellata": ["s t e lː a t a"],
-  "stellate": ["s t e lː a t e"],
-  "stellati": ["s t e lː a t i"],
-  "stellato": ["s t e lː a t o"],
-  "stelle": ["s t e lː e", "s t ɛ lː e"],
-  "stellina": ["s t e lː i n a"],
-  "stelo": ["s t ɛ l o"],
-  "stemma": ["s t ɛ mː a"],
-  "stemmi": ["s t ɛ mː i"],
-  "stemmo": ["s t e mː o"],
-  "stemperato": ["s t e m p e r a t o"],
-  "stendardi": ["s t ɛ n d a r d i"],
-  "stendardo": ["s t e n d a r d o", "s t ɛ n d a r d o"],
-  "stendere": ["s t ɛ n d e r e"],
-  "stenodattilografia": ["s t e n o d a tː i l o ɡ r a f i a", "s t ɛ n o d a tː i l o ɡ r a f i a"],
-  "stenodattilografo": ["s t e n o d a tː i l ɔ ɡ r a f o"],
-  "stenoeca": ["s t e n o ɛ k a"],
-  "stenoeche": ["s t e n o ɛ k e"],
-  "stenoeci": ["s t e n o ɛ t ʃ i"],
-  "stenoeco": ["s t e n o ɛ k o"],
-  "stenografa": ["s t e n ɔ ɡ r a f a"],
-  "stenografare": ["s t e n o ɡ r a f a r e"],
-  "stenografata": ["s t e n o ɡ r a f a t a"],
-  "stenografate": ["s t e n o ɡ r a f a t e"],
-  "stenografati": ["s t e n o ɡ r a f a t i"],
-  "stenografato": ["s t e n o ɡ r a f a t o"],
-  "stenografe": ["s t e n ɔ ɡ r a f e"],
-  "stenografi": ["s t e n ɔ ɡ r a f i"],
-  "stenografia": ["s t e n o ɡ r a f i a"],
-  "stenografica": ["s t e n o ɡ r a f i k a"],
-  "stenografiche": ["s t e n o ɡ r a f i k e"],
-  "stenografici": ["s t e n o ɡ r a f i t ʃ i"],
-  "stenografico": ["s t e n o ɡ r a f i k o"],
-  "stenografie": ["s t e n o ɡ r a f i e"],
-  "stenografo": ["s t e n ɔ ɡ r a f o"],
-  "stenoscopia": ["s t e n o s k o p i a"],
-  "stenoscritto": ["s t e n o s k r i tː o"],
-  "stenosi": ["s t e n ɔ z i", "s t ɛ n o z i"],
-  "stenotipia": ["s t e n o t i p i a"],
-  "stenotipie": ["s t e n o t i p i e"],
-  "stenotipista": ["s t e n o t i p i s t a"],
-  "stenotipiste": ["s t e n o t i p i s t e"],
-  "stenotipisti": ["s t e n o t i p i s t i"],
-  "stentare": ["s t e n t a r e"],
-  "stentatamente": ["s t e n t a t a m e n t e"],
-  "stentatezza": ["s t e n t a t e tː s a"],
-  "stentatezze": ["s t e n t a t e tː s e"],
-  "stentato": ["s t e n t a t o"],
-  "stenterello": ["s t e n t e r ɛ lː o"],
-  "stento": ["s t ɛ n t o"],
-  "steppa": ["s t e pː a"],
-  "steppicursore": ["s t e pː i k u r s o r e"],
-  "steppificazione": ["s t e pː i f i k a tː s j o n e"],
-  "steradiante": ["s t e r a d j a n t e"],
-  "sterangolo": ["s t e r a n ɡ o l o"],
-  "sterco": ["s t e r k o", "s t ɛ r k o"],
-  "stercobilina": ["s t e r k o b i l i n a"],
-  "stercoraride": ["s t e r k o r a r i d e"],
-  "stercoraridi": ["s t e r k o r a r i d i"],
-  "stercorario": ["s t e r k o r a r j o"],
-  "stereo": ["s t ɛ r e o"],
-  "stereochimico": ["s t e r e o k i m i k o"],
-  "stereociglio": ["s t e r e o t ʃ i ʎ o"],
-  "stereocinesi": ["s t e r e o t ʃ i n ɛ z i"],
-  "stereocromia": ["s t ɛ r e o k r o m i a"],
-  "stereocromie": ["s t ɛ r e o k r o m i e"],
-  "stereofonia": ["s t e r e o f o n i a"],
-  "stereofonico": ["s t e r e o f ɔ n i k o"],
-  "stereometria": ["s t e r e o m e t r i a"],
-  "stereometrico": ["s t e r e o m e t r i a"],
-  "stereopsia": ["s t e r e o p s i a"],
-  "stereoscopi": ["s t e r e o s k ɔ p i"],
-  "stereoscopia": ["s t e r e o s k o p i a"],
-  "stereoscopica": ["s t e r e o s k ɔ p i k a"],
-  "stereoscopiche": ["s t e r e o s k ɔ p i k e"],
-  "stereoscopici": ["s t e r e o s k ɔ p i t ʃ i"],
-  "stereoscopico": ["s t e r e o s k ɔ p i k o"],
-  "stereoscopio": ["s t e r e o s k ɔ p j o"],
-  "stereotipi": ["s t e r e ɔ t i p i"],
-  "stereotipo": ["s t e r e ɔ t i p o"],
-  "sterica": ["s t ɛ r i k a"],
-  "steriche": ["s t ɛ r i k e"],
-  "sterici": ["s t ɛ r i t ʃ i"],
-  "sterico": ["s t ɛ r i k o"],
-  "sterile": ["s t ɛ r i l e"],
-  "sterilità": ["s t e r i l i t a"],
-  "sterilizzabile": ["s t e r i l i dː z a b i l e"],
-  "sterilizzabili": ["s t e r i l i dː z a b i l i"],
-  "sterilizzare": ["s t e r i l i dː z a r e"],
-  "sterilizzato": ["s t e r i l i dː z a t o"],
-  "sterilizzazione": ["s t e r i l i dː z a t s j o n e"],
-  "sterilmente": ["s t e r i l m e n t e"],
-  "sterlina": ["s t e r l i n a"],
-  "sterminare": ["s t e r m i n a r e"],
-  "sterminatamente": ["s t e r m i n a t a m e n t e"],
-  "sterminatezza": ["s t e r m i n a t e tː s a"],
-  "sterminato": ["s t e r m i n a t o"],
-  "sterminatore": ["s t e r m i n a t o r e"],
-  "stermini": ["s t e r m i n i"],
-  "sterminio": ["s t e r m i n j o"],
-  "sterna": ["s t ɛ r n a"],
-  "sternbergia": ["s t e n b ɛ r d ʒ a", "s t e r n b ɛ r d ʒ a"],
-  "sternide": ["s t ɛ r n i d e"],
-  "sternidi": ["s t ɛ r n i d i"],
-  "sterno": ["s t ɛ r n o"],
-  "sternocleidomastoideo": ["s t e r n o k l e i d o m a s t o i d ɛ o"],
-  "sternorinchi": ["s t e r n o r i n k i"],
-  "sternutire": ["s t e r n u t i r e"],
-  "sternuto": ["s t e r n u t o"],
-  "steroideo": ["s t e r o j d ɛ o"],
-  "sterolo": ["s t e r ɔ l o"],
-  "sterpa": ["s t ɛ r p a"],
-  "sterpazzola": ["s t e r p a tː s o l a", "s t e r p a tː s ɔ l a"],
-  "sterpe": ["s t ɛ r p e"],
-  "sterpo": ["s t ɛ r p o"],
-  "sterrato": ["s t e rː a t o"],
-  "sterro": ["s t ɛ rː o"],
-  "sterzo": ["s t ɛ r t s o"],
-  "steso": ["s t e s o"],
-  "stessa": ["s t e sː a"],
-  "stesse": ["s t e sː e"],
-  "stessero": ["s t e sː e r o"],
-  "stessi": ["s t e sː i"],
-  "stessimo": ["s t e sː i m o"],
-  "stesso": ["s t e sː o", "s t ɛ sː o"],
-  "steste": ["s t e s t e"],
-  "stesti": ["s t e s t i"],
-  "stesura": ["s t e s u r a", "s t e z u r a"],
-  "stetoscopi": ["s t e t o s k ɔ p i"],
-  "stetoscopia": ["s t e t o s k ɔ p j a"],
-  "stetoscopica": ["s t e t o s k ɔ p i k a"],
-  "stetoscopiche": ["s t e t o s k ɔ p i k e"],
-  "stetoscopici": ["s t e t o s k ɔ p i t ʃ i"],
-  "stetoscopico": ["s t e t o s k ɔ p i k o"],
-  "stetoscopie": ["s t e t o s k ɔ p j e"],
-  "stetoscopio": ["s t e t o s k ɔ p j o"],
-  "stette": ["s t e tː e"],
-  "stettero": ["s t e tː e r o"],
-  "stetti": ["s t e tː i"],
-  "stettino": ["s t e tː i n o"],
-  "stevia": ["s t ɛ v j a"],
-  "steward": ["s t j u a r d"],
-  "stia": ["s t i a"],
-  "stiaccino": ["s t j a tː ʃ i n o"],
-  "stiamo": ["s t j a m o"],
-  "stiano": ["s t j a n o"],
-  "stiate": ["s t j a t e"],
-  "stiavo": ["s t j a v o"],
-  "stibina": ["s t i b i n a"],
-  "stibio": ["s t i b j o"],
-  "stibonio": ["s t i b ɔ n j o"],
-  "stichico": ["s t i k i k o"],
-  "stico": ["s t i k o"],
-  "stigio": ["s t i d ʒ o"],
-  "stiglio": ["s t i ʎ o"],
-  "stigma": ["s t i ɡ m a"],
-  "stigmate": ["s t i ɡ m a t e"],
-  "stigmatizzabile": ["s t i ɡ m a t i dː z a b i l e"],
-  "stigmatizzabili": ["s t i ɡ m a t i dː z a b i l i"],
-  "stigmatizzante": ["s t i ɡ m a t i dː z a n t e"],
-  "stigmatizzanti": ["s t i ɡ m a t i dː z a n t i"],
-  "stigmatizzare": ["s t i ɡ m a t i dː z a r e"],
-  "stigmatizzata": ["s t i ɡ m a t i dː z a t a"],
-  "stigmatizzate": ["s t i ɡ m a t i dː z a t e"],
-  "stigmatizzati": ["s t i ɡ m a t i dː z a t i"],
-  "stigmatizzato": ["s t i ɡ m a t i dː z a t o"],
-  "stigmatizzazione": ["s t i ɡ m a t i dː z a t s j o n e"],
-  "stigmatizzazioni": ["s t i ɡ m a t i dː z a t s j o n i"],
-  "stilare": ["s t i l a r e"],
-  "stile": ["s t i l e"],
-  "stileliberista": ["s t i l e l i b e r i s t a"],
-  "stileliberiste": ["s t i l e l i b e r i s t e"],
-  "stileliberisti": ["s t i l e l i b e r i s t i"],
-  "stilema": ["s t i l ɛ m a"],
-  "stilemi": ["s t i l ɛ m i"],
-  "stiletti": ["s t i l e tː i"],
-  "stiletto": ["s t i l e tː o"],
-  "stili": ["s t i l i"],
-  "stilista": ["s t i l i s t a"],
-  "stiliste": ["s t i l i s t e"],
-  "stilisti": ["s t i l i s t i"]
+  "squisito": [
+    "skwizito"
+  ],
+  "squittio": [
+    "skwitːio"
+  ],
+  "squittire": [
+    "skwitːire"
+  ],
+  "sradicabile": [
+    "zradikabile"
+  ],
+  "sradicabili": [
+    "zradikabili"
+  ],
+  "sradicamento": [
+    "zradikamento"
+  ],
+  "sradicante": [
+    "zradikante"
+  ],
+  "sradicare": [
+    "zradikare"
+  ],
+  "sradicarsi": [
+    "zradikarsi"
+  ],
+  "sradicato": [
+    "zradikato"
+  ],
+  "sragionare": [
+    "zradʒonare"
+  ],
+  "sregolata": [
+    "zreɡolata"
+  ],
+  "sregolatamente": [
+    "zreɡolatamente"
+  ],
+  "sregolatezza": [
+    "zreɡolatetːsa"
+  ],
+  "sregolato": [
+    "zreɡolato"
+  ],
+  "srilankese": [
+    "sinɡaleze"
+  ],
+  "srilankesi": [
+    "sinɡalezi"
+  ],
+  "srotolare": [
+    "zrotolare"
+  ],
+  "srotolato": [
+    "zrotolato"
+  ],
+  "sta": [
+    "sta"
+  ],
+  "stabile": [
+    "stabile"
+  ],
+  "stabili": [
+    "stabili"
+  ],
+  "stabilimenti": [
+    "stabilimenti"
+  ],
+  "stabilimento": [
+    "stabilimento"
+  ],
+  "stabilire": [
+    "stabilire"
+  ],
+  "stabilirsi": [
+    "stabilirsi"
+  ],
+  "stabilissimo": [
+    "stabilisːimo"
+  ],
+  "stabilita": [
+    "stabilita"
+  ],
+  "stabilità": [
+    "stabilita"
+  ],
+  "stabilite": [
+    "stabilite"
+  ],
+  "stabiliti": [
+    "stabiliti"
+  ],
+  "stabilito": [
+    "stabilito"
+  ],
+  "stabilizzante": [
+    "stabilidːzante"
+  ],
+  "stabilizzanti": [
+    "stabilidːzanti"
+  ],
+  "stabilizzare": [
+    "stabilidːzare"
+  ],
+  "stabilizzazione": [
+    "stabilidːzatːsjone"
+  ],
+  "stabilizzazioni": [
+    "stabilidːzatːsjone"
+  ],
+  "stabilmente": [
+    "stabilmente"
+  ],
+  "stabulario": [
+    "stabularjo"
+  ],
+  "stacanovismi": [
+    "stakanovizmi"
+  ],
+  "stacanovismo": [
+    "stakanovizmo"
+  ],
+  "stacanovista": [
+    "stakanovista"
+  ],
+  "stacanoviste": [
+    "stakanoviste"
+  ],
+  "stacanovisti": [
+    "stakanovisti"
+  ],
+  "staccabile": [
+    "stakːabile"
+  ],
+  "staccabili": [
+    "stakːabili"
+  ],
+  "staccante": [
+    "stakːante"
+  ],
+  "staccare": [
+    "stakːare"
+  ],
+  "staccato": [
+    "stakːato"
+  ],
+  "stacci": [
+    "statːʃi"
+  ],
+  "stacciaio": [
+    "statːʃajo"
+  ],
+  "staccino": [
+    "statːʃino"
+  ],
+  "staccio": [
+    "statːʃo"
+  ],
+  "stacciolo": [
+    "statːʃɔlo"
+  ],
+  "staccionata": [
+    "statːʃonata"
+  ],
+  "stacciuolo": [
+    "statːʃwɔlo"
+  ],
+  "stacco": [
+    "stakːo"
+  ],
+  "stadera": [
+    "stadɛra"
+  ],
+  "staderaia": [
+    "staderaja"
+  ],
+  "staderaio": [
+    "staderajo"
+  ],
+  "staderante": [
+    "staderante"
+  ],
+  "stadio": [
+    "stadjo"
+  ],
+  "staff": [
+    "staf"
+  ],
+  "staffa": [
+    "stafːa"
+  ],
+  "staffare": [
+    "stafːare"
+  ],
+  "staffetta": [
+    "stafːetːa"
+  ],
+  "staffiere": [
+    "stafːjɛre"
+  ],
+  "stafilococchi": [
+    "stafilokokːi"
+  ],
+  "stafilococco": [
+    "stafilokokːo",
+    "stafilokɔkːo"
+  ],
+  "stage": [
+    "staʒ",
+    "stejdʒ"
+  ],
+  "stagflazione": [
+    "staɡflatːsjone"
+  ],
+  "staggire": [
+    "stadːʒire"
+  ],
+  "stagionale": [
+    "stadʒonale"
+  ],
+  "stagionalità": [
+    "stadʒonalita"
+  ],
+  "stagionalmente": [
+    "stadʒonalmente"
+  ],
+  "stagionare": [
+    "stadʒonare"
+  ],
+  "stagionato": [
+    "stadʒonato"
+  ],
+  "stagionatura": [
+    "stadʒonatura"
+  ],
+  "stagione": [
+    "stadʒone",
+    "stadʒɔne"
+  ],
+  "stagioni": [
+    "stadʒɔni"
+  ],
+  "stagirita": [
+    "stadʒirita"
+  ],
+  "stagirite": [
+    "stadʒirite"
+  ],
+  "stagiriti": [
+    "stadʒiriti"
+  ],
+  "stagista": [
+    "stadʒista"
+  ],
+  "stagna": [
+    "staɲɲa"
+  ],
+  "stagnante": [
+    "staɲɲante"
+  ],
+  "stagnanti": [
+    "staɲɲanti"
+  ],
+  "stagnare": [
+    "staɲɲare"
+  ],
+  "stagnazione": [
+    "staɲɲatːsjone"
+  ],
+  "stagni": [
+    "staɲɲi"
+  ],
+  "stagno": [
+    "staɲɲo",
+    "staɲɔ"
+  ],
+  "stai": [
+    "stai"
+  ],
+  "staio": [
+    "stajo"
+  ],
+  "staioro": [
+    "stajɔro"
+  ],
+  "stalagmite": [
+    "stalaɡmite"
+  ],
+  "stalattite": [
+    "stalatːite"
+  ],
+  "stalattiti": [
+    "stalatːiti"
+  ],
+  "staliniano": [
+    "stalinjano"
+  ],
+  "stalinismo": [
+    "stalinizmo"
+  ],
+  "stalinista": [
+    "stalinista"
+  ],
+  "staliniste": [
+    "staliniste"
+  ],
+  "stalinisti": [
+    "stalinisti"
+  ],
+  "stalla": [
+    "stalːa"
+  ],
+  "stallatico": [
+    "stalːatiko"
+  ],
+  "stallazzo": [
+    "stalːatːso"
+  ],
+  "stalliere": [
+    "stalːjɛre"
+  ],
+  "stallo": [
+    "stalːo"
+  ],
+  "stallone": [
+    "stalːone"
+  ],
+  "stalloni": [
+    "stalːoni"
+  ],
+  "stamane": [
+    "stamane"
+  ],
+  "stamani": [
+    "stamani"
+  ],
+  "stamattina": [
+    "stamatːina"
+  ],
+  "stambecchi": [
+    "stambekːo"
+  ],
+  "stambecco": [
+    "stambekːo"
+  ],
+  "stamberga": [
+    "stambɛrɡa"
+  ],
+  "stame": [
+    "stame"
+  ],
+  "stamina": [
+    "stamina"
+  ],
+  "staminale": [
+    "staminale"
+  ],
+  "staminali": [
+    "staminali"
+  ],
+  "stampa": [
+    "stampa"
+  ],
+  "stampabile": [
+    "stampabile"
+  ],
+  "stampabili": [
+    "stampabili"
+  ],
+  "stampabilità": [
+    "stampabilita"
+  ],
+  "stampaggi": [
+    "stampadːʒi"
+  ],
+  "stampaggio": [
+    "stampadːʒo"
+  ],
+  "stampante": [
+    "stampante"
+  ],
+  "stampanti": [
+    "stampanti"
+  ],
+  "stampare": [
+    "stampare"
+  ],
+  "stamparsi": [
+    "stamparsi"
+  ],
+  "stampata": [
+    "stampata"
+  ],
+  "stampate": [
+    "stampate"
+  ],
+  "stampati": [
+    "stampati"
+  ],
+  "stampato": [
+    "stampato"
+  ],
+  "stampatore": [
+    "stampatore"
+  ],
+  "stampe": [
+    "stampe"
+  ],
+  "stampella": [
+    "stampɛlːa"
+  ],
+  "stampi": [
+    "stampi"
+  ],
+  "stampiglia": [
+    "stampiʎa"
+  ],
+  "stampigliare": [
+    "stampiʎare"
+  ],
+  "stampini": [
+    "stampini"
+  ],
+  "stampino": [
+    "stampino"
+  ],
+  "stampo": [
+    "stampo"
+  ],
+  "stanare": [
+    "stanare"
+  ],
+  "stanca": [
+    "stanka",
+    "staɲka"
+  ],
+  "stancabile": [
+    "stankabile"
+  ],
+  "stancabili": [
+    "stankabili"
+  ],
+  "stancabue": [
+    "stankabue"
+  ],
+  "stancamente": [
+    "stankamente"
+  ],
+  "stancante": [
+    "stankante"
+  ],
+  "stancare": [
+    "stankare"
+  ],
+  "stancarsi": [
+    "stankarsi"
+  ],
+  "stanche": [
+    "staɲke"
+  ],
+  "stanchezza": [
+    "staɲketːsa"
+  ],
+  "stanchezze": [
+    "staɲketːse"
+  ],
+  "stanchi": [
+    "staɲki"
+  ],
+  "stanchissima": [
+    "staɲkisːima"
+  ],
+  "stanchissime": [
+    "staɲkisːime"
+  ],
+  "stanchissimi": [
+    "staɲkisːimi"
+  ],
+  "stanchissimo": [
+    "staɲkisːimo"
+  ],
+  "stanco": [
+    "stanko",
+    "staɲko"
+  ],
+  "stand": [
+    "stɛnd"
+  ],
+  "standard": [
+    "standard"
+  ],
+  "standardizzabile": [
+    "standardidːzabile"
+  ],
+  "standardizzabili": [
+    "standardidːzabili"
+  ],
+  "standardizzato": [
+    "standardidːzato"
+  ],
+  "stando": [
+    "stando"
+  ],
+  "stangata": [
+    "stanɡata"
+  ],
+  "stanghetta": [
+    "stanɡetːa"
+  ],
+  "stangona": [
+    "stanɡona"
+  ],
+  "stangone": [
+    "stanɡone"
+  ],
+  "stannifero": [
+    "stanːifero"
+  ],
+  "stanno": [
+    "stanːo"
+  ],
+  "stante": [
+    "stante"
+  ],
+  "stanti": [
+    "stanti"
+  ],
+  "stantuffo": [
+    "stantufːo"
+  ],
+  "stanza": [
+    "stantsa",
+    "stanːtsa"
+  ],
+  "stanze": [
+    "stantse"
+  ],
+  "stanzetta": [
+    "stantsetːa"
+  ],
+  "stanziale": [
+    "stantsjale"
+  ],
+  "stanziali": [
+    "stantsjali"
+  ],
+  "stanziare": [
+    "stantsjare"
+  ],
+  "stanziarsi": [
+    "stantsjarsi"
+  ],
+  "stanzina": [
+    "stantsina"
+  ],
+  "stanzino": [
+    "stantsino"
+  ],
+  "stapedio": [
+    "stapɛdjo"
+  ],
+  "stappabile": [
+    "stapːabile"
+  ],
+  "stappabili": [
+    "stapːabili"
+  ],
+  "stappante": [
+    "stapːante"
+  ],
+  "stappare": [
+    "stapːare"
+  ],
+  "stappato": [
+    "stapːato"
+  ],
+  "stappatura": [
+    "stapːatura"
+  ],
+  "stappature": [
+    "stapːature"
+  ],
+  "stapula": [
+    "stapula"
+  ],
+  "star": [
+    "star"
+  ],
+  "starà": [
+    "stara"
+  ],
+  "starai": [
+    "starai"
+  ],
+  "staranno": [
+    "staranːo"
+  ],
+  "stare": [
+    "stare"
+  ],
+  "starebbe": [
+    "starebːe"
+  ],
+  "starebbero": [
+    "starebːero"
+  ],
+  "starei": [
+    "starei"
+  ],
+  "staremmo": [
+    "staremːo"
+  ],
+  "staremo": [
+    "staremo"
+  ],
+  "stareste": [
+    "stareste"
+  ],
+  "staresti": [
+    "staresti"
+  ],
+  "starete": [
+    "starete"
+  ],
+  "starlet": [
+    "starlet"
+  ],
+  "starna": [
+    "starna"
+  ],
+  "starnazzare": [
+    "starnatːsare"
+  ],
+  "starnotto": [
+    "starnɔtːo"
+  ],
+  "starnutare": [
+    "starnutare"
+  ],
+  "starnutatori": [
+    "starnutatɔrj"
+  ],
+  "starnutatoria": [
+    "starnutatɔrja"
+  ],
+  "starnutatorie": [
+    "starnutatɔrje"
+  ],
+  "starnutatorio": [
+    "starnutatɔrjo"
+  ],
+  "starnuti": [
+    "starnuti"
+  ],
+  "starnutire": [
+    "starnutire"
+  ],
+  "starnutito": [
+    "starnutito"
+  ],
+  "starnuto": [
+    "starnuto"
+  ],
+  "starò": [
+    "staro"
+  ],
+  "starter": [
+    "starter"
+  ],
+  "stase": [
+    "stase"
+  ],
+  "stasera": [
+    "stasera",
+    "stazera"
+  ],
+  "stasi": [
+    "stazi"
+  ],
+  "stasimo": [
+    "stazimo"
+  ],
+  "stasse": [
+    "stasːe"
+  ],
+  "stassera": [
+    "stasera"
+  ],
+  "stata": [
+    "stata"
+  ],
+  "statale": [
+    "statale"
+  ],
+  "statali": [
+    "statali"
+  ],
+  "statalismo": [
+    "statalizmo"
+  ],
+  "statalista": [
+    "statalista"
+  ],
+  "stataliste": [
+    "stataliste"
+  ],
+  "statalisti": [
+    "statalisti"
+  ],
+  "statalizzante": [
+    "statalidːzante"
+  ],
+  "statalizzare": [
+    "statalidːzare"
+  ],
+  "statalizzato": [
+    "statalidːzato"
+  ],
+  "statalizzazione": [
+    "statalidːzatsjone"
+  ],
+  "statalizzazioni": [
+    "statalidːzatsjone"
+  ],
+  "statcoulomb": [
+    "statkulomb",
+    "statkulɔmb"
+  ],
+  "state": [
+    "state"
+  ],
+  "staterello": [
+    "staterɛlːo"
+  ],
+  "stati": [
+    "stati"
+  ],
+  "statica": [
+    "statika"
+  ],
+  "staticamente": [
+    "statikamente"
+  ],
+  "statiche": [
+    "statike"
+  ],
+  "statici": [
+    "statitʃi"
+  ],
+  "statico": [
+    "statiko"
+  ],
+  "statista": [
+    "statista"
+  ],
+  "statiste": [
+    "statiste"
+  ],
+  "statisti": [
+    "statisti"
+  ],
+  "statistica": [
+    "statistika"
+  ],
+  "statistico": [
+    "statistiko"
+  ],
+  "statmografia": [
+    "statmoɡrafia"
+  ],
+  "stato": [
+    "stato"
+  ],
+  "statolder": [
+    "statɔlder"
+  ],
+  "statore": [
+    "statore"
+  ],
+  "statoreattore": [
+    "statoreatːore"
+  ],
+  "statoreattori": [
+    "statoreatːori"
+  ],
+  "statori": [
+    "statori"
+  ],
+  "statua": [
+    "statwa"
+  ],
+  "statuario": [
+    "statuarjo"
+  ],
+  "statue": [
+    "statwe"
+  ],
+  "statuetta": [
+    "statuetːa"
+  ],
+  "statuire": [
+    "statuire"
+  ],
+  "statuito": [
+    "statuito"
+  ],
+  "statunitense": [
+    "statunitɛnse"
+  ],
+  "statura": [
+    "statura"
+  ],
+  "status": [
+    "status"
+  ],
+  "stauropegio": [
+    "stawropɛdʒo"
+  ],
+  "stauroteca": [
+    "staurotɛka"
+  ],
+  "stauroteche": [
+    "staurotɛke"
+  ],
+  "stava": [
+    "stava"
+  ],
+  "stavamo": [
+    "stavamo"
+  ],
+  "stavano": [
+    "stavano"
+  ],
+  "stavate": [
+    "stavate"
+  ],
+  "stavi": [
+    "stavi"
+  ],
+  "stavo": [
+    "stavo"
+  ],
+  "stavolta": [
+    "stavɔlta"
+  ],
+  "stazio": [
+    "statːsjo"
+  ],
+  "staziografo": [
+    "statːsjɔɡrafo"
+  ],
+  "stazionale": [
+    "statsjonale"
+  ],
+  "stazionali": [
+    "statsjonali"
+  ],
+  "stazionamento": [
+    "statːsjonamento"
+  ],
+  "stazionante": [
+    "statsjonante"
+  ],
+  "stazionare": [
+    "statsjonare",
+    "statːsjonare"
+  ],
+  "stazionato": [
+    "statsjonato",
+    "statːsjonato"
+  ],
+  "stazioncina": [
+    "statːsjontʃina"
+  ],
+  "stazione": [
+    "statsjone",
+    "statːsjone"
+  ],
+  "stazioni": [
+    "statsjoni"
+  ],
+  "stazza": [
+    "statːsa"
+  ],
+  "stazze": [
+    "statːse"
+  ],
+  "stazzo": [
+    "statːso",
+    "stazzo"
+  ],
+  "stazzone": [
+    "statːsone"
+  ],
+  "stearati": [
+    "stearati"
+  ],
+  "stearato": [
+    "stearato"
+  ],
+  "steatite": [
+    "steatite"
+  ],
+  "steatornite": [
+    "steatɔrnite"
+  ],
+  "steatorniti": [
+    "steatɔrnite"
+  ],
+  "steatornitide": [
+    "steatornitide"
+  ],
+  "steatornitidi": [
+    "steatornitidi"
+  ],
+  "steatosi": [
+    "steatɔzi"
+  ],
+  "steca": [
+    "stɛka"
+  ],
+  "stecca": [
+    "stekːa"
+  ],
+  "steccato": [
+    "stekːato"
+  ],
+  "stecchino": [
+    "stekːino"
+  ],
+  "stecchito": [
+    "stekːito"
+  ],
+  "stecco": [
+    "stekːo"
+  ],
+  "stecconata": [
+    "stekːonata"
+  ],
+  "steche": [
+    "stɛke"
+  ],
+  "stechiometria": [
+    "stekjometria"
+  ],
+  "stechiometrico": [
+    "stekjomɛtriko"
+  ],
+  "stefano": [
+    "stefano"
+  ],
+  "steganopodi": [
+    "steɡanɔpodi"
+  ],
+  "stele": [
+    "stɛle"
+  ],
+  "stella": [
+    "stelːa",
+    "stɛlːa"
+  ],
+  "stellare": [
+    "stelːare"
+  ],
+  "stellari": [
+    "stelːare"
+  ],
+  "stellarsi": [
+    "stelːarsi"
+  ],
+  "stellata": [
+    "stelːata"
+  ],
+  "stellate": [
+    "stelːate"
+  ],
+  "stellati": [
+    "stelːati"
+  ],
+  "stellato": [
+    "stelːato"
+  ],
+  "stelle": [
+    "stelːe",
+    "stɛlːe"
+  ],
+  "stellina": [
+    "stelːina"
+  ],
+  "stelo": [
+    "stɛlo"
+  ],
+  "stemma": [
+    "stɛmːa"
+  ],
+  "stemmi": [
+    "stɛmːi"
+  ],
+  "stemmo": [
+    "stemːo"
+  ],
+  "stemperato": [
+    "stemperato"
+  ],
+  "stendardi": [
+    "stɛndardi"
+  ],
+  "stendardo": [
+    "stendardo",
+    "stɛndardo"
+  ],
+  "stendere": [
+    "stɛndere"
+  ],
+  "stenodattilografia": [
+    "stenodatːiloɡrafia",
+    "stɛnodatːiloɡrafia"
+  ],
+  "stenodattilografo": [
+    "stenodatːilɔɡrafo"
+  ],
+  "stenoeca": [
+    "stenoɛka"
+  ],
+  "stenoeche": [
+    "stenoɛke"
+  ],
+  "stenoeci": [
+    "stenoɛtʃi"
+  ],
+  "stenoeco": [
+    "stenoɛko"
+  ],
+  "stenografa": [
+    "stenɔɡrafa"
+  ],
+  "stenografare": [
+    "stenoɡrafare"
+  ],
+  "stenografata": [
+    "stenoɡrafata"
+  ],
+  "stenografate": [
+    "stenoɡrafate"
+  ],
+  "stenografati": [
+    "stenoɡrafati"
+  ],
+  "stenografato": [
+    "stenoɡrafato"
+  ],
+  "stenografe": [
+    "stenɔɡrafe"
+  ],
+  "stenografi": [
+    "stenɔɡrafi"
+  ],
+  "stenografia": [
+    "stenoɡrafia"
+  ],
+  "stenografica": [
+    "stenoɡrafika"
+  ],
+  "stenografiche": [
+    "stenoɡrafike"
+  ],
+  "stenografici": [
+    "stenoɡrafitʃi"
+  ],
+  "stenografico": [
+    "stenoɡrafiko"
+  ],
+  "stenografie": [
+    "stenoɡrafie"
+  ],
+  "stenografo": [
+    "stenɔɡrafo"
+  ],
+  "stenoscopia": [
+    "stenoskopia"
+  ],
+  "stenoscritto": [
+    "stenoskritːo"
+  ],
+  "stenosi": [
+    "stenɔzi",
+    "stɛnozi"
+  ],
+  "stenotipia": [
+    "stenotipia"
+  ],
+  "stenotipie": [
+    "stenotipie"
+  ],
+  "stenotipista": [
+    "stenotipista"
+  ],
+  "stenotipiste": [
+    "stenotipiste"
+  ],
+  "stenotipisti": [
+    "stenotipisti"
+  ],
+  "stentare": [
+    "stentare"
+  ],
+  "stentatamente": [
+    "stentatamente"
+  ],
+  "stentatezza": [
+    "stentatetːsa"
+  ],
+  "stentatezze": [
+    "stentatetːse"
+  ],
+  "stentato": [
+    "stentato"
+  ],
+  "stenterello": [
+    "stenterɛlːo"
+  ],
+  "stento": [
+    "stɛnto"
+  ],
+  "steppa": [
+    "stepːa"
+  ],
+  "steppicursore": [
+    "stepːikursore"
+  ],
+  "steppificazione": [
+    "stepːifikatːsjone"
+  ],
+  "steradiante": [
+    "steradjante"
+  ],
+  "sterangolo": [
+    "steranɡolo"
+  ],
+  "sterco": [
+    "sterko",
+    "stɛrko"
+  ],
+  "stercobilina": [
+    "sterkobilina"
+  ],
+  "stercoraride": [
+    "sterkoraride"
+  ],
+  "stercoraridi": [
+    "sterkoraridi"
+  ],
+  "stercorario": [
+    "sterkorarjo"
+  ],
+  "stereo": [
+    "stɛreo"
+  ],
+  "stereochimico": [
+    "stereokimiko"
+  ],
+  "stereociglio": [
+    "stereotʃiʎo"
+  ],
+  "stereocinesi": [
+    "stereotʃinɛzi"
+  ],
+  "stereocromia": [
+    "stɛreokromia"
+  ],
+  "stereocromie": [
+    "stɛreokromie"
+  ],
+  "stereofonia": [
+    "stereofonia"
+  ],
+  "stereofonico": [
+    "stereofɔniko"
+  ],
+  "stereometria": [
+    "stereometria"
+  ],
+  "stereometrico": [
+    "stereometria"
+  ],
+  "stereopsia": [
+    "stereopsia"
+  ],
+  "stereoscopi": [
+    "stereoskɔpi"
+  ],
+  "stereoscopia": [
+    "stereoskopia"
+  ],
+  "stereoscopica": [
+    "stereoskɔpika"
+  ],
+  "stereoscopiche": [
+    "stereoskɔpike"
+  ],
+  "stereoscopici": [
+    "stereoskɔpitʃi"
+  ],
+  "stereoscopico": [
+    "stereoskɔpiko"
+  ],
+  "stereoscopio": [
+    "stereoskɔpjo"
+  ],
+  "stereotipi": [
+    "stereɔtipi"
+  ],
+  "stereotipo": [
+    "stereɔtipo"
+  ],
+  "sterica": [
+    "stɛrika"
+  ],
+  "steriche": [
+    "stɛrike"
+  ],
+  "sterici": [
+    "stɛritʃi"
+  ],
+  "sterico": [
+    "stɛriko"
+  ],
+  "sterile": [
+    "stɛrile"
+  ],
+  "sterilità": [
+    "sterilita"
+  ],
+  "sterilizzabile": [
+    "sterilidːzabile"
+  ],
+  "sterilizzabili": [
+    "sterilidːzabili"
+  ],
+  "sterilizzare": [
+    "sterilidːzare"
+  ],
+  "sterilizzato": [
+    "sterilidːzato"
+  ],
+  "sterilizzazione": [
+    "sterilidːzatsjone"
+  ],
+  "sterilmente": [
+    "sterilmente"
+  ],
+  "sterlina": [
+    "sterlina"
+  ],
+  "sterminare": [
+    "sterminare"
+  ],
+  "sterminatamente": [
+    "sterminatamente"
+  ],
+  "sterminatezza": [
+    "sterminatetːsa"
+  ],
+  "sterminato": [
+    "sterminato"
+  ],
+  "sterminatore": [
+    "sterminatore"
+  ],
+  "stermini": [
+    "stermini"
+  ],
+  "sterminio": [
+    "sterminjo"
+  ],
+  "sterna": [
+    "stɛrna"
+  ],
+  "sternbergia": [
+    "stenbɛrdʒa",
+    "sternbɛrdʒa"
+  ],
+  "sternide": [
+    "stɛrnide"
+  ],
+  "sternidi": [
+    "stɛrnidi"
+  ],
+  "sterno": [
+    "stɛrno"
+  ],
+  "sternocleidomastoideo": [
+    "sternokleidomastoidɛo"
+  ],
+  "sternorinchi": [
+    "sternorinki"
+  ],
+  "sternutire": [
+    "sternutire"
+  ],
+  "sternuto": [
+    "sternuto"
+  ],
+  "steroideo": [
+    "sterojdɛo"
+  ],
+  "sterolo": [
+    "sterɔlo"
+  ],
+  "sterpa": [
+    "stɛrpa"
+  ],
+  "sterpazzola": [
+    "sterpatːsola",
+    "sterpatːsɔla"
+  ],
+  "sterpe": [
+    "stɛrpe"
+  ],
+  "sterpo": [
+    "stɛrpo"
+  ],
+  "sterrato": [
+    "sterːato"
+  ],
+  "sterro": [
+    "stɛrːo"
+  ],
+  "sterzo": [
+    "stɛrtso"
+  ],
+  "steso": [
+    "steso"
+  ],
+  "stessa": [
+    "stesːa"
+  ],
+  "stesse": [
+    "stesːe"
+  ],
+  "stessero": [
+    "stesːero"
+  ],
+  "stessi": [
+    "stesːi"
+  ],
+  "stessimo": [
+    "stesːimo"
+  ],
+  "stesso": [
+    "stesːo",
+    "stɛsːo"
+  ],
+  "steste": [
+    "steste"
+  ],
+  "stesti": [
+    "stesti"
+  ],
+  "stesura": [
+    "stesura",
+    "stezura"
+  ],
+  "stetoscopi": [
+    "stetoskɔpi"
+  ],
+  "stetoscopia": [
+    "stetoskɔpja"
+  ],
+  "stetoscopica": [
+    "stetoskɔpika"
+  ],
+  "stetoscopiche": [
+    "stetoskɔpike"
+  ],
+  "stetoscopici": [
+    "stetoskɔpitʃi"
+  ],
+  "stetoscopico": [
+    "stetoskɔpiko"
+  ],
+  "stetoscopie": [
+    "stetoskɔpje"
+  ],
+  "stetoscopio": [
+    "stetoskɔpjo"
+  ],
+  "stette": [
+    "stetːe"
+  ],
+  "stettero": [
+    "stetːero"
+  ],
+  "stetti": [
+    "stetːi"
+  ],
+  "stettino": [
+    "stetːino"
+  ],
+  "stevia": [
+    "stɛvja"
+  ],
+  "steward": [
+    "stjuard"
+  ],
+  "stia": [
+    "stia"
+  ],
+  "stiaccino": [
+    "stjatːʃino"
+  ],
+  "stiamo": [
+    "stjamo"
+  ],
+  "stiano": [
+    "stjano"
+  ],
+  "stiate": [
+    "stjate"
+  ],
+  "stiavo": [
+    "stjavo"
+  ],
+  "stibina": [
+    "stibina"
+  ],
+  "stibio": [
+    "stibjo"
+  ],
+  "stibonio": [
+    "stibɔnjo"
+  ],
+  "stichico": [
+    "stikiko"
+  ],
+  "stico": [
+    "stiko"
+  ],
+  "stigio": [
+    "stidʒo"
+  ],
+  "stiglio": [
+    "stiʎo"
+  ],
+  "stigma": [
+    "stiɡma"
+  ],
+  "stigmate": [
+    "stiɡmate"
+  ],
+  "stigmatizzabile": [
+    "stiɡmatidːzabile"
+  ],
+  "stigmatizzabili": [
+    "stiɡmatidːzabili"
+  ],
+  "stigmatizzante": [
+    "stiɡmatidːzante"
+  ],
+  "stigmatizzanti": [
+    "stiɡmatidːzanti"
+  ],
+  "stigmatizzare": [
+    "stiɡmatidːzare"
+  ],
+  "stigmatizzata": [
+    "stiɡmatidːzata"
+  ],
+  "stigmatizzate": [
+    "stiɡmatidːzate"
+  ],
+  "stigmatizzati": [
+    "stiɡmatidːzati"
+  ],
+  "stigmatizzato": [
+    "stiɡmatidːzato"
+  ],
+  "stigmatizzazione": [
+    "stiɡmatidːzatsjone"
+  ],
+  "stigmatizzazioni": [
+    "stiɡmatidːzatsjoni"
+  ],
+  "stilare": [
+    "stilare"
+  ],
+  "stile": [
+    "stile"
+  ],
+  "stileliberista": [
+    "stileliberista"
+  ],
+  "stileliberiste": [
+    "stileliberiste"
+  ],
+  "stileliberisti": [
+    "stileliberisti"
+  ],
+  "stilema": [
+    "stilɛma"
+  ],
+  "stilemi": [
+    "stilɛmi"
+  ],
+  "stiletti": [
+    "stiletːi"
+  ],
+  "stiletto": [
+    "stiletːo"
+  ],
+  "stili": [
+    "stili"
+  ],
+  "stilista": [
+    "stilista"
+  ],
+  "stiliste": [
+    "stiliste"
+  ],
+  "stilisti": [
+    "stilisti"
+  ]
 }

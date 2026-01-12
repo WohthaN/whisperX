@@ -1,502 +1,1526 @@
 {
-  "adeguavo": ["a d e ɡ w a v o"],
-  "adeguazione": ["a d e ɡ w a tː s j o e"],
-  "adeguazioni": ["a d e ɡ w a tː s j o n i"],
-  "adeguerà": ["a d e ɡ w e r a"],
-  "adeguerai": ["a d e ɡ w e r a i"],
-  "adegueranno": ["a d e ɡ w e r a nː o"],
-  "adeguerebbe": ["a d e ɡ w e r e bː e"],
-  "adeguerebbero": ["a d e ɡ w e r e bː e r o"],
-  "adeguerei": ["a d e ɡ w e r e i"],
-  "adegueremmo": ["a d e ɡ w e r e mː o"],
-  "adegueremo": ["a d e ɡ w e r e m o"],
-  "adeguereste": ["a d e ɡ w e r e s t e"],
-  "adegueresti": ["a d e ɡ w e r e s t i"],
-  "adeguerete": ["a d e ɡ w e r e t e"],
-  "adeguerò": ["a d e ɡ w e r o"],
-  "adegui": ["a d e ɡ w i"],
-  "adeguiamo": ["a d e ɡ w j a m o"],
-  "adeguiate": ["a d e ɡ w j a t e"],
-  "adeguino": ["a d e ɡ w i n o"],
-  "adeguo": ["a d e ɡ w o"],
-  "adeguò": ["a d e ɡ w o"],
-  "adele": ["a d ɛ l e"],
-  "adelfa": ["a d e l f a"],
-  "adelfi": ["a d e l f i"],
-  "adelfo": ["a d e l f o"],
-  "adempiente": ["a d e m p j e n t e"],
-  "adempiere": ["a d e m p i e r e", "a d e m p j e r e"],
-  "adempiersi": ["a d e m p j e r s i"],
-  "adempimento": ["a d e m p i m e n t o"],
-  "adempire": ["a d e m p i r e"],
-  "adempito": ["a d e m p i t o"],
-  "adempiuta": ["a d e m p j u t a"],
-  "adempiute": ["a d e m p j u t o"],
-  "adempiuti": ["a d e m p j u t o"],
-  "adempiuto": ["a d e m p j u t o"],
-  "adenilato": ["a d e n i l a t o"],
-  "adenilciclasi": ["a d e n i l t ʃ i k l a z i"],
-  "adenina": ["a d e n i n a"],
-  "adenite": ["a d e n i t e"],
-  "adeniti": ["a d e n i t i"],
-  "adenocarcinoma": ["a d e n o k a r t ʃ i n o m a", "a d e n o k a r t ʃ i n ɔ m a"],
-  "adenocarcinomi": ["a d e n o k a r t ʃ i n ɔ m i"],
-  "adenoide": ["a d e n ɔ j d e"],
-  "adenoidectomia": ["a d e n o j d e k t o m i a"],
-  "adenoideo": ["a d e n o j d ɛ o"],
-  "adenoipofisi": ["a d ɛ n o i p ɔ f i z i"],
-  "adenoma": ["a d e n o m a", "a d e n ɔ m a"],
-  "adenomatoso": ["a d e n o m a t o s o", "a d e n o m a t o z o"],
-  "adenomegalia": ["a d e n o m e ɡ a l i a", "a d e n o m e ɡ a l j a"],
-  "adenomegalie": ["a d e n o m e ɡ a l i e"],
-  "adenomi": ["a d e n o m i"],
-  "adenopatia": ["a d e n o p a t i a"],
-  "adenosina": ["a d e n o z i n a"],
-  "adenosindifosfato": ["a d e n o z i n d i f o s f a t o"],
-  "adenosinfosfato": ["a d e n o z i n f o s f a t o"],
-  "adenosinmonofosfato": ["a d e n o z i n m o n o f o s f a t o", "a d e n o z i n m ɔ n o f o s f a t o"],
-  "adenosintrifosfatasi": ["a d e n o z i n t r i f o s f a t a z i"],
-  "adenosintrifosfato": ["a d e n o z i n t r i f o s f a t o"],
-  "adenoso": ["a d e n o z o"],
-  "adepta": ["a d ɛ p t a"],
-  "adepte": ["a d ɛ p t e"],
-  "adepti": ["a d ɛ p t i"],
-  "adepto": ["a d ɛ p t o"],
-  "adequare": ["a d e k w a r e"],
-  "aderente": ["a d e r e n t e", "a d e r ɛ n t e"],
-  "aderenti": ["a d e r e n t i"],
-  "aderenza": ["a d e r ɛ n t s a"],
-  "aderenze": ["a d e r ɛ n t s e"],
-  "adergere": ["a d ɛ r d ʒ e r e"],
-  "aderire": ["a d e r i r e"],
-  "aderito": ["a d e r i t o"],
-  "aderizza": ["a d e r i tː ʃ a"],
-  "aderizzare": ["a d e r i dː z a r e"],
-  "aderizzi": ["a d e r i tː ʃ i"],
-  "aderizzo": ["a d e r i tː ʃ o"],
-  "adesare": ["a d e z a r e"],
-  "adescamenti": ["a d e s k a m e n t i"],
-  "adescamento": ["a d e s k a m e n t o"],
-  "adescare": ["a d e s k a r e"],
-  "adesione": ["a d e z j o n e"],
-  "adesioni": ["a d e z j o n i"],
-  "adesiva": ["a d e z i v a"],
-  "adesive": ["a d e z i v e"],
-  "adesivi": ["a d e z i v i"],
-  "adesivo": ["a d e z i v o"],
-  "adeso": ["a d ɛ z o"],
-  "adespota": ["a d ɛ s p o t a"],
-  "adespoto": ["a d ɛ s p o t o"],
-  "adessivo": ["a d e s i v o"],
-  "adesso": ["a d ɛ sː o", "a d ɛ sː ɔ"],
-  "adiabatica": ["a d i a b a t i k a", "a d j a b a t i k a"],
-  "adiabaticamente": ["a d i a b a t i k a m e n t e"],
-  "adiabatiche": ["a d i a b a t i k e", "a d j a b a t i k e"],
-  "adiabatici": ["a d i a b a t i t ʃ i", "a d j a b a t i t ʃ i"],
-  "adiabaticità": ["a d i a b a t i t ʃ i t a"],
-  "adiabatico": ["a d i a b a t i k o", "a d j a b a t i k o"],
-  "adiacente": ["a d j a d ʒ ɛ n t e", "a d j a t ʃ ɛ n t e"],
-  "adiacenti": ["a d j a d ʒ ɛ n t i"],
-  "adibente": ["a d i b e n t e"],
-  "adibire": ["a d i b i r e"],
-  "adibito": ["a d i b i t o"],
-  "adiettivo": ["a d j e tː i v o"],
-  "adige": ["a d i d ʒ e"],
-  "adimare": ["a d i m a r e"],
-  "adimensionale": ["a d i m e n s j o n a l e"],
-  "adinamico": ["a d i n a m i k o"],
-  "adinolfi": ["a d i n o l f i"],
-  "adinolfo": ["a d i n o l f o"],
-  "adipe": ["a d i p e"],
-  "adipi": ["a d i p i"],
-  "adipica": ["a d i p i k a"],
-  "adipiche": ["a d i p i k e"],
-  "adipici": ["a d i p i t ʃ i"],
-  "adipico": ["a d i p i k o"],
-  "adipogeno": ["a d i p ɔ d ʒ e n o"],
-  "adipolisi": ["a d i p o l i z i"],
-  "adipolitico": ["a d i p o l i t i k o"],
-  "adipose": ["a d i p o z e"],
-  "adiposità": ["a d i p o z i t a"],
-  "adiposo": ["a d i p o s o", "a d i p o z o"],
-  "adirare": ["a d i r a r e"],
-  "adirato": ["a d i r a t o"],
-  "adire": ["a d i r e"],
-  "adito": ["a d i t o"],
-  "adiuvante": ["a d j u v a n t e"],
-  "adiuvare": ["a d j u v a r e"],
-  "adiuvassero": ["a d j u v a sː e r o"],
-  "adiuvassi": ["a d j u v a sː i"],
-  "adiuvavamo": ["a d j u v a v a m o"],
-  "adiuvavano": ["a d j u v a v a n o"],
-  "adiuvavate": ["a d j u v a v a t e"],
-  "adiuvavi": ["a d j u v a v i"],
-  "adiuvavo": ["a d j u v a v o"],
-  "adiuverà": ["a d j u v e r a"],
-  "adiuverebbe": ["a d j u v e r e bː e"],
-  "adiuverebbero": ["a d j u v e r e bː e r o"],
-  "adiuverei": ["a d j u v e r e i"],
-  "adiuveremmo": ["a d j u v e r e mː o"],
-  "adiuveremo": ["a d j u v e r e m o"],
-  "adiuvereste": ["a d j u v e r e s t e"],
-  "adiuverò": ["a d j u v e r o"],
-  "adiuviamo": ["a d j u v j a m o"],
-  "adiuviate": ["a d j u v j a t e"],
-  "adiuvino": ["a d j u v i n o"],
-  "adiuvò": ["a d j u v o"],
-  "adizzare": ["a d i tː s a r e"],
-  "adocchiare": ["a d o kː j a r e"],
-  "adolescente": ["a d o l e ʃ ʃ ɛ n t e"],
-  "adolescenti": ["a d o l e ʃ ʃ ɛ n t i"],
-  "adolescenza": ["a d o l e ʃ ɛ n t s a", "a d o l e ʃ ʃ ɛ n t s a"],
-  "adolescenze": ["a d o l e ʃ ʃ ɛ n t s e"],
-  "adolescenziale": ["a d o l e ʃ ʃ ɛ n t s j a l e"],
-  "adolfo": ["a d ɔ l f o"],
-  "adombrare": ["a d o m b r a r e"],
-  "adonare": ["a d o n a r e"],
-  "adonestare": ["a d o n e s t a r e"],
-  "adonta": ["a d o n t a"],
-  "adontai": ["a d o n t a i"],
-  "adontamento": ["a d o n t a m e n t o"],
-  "adontammo": ["a d o n t a mː o"],
-  "adontando": ["a d o n t a n d o"],
-  "adontano": ["a d o n t a n o"],
-  "adontare": ["a d o n t a r e"],
-  "adontarono": ["a d o n t a r o n o"],
-  "adontarsi": ["a d o n t a r s i"],
-  "adontasse": ["a d o n t a sː e"],
-  "adontassero": ["a d o n t a sː e r o"],
-  "adontassi": ["a d o n t a sː i"],
-  "adontassimo": ["a d o n t a sː i m o"],
-  "adontaste": ["a d o n t a s t e"],
-  "adontasti": ["a d o n t a s t i"],
-  "adontate": ["a d o n t a t e"],
-  "adontato": ["a d o n t a t o"],
-  "adontava": ["a d o n t a v a"],
-  "adontavamo": ["a d o n t a v a m o"],
-  "adontavano": ["a d o n t a v a n o"],
-  "adontavate": ["a d o n t a v a t e"],
-  "adontavi": ["a d o n t a v i"],
-  "adontavo": ["a d o n t a v o"],
-  "adonterà": ["a d o n t e r a"],
-  "adonterai": ["a d o n t e r a i"],
-  "adonteranno": ["a d o n t e r a nː o"],
-  "adonterebbe": ["a d o n t e r e bː e"],
-  "adonterebbero": ["a d o n t e r e bː e r o"],
-  "adonterei": ["a d o n t e r e i"],
-  "adonteremmo": ["a d o n t e r e mː o"],
-  "adonteremo": ["a d o n t e r e m o"],
-  "adontereste": ["a d o n t e r e s t e"],
-  "adonteresti": ["a d o n t e r e s t i"],
-  "adonterete": ["a d o n t e r e t e"],
-  "adonterò": ["a d o n t e r o"],
-  "adonti": ["a d o n t i"],
-  "adontiamo": ["a d o n t j a m o"],
-  "adontiate": ["a d o n t j a t e"],
-  "adontino": ["a d o n t i n o"],
-  "adonto": ["a d o n t o"],
-  "adontò": ["a d o n t o"],
-  "adoperante": ["a d o p e r a n t e"],
-  "adoperare": ["a d o p e r a r e"],
-  "adoperarsi": ["a d o p e r a r s i"],
-  "adoperato": ["a d o p e r a t o"],
-  "adopra": ["a d o p r a"],
-  "adoprai": ["a d o p r a i"],
-  "adoprammo": ["a d o p r a mː o"],
-  "adoprando": ["a d o p r a n d o"],
-  "adoprano": ["a d o p r a n o"],
-  "adoprante": ["a d o p r a n t e"],
-  "adoprare": ["a d o p r a r e"],
-  "adoprarono": ["a d o p r a r o n o"],
-  "adoprasse": ["a d o p r a sː e"],
-  "adoprassero": ["a d o p r a s t e"],
-  "adoprassi": ["a d o p r a sː i"],
-  "adoprassimo": ["a d o p r a sː i m o"],
-  "adopraste": ["a d o p r a s t e"],
-  "adoprasti": ["a d o p r a s t i"],
-  "adoprate": ["a d o p r a t e"],
-  "adoprato": ["a d o p r a t o"],
-  "adoprava": ["a d o p r a v a"],
-  "adopravamo": ["a d o p r a v a m o"],
-  "adopravano": ["a d o p r a v a n o"],
-  "adopravate": ["a d o p r a v a t e"],
-  "adopravi": ["a d o p r a v i"],
-  "adopravo": ["a d o p r a v o"],
-  "adoprerà": ["a d o p r e r a"],
-  "adoprerai": ["a d o p r e r a i"],
-  "adopreranno": ["a d o p r e r a nː o"],
-  "adoprerebbe": ["a d o p r e r e bː e"],
-  "adoprerebbero": ["a d o p r e r e bː e r o"],
-  "adoprerei": ["a d o p r e r e i"],
-  "adopreremmo": ["a d o p r e r e mː o"],
-  "adopreremo": ["a d o p r e r e m o"],
-  "adoprereste": ["a d o p r e r e s t e"],
-  "adopreresti": ["a d o p r e r e s t i"],
-  "adoprerete": ["a d o p r e r e t e"],
-  "adoprerò": ["a d o p r e r o"],
-  "adopri": ["a d o p r i"],
-  "adopriamo": ["a d o p r j a m o"],
-  "adopriate": ["a d o p r j a t e"],
-  "adoprino": ["a d o p r i n o"],
-  "adopro": ["a d o p r o"],
-  "adoprò": ["a d o p r o"],
-  "adora": ["a d ɔ r a"],
-  "adorabile": ["a d o r a b i l e"],
-  "adorabilmente": ["a d o r a b i l m e n t e"],
-  "adorai": ["a d ɔ r a i"],
-  "adorando": ["a d ɔ r a n d o"],
-  "adorante": ["a d o r a n t e", "a d ɔ r a n t e"],
-  "adorare": ["a d o r a r e"],
-  "adorasse": ["a d ɔ r a sː e"],
-  "adoraste": ["a d ɔ r a s t e"],
-  "adorato": ["a d o r a t o", "a d ɔ r a t o"],
-  "adoratore": ["a d o r a t o r", "a d o r a t o r e"],
-  "adoratori": ["a d o r a t o r i"],
-  "adoratrice": ["a d o r a t r i t ʃ e"],
-  "adoratrici": ["a d o r a t r i t ʃ i"],
-  "adorazione": ["a d o r a t s j o n e"],
-  "adorazioni": ["a d o r a t s j o n e"],
-  "adorerai": ["a d ɔ r e r a i"],
-  "adorna": ["a d o r n a", "a d ɔ r n a"],
-  "adornai": ["a d ɔ r n a i"],
-  "adornare": ["a d o r n a r e", "a d ɔ r n a r e"],
-  "adornarsi": ["a d ɔ r n a r s i"],
-  "adornasse": ["a d ɔ r n a sː e"],
-  "adornaste": ["a d ɔ r n a s t e"],
-  "adornato": ["a d o r n a t o"],
-  "adorne": ["a d o r n e"],
-  "adornerai": ["a d ɔ r n e r a i"],
-  "adorni": ["a d o r n i"],
-  "adorno": ["a d o r n o"],
-  "adotta": ["a d o tː a"],
-  "adottabile": ["a d o tː a b i l e"],
-  "adottabili": ["a d o tː a b i l i"],
-  "adottai": ["a d o tː a i"],
-  "adottammo": ["a d o tː a mː o"],
-  "adottando": ["a d o tː a n d o"],
-  "adottano": ["a d o tː a n o"],
-  "adottante": ["a d o tː a n t e"],
-  "adottare": ["a d o tː a r e"],
-  "adottarono": ["a d o tː a r o n o"],
-  "adottasse": ["a d o tː a sː e"],
-  "adottassero": ["a d o tː a sː e r o"],
-  "adottassi": ["a d o tː a sː i"],
-  "adottassimo": ["a d o tː a sː i m o"],
-  "adottaste": ["a d o tː a s t e"],
-  "adottasti": ["a d o tː a s t i"],
-  "adottate": ["a d o tː a t e"],
-  "adottato": ["a d o tː a t o"],
-  "adottava": ["a d o tː a v a"],
-  "adottavamo": ["a d o tː a v a m o"],
-  "adottavano": ["a d o tː a v a n o"],
-  "adottavate": ["a d o tː a v a t e"],
-  "adottavi": ["a d o tː a v i"],
-  "adottavo": ["a d o tː a v o"],
-  "adotterà": ["a d o tː e r a"],
-  "adotterai": ["a d o tː e r a i"],
-  "adotteranno": ["a d o tː e r a nː o"],
-  "adotterebbe": ["a d o tː e r e bː e"],
-  "adotterebbero": ["a d o tː e r e bː e r o"],
-  "adotterei": ["a d o tː e r e i"],
-  "adotteremmo": ["a d o tː e r e mː o"],
-  "adotteremo": ["a d o tː e r e m o"],
-  "adottereste": ["a d o tː e r e s t e"],
-  "adotteresti": ["a d o tː e r e s t i"],
-  "adotterete": ["a d o tː e r e t e"],
-  "adotterò": ["a d o tː e r o"],
-  "adotti": ["a d o tː i"],
-  "adottiamo": ["a d o tː j a m o"],
-  "adottiate": ["a d o tː j a t e"],
-  "adottino": ["a d o tː i n o"],
-  "adottiva": ["a d ɔ tː i v a"],
-  "adottive": ["a d ɔ tː i v e"],
-  "adottivi": ["a d ɔ tː i v i"],
-  "adottivo": ["a d o tː i v o", "a d ɔ tː i v o", "a d ɔ tː i v ɔ"],
-  "adotto": ["a d o tː o"],
-  "adottò": ["a d o tː o"],
-  "adozione": ["a d o t s j o n e"],
-  "adozioni": ["a d o t s j o n i"],
-  "adozionismi": ["a d o tː s j o n i z m i"],
-  "adozionismo": ["a d o tː s j o n i z m o"],
-  "adrenalina": ["a d r e n a l i n a"],
-  "adrenaline": ["a d r e n a l i n e"],
-  "adrenalinico": ["a d r e n a l i n i k o"],
-  "adrenalismo": ["a d r e n a l i z m o"],
-  "adrenocinetico": ["a d r ɛ n o t ʃ i n ɛ t i k o"],
-  "adrenolitico": ["a d r e n o l i t i k o"],
-  "adriatica": ["a d r i a t i k a"],
-  "adriatiche": ["a d r i a t i k e"],
-  "adriatici": ["a d r i a t i t ʃ i"],
-  "adriatico": ["a d r i a t i k o"],
-  "adrone": ["a d r ɔ n e"],
-  "adroni": ["a d r ɔ n i"],
-  "adronica": ["a d r ɔ n i k a"],
-  "adronicamente": ["a d r o n i k a m e n t e"],
-  "adroniche": ["a d r ɔ n i k e"],
-  "adronici": ["a d r ɔ n i t ʃ i"],
-  "adronico": ["a d r ɔ n i k o"],
-  "adronizza": ["a d r o n i dː z a"],
-  "adronizzai": ["a d r o n i dː z a i"],
-  "adronizzammo": ["a d r o n i dː z a mː o"],
-  "adronizzando": ["a d r o n i dː z a n d o"],
-  "adronizzano": ["a d r o n i dː z a n o"],
-  "adronizzante": ["a d r o n i dː z a n t e"],
-  "adronizzare": ["a d r o n i dː z a r e"],
-  "adronizzarono": ["a d r o n i dː z a r o n o"],
-  "adronizzarsi": ["a d r o n i dː z a r s i"],
-  "adronizzasse": ["a d r o n i dː z a sː e"],
-  "adronizzassero": ["a d r o n i dː z a sː e r o"],
-  "adronizzassi": ["a d r o n i dː z a sː i"],
-  "adronizzassimo": ["a d r o n i dː z a sː i m o"],
-  "adronizzaste": ["a d r o n i dː z a s t e"],
-  "adronizzasti": ["a d r o n i dː z a s t i"],
-  "adronizzate": ["a d r o n i dː z a t e"],
-  "adronizzato": ["a d r o n i dː z a t o"],
-  "adronizzava": ["a d r o n i dː z a v a"],
-  "adronizzavamo": ["a d r o n i dː z a v a m o"],
-  "adronizzavano": ["a d r o n i dː z a v a n o"],
-  "adronizzavate": ["a d r o n i dː z a v a t e"],
-  "adronizzavi": ["a d r o n i dː z a v i"],
-  "adronizzavo": ["a d r o n i dː z a v o"],
-  "adronizzazione": ["a d r o n i dː z a t s j o n e"],
-  "adronizzazioni": ["a d r o n i dː z a t s j o n i"],
-  "adronizzerà": ["a d r o n i dː z e r a"],
-  "adronizzerai": ["a d r o n i dː z e r a i"],
-  "adronizzeranno": ["a d r o n i dː z e r a nː o"],
-  "adronizzerebbe": ["a d r o n i dː z e r e bː e"],
-  "adronizzerebbero": ["a d r o n i dː z e r e bː e r o"],
-  "adronizzerei": ["a d r o n i dː z e r e i"],
-  "adronizzeremmo": ["a d r o n i dː z e r e mː o"],
-  "adronizzeremo": ["a d r o n i dː z e r e m o"],
-  "adronizzereste": ["a d r o n i dː z e r e s t e"],
-  "adronizzeresti": ["a d r o n i dː z e r e s t i"],
-  "adronizzerete": ["a d r o n i dː z e r e t e"],
-  "adronizzerò": ["a d r o n i dː z e r o"],
-  "adronizzi": ["a d r o n i dː z i"],
-  "adronizziamo": ["a d r o n i dː z j a m o"],
-  "adronizziate": ["a d r o n i dː z j a t e"],
-  "adronizzino": ["a d r o n i dː z i n o"],
-  "adronizzo": ["a d r o n i dː z o"],
-  "adronizzò": ["a d r o n i dː z o"],
-  "adroterapia": ["a d r o t e r a p i a"],
-  "adroterapie": ["a d r o t e r a p i e"],
-  "adsorbimenti": ["a d s o r b i m e n t i"],
-  "adsorbimento": ["a d s o r b i m e n t o"],
-  "adsorbire": ["a d s o r b i r e"],
-  "adua": ["a d w a"],
-  "aduggerà": ["a d u dː ʒ e r a"],
-  "aduggerai": ["a d u dː ʒ e r a i"],
-  "aduggeranno": ["a d u dː ʒ e r a nː o"],
-  "aduggerebbe": ["a d u dː ʒ e r e bː e"],
-  "aduggerebbero": ["a d u dː ʒ e r e bː e r o"],
-  "aduggerei": ["a d u dː ʒ e r e i"],
-  "aduggeremmo": ["a d u dː ʒ e r e mː o"],
-  "aduggeremo": ["a d u dː ʒ e r e m o"],
-  "aduggereste": ["a d u dː ʒ e r e s t e"],
-  "aduggeresti": ["a d u dː ʒ e r e s t i"],
-  "aduggerete": ["a d u dː ʒ e r e t e"],
-  "aduggerò": ["a d u dː ʒ e r o"],
-  "aduggi": ["a d u dː ʒ i"],
-  "aduggia": ["a d u dː ʒ a"],
-  "aduggiai": ["a d u dː ʒ a i"],
-  "aduggiammo": ["a d u dː ʒ a mː o"],
-  "aduggiamo": ["a d u dː ʒ a m o"],
-  "aduggiando": ["a d u dː ʒ a n d o"],
-  "aduggiano": ["a d u dː ʒ a n o"],
-  "aduggiante": ["a d u dː ʒ a n t e"],
-  "aduggiare": ["a d u dː ʒ a r e"],
-  "aduggiarono": ["a d u dː ʒ a r o n o"],
-  "aduggiasse": ["a d u dː ʒ a sː e"],
-  "aduggiassero": ["a d u dː ʒ a sː e r o"],
-  "aduggiassi": ["a d u dː ʒ a sː i"],
-  "aduggiassimo": ["a d u dː ʒ a sː i m o"],
-  "aduggiaste": ["a d u dː ʒ a s t e"],
-  "aduggiasti": ["a d u dː ʒ a s t i"],
-  "aduggiata": ["a d u dː ʒ a t a"],
-  "aduggiate": ["a d u dː ʒ a t e"],
-  "aduggiati": ["a d u dː ʒ a t i"],
-  "aduggiato": ["a d u dː ʒ a t o"],
-  "aduggiava": ["a d u dː ʒ a v a"],
-  "aduggiavamo": ["a d u dː ʒ a v a m o"],
-  "aduggiavano": ["a d u dː ʒ a v a n o"],
-  "aduggiavate": ["a d u dː ʒ a v a t e"],
-  "aduggiavi": ["a d u dː ʒ a v i"],
-  "aduggiavo": ["a d u dː ʒ a v o"],
-  "aduggino": ["a d u dː ʒ i n o"],
-  "aduggio": ["a d u dː ʒ o"],
-  "aduggiò": ["a d u dː ʒ o"],
-  "adugnare": ["a d u ɲ ɲ a r e"],
-  "adula": ["a d u l a"],
-  "adulabile": ["a d u l a b i l e"],
-  "adulai": ["a d u l a i"],
-  "adulando": ["a d u l a n d o"],
-  "adulante": ["a d u l a n t e"],
-  "adulare": ["a d u l a r e"],
-  "adulasse": ["a d u l a sː e"],
-  "adulato": ["a d u l a t o"],
-  "adulatore": ["a d u l a t o r e"],
-  "adulatori": ["a d u l a t o r i", "a d u l a t ɔ r i"],
-  "adulatoria": ["a d u l a t ɔ r j a"],
-  "adulatorie": ["a d u l a t ɔ r j e"],
-  "adulatorio": ["a d u l a t ɔ r j o"],
-  "adulatrice": ["a d u l a t r i t ʃ e"],
-  "adulatrici": ["a d u l a t r i t ʃ i"],
-  "adulazione": ["a d u l a t s j o n e"],
-  "adulerai": ["a d u l e r a i"],
-  "adulo": ["a d u l o"],
-  "adulta": ["a d u l t a"],
-  "adultera": ["a d u l t e r a"],
-  "adulterando": ["a d u l t e r a n d o"],
-  "adulterante": ["a d u l t e r a n t e"],
-  "adulteranti": ["a d u l t e r a n t i"],
-  "adulterare": ["a d u l t e r a r e"],
-  "adulterata": ["a d u l t e r a t a"],
-  "adulterate": ["a d u l t e r a t e"],
-  "adulterati": ["a d u l t e r a t i"],
-  "adulterato": ["a d u l t e r a t o"],
-  "adulteravi": ["a d u l t e r a v i"],
-  "adulterazione": ["a d u l t e r a t s j o n e"],
-  "adulterazioni": ["a d u l t e r a t s j o n i"],
-  "adultere": ["a d u l t ɛ r e"],
-  "adulteri": ["a d u l t ɛ r i"],
-  "adulterino": ["a d u l t e r i n o"],
-  "adulterio": ["a d u l t ɛ r j o"],
-  "adultero": ["a d u l t ɛ r o"],
-  "adultescente": ["a d u l t e ʃ ɛ n t e"],
-  "adulti": ["a d u l t i"],
-  "adulto": ["a d u l t o"],
-  "aduna": ["a d u n a"],
-  "adunai": ["a d u n a i"],
-  "adunammo": ["a d u n a mː o"],
-  "adunando": ["a d u n a n d o"],
-  "adunano": ["a d u n a n o"],
-  "adunante": ["a d u n a n t e"],
-  "adunanti": ["a d u n a n t i"],
-  "adunanza": ["a d u n a n t s a"],
-  "adunare": ["a d u n a r e"],
-  "adunarono": ["a d u n a r o n o"],
-  "adunarsi": ["a d u n a r s i"],
-  "adunasse": ["a d u n a sː e"],
-  "adunassero": ["a d u n a sː e r o"],
-  "adunassi": ["a d u n a sː i"],
-  "adunassimo": ["a d u n a sː i m o"],
-  "adunaste": ["a d u n a s t e"],
-  "adunasti": ["a d u n a s t i"],
-  "adunata": ["a d u n a t a"],
-  "adunate": ["a d u n a t e"],
-  "adunati": ["a d u n a t i"],
-  "adunato": ["a d u n a t o"],
-  "adunava": ["a d u n a v a"],
-  "adunavamo": ["a d u n a v a m o"],
-  "adunavano": ["a d u n a v a n o"],
-  "adunavate": ["a d u n a v a t e"],
-  "adunavi": ["a d u n a v i"],
-  "adunavo": ["a d u n a v o"],
-  "adunca": ["a d u n k a"],
-  "adunche": ["a d u n k e", "a d u ɲ k e"],
-  "adunchi": ["a d u ɲ k i"],
-  "adunco": ["a d u ɲ k o"],
-  "adunerà": ["a d u n e r a"],
-  "adunerai": ["a d u n e r a i"],
-  "aduneranno": ["a d u n e r a nː o"]
+  "adeguavo": [
+    "adeɡwavo"
+  ],
+  "adeguazione": [
+    "adeɡwatːsjoe"
+  ],
+  "adeguazioni": [
+    "adeɡwatːsjoni"
+  ],
+  "adeguerà": [
+    "adeɡwera"
+  ],
+  "adeguerai": [
+    "adeɡwerai"
+  ],
+  "adegueranno": [
+    "adeɡweranːo"
+  ],
+  "adeguerebbe": [
+    "adeɡwerebːe"
+  ],
+  "adeguerebbero": [
+    "adeɡwerebːero"
+  ],
+  "adeguerei": [
+    "adeɡwerei"
+  ],
+  "adegueremmo": [
+    "adeɡweremːo"
+  ],
+  "adegueremo": [
+    "adeɡweremo"
+  ],
+  "adeguereste": [
+    "adeɡwereste"
+  ],
+  "adegueresti": [
+    "adeɡweresti"
+  ],
+  "adeguerete": [
+    "adeɡwerete"
+  ],
+  "adeguerò": [
+    "adeɡwero"
+  ],
+  "adegui": [
+    "adeɡwi"
+  ],
+  "adeguiamo": [
+    "adeɡwjamo"
+  ],
+  "adeguiate": [
+    "adeɡwjate"
+  ],
+  "adeguino": [
+    "adeɡwino"
+  ],
+  "adeguo": [
+    "adeɡwo"
+  ],
+  "adeguò": [
+    "adeɡwo"
+  ],
+  "adele": [
+    "adɛle"
+  ],
+  "adelfa": [
+    "adelfa"
+  ],
+  "adelfi": [
+    "adelfi"
+  ],
+  "adelfo": [
+    "adelfo"
+  ],
+  "adempiente": [
+    "adempjente"
+  ],
+  "adempiere": [
+    "adempiere",
+    "adempjere"
+  ],
+  "adempiersi": [
+    "adempjersi"
+  ],
+  "adempimento": [
+    "adempimento"
+  ],
+  "adempire": [
+    "adempire"
+  ],
+  "adempito": [
+    "adempito"
+  ],
+  "adempiuta": [
+    "adempjuta"
+  ],
+  "adempiute": [
+    "adempjuto"
+  ],
+  "adempiuti": [
+    "adempjuto"
+  ],
+  "adempiuto": [
+    "adempjuto"
+  ],
+  "adenilato": [
+    "adenilato"
+  ],
+  "adenilciclasi": [
+    "adeniltʃiklazi"
+  ],
+  "adenina": [
+    "adenina"
+  ],
+  "adenite": [
+    "adenite"
+  ],
+  "adeniti": [
+    "adeniti"
+  ],
+  "adenocarcinoma": [
+    "adenokartʃinoma",
+    "adenokartʃinɔma"
+  ],
+  "adenocarcinomi": [
+    "adenokartʃinɔmi"
+  ],
+  "adenoide": [
+    "adenɔjde"
+  ],
+  "adenoidectomia": [
+    "adenojdektomia"
+  ],
+  "adenoideo": [
+    "adenojdɛo"
+  ],
+  "adenoipofisi": [
+    "adɛnoipɔfizi"
+  ],
+  "adenoma": [
+    "adenoma",
+    "adenɔma"
+  ],
+  "adenomatoso": [
+    "adenomatoso",
+    "adenomatozo"
+  ],
+  "adenomegalia": [
+    "adenomeɡalia",
+    "adenomeɡalja"
+  ],
+  "adenomegalie": [
+    "adenomeɡalie"
+  ],
+  "adenomi": [
+    "adenomi"
+  ],
+  "adenopatia": [
+    "adenopatia"
+  ],
+  "adenosina": [
+    "adenozina"
+  ],
+  "adenosindifosfato": [
+    "adenozindifosfato"
+  ],
+  "adenosinfosfato": [
+    "adenozinfosfato"
+  ],
+  "adenosinmonofosfato": [
+    "adenozinmonofosfato",
+    "adenozinmɔnofosfato"
+  ],
+  "adenosintrifosfatasi": [
+    "adenozintrifosfatazi"
+  ],
+  "adenosintrifosfato": [
+    "adenozintrifosfato"
+  ],
+  "adenoso": [
+    "adenozo"
+  ],
+  "adepta": [
+    "adɛpta"
+  ],
+  "adepte": [
+    "adɛpte"
+  ],
+  "adepti": [
+    "adɛpti"
+  ],
+  "adepto": [
+    "adɛpto"
+  ],
+  "adequare": [
+    "adekware"
+  ],
+  "aderente": [
+    "aderente",
+    "aderɛnte"
+  ],
+  "aderenti": [
+    "aderenti"
+  ],
+  "aderenza": [
+    "aderɛntsa"
+  ],
+  "aderenze": [
+    "aderɛntse"
+  ],
+  "adergere": [
+    "adɛrdʒere"
+  ],
+  "aderire": [
+    "aderire"
+  ],
+  "aderito": [
+    "aderito"
+  ],
+  "aderizza": [
+    "aderitːʃa"
+  ],
+  "aderizzare": [
+    "aderidːzare"
+  ],
+  "aderizzi": [
+    "aderitːʃi"
+  ],
+  "aderizzo": [
+    "aderitːʃo"
+  ],
+  "adesare": [
+    "adezare"
+  ],
+  "adescamenti": [
+    "adeskamenti"
+  ],
+  "adescamento": [
+    "adeskamento"
+  ],
+  "adescare": [
+    "adeskare"
+  ],
+  "adesione": [
+    "adezjone"
+  ],
+  "adesioni": [
+    "adezjoni"
+  ],
+  "adesiva": [
+    "adeziva"
+  ],
+  "adesive": [
+    "adezive"
+  ],
+  "adesivi": [
+    "adezivi"
+  ],
+  "adesivo": [
+    "adezivo"
+  ],
+  "adeso": [
+    "adɛzo"
+  ],
+  "adespota": [
+    "adɛspota"
+  ],
+  "adespoto": [
+    "adɛspoto"
+  ],
+  "adessivo": [
+    "adesivo"
+  ],
+  "adesso": [
+    "adɛsːo",
+    "adɛsːɔ"
+  ],
+  "adiabatica": [
+    "adiabatika",
+    "adjabatika"
+  ],
+  "adiabaticamente": [
+    "adiabatikamente"
+  ],
+  "adiabatiche": [
+    "adiabatike",
+    "adjabatike"
+  ],
+  "adiabatici": [
+    "adiabatitʃi",
+    "adjabatitʃi"
+  ],
+  "adiabaticità": [
+    "adiabatitʃita"
+  ],
+  "adiabatico": [
+    "adiabatiko",
+    "adjabatiko"
+  ],
+  "adiacente": [
+    "adjadʒɛnte",
+    "adjatʃɛnte"
+  ],
+  "adiacenti": [
+    "adjadʒɛnti"
+  ],
+  "adibente": [
+    "adibente"
+  ],
+  "adibire": [
+    "adibire"
+  ],
+  "adibito": [
+    "adibito"
+  ],
+  "adiettivo": [
+    "adjetːivo"
+  ],
+  "adige": [
+    "adidʒe"
+  ],
+  "adimare": [
+    "adimare"
+  ],
+  "adimensionale": [
+    "adimensjonale"
+  ],
+  "adinamico": [
+    "adinamiko"
+  ],
+  "adinolfi": [
+    "adinolfi"
+  ],
+  "adinolfo": [
+    "adinolfo"
+  ],
+  "adipe": [
+    "adipe"
+  ],
+  "adipi": [
+    "adipi"
+  ],
+  "adipica": [
+    "adipika"
+  ],
+  "adipiche": [
+    "adipike"
+  ],
+  "adipici": [
+    "adipitʃi"
+  ],
+  "adipico": [
+    "adipiko"
+  ],
+  "adipogeno": [
+    "adipɔdʒeno"
+  ],
+  "adipolisi": [
+    "adipolizi"
+  ],
+  "adipolitico": [
+    "adipolitiko"
+  ],
+  "adipose": [
+    "adipoze"
+  ],
+  "adiposità": [
+    "adipozita"
+  ],
+  "adiposo": [
+    "adiposo",
+    "adipozo"
+  ],
+  "adirare": [
+    "adirare"
+  ],
+  "adirato": [
+    "adirato"
+  ],
+  "adire": [
+    "adire"
+  ],
+  "adito": [
+    "adito"
+  ],
+  "adiuvante": [
+    "adjuvante"
+  ],
+  "adiuvare": [
+    "adjuvare"
+  ],
+  "adiuvassero": [
+    "adjuvasːero"
+  ],
+  "adiuvassi": [
+    "adjuvasːi"
+  ],
+  "adiuvavamo": [
+    "adjuvavamo"
+  ],
+  "adiuvavano": [
+    "adjuvavano"
+  ],
+  "adiuvavate": [
+    "adjuvavate"
+  ],
+  "adiuvavi": [
+    "adjuvavi"
+  ],
+  "adiuvavo": [
+    "adjuvavo"
+  ],
+  "adiuverà": [
+    "adjuvera"
+  ],
+  "adiuverebbe": [
+    "adjuverebːe"
+  ],
+  "adiuverebbero": [
+    "adjuverebːero"
+  ],
+  "adiuverei": [
+    "adjuverei"
+  ],
+  "adiuveremmo": [
+    "adjuveremːo"
+  ],
+  "adiuveremo": [
+    "adjuveremo"
+  ],
+  "adiuvereste": [
+    "adjuvereste"
+  ],
+  "adiuverò": [
+    "adjuvero"
+  ],
+  "adiuviamo": [
+    "adjuvjamo"
+  ],
+  "adiuviate": [
+    "adjuvjate"
+  ],
+  "adiuvino": [
+    "adjuvino"
+  ],
+  "adiuvò": [
+    "adjuvo"
+  ],
+  "adizzare": [
+    "aditːsare"
+  ],
+  "adocchiare": [
+    "adokːjare"
+  ],
+  "adolescente": [
+    "adoleʃʃɛnte"
+  ],
+  "adolescenti": [
+    "adoleʃʃɛnti"
+  ],
+  "adolescenza": [
+    "adoleʃɛntsa",
+    "adoleʃʃɛntsa"
+  ],
+  "adolescenze": [
+    "adoleʃʃɛntse"
+  ],
+  "adolescenziale": [
+    "adoleʃʃɛntsjale"
+  ],
+  "adolfo": [
+    "adɔlfo"
+  ],
+  "adombrare": [
+    "adombrare"
+  ],
+  "adonare": [
+    "adonare"
+  ],
+  "adonestare": [
+    "adonestare"
+  ],
+  "adonta": [
+    "adonta"
+  ],
+  "adontai": [
+    "adontai"
+  ],
+  "adontamento": [
+    "adontamento"
+  ],
+  "adontammo": [
+    "adontamːo"
+  ],
+  "adontando": [
+    "adontando"
+  ],
+  "adontano": [
+    "adontano"
+  ],
+  "adontare": [
+    "adontare"
+  ],
+  "adontarono": [
+    "adontarono"
+  ],
+  "adontarsi": [
+    "adontarsi"
+  ],
+  "adontasse": [
+    "adontasːe"
+  ],
+  "adontassero": [
+    "adontasːero"
+  ],
+  "adontassi": [
+    "adontasːi"
+  ],
+  "adontassimo": [
+    "adontasːimo"
+  ],
+  "adontaste": [
+    "adontaste"
+  ],
+  "adontasti": [
+    "adontasti"
+  ],
+  "adontate": [
+    "adontate"
+  ],
+  "adontato": [
+    "adontato"
+  ],
+  "adontava": [
+    "adontava"
+  ],
+  "adontavamo": [
+    "adontavamo"
+  ],
+  "adontavano": [
+    "adontavano"
+  ],
+  "adontavate": [
+    "adontavate"
+  ],
+  "adontavi": [
+    "adontavi"
+  ],
+  "adontavo": [
+    "adontavo"
+  ],
+  "adonterà": [
+    "adontera"
+  ],
+  "adonterai": [
+    "adonterai"
+  ],
+  "adonteranno": [
+    "adonteranːo"
+  ],
+  "adonterebbe": [
+    "adonterebːe"
+  ],
+  "adonterebbero": [
+    "adonterebːero"
+  ],
+  "adonterei": [
+    "adonterei"
+  ],
+  "adonteremmo": [
+    "adonteremːo"
+  ],
+  "adonteremo": [
+    "adonteremo"
+  ],
+  "adontereste": [
+    "adontereste"
+  ],
+  "adonteresti": [
+    "adonteresti"
+  ],
+  "adonterete": [
+    "adonterete"
+  ],
+  "adonterò": [
+    "adontero"
+  ],
+  "adonti": [
+    "adonti"
+  ],
+  "adontiamo": [
+    "adontjamo"
+  ],
+  "adontiate": [
+    "adontjate"
+  ],
+  "adontino": [
+    "adontino"
+  ],
+  "adonto": [
+    "adonto"
+  ],
+  "adontò": [
+    "adonto"
+  ],
+  "adoperante": [
+    "adoperante"
+  ],
+  "adoperare": [
+    "adoperare"
+  ],
+  "adoperarsi": [
+    "adoperarsi"
+  ],
+  "adoperato": [
+    "adoperato"
+  ],
+  "adopra": [
+    "adopra"
+  ],
+  "adoprai": [
+    "adoprai"
+  ],
+  "adoprammo": [
+    "adopramːo"
+  ],
+  "adoprando": [
+    "adoprando"
+  ],
+  "adoprano": [
+    "adoprano"
+  ],
+  "adoprante": [
+    "adoprante"
+  ],
+  "adoprare": [
+    "adoprare"
+  ],
+  "adoprarono": [
+    "adoprarono"
+  ],
+  "adoprasse": [
+    "adoprasːe"
+  ],
+  "adoprassero": [
+    "adopraste"
+  ],
+  "adoprassi": [
+    "adoprasːi"
+  ],
+  "adoprassimo": [
+    "adoprasːimo"
+  ],
+  "adopraste": [
+    "adopraste"
+  ],
+  "adoprasti": [
+    "adoprasti"
+  ],
+  "adoprate": [
+    "adoprate"
+  ],
+  "adoprato": [
+    "adoprato"
+  ],
+  "adoprava": [
+    "adoprava"
+  ],
+  "adopravamo": [
+    "adopravamo"
+  ],
+  "adopravano": [
+    "adopravano"
+  ],
+  "adopravate": [
+    "adopravate"
+  ],
+  "adopravi": [
+    "adopravi"
+  ],
+  "adopravo": [
+    "adopravo"
+  ],
+  "adoprerà": [
+    "adoprera"
+  ],
+  "adoprerai": [
+    "adoprerai"
+  ],
+  "adopreranno": [
+    "adopreranːo"
+  ],
+  "adoprerebbe": [
+    "adoprerebːe"
+  ],
+  "adoprerebbero": [
+    "adoprerebːero"
+  ],
+  "adoprerei": [
+    "adoprerei"
+  ],
+  "adopreremmo": [
+    "adopreremːo"
+  ],
+  "adopreremo": [
+    "adopreremo"
+  ],
+  "adoprereste": [
+    "adoprereste"
+  ],
+  "adopreresti": [
+    "adopreresti"
+  ],
+  "adoprerete": [
+    "adoprerete"
+  ],
+  "adoprerò": [
+    "adoprero"
+  ],
+  "adopri": [
+    "adopri"
+  ],
+  "adopriamo": [
+    "adoprjamo"
+  ],
+  "adopriate": [
+    "adoprjate"
+  ],
+  "adoprino": [
+    "adoprino"
+  ],
+  "adopro": [
+    "adopro"
+  ],
+  "adoprò": [
+    "adopro"
+  ],
+  "adora": [
+    "adɔra"
+  ],
+  "adorabile": [
+    "adorabile"
+  ],
+  "adorabilmente": [
+    "adorabilmente"
+  ],
+  "adorai": [
+    "adɔrai"
+  ],
+  "adorando": [
+    "adɔrando"
+  ],
+  "adorante": [
+    "adorante",
+    "adɔrante"
+  ],
+  "adorare": [
+    "adorare"
+  ],
+  "adorasse": [
+    "adɔrasːe"
+  ],
+  "adoraste": [
+    "adɔraste"
+  ],
+  "adorato": [
+    "adorato",
+    "adɔrato"
+  ],
+  "adoratore": [
+    "adorator",
+    "adoratore"
+  ],
+  "adoratori": [
+    "adoratori"
+  ],
+  "adoratrice": [
+    "adoratritʃe"
+  ],
+  "adoratrici": [
+    "adoratritʃi"
+  ],
+  "adorazione": [
+    "adoratsjone"
+  ],
+  "adorazioni": [
+    "adoratsjone"
+  ],
+  "adorerai": [
+    "adɔrerai"
+  ],
+  "adorna": [
+    "adorna",
+    "adɔrna"
+  ],
+  "adornai": [
+    "adɔrnai"
+  ],
+  "adornare": [
+    "adornare",
+    "adɔrnare"
+  ],
+  "adornarsi": [
+    "adɔrnarsi"
+  ],
+  "adornasse": [
+    "adɔrnasːe"
+  ],
+  "adornaste": [
+    "adɔrnaste"
+  ],
+  "adornato": [
+    "adornato"
+  ],
+  "adorne": [
+    "adorne"
+  ],
+  "adornerai": [
+    "adɔrnerai"
+  ],
+  "adorni": [
+    "adorni"
+  ],
+  "adorno": [
+    "adorno"
+  ],
+  "adotta": [
+    "adotːa"
+  ],
+  "adottabile": [
+    "adotːabile"
+  ],
+  "adottabili": [
+    "adotːabili"
+  ],
+  "adottai": [
+    "adotːai"
+  ],
+  "adottammo": [
+    "adotːamːo"
+  ],
+  "adottando": [
+    "adotːando"
+  ],
+  "adottano": [
+    "adotːano"
+  ],
+  "adottante": [
+    "adotːante"
+  ],
+  "adottare": [
+    "adotːare"
+  ],
+  "adottarono": [
+    "adotːarono"
+  ],
+  "adottasse": [
+    "adotːasːe"
+  ],
+  "adottassero": [
+    "adotːasːero"
+  ],
+  "adottassi": [
+    "adotːasːi"
+  ],
+  "adottassimo": [
+    "adotːasːimo"
+  ],
+  "adottaste": [
+    "adotːaste"
+  ],
+  "adottasti": [
+    "adotːasti"
+  ],
+  "adottate": [
+    "adotːate"
+  ],
+  "adottato": [
+    "adotːato"
+  ],
+  "adottava": [
+    "adotːava"
+  ],
+  "adottavamo": [
+    "adotːavamo"
+  ],
+  "adottavano": [
+    "adotːavano"
+  ],
+  "adottavate": [
+    "adotːavate"
+  ],
+  "adottavi": [
+    "adotːavi"
+  ],
+  "adottavo": [
+    "adotːavo"
+  ],
+  "adotterà": [
+    "adotːera"
+  ],
+  "adotterai": [
+    "adotːerai"
+  ],
+  "adotteranno": [
+    "adotːeranːo"
+  ],
+  "adotterebbe": [
+    "adotːerebːe"
+  ],
+  "adotterebbero": [
+    "adotːerebːero"
+  ],
+  "adotterei": [
+    "adotːerei"
+  ],
+  "adotteremmo": [
+    "adotːeremːo"
+  ],
+  "adotteremo": [
+    "adotːeremo"
+  ],
+  "adottereste": [
+    "adotːereste"
+  ],
+  "adotteresti": [
+    "adotːeresti"
+  ],
+  "adotterete": [
+    "adotːerete"
+  ],
+  "adotterò": [
+    "adotːero"
+  ],
+  "adotti": [
+    "adotːi"
+  ],
+  "adottiamo": [
+    "adotːjamo"
+  ],
+  "adottiate": [
+    "adotːjate"
+  ],
+  "adottino": [
+    "adotːino"
+  ],
+  "adottiva": [
+    "adɔtːiva"
+  ],
+  "adottive": [
+    "adɔtːive"
+  ],
+  "adottivi": [
+    "adɔtːivi"
+  ],
+  "adottivo": [
+    "adotːivo",
+    "adɔtːivo",
+    "adɔtːivɔ"
+  ],
+  "adotto": [
+    "adotːo"
+  ],
+  "adottò": [
+    "adotːo"
+  ],
+  "adozione": [
+    "adotsjone"
+  ],
+  "adozioni": [
+    "adotsjoni"
+  ],
+  "adozionismi": [
+    "adotːsjonizmi"
+  ],
+  "adozionismo": [
+    "adotːsjonizmo"
+  ],
+  "adrenalina": [
+    "adrenalina"
+  ],
+  "adrenaline": [
+    "adrenaline"
+  ],
+  "adrenalinico": [
+    "adrenaliniko"
+  ],
+  "adrenalismo": [
+    "adrenalizmo"
+  ],
+  "adrenocinetico": [
+    "adrɛnotʃinɛtiko"
+  ],
+  "adrenolitico": [
+    "adrenolitiko"
+  ],
+  "adriatica": [
+    "adriatika"
+  ],
+  "adriatiche": [
+    "adriatike"
+  ],
+  "adriatici": [
+    "adriatitʃi"
+  ],
+  "adriatico": [
+    "adriatiko"
+  ],
+  "adrone": [
+    "adrɔne"
+  ],
+  "adroni": [
+    "adrɔni"
+  ],
+  "adronica": [
+    "adrɔnika"
+  ],
+  "adronicamente": [
+    "adronikamente"
+  ],
+  "adroniche": [
+    "adrɔnike"
+  ],
+  "adronici": [
+    "adrɔnitʃi"
+  ],
+  "adronico": [
+    "adrɔniko"
+  ],
+  "adronizza": [
+    "adronidːza"
+  ],
+  "adronizzai": [
+    "adronidːzai"
+  ],
+  "adronizzammo": [
+    "adronidːzamːo"
+  ],
+  "adronizzando": [
+    "adronidːzando"
+  ],
+  "adronizzano": [
+    "adronidːzano"
+  ],
+  "adronizzante": [
+    "adronidːzante"
+  ],
+  "adronizzare": [
+    "adronidːzare"
+  ],
+  "adronizzarono": [
+    "adronidːzarono"
+  ],
+  "adronizzarsi": [
+    "adronidːzarsi"
+  ],
+  "adronizzasse": [
+    "adronidːzasːe"
+  ],
+  "adronizzassero": [
+    "adronidːzasːero"
+  ],
+  "adronizzassi": [
+    "adronidːzasːi"
+  ],
+  "adronizzassimo": [
+    "adronidːzasːimo"
+  ],
+  "adronizzaste": [
+    "adronidːzaste"
+  ],
+  "adronizzasti": [
+    "adronidːzasti"
+  ],
+  "adronizzate": [
+    "adronidːzate"
+  ],
+  "adronizzato": [
+    "adronidːzato"
+  ],
+  "adronizzava": [
+    "adronidːzava"
+  ],
+  "adronizzavamo": [
+    "adronidːzavamo"
+  ],
+  "adronizzavano": [
+    "adronidːzavano"
+  ],
+  "adronizzavate": [
+    "adronidːzavate"
+  ],
+  "adronizzavi": [
+    "adronidːzavi"
+  ],
+  "adronizzavo": [
+    "adronidːzavo"
+  ],
+  "adronizzazione": [
+    "adronidːzatsjone"
+  ],
+  "adronizzazioni": [
+    "adronidːzatsjoni"
+  ],
+  "adronizzerà": [
+    "adronidːzera"
+  ],
+  "adronizzerai": [
+    "adronidːzerai"
+  ],
+  "adronizzeranno": [
+    "adronidːzeranːo"
+  ],
+  "adronizzerebbe": [
+    "adronidːzerebːe"
+  ],
+  "adronizzerebbero": [
+    "adronidːzerebːero"
+  ],
+  "adronizzerei": [
+    "adronidːzerei"
+  ],
+  "adronizzeremmo": [
+    "adronidːzeremːo"
+  ],
+  "adronizzeremo": [
+    "adronidːzeremo"
+  ],
+  "adronizzereste": [
+    "adronidːzereste"
+  ],
+  "adronizzeresti": [
+    "adronidːzeresti"
+  ],
+  "adronizzerete": [
+    "adronidːzerete"
+  ],
+  "adronizzerò": [
+    "adronidːzero"
+  ],
+  "adronizzi": [
+    "adronidːzi"
+  ],
+  "adronizziamo": [
+    "adronidːzjamo"
+  ],
+  "adronizziate": [
+    "adronidːzjate"
+  ],
+  "adronizzino": [
+    "adronidːzino"
+  ],
+  "adronizzo": [
+    "adronidːzo"
+  ],
+  "adronizzò": [
+    "adronidːzo"
+  ],
+  "adroterapia": [
+    "adroterapia"
+  ],
+  "adroterapie": [
+    "adroterapie"
+  ],
+  "adsorbimenti": [
+    "adsorbimenti"
+  ],
+  "adsorbimento": [
+    "adsorbimento"
+  ],
+  "adsorbire": [
+    "adsorbire"
+  ],
+  "adua": [
+    "adwa"
+  ],
+  "aduggerà": [
+    "adudːʒera"
+  ],
+  "aduggerai": [
+    "adudːʒerai"
+  ],
+  "aduggeranno": [
+    "adudːʒeranːo"
+  ],
+  "aduggerebbe": [
+    "adudːʒerebːe"
+  ],
+  "aduggerebbero": [
+    "adudːʒerebːero"
+  ],
+  "aduggerei": [
+    "adudːʒerei"
+  ],
+  "aduggeremmo": [
+    "adudːʒeremːo"
+  ],
+  "aduggeremo": [
+    "adudːʒeremo"
+  ],
+  "aduggereste": [
+    "adudːʒereste"
+  ],
+  "aduggeresti": [
+    "adudːʒeresti"
+  ],
+  "aduggerete": [
+    "adudːʒerete"
+  ],
+  "aduggerò": [
+    "adudːʒero"
+  ],
+  "aduggi": [
+    "adudːʒi"
+  ],
+  "aduggia": [
+    "adudːʒa"
+  ],
+  "aduggiai": [
+    "adudːʒai"
+  ],
+  "aduggiammo": [
+    "adudːʒamːo"
+  ],
+  "aduggiamo": [
+    "adudːʒamo"
+  ],
+  "aduggiando": [
+    "adudːʒando"
+  ],
+  "aduggiano": [
+    "adudːʒano"
+  ],
+  "aduggiante": [
+    "adudːʒante"
+  ],
+  "aduggiare": [
+    "adudːʒare"
+  ],
+  "aduggiarono": [
+    "adudːʒarono"
+  ],
+  "aduggiasse": [
+    "adudːʒasːe"
+  ],
+  "aduggiassero": [
+    "adudːʒasːero"
+  ],
+  "aduggiassi": [
+    "adudːʒasːi"
+  ],
+  "aduggiassimo": [
+    "adudːʒasːimo"
+  ],
+  "aduggiaste": [
+    "adudːʒaste"
+  ],
+  "aduggiasti": [
+    "adudːʒasti"
+  ],
+  "aduggiata": [
+    "adudːʒata"
+  ],
+  "aduggiate": [
+    "adudːʒate"
+  ],
+  "aduggiati": [
+    "adudːʒati"
+  ],
+  "aduggiato": [
+    "adudːʒato"
+  ],
+  "aduggiava": [
+    "adudːʒava"
+  ],
+  "aduggiavamo": [
+    "adudːʒavamo"
+  ],
+  "aduggiavano": [
+    "adudːʒavano"
+  ],
+  "aduggiavate": [
+    "adudːʒavate"
+  ],
+  "aduggiavi": [
+    "adudːʒavi"
+  ],
+  "aduggiavo": [
+    "adudːʒavo"
+  ],
+  "aduggino": [
+    "adudːʒino"
+  ],
+  "aduggio": [
+    "adudːʒo"
+  ],
+  "aduggiò": [
+    "adudːʒo"
+  ],
+  "adugnare": [
+    "aduɲɲare"
+  ],
+  "adula": [
+    "adula"
+  ],
+  "adulabile": [
+    "adulabile"
+  ],
+  "adulai": [
+    "adulai"
+  ],
+  "adulando": [
+    "adulando"
+  ],
+  "adulante": [
+    "adulante"
+  ],
+  "adulare": [
+    "adulare"
+  ],
+  "adulasse": [
+    "adulasːe"
+  ],
+  "adulato": [
+    "adulato"
+  ],
+  "adulatore": [
+    "adulatore"
+  ],
+  "adulatori": [
+    "adulatori",
+    "adulatɔri"
+  ],
+  "adulatoria": [
+    "adulatɔrja"
+  ],
+  "adulatorie": [
+    "adulatɔrje"
+  ],
+  "adulatorio": [
+    "adulatɔrjo"
+  ],
+  "adulatrice": [
+    "adulatritʃe"
+  ],
+  "adulatrici": [
+    "adulatritʃi"
+  ],
+  "adulazione": [
+    "adulatsjone"
+  ],
+  "adulerai": [
+    "adulerai"
+  ],
+  "adulo": [
+    "adulo"
+  ],
+  "adulta": [
+    "adulta"
+  ],
+  "adultera": [
+    "adultera"
+  ],
+  "adulterando": [
+    "adulterando"
+  ],
+  "adulterante": [
+    "adulterante"
+  ],
+  "adulteranti": [
+    "adulteranti"
+  ],
+  "adulterare": [
+    "adulterare"
+  ],
+  "adulterata": [
+    "adulterata"
+  ],
+  "adulterate": [
+    "adulterate"
+  ],
+  "adulterati": [
+    "adulterati"
+  ],
+  "adulterato": [
+    "adulterato"
+  ],
+  "adulteravi": [
+    "adulteravi"
+  ],
+  "adulterazione": [
+    "adulteratsjone"
+  ],
+  "adulterazioni": [
+    "adulteratsjoni"
+  ],
+  "adultere": [
+    "adultɛre"
+  ],
+  "adulteri": [
+    "adultɛri"
+  ],
+  "adulterino": [
+    "adulterino"
+  ],
+  "adulterio": [
+    "adultɛrjo"
+  ],
+  "adultero": [
+    "adultɛro"
+  ],
+  "adultescente": [
+    "adulteʃɛnte"
+  ],
+  "adulti": [
+    "adulti"
+  ],
+  "adulto": [
+    "adulto"
+  ],
+  "aduna": [
+    "aduna"
+  ],
+  "adunai": [
+    "adunai"
+  ],
+  "adunammo": [
+    "adunamːo"
+  ],
+  "adunando": [
+    "adunando"
+  ],
+  "adunano": [
+    "adunano"
+  ],
+  "adunante": [
+    "adunante"
+  ],
+  "adunanti": [
+    "adunanti"
+  ],
+  "adunanza": [
+    "adunantsa"
+  ],
+  "adunare": [
+    "adunare"
+  ],
+  "adunarono": [
+    "adunarono"
+  ],
+  "adunarsi": [
+    "adunarsi"
+  ],
+  "adunasse": [
+    "adunasːe"
+  ],
+  "adunassero": [
+    "adunasːero"
+  ],
+  "adunassi": [
+    "adunasːi"
+  ],
+  "adunassimo": [
+    "adunasːimo"
+  ],
+  "adunaste": [
+    "adunaste"
+  ],
+  "adunasti": [
+    "adunasti"
+  ],
+  "adunata": [
+    "adunata"
+  ],
+  "adunate": [
+    "adunate"
+  ],
+  "adunati": [
+    "adunati"
+  ],
+  "adunato": [
+    "adunato"
+  ],
+  "adunava": [
+    "adunava"
+  ],
+  "adunavamo": [
+    "adunavamo"
+  ],
+  "adunavano": [
+    "adunavano"
+  ],
+  "adunavate": [
+    "adunavate"
+  ],
+  "adunavi": [
+    "adunavi"
+  ],
+  "adunavo": [
+    "adunavo"
+  ],
+  "adunca": [
+    "adunka"
+  ],
+  "adunche": [
+    "adunke",
+    "aduɲke"
+  ],
+  "adunchi": [
+    "aduɲki"
+  ],
+  "adunco": [
+    "aduɲko"
+  ],
+  "adunerà": [
+    "adunera"
+  ],
+  "adunerai": [
+    "adunerai"
+  ],
+  "aduneranno": [
+    "aduneranːo"
+  ]
 }

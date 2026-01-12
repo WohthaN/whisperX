@@ -1,502 +1,1559 @@
 {
-  "ponentino": ["p o n e n t i n o"],
-  "ponere": ["p o n e r e"],
-  "ponesse": ["p o n e sː e"],
-  "ponessero": ["p o n e sː e r o"],
-  "ponessi": ["p o n e sː i"],
-  "ponessimo": ["p o n e sː i m o"],
-  "poneste": ["p o nː e s t e"],
-  "ponesti": ["p o n e s t i"],
-  "ponete": ["p o n e t e"],
-  "poneva": ["p o n e v a"],
-  "ponevamo": ["p o n e v a m o"],
-  "ponevano": ["p o n e v a n o"],
-  "ponevate": ["p o n e v a t e"],
-  "ponevi": ["p o n e v i"],
-  "ponevo": ["p o n e v o"],
-  "ponga": ["p o n ɡ a"],
-  "pongano": ["p o n ɡ a n o"],
-  "ponghi": ["p ɔ n ɡ i"],
-  "pongide": ["p ɔ n d ʒ i d e"],
-  "pongo": ["p o n ɡ o", "p o ɲ ɡ o", "p ɔ n ɡ o", "p ɔ ɲ ɡ o"],
-  "pongono": ["p o n ɡ o n o"],
-  "poni": ["p o n i"],
-  "poniamo": ["p o n j a m o"],
-  "poniate": ["p o n j a t e"],
-  "pontbosetano": ["p o n t b o z e t a n o"],
-  "ponte": ["p o n t e", "p ɔ n t e"],
-  "ponteacchese": ["p o n t e a kː e s", "p o n t e a kː e z e"],
-  "ponteficale": ["p o n t e f i k a l e"],
-  "pontefice": ["p o n t e f i t ʃ e"],
-  "pontefici": ["p o n t e f i t ʃ i"],
-  "ponteggio": ["p o n t e dː ʒ o"],
-  "ponti": ["p o n t i", "p ɔ n t i"],
-  "ponticello": ["p o n t i t ʃ ɛ lː o"],
-  "ponticino": ["p o n t i t ʃ i n o"],
-  "pontificale": ["p o n t i f i k a l e"],
-  "pontificalmente": ["p o n t i f i k a l m e n t e"],
-  "pontificare": ["p o n t i f i k a r e"],
-  "pontificato": ["p o n t i f i k a t o"],
-  "pontifici": ["p o n t i f i t ʃ i"],
-  "pontificia": ["p o n t i f i t ʃ a"],
-  "pontificie": ["p o n t i f i t ʃ e"],
-  "pontificio": ["p o n t i f i t ʃ o"],
-  "pontile": ["p o n t i l e"],
-  "ponto": ["p ɔ n t o"],
-  "pony": ["p ɔ n i"],
-  "ponzare": ["p o n t s a r e"],
-  "popcorn": ["p o p k ɔ r n"],
-  "pope": ["p ɔ p e"],
-  "popeline": ["p o p e l i n e"],
-  "poplite": ["p ɔ p l i t e"],
-  "popò": ["p o p ɔ"],
-  "popolamenti": ["p o p o l a m e n t i"],
-  "popolamento": ["p o p o l a m e n t o"],
-  "popolano": ["p o p o l a n o", "p ɔ p o l a n o"],
-  "popolare": ["p o p o l a r e"],
-  "popolaresco": ["p o p o l a r e s k o"],
-  "popolari": ["p o p o l a r i"],
-  "popolarismo": ["p o p o l a r i z m o"],
-  "popolarissima": ["p o p o l a r i sː i m a"],
-  "popolarissime": ["p o p o l a r i sː i m e"],
-  "popolarissimi": ["p o p o l a r i sː i m i"],
-  "popolarissimo": ["p o p o l a r i sː i m o"],
-  "popolarità": ["p o p o l a r i t a"],
-  "popolarizzare": ["p o p o l a r i dː z a r e"],
-  "popolarmente": ["p o p o l a r m e n t e"],
-  "popolazione": ["p o p o l a t s j o n e"],
-  "popolazioni": ["p o p o l a t s j o n i"],
-  "popolazzo": ["p o p o l a tː s o"],
-  "popoli": ["p ɔ p o l i"],
-  "popolino": ["p o p o l i n o", "p ɔ p o l i n o"],
-  "popolo": ["p ɔ p o l o"],
-  "popoloso": ["p o p o l o z o"],
-  "popone": ["p o p o n e"],
-  "poppa": ["p o pː a"],
-  "poppante": ["p o pː a n t e"],
-  "poppanti": ["p o pː a n t i"],
-  "poppare": ["p o pː a r e"],
-  "poppata": ["p o pː a t a"],
-  "poppate": ["p o pː a t e"],
-  "poppato": ["p o pː a t o"],
-  "poppatoio": ["p o pː a t o j o"],
-  "poppe": ["p o pː e"],
-  "poppi": ["p o pː i"],
-  "poppiero": ["p o pː j ɛ r o"],
-  "populazione": ["p ɔ p u l a t s j ɔ n e"],
-  "populismo": ["p o p u l i z m o"],
-  "populista": ["p o p u l i s t a"],
-  "populiste": ["p o p u l i s t e"],
-  "populisti": ["p o p u l i s t i"],
-  "populistico": ["p o p u l i s t i k o"],
-  "porca": ["p ɔ r k a"],
-  "porcaio": ["p o r k a j o"],
-  "porcareccia": ["p o r k a r e tː ʃ a"],
-  "porcaro": ["p o r k a r o"],
-  "porcella": ["p o r t ʃ ɛ lː a"],
-  "porcellana": ["p o r t ʃ e lː a n a"],
-  "porcellane": ["p o r t ʃ e lː a n e"],
-  "porcellino": ["p o r t ʃ e lː i n o"],
-  "porcello": ["p o r t ʃ ɛ lː o"],
-  "porchereccia": ["p o r k e r e tː ʃ a"],
-  "porchereccio": ["p o r k e r e tː ʃ o"],
-  "porcheria": ["p o r k e r i a"],
-  "porchetta": ["p o r k e tː a"],
-  "porciglione": ["p o r t ʃ i ʎ o n e"],
-  "porcile": ["p o r t ʃ i l e"],
-  "porcina": ["p o r t ʃ i n a"],
-  "porcine": ["p o r t ʃ i n e"],
-  "porcini": ["p o r t ʃ i n i"],
-  "porcino": ["p o r t ʃ i n o"],
-  "porco": ["p ɔ r k o", "p ɔ r k ɔ"],
-  "porcocervo": ["p o r k o t ʃ ɛ r v o"],
-  "porcospini": ["p o r k o s p i n i"],
-  "porcospino": ["p o r k o s p i n o", "p ɔ r k o s p i n o"],
-  "porfido": ["p ɔ r f i d o"],
-  "porfirico": ["p o r f i r i k o"],
-  "porfiro": ["p ɔ r f i r o"],
-  "porfiroblastico": ["p o r f i r o b l a s t i k o"],
-  "porfiroclastico": ["p o r f i r o k l a s t i k o"],
-  "porfirogenito": ["p o r f i r o d ʒ ɛ n i t o"],
-  "porgere": ["p ɔ r d ʒ e r e"],
-  "poriferi": ["p o r i f e r i"],
-  "porno": ["p ɔ r n o"],
-  "pornodiva": ["p o r n o d i v a"],
-  "pornodivo": ["p ɔ r n o d i v o"],
-  "pornografa": ["p o r n o ɡ r a f a"],
-  "pornografe": ["p o r n o ɡ r a f e"],
-  "pornografi": ["p o r n o ɡ r a f i"],
-  "pornografia": ["p o r n o ɡ r a f i a"],
-  "pornografica": ["p o r n o ɡ r a f i k a"],
-  "pornograficamente": ["p o r n o ɡ r a f i k a m e n t e"],
-  "pornografico": ["p o r n o ɡ r a f i k o", "p ɔ r n o ɡ r a f i k o"],
-  "pornografo": ["p o r n o ɡ r a f o"],
-  "pornostar": ["p ɔ r n o s t a r"],
-  "poro": ["p ɔ r o"],
-  "poroelasticità": ["p ɔ r o e l a s t i t ʃ i t a"],
-  "porosimetri": ["p o r o z i m e t r i"],
-  "porosimetro": ["p o r o z i m e t r o"],
-  "porosità": ["p o r o z i t a"],
-  "porpora": ["p o r p o r a"],
-  "porrà": ["p o rː a"],
-  "porraccio": ["p o rː a tː ʃ o"],
-  "porrai": ["p o rː a i"],
-  "porrandello": ["p o rː a n d ɛ lː o"],
-  "porranno": ["p o rː a nː o"],
-  "porrazzo": ["p o rː a tː s o"],
-  "porre": ["p o rː e"],
-  "porrebbe": ["p o rː e bː e"],
-  "porrebbero": ["p o rː e bː e r o"],
-  "porrei": ["p o rː e i"],
-  "porremmo": ["p o rː e m o"],
-  "porremo": ["p o rː e m o"],
-  "porreste": ["p o rː e s t e"],
-  "porresti": ["p o rː e s t i"],
-  "porrete": ["p o rː e t e"],
-  "porri": ["p ɔ rː i"],
-  "porro": ["p ɔ rː o"],
-  "porrò": ["p o rː o"],
-  "porsi": ["p o r s i"],
-  "porta": ["p ɔ r t a"],
-  "portaacqua": ["p o r t a a kː w a"],
-  "portabandiera": ["p o r t a b a n d j ɛ r a"],
-  "portabile": ["p o r t a b i l e"],
-  "portabili": ["p o r t a b i l i"],
-  "portabollo": ["p o r t a b o lː o"],
-  "portabombe": ["p ɔ r t a b o m b e"],
-  "portaborse": ["p ɔ r t a b o r s e"],
-  "portaburro": ["p o r t a b u rː o"],
-  "portacenere": ["p o r t a t ʃ e n e r e", "p ɔ r t a t ʃ e n e r e"],
-  "portachiavi": ["p o r t a k j a v i"],
-  "portacolori": ["p ɔ r t a k o l o r i"],
-  "portacorrente": ["p ɔ r t a k o rː ɛ n t e"],
-  "portacqua": ["p o r t a kː w a"],
-  "portacroce": ["p o r t a k r o t ʃ e"],
-  "portaerei": ["p o r t a ɛ r e i"],
-  "portafango": ["p o r t a f a n ɡ o"],
-  "portafogli": ["p o r t a f ɔ ʎ i", "p ɔ r t a f ɔ ʎ i"],
-  "portafoglio": ["p o r t a f ɔ ʎ o"],
-  "portafortuna": ["p o r t a f o r t u n a", "p ɔ r t a f o r t u n a"],
-  "portafusibile": ["p ɔ r t a f u z i b i l e"],
-  "portafusibili": ["p ɔ r t a f u z i b i l i"],
-  "portalampada": ["p ɔ r t a l a m p a d a"],
-  "portale": ["p o r t a l e"],
-  "portalettere": ["p o s t i n o", "p ɔ r t a l e tː e r e", "p ɔ r t a l ɛ tː e r e"],
-  "portali": ["p o r t a l i", "p ɔ r t a l i"],
-  "portamento": ["p o r t a m e n t o"],
-  "portamina": ["p o r t a m i n a"],
-  "portamonete": ["p o r t a m o n e t e"],
-  "portante": ["p ɔ r t a n t e"],
-  "portanti": ["p ɔ r t a n t i"],
-  "portanza": ["p o r t a n t s a"],
-  "portanze": ["p o r t a n t s e"],
-  "portaordini": ["p ɔ r t a o r d i n i"],
-  "portapezzo": ["p o r t a p ɛ tː s o"],
-  "portare": ["p o r t a r e", "p ɔ r t a r e"],
-  "portarsi": ["p o r t a r s i"],
-  "portastendardo": ["p o r t a s t e n d a r d o"],
-  "portata": ["p o r t a t a", "p ɔ r t a t a"],
-  "portatessera": ["p o r t a t ɛ sː e r a"],
-  "portatessere": ["p o r t a t ɛ sː e r e"],
-  "portatile": ["p o r t a t i l e"],
-  "portatili": ["p o r t a t i l i"],
-  "portato": ["p o r t a t o", "p ɔ r t a t o"],
-  "portatore": ["p o r t a t o r e"],
-  "portatori": ["p o r t a t o r i"],
-  "portatovagliolo": ["p o r t a t o v a ʎ o l o"],
-  "portatrice": ["p o r t a t r i t ʃ e"],
-  "portatrici": ["p o r t a t r i t ʃ i"],
-  "portauova": ["p o r t a w ɔ v a"],
-  "portauovo": ["p o r t a w ɔ v o", "p ɔ r t a w ɔ v o"],
-  "portavoce": ["p o r t a v o t ʃ e"],
-  "porte": ["p ɔ r t e"],
-  "portello": ["p o r t ɛ lː o"],
-  "portento": ["p o r t ɛ n t o"],
-  "portentosa": ["p o r t e n t o s a", "p o r t e n t o z a"],
-  "portentose": ["p o r t e n t o s e", "p o r t e n t o z e"],
-  "portentosi": ["p o r t e n t o s i", "p o r t e n t o z i"],
-  "portentoso": ["p o r t e n t o s o", "p o r t e n t o z o"],
-  "porterò": ["p o r t e r ɔ"],
-  "portici": ["p ɔ r t i k o"],
-  "porticina": ["p o r t i t ʃ i n a"],
-  "portico": ["p ɔ r t i k o"],
-  "portiera": ["p o r t j ɛ r a", "p ɔ r t j ɛ r a"],
-  "portiere": ["p o r t j ɛ r e", "p ɔ r t j ɛ r e"],
-  "portieri": ["p ɔ r t j ɛ r i"],
-  "portinai": ["p o r t i n a i"],
-  "portinaia": ["p o r t i n a j a"],
-  "portinaie": ["p o r t i n a j e"],
-  "portinaio": ["p o r t i n a j o"],
-  "porto": ["p ɔ r t o", "p ɔ r t ɔ"],
-  "portoferraio": ["p ɔ r t o f e rː a j o"],
-  "portogallo": ["p o r t o ɡ a lː o"],
-  "portoghese": ["p o r t o ɡ e s e", "p o r t o ɡ e z e", "p o r t o ɡ ɛ z e"],
-  "portoghesi": ["p o r t o ɡ ɛ z e"],
-  "portolano": ["p o r t o l a n o"],
-  "portone": ["p o r t o n e"],
-  "portorico": ["p o r t o r i k o"],
-  "portuale": ["p o r t u a l e", "p o r t w a l e"],
-  "portuali": ["p o r t u a l i"],
-  "porzana": ["p o r t s a n a"],
-  "porzionare": ["p o r t s j o n a r e"],
-  "porzione": ["p o r t s j o n e", "p ɔ r t s j ɔ n e"],
-  "porzioni": ["p ɔ r t s j ɔ n i"],
-  "posa": ["p ɔ z a"],
-  "posacenere": ["p o s a t ʃ e n e r e", "p ɔ s a t ʃ e n e r e", "p ɔ z a t ʃ e n e r e"],
-  "posada": ["p o s a d a"],
-  "posade": ["p o s a d e"],
-  "posare": ["p o s a r e", "p ɔ z a r e"],
-  "posata": ["p o s a t a"],
-  "posato": ["p o z a t o"],
-  "posatubi": ["p o s a t u b i", "p o z a t u b i"],
-  "poscia": ["p ɔ ʃ ʃ a"],
-  "poscondola": ["p o s k o n d o l a"],
-  "poscrai": ["p o s k r a i"],
-  "posdatante": ["p o ʃ d a t a n t e"],
-  "posdatare": ["p o ʃ d a t a r e"],
-  "posdatato": ["p o ʃ d a t a t o"],
-  "posdatazione": ["p o ʃ d a t a t s j o n e"],
-  "posdatazioni": ["p o ʃ d a t a t s j o n i"],
-  "posdiluviano": ["p ɔ z d i l u v j a n o"],
-  "posdomani": ["p ɔ s d ɔ m a n i", "p ɔ z d o m a n i"],
-  "pose": ["p o s e", "p ɔ s a"],
-  "posero": ["p o s e r o"],
-  "posi": ["p o s i"],
-  "positio": ["p o z i tː s j o"],
-  "positiva": ["p o z i t i v a"],
-  "positivamente": ["p o z i t i v a m e n t e"],
-  "positivismi": ["p o z i t i v i z m i"],
-  "positivismo": ["p o z i t i v i z m o"],
-  "positivista": ["p o z i t i v i s t a"],
-  "positività": ["p o z i t i v i t a"],
-  "positivo": ["p o z i t i v o"],
-  "positrone": ["p o z i t r o n e"],
-  "posizionale": ["p o z i tː s j o n a l e"],
-  "posizionali": ["p o z i tː s j o n a l i"],
-  "posizionamenti": ["p o z i t s j o n a m e n t i"],
-  "posizionamento": ["p o z i t s j o n a m e n t o"],
-  "posizionare": ["p o z i tː s j o n a r e"],
-  "posizione": ["p o z i t s j o n e", "p o z i tː s j o n e"],
-  "posizioni": ["p o z i t s j o n i"],
-  "poso": ["p ɔ s o"],
-  "posologia": ["p o z o l o d ʒ i a"],
-  "posologica": ["p o z o l ɔ d ʒ i k a"],
-  "posologiche": ["p o z o l ɔ d ʒ i k e"],
-  "posologici": ["p o z o l ɔ d ʒ i t ʃ i"],
-  "posologico": ["p o z o l ɔ d ʒ i k o"],
-  "pospone": ["p o s p o n e"],
-  "posponemmo": ["p o s p o n e mː o"],
-  "posponendo": ["p o s p o n e n d o"],
-  "posponente": ["p o s p o n e n t e"],
-  "posponesse": ["p o s p o n e sː e"],
-  "posponessero": ["p o s p o n e sː e r o"],
-  "posponessi": ["p o s p o n e sː i"],
-  "posponessimo": ["p o s p o n e sː i m o"],
-  "posponeste": ["p o s p o nː e s t e"],
-  "posponesti": ["p o s p o n e s t i"],
-  "posponete": ["p o s p o n e t e"],
-  "posponeva": ["p o s p o n e v a"],
-  "posponevamo": ["p o s p o n e v a m o"],
-  "posponevano": ["p o s p o n e v a n o"],
-  "posponevate": ["p o s p o n e v a t e"],
-  "posponevi": ["p o s p o n e v i"],
-  "posponga": ["p o s p o n ɡ a"],
-  "pospongano": ["p o s p o n ɡ a n o"],
-  "pospongo": ["p o s p o n ɡ o"],
-  "pospongono": ["p o s p o n ɡ o n o"],
-  "posponi": ["p o s p o n i"],
-  "posponiamo": ["p o s p o n j a m o"],
-  "posponiate": ["p o s p o n j a t e"],
-  "posporrà": ["p o rː a"],
-  "posporrai": ["p o s p o rː a i"],
-  "posporranno": ["p o s p o rː a nː o"],
-  "posporre": ["p o s p o rː e"],
-  "posporrebbe": ["p o s p o rː e bː e"],
-  "posporrebbero": ["p o s p o rː e bː e r o"],
-  "posporrei": ["p o s p o rː e i"],
-  "posporremmo": ["p o s p o rː e m o"],
-  "posporremo": ["p o s p o rː e m o"],
-  "posporreste": ["p o s p o rː e s t e"],
-  "posporresti": ["p o s p o rː e s t i"],
-  "posporrete": ["p o s p o rː e t e"],
-  "posporrò": ["p o s p o rː o"],
-  "pospose": ["p o s p o s e"],
-  "posposero": ["p o s p o s e r o"],
-  "posposi": ["p o s p o s i"],
-  "posposizione": ["p o s p o z i t s j o n e"],
-  "posposizioni": ["p o s p o z i t s j o n i"],
-  "posposta": ["p o s p o s t a"],
-  "posposte": ["p o s p o s t e"],
-  "posposti": ["p o s p o s t i"],
-  "posposto": ["p o s p o s t o"],
-  "possa": ["p o sː a", "p ɔ sː a"],
-  "possano": ["p o sː a n o"],
-  "possedere": ["p o sː e d e r e", "p ɔ sː ɛ d ɛ r e"],
-  "possedimenti": ["p o sː e d i m e n t i"],
-  "possedimento": ["p o sː e d i m e n t o"],
-  "possente": ["p o sː ɛ n t e"],
-  "possessi": ["p ɔ sː ɛ sː i"],
-  "possessione": ["p o sː e sː j o n e"],
-  "possessivo": ["p o sː e sː i v o"],
-  "possesso": ["p o sː ɛ sː o", "p ɔ sː ɛ sː ɔ"],
-  "possiamo": ["p o sː i a m o", "p o sː j a m o"],
-  "possiate": ["p o t j a t e"],
-  "possibile": ["p o sː i b i l e", "p ɔ sː i b i l e"],
-  "possibili": ["p ɔ sː i b i l i"],
-  "possibilismo": ["p o sː i b i l i z m o"],
-  "possibilissima": ["p ɔ sː i b i l i sː i m a"],
-  "possibilissime": ["p ɔ sː i b i l i sː i m e"],
-  "possibilissimi": ["p ɔ sː i b i l i sː i m i"],
-  "possibilissimo": ["p ɔ sː i b i l i sː i m o"],
-  "possibilista": ["p o sː i b i l i s t a"],
-  "possibilità": ["p o sː i b i l i t a"],
-  "possibilmente": ["p o sː i b i l m e n t e"],
-  "posso": ["p o sː o", "p ɔ sː o"],
-  "possono": ["p o sː o n o"],
-  "possum": ["p ɔ sː u m"],
-  "posta": ["p o s t a", "p ɔ s t a"],
-  "postagiro": ["p o s t a d ʒ i r o"],
-  "postale": ["p o s t a l e"],
-  "postali": ["p o s t a l i"],
-  "postalveolare": ["p o s t a l v e o l a r e", "p ɔ s t a l v e o l a r e"],
-  "postare": ["p o s t a r e"],
-  "postazione": ["p o s t a tː s j o n e"],
-  "postclassico": ["p o s k l a sː i k o", "p o s t k l a sː i k o"],
-  "postcoloniale": ["p o s t k o l o n j a l e"],
-  "postcoloniali": ["p o s t k o l o n j a l i"],
-  "postcolonialismi": ["p o s t k o l o n j a l i z m i"],
-  "postcolonialismo": ["p o s t k o l o n j a l i z m o"],
-  "postcolonialista": ["p o s t k o l o n j a l i s t a"],
-  "postcolonialiste": ["p o s t k o l o n j a l i s t e"],
-  "postcolonialisti": ["p o s t k o l o n j a l i s t i"],
-  "postcommunio": ["p o s k o mː u n j o", "p o s t k o mː u n j o"],
-  "postcomunismo": ["p ɔ s t k o m u n i z m o"],
-  "postcomunista": ["p o s t k o m u n i s t a"],
-  "postcomuniste": ["p o s t k o m u n i s t e"],
-  "postcomunisti": ["p o s t k o m u n i s t i"],
-  "postconsonantico": ["p ɔ s t k o n s o n a n t i k o"],
-  "postdatante": ["p o s t d a t a n t e"],
-  "postdatare": ["p o s t d a t a r e"],
-  "postdatato": ["p o s t d a t a t o"],
-  "postdatazione": ["p o s t d a t a t s j o n e"],
-  "postdatazioni": ["p o s t d a t a t s j o n i"],
-  "postdiluviale": ["p ɔ s d i l u v j a l e", "p ɔ z d i l u v j a l e"],
-  "postdiluviano": ["p ɔ s d i l u v j a n o", "p ɔ z d i l u v j a n o"],
-  "poste": ["p o s t e"],
-  "posteggiare": ["p ɔ s t e dː ʒ a r e"],
-  "posteggiato": ["p ɔ s t e dː ʒ a t o"],
-  "posteggio": ["p o s t e dː ʒ o"],
-  "poster": ["p o"],
-  "posteriore": ["p o s t e r j o r e"],
-  "posteriormente": ["p o s t e r j o r m e n t e"],
-  "posterità": ["p o s t e r i t a"],
-  "postero": ["p ɔ s t e r o"],
-  "posterpetica": ["p o s t e r p ɛ t i k a"],
-  "posterpetiche": ["p o s t e r p ɛ t i k e"],
-  "posterpetici": ["p o s t e r p ɛ t i t ʃ i"],
-  "posterpetico": ["p o s t e r p ɛ t i k o"],
-  "postfascismo": ["p ɔ s t f a ʃ ʃ i z m o"],
-  "postfazione": ["p ɔ s t f a tː s j o n e"],
-  "posti": ["p o s t i"],
-  "posticce": ["p o s t i tː ʃ e"],
-  "posticci": ["p o s t i tː ʃ i"],
-  "posticcia": ["p o s t i tː ʃ a"],
-  "posticcio": ["p o s t i tː ʃ o"],
-  "posticipare": ["p o s t i t ʃ i p a r e"],
-  "posticipazione": ["p o s t i t ʃ i p a t s i o n e"],
-  "postiglione": ["p o s t i ʎ o n e"],
-  "postilla": ["p o s t i lː a"],
-  "postillatore": ["p o s t i lː a t o r e"],
-  "postina": ["p o s t i n a"],
-  "postine": ["p o s t i n e"],
-  "postini": ["p o s t i n i"],
-  "postino": ["p o s t i n o"],
-  "postliminio": ["p o s t l i m i n j o"],
-  "postludio": ["p o s t l u d j o"],
-  "postmodernismo": ["p ɔ s t m o d e r n i z m o"],
-  "postmodernista": ["p o s t m o d e r n i s t a"],
-  "postmoderniste": ["p o s t m o d e r n i s t e"],
-  "postmodernisti": ["p o s t m o d e r n i s t i"],
-  "postmoderno": ["p o s t m o d ɛ r n o"],
-  "postnatale": ["p o s t n a t a l e"],
-  "postnatali": ["p o s t n a t a l i"],
-  "posto": ["p o s t o", "p ɔ s t o"],
-  "postonica": ["p o s t ɔ n i k a"],
-  "postoniche": ["p o s t ɔ n i k e"],
-  "postonici": ["p o s t ɔ n i t ʃ i"],
-  "postonico": ["p o s t ɔ n i k o", "p ɔ s t ɔ n i k o"],
-  "postoperatori": ["p o s t o p e r a t ɔ r i"],
-  "postoperatoria": ["p o s t o p e r a t ɔ r j a"],
-  "postoperatorie": ["p o s t o p e r a t ɔ r j e"],
-  "postoperatorio": ["p o s t o p e r a t ɔ r j o"],
-  "postprandiale": ["p ɔ s t p r a n d j a l e"],
-  "postremo": ["p o s t r ɛ m o"],
-  "postriboli": ["p o s t r i b o l i"],
-  "postribolo": ["p o s t r i b o l o"],
-  "postrisorgimento": ["p ɔ s t r i s o r d ʒ i m e n t o"],
-  "postrivoluzionari": ["p ɔ s t r i v o l u t s j o n a r i"],
-  "postrivoluzionaria": ["p ɔ s t r i v o l u t s j o n a r j a"],
-  "postrivoluzionarie": ["p ɔ s t r i v o l u t s j o n a r j e"],
-  "postrivoluzionario": ["p ɔ s t r i v o l u t s j o n a r j o"],
-  "postromantica": ["p o s t r o m a n t i k a"],
-  "postromantiche": ["p o s t r o m a n t i k a", "p o s t r o m a n t i k e"],
-  "postromantici": ["p o s t r o m a n t i t ʃ i"],
-  "postromantico": ["p o s t r o m a n t i k o"],
-  "postscriptum": ["p o s t s k r i p t u m"],
-  "postulante": ["p o s t u l a n t e"],
-  "postulare": ["p o s t u l a r e"],
-  "postulato": ["p o s t u l a t o"],
-  "postuma": ["p ɔ s t u m a"],
-  "postume": ["p ɔ s t u m e"],
-  "postumi": ["p ɔ s t u m i"],
-  "postumo": ["p ɔ s t u m o"],
-  "postuniversitari": ["p o s t u n i v e r s i t a r i"],
-  "postuniversitaria": ["p o s t u n i v e r s i t a r j a"],
-  "postuniversitarie": ["p o s t u n i v e r s i t a r j e"],
-  "postuniversitario": ["p o s t u n i v e r s i t a r j o"],
-  "postura": ["p o s t u r a"],
-  "postvaccinica": ["p ɔ s t v a tː ʃ i n i k a"],
-  "postvacciniche": ["p ɔ s t v a tː ʃ i n i k e"],
-  "postvaccinici": ["p ɔ s t v a tː ʃ i n i t ʃ i"],
-  "postvaccinico": ["p ɔ s t v a tː ʃ i n i k o"],
-  "postvulcanica": ["p o s t v u l k a n i k a"],
-  "postvulcaniche": ["p o s t v u l k a n i k e"],
-  "postvulcanici": ["p o s t v u l k a n i t ʃ i"],
-  "postvulcanico": ["p o s t v u l k a n i k o"],
-  "pota": ["p o t a"],
-  "potabile": ["p o t a b i l e", "p ɔ t a b i l e"],
-  "potabili": ["p ɔ t a b i l i"],
-  "potabilizzare": ["p o t a b i l i dː z a r e"],
-  "potabilizzato": ["p o t a b i l i dː z a t o"],
-  "potamochero": ["p o t a m o k ɛ r o"],
-  "potamogale": ["p o t a m ɔ ɡ a l e"],
-  "potamogalidi": ["p o t a m o ɡ a l i d i"],
-  "potamogeti": ["p o t a m o d ʒ ɛ t i"],
-  "potamogeto": ["p o t a m o d ʒ ɛ t o"],
-  "potamogetone": ["p o t a m o d ʒ ɛ t o n e"],
-  "potamogetoni": ["p o t a m o d ʒ ɛ t o n i"],
-  "potare": ["p o t a r e"],
-  "potassa": ["p o t a sː a"],
-  "potassica": ["p o t a sː i k a"],
-  "potassiche": ["p o t a sː i k e"],
-  "potassici": ["p o t a sː i t ʃ i"],
-  "potassico": ["p o t a sː i k o"],
-  "potassio": ["p o t a sː j o", "p ɔ t a sː j ɔ"],
-  "potata": ["p o t a t a"],
-  "potate": ["p o t a t e"],
-  "potati": ["p o t a t i"],
-  "potato": ["p o t a t o"],
-  "potatura": ["p o t a t u r a"],
-  "poté": ["p o t e"],
-  "potei": ["p o t e i"],
-  "potemmo": ["p o t a mː o"],
-  "potendo": ["p o t e n d o"],
-  "potente": ["p o t e n t e", "p o t ɛ n t e"],
-  "potentemente": ["p o t e n t e m e n t e"],
-  "potenti": ["p o t e n t i"],
-  "potentissima": ["p o t e n t i sː i m a"],
-  "potentissime": ["p o t e n t i sː i m e"],
-  "potentissimi": ["p o t e n t i sː i m i"],
-  "potentissimo": ["p o t e n t i sː i m o"],
-  "potenza": ["p o t ɛ n t s a"]
+  "ponentino": [
+    "ponentino"
+  ],
+  "ponere": [
+    "ponere"
+  ],
+  "ponesse": [
+    "ponesːe"
+  ],
+  "ponessero": [
+    "ponesːero"
+  ],
+  "ponessi": [
+    "ponesːi"
+  ],
+  "ponessimo": [
+    "ponesːimo"
+  ],
+  "poneste": [
+    "ponːeste"
+  ],
+  "ponesti": [
+    "ponesti"
+  ],
+  "ponete": [
+    "ponete"
+  ],
+  "poneva": [
+    "poneva"
+  ],
+  "ponevamo": [
+    "ponevamo"
+  ],
+  "ponevano": [
+    "ponevano"
+  ],
+  "ponevate": [
+    "ponevate"
+  ],
+  "ponevi": [
+    "ponevi"
+  ],
+  "ponevo": [
+    "ponevo"
+  ],
+  "ponga": [
+    "ponɡa"
+  ],
+  "pongano": [
+    "ponɡano"
+  ],
+  "ponghi": [
+    "pɔnɡi"
+  ],
+  "pongide": [
+    "pɔndʒide"
+  ],
+  "pongo": [
+    "ponɡo",
+    "poɲɡo",
+    "pɔnɡo",
+    "pɔɲɡo"
+  ],
+  "pongono": [
+    "ponɡono"
+  ],
+  "poni": [
+    "poni"
+  ],
+  "poniamo": [
+    "ponjamo"
+  ],
+  "poniate": [
+    "ponjate"
+  ],
+  "pontbosetano": [
+    "pontbozetano"
+  ],
+  "ponte": [
+    "ponte",
+    "pɔnte"
+  ],
+  "ponteacchese": [
+    "ponteakːes",
+    "ponteakːeze"
+  ],
+  "ponteficale": [
+    "pontefikale"
+  ],
+  "pontefice": [
+    "pontefitʃe"
+  ],
+  "pontefici": [
+    "pontefitʃi"
+  ],
+  "ponteggio": [
+    "pontedːʒo"
+  ],
+  "ponti": [
+    "ponti",
+    "pɔnti"
+  ],
+  "ponticello": [
+    "pontitʃɛlːo"
+  ],
+  "ponticino": [
+    "pontitʃino"
+  ],
+  "pontificale": [
+    "pontifikale"
+  ],
+  "pontificalmente": [
+    "pontifikalmente"
+  ],
+  "pontificare": [
+    "pontifikare"
+  ],
+  "pontificato": [
+    "pontifikato"
+  ],
+  "pontifici": [
+    "pontifitʃi"
+  ],
+  "pontificia": [
+    "pontifitʃa"
+  ],
+  "pontificie": [
+    "pontifitʃe"
+  ],
+  "pontificio": [
+    "pontifitʃo"
+  ],
+  "pontile": [
+    "pontile"
+  ],
+  "ponto": [
+    "pɔnto"
+  ],
+  "pony": [
+    "pɔni"
+  ],
+  "ponzare": [
+    "pontsare"
+  ],
+  "popcorn": [
+    "popkɔrn"
+  ],
+  "pope": [
+    "pɔpe"
+  ],
+  "popeline": [
+    "popeline"
+  ],
+  "poplite": [
+    "pɔplite"
+  ],
+  "popò": [
+    "popɔ"
+  ],
+  "popolamenti": [
+    "popolamenti"
+  ],
+  "popolamento": [
+    "popolamento"
+  ],
+  "popolano": [
+    "popolano",
+    "pɔpolano"
+  ],
+  "popolare": [
+    "popolare"
+  ],
+  "popolaresco": [
+    "popolaresko"
+  ],
+  "popolari": [
+    "popolari"
+  ],
+  "popolarismo": [
+    "popolarizmo"
+  ],
+  "popolarissima": [
+    "popolarisːima"
+  ],
+  "popolarissime": [
+    "popolarisːime"
+  ],
+  "popolarissimi": [
+    "popolarisːimi"
+  ],
+  "popolarissimo": [
+    "popolarisːimo"
+  ],
+  "popolarità": [
+    "popolarita"
+  ],
+  "popolarizzare": [
+    "popolaridːzare"
+  ],
+  "popolarmente": [
+    "popolarmente"
+  ],
+  "popolazione": [
+    "popolatsjone"
+  ],
+  "popolazioni": [
+    "popolatsjoni"
+  ],
+  "popolazzo": [
+    "popolatːso"
+  ],
+  "popoli": [
+    "pɔpoli"
+  ],
+  "popolino": [
+    "popolino",
+    "pɔpolino"
+  ],
+  "popolo": [
+    "pɔpolo"
+  ],
+  "popoloso": [
+    "popolozo"
+  ],
+  "popone": [
+    "popone"
+  ],
+  "poppa": [
+    "popːa"
+  ],
+  "poppante": [
+    "popːante"
+  ],
+  "poppanti": [
+    "popːanti"
+  ],
+  "poppare": [
+    "popːare"
+  ],
+  "poppata": [
+    "popːata"
+  ],
+  "poppate": [
+    "popːate"
+  ],
+  "poppato": [
+    "popːato"
+  ],
+  "poppatoio": [
+    "popːatojo"
+  ],
+  "poppe": [
+    "popːe"
+  ],
+  "poppi": [
+    "popːi"
+  ],
+  "poppiero": [
+    "popːjɛro"
+  ],
+  "populazione": [
+    "pɔpulatsjɔne"
+  ],
+  "populismo": [
+    "populizmo"
+  ],
+  "populista": [
+    "populista"
+  ],
+  "populiste": [
+    "populiste"
+  ],
+  "populisti": [
+    "populisti"
+  ],
+  "populistico": [
+    "populistiko"
+  ],
+  "porca": [
+    "pɔrka"
+  ],
+  "porcaio": [
+    "porkajo"
+  ],
+  "porcareccia": [
+    "porkaretːʃa"
+  ],
+  "porcaro": [
+    "porkaro"
+  ],
+  "porcella": [
+    "portʃɛlːa"
+  ],
+  "porcellana": [
+    "portʃelːana"
+  ],
+  "porcellane": [
+    "portʃelːane"
+  ],
+  "porcellino": [
+    "portʃelːino"
+  ],
+  "porcello": [
+    "portʃɛlːo"
+  ],
+  "porchereccia": [
+    "porkeretːʃa"
+  ],
+  "porchereccio": [
+    "porkeretːʃo"
+  ],
+  "porcheria": [
+    "porkeria"
+  ],
+  "porchetta": [
+    "porketːa"
+  ],
+  "porciglione": [
+    "portʃiʎone"
+  ],
+  "porcile": [
+    "portʃile"
+  ],
+  "porcina": [
+    "portʃina"
+  ],
+  "porcine": [
+    "portʃine"
+  ],
+  "porcini": [
+    "portʃini"
+  ],
+  "porcino": [
+    "portʃino"
+  ],
+  "porco": [
+    "pɔrko",
+    "pɔrkɔ"
+  ],
+  "porcocervo": [
+    "porkotʃɛrvo"
+  ],
+  "porcospini": [
+    "porkospini"
+  ],
+  "porcospino": [
+    "porkospino",
+    "pɔrkospino"
+  ],
+  "porfido": [
+    "pɔrfido"
+  ],
+  "porfirico": [
+    "porfiriko"
+  ],
+  "porfiro": [
+    "pɔrfiro"
+  ],
+  "porfiroblastico": [
+    "porfiroblastiko"
+  ],
+  "porfiroclastico": [
+    "porfiroklastiko"
+  ],
+  "porfirogenito": [
+    "porfirodʒɛnito"
+  ],
+  "porgere": [
+    "pɔrdʒere"
+  ],
+  "poriferi": [
+    "poriferi"
+  ],
+  "porno": [
+    "pɔrno"
+  ],
+  "pornodiva": [
+    "pornodiva"
+  ],
+  "pornodivo": [
+    "pɔrnodivo"
+  ],
+  "pornografa": [
+    "pornoɡrafa"
+  ],
+  "pornografe": [
+    "pornoɡrafe"
+  ],
+  "pornografi": [
+    "pornoɡrafi"
+  ],
+  "pornografia": [
+    "pornoɡrafia"
+  ],
+  "pornografica": [
+    "pornoɡrafika"
+  ],
+  "pornograficamente": [
+    "pornoɡrafikamente"
+  ],
+  "pornografico": [
+    "pornoɡrafiko",
+    "pɔrnoɡrafiko"
+  ],
+  "pornografo": [
+    "pornoɡrafo"
+  ],
+  "pornostar": [
+    "pɔrnostar"
+  ],
+  "poro": [
+    "pɔro"
+  ],
+  "poroelasticità": [
+    "pɔroelastitʃita"
+  ],
+  "porosimetri": [
+    "porozimetri"
+  ],
+  "porosimetro": [
+    "porozimetro"
+  ],
+  "porosità": [
+    "porozita"
+  ],
+  "porpora": [
+    "porpora"
+  ],
+  "porrà": [
+    "porːa"
+  ],
+  "porraccio": [
+    "porːatːʃo"
+  ],
+  "porrai": [
+    "porːai"
+  ],
+  "porrandello": [
+    "porːandɛlːo"
+  ],
+  "porranno": [
+    "porːanːo"
+  ],
+  "porrazzo": [
+    "porːatːso"
+  ],
+  "porre": [
+    "porːe"
+  ],
+  "porrebbe": [
+    "porːebːe"
+  ],
+  "porrebbero": [
+    "porːebːero"
+  ],
+  "porrei": [
+    "porːei"
+  ],
+  "porremmo": [
+    "porːemo"
+  ],
+  "porremo": [
+    "porːemo"
+  ],
+  "porreste": [
+    "porːeste"
+  ],
+  "porresti": [
+    "porːesti"
+  ],
+  "porrete": [
+    "porːete"
+  ],
+  "porri": [
+    "pɔrːi"
+  ],
+  "porro": [
+    "pɔrːo"
+  ],
+  "porrò": [
+    "porːo"
+  ],
+  "porsi": [
+    "porsi"
+  ],
+  "porta": [
+    "pɔrta"
+  ],
+  "portaacqua": [
+    "portaakːwa"
+  ],
+  "portabandiera": [
+    "portabandjɛra"
+  ],
+  "portabile": [
+    "portabile"
+  ],
+  "portabili": [
+    "portabili"
+  ],
+  "portabollo": [
+    "portabolːo"
+  ],
+  "portabombe": [
+    "pɔrtabombe"
+  ],
+  "portaborse": [
+    "pɔrtaborse"
+  ],
+  "portaburro": [
+    "portaburːo"
+  ],
+  "portacenere": [
+    "portatʃenere",
+    "pɔrtatʃenere"
+  ],
+  "portachiavi": [
+    "portakjavi"
+  ],
+  "portacolori": [
+    "pɔrtakolori"
+  ],
+  "portacorrente": [
+    "pɔrtakorːɛnte"
+  ],
+  "portacqua": [
+    "portakːwa"
+  ],
+  "portacroce": [
+    "portakrotʃe"
+  ],
+  "portaerei": [
+    "portaɛrei"
+  ],
+  "portafango": [
+    "portafanɡo"
+  ],
+  "portafogli": [
+    "portafɔʎi",
+    "pɔrtafɔʎi"
+  ],
+  "portafoglio": [
+    "portafɔʎo"
+  ],
+  "portafortuna": [
+    "portafortuna",
+    "pɔrtafortuna"
+  ],
+  "portafusibile": [
+    "pɔrtafuzibile"
+  ],
+  "portafusibili": [
+    "pɔrtafuzibili"
+  ],
+  "portalampada": [
+    "pɔrtalampada"
+  ],
+  "portale": [
+    "portale"
+  ],
+  "portalettere": [
+    "postino",
+    "pɔrtaletːere",
+    "pɔrtalɛtːere"
+  ],
+  "portali": [
+    "portali",
+    "pɔrtali"
+  ],
+  "portamento": [
+    "portamento"
+  ],
+  "portamina": [
+    "portamina"
+  ],
+  "portamonete": [
+    "portamonete"
+  ],
+  "portante": [
+    "pɔrtante"
+  ],
+  "portanti": [
+    "pɔrtanti"
+  ],
+  "portanza": [
+    "portantsa"
+  ],
+  "portanze": [
+    "portantse"
+  ],
+  "portaordini": [
+    "pɔrtaordini"
+  ],
+  "portapezzo": [
+    "portapɛtːso"
+  ],
+  "portare": [
+    "portare",
+    "pɔrtare"
+  ],
+  "portarsi": [
+    "portarsi"
+  ],
+  "portastendardo": [
+    "portastendardo"
+  ],
+  "portata": [
+    "portata",
+    "pɔrtata"
+  ],
+  "portatessera": [
+    "portatɛsːera"
+  ],
+  "portatessere": [
+    "portatɛsːere"
+  ],
+  "portatile": [
+    "portatile"
+  ],
+  "portatili": [
+    "portatili"
+  ],
+  "portato": [
+    "portato",
+    "pɔrtato"
+  ],
+  "portatore": [
+    "portatore"
+  ],
+  "portatori": [
+    "portatori"
+  ],
+  "portatovagliolo": [
+    "portatovaʎolo"
+  ],
+  "portatrice": [
+    "portatritʃe"
+  ],
+  "portatrici": [
+    "portatritʃi"
+  ],
+  "portauova": [
+    "portawɔva"
+  ],
+  "portauovo": [
+    "portawɔvo",
+    "pɔrtawɔvo"
+  ],
+  "portavoce": [
+    "portavotʃe"
+  ],
+  "porte": [
+    "pɔrte"
+  ],
+  "portello": [
+    "portɛlːo"
+  ],
+  "portento": [
+    "portɛnto"
+  ],
+  "portentosa": [
+    "portentosa",
+    "portentoza"
+  ],
+  "portentose": [
+    "portentose",
+    "portentoze"
+  ],
+  "portentosi": [
+    "portentosi",
+    "portentozi"
+  ],
+  "portentoso": [
+    "portentoso",
+    "portentozo"
+  ],
+  "porterò": [
+    "porterɔ"
+  ],
+  "portici": [
+    "pɔrtiko"
+  ],
+  "porticina": [
+    "portitʃina"
+  ],
+  "portico": [
+    "pɔrtiko"
+  ],
+  "portiera": [
+    "portjɛra",
+    "pɔrtjɛra"
+  ],
+  "portiere": [
+    "portjɛre",
+    "pɔrtjɛre"
+  ],
+  "portieri": [
+    "pɔrtjɛri"
+  ],
+  "portinai": [
+    "portinai"
+  ],
+  "portinaia": [
+    "portinaja"
+  ],
+  "portinaie": [
+    "portinaje"
+  ],
+  "portinaio": [
+    "portinajo"
+  ],
+  "porto": [
+    "pɔrto",
+    "pɔrtɔ"
+  ],
+  "portoferraio": [
+    "pɔrtoferːajo"
+  ],
+  "portogallo": [
+    "portoɡalːo"
+  ],
+  "portoghese": [
+    "portoɡese",
+    "portoɡeze",
+    "portoɡɛze"
+  ],
+  "portoghesi": [
+    "portoɡɛze"
+  ],
+  "portolano": [
+    "portolano"
+  ],
+  "portone": [
+    "portone"
+  ],
+  "portorico": [
+    "portoriko"
+  ],
+  "portuale": [
+    "portuale",
+    "portwale"
+  ],
+  "portuali": [
+    "portuali"
+  ],
+  "porzana": [
+    "portsana"
+  ],
+  "porzionare": [
+    "portsjonare"
+  ],
+  "porzione": [
+    "portsjone",
+    "pɔrtsjɔne"
+  ],
+  "porzioni": [
+    "pɔrtsjɔni"
+  ],
+  "posa": [
+    "pɔza"
+  ],
+  "posacenere": [
+    "posatʃenere",
+    "pɔsatʃenere",
+    "pɔzatʃenere"
+  ],
+  "posada": [
+    "posada"
+  ],
+  "posade": [
+    "posade"
+  ],
+  "posare": [
+    "posare",
+    "pɔzare"
+  ],
+  "posata": [
+    "posata"
+  ],
+  "posato": [
+    "pozato"
+  ],
+  "posatubi": [
+    "posatubi",
+    "pozatubi"
+  ],
+  "poscia": [
+    "pɔʃʃa"
+  ],
+  "poscondola": [
+    "poskondola"
+  ],
+  "poscrai": [
+    "poskrai"
+  ],
+  "posdatante": [
+    "poʃdatante"
+  ],
+  "posdatare": [
+    "poʃdatare"
+  ],
+  "posdatato": [
+    "poʃdatato"
+  ],
+  "posdatazione": [
+    "poʃdatatsjone"
+  ],
+  "posdatazioni": [
+    "poʃdatatsjoni"
+  ],
+  "posdiluviano": [
+    "pɔzdiluvjano"
+  ],
+  "posdomani": [
+    "pɔsdɔmani",
+    "pɔzdomani"
+  ],
+  "pose": [
+    "pose",
+    "pɔsa"
+  ],
+  "posero": [
+    "posero"
+  ],
+  "posi": [
+    "posi"
+  ],
+  "positio": [
+    "pozitːsjo"
+  ],
+  "positiva": [
+    "pozitiva"
+  ],
+  "positivamente": [
+    "pozitivamente"
+  ],
+  "positivismi": [
+    "pozitivizmi"
+  ],
+  "positivismo": [
+    "pozitivizmo"
+  ],
+  "positivista": [
+    "pozitivista"
+  ],
+  "positività": [
+    "pozitivita"
+  ],
+  "positivo": [
+    "pozitivo"
+  ],
+  "positrone": [
+    "pozitrone"
+  ],
+  "posizionale": [
+    "pozitːsjonale"
+  ],
+  "posizionali": [
+    "pozitːsjonali"
+  ],
+  "posizionamenti": [
+    "pozitsjonamenti"
+  ],
+  "posizionamento": [
+    "pozitsjonamento"
+  ],
+  "posizionare": [
+    "pozitːsjonare"
+  ],
+  "posizione": [
+    "pozitsjone",
+    "pozitːsjone"
+  ],
+  "posizioni": [
+    "pozitsjoni"
+  ],
+  "poso": [
+    "pɔso"
+  ],
+  "posologia": [
+    "pozolodʒia"
+  ],
+  "posologica": [
+    "pozolɔdʒika"
+  ],
+  "posologiche": [
+    "pozolɔdʒike"
+  ],
+  "posologici": [
+    "pozolɔdʒitʃi"
+  ],
+  "posologico": [
+    "pozolɔdʒiko"
+  ],
+  "pospone": [
+    "pospone"
+  ],
+  "posponemmo": [
+    "posponemːo"
+  ],
+  "posponendo": [
+    "posponendo"
+  ],
+  "posponente": [
+    "posponente"
+  ],
+  "posponesse": [
+    "posponesːe"
+  ],
+  "posponessero": [
+    "posponesːero"
+  ],
+  "posponessi": [
+    "posponesːi"
+  ],
+  "posponessimo": [
+    "posponesːimo"
+  ],
+  "posponeste": [
+    "posponːeste"
+  ],
+  "posponesti": [
+    "posponesti"
+  ],
+  "posponete": [
+    "posponete"
+  ],
+  "posponeva": [
+    "posponeva"
+  ],
+  "posponevamo": [
+    "posponevamo"
+  ],
+  "posponevano": [
+    "posponevano"
+  ],
+  "posponevate": [
+    "posponevate"
+  ],
+  "posponevi": [
+    "posponevi"
+  ],
+  "posponga": [
+    "posponɡa"
+  ],
+  "pospongano": [
+    "posponɡano"
+  ],
+  "pospongo": [
+    "posponɡo"
+  ],
+  "pospongono": [
+    "posponɡono"
+  ],
+  "posponi": [
+    "posponi"
+  ],
+  "posponiamo": [
+    "posponjamo"
+  ],
+  "posponiate": [
+    "posponjate"
+  ],
+  "posporrà": [
+    "porːa"
+  ],
+  "posporrai": [
+    "posporːai"
+  ],
+  "posporranno": [
+    "posporːanːo"
+  ],
+  "posporre": [
+    "posporːe"
+  ],
+  "posporrebbe": [
+    "posporːebːe"
+  ],
+  "posporrebbero": [
+    "posporːebːero"
+  ],
+  "posporrei": [
+    "posporːei"
+  ],
+  "posporremmo": [
+    "posporːemo"
+  ],
+  "posporremo": [
+    "posporːemo"
+  ],
+  "posporreste": [
+    "posporːeste"
+  ],
+  "posporresti": [
+    "posporːesti"
+  ],
+  "posporrete": [
+    "posporːete"
+  ],
+  "posporrò": [
+    "posporːo"
+  ],
+  "pospose": [
+    "pospose"
+  ],
+  "posposero": [
+    "posposero"
+  ],
+  "posposi": [
+    "posposi"
+  ],
+  "posposizione": [
+    "pospozitsjone"
+  ],
+  "posposizioni": [
+    "pospozitsjoni"
+  ],
+  "posposta": [
+    "posposta"
+  ],
+  "posposte": [
+    "posposte"
+  ],
+  "posposti": [
+    "posposti"
+  ],
+  "posposto": [
+    "posposto"
+  ],
+  "possa": [
+    "posːa",
+    "pɔsːa"
+  ],
+  "possano": [
+    "posːano"
+  ],
+  "possedere": [
+    "posːedere",
+    "pɔsːɛdɛre"
+  ],
+  "possedimenti": [
+    "posːedimenti"
+  ],
+  "possedimento": [
+    "posːedimento"
+  ],
+  "possente": [
+    "posːɛnte"
+  ],
+  "possessi": [
+    "pɔsːɛsːi"
+  ],
+  "possessione": [
+    "posːesːjone"
+  ],
+  "possessivo": [
+    "posːesːivo"
+  ],
+  "possesso": [
+    "posːɛsːo",
+    "pɔsːɛsːɔ"
+  ],
+  "possiamo": [
+    "posːiamo",
+    "posːjamo"
+  ],
+  "possiate": [
+    "potjate"
+  ],
+  "possibile": [
+    "posːibile",
+    "pɔsːibile"
+  ],
+  "possibili": [
+    "pɔsːibili"
+  ],
+  "possibilismo": [
+    "posːibilizmo"
+  ],
+  "possibilissima": [
+    "pɔsːibilisːima"
+  ],
+  "possibilissime": [
+    "pɔsːibilisːime"
+  ],
+  "possibilissimi": [
+    "pɔsːibilisːimi"
+  ],
+  "possibilissimo": [
+    "pɔsːibilisːimo"
+  ],
+  "possibilista": [
+    "posːibilista"
+  ],
+  "possibilità": [
+    "posːibilita"
+  ],
+  "possibilmente": [
+    "posːibilmente"
+  ],
+  "posso": [
+    "posːo",
+    "pɔsːo"
+  ],
+  "possono": [
+    "posːono"
+  ],
+  "possum": [
+    "pɔsːum"
+  ],
+  "posta": [
+    "posta",
+    "pɔsta"
+  ],
+  "postagiro": [
+    "postadʒiro"
+  ],
+  "postale": [
+    "postale"
+  ],
+  "postali": [
+    "postali"
+  ],
+  "postalveolare": [
+    "postalveolare",
+    "pɔstalveolare"
+  ],
+  "postare": [
+    "postare"
+  ],
+  "postazione": [
+    "postatːsjone"
+  ],
+  "postclassico": [
+    "posklasːiko",
+    "postklasːiko"
+  ],
+  "postcoloniale": [
+    "postkolonjale"
+  ],
+  "postcoloniali": [
+    "postkolonjali"
+  ],
+  "postcolonialismi": [
+    "postkolonjalizmi"
+  ],
+  "postcolonialismo": [
+    "postkolonjalizmo"
+  ],
+  "postcolonialista": [
+    "postkolonjalista"
+  ],
+  "postcolonialiste": [
+    "postkolonjaliste"
+  ],
+  "postcolonialisti": [
+    "postkolonjalisti"
+  ],
+  "postcommunio": [
+    "poskomːunjo",
+    "postkomːunjo"
+  ],
+  "postcomunismo": [
+    "pɔstkomunizmo"
+  ],
+  "postcomunista": [
+    "postkomunista"
+  ],
+  "postcomuniste": [
+    "postkomuniste"
+  ],
+  "postcomunisti": [
+    "postkomunisti"
+  ],
+  "postconsonantico": [
+    "pɔstkonsonantiko"
+  ],
+  "postdatante": [
+    "postdatante"
+  ],
+  "postdatare": [
+    "postdatare"
+  ],
+  "postdatato": [
+    "postdatato"
+  ],
+  "postdatazione": [
+    "postdatatsjone"
+  ],
+  "postdatazioni": [
+    "postdatatsjoni"
+  ],
+  "postdiluviale": [
+    "pɔsdiluvjale",
+    "pɔzdiluvjale"
+  ],
+  "postdiluviano": [
+    "pɔsdiluvjano",
+    "pɔzdiluvjano"
+  ],
+  "poste": [
+    "poste"
+  ],
+  "posteggiare": [
+    "pɔstedːʒare"
+  ],
+  "posteggiato": [
+    "pɔstedːʒato"
+  ],
+  "posteggio": [
+    "postedːʒo"
+  ],
+  "poster": [
+    "po"
+  ],
+  "posteriore": [
+    "posterjore"
+  ],
+  "posteriormente": [
+    "posterjormente"
+  ],
+  "posterità": [
+    "posterita"
+  ],
+  "postero": [
+    "pɔstero"
+  ],
+  "posterpetica": [
+    "posterpɛtika"
+  ],
+  "posterpetiche": [
+    "posterpɛtike"
+  ],
+  "posterpetici": [
+    "posterpɛtitʃi"
+  ],
+  "posterpetico": [
+    "posterpɛtiko"
+  ],
+  "postfascismo": [
+    "pɔstfaʃʃizmo"
+  ],
+  "postfazione": [
+    "pɔstfatːsjone"
+  ],
+  "posti": [
+    "posti"
+  ],
+  "posticce": [
+    "postitːʃe"
+  ],
+  "posticci": [
+    "postitːʃi"
+  ],
+  "posticcia": [
+    "postitːʃa"
+  ],
+  "posticcio": [
+    "postitːʃo"
+  ],
+  "posticipare": [
+    "postitʃipare"
+  ],
+  "posticipazione": [
+    "postitʃipatsione"
+  ],
+  "postiglione": [
+    "postiʎone"
+  ],
+  "postilla": [
+    "postilːa"
+  ],
+  "postillatore": [
+    "postilːatore"
+  ],
+  "postina": [
+    "postina"
+  ],
+  "postine": [
+    "postine"
+  ],
+  "postini": [
+    "postini"
+  ],
+  "postino": [
+    "postino"
+  ],
+  "postliminio": [
+    "postliminjo"
+  ],
+  "postludio": [
+    "postludjo"
+  ],
+  "postmodernismo": [
+    "pɔstmodernizmo"
+  ],
+  "postmodernista": [
+    "postmodernista"
+  ],
+  "postmoderniste": [
+    "postmoderniste"
+  ],
+  "postmodernisti": [
+    "postmodernisti"
+  ],
+  "postmoderno": [
+    "postmodɛrno"
+  ],
+  "postnatale": [
+    "postnatale"
+  ],
+  "postnatali": [
+    "postnatali"
+  ],
+  "posto": [
+    "posto",
+    "pɔsto"
+  ],
+  "postonica": [
+    "postɔnika"
+  ],
+  "postoniche": [
+    "postɔnike"
+  ],
+  "postonici": [
+    "postɔnitʃi"
+  ],
+  "postonico": [
+    "postɔniko",
+    "pɔstɔniko"
+  ],
+  "postoperatori": [
+    "postoperatɔri"
+  ],
+  "postoperatoria": [
+    "postoperatɔrja"
+  ],
+  "postoperatorie": [
+    "postoperatɔrje"
+  ],
+  "postoperatorio": [
+    "postoperatɔrjo"
+  ],
+  "postprandiale": [
+    "pɔstprandjale"
+  ],
+  "postremo": [
+    "postrɛmo"
+  ],
+  "postriboli": [
+    "postriboli"
+  ],
+  "postribolo": [
+    "postribolo"
+  ],
+  "postrisorgimento": [
+    "pɔstrisordʒimento"
+  ],
+  "postrivoluzionari": [
+    "pɔstrivolutsjonari"
+  ],
+  "postrivoluzionaria": [
+    "pɔstrivolutsjonarja"
+  ],
+  "postrivoluzionarie": [
+    "pɔstrivolutsjonarje"
+  ],
+  "postrivoluzionario": [
+    "pɔstrivolutsjonarjo"
+  ],
+  "postromantica": [
+    "postromantika"
+  ],
+  "postromantiche": [
+    "postromantika",
+    "postromantike"
+  ],
+  "postromantici": [
+    "postromantitʃi"
+  ],
+  "postromantico": [
+    "postromantiko"
+  ],
+  "postscriptum": [
+    "postskriptum"
+  ],
+  "postulante": [
+    "postulante"
+  ],
+  "postulare": [
+    "postulare"
+  ],
+  "postulato": [
+    "postulato"
+  ],
+  "postuma": [
+    "pɔstuma"
+  ],
+  "postume": [
+    "pɔstume"
+  ],
+  "postumi": [
+    "pɔstumi"
+  ],
+  "postumo": [
+    "pɔstumo"
+  ],
+  "postuniversitari": [
+    "postuniversitari"
+  ],
+  "postuniversitaria": [
+    "postuniversitarja"
+  ],
+  "postuniversitarie": [
+    "postuniversitarje"
+  ],
+  "postuniversitario": [
+    "postuniversitarjo"
+  ],
+  "postura": [
+    "postura"
+  ],
+  "postvaccinica": [
+    "pɔstvatːʃinika"
+  ],
+  "postvacciniche": [
+    "pɔstvatːʃinike"
+  ],
+  "postvaccinici": [
+    "pɔstvatːʃinitʃi"
+  ],
+  "postvaccinico": [
+    "pɔstvatːʃiniko"
+  ],
+  "postvulcanica": [
+    "postvulkanika"
+  ],
+  "postvulcaniche": [
+    "postvulkanike"
+  ],
+  "postvulcanici": [
+    "postvulkanitʃi"
+  ],
+  "postvulcanico": [
+    "postvulkaniko"
+  ],
+  "pota": [
+    "pota"
+  ],
+  "potabile": [
+    "potabile",
+    "pɔtabile"
+  ],
+  "potabili": [
+    "pɔtabili"
+  ],
+  "potabilizzare": [
+    "potabilidːzare"
+  ],
+  "potabilizzato": [
+    "potabilidːzato"
+  ],
+  "potamochero": [
+    "potamokɛro"
+  ],
+  "potamogale": [
+    "potamɔɡale"
+  ],
+  "potamogalidi": [
+    "potamoɡalidi"
+  ],
+  "potamogeti": [
+    "potamodʒɛti"
+  ],
+  "potamogeto": [
+    "potamodʒɛto"
+  ],
+  "potamogetone": [
+    "potamodʒɛtone"
+  ],
+  "potamogetoni": [
+    "potamodʒɛtoni"
+  ],
+  "potare": [
+    "potare"
+  ],
+  "potassa": [
+    "potasːa"
+  ],
+  "potassica": [
+    "potasːika"
+  ],
+  "potassiche": [
+    "potasːike"
+  ],
+  "potassici": [
+    "potasːitʃi"
+  ],
+  "potassico": [
+    "potasːiko"
+  ],
+  "potassio": [
+    "potasːjo",
+    "pɔtasːjɔ"
+  ],
+  "potata": [
+    "potata"
+  ],
+  "potate": [
+    "potate"
+  ],
+  "potati": [
+    "potati"
+  ],
+  "potato": [
+    "potato"
+  ],
+  "potatura": [
+    "potatura"
+  ],
+  "poté": [
+    "pote"
+  ],
+  "potei": [
+    "potei"
+  ],
+  "potemmo": [
+    "potamːo"
+  ],
+  "potendo": [
+    "potendo"
+  ],
+  "potente": [
+    "potente",
+    "potɛnte"
+  ],
+  "potentemente": [
+    "potentemente"
+  ],
+  "potenti": [
+    "potenti"
+  ],
+  "potentissima": [
+    "potentisːima"
+  ],
+  "potentissime": [
+    "potentisːime"
+  ],
+  "potentissimi": [
+    "potentisːimi"
+  ],
+  "potentissimo": [
+    "potentisːimo"
+  ],
+  "potenza": [
+    "potɛntsa"
+  ]
 }

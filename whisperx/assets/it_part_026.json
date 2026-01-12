@@ -1,502 +1,1527 @@
 {
-  "antivivisezioniste": ["a n t i v i v i s e t s j o n i s t e"],
-  "antivivisezionisti": ["a n t i v i v i s e t s j o n i s t i"],
-  "anto": ["a n t o"],
-  "antociano": ["a n t o t ʃ a n o"],
-  "antofaga": ["a n t ɔ f a ɡ a"],
-  "antofaghe": ["a n t ɔ f a ɡ e"],
-  "antofagi": ["a n t ɔ f a d ʒ i"],
-  "antofago": ["a n t ɔ f a ɡ o"],
-  "antologia": ["a n t o l o d ʒ i a"],
-  "antologica": ["a n t o l ɔ d ʒ i k a"],
-  "antologicamente": ["a n t o l o d ʒ i k a m e n t e"],
-  "antologiche": ["a n t o l ɔ d ʒ i k e"],
-  "antologici": ["a n t o l ɔ d ʒ i t ʃ i"],
-  "antologico": ["a n t o l ɔ d ʒ i k o"],
-  "antologie": ["a n t o l o d ʒ i e"],
-  "antologizzare": ["a n t o l o d ʒ i dː z a r e"],
-  "antonella": ["a n t o n ɛ lː a"],
-  "antonimi": ["a n t ɔ n i m i"],
-  "antonimia": ["a n t o n i m i a", "a n t o n o m i a"],
-  "antonimica": ["a n t o n i m i k a"],
-  "antonimiche": ["a n t o n i m i k e"],
-  "antonimici": ["a n t o n i m i t ʃ i"],
-  "antonimico": ["a n t o n i m i k o"],
-  "antonimie": ["a n t o n o m i e"],
-  "antonimo": ["a n t ɔ n i m o"],
-  "antoniniano": ["a n t o n i n j a n o"],
-  "antonino": ["a n t o n i n o"],
-  "antonomasia": ["a n t o n o m a z j a"],
-  "antonomasticamente": ["a n t o n o m a s t i k a m e n t e"],
-  "antonomastico": ["a n t o n o m a s t i k o"],
-  "antozoi": ["a n t o dː z ɔ i"],
-  "antrace": ["a n t r a t ʃ e"],
-  "antraci": ["a n t r a t ʃ i"],
-  "antracite": ["a n t r a t ʃ i t e"],
-  "antranilica": ["a n t r a n i l i k a"],
-  "antraniliche": ["a n t r a n i l i k e"],
-  "antranilici": ["a n t r a n i l i t ʃ i"],
-  "antranilico": ["a n t r a n i l i k o"],
-  "antro": ["a n t r o"],
-  "antropica": ["a n t r ɔ p i k a"],
-  "antropicamente": ["a n t r o p i k a m e n t e"],
-  "antropiche": ["a n t r ɔ p i k e"],
-  "antropici": ["a n t r ɔ p i t ʃ i"],
-  "antropico": ["a n t r ɔ p i k o"],
-  "antropizza": ["a n t r o p i dː z a"],
-  "antropizzai": ["a n t r o p i dː z a i"],
-  "antropizzammo": ["a n t r o p i dː z a mː o"],
-  "antropizzando": ["a n t r o p i dː z a n d o"],
-  "antropizzano": ["a n t r o p i dː z a n o"],
-  "antropizzante": ["a n t r o p i dː z a n t e"],
-  "antropizzare": ["a n t r o p i dː z a r e", "a n t r o p i dː ʒ a r e"],
-  "antropizzarono": ["a n t r o p i dː z a r o n o"],
-  "antropizzasse": ["a n t r o p i dː z a sː e"],
-  "antropizzassero": ["a n t r o p i dː z a sː e r o"],
-  "antropizzassi": ["a n t r o p i dː z a sː i"],
-  "antropizzassimo": ["a n t r o p i dː z a sː i m o"],
-  "antropizzaste": ["a n t r o p i dː z a s t e"],
-  "antropizzasti": ["a n t r o p i dː z a s t i"],
-  "antropizzata": ["a n t r o p i dː z a t a"],
-  "antropizzate": ["a n t r o p i dː z a t e"],
-  "antropizzati": ["a n t r o p i dː z a t i"],
-  "antropizzato": ["a n t r o p i dː z a t o"],
-  "antropizzava": ["a n t r o p i dː z a v a"],
-  "antropizzavamo": ["a n t r o p i dː z a v a m o"],
-  "antropizzavano": ["a n t r o p i dː z a v a n o"],
-  "antropizzavate": ["a n t r o p i dː z a v a t e"],
-  "antropizzavi": ["a n t r o p i dː z a v i"],
-  "antropizzavo": ["a n t r o p i dː z a v o"],
-  "antropizzazione": ["a n t r o p i dː ʒ a t s j o n e"],
-  "antropizzerà": ["a n t r o p i dː z e r a"],
-  "antropizzerai": ["a n t r o p i dː z e r a i"],
-  "antropizzeranno": ["a n t r o p i dː z e r a nː o"],
-  "antropizzerebbe": ["a n t r o p i dː z e r e bː e"],
-  "antropizzerebbero": ["a n t r o p i dː z e r e bː e r o"],
-  "antropizzerei": ["a n t r o p i dː z e r e i"],
-  "antropizzeremmo": ["a n t r o p i dː z e r e mː o"],
-  "antropizzeremo": ["a n t r o p i dː z e r e m o"],
-  "antropizzereste": ["a n t r o p i dː z e r e s t e"],
-  "antropizzeresti": ["a n t r o p i dː z e r e s t i"],
-  "antropizzerete": ["a n t r o p i dː z e r e t e"],
-  "antropizzerò": ["a n t r o p i dː z e r o"],
-  "antropizzi": ["a n t r o p i dː z i"],
-  "antropizziamo": ["a n t r o p i dː z j a m o"],
-  "antropizziate": ["a n t r o p i dː z j a t e"],
-  "antropizzino": ["a n t r o p i dː z i n o"],
-  "antropizzo": ["a n t r o p i dː z o"],
-  "antropizzò": ["a n t r o p i dː z o"],
-  "antropocentrica": ["a n t r o p o t ʃ e n t r i k a"],
-  "antropocentricamente": ["a n t r o p o t ʃ e n t r i k a m e n t e"],
-  "antropocentriche": ["a n t r o p o t ʃ e n t r i k e"],
-  "antropocentrici": ["a n t r o p o t ʃ e n t r i t ʃ i"],
-  "antropocentrico": ["a n t r o p o t ʃ e n t r i k o", "a n t r o p o t ʃ ɛ n t r i k o"],
-  "antropocentrismi": ["a n t r o p o t ʃ e n t r i z m i"],
-  "antropocentrismo": ["a n t r o p o t ʃ e n t r i z m o"],
-  "antropochimica": ["a n t r o p o k i m i k a"],
-  "antropocoria": ["a n t r o p o k o r i a"],
-  "antropocoro": ["a n t r o p o k ɔ r o"],
-  "antropocosmico": ["a n t r o p o k ɔ z m i k o"],
-  "antropofaga": ["a n t r o p ɔ f a ɡ a"],
-  "antropofaghe": ["a n t r o p ɔ f a ɡ e"],
-  "antropofaghi": ["a n t r o p ɔ f a ɡ i"],
-  "antropofagi": ["a n t r o p ɔ f a d ʒ i", "a n t r o p ɔ f a ɡ i"],
-  "antropofagia": ["a n t r o p o f a d ʒ i a"],
-  "antropofagico": ["a n t r o p o f a d ʒ i k o"],
-  "antropofagie": ["a n t r o p o f a d ʒ i e"],
-  "antropofago": ["a n t r o p ɔ f a ɡ o"],
-  "antropofilia": ["a n t r o p o f i l i a"],
-  "antropofilo": ["a n t r o p ɔ f i l o"],
-  "antropogenesi": ["a n t r o p o d ʒ ɛ n e z i"],
-  "antropogenia": ["a n t r o p o d ʒ e n i a"],
-  "antropogeografia": ["a n t r o p o d ʒ e o ɡ r a f i a"],
-  "antropoide": ["a n t r o p ɔ i d e", "a n t r o p ɔ j d e"],
-  "antropoidi": ["a n t r o p ɔ i d e"],
-  "antropologi": ["a n t r o p ɔ l o ɡ i"],
-  "antropologia": ["a n t r o p o l o d ʒ i a"],
-  "antropologica": ["a n t r o p o l ɔ d ʒ i k a"],
-  "antropologicamente": ["a n t r o p o l o d ʃ i k a m e n t e", "a n t r o p o l o d ʒ i k a m e n t e"],
-  "antropologiche": ["a n t r o p o l ɔ d ʒ i k e"],
-  "antropologici": ["a n t r o p o l ɔ d ʒ i t ʃ i"],
-  "antropologico": ["a n t r o p o l ɔ d ʒ i k o"],
-  "antropologie": ["a n t r o p o l o d ʒ i e"],
-  "antropologo": ["a n t r o p ɔ l o ɡ o"],
-  "antropometrismo": ["a n t r o p o m e t r i z m o"],
-  "antropomorfico": ["a n t r o p o m ɔ r f i k o"],
-  "antropomorfismi": ["a n t r o p o m o r f i z m i"],
-  "antropomorfismo": ["a n t r o p o m o r f i z m o"],
-  "antropomorfizzare": ["a n t r o p o m o r f i dː z a r e"],
-  "antropomorfo": ["a n t r o p o m ɔ r f o"],
-  "antroponimi": ["a n t r o p o n i m i", "a n t r o p ɔ n i m i"],
-  "antroponimo": ["a n t r o p o n i m o", "a n t r o p ɔ n i m o"],
-  "antropopitechi": ["a n t r o p o p i t e k i"],
-  "antropopiteco": ["a n t r o p o p i t e k o", "a n t r o p o p i t ɛ k o"],
-  "antroposfera": ["a n t r o p o s f ɛ r a"],
-  "antroposfere": ["a n t r o p o s f ɛ r e"],
-  "anubi": ["a n u b i"],
-  "anulare": ["a n u l a r e"],
-  "anura": ["a n u r a"],
-  "anure": ["a n u r e"],
-  "anuri": ["a n u r i"],
-  "anuria": ["a n u r j a"],
-  "anurie": ["a n u r j e"],
-  "anuro": ["a n u r o"],
-  "anversa": ["a n v ɛ r s a"],
-  "anzi": ["a n t s i"],
-  "anzianità": ["a n t s j a n i t a"],
-  "anziano": ["a n t s j a n o"],
-  "anzianotto": ["a n t s j a n ɔ tː o"],
-  "anzio": ["a n t s j o"],
-  "anzitempo": ["a n t s i t ɛ m p o"],
-  "anzitutto": ["a n t s i t u tː o"],
-  "aonio": ["a ɔ n j o"],
-  "aorta": ["a ɔ r t a"],
-  "aorte": ["a ɔ r t a"],
-  "aosta": ["a o s t a", "a ɔ s t a"],
-  "aostana": ["a o s t a n a"],
-  "aostane": ["a o s t a n e"],
-  "aostani": ["a o s t a n i"],
-  "aostano": ["a o s t a n o"],
-  "apar": ["a p a r"],
-  "apartheid": ["a p a r t a j d"],
-  "apartitico": ["a p a r t i t i k o"],
-  "apatia": ["a p a t i a", "a p a t j a"],
-  "apatica": ["a p a t i k a"],
-  "apaticamente": ["a p a t i k a m e n t e"],
-  "apatiche": ["a p a t i k e"],
-  "apatici": ["a p a t i t ʃ i"],
-  "apatico": ["a p a t i k o"],
-  "apatie": ["a p a t j e"],
-  "apatista": ["a p a t i s t a"],
-  "apatite": ["a p a t i t e"],
-  "ape": ["a p e"],
-  "apeliota": ["a p e l j ɔ t a"],
-  "apeliote": ["a p e l j ɔ t e"],
-  "apella": ["a p ɛ lː a"],
-  "aperea": ["a p ɛ r e a"],
-  "apericena": ["a p e r i t ʃ e n a"],
-  "aperiodici": ["a p e r i ɔ d i k i"],
-  "aperiodico": ["a p e r i ɔ d i k o", "a p e r j ɔ d i k o"],
-  "aperitiva": ["a p e r i t i v a"],
-  "aperitive": ["a p e r i t i v e"],
-  "aperitivi": ["a p e r i t i v i"],
-  "aperitivo": ["a p e r i t i v o"],
-  "aperse": ["a p ɛ r s e"],
-  "apersi": ["a p ɛ r s i"],
-  "aperta": ["a p ɛ r t a"],
-  "apertamente": ["a p e r t a m e n t e", "a p ɛ r t a m e n t e"],
-  "aperte": ["a p ɛ r t e"],
-  "aperti": ["a p ɛ r t i"],
-  "aperto": ["a p e r t o", "a p ɛ r t o"],
-  "apertura": ["a p e r t u r a"],
-  "aperture": ["a p e r t u r e"],
-  "api": ["a p i"],
-  "apicale": ["a p i k a l e"],
-  "apice": ["a p i t ʃ e"],
-  "apici": ["a p i t ʃ i"],
-  "apicoltore": ["a p i k o l t o r e"],
-  "apicoltori": ["a p i k o l t o r i"],
-  "apicoltrice": ["a p i k o l t r i t ʃ e"],
-  "apicoltrici": ["a p i k o l t r i t ʃ i"],
-  "apicoltura": ["a p i k o l t u r a"],
-  "apicolture": ["a p i k o l t u r e"],
-  "apicultore": ["a p i k u l t o r e"],
-  "apicultori": ["a p i k u l t o r i"],
-  "apicultrice": ["a p i k u l t r i t ʃ e"],
-  "apicultrici": ["a p i k u l t r i t ʃ i"],
-  "apicultura": ["a p i k o l t u r a", "a p i k u l t u r a"],
-  "apiculture": ["a p i k u l t u r e"],
-  "apide": ["a p i d e"],
-  "apidi": ["a p i d i"],
-  "apireno": ["a p i r ɛ n o"],
-  "apiterapia": ["a p i t e r a p i a"],
-  "apka": ["a p k a"],
-  "aplofase": ["a p l o f a z e"],
-  "aplofasi": ["a p l o f a z i"],
-  "aplografia": ["a p l o ɡ r a f i a"],
-  "aploide": ["a p l ɔ j d e"],
-  "aploidia": ["a p l o j d i a"],
-  "aplologica": ["a p l o l ɔ d ʒ i k a"],
-  "aplologiche": ["a p l o l ɔ d ʒ i k e"],
-  "aplologici": ["a p l o l ɔ d ʒ i t ʃ i"],
-  "aplologico": ["a p l o l ɔ d ʒ i k o"],
-  "aplomb": ["a p l ɔ m b"],
-  "apnea": ["a p n e a"],
-  "apnee": ["a p n e e"],
-  "apneista": ["a p n e i s t a"],
-  "apneiste": ["a p n e i s t e"],
-  "apneisti": ["a p n e i s t i"],
-  "apneumonico": ["a p n ɛ w m ɔ n i k o"],
-  "apo": ["a p o"],
-  "apocalisse": ["a p o k a l i sː e"],
-  "apocalissi": ["a p o k a l i sː i"],
-  "apocalittico": ["a p o k a l i tː i k o"],
-  "apocalittista": ["a p o k a l i tː i s t a"],
-  "apocizio": ["a p o t ʃ i tː s j o"],
-  "apocope": ["a p ɔ k o p e"],
-  "apocrifa": ["a p o k r i f a"],
-  "apocrife": ["a p o k r i f e"],
-  "apocrifi": ["a p o k r i f i"],
-  "apocrifo": ["a p o k r i f o", "a p ɔ k r i f o"],
-  "apocrina": ["a p ɔ k r i n a"],
-  "apocrine": ["a p ɔ k r i n e"],
-  "apocrini": ["a p ɔ k r i n i"],
-  "apocrino": ["a p ɔ k r i n o"],
-  "apocrito": ["a p ɔ k r i t o"],
-  "apodide": ["a p ɔ d i d e"],
-  "apodidi": ["a p ɔ d i d i"],
-  "apodiforme": ["a p o d i f o r m e"],
-  "apodiformi": ["a p o d i f o r m i"],
-  "apodissi": ["a p o d i sː i"],
-  "apoditerio": ["a p o d i t ɛ r j o"],
-  "apodittico": ["a p o d i tː i k o"],
-  "apoftegma": ["a p o f t ɛ ɡ m"],
-  "apogeo": ["a p o d ʒ ɛ o"],
-  "apografo": ["a p ɔ ɡ r a f o"],
-  "apolare": ["a p o l a r e"],
-  "apolarità": ["a p o l a r i t a"],
-  "apolide": ["a p ɔ l i d e"],
-  "apolidia": ["a p o l i d i a"],
-  "apolitica": ["a p o l i t i k a"],
-  "apolitiche": ["a p o l i t i k e"],
-  "apolitici": ["a p o l i t i t ʃ i"],
-  "apolitico": ["a p o l i t i k o"],
-  "apollinarista": ["a p o lː i n a r i s t a"],
-  "apollinaristi": ["a p o lː i n a r i s t i"],
-  "apollineo": ["a p o lː i n e o"],
-  "apollo": ["a p o lː o", "a p ɔ lː o"],
-  "apologeta": ["a p o l o d ʒ ɛ t a"],
-  "apologetica": ["a p o l o d ʒ ɛ t i k a"],
-  "apologetico": ["a p o l o d ʒ ɛ t i k o"],
-  "apologhi": ["a p o l o ɡ i"],
-  "apologia": ["a p o l o d ʒ i a"],
-  "apologica": ["a p o l ɔ d ʒ i k a"],
-  "apologiche": ["a p o l ɔ d ʒ i e"],
-  "apologici": ["a p o l ɔ d ʒ i t ʃ i"],
-  "apologico": ["a p o l ɔ d ʒ i k o"],
-  "apologista": ["a p o l o d ʒ i s t a"],
-  "apologistico": ["a p o l o d ʒ i s t i k o"],
-  "apologo": ["a p o l o ɡ o", "a p ɔ l o ɡ o"],
-  "apolunio": ["a p o l u n j o"],
-  "apoplessia": ["a p o p l e sː i a", "a p ɔ p l ɛ sː j a"],
-  "apoplessie": ["a p ɔ p l ɛ sː j e"],
-  "apoptosi": ["a p o p t o z i", "a p ɔ p t o z i"],
-  "aporema": ["a p o r ɛ m a"],
-  "aporemi": ["a p o r ɛ m i"],
-  "aporetico": ["a p o r ɛ t i k o"],
-  "aporia": ["a p o r i a"],
-  "apostasia": ["a p o s t a z i a"],
-  "apostasie": ["a p o s t a z i e"],
-  "apostata": ["a p ɔ s t a t a"],
-  "apostate": ["a p ɔ s t a t e"],
-  "apostati": ["a p ɔ s t a t i"],
-  "aposteriorità": ["a p o s t e r j o r i t a"],
-  "apostolica": ["a p o s t ɔ l i k a"],
-  "apostolicamente": ["a p o s t o l i k a m e n t e"],
-  "apostoliche": ["a p o s t ɔ l i k e"],
-  "apostolici": ["a p o s t ɔ l i t ʃ i"],
-  "apostolico": ["a p o s t ɔ l i k o"],
-  "apostolo": ["a p ɔ s t o l o", "a p ɔ s t ɔ l ɔ"],
-  "apostrofare": ["a p o s t r o f a r e"],
-  "apostrofata": ["a p o s t r o f a t a"],
-  "apostrofate": ["a p o s t r o f a t e"],
-  "apostrofati": ["a p o s t r o f a t i"],
-  "apostrofato": ["a p o s t r o f a t o"],
-  "apostrofe": ["a p ɔ s t r o f e"],
-  "apostrofi": ["a p o s t r o f i"],
-  "apostrofo": ["a p o s t r o f o", "a p ɔ s t r o f o"],
-  "apotecio": ["a p o t ɛ t ʃ o"],
-  "apotema": ["a p o t ɛ m a"],
-  "apotemi": ["a p o t ɛ m i"],
-  "apoteosi": ["a p o t e ɔ z i"],
-  "apotropaica": ["a p o t r o p a j k a"],
-  "apotropaiche": ["a p o t r o p a j k e"],
-  "apotropaici": ["a p o t r o p a j t ʃ i"],
-  "apotropaico": ["a p o t r o p a i k o", "a p o t r o p a j k o"],
-  "apozema": ["a p ɔ dː z e m a"],
-  "apozzema": ["a p ɔ dː z e m a"],
-  "app": ["a pː"],
-  "appaciare": ["a pː a t ʃ a r e"],
-  "appacificare": ["a pː a t ʃ i f i k a r e"],
-  "appagabile": ["a pː a ɡ a b i l e"],
-  "appagamento": ["a pː a ɡ a m e n t o"],
-  "appagante": ["a pː a ɡ a n t e"],
-  "appagare": ["a pː a ɡ a r e"],
-  "appagato": ["a pː a ɡ a t o"],
-  "appaiamento": ["a pː a j a m e n t o"],
-  "appaiare": ["a pː a j a r e"],
-  "appaio": ["a pː a j o"],
-  "appalta": ["a pː a l t a"],
-  "appaltai": ["a pː a l t a i"],
-  "appaltammo": ["a pː a l t a mː o"],
-  "appaltando": ["a pː a l t a n d o"],
-  "appaltano": ["a pː a l t a n o"],
-  "appaltante": ["a pː a l t a n t e"],
-  "appaltare": ["a pː a l t a r e"],
-  "appaltarono": ["a pː a l t a r o n o"],
-  "appaltasse": ["a pː a l t a sː e"],
-  "appaltassero": ["a pː a l t a sː e r o"],
-  "appaltassi": ["a pː a l t a sː i"],
-  "appaltassimo": ["a pː a l t a sː i m o"],
-  "appaltaste": ["a pː a l t a s t e"],
-  "appaltasti": ["a pː a l t a s t i"],
-  "appaltata": ["a pː a l t a t a"],
-  "appaltate": ["a pː a l t a t e"],
-  "appaltati": ["a pː a l t a t i"],
-  "appaltato": ["a pː a l t a t o"],
-  "appaltatore": ["a pː a l t a t o r e"],
-  "appaltava": ["a pː a l t a v a"],
-  "appaltavamo": ["a pː a l t a v a m o"],
-  "appaltavano": ["a pː a l t a v a n o"],
-  "appaltavate": ["a pː a l t a v a t e"],
-  "appaltavi": ["a pː a l t a v i"],
-  "appaltavo": ["a pː a l t a v o"],
-  "appalterà": ["a pː a l t e r a"],
-  "appalterai": ["a pː a l t e r a i"],
-  "appalteranno": ["a pː a l t e r a nː o"],
-  "appalterebbe": ["a pː a l t e r e bː e"],
-  "appalterebbero": ["a pː a l t e r e bː e r o"],
-  "appalterei": ["a pː a l t e r e i"],
-  "appalteremmo": ["a pː a l t e r e mː o"],
-  "appalteremo": ["a pː a l t e r e m o"],
-  "appaltereste": ["a pː a l t e r e s t e"],
-  "appalteresti": ["a pː a l t e r e s t i"],
-  "appalterete": ["a pː a l t e r e t e"],
-  "appalterò": ["a pː a l t e r o"],
-  "appalti": ["a pː a l t i"],
-  "appaltiamo": ["a pː a l t j a m o"],
-  "appaltiate": ["a pː a l t j a t e"],
-  "appaltino": ["a pː a l t i n o"],
-  "appalto": ["a pː a l t o"],
-  "appaltò": ["a pː a l t o"],
-  "appalugarsi": ["a pː a l u ɡ a r s i"],
-  "appanna": ["a pː a nː a"],
-  "appannaggi": ["a pː a nː a dː ʒ i"],
-  "appannaggio": ["a pː a nː a dː ʒ o"],
-  "appannai": ["a pː a nː a i"],
-  "appannammo": ["a pː a nː a mː o"],
-  "appannando": ["a pː a nː a n d o"],
-  "appannano": ["a pː a nː a n o"],
-  "appannante": ["a pː a nː a n t e"],
-  "appannare": ["a pː a nː a r e"],
-  "appannarono": ["a pː a nː a r o n o"],
-  "appannasse": ["a pː a nː a sː e"],
-  "appannassero": ["a pː a nː a sː e r o"],
-  "appannassi": ["a pː a nː a sː i"],
-  "appannassimo": ["a pː a nː a sː i m o"],
-  "appannaste": ["a pː a nː a s t e"],
-  "appannasti": ["a pː a nː a s t i"],
-  "appannata": ["a pː a nː a t a"],
-  "appannate": ["a pː a nː a t e"],
-  "appannati": ["a pː a nː a t i"],
-  "appannato": ["a pː a nː a t o"],
-  "appannava": ["a pː a nː a v a"],
-  "appannavamo": ["a pː a nː a v a m o"],
-  "appannavano": ["a pː a nː a v a n o"],
-  "appannavate": ["a pː a nː a v a t e"],
-  "appannavi": ["a pː a nː a v i"],
-  "appannavo": ["a pː a nː a v o"],
-  "appannerà": ["a pː a nː e r a"],
-  "appannerai": ["a pː a nː e r a i"],
-  "appanneranno": ["a pː a nː e r a nː o"],
-  "appannerebbe": ["a pː a nː e r e bː e"],
-  "appannerebbero": ["a pː a nː e r e bː e r o"],
-  "appannerei": ["a pː a nː e r e i"],
-  "appanneremmo": ["a pː a nː e r e mː o"],
-  "appanneremo": ["a pː a nː e r e m o"],
-  "appannereste": ["a pː a nː e r e s t e"],
-  "appanneresti": ["a pː a nː e r e s t i"],
-  "appannerete": ["a pː a nː e r e t e"],
-  "appannerò": ["a pː a nː e r o"],
-  "appanni": ["a pː a nː i"],
-  "appanniamo": ["a pː a nː j a m o"],
-  "appanniate": ["a pː a nː j a t e"],
-  "appannino": ["a pː a nː i n o"],
-  "appanno": ["a pː a nː o"],
-  "appannò": ["a pː a nː o"],
-  "appara": ["a pː a r a"],
-  "apparai": ["a pː a r a i"],
-  "apparammo": ["a pː a r a mː o"],
-  "apparando": ["a pː a r a n d o"],
-  "apparano": ["a pː a r a n o"],
-  "apparante": ["a pː a r a n t e"],
-  "appararono": ["a pː a r a r o n o"],
-  "apparasse": ["a pː a r a sː e"],
-  "apparassero": ["a pː a r a sː e r o"],
-  "apparassi": ["a pː a r a sː i"],
-  "apparassimo": ["a pː a r a sː i m o"],
-  "apparaste": ["a pː a r a s t e"],
-  "apparasti": ["a pː a r a s t i"],
-  "apparata": ["a pː a r a t a"],
-  "apparate": ["a pː a r a t e"],
-  "apparati": ["a pː a r a t i"],
-  "apparato": ["a pː a r a t o"],
-  "apparava": ["a pː a r a v a"],
-  "apparavamo": ["a pː a r a v a m o"],
-  "apparavano": ["a pː a r a v a n o"],
-  "apparavate": ["a pː a r a v a t e"],
-  "apparavi": ["a pː a r a v i"],
-  "apparavo": ["a pː a r a v o"],
-  "apparecchi": ["a pː a r ɛ kː i"],
-  "apparecchiare": ["a pː a r e kː i a r e"],
-  "apparecchiato": ["a pː a r e kː j a t o"],
-  "apparecchiatura": ["a pː a r e kː j a t u r a"],
-  "apparecchiature": ["a pː a r e kː j a t u r e"],
-  "apparecchietto": ["a pː a r e kː j e tː o"],
-  "apparecchio": ["a pː a r e kː j o", "a pː a r ɛ kː j ɔ"],
-  "apparentare": ["a pː a r e n t a r e"],
-  "apparente": ["a pː a r ɛ n t e"],
-  "apparentemente": ["a pː a r e n t e m e n t e"],
-  "apparenti": ["a pː a r ɛ n t i"],
-  "apparenza": ["a pː a r ɛ n t s a"],
-  "apparenze": ["a pː a r ɛ n t s e"],
-  "apparerà": ["a pː a r e r a"],
-  "apparerai": ["a pː a r e r a i"],
-  "appareranno": ["a pː a r e r a nː o"],
-  "apparerebbe": ["a pː a r e r e bː e"],
-  "apparerebbero": ["a pː a r e r e bː e r o"],
-  "apparerei": ["a pː a r e r e i"],
-  "appareremmo": ["a pː a r e r e mː o"],
-  "appareremo": ["a pː a r e r e m o"],
-  "apparereste": ["a pː a r e r e s t e"],
-  "appareresti": ["a pː a r e r e s t i"],
-  "apparerete": ["a pː a r e r e t e"],
-  "apparerò": ["a pː a r e r o"],
-  "appari": ["a pː a r i"],
-  "appariamo": ["a pː a r j a m o"],
-  "appariate": ["a pː a r j a t e"],
-  "apparigliare": ["a pː a r i ʎ a r e"],
-  "apparino": ["a pː a r i n o"],
-  "apparire": ["a pː a r i r e"],
-  "appariscente": ["a pː a r i ʃ ʃ ɛ n t e"],
-  "apparizione": ["a pː a r i tː s j o n e"],
-  "apparo": ["a pː a r o"],
-  "apparò": ["a pː a r o"],
-  "apparta": ["a pː a r t a"],
-  "appartai": ["a pː a r t a i"],
-  "appartamentino": ["a pː a r t a m e n t i n o"],
-  "appartamento": ["a pː a r t a m e n t o", "a pː a r t a m ɛ n t ɔ"],
-  "appartammo": ["a pː a r t a mː o"],
-  "appartando": ["a pː a r t a n d o"],
-  "appartano": ["a pː a r t a n o"],
-  "appartante": ["a pː a r t a n t e"],
-  "appartare": ["a pː a r t a r e"],
-  "appartarono": ["a pː a r t a r o n o"],
-  "appartasse": ["a pː a r t a sː e"],
-  "appartassero": ["a pː a r t a sː e r o"],
-  "appartassi": ["a pː a r t a sː i"],
-  "appartassimo": ["a pː a r t a sː i m o"],
-  "appartaste": ["a pː a r t a s t e"],
-  "appartasti": ["a pː a r t a s t i"],
-  "appartata": ["a pː a r t a t a"],
-  "appartate": ["a pː a r t a t e"],
-  "appartati": ["a pː a r t a t i"],
-  "appartato": ["a pː a r t a t o"],
-  "appartava": ["a pː a r t a v a"],
-  "appartavamo": ["a pː a r t a v a m o"],
-  "appartavano": ["a pː a r t a v a n o"],
-  "appartavate": ["a pː a r t a v a t e"],
-  "appartavi": ["a pː a r t a v i"],
-  "appartavo": ["a pː a r t a v o"],
-  "appartenemmo": ["a pː a r t e n e mː o"]
+  "antivivisezioniste": [
+    "antivivisetsjoniste"
+  ],
+  "antivivisezionisti": [
+    "antivivisetsjonisti"
+  ],
+  "anto": [
+    "anto"
+  ],
+  "antociano": [
+    "antotʃano"
+  ],
+  "antofaga": [
+    "antɔfaɡa"
+  ],
+  "antofaghe": [
+    "antɔfaɡe"
+  ],
+  "antofagi": [
+    "antɔfadʒi"
+  ],
+  "antofago": [
+    "antɔfaɡo"
+  ],
+  "antologia": [
+    "antolodʒia"
+  ],
+  "antologica": [
+    "antolɔdʒika"
+  ],
+  "antologicamente": [
+    "antolodʒikamente"
+  ],
+  "antologiche": [
+    "antolɔdʒike"
+  ],
+  "antologici": [
+    "antolɔdʒitʃi"
+  ],
+  "antologico": [
+    "antolɔdʒiko"
+  ],
+  "antologie": [
+    "antolodʒie"
+  ],
+  "antologizzare": [
+    "antolodʒidːzare"
+  ],
+  "antonella": [
+    "antonɛlːa"
+  ],
+  "antonimi": [
+    "antɔnimi"
+  ],
+  "antonimia": [
+    "antonimia",
+    "antonomia"
+  ],
+  "antonimica": [
+    "antonimika"
+  ],
+  "antonimiche": [
+    "antonimike"
+  ],
+  "antonimici": [
+    "antonimitʃi"
+  ],
+  "antonimico": [
+    "antonimiko"
+  ],
+  "antonimie": [
+    "antonomie"
+  ],
+  "antonimo": [
+    "antɔnimo"
+  ],
+  "antoniniano": [
+    "antoninjano"
+  ],
+  "antonino": [
+    "antonino"
+  ],
+  "antonomasia": [
+    "antonomazja"
+  ],
+  "antonomasticamente": [
+    "antonomastikamente"
+  ],
+  "antonomastico": [
+    "antonomastiko"
+  ],
+  "antozoi": [
+    "antodːzɔi"
+  ],
+  "antrace": [
+    "antratʃe"
+  ],
+  "antraci": [
+    "antratʃi"
+  ],
+  "antracite": [
+    "antratʃite"
+  ],
+  "antranilica": [
+    "antranilika"
+  ],
+  "antraniliche": [
+    "antranilike"
+  ],
+  "antranilici": [
+    "antranilitʃi"
+  ],
+  "antranilico": [
+    "antraniliko"
+  ],
+  "antro": [
+    "antro"
+  ],
+  "antropica": [
+    "antrɔpika"
+  ],
+  "antropicamente": [
+    "antropikamente"
+  ],
+  "antropiche": [
+    "antrɔpike"
+  ],
+  "antropici": [
+    "antrɔpitʃi"
+  ],
+  "antropico": [
+    "antrɔpiko"
+  ],
+  "antropizza": [
+    "antropidːza"
+  ],
+  "antropizzai": [
+    "antropidːzai"
+  ],
+  "antropizzammo": [
+    "antropidːzamːo"
+  ],
+  "antropizzando": [
+    "antropidːzando"
+  ],
+  "antropizzano": [
+    "antropidːzano"
+  ],
+  "antropizzante": [
+    "antropidːzante"
+  ],
+  "antropizzare": [
+    "antropidːzare",
+    "antropidːʒare"
+  ],
+  "antropizzarono": [
+    "antropidːzarono"
+  ],
+  "antropizzasse": [
+    "antropidːzasːe"
+  ],
+  "antropizzassero": [
+    "antropidːzasːero"
+  ],
+  "antropizzassi": [
+    "antropidːzasːi"
+  ],
+  "antropizzassimo": [
+    "antropidːzasːimo"
+  ],
+  "antropizzaste": [
+    "antropidːzaste"
+  ],
+  "antropizzasti": [
+    "antropidːzasti"
+  ],
+  "antropizzata": [
+    "antropidːzata"
+  ],
+  "antropizzate": [
+    "antropidːzate"
+  ],
+  "antropizzati": [
+    "antropidːzati"
+  ],
+  "antropizzato": [
+    "antropidːzato"
+  ],
+  "antropizzava": [
+    "antropidːzava"
+  ],
+  "antropizzavamo": [
+    "antropidːzavamo"
+  ],
+  "antropizzavano": [
+    "antropidːzavano"
+  ],
+  "antropizzavate": [
+    "antropidːzavate"
+  ],
+  "antropizzavi": [
+    "antropidːzavi"
+  ],
+  "antropizzavo": [
+    "antropidːzavo"
+  ],
+  "antropizzazione": [
+    "antropidːʒatsjone"
+  ],
+  "antropizzerà": [
+    "antropidːzera"
+  ],
+  "antropizzerai": [
+    "antropidːzerai"
+  ],
+  "antropizzeranno": [
+    "antropidːzeranːo"
+  ],
+  "antropizzerebbe": [
+    "antropidːzerebːe"
+  ],
+  "antropizzerebbero": [
+    "antropidːzerebːero"
+  ],
+  "antropizzerei": [
+    "antropidːzerei"
+  ],
+  "antropizzeremmo": [
+    "antropidːzeremːo"
+  ],
+  "antropizzeremo": [
+    "antropidːzeremo"
+  ],
+  "antropizzereste": [
+    "antropidːzereste"
+  ],
+  "antropizzeresti": [
+    "antropidːzeresti"
+  ],
+  "antropizzerete": [
+    "antropidːzerete"
+  ],
+  "antropizzerò": [
+    "antropidːzero"
+  ],
+  "antropizzi": [
+    "antropidːzi"
+  ],
+  "antropizziamo": [
+    "antropidːzjamo"
+  ],
+  "antropizziate": [
+    "antropidːzjate"
+  ],
+  "antropizzino": [
+    "antropidːzino"
+  ],
+  "antropizzo": [
+    "antropidːzo"
+  ],
+  "antropizzò": [
+    "antropidːzo"
+  ],
+  "antropocentrica": [
+    "antropotʃentrika"
+  ],
+  "antropocentricamente": [
+    "antropotʃentrikamente"
+  ],
+  "antropocentriche": [
+    "antropotʃentrike"
+  ],
+  "antropocentrici": [
+    "antropotʃentritʃi"
+  ],
+  "antropocentrico": [
+    "antropotʃentriko",
+    "antropotʃɛntriko"
+  ],
+  "antropocentrismi": [
+    "antropotʃentrizmi"
+  ],
+  "antropocentrismo": [
+    "antropotʃentrizmo"
+  ],
+  "antropochimica": [
+    "antropokimika"
+  ],
+  "antropocoria": [
+    "antropokoria"
+  ],
+  "antropocoro": [
+    "antropokɔro"
+  ],
+  "antropocosmico": [
+    "antropokɔzmiko"
+  ],
+  "antropofaga": [
+    "antropɔfaɡa"
+  ],
+  "antropofaghe": [
+    "antropɔfaɡe"
+  ],
+  "antropofaghi": [
+    "antropɔfaɡi"
+  ],
+  "antropofagi": [
+    "antropɔfadʒi",
+    "antropɔfaɡi"
+  ],
+  "antropofagia": [
+    "antropofadʒia"
+  ],
+  "antropofagico": [
+    "antropofadʒiko"
+  ],
+  "antropofagie": [
+    "antropofadʒie"
+  ],
+  "antropofago": [
+    "antropɔfaɡo"
+  ],
+  "antropofilia": [
+    "antropofilia"
+  ],
+  "antropofilo": [
+    "antropɔfilo"
+  ],
+  "antropogenesi": [
+    "antropodʒɛnezi"
+  ],
+  "antropogenia": [
+    "antropodʒenia"
+  ],
+  "antropogeografia": [
+    "antropodʒeoɡrafia"
+  ],
+  "antropoide": [
+    "antropɔide",
+    "antropɔjde"
+  ],
+  "antropoidi": [
+    "antropɔide"
+  ],
+  "antropologi": [
+    "antropɔloɡi"
+  ],
+  "antropologia": [
+    "antropolodʒia"
+  ],
+  "antropologica": [
+    "antropolɔdʒika"
+  ],
+  "antropologicamente": [
+    "antropolodʃikamente",
+    "antropolodʒikamente"
+  ],
+  "antropologiche": [
+    "antropolɔdʒike"
+  ],
+  "antropologici": [
+    "antropolɔdʒitʃi"
+  ],
+  "antropologico": [
+    "antropolɔdʒiko"
+  ],
+  "antropologie": [
+    "antropolodʒie"
+  ],
+  "antropologo": [
+    "antropɔloɡo"
+  ],
+  "antropometrismo": [
+    "antropometrizmo"
+  ],
+  "antropomorfico": [
+    "antropomɔrfiko"
+  ],
+  "antropomorfismi": [
+    "antropomorfizmi"
+  ],
+  "antropomorfismo": [
+    "antropomorfizmo"
+  ],
+  "antropomorfizzare": [
+    "antropomorfidːzare"
+  ],
+  "antropomorfo": [
+    "antropomɔrfo"
+  ],
+  "antroponimi": [
+    "antroponimi",
+    "antropɔnimi"
+  ],
+  "antroponimo": [
+    "antroponimo",
+    "antropɔnimo"
+  ],
+  "antropopitechi": [
+    "antropopiteki"
+  ],
+  "antropopiteco": [
+    "antropopiteko",
+    "antropopitɛko"
+  ],
+  "antroposfera": [
+    "antroposfɛra"
+  ],
+  "antroposfere": [
+    "antroposfɛre"
+  ],
+  "anubi": [
+    "anubi"
+  ],
+  "anulare": [
+    "anulare"
+  ],
+  "anura": [
+    "anura"
+  ],
+  "anure": [
+    "anure"
+  ],
+  "anuri": [
+    "anuri"
+  ],
+  "anuria": [
+    "anurja"
+  ],
+  "anurie": [
+    "anurje"
+  ],
+  "anuro": [
+    "anuro"
+  ],
+  "anversa": [
+    "anvɛrsa"
+  ],
+  "anzi": [
+    "antsi"
+  ],
+  "anzianità": [
+    "antsjanita"
+  ],
+  "anziano": [
+    "antsjano"
+  ],
+  "anzianotto": [
+    "antsjanɔtːo"
+  ],
+  "anzio": [
+    "antsjo"
+  ],
+  "anzitempo": [
+    "antsitɛmpo"
+  ],
+  "anzitutto": [
+    "antsitutːo"
+  ],
+  "aonio": [
+    "aɔnjo"
+  ],
+  "aorta": [
+    "aɔrta"
+  ],
+  "aorte": [
+    "aɔrta"
+  ],
+  "aosta": [
+    "aosta",
+    "aɔsta"
+  ],
+  "aostana": [
+    "aostana"
+  ],
+  "aostane": [
+    "aostane"
+  ],
+  "aostani": [
+    "aostani"
+  ],
+  "aostano": [
+    "aostano"
+  ],
+  "apar": [
+    "apar"
+  ],
+  "apartheid": [
+    "apartajd"
+  ],
+  "apartitico": [
+    "apartitiko"
+  ],
+  "apatia": [
+    "apatia",
+    "apatja"
+  ],
+  "apatica": [
+    "apatika"
+  ],
+  "apaticamente": [
+    "apatikamente"
+  ],
+  "apatiche": [
+    "apatike"
+  ],
+  "apatici": [
+    "apatitʃi"
+  ],
+  "apatico": [
+    "apatiko"
+  ],
+  "apatie": [
+    "apatje"
+  ],
+  "apatista": [
+    "apatista"
+  ],
+  "apatite": [
+    "apatite"
+  ],
+  "ape": [
+    "ape"
+  ],
+  "apeliota": [
+    "apeljɔta"
+  ],
+  "apeliote": [
+    "apeljɔte"
+  ],
+  "apella": [
+    "apɛlːa"
+  ],
+  "aperea": [
+    "apɛrea"
+  ],
+  "apericena": [
+    "aperitʃena"
+  ],
+  "aperiodici": [
+    "aperiɔdiki"
+  ],
+  "aperiodico": [
+    "aperiɔdiko",
+    "aperjɔdiko"
+  ],
+  "aperitiva": [
+    "aperitiva"
+  ],
+  "aperitive": [
+    "aperitive"
+  ],
+  "aperitivi": [
+    "aperitivi"
+  ],
+  "aperitivo": [
+    "aperitivo"
+  ],
+  "aperse": [
+    "apɛrse"
+  ],
+  "apersi": [
+    "apɛrsi"
+  ],
+  "aperta": [
+    "apɛrta"
+  ],
+  "apertamente": [
+    "apertamente",
+    "apɛrtamente"
+  ],
+  "aperte": [
+    "apɛrte"
+  ],
+  "aperti": [
+    "apɛrti"
+  ],
+  "aperto": [
+    "aperto",
+    "apɛrto"
+  ],
+  "apertura": [
+    "apertura"
+  ],
+  "aperture": [
+    "aperture"
+  ],
+  "api": [
+    "api"
+  ],
+  "apicale": [
+    "apikale"
+  ],
+  "apice": [
+    "apitʃe"
+  ],
+  "apici": [
+    "apitʃi"
+  ],
+  "apicoltore": [
+    "apikoltore"
+  ],
+  "apicoltori": [
+    "apikoltori"
+  ],
+  "apicoltrice": [
+    "apikoltritʃe"
+  ],
+  "apicoltrici": [
+    "apikoltritʃi"
+  ],
+  "apicoltura": [
+    "apikoltura"
+  ],
+  "apicolture": [
+    "apikolture"
+  ],
+  "apicultore": [
+    "apikultore"
+  ],
+  "apicultori": [
+    "apikultori"
+  ],
+  "apicultrice": [
+    "apikultritʃe"
+  ],
+  "apicultrici": [
+    "apikultritʃi"
+  ],
+  "apicultura": [
+    "apikoltura",
+    "apikultura"
+  ],
+  "apiculture": [
+    "apikulture"
+  ],
+  "apide": [
+    "apide"
+  ],
+  "apidi": [
+    "apidi"
+  ],
+  "apireno": [
+    "apirɛno"
+  ],
+  "apiterapia": [
+    "apiterapia"
+  ],
+  "apka": [
+    "apka"
+  ],
+  "aplofase": [
+    "aplofaze"
+  ],
+  "aplofasi": [
+    "aplofazi"
+  ],
+  "aplografia": [
+    "aploɡrafia"
+  ],
+  "aploide": [
+    "aplɔjde"
+  ],
+  "aploidia": [
+    "aplojdia"
+  ],
+  "aplologica": [
+    "aplolɔdʒika"
+  ],
+  "aplologiche": [
+    "aplolɔdʒike"
+  ],
+  "aplologici": [
+    "aplolɔdʒitʃi"
+  ],
+  "aplologico": [
+    "aplolɔdʒiko"
+  ],
+  "aplomb": [
+    "aplɔmb"
+  ],
+  "apnea": [
+    "apnea"
+  ],
+  "apnee": [
+    "apnee"
+  ],
+  "apneista": [
+    "apneista"
+  ],
+  "apneiste": [
+    "apneiste"
+  ],
+  "apneisti": [
+    "apneisti"
+  ],
+  "apneumonico": [
+    "apnɛwmɔniko"
+  ],
+  "apo": [
+    "apo"
+  ],
+  "apocalisse": [
+    "apokalisːe"
+  ],
+  "apocalissi": [
+    "apokalisːi"
+  ],
+  "apocalittico": [
+    "apokalitːiko"
+  ],
+  "apocalittista": [
+    "apokalitːista"
+  ],
+  "apocizio": [
+    "apotʃitːsjo"
+  ],
+  "apocope": [
+    "apɔkope"
+  ],
+  "apocrifa": [
+    "apokrifa"
+  ],
+  "apocrife": [
+    "apokrife"
+  ],
+  "apocrifi": [
+    "apokrifi"
+  ],
+  "apocrifo": [
+    "apokrifo",
+    "apɔkrifo"
+  ],
+  "apocrina": [
+    "apɔkrina"
+  ],
+  "apocrine": [
+    "apɔkrine"
+  ],
+  "apocrini": [
+    "apɔkrini"
+  ],
+  "apocrino": [
+    "apɔkrino"
+  ],
+  "apocrito": [
+    "apɔkrito"
+  ],
+  "apodide": [
+    "apɔdide"
+  ],
+  "apodidi": [
+    "apɔdidi"
+  ],
+  "apodiforme": [
+    "apodiforme"
+  ],
+  "apodiformi": [
+    "apodiformi"
+  ],
+  "apodissi": [
+    "apodisːi"
+  ],
+  "apoditerio": [
+    "apoditɛrjo"
+  ],
+  "apodittico": [
+    "apoditːiko"
+  ],
+  "apoftegma": [
+    "apoftɛɡm"
+  ],
+  "apogeo": [
+    "apodʒɛo"
+  ],
+  "apografo": [
+    "apɔɡrafo"
+  ],
+  "apolare": [
+    "apolare"
+  ],
+  "apolarità": [
+    "apolarita"
+  ],
+  "apolide": [
+    "apɔlide"
+  ],
+  "apolidia": [
+    "apolidia"
+  ],
+  "apolitica": [
+    "apolitika"
+  ],
+  "apolitiche": [
+    "apolitike"
+  ],
+  "apolitici": [
+    "apolititʃi"
+  ],
+  "apolitico": [
+    "apolitiko"
+  ],
+  "apollinarista": [
+    "apolːinarista"
+  ],
+  "apollinaristi": [
+    "apolːinaristi"
+  ],
+  "apollineo": [
+    "apolːineo"
+  ],
+  "apollo": [
+    "apolːo",
+    "apɔlːo"
+  ],
+  "apologeta": [
+    "apolodʒɛta"
+  ],
+  "apologetica": [
+    "apolodʒɛtika"
+  ],
+  "apologetico": [
+    "apolodʒɛtiko"
+  ],
+  "apologhi": [
+    "apoloɡi"
+  ],
+  "apologia": [
+    "apolodʒia"
+  ],
+  "apologica": [
+    "apolɔdʒika"
+  ],
+  "apologiche": [
+    "apolɔdʒie"
+  ],
+  "apologici": [
+    "apolɔdʒitʃi"
+  ],
+  "apologico": [
+    "apolɔdʒiko"
+  ],
+  "apologista": [
+    "apolodʒista"
+  ],
+  "apologistico": [
+    "apolodʒistiko"
+  ],
+  "apologo": [
+    "apoloɡo",
+    "apɔloɡo"
+  ],
+  "apolunio": [
+    "apolunjo"
+  ],
+  "apoplessia": [
+    "apoplesːia",
+    "apɔplɛsːja"
+  ],
+  "apoplessie": [
+    "apɔplɛsːje"
+  ],
+  "apoptosi": [
+    "apoptozi",
+    "apɔptozi"
+  ],
+  "aporema": [
+    "aporɛma"
+  ],
+  "aporemi": [
+    "aporɛmi"
+  ],
+  "aporetico": [
+    "aporɛtiko"
+  ],
+  "aporia": [
+    "aporia"
+  ],
+  "apostasia": [
+    "apostazia"
+  ],
+  "apostasie": [
+    "apostazie"
+  ],
+  "apostata": [
+    "apɔstata"
+  ],
+  "apostate": [
+    "apɔstate"
+  ],
+  "apostati": [
+    "apɔstati"
+  ],
+  "aposteriorità": [
+    "aposterjorita"
+  ],
+  "apostolica": [
+    "apostɔlika"
+  ],
+  "apostolicamente": [
+    "apostolikamente"
+  ],
+  "apostoliche": [
+    "apostɔlike"
+  ],
+  "apostolici": [
+    "apostɔlitʃi"
+  ],
+  "apostolico": [
+    "apostɔliko"
+  ],
+  "apostolo": [
+    "apɔstolo",
+    "apɔstɔlɔ"
+  ],
+  "apostrofare": [
+    "apostrofare"
+  ],
+  "apostrofata": [
+    "apostrofata"
+  ],
+  "apostrofate": [
+    "apostrofate"
+  ],
+  "apostrofati": [
+    "apostrofati"
+  ],
+  "apostrofato": [
+    "apostrofato"
+  ],
+  "apostrofe": [
+    "apɔstrofe"
+  ],
+  "apostrofi": [
+    "apostrofi"
+  ],
+  "apostrofo": [
+    "apostrofo",
+    "apɔstrofo"
+  ],
+  "apotecio": [
+    "apotɛtʃo"
+  ],
+  "apotema": [
+    "apotɛma"
+  ],
+  "apotemi": [
+    "apotɛmi"
+  ],
+  "apoteosi": [
+    "apoteɔzi"
+  ],
+  "apotropaica": [
+    "apotropajka"
+  ],
+  "apotropaiche": [
+    "apotropajke"
+  ],
+  "apotropaici": [
+    "apotropajtʃi"
+  ],
+  "apotropaico": [
+    "apotropaiko",
+    "apotropajko"
+  ],
+  "apozema": [
+    "apɔdːzema"
+  ],
+  "apozzema": [
+    "apɔdːzema"
+  ],
+  "app": [
+    "apː"
+  ],
+  "appaciare": [
+    "apːatʃare"
+  ],
+  "appacificare": [
+    "apːatʃifikare"
+  ],
+  "appagabile": [
+    "apːaɡabile"
+  ],
+  "appagamento": [
+    "apːaɡamento"
+  ],
+  "appagante": [
+    "apːaɡante"
+  ],
+  "appagare": [
+    "apːaɡare"
+  ],
+  "appagato": [
+    "apːaɡato"
+  ],
+  "appaiamento": [
+    "apːajamento"
+  ],
+  "appaiare": [
+    "apːajare"
+  ],
+  "appaio": [
+    "apːajo"
+  ],
+  "appalta": [
+    "apːalta"
+  ],
+  "appaltai": [
+    "apːaltai"
+  ],
+  "appaltammo": [
+    "apːaltamːo"
+  ],
+  "appaltando": [
+    "apːaltando"
+  ],
+  "appaltano": [
+    "apːaltano"
+  ],
+  "appaltante": [
+    "apːaltante"
+  ],
+  "appaltare": [
+    "apːaltare"
+  ],
+  "appaltarono": [
+    "apːaltarono"
+  ],
+  "appaltasse": [
+    "apːaltasːe"
+  ],
+  "appaltassero": [
+    "apːaltasːero"
+  ],
+  "appaltassi": [
+    "apːaltasːi"
+  ],
+  "appaltassimo": [
+    "apːaltasːimo"
+  ],
+  "appaltaste": [
+    "apːaltaste"
+  ],
+  "appaltasti": [
+    "apːaltasti"
+  ],
+  "appaltata": [
+    "apːaltata"
+  ],
+  "appaltate": [
+    "apːaltate"
+  ],
+  "appaltati": [
+    "apːaltati"
+  ],
+  "appaltato": [
+    "apːaltato"
+  ],
+  "appaltatore": [
+    "apːaltatore"
+  ],
+  "appaltava": [
+    "apːaltava"
+  ],
+  "appaltavamo": [
+    "apːaltavamo"
+  ],
+  "appaltavano": [
+    "apːaltavano"
+  ],
+  "appaltavate": [
+    "apːaltavate"
+  ],
+  "appaltavi": [
+    "apːaltavi"
+  ],
+  "appaltavo": [
+    "apːaltavo"
+  ],
+  "appalterà": [
+    "apːaltera"
+  ],
+  "appalterai": [
+    "apːalterai"
+  ],
+  "appalteranno": [
+    "apːalteranːo"
+  ],
+  "appalterebbe": [
+    "apːalterebːe"
+  ],
+  "appalterebbero": [
+    "apːalterebːero"
+  ],
+  "appalterei": [
+    "apːalterei"
+  ],
+  "appalteremmo": [
+    "apːalteremːo"
+  ],
+  "appalteremo": [
+    "apːalteremo"
+  ],
+  "appaltereste": [
+    "apːaltereste"
+  ],
+  "appalteresti": [
+    "apːalteresti"
+  ],
+  "appalterete": [
+    "apːalterete"
+  ],
+  "appalterò": [
+    "apːaltero"
+  ],
+  "appalti": [
+    "apːalti"
+  ],
+  "appaltiamo": [
+    "apːaltjamo"
+  ],
+  "appaltiate": [
+    "apːaltjate"
+  ],
+  "appaltino": [
+    "apːaltino"
+  ],
+  "appalto": [
+    "apːalto"
+  ],
+  "appaltò": [
+    "apːalto"
+  ],
+  "appalugarsi": [
+    "apːaluɡarsi"
+  ],
+  "appanna": [
+    "apːanːa"
+  ],
+  "appannaggi": [
+    "apːanːadːʒi"
+  ],
+  "appannaggio": [
+    "apːanːadːʒo"
+  ],
+  "appannai": [
+    "apːanːai"
+  ],
+  "appannammo": [
+    "apːanːamːo"
+  ],
+  "appannando": [
+    "apːanːando"
+  ],
+  "appannano": [
+    "apːanːano"
+  ],
+  "appannante": [
+    "apːanːante"
+  ],
+  "appannare": [
+    "apːanːare"
+  ],
+  "appannarono": [
+    "apːanːarono"
+  ],
+  "appannasse": [
+    "apːanːasːe"
+  ],
+  "appannassero": [
+    "apːanːasːero"
+  ],
+  "appannassi": [
+    "apːanːasːi"
+  ],
+  "appannassimo": [
+    "apːanːasːimo"
+  ],
+  "appannaste": [
+    "apːanːaste"
+  ],
+  "appannasti": [
+    "apːanːasti"
+  ],
+  "appannata": [
+    "apːanːata"
+  ],
+  "appannate": [
+    "apːanːate"
+  ],
+  "appannati": [
+    "apːanːati"
+  ],
+  "appannato": [
+    "apːanːato"
+  ],
+  "appannava": [
+    "apːanːava"
+  ],
+  "appannavamo": [
+    "apːanːavamo"
+  ],
+  "appannavano": [
+    "apːanːavano"
+  ],
+  "appannavate": [
+    "apːanːavate"
+  ],
+  "appannavi": [
+    "apːanːavi"
+  ],
+  "appannavo": [
+    "apːanːavo"
+  ],
+  "appannerà": [
+    "apːanːera"
+  ],
+  "appannerai": [
+    "apːanːerai"
+  ],
+  "appanneranno": [
+    "apːanːeranːo"
+  ],
+  "appannerebbe": [
+    "apːanːerebːe"
+  ],
+  "appannerebbero": [
+    "apːanːerebːero"
+  ],
+  "appannerei": [
+    "apːanːerei"
+  ],
+  "appanneremmo": [
+    "apːanːeremːo"
+  ],
+  "appanneremo": [
+    "apːanːeremo"
+  ],
+  "appannereste": [
+    "apːanːereste"
+  ],
+  "appanneresti": [
+    "apːanːeresti"
+  ],
+  "appannerete": [
+    "apːanːerete"
+  ],
+  "appannerò": [
+    "apːanːero"
+  ],
+  "appanni": [
+    "apːanːi"
+  ],
+  "appanniamo": [
+    "apːanːjamo"
+  ],
+  "appanniate": [
+    "apːanːjate"
+  ],
+  "appannino": [
+    "apːanːino"
+  ],
+  "appanno": [
+    "apːanːo"
+  ],
+  "appannò": [
+    "apːanːo"
+  ],
+  "appara": [
+    "apːara"
+  ],
+  "apparai": [
+    "apːarai"
+  ],
+  "apparammo": [
+    "apːaramːo"
+  ],
+  "apparando": [
+    "apːarando"
+  ],
+  "apparano": [
+    "apːarano"
+  ],
+  "apparante": [
+    "apːarante"
+  ],
+  "appararono": [
+    "apːararono"
+  ],
+  "apparasse": [
+    "apːarasːe"
+  ],
+  "apparassero": [
+    "apːarasːero"
+  ],
+  "apparassi": [
+    "apːarasːi"
+  ],
+  "apparassimo": [
+    "apːarasːimo"
+  ],
+  "apparaste": [
+    "apːaraste"
+  ],
+  "apparasti": [
+    "apːarasti"
+  ],
+  "apparata": [
+    "apːarata"
+  ],
+  "apparate": [
+    "apːarate"
+  ],
+  "apparati": [
+    "apːarati"
+  ],
+  "apparato": [
+    "apːarato"
+  ],
+  "apparava": [
+    "apːarava"
+  ],
+  "apparavamo": [
+    "apːaravamo"
+  ],
+  "apparavano": [
+    "apːaravano"
+  ],
+  "apparavate": [
+    "apːaravate"
+  ],
+  "apparavi": [
+    "apːaravi"
+  ],
+  "apparavo": [
+    "apːaravo"
+  ],
+  "apparecchi": [
+    "apːarɛkːi"
+  ],
+  "apparecchiare": [
+    "apːarekːiare"
+  ],
+  "apparecchiato": [
+    "apːarekːjato"
+  ],
+  "apparecchiatura": [
+    "apːarekːjatura"
+  ],
+  "apparecchiature": [
+    "apːarekːjature"
+  ],
+  "apparecchietto": [
+    "apːarekːjetːo"
+  ],
+  "apparecchio": [
+    "apːarekːjo",
+    "apːarɛkːjɔ"
+  ],
+  "apparentare": [
+    "apːarentare"
+  ],
+  "apparente": [
+    "apːarɛnte"
+  ],
+  "apparentemente": [
+    "apːarentemente"
+  ],
+  "apparenti": [
+    "apːarɛnti"
+  ],
+  "apparenza": [
+    "apːarɛntsa"
+  ],
+  "apparenze": [
+    "apːarɛntse"
+  ],
+  "apparerà": [
+    "apːarera"
+  ],
+  "apparerai": [
+    "apːarerai"
+  ],
+  "appareranno": [
+    "apːareranːo"
+  ],
+  "apparerebbe": [
+    "apːarerebːe"
+  ],
+  "apparerebbero": [
+    "apːarerebːero"
+  ],
+  "apparerei": [
+    "apːarerei"
+  ],
+  "appareremmo": [
+    "apːareremːo"
+  ],
+  "appareremo": [
+    "apːareremo"
+  ],
+  "apparereste": [
+    "apːarereste"
+  ],
+  "appareresti": [
+    "apːareresti"
+  ],
+  "apparerete": [
+    "apːarerete"
+  ],
+  "apparerò": [
+    "apːarero"
+  ],
+  "appari": [
+    "apːari"
+  ],
+  "appariamo": [
+    "apːarjamo"
+  ],
+  "appariate": [
+    "apːarjate"
+  ],
+  "apparigliare": [
+    "apːariʎare"
+  ],
+  "apparino": [
+    "apːarino"
+  ],
+  "apparire": [
+    "apːarire"
+  ],
+  "appariscente": [
+    "apːariʃʃɛnte"
+  ],
+  "apparizione": [
+    "apːaritːsjone"
+  ],
+  "apparo": [
+    "apːaro"
+  ],
+  "apparò": [
+    "apːaro"
+  ],
+  "apparta": [
+    "apːarta"
+  ],
+  "appartai": [
+    "apːartai"
+  ],
+  "appartamentino": [
+    "apːartamentino"
+  ],
+  "appartamento": [
+    "apːartamento",
+    "apːartamɛntɔ"
+  ],
+  "appartammo": [
+    "apːartamːo"
+  ],
+  "appartando": [
+    "apːartando"
+  ],
+  "appartano": [
+    "apːartano"
+  ],
+  "appartante": [
+    "apːartante"
+  ],
+  "appartare": [
+    "apːartare"
+  ],
+  "appartarono": [
+    "apːartarono"
+  ],
+  "appartasse": [
+    "apːartasːe"
+  ],
+  "appartassero": [
+    "apːartasːero"
+  ],
+  "appartassi": [
+    "apːartasːi"
+  ],
+  "appartassimo": [
+    "apːartasːimo"
+  ],
+  "appartaste": [
+    "apːartaste"
+  ],
+  "appartasti": [
+    "apːartasti"
+  ],
+  "appartata": [
+    "apːartata"
+  ],
+  "appartate": [
+    "apːartate"
+  ],
+  "appartati": [
+    "apːartati"
+  ],
+  "appartato": [
+    "apːartato"
+  ],
+  "appartava": [
+    "apːartava"
+  ],
+  "appartavamo": [
+    "apːartavamo"
+  ],
+  "appartavano": [
+    "apːartavano"
+  ],
+  "appartavate": [
+    "apːartavate"
+  ],
+  "appartavi": [
+    "apːartavi"
+  ],
+  "appartavo": [
+    "apːartavo"
+  ],
+  "appartenemmo": [
+    "apːartenemːo"
+  ]
 }

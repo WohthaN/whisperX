@@ -1,502 +1,1524 @@
 {
-  "affiatino": ["a fː j a t i n o"],
-  "affiato": ["a fː j a t o"],
-  "affiatò": ["a fː j a t o"],
-  "affibbiare": ["a fː i bː j a r e"],
-  "affibbiatura": ["a fː i bː j a t u r a"],
-  "affiche": ["a fː i ʃ"],
-  "affida": ["a fː i d a"],
-  "affidabile": ["a fː i d a b i l e", "a fː i d a r e"],
-  "affidabili": ["a fː i d a b i l i"],
-  "affidabilità": ["a fː i d a b i l i t a"],
-  "affidabilmente": ["a fː i d a b i l m e n t e"],
-  "affidai": ["a fː i d a i"],
-  "affidamenti": ["a fː i d a m e n t i"],
-  "affidamento": ["a fː i d a m e n t o"],
-  "affidammo": ["a fː i d a mː o"],
-  "affidando": ["a fː i d a n d o"],
-  "affidano": ["a fː i d a n o"],
-  "affidante": ["a fː i d a n t e"],
-  "affidare": ["a fː i d a r e"],
-  "affidarono": ["a fː i d a r o n o"],
-  "affidarsi": ["a fː i d a r s i"],
-  "affidasse": ["a fː i d a sː e"],
-  "affidassero": ["a fː i d a sː e r o"],
-  "affidassi": ["a fː i d a sː i"],
-  "affidassimo": ["a fː i d a sː i m o"],
-  "affidaste": ["a fː i d a s t e"],
-  "affidasti": ["a fː i d a s t i"],
-  "affidatario": ["a fː i d a t a r j o"],
-  "affidate": ["a fː i d a t e"],
-  "affidato": ["a fː i d a t o"],
-  "affidava": ["a fː i d a v a"],
-  "affidavamo": ["a fː i d a v a m o"],
-  "affidavano": ["a fː i d a v a n o"],
-  "affidavate": ["a fː i d a v a t e"],
-  "affidavi": ["a fː i d a v i"],
-  "affidavit": ["a fː i d a v i t"],
-  "affidavo": ["a fː i d a v o"],
-  "affiderà": ["a fː i d e r a"],
-  "affiderai": ["a fː i d e r a i"],
-  "affideranno": ["a fː i d e r a nː o"],
-  "affiderebbe": ["a fː i d e r e bː e"],
-  "affiderebbero": ["a fː i d e r e bː e r o"],
-  "affiderei": ["a fː i d e r e i"],
-  "affideremmo": ["a fː i d e r e mː o"],
-  "affideremo": ["a fː i d e r e m o"],
-  "affidereste": ["a fː i d e r e s t e"],
-  "affideresti": ["a fː i d e r e s t i"],
-  "affiderete": ["a fː i d e r e t e"],
-  "affiderò": ["a fː i d e r o"],
-  "affidi": ["a fː i d i"],
-  "affidiamo": ["a fː i d j a m o"],
-  "affidiate": ["a fː i d j a t e"],
-  "affidino": ["a fː i d i n o"],
-  "affido": ["a fː i d o"],
-  "affidò": ["a fː i d o"],
-  "affienare": ["a fː j e n a r e"],
-  "affievolendo": ["a fː j e v o l e n d o"],
-  "affievolente": ["a fː j e v o l e n t e"],
-  "affievolimento": ["a fː j e v o l i m e n t o"],
-  "affievolire": ["a fː j e v o l i r e"],
-  "affievolirsi": ["a fː j e v o l i r s i"],
-  "affievolita": ["a fː j e v o l i t a"],
-  "affievolite": ["a fː j e v o l i t e"],
-  "affievoliti": ["a fː j e v o l i t i"],
-  "affievolito": ["a fː j e v o l i t o"],
-  "affiggente": ["a fː i dː ʒ e n t e"],
-  "affiggere": ["a fː i dː ʒ e r e"],
-  "affila": ["a fː i l a"],
-  "affilacoltelli": ["a fː i l a k o l t ɛ lː i"],
-  "affilai": ["a fː i l a i"],
-  "affilammo": ["a fː i l a mː o"],
-  "affilando": ["a fː i l a n d o"],
-  "affilano": ["a fː i l a n o"],
-  "affilante": ["a fː i l a n t e"],
-  "affilare": ["a fː i l a r e"],
-  "affilarono": ["a fː i l a r o n o"],
-  "affilarsi": ["a fː i l a r s i"],
-  "affilasse": ["a fː i l a sː e"],
-  "affilassero": ["a fː i l a sː e r o"],
-  "affilassi": ["a fː i l a sː i"],
-  "affilassimo": ["a fː i l a sː i m o"],
-  "affilaste": ["a fː i l a s t e"],
-  "affilasti": ["a fː i l a s t i"],
-  "affilata": ["a fː i l a t a"],
-  "affilate": ["a fː i l a t e"],
-  "affilati": ["a fː i l a t i"],
-  "affilato": ["a fː i l a t o"],
-  "affilava": ["a fː i l a v a"],
-  "affilavamo": ["a fː i l a v a m o"],
-  "affilavano": ["a fː i l a v a n o"],
-  "affilavate": ["a fː i l a v a t e"],
-  "affilavi": ["a fː i l a v i"],
-  "affilavo": ["a fː i l a v o"],
-  "affilerà": ["a fː i l e r a"],
-  "affilerai": ["a fː i l e r a i"],
-  "affileranno": ["a fː i l e r a nː o"],
-  "affilerebbe": ["a fː i l e r e bː e"],
-  "affilerebbero": ["a fː i l e r e bː e r o"],
-  "affilerei": ["a fː i l e r e i"],
-  "affileremmo": ["a fː i l e r e mː o"],
-  "affileremo": ["a fː i l e r e m o"],
-  "affilereste": ["a fː i l e r e s t e"],
-  "affileresti": ["a fː i l e r e s t i"],
-  "affilerete": ["a fː i l e r e t e"],
-  "affilerò": ["a fː i l e r o"],
-  "affili": ["a fː i l i"],
-  "affiliamo": ["a fː i l j a m o"],
-  "affiliata": ["a fː i l j a t a"],
-  "affiliate": ["a fː i l j a t e"],
-  "affiliati": ["a fː i l j a t i"],
-  "affiliato": ["a fː i l a t o", "a fː i l j a t o"],
-  "affiliazione": ["a fː i l j a tː s j o n e"],
-  "affilino": ["a fː i l i n o"],
-  "affilo": ["a fː i l o"],
-  "affilò": ["a fː i l o"],
-  "affinamento": ["a fː i n a m e n t o"],
-  "affinare": ["a fː i n a r e"],
-  "affinarono": ["a fː i n a r o n o"],
-  "affinato": ["a fː i n a t o"],
-  "affinché": ["a fː i n k e"],
-  "affine": ["a fː i n e"],
-  "affini": ["a fː i n e"],
-  "affinità": ["a fː i n i t a"],
-  "affiochire": ["a fː j o k i r e"],
-  "affioramenti": ["a fː j o r a m e n t i"],
-  "affioramento": ["a fː j o r a m e n t o"],
-  "affiorare": ["a fː j o r a r e"],
-  "affissi": ["a fː i sː i"],
-  "affissione": ["a fː i sː j o n e"],
-  "affissioni": ["a fː i sː j o n i"],
-  "affisso": ["a fː i sː o", "a fː i sː ɔ"],
-  "affitta": ["a fː i tː a"],
-  "affittai": ["a fː i tː a i"],
-  "affittammo": ["a fː i tː a mː o"],
-  "affittando": ["a fː i tː a n d o"],
-  "affittano": ["a fː i tː a n o"],
-  "affittante": ["a fː i tː a n t e"],
-  "affittanza": ["a fː i tː a n t s a"],
-  "affittanze": ["a fː i tː a n t s e"],
-  "affittare": ["a fː i tː a r e"],
-  "affittarono": ["a fː i tː a r o n o"],
-  "affittassero": ["a fː i tː a sː e r o"],
-  "affittassi": ["a fː i tː a sː i"],
-  "affittassimo": ["a fː i tː a sː i m o"],
-  "affittaste": ["a fː i tː a s t e"],
-  "affittasti": ["a fː i tː a s t i"],
-  "affittata": ["a fː i tː a t a"],
-  "affittate": ["a fː i tː a t e"],
-  "affittati": ["a fː i tː a t i"],
-  "affittato": ["a fː i tː a t o"],
-  "affittava": ["a fː i tː a v a"],
-  "affittavamo": ["a fː i tː a v a m o"],
-  "affittavano": ["a fː i tː a v a n o"],
-  "affittavate": ["a fː i tː a v a t e"],
-  "affittavi": ["a fː i tː a v i"],
-  "affittavo": ["a fː i tː a v o"],
-  "affitterà": ["a fː i tː e r a"],
-  "affitterai": ["a fː i tː e r a i"],
-  "affitteranno": ["a fː i tː e r a nː o"],
-  "affitterebbe": ["a fː i tː e r e bː e"],
-  "affitterebbero": ["a fː i tː e r e bː e r o"],
-  "affitterei": ["a fː i tː e r e i"],
-  "affitteremmo": ["a fː i tː e r e mː o"],
-  "affitteremo": ["a fː i tː e r e m o"],
-  "affittereste": ["a fː i tː e r e s t e"],
-  "affitteresti": ["a fː i tː e r e s t i"],
-  "affitterete": ["a fː i tː e r e t e"],
-  "affitterò": ["a fː i tː e r o"],
-  "affitti": ["a fː i tː i"],
-  "affittiamo": ["a fː i tː j a m o"],
-  "affittiate": ["a fː i tː j a t e"],
-  "affittino": ["a fː i tː i n o"],
-  "affitto": ["a fː i tː o"],
-  "affittò": ["a fː i tː o"],
-  "affittuario": ["a fː i tː w a r j o"],
-  "afflare": ["a fː l a r e"],
-  "afflati": ["a fː l a t i"],
-  "afflato": ["a fː l a t o"],
-  "affliggente": ["a fː l i dː ʒ e n t e"],
-  "affliggere": ["a fː l i dː ʒ e r e"],
-  "affliggersi": ["a fː l i dː ʒ e r s i"],
-  "afflitto": ["a fː l i tː o", "a fː l i tː ɔ"],
-  "afflizione": ["a fː l i t s j o n e"],
-  "afflizioni": ["a fː l i t s j o n e"],
-  "afflosciare": ["a fː l o ʃ ʃ a r e"],
-  "affluente": ["a fː l u ɛ n t e"],
-  "affluenza": ["a fː l u ɛ n t s a", "a fː l w ɛ n t s a"],
-  "affluire": ["a fː l u i r e"],
-  "afflusso": ["a fː l u sː o"],
-  "affocare": ["a fː o k a r e"],
-  "affogamenti": ["a fː o ɡ a m e n t i"],
-  "affogamento": ["a fː o ɡ a m e n t o"],
-  "affogante": ["a fː o ɡ a n t e"],
-  "affogare": ["a fː o ɡ a r e", "a fː ɔ ɡ a r e"],
-  "affogarsi": ["a fː o ɡ a r s i"],
-  "affogata": ["a fː o ɡ a t a"],
-  "affogate": ["a fː o ɡ a t e"],
-  "affogati": ["a fː o ɡ a t i"],
-  "affogato": ["a fː o ɡ a t o"],
-  "affollamenti": ["a fː o lː a m e n t i"],
-  "affollamento": ["a fː o lː a m e n t o"],
-  "affollare": ["a fː o lː a r e"],
-  "affollarsi": ["a fː o lː a r s i"],
-  "affollato": ["a fː o lː a t o"],
-  "affoltare": ["a fː o l t a r e"],
-  "affondabile": ["a fː o n d a b i l e"],
-  "affondabili": ["a fː o n d a b i l i"],
-  "affondamenti": ["a fː o n d a m e n t i"],
-  "affondamento": ["a fː o n d a m e n t o"],
-  "affondare": ["a fː o n d a r e"],
-  "affondarsi": ["a fː o n d a r s i"],
-  "affondato": ["a fː o n d a t o"],
-  "affondatore": ["a fː o n d a t o r e"],
-  "affondatori": ["a fː o n d a t o r i"],
-  "affondo": ["a fː o n d o"],
-  "affortendo": ["a fː o r t e n d o"],
-  "affortente": ["a fː o r t e n t e"],
-  "affortire": ["a fː o r t i r e"],
-  "affortita": ["a fː o r t i t a"],
-  "affortite": ["a fː o r t i t e"],
-  "affortiti": ["a fː o r t i t i"],
-  "affortito": ["a fː o r t i t o"],
-  "affossamento": ["a fː o sː a m e n t o"],
-  "affossare": ["a fː o sː a r e"],
-  "affossato": ["a fː o sː a t o"],
-  "affralando": ["a fː r a l a n d o"],
-  "affralante": ["a fː r a l a n t e"],
-  "affralare": ["a fː r a l a r e"],
-  "affralata": ["a fː r a l a t a"],
-  "affralate": ["a fː r a l a t e"],
-  "affralati": ["a fː r a l a t i"],
-  "affralato": ["a fː r a l a t o"],
-  "affralendo": ["a fː r a l e n d o"],
-  "affralente": ["a fː r a l e n t e"],
-  "affralire": ["a fː r a l i r e"],
-  "affralita": ["a fː r a l i t a"],
-  "affralite": ["a fː r a l i t e"],
-  "affraliti": ["a fː r a l i t i"],
-  "affralito": ["a fː r a l i t o"],
-  "affrancamenti": ["a fː r a ɲ k a m e n t i"],
-  "affrancamento": ["a fː r a ɲ k a m e n t o"],
-  "affrancante": ["a fː r a n k a n t e"],
-  "affrancare": ["a fː r a n k a r e"],
-  "affrancarsi": ["a fː r a n k a r sː i"],
-  "affrancato": ["a fː r a n k a t o"],
-  "affrancatura": ["a fː r a n k a t u r a"],
-  "affrancature": ["a fː r a n k a t u r e"],
-  "affrangere": ["a fː r a n d ʒ e r e", "a fː r a n ɡ e r e"],
-  "affranto": ["a fː r a n t o"],
-  "affratellare": ["a fː r a t e lː a r e"],
-  "affratellarsi": ["a fː r a t e lː a r s i"],
-  "affreddare": ["a fː r e dː a r e"],
-  "affrenare": ["a fː r e n a r e"],
-  "affrescante": ["a fː r e s k a n t e"],
-  "affrescare": ["a fː r e s k a r e"],
-  "affrescato": ["a fː r e s k a t o"],
-  "affrescatore": ["a fː r e s k a t o r e"],
-  "affrescatori": ["a fː r e s k a t o r i"],
-  "affrescatrice": ["a fː r e s k a t r i t ʃ e"],
-  "affrescatrici": ["a fː r e s k a t r i t ʃ i"],
-  "affreschi": ["a fː r e s k i"],
-  "affresco": ["a fː r e s k o"],
-  "affrettare": ["a fː r e tː a r e"],
-  "affrettarsi": ["a fː r e tː a r s i", "a fː r ɛ tː a r s i"],
-  "affrettatamente": ["a fː r e tː a t a m e n t e"],
-  "affrettato": ["a fː r e tː a t o"],
-  "affricata": ["a fː r i k a t a"],
-  "affricate": ["a fː r i k a t e"],
-  "affricati": ["a fː r i k a t i"],
-  "affricato": ["a fː r i k a t o"],
-  "affricazione": ["a fː r i k a tː s j o n e"],
-  "affronta": ["a fː r o n t a"],
-  "affrontabile": ["a fː r o n t a b i l e"],
-  "affrontabili": ["a fː r o n t a b i l i"],
-  "affrontai": ["a fː r o n t a i"],
-  "affrontamenti": ["a fː r o n t a m e n t i"],
-  "affrontamento": ["a fː r o n t a m e n t o"],
-  "affrontante": ["a fː r o n t a n t e"],
-  "affrontare": ["a fː r o n t a r e"],
-  "affrontarsi": ["a fː r o n t a r s i"],
-  "affrontasse": ["a fː r o n t a sː e"],
-  "affrontato": ["a fː r o n t a t o"],
-  "affronterai": ["a fː r o n t e r a i"],
-  "affronti": ["a fː r o n t i"],
-  "affronto": ["a fː r o n t o"],
-  "affumicare": ["a fː u m i k a r e"],
-  "affumicato": ["a fː u m i k a t o"],
-  "affumicatore": ["a fː u m i k a t o r e"],
-  "affumicatori": ["a fː u m i k a t o r i"],
-  "affumicatura": ["a fː u m i k a t u r a"],
-  "affusolato": ["a fː u s o l a t o"],
-  "affusti": ["a fː u s t i"],
-  "affusto": ["a fː u s t o"],
-  "afgana": ["a f ɡ a n a"],
-  "afgane": ["a f ɡ a n e"],
-  "afgani": ["a f ɡ a n i"],
-  "afganistan": ["a f ɡ a n i s t a n"],
-  "afgano": ["a f ɡ a n o"],
-  "afghana": ["a f ɡ a n a"],
-  "afghane": ["a f ɡ a n e"],
-  "afghani": ["a f ɡ a n i"],
-  "afghanistan": ["a f ɡ a n i s t a n"],
-  "afghano": ["a f ɡ a n o"],
-  "afide": ["a f i d e"],
-  "afidi": ["a f i d i"],
-  "afididi": ["a f i d i d i"],
-  "afnio": ["a f n j o"],
-  "afodio": ["a f ɔ d j o"],
-  "afonia": ["a f o n i a"],
-  "afono": ["a f o n o"],
-  "aforisma": ["a f o r i z m a"],
-  "aforismi": ["a f o r i z m i"],
-  "aforistico": ["a f o r i s t i k o"],
-  "afosa": ["a f o z a"],
-  "afose": ["a f o z e"],
-  "afosi": ["a f o z i"],
-  "afosità": ["a f o z i t a"],
-  "afoso": ["a f o s o", "a f o z o"],
-  "afragolese": ["a f r a ɡ o l e s e", "a f r a ɡ o l e z e"],
-  "africa": ["a f r i k a"],
-  "africanismo": ["a f r i k a n i z m o"],
-  "africanista": ["a f r i k a n i s t a"],
-  "africaniste": ["a f r i k a n i s t e"],
-  "africanisti": ["a f r i k a n i s t i"],
-  "africanizzazione": ["a f r i k a n i dː z a tː s j o n e"],
-  "africanizzazioni": ["a f r i k a n i dː z a tː s j o n i"],
-  "africano": ["a f r i k a n o", "a f r i k a n ɔ"],
-  "afrikaans": ["a f r i k a n s"],
-  "afrikander": ["a f r i k a n d e r"],
-  "afrikaner": ["a f r i k a n e r"],
-  "afroamericano": ["a f r o a m e r i k a n o"],
-  "afrodisiaco": ["a f r o d i z i a k o"],
-  "afrofuturista": ["a f r o f u t u r i s t a"],
-  "afrofuturiste": ["a f r o f u t u r i s t e"],
-  "afrofuturisti": ["a f r o f u t u r i s t i"],
-  "afrolite": ["a f r o l i t e"],
-  "afrometro": ["a f r ɔ m e t r o"],
-  "afrore": ["a f r o r e"],
-  "afrori": ["a f r o r i"],
-  "afroroso": ["a f r o r o s o", "a f r o r o z o"],
-  "aftoso": ["a f t o s o", "a f t o z o"],
-  "agadir": ["a ɡ a d i r"],
-  "agamia": ["a ɡ a m i a"],
-  "agamico": ["a ɡ a m i k o"],
-  "agammaglobulinemia": ["a ɡ a mː a ɡ l o b u l i n e m i a"],
-  "agamospecie": ["a ɡ a m o s p ɛ t ʃ e"],
-  "agape": ["a ɡ a p e"],
-  "agarico": ["a ɡ a r i k o"],
-  "agata": ["a ɡ a t a"],
-  "agate": ["a ɡ a t e"],
-  "agatifera": ["a ɡ a t i f e r a"],
-  "agatifere": ["a ɡ a t i f e r e"],
-  "agatiferi": ["a ɡ a t i f e r i"],
-  "agatifero": ["a ɡ a t i f e r o"],
-  "agave": ["a ɡ a v e"],
-  "agenda": ["a d ʒ ɛ n d a"],
-  "agendina": ["a d ʒ e n d i n a"],
-  "agenesia": ["a d ʒ ɛ n e z i a"],
-  "agenesie": ["a d ʒ ɛ n e z i e"],
-  "agente": ["a d ʒ ɛ n t e"],
-  "agenti": ["a d ʒ ɛ n t i"],
-  "agenzia": ["a d ʒ e n t s i a", "a d ʒ ɛ n t s i a"],
-  "agenzie": ["a d ʒ ɛ n t s i e"],
-  "ageo": ["a d ʒ e o"],
-  "agerà": ["a d ʒ e r a"],
-  "agerai": ["a d ʒ e r a i"],
-  "ageranno": ["a d ʒ e r a nː o"],
-  "agerato": ["a d ʒ e r a t o"],
-  "agerebbe": ["a d ʒ e r e bː e"],
-  "agerebbero": ["a d ʒ e r e bː e r o"],
-  "agerei": ["a d ʒ e r e i"],
-  "ageremmo": ["a d ʒ e r e mː o"],
-  "ageremo": ["a d ʒ e r e m o"],
-  "agereste": ["a d ʒ e r e s t e"],
-  "ageresti": ["a d ʒ e r e s t i"],
-  "agerete": ["a d ʒ e r e t e"],
-  "agerò": ["a d ʒ e r o"],
-  "agevola": ["a d ʒ e v o l a"],
-  "agevolante": ["a d ʒ e v o l a n t e"],
-  "agevolare": ["a d ʒ e v o l a r e"],
-  "agevolato": ["a d ʒ e v o l a t o"],
-  "agevolatore": ["a d ʒ e v o l a t o r e"],
-  "agevolatori": ["a d ʒ e v o l a t o r i"],
-  "agevolatrice": ["a d ʒ e v o l a t r i t ʃ e"],
-  "agevolatrici": ["a d ʒ e v o l a t r i t ʃ i"],
-  "agevolazione": ["a d ʒ e v o l a t s j o n e", "a d ʒ e v o l a tː s j o n e"],
-  "agevolazioni": ["a d ʒ e v o l a t s j o n i"],
-  "agevole": ["a d ʒ e v o l e"],
-  "agevoli": ["a d ʒ e v o l i"],
-  "agevolmente": ["a d ʒ e v o l m e n t e"],
-  "agganci": ["a ɡː a n t ʃ"],
-  "agganciare": ["a ɡː a n t ʃ a r e"],
-  "agganciarsi": ["a ɡː a n t ʃ a r s i"],
-  "aggancio": ["a ɡː a n t ʃ o"],
-  "aggeggerà": ["a dː ʒ e dː ʒ e r a"],
-  "aggeggerai": ["a dː ʒ e dː ʒ e r a i"],
-  "aggeggeranno": ["a dː ʒ e dː ʒ e r a nː o"],
-  "aggeggerebbe": ["a dː ʒ e dː ʒ e r e bː e"],
-  "aggeggerebbero": ["a dː ʒ e dː ʒ e r e bː e r o"],
-  "aggeggerei": ["a dː ʒ e dː ʒ e r e i"],
-  "aggeggeremmo": ["a dː ʒ e dː ʒ e r e mː o"],
-  "aggeggeremo": ["a dː ʒ e dː ʒ e r e m o"],
-  "aggeggereste": ["a dː ʒ e dː ʒ e r e s t e"],
-  "aggeggeresti": ["a dː ʒ e dː ʒ e r e s t i"],
-  "aggeggerete": ["a dː ʒ e dː ʒ e r e t e"],
-  "aggeggerò": ["a dː ʒ e dː ʒ e r o"],
-  "aggeggi": ["a dː ʒ e dː ʒ i"],
-  "aggeggia": ["a dː ʒ e dː ʒ a"],
-  "aggeggiai": ["a dː ʒ e dː ʒ a i"],
-  "aggeggiammo": ["a dː ʒ e dː ʒ a mː o"],
-  "aggeggiamo": ["a dː ʒ e dː ʒ a m o"],
-  "aggeggiando": ["a dː ʒ e dː ʒ a n d o"],
-  "aggeggiano": ["a dː ʒ e dː ʒ a n o"],
-  "aggeggiante": ["a dː ʒ e dː ʒ a n t e"],
-  "aggeggiarono": ["a dː ʒ e dː ʒ a r o n o"],
-  "aggeggiasse": ["a dː ʒ e dː ʒ a sː e"],
-  "aggeggiassero": ["a dː ʒ e dː ʒ a sː e r o"],
-  "aggeggiassi": ["a dː ʒ e dː ʒ a sː i"],
-  "aggeggiassimo": ["a dː ʒ e dː ʒ a sː i m o"],
-  "aggeggiaste": ["a dː ʒ e dː ʒ a s t e"],
-  "aggeggiasti": ["a dː ʒ e dː ʒ a s t i"],
-  "aggeggiata": ["a dː ʒ e dː ʒ a t a"],
-  "aggeggiate": ["a dː ʒ e dː ʒ a t e"],
-  "aggeggiati": ["a dː ʒ e dː ʒ a t i"],
-  "aggeggiato": ["a dː ʒ e dː ʒ a t o"],
-  "aggeggiava": ["a dː ʒ e dː ʒ a v a"],
-  "aggeggiavamo": ["a dː ʒ e dː ʒ a v a m o"],
-  "aggeggiavano": ["a dː ʒ e dː ʒ a v a n o"],
-  "aggeggiavate": ["a dː ʒ e dː ʒ a v a t e"],
-  "aggeggiavi": ["a dː ʒ e dː ʒ a v i"],
-  "aggeggiavo": ["a dː ʒ e dː ʒ a v o"],
-  "aggeggino": ["a dː ʒ e dː ʒ i n o"],
-  "aggeggio": ["a dː ʒ e dː ʒ o"],
-  "aggeggiò": ["a dː ʒ e dː ʒ o"],
-  "aggelare": ["a dː ʒ e l a r e"],
-  "aggere": ["a dː ʒ e r e"],
-  "aggettivale": ["a dː ʒ e tː i v a l e", "a dː ʒ ɛ tː i v a l e"],
-  "aggettivali": ["a dː ʒ ɛ tː i v a l i"],
-  "aggettivalmente": ["a dː ʒ ɛ tː i v a l m e n e"],
-  "aggettivamente": ["a dː ʒ e tː i v a m e n t e", "a dː ʒ ɛ tː i v a m e n e"],
-  "aggettivante": ["a dː ʒ e tː i v a n t e"],
-  "aggettivare": ["a dː ʒ e tː i v a r e"],
-  "aggettivata": ["a dː ʒ e tː i v a t a"],
-  "aggettivate": ["a dː ʒ e tː i v a t e"],
-  "aggettivati": ["a dː ʒ e tː i v a t i"],
-  "aggettivato": ["a dː ʒ e tː i v a t o"],
-  "aggettivazione": ["a dː ʒ e tː i v a tː s j o n e"],
-  "aggettivazioni": ["a dː ʒ e tː i v a tː s j o n i"],
-  "aggettivi": ["a dː ʒ e tː i v i", "a dː ʒ ɛ tː i v i"],
-  "aggettivo": ["a dː ʒ e tː i v o", "a dː ʒ ɛ tː i v o"],
-  "aggetto": ["a dː ʒ e tː o"],
-  "agghiacciante": ["a ɡː j a tː ʃ a n t e"],
-  "agghiacciare": ["a ɡː j a tː ʃ a r e"],
-  "agghiaccio": ["a ɡː j a tː ʃ o"],
-  "agghindare": ["a ɡː i n d a r e"],
-  "agghindarsi": ["a ɡː i n d a r s i"],
-  "agghindato": ["a ɡː i n d a t o"],
-  "aggi": ["a dː ʒ i"],
-  "aggio": ["a dː ʒ o"],
-  "aggiogare": ["a dː ʒ o ɡ a r e"],
-  "aggiornamenti": ["a dː ʒ o r n a m e n t i"],
-  "aggiornamento": ["a dː ʒ o r n a m e n t o"],
-  "aggiornare": ["a dː ʒ o r n a r e"],
-  "aggiornato": ["a dː ʒ o r n a t o"],
-  "aggiotaggi": ["a dː ʒ o t a dː ʒ i"],
-  "aggiotaggio": ["a dː ʒ o t a dː ʒ o"],
-  "aggirabile": ["a dː ʒ i r a b i l e"],
-  "aggirabili": ["a dː ʒ i r a b i l i"],
-  "aggirante": ["a dː ʒ i r a n t e"],
-  "aggirare": ["a dː ʒ i r a r e"],
-  "aggirarsi": ["a dː ʒ i r a r s i"],
-  "aggirato": ["a dː ʒ i r a t o"],
-  "aggiudicare": ["a dː ʒ u d i k a r e"],
-  "aggiudicarsi": ["a dː ʒ u d i k a r s i"],
-  "aggiudicatario": ["a dː ʒ u d i k a t a r j o"],
-  "aggiudicativo": ["a dː ʒ u d i k a t i v o"],
-  "aggiudicato": ["a dː ʒ u d i k a t o"],
-  "aggiudicatore": ["a dː ʒ u d i k a t o r e"],
-  "aggiudicatrice": ["a dː ʒ u d i k a t r i t ʃ e"],
-  "aggiudicazione": ["a dː ʒ u d i k a t s j o n e", "a dː ʒ u d i k a tː s j o n e"],
-  "aggiunga": ["a dː ʒ u ɲ d ʒ a"],
-  "aggiungano": ["a dː ʒ u ɲ d ʒ a n o"],
-  "aggiunge": ["a dː ʒ u ɲ d ʒ e"],
-  "aggiungemmo": ["a dː ʒ u ɲ d ʒ e mː o"],
-  "aggiungendo": ["a dː ʒ u ɲ d ʒ e n d o"],
-  "aggiungente": ["a dː ʒ u ɲ d ʒ e n t e"],
-  "aggiungerà": ["a dː ʒ u ɲ d ʒ e r a"],
-  "aggiungerai": ["a dː ʒ u ɲ d ʒ e r a i"],
-  "aggiungeranno": ["a dː ʒ u ɲ d ʒ e r a nː o"],
-  "aggiungere": ["a dː ʒ u n d ʒ e r e", "a dː ʒ u ɲ d ʒ e r e"],
-  "aggiungerebbe": ["a dː ʒ u ɲ d ʒ e r e bː e"],
-  "aggiungerebbero": ["a dː ʒ u ɲ d ʒ e r e bː e r o"],
-  "aggiungerei": ["a dː ʒ u ɲ d ʒ e r e i"],
-  "aggiungeremmo": ["a dː ʒ u ɲ d ʒ e r e mː o"],
-  "aggiungeremo": ["a dː ʒ u ɲ d ʒ e r e m o"],
-  "aggiungereste": ["a dː ʒ u ɲ d ʒ e r e s t e"],
-  "aggiungeresti": ["a dː ʒ u ɲ d ʒ e r e s t i"],
-  "aggiungerete": ["a dː ʒ u ɲ d ʒ e r e t e"],
-  "aggiungerò": ["a dː ʒ u ɲ d ʒ e r o"],
-  "aggiungersi": ["a dː ʒ u n d ʒ e r s i", "a dː ʒ u ɲ d ʒ e r s i"]
+  "affiatino": [
+    "afːjatino"
+  ],
+  "affiato": [
+    "afːjato"
+  ],
+  "affiatò": [
+    "afːjato"
+  ],
+  "affibbiare": [
+    "afːibːjare"
+  ],
+  "affibbiatura": [
+    "afːibːjatura"
+  ],
+  "affiche": [
+    "afːiʃ"
+  ],
+  "affida": [
+    "afːida"
+  ],
+  "affidabile": [
+    "afːidabile",
+    "afːidare"
+  ],
+  "affidabili": [
+    "afːidabili"
+  ],
+  "affidabilità": [
+    "afːidabilita"
+  ],
+  "affidabilmente": [
+    "afːidabilmente"
+  ],
+  "affidai": [
+    "afːidai"
+  ],
+  "affidamenti": [
+    "afːidamenti"
+  ],
+  "affidamento": [
+    "afːidamento"
+  ],
+  "affidammo": [
+    "afːidamːo"
+  ],
+  "affidando": [
+    "afːidando"
+  ],
+  "affidano": [
+    "afːidano"
+  ],
+  "affidante": [
+    "afːidante"
+  ],
+  "affidare": [
+    "afːidare"
+  ],
+  "affidarono": [
+    "afːidarono"
+  ],
+  "affidarsi": [
+    "afːidarsi"
+  ],
+  "affidasse": [
+    "afːidasːe"
+  ],
+  "affidassero": [
+    "afːidasːero"
+  ],
+  "affidassi": [
+    "afːidasːi"
+  ],
+  "affidassimo": [
+    "afːidasːimo"
+  ],
+  "affidaste": [
+    "afːidaste"
+  ],
+  "affidasti": [
+    "afːidasti"
+  ],
+  "affidatario": [
+    "afːidatarjo"
+  ],
+  "affidate": [
+    "afːidate"
+  ],
+  "affidato": [
+    "afːidato"
+  ],
+  "affidava": [
+    "afːidava"
+  ],
+  "affidavamo": [
+    "afːidavamo"
+  ],
+  "affidavano": [
+    "afːidavano"
+  ],
+  "affidavate": [
+    "afːidavate"
+  ],
+  "affidavi": [
+    "afːidavi"
+  ],
+  "affidavit": [
+    "afːidavit"
+  ],
+  "affidavo": [
+    "afːidavo"
+  ],
+  "affiderà": [
+    "afːidera"
+  ],
+  "affiderai": [
+    "afːiderai"
+  ],
+  "affideranno": [
+    "afːideranːo"
+  ],
+  "affiderebbe": [
+    "afːiderebːe"
+  ],
+  "affiderebbero": [
+    "afːiderebːero"
+  ],
+  "affiderei": [
+    "afːiderei"
+  ],
+  "affideremmo": [
+    "afːideremːo"
+  ],
+  "affideremo": [
+    "afːideremo"
+  ],
+  "affidereste": [
+    "afːidereste"
+  ],
+  "affideresti": [
+    "afːideresti"
+  ],
+  "affiderete": [
+    "afːiderete"
+  ],
+  "affiderò": [
+    "afːidero"
+  ],
+  "affidi": [
+    "afːidi"
+  ],
+  "affidiamo": [
+    "afːidjamo"
+  ],
+  "affidiate": [
+    "afːidjate"
+  ],
+  "affidino": [
+    "afːidino"
+  ],
+  "affido": [
+    "afːido"
+  ],
+  "affidò": [
+    "afːido"
+  ],
+  "affienare": [
+    "afːjenare"
+  ],
+  "affievolendo": [
+    "afːjevolendo"
+  ],
+  "affievolente": [
+    "afːjevolente"
+  ],
+  "affievolimento": [
+    "afːjevolimento"
+  ],
+  "affievolire": [
+    "afːjevolire"
+  ],
+  "affievolirsi": [
+    "afːjevolirsi"
+  ],
+  "affievolita": [
+    "afːjevolita"
+  ],
+  "affievolite": [
+    "afːjevolite"
+  ],
+  "affievoliti": [
+    "afːjevoliti"
+  ],
+  "affievolito": [
+    "afːjevolito"
+  ],
+  "affiggente": [
+    "afːidːʒente"
+  ],
+  "affiggere": [
+    "afːidːʒere"
+  ],
+  "affila": [
+    "afːila"
+  ],
+  "affilacoltelli": [
+    "afːilakoltɛlːi"
+  ],
+  "affilai": [
+    "afːilai"
+  ],
+  "affilammo": [
+    "afːilamːo"
+  ],
+  "affilando": [
+    "afːilando"
+  ],
+  "affilano": [
+    "afːilano"
+  ],
+  "affilante": [
+    "afːilante"
+  ],
+  "affilare": [
+    "afːilare"
+  ],
+  "affilarono": [
+    "afːilarono"
+  ],
+  "affilarsi": [
+    "afːilarsi"
+  ],
+  "affilasse": [
+    "afːilasːe"
+  ],
+  "affilassero": [
+    "afːilasːero"
+  ],
+  "affilassi": [
+    "afːilasːi"
+  ],
+  "affilassimo": [
+    "afːilasːimo"
+  ],
+  "affilaste": [
+    "afːilaste"
+  ],
+  "affilasti": [
+    "afːilasti"
+  ],
+  "affilata": [
+    "afːilata"
+  ],
+  "affilate": [
+    "afːilate"
+  ],
+  "affilati": [
+    "afːilati"
+  ],
+  "affilato": [
+    "afːilato"
+  ],
+  "affilava": [
+    "afːilava"
+  ],
+  "affilavamo": [
+    "afːilavamo"
+  ],
+  "affilavano": [
+    "afːilavano"
+  ],
+  "affilavate": [
+    "afːilavate"
+  ],
+  "affilavi": [
+    "afːilavi"
+  ],
+  "affilavo": [
+    "afːilavo"
+  ],
+  "affilerà": [
+    "afːilera"
+  ],
+  "affilerai": [
+    "afːilerai"
+  ],
+  "affileranno": [
+    "afːileranːo"
+  ],
+  "affilerebbe": [
+    "afːilerebːe"
+  ],
+  "affilerebbero": [
+    "afːilerebːero"
+  ],
+  "affilerei": [
+    "afːilerei"
+  ],
+  "affileremmo": [
+    "afːileremːo"
+  ],
+  "affileremo": [
+    "afːileremo"
+  ],
+  "affilereste": [
+    "afːilereste"
+  ],
+  "affileresti": [
+    "afːileresti"
+  ],
+  "affilerete": [
+    "afːilerete"
+  ],
+  "affilerò": [
+    "afːilero"
+  ],
+  "affili": [
+    "afːili"
+  ],
+  "affiliamo": [
+    "afːiljamo"
+  ],
+  "affiliata": [
+    "afːiljata"
+  ],
+  "affiliate": [
+    "afːiljate"
+  ],
+  "affiliati": [
+    "afːiljati"
+  ],
+  "affiliato": [
+    "afːilato",
+    "afːiljato"
+  ],
+  "affiliazione": [
+    "afːiljatːsjone"
+  ],
+  "affilino": [
+    "afːilino"
+  ],
+  "affilo": [
+    "afːilo"
+  ],
+  "affilò": [
+    "afːilo"
+  ],
+  "affinamento": [
+    "afːinamento"
+  ],
+  "affinare": [
+    "afːinare"
+  ],
+  "affinarono": [
+    "afːinarono"
+  ],
+  "affinato": [
+    "afːinato"
+  ],
+  "affinché": [
+    "afːinke"
+  ],
+  "affine": [
+    "afːine"
+  ],
+  "affini": [
+    "afːine"
+  ],
+  "affinità": [
+    "afːinita"
+  ],
+  "affiochire": [
+    "afːjokire"
+  ],
+  "affioramenti": [
+    "afːjoramenti"
+  ],
+  "affioramento": [
+    "afːjoramento"
+  ],
+  "affiorare": [
+    "afːjorare"
+  ],
+  "affissi": [
+    "afːisːi"
+  ],
+  "affissione": [
+    "afːisːjone"
+  ],
+  "affissioni": [
+    "afːisːjoni"
+  ],
+  "affisso": [
+    "afːisːo",
+    "afːisːɔ"
+  ],
+  "affitta": [
+    "afːitːa"
+  ],
+  "affittai": [
+    "afːitːai"
+  ],
+  "affittammo": [
+    "afːitːamːo"
+  ],
+  "affittando": [
+    "afːitːando"
+  ],
+  "affittano": [
+    "afːitːano"
+  ],
+  "affittante": [
+    "afːitːante"
+  ],
+  "affittanza": [
+    "afːitːantsa"
+  ],
+  "affittanze": [
+    "afːitːantse"
+  ],
+  "affittare": [
+    "afːitːare"
+  ],
+  "affittarono": [
+    "afːitːarono"
+  ],
+  "affittassero": [
+    "afːitːasːero"
+  ],
+  "affittassi": [
+    "afːitːasːi"
+  ],
+  "affittassimo": [
+    "afːitːasːimo"
+  ],
+  "affittaste": [
+    "afːitːaste"
+  ],
+  "affittasti": [
+    "afːitːasti"
+  ],
+  "affittata": [
+    "afːitːata"
+  ],
+  "affittate": [
+    "afːitːate"
+  ],
+  "affittati": [
+    "afːitːati"
+  ],
+  "affittato": [
+    "afːitːato"
+  ],
+  "affittava": [
+    "afːitːava"
+  ],
+  "affittavamo": [
+    "afːitːavamo"
+  ],
+  "affittavano": [
+    "afːitːavano"
+  ],
+  "affittavate": [
+    "afːitːavate"
+  ],
+  "affittavi": [
+    "afːitːavi"
+  ],
+  "affittavo": [
+    "afːitːavo"
+  ],
+  "affitterà": [
+    "afːitːera"
+  ],
+  "affitterai": [
+    "afːitːerai"
+  ],
+  "affitteranno": [
+    "afːitːeranːo"
+  ],
+  "affitterebbe": [
+    "afːitːerebːe"
+  ],
+  "affitterebbero": [
+    "afːitːerebːero"
+  ],
+  "affitterei": [
+    "afːitːerei"
+  ],
+  "affitteremmo": [
+    "afːitːeremːo"
+  ],
+  "affitteremo": [
+    "afːitːeremo"
+  ],
+  "affittereste": [
+    "afːitːereste"
+  ],
+  "affitteresti": [
+    "afːitːeresti"
+  ],
+  "affitterete": [
+    "afːitːerete"
+  ],
+  "affitterò": [
+    "afːitːero"
+  ],
+  "affitti": [
+    "afːitːi"
+  ],
+  "affittiamo": [
+    "afːitːjamo"
+  ],
+  "affittiate": [
+    "afːitːjate"
+  ],
+  "affittino": [
+    "afːitːino"
+  ],
+  "affitto": [
+    "afːitːo"
+  ],
+  "affittò": [
+    "afːitːo"
+  ],
+  "affittuario": [
+    "afːitːwarjo"
+  ],
+  "afflare": [
+    "afːlare"
+  ],
+  "afflati": [
+    "afːlati"
+  ],
+  "afflato": [
+    "afːlato"
+  ],
+  "affliggente": [
+    "afːlidːʒente"
+  ],
+  "affliggere": [
+    "afːlidːʒere"
+  ],
+  "affliggersi": [
+    "afːlidːʒersi"
+  ],
+  "afflitto": [
+    "afːlitːo",
+    "afːlitːɔ"
+  ],
+  "afflizione": [
+    "afːlitsjone"
+  ],
+  "afflizioni": [
+    "afːlitsjone"
+  ],
+  "afflosciare": [
+    "afːloʃʃare"
+  ],
+  "affluente": [
+    "afːluɛnte"
+  ],
+  "affluenza": [
+    "afːluɛntsa",
+    "afːlwɛntsa"
+  ],
+  "affluire": [
+    "afːluire"
+  ],
+  "afflusso": [
+    "afːlusːo"
+  ],
+  "affocare": [
+    "afːokare"
+  ],
+  "affogamenti": [
+    "afːoɡamenti"
+  ],
+  "affogamento": [
+    "afːoɡamento"
+  ],
+  "affogante": [
+    "afːoɡante"
+  ],
+  "affogare": [
+    "afːoɡare",
+    "afːɔɡare"
+  ],
+  "affogarsi": [
+    "afːoɡarsi"
+  ],
+  "affogata": [
+    "afːoɡata"
+  ],
+  "affogate": [
+    "afːoɡate"
+  ],
+  "affogati": [
+    "afːoɡati"
+  ],
+  "affogato": [
+    "afːoɡato"
+  ],
+  "affollamenti": [
+    "afːolːamenti"
+  ],
+  "affollamento": [
+    "afːolːamento"
+  ],
+  "affollare": [
+    "afːolːare"
+  ],
+  "affollarsi": [
+    "afːolːarsi"
+  ],
+  "affollato": [
+    "afːolːato"
+  ],
+  "affoltare": [
+    "afːoltare"
+  ],
+  "affondabile": [
+    "afːondabile"
+  ],
+  "affondabili": [
+    "afːondabili"
+  ],
+  "affondamenti": [
+    "afːondamenti"
+  ],
+  "affondamento": [
+    "afːondamento"
+  ],
+  "affondare": [
+    "afːondare"
+  ],
+  "affondarsi": [
+    "afːondarsi"
+  ],
+  "affondato": [
+    "afːondato"
+  ],
+  "affondatore": [
+    "afːondatore"
+  ],
+  "affondatori": [
+    "afːondatori"
+  ],
+  "affondo": [
+    "afːondo"
+  ],
+  "affortendo": [
+    "afːortendo"
+  ],
+  "affortente": [
+    "afːortente"
+  ],
+  "affortire": [
+    "afːortire"
+  ],
+  "affortita": [
+    "afːortita"
+  ],
+  "affortite": [
+    "afːortite"
+  ],
+  "affortiti": [
+    "afːortiti"
+  ],
+  "affortito": [
+    "afːortito"
+  ],
+  "affossamento": [
+    "afːosːamento"
+  ],
+  "affossare": [
+    "afːosːare"
+  ],
+  "affossato": [
+    "afːosːato"
+  ],
+  "affralando": [
+    "afːralando"
+  ],
+  "affralante": [
+    "afːralante"
+  ],
+  "affralare": [
+    "afːralare"
+  ],
+  "affralata": [
+    "afːralata"
+  ],
+  "affralate": [
+    "afːralate"
+  ],
+  "affralati": [
+    "afːralati"
+  ],
+  "affralato": [
+    "afːralato"
+  ],
+  "affralendo": [
+    "afːralendo"
+  ],
+  "affralente": [
+    "afːralente"
+  ],
+  "affralire": [
+    "afːralire"
+  ],
+  "affralita": [
+    "afːralita"
+  ],
+  "affralite": [
+    "afːralite"
+  ],
+  "affraliti": [
+    "afːraliti"
+  ],
+  "affralito": [
+    "afːralito"
+  ],
+  "affrancamenti": [
+    "afːraɲkamenti"
+  ],
+  "affrancamento": [
+    "afːraɲkamento"
+  ],
+  "affrancante": [
+    "afːrankante"
+  ],
+  "affrancare": [
+    "afːrankare"
+  ],
+  "affrancarsi": [
+    "afːrankarsːi"
+  ],
+  "affrancato": [
+    "afːrankato"
+  ],
+  "affrancatura": [
+    "afːrankatura"
+  ],
+  "affrancature": [
+    "afːrankature"
+  ],
+  "affrangere": [
+    "afːrandʒere",
+    "afːranɡere"
+  ],
+  "affranto": [
+    "afːranto"
+  ],
+  "affratellare": [
+    "afːratelːare"
+  ],
+  "affratellarsi": [
+    "afːratelːarsi"
+  ],
+  "affreddare": [
+    "afːredːare"
+  ],
+  "affrenare": [
+    "afːrenare"
+  ],
+  "affrescante": [
+    "afːreskante"
+  ],
+  "affrescare": [
+    "afːreskare"
+  ],
+  "affrescato": [
+    "afːreskato"
+  ],
+  "affrescatore": [
+    "afːreskatore"
+  ],
+  "affrescatori": [
+    "afːreskatori"
+  ],
+  "affrescatrice": [
+    "afːreskatritʃe"
+  ],
+  "affrescatrici": [
+    "afːreskatritʃi"
+  ],
+  "affreschi": [
+    "afːreski"
+  ],
+  "affresco": [
+    "afːresko"
+  ],
+  "affrettare": [
+    "afːretːare"
+  ],
+  "affrettarsi": [
+    "afːretːarsi",
+    "afːrɛtːarsi"
+  ],
+  "affrettatamente": [
+    "afːretːatamente"
+  ],
+  "affrettato": [
+    "afːretːato"
+  ],
+  "affricata": [
+    "afːrikata"
+  ],
+  "affricate": [
+    "afːrikate"
+  ],
+  "affricati": [
+    "afːrikati"
+  ],
+  "affricato": [
+    "afːrikato"
+  ],
+  "affricazione": [
+    "afːrikatːsjone"
+  ],
+  "affronta": [
+    "afːronta"
+  ],
+  "affrontabile": [
+    "afːrontabile"
+  ],
+  "affrontabili": [
+    "afːrontabili"
+  ],
+  "affrontai": [
+    "afːrontai"
+  ],
+  "affrontamenti": [
+    "afːrontamenti"
+  ],
+  "affrontamento": [
+    "afːrontamento"
+  ],
+  "affrontante": [
+    "afːrontante"
+  ],
+  "affrontare": [
+    "afːrontare"
+  ],
+  "affrontarsi": [
+    "afːrontarsi"
+  ],
+  "affrontasse": [
+    "afːrontasːe"
+  ],
+  "affrontato": [
+    "afːrontato"
+  ],
+  "affronterai": [
+    "afːronterai"
+  ],
+  "affronti": [
+    "afːronti"
+  ],
+  "affronto": [
+    "afːronto"
+  ],
+  "affumicare": [
+    "afːumikare"
+  ],
+  "affumicato": [
+    "afːumikato"
+  ],
+  "affumicatore": [
+    "afːumikatore"
+  ],
+  "affumicatori": [
+    "afːumikatori"
+  ],
+  "affumicatura": [
+    "afːumikatura"
+  ],
+  "affusolato": [
+    "afːusolato"
+  ],
+  "affusti": [
+    "afːusti"
+  ],
+  "affusto": [
+    "afːusto"
+  ],
+  "afgana": [
+    "afɡana"
+  ],
+  "afgane": [
+    "afɡane"
+  ],
+  "afgani": [
+    "afɡani"
+  ],
+  "afganistan": [
+    "afɡanistan"
+  ],
+  "afgano": [
+    "afɡano"
+  ],
+  "afghana": [
+    "afɡana"
+  ],
+  "afghane": [
+    "afɡane"
+  ],
+  "afghani": [
+    "afɡani"
+  ],
+  "afghanistan": [
+    "afɡanistan"
+  ],
+  "afghano": [
+    "afɡano"
+  ],
+  "afide": [
+    "afide"
+  ],
+  "afidi": [
+    "afidi"
+  ],
+  "afididi": [
+    "afididi"
+  ],
+  "afnio": [
+    "afnjo"
+  ],
+  "afodio": [
+    "afɔdjo"
+  ],
+  "afonia": [
+    "afonia"
+  ],
+  "afono": [
+    "afono"
+  ],
+  "aforisma": [
+    "aforizma"
+  ],
+  "aforismi": [
+    "aforizmi"
+  ],
+  "aforistico": [
+    "aforistiko"
+  ],
+  "afosa": [
+    "afoza"
+  ],
+  "afose": [
+    "afoze"
+  ],
+  "afosi": [
+    "afozi"
+  ],
+  "afosità": [
+    "afozita"
+  ],
+  "afoso": [
+    "afoso",
+    "afozo"
+  ],
+  "afragolese": [
+    "afraɡolese",
+    "afraɡoleze"
+  ],
+  "africa": [
+    "afrika"
+  ],
+  "africanismo": [
+    "afrikanizmo"
+  ],
+  "africanista": [
+    "afrikanista"
+  ],
+  "africaniste": [
+    "afrikaniste"
+  ],
+  "africanisti": [
+    "afrikanisti"
+  ],
+  "africanizzazione": [
+    "afrikanidːzatːsjone"
+  ],
+  "africanizzazioni": [
+    "afrikanidːzatːsjoni"
+  ],
+  "africano": [
+    "afrikano",
+    "afrikanɔ"
+  ],
+  "afrikaans": [
+    "afrikans"
+  ],
+  "afrikander": [
+    "afrikander"
+  ],
+  "afrikaner": [
+    "afrikaner"
+  ],
+  "afroamericano": [
+    "afroamerikano"
+  ],
+  "afrodisiaco": [
+    "afrodiziako"
+  ],
+  "afrofuturista": [
+    "afrofuturista"
+  ],
+  "afrofuturiste": [
+    "afrofuturiste"
+  ],
+  "afrofuturisti": [
+    "afrofuturisti"
+  ],
+  "afrolite": [
+    "afrolite"
+  ],
+  "afrometro": [
+    "afrɔmetro"
+  ],
+  "afrore": [
+    "afrore"
+  ],
+  "afrori": [
+    "afrori"
+  ],
+  "afroroso": [
+    "afroroso",
+    "afrorozo"
+  ],
+  "aftoso": [
+    "aftoso",
+    "aftozo"
+  ],
+  "agadir": [
+    "aɡadir"
+  ],
+  "agamia": [
+    "aɡamia"
+  ],
+  "agamico": [
+    "aɡamiko"
+  ],
+  "agammaglobulinemia": [
+    "aɡamːaɡlobulinemia"
+  ],
+  "agamospecie": [
+    "aɡamospɛtʃe"
+  ],
+  "agape": [
+    "aɡape"
+  ],
+  "agarico": [
+    "aɡariko"
+  ],
+  "agata": [
+    "aɡata"
+  ],
+  "agate": [
+    "aɡate"
+  ],
+  "agatifera": [
+    "aɡatifera"
+  ],
+  "agatifere": [
+    "aɡatifere"
+  ],
+  "agatiferi": [
+    "aɡatiferi"
+  ],
+  "agatifero": [
+    "aɡatifero"
+  ],
+  "agave": [
+    "aɡave"
+  ],
+  "agenda": [
+    "adʒɛnda"
+  ],
+  "agendina": [
+    "adʒendina"
+  ],
+  "agenesia": [
+    "adʒɛnezia"
+  ],
+  "agenesie": [
+    "adʒɛnezie"
+  ],
+  "agente": [
+    "adʒɛnte"
+  ],
+  "agenti": [
+    "adʒɛnti"
+  ],
+  "agenzia": [
+    "adʒentsia",
+    "adʒɛntsia"
+  ],
+  "agenzie": [
+    "adʒɛntsie"
+  ],
+  "ageo": [
+    "adʒeo"
+  ],
+  "agerà": [
+    "adʒera"
+  ],
+  "agerai": [
+    "adʒerai"
+  ],
+  "ageranno": [
+    "adʒeranːo"
+  ],
+  "agerato": [
+    "adʒerato"
+  ],
+  "agerebbe": [
+    "adʒerebːe"
+  ],
+  "agerebbero": [
+    "adʒerebːero"
+  ],
+  "agerei": [
+    "adʒerei"
+  ],
+  "ageremmo": [
+    "adʒeremːo"
+  ],
+  "ageremo": [
+    "adʒeremo"
+  ],
+  "agereste": [
+    "adʒereste"
+  ],
+  "ageresti": [
+    "adʒeresti"
+  ],
+  "agerete": [
+    "adʒerete"
+  ],
+  "agerò": [
+    "adʒero"
+  ],
+  "agevola": [
+    "adʒevola"
+  ],
+  "agevolante": [
+    "adʒevolante"
+  ],
+  "agevolare": [
+    "adʒevolare"
+  ],
+  "agevolato": [
+    "adʒevolato"
+  ],
+  "agevolatore": [
+    "adʒevolatore"
+  ],
+  "agevolatori": [
+    "adʒevolatori"
+  ],
+  "agevolatrice": [
+    "adʒevolatritʃe"
+  ],
+  "agevolatrici": [
+    "adʒevolatritʃi"
+  ],
+  "agevolazione": [
+    "adʒevolatsjone",
+    "adʒevolatːsjone"
+  ],
+  "agevolazioni": [
+    "adʒevolatsjoni"
+  ],
+  "agevole": [
+    "adʒevole"
+  ],
+  "agevoli": [
+    "adʒevoli"
+  ],
+  "agevolmente": [
+    "adʒevolmente"
+  ],
+  "agganci": [
+    "aɡːantʃ"
+  ],
+  "agganciare": [
+    "aɡːantʃare"
+  ],
+  "agganciarsi": [
+    "aɡːantʃarsi"
+  ],
+  "aggancio": [
+    "aɡːantʃo"
+  ],
+  "aggeggerà": [
+    "adːʒedːʒera"
+  ],
+  "aggeggerai": [
+    "adːʒedːʒerai"
+  ],
+  "aggeggeranno": [
+    "adːʒedːʒeranːo"
+  ],
+  "aggeggerebbe": [
+    "adːʒedːʒerebːe"
+  ],
+  "aggeggerebbero": [
+    "adːʒedːʒerebːero"
+  ],
+  "aggeggerei": [
+    "adːʒedːʒerei"
+  ],
+  "aggeggeremmo": [
+    "adːʒedːʒeremːo"
+  ],
+  "aggeggeremo": [
+    "adːʒedːʒeremo"
+  ],
+  "aggeggereste": [
+    "adːʒedːʒereste"
+  ],
+  "aggeggeresti": [
+    "adːʒedːʒeresti"
+  ],
+  "aggeggerete": [
+    "adːʒedːʒerete"
+  ],
+  "aggeggerò": [
+    "adːʒedːʒero"
+  ],
+  "aggeggi": [
+    "adːʒedːʒi"
+  ],
+  "aggeggia": [
+    "adːʒedːʒa"
+  ],
+  "aggeggiai": [
+    "adːʒedːʒai"
+  ],
+  "aggeggiammo": [
+    "adːʒedːʒamːo"
+  ],
+  "aggeggiamo": [
+    "adːʒedːʒamo"
+  ],
+  "aggeggiando": [
+    "adːʒedːʒando"
+  ],
+  "aggeggiano": [
+    "adːʒedːʒano"
+  ],
+  "aggeggiante": [
+    "adːʒedːʒante"
+  ],
+  "aggeggiarono": [
+    "adːʒedːʒarono"
+  ],
+  "aggeggiasse": [
+    "adːʒedːʒasːe"
+  ],
+  "aggeggiassero": [
+    "adːʒedːʒasːero"
+  ],
+  "aggeggiassi": [
+    "adːʒedːʒasːi"
+  ],
+  "aggeggiassimo": [
+    "adːʒedːʒasːimo"
+  ],
+  "aggeggiaste": [
+    "adːʒedːʒaste"
+  ],
+  "aggeggiasti": [
+    "adːʒedːʒasti"
+  ],
+  "aggeggiata": [
+    "adːʒedːʒata"
+  ],
+  "aggeggiate": [
+    "adːʒedːʒate"
+  ],
+  "aggeggiati": [
+    "adːʒedːʒati"
+  ],
+  "aggeggiato": [
+    "adːʒedːʒato"
+  ],
+  "aggeggiava": [
+    "adːʒedːʒava"
+  ],
+  "aggeggiavamo": [
+    "adːʒedːʒavamo"
+  ],
+  "aggeggiavano": [
+    "adːʒedːʒavano"
+  ],
+  "aggeggiavate": [
+    "adːʒedːʒavate"
+  ],
+  "aggeggiavi": [
+    "adːʒedːʒavi"
+  ],
+  "aggeggiavo": [
+    "adːʒedːʒavo"
+  ],
+  "aggeggino": [
+    "adːʒedːʒino"
+  ],
+  "aggeggio": [
+    "adːʒedːʒo"
+  ],
+  "aggeggiò": [
+    "adːʒedːʒo"
+  ],
+  "aggelare": [
+    "adːʒelare"
+  ],
+  "aggere": [
+    "adːʒere"
+  ],
+  "aggettivale": [
+    "adːʒetːivale",
+    "adːʒɛtːivale"
+  ],
+  "aggettivali": [
+    "adːʒɛtːivali"
+  ],
+  "aggettivalmente": [
+    "adːʒɛtːivalmene"
+  ],
+  "aggettivamente": [
+    "adːʒetːivamente",
+    "adːʒɛtːivamene"
+  ],
+  "aggettivante": [
+    "adːʒetːivante"
+  ],
+  "aggettivare": [
+    "adːʒetːivare"
+  ],
+  "aggettivata": [
+    "adːʒetːivata"
+  ],
+  "aggettivate": [
+    "adːʒetːivate"
+  ],
+  "aggettivati": [
+    "adːʒetːivati"
+  ],
+  "aggettivato": [
+    "adːʒetːivato"
+  ],
+  "aggettivazione": [
+    "adːʒetːivatːsjone"
+  ],
+  "aggettivazioni": [
+    "adːʒetːivatːsjoni"
+  ],
+  "aggettivi": [
+    "adːʒetːivi",
+    "adːʒɛtːivi"
+  ],
+  "aggettivo": [
+    "adːʒetːivo",
+    "adːʒɛtːivo"
+  ],
+  "aggetto": [
+    "adːʒetːo"
+  ],
+  "agghiacciante": [
+    "aɡːjatːʃante"
+  ],
+  "agghiacciare": [
+    "aɡːjatːʃare"
+  ],
+  "agghiaccio": [
+    "aɡːjatːʃo"
+  ],
+  "agghindare": [
+    "aɡːindare"
+  ],
+  "agghindarsi": [
+    "aɡːindarsi"
+  ],
+  "agghindato": [
+    "aɡːindato"
+  ],
+  "aggi": [
+    "adːʒi"
+  ],
+  "aggio": [
+    "adːʒo"
+  ],
+  "aggiogare": [
+    "adːʒoɡare"
+  ],
+  "aggiornamenti": [
+    "adːʒornamenti"
+  ],
+  "aggiornamento": [
+    "adːʒornamento"
+  ],
+  "aggiornare": [
+    "adːʒornare"
+  ],
+  "aggiornato": [
+    "adːʒornato"
+  ],
+  "aggiotaggi": [
+    "adːʒotadːʒi"
+  ],
+  "aggiotaggio": [
+    "adːʒotadːʒo"
+  ],
+  "aggirabile": [
+    "adːʒirabile"
+  ],
+  "aggirabili": [
+    "adːʒirabili"
+  ],
+  "aggirante": [
+    "adːʒirante"
+  ],
+  "aggirare": [
+    "adːʒirare"
+  ],
+  "aggirarsi": [
+    "adːʒirarsi"
+  ],
+  "aggirato": [
+    "adːʒirato"
+  ],
+  "aggiudicare": [
+    "adːʒudikare"
+  ],
+  "aggiudicarsi": [
+    "adːʒudikarsi"
+  ],
+  "aggiudicatario": [
+    "adːʒudikatarjo"
+  ],
+  "aggiudicativo": [
+    "adːʒudikativo"
+  ],
+  "aggiudicato": [
+    "adːʒudikato"
+  ],
+  "aggiudicatore": [
+    "adːʒudikatore"
+  ],
+  "aggiudicatrice": [
+    "adːʒudikatritʃe"
+  ],
+  "aggiudicazione": [
+    "adːʒudikatsjone",
+    "adːʒudikatːsjone"
+  ],
+  "aggiunga": [
+    "adːʒuɲdʒa"
+  ],
+  "aggiungano": [
+    "adːʒuɲdʒano"
+  ],
+  "aggiunge": [
+    "adːʒuɲdʒe"
+  ],
+  "aggiungemmo": [
+    "adːʒuɲdʒemːo"
+  ],
+  "aggiungendo": [
+    "adːʒuɲdʒendo"
+  ],
+  "aggiungente": [
+    "adːʒuɲdʒente"
+  ],
+  "aggiungerà": [
+    "adːʒuɲdʒera"
+  ],
+  "aggiungerai": [
+    "adːʒuɲdʒerai"
+  ],
+  "aggiungeranno": [
+    "adːʒuɲdʒeranːo"
+  ],
+  "aggiungere": [
+    "adːʒundʒere",
+    "adːʒuɲdʒere"
+  ],
+  "aggiungerebbe": [
+    "adːʒuɲdʒerebːe"
+  ],
+  "aggiungerebbero": [
+    "adːʒuɲdʒerebːero"
+  ],
+  "aggiungerei": [
+    "adːʒuɲdʒerei"
+  ],
+  "aggiungeremmo": [
+    "adːʒuɲdʒeremːo"
+  ],
+  "aggiungeremo": [
+    "adːʒuɲdʒeremo"
+  ],
+  "aggiungereste": [
+    "adːʒuɲdʒereste"
+  ],
+  "aggiungeresti": [
+    "adːʒuɲdʒeresti"
+  ],
+  "aggiungerete": [
+    "adːʒuɲdʒerete"
+  ],
+  "aggiungerò": [
+    "adːʒuɲdʒero"
+  ],
+  "aggiungersi": [
+    "adːʒundʒersi",
+    "adːʒuɲdʒersi"
+  ]
 }

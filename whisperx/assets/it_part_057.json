@@ -1,502 +1,1532 @@
 {
-  "congiuntive": ["k o ɲ d ʒ u n t i v e"],
-  "congiuntivi": ["k o ɲ d ʒ u n t i v i"],
-  "congiuntivite": ["k o n d ʒ u n t i v i t e", "k o ɲ d ʒ u n t i v i t e"],
-  "congiuntiviti": ["k o ɲ d ʒ u n t i v i t i"],
-  "congiuntivo": ["k o ɲ d ʒ u n t i v o"],
-  "congiunto": ["k o n d ʒ u n t o"],
-  "congiuntura": ["k o n d ʒ u n t u r a"],
-  "congiunzione": ["k o n d ʒ u n t s j o n e"],
-  "congiunzioni": ["k o n d ʒ u n t s j o n e"],
-  "congiura": ["k o n d ʒ u r a"],
-  "congiurare": ["k o n d ʒ u r a r e"],
-  "congiurato": ["k o n d ʒ u r a t o"],
-  "congiuratore": ["k o n d ʒ u r a t o r e"],
-  "congiurazione": ["k o n d ʒ u r a tː s j o n e"],
-  "conglobare": ["k o n ɡ l o b a r e"],
-  "conglobazione": ["k o n ɡ l o b a tː s j o n e"],
-  "conglobazioni": ["k o n ɡ l o b a tː s j o n i"],
-  "conglomerare": ["k o n ɡ l o m e r a r e"],
-  "conglomerato": ["k o ɲ ɡ l o m e r a t o"],
-  "congo": ["k o n ɡ o", "k ɔ n ɡ o", "k ɔ ɲ ɡ o"],
-  "congolese": ["k o n ɡ o l e s e", "k o n ɡ o l e z e", "k o ɲ ɡ o l e z e"],
-  "congolesi": ["k o ɲ ɡ o l e z i"],
-  "congratulare": ["k o n ɡ r a t u l a r e"],
-  "congratularsi": ["k o ɲ ɡ r a t u l a r s i"],
-  "congratulazione": ["k o ɲ ɡ r a t u l a t s j o n e"],
-  "congrega": ["k o n ɡ r ɛ ɡ a"],
-  "congregante": ["k o ɲ ɡ r e ɡ a n t e"],
-  "congregare": ["k o n ɡ r e ɡ a r e", "k o ɲ ɡ r e ɡ a r e"],
-  "congregarsi": ["k o ɲ ɡ r e ɡ a r s i"],
-  "congregato": ["k o ɲ ɡ r e ɡ a t o"],
-  "congregazione": ["k o n ɡ r e ɡ a tː s j o n e"],
-  "congressi": ["k o n ɡ r ɛ sː i"],
-  "congressista": ["k o n ɡ r e sː i s t a"],
-  "congresso": ["k o n ɡ r ɛ sː o"],
-  "congruentemente": ["k o n ɡ r u e n t e m e n t e"],
-  "congruenti": ["k o ɲ ɡ r u ɛ n t i"],
-  "congruenza": ["k o n ɡ r u ɛ n t s a"],
-  "congrui": ["k ɔ n ɡ r u i"],
-  "congruo": ["k ɔ n ɡ r u o"],
-  "conguagliare": ["k o ɲ ɡ w a ʎ a r e"],
-  "conguaglio": ["k o n ɡ w a ʎ o"],
-  "coni": ["k ɔ n i"],
-  "coniare": ["k o n i a r e", "k o n j a r e"],
-  "coniata": ["k o n j a t a"],
-  "coniato": ["k o n j a t o"],
-  "coniatore": ["k o n j a t o r e"],
-  "conica": ["k ɔ n i k a"],
-  "conicamente": ["k ɔ n i k a m e n t e"],
-  "coniche": ["k ɔ n i k e"],
-  "conici": ["k ɔ n i t ʃ i"],
-  "conico": ["k ɔ n i k o"],
-  "conifera": ["k o n i f e r a"],
-  "conifere": ["k o n i f e r e"],
-  "conigli": ["k o n i ʎ i"],
-  "coniglia": ["k o n i ʎ a"],
-  "coniglicoltura": ["k o n i ʎ i k o l t u r a"],
-  "coniglicolture": ["k o n i ʎ i k o l t u r e"],
-  "coniglietta": ["k o n i ʎ e tː a"],
-  "coniglietto": ["k o n i ʎ e tː o"],
-  "coniglio": ["k o n i ʎ o"],
-  "conio": ["k ɔ n j o"],
-  "coniugabile": ["k o n j u ɡ a b i l e"],
-  "coniugabili": ["k o n j u ɡ a b i l i"],
-  "coniugale": ["k o n j u ɡ a l e"],
-  "coniugalmente": ["k o n j u ɡ a l m e n t e"],
-  "coniugare": ["k o n j u ɡ a r e"],
-  "coniugata": ["k o n j u ɡ a t a"],
-  "coniugate": ["k o n j u ɡ a t e"],
-  "coniugati": ["k o n j u ɡ a t i"],
-  "coniugato": ["k o n j u ɡ a t o"],
-  "coniugazione": ["k o n j u ɡ a t s j o n e"],
-  "coniuge": ["k o n j u d ʒ e", "k ɔ n j u d ʒ e"],
-  "coniugi": ["k o n j u d ʒ i"],
-  "connata": ["k o nː a t a"],
-  "connate": ["k o nː a t e"],
-  "connati": ["k o nː a t i"],
-  "connato": ["k o nː a t o"],
-  "connaturale": ["k o nː a t u r a l e"],
-  "connaturare": ["k o nː a t u r a r e"],
-  "connaturato": ["k o nː a t u r a t o"],
-  "connazionale": ["k o nː a tː s j o n a l e"],
-  "connecticut": ["k o nː ɛ k t i k a t"],
-  "connessione": ["k o nː e sː j o n e"],
-  "connessioni": ["k o nː e sː j o n e"],
-  "connesso": ["k o nː e sː o", "k o nː ɛ sː o"],
-  "connettente": ["k o nː ɛ tː e n t e"],
-  "connettere": ["k o nː ɛ tː e r e"],
-  "connettersi": ["k o nː ɛ tː e r s i"],
-  "connettibile": ["k o nː e tː i b i l e"],
-  "connettibili": ["k o nː e tː i b i l i"],
-  "connettivale": ["k o nː e tː i v a l e"],
-  "connettivite": ["k o nː e tː i v i t e"],
-  "connettivo": ["k o nː e tː i v o"],
-  "connivente": ["k o nː i v ɛ n t e"],
-  "connivenza": ["k o nː i v ɛ n t s a"],
-  "conno": ["k o nː o"],
-  "connotare": ["k o nː o t a r e"],
-  "connotati": ["k o nː o t a t i"],
-  "connotativo": ["k o nː o t a t i v o"],
-  "connotato": ["k o nː o t a t o"],
-  "connotazione": ["k o nː o t a tː s j o n e"],
-  "connubio": ["k o nː u b j o"],
-  "connumerare": ["k o nː u m e r a r e"],
-  "cono": ["k ɔ n o"],
-  "conocchia": ["k o n ɔ kː j a"],
-  "conopofagide": ["k o n o p o f a d ʒ i d e"],
-  "conopofagidi": ["k o n o p o f a d ʒ i d i"],
-  "conoscente": ["k o n o ʃ ʃ ɛ n t e"],
-  "conoscenti": ["k o n o ʃ ʃ ɛ n t i"],
-  "conoscenza": ["k o n o ʃ ʃ ɛ n t s a"],
-  "conoscenze": ["k o n o ʃ ʃ ɛ n t s e"],
-  "conoscere": ["k o n o ʃ ʃ e r e"],
-  "conoscersi": ["k o n o ʃ ʃ e r s i"],
-  "conoscibile": ["k o n o ʃ ʃ i b i l e"],
-  "conoscibili": ["k o n o ʃ ʃ i b i l i"],
-  "conoscitivo": ["k o n o ʃ ʃ i t i v o"],
-  "conoscitore": ["k o n o ʃ ʃ i t o r e"],
-  "conosciuta": ["k o n o ʃ ʃ u t a"],
-  "conosciutamente": ["k o n o ʃ ʃ u t a m e n t e"],
-  "conosciute": ["k o n o ʃ ʃ u t e"],
-  "conosciuti": ["k o n o ʃ ʃ u t i"],
-  "conosciuto": ["k o n o ʃ ʃ u t o", "k ɔ n ɔ s t ʃ u t ɔ"],
-  "conosco": ["k o n o s k o"],
-  "conquibus": ["k o n k w i b u s"],
-  "conquidere": ["k o n k w i d e r e"],
-  "conquista": ["k o n k w i s t a", "k o ɲ k w i s t a"],
-  "conquistabile": ["k o n k w i s t a b i l e"],
-  "conquistabili": ["k o n k w i s t a b i l i"],
-  "conquistador": ["k o n k w i s t a d ɔ r"],
-  "conquistai": ["k o ɲ k w i s t a i"],
-  "conquistammo": ["k o ɲ k w i s t a mː o"],
-  "conquistando": ["k o ɲ k w i s t a n d o"],
-  "conquistandovi": ["k o n k w i s t a n d o v i"],
-  "conquistano": ["k o ɲ k w i s t a n o"],
-  "conquistante": ["k o ɲ k w i s t a n t e"],
-  "conquistare": ["k o n k w i s t a r e", "k o ɲ k w i s t a r e"],
-  "conquistarono": ["k o ɲ k w i s t a r o n o"],
-  "conquistasse": ["k o ɲ k w i s t a sː e"],
-  "conquistassero": ["k o ɲ k w i s t a sː e r o"],
-  "conquistassi": ["k o ɲ k w i s t a sː i"],
-  "conquistassimo": ["k o ɲ k w i s t a sː i m o"],
-  "conquistaste": ["k o ɲ k w i s t a s t e"],
-  "conquistasti": ["k o ɲ k w i s t a s t i"],
-  "conquistate": ["k o ɲ k w i s t a t e"],
-  "conquistato": ["k o n k w i s t a t o", "k o ɲ k w i s t a t o"],
-  "conquistatore": ["k o ɲ k w i s t a t o r e"],
-  "conquistatori": ["k o ɲ k w i s t a t o r i"],
-  "conquistatrice": ["k o ɲ k w i s t a t r i t ʃ e"],
-  "conquistatrici": ["k o ɲ k w i s t a t r i t ʃ i"],
-  "conquistava": ["k o ɲ k w i s t a v a"],
-  "conquistavamo": ["k o ɲ k w i s t a v a m o"],
-  "conquistavano": ["k o ɲ k w i s t a v a n o"],
-  "conquistavate": ["k o ɲ k w i s t a v a t e"],
-  "conquistavi": ["k o ɲ k w i s t a v i"],
-  "conquistavo": ["k o ɲ k w i s t a v o"],
-  "conquisterà": ["k o ɲ k w i s t e r a"],
-  "conquisterai": ["k o ɲ k w i s t e r a i"],
-  "conquisteranno": ["k o ɲ k w i s t e r a nː o"],
-  "conquisterebbe": ["k o ɲ k w i s t e r e bː e"],
-  "conquisterebbero": ["k o ɲ k w i s t e r e bː e r o"],
-  "conquisterei": ["k o ɲ k w i s t e r e i"],
-  "conquisteremmo": ["k o ɲ k w i s t e r e mː o"],
-  "conquisteremo": ["k o ɲ k w i s t e r e m o"],
-  "conquistereste": ["k o ɲ k w i s t e r e s t e"],
-  "conquisteresti": ["k o ɲ k w i s t e r e s t i"],
-  "conquisterete": ["k o ɲ k w i s t e r e t e"],
-  "conquisterò": ["k o ɲ k w i s t e r o"],
-  "conquisti": ["k o ɲ k w i s t i"],
-  "conquistiamo": ["k o ɲ k w i s t j a m o"],
-  "conquistiate": ["k o ɲ k w i s t j a t e"],
-  "conquistino": ["k o ɲ k w i s t i n o"],
-  "conquisto": ["k o ɲ k w i s t o"],
-  "conquistò": ["k o ɲ k u i s t o", "k o ɲ k w i s t o"],
-  "consacrando": ["k o n s a k r a n d o"],
-  "consacrante": ["k o n s a k r a n t e"],
-  "consacrare": ["k o n s a k r a r e"],
-  "consacrarsi": ["k o n s a k r a r s i"],
-  "consacrato": ["k o n s a k r a t o"],
-  "consacrazione": ["k o n s a k r a t s j o n e", "k o n s a k r a tː s j o n e"],
-  "consanguineità": ["k o n s a n ɡ w i n e i t a"],
-  "consanguineo": ["k o n s a n ɡ w i n e o"],
-  "consapere": ["k o n s a p e r e"],
-  "consapevole": ["k o n s a p e v o l e"],
-  "consapevolezza": ["k o n s a p e v o l e tː s a"],
-  "consapevolezze": ["k o n s a p e v o l e tː s e"],
-  "consapevoli": ["k o n s a p e v o l i"],
-  "consapevolizzare": ["k o n s a p e v o l i dː z a r e"],
-  "consapevolmente": ["k o n s a p e v o l m e n t e"],
-  "consci": ["k ɔ n ʃ i"],
-  "conscia": ["k ɔ n ʃ a"],
-  "consciamente": ["k ɔ n ʃ ʃ a m e n t e"],
-  "conscie": ["k ɔ n ʃ e"],
-  "conscio": ["k ɔ n ʃ o"],
-  "conscritta": ["k o n s k r i tː a"],
-  "conscritte": ["k o n s k r i tː e"],
-  "conscritti": ["k o n s k r i tː i"],
-  "conscritto": ["k o n s k r i tː o"],
-  "consecutivamente": ["k o n s e k u t i v a m e n t e"],
-  "consecutivo": ["k o n s e k u t i v o"],
-  "consegna": ["k o n s e ɲ ɲ a"],
-  "consegnare": ["k o n s e ɲ ɲ a r e"],
-  "consegnarsi": ["k o n s e ɲ ɲ a r s i"],
-  "consegnato": ["k o n s e ɲ ɲ a t o"],
-  "conseguente": ["k o n s e ɡ w ɛ n t e"],
-  "conseguentemente": ["k o n s e ɡ w e n t e m e n t e"],
-  "conseguenza": ["k o n s e ɡ w ɛ n t s a"],
-  "conseguenze": ["k o n s e ɡ w ɛ n t s e"],
-  "consegui": ["k o n s e ɡ u j"],
-  "conseguimenti": ["k o n s e ɡ w i m e n t i"],
-  "conseguimento": ["k o n s e ɡ w i m e n t o"],
-  "conseguire": ["k o n s e ɡ w i r e"],
-  "conseguiste": ["k o n s e ɡ w i s t e"],
-  "conseguito": ["k o n s e ɡ w i t o"],
-  "consensi": ["k o n s ɛ n s i"],
-  "consenso": ["k o n s ɛ n s o"],
-  "consensuale": ["k o n s e n s u a l e"],
-  "consentire": ["k o n s e n t i r e"],
-  "consentito": ["k o n s e n t i t o"],
-  "consenziente": ["k o n s e n t s j ɛ n t e"],
-  "consenzientemente": ["k o n s e n t s j e n t e m e n t e"],
-  "consequenziale": ["k o n s e k w e n t s j a l e"],
-  "consequenziali": ["k o n s e k w e n t s j a l i"],
-  "conserva": ["k o n s ɛ r v a"],
-  "conservabile": ["k o n s e r v a b i l e"],
-  "conservabili": ["k o n s e r v a b i l i"],
-  "conservante": ["k o n s e r v a n t e"],
-  "conservanti": ["k o n s e r v a n t i"],
-  "conservare": ["k o n s e r v a r e"],
-  "conservarsi": ["k o n s e r v a r s i"],
-  "conservata": ["k o n s e r v a t a"],
-  "conservate": ["k o n s e r v a t e"],
-  "conservati": ["k o n s e r v a t i"],
-  "conservativa": ["k o n s e r v a t i v a"],
-  "conservativamente": ["k o n s e r v a t i v a m e n t e"],
-  "conservative": ["k o n s e r v a t i v e"],
-  "conservativi": ["k o n s e r v a t i v i"],
-  "conservativo": ["k o n s e r v a t i v o"],
-  "conservato": ["k o n s e r v a t o"],
-  "conservatore": ["k o n s e r v a t o r e"],
-  "conservatori": ["k o n s e r v a t o r i", "k o n s e r v a t ɔ r i"],
-  "conservatorio": ["k o n s e r v a t ɔ r j o"],
-  "conservatorismi": ["k o n s e r v a t o r i z m o"],
-  "conservatorismo": ["k o n s e r v a t o r i z m o"],
-  "conservatrice": ["k o n s e r v a t r i t ʃ e"],
-  "conservatrici": ["k o n s e r v a t r i t ʃ i"],
-  "conservazione": ["k o n s e r v a t s j o n e", "k o n s e r v a tː s j o n e"],
-  "conservazioni": ["k o n s e r v a t s j o n i"],
-  "conservazionismi": ["k o n s e r v a t s j o n i z m o"],
-  "conservazionismo": ["k o n s e r v a t s j o n i z m o"],
-  "conserve": ["k o n s ɛ r v e"],
-  "conserviero": ["k o n s e r v j ɛ r o"],
-  "conservifici": ["k o n s e r v i f i t ʃ i"],
-  "conservificio": ["k o n s e r v i f i t ʃ o"],
-  "consesso": ["k o n s ɛ sː o"],
-  "considerante": ["k o n s i d e r a n t e"],
-  "considerare": ["k o n s i d e r a r e"],
-  "consideratamente": ["k o n s i d e r a t a m e n t e"],
-  "considerato": ["k o n s i d e r a t o"],
-  "considerazione": ["k o n s i d e r a t s j o n e"],
-  "considerazioni": ["k o n s i d e r a t s j o n i"],
-  "considerevole": ["k o n s i d e r e v o l e"],
-  "considerevoli": ["k o n s i d e r e v o l i"],
-  "considerevolmente": ["k o n s i d e r e v o l m e n t e"],
-  "consigli": ["k o n s i ʎ i"],
-  "consigliabile": ["k o n s i ʎ a b i l e"],
-  "consigliabili": ["k o n s i ʎ a b i l i"],
-  "consigliante": ["k o n s i ʎ j a n t e"],
-  "consigliare": ["k o n s i ʎ a r e", "k o n s i ʎ j a r e"],
-  "consigliarsi": ["k o n s i ʎ a r s i", "k o n s i ʎ j a r s i"],
-  "consigliato": ["k o n s i ʎ j a t o"],
-  "consigliatore": ["k o n s i ʎ a t o r e"],
-  "consigliatori": ["k o n s i ʎ a t o r i"],
-  "consigliatrice": ["k o n s i ʎ a t r i t ʃ e"],
-  "consigliatrici": ["k o n s i ʎ a t r i t ʃ i"],
-  "consigliera": ["k o n s i ʎ ɛ r a"],
-  "consigliere": ["k o n s i ʎ ɛ r e", "k ɔ n s i ʎ j ɛ r e"],
-  "consiglieri": ["k o n s i ʎ ɛ r i"],
-  "consiglio": ["k o n s i ʎ o"],
-  "consiliare": ["k o n s i l i a r e", "k o n s i l j a r e"],
-  "consimile": ["k o n s i m i l e"],
-  "consistente": ["k o n s i s t ɛ n t e"],
-  "consistenti": ["k o n s i s t ɛ n t i"],
-  "consistenza": ["k o n s i s t ɛ n t s a"],
-  "consistenze": ["k o n s i s t ɛ n t s e"],
-  "consistere": ["k o n s i s t e r e"],
-  "consistito": ["k o n s i s t i t o"],
-  "consobrino": ["k o n s o b r i n o"],
-  "consociare": ["k o n s o t ʃ a r e"],
-  "consociativismo": ["k o n s o t ʃ a t i v i z m o"],
-  "consolabile": ["k o n s o l a b i l e"],
-  "consolabili": ["k o n s o l a b i l i"],
-  "consolante": ["k o n s o l a n t e"],
-  "consolanti": ["k o n s o l a n t i"],
-  "consolare": ["k o n s o l a r e"],
-  "consolarsi": ["k o n s o l a r s i"],
-  "consolati": ["k ɔ n s ɔ l a t i"],
-  "consolato": ["k o n s o l a t o", "k ɔ n s ɔ l a t ɔ"],
-  "consolazione": ["k o n s o l a t s j o n e", "k o n s o l a tː s j o n e"],
-  "consolazioni": ["k o n s o l a tː s j o n i"],
-  "console": ["k o n s ɔ l", "k ɔ n s o l e"],
-  "consoli": ["k ɔ n s o l i"],
-  "consolidamento": ["k o n s o l i d a m e n t o"],
-  "consolidare": ["k o n s o l i d a r e"],
-  "consolidarsi": ["k o n s o l i d a r s i"],
-  "consolidato": ["k o n s o l i d a t o"],
-  "consolidazione": ["k o n s o l i d a tː s j o n e"],
-  "consolidazioni": ["k o n s o l i d a tː s j o n i"],
-  "consonante": ["k o n s o n a n t e"],
-  "consonanti": ["k o n s o n a n t i"],
-  "consonantico": ["k o n s o n a n t i k o"],
-  "consonanza": ["k o n s o n a n t s a"],
-  "consonare": ["k o n s o n a r e"],
-  "consono": ["k ɔ n s o n o"],
-  "consorte": ["k o n s ɔ r t e"],
-  "consorteria": ["k o n s o r t e r i a"],
-  "consorti": ["k o n s ɔ r t i"],
-  "consorziale": ["k o n s o r t s j a l e"],
-  "consorziare": ["k o n s o r t s j a r e"],
-  "consorzio": ["k o n s ɔ r t s j o"],
-  "conspargere": ["k o n s p a r d ʒ e r e"],
-  "conspecifico": ["k o n s p e t ʃ i f i k o"],
-  "conspergere": ["k o n s p ɛ r d ʒ e r e"],
-  "constare": ["k o n s t a r e"],
-  "constata": ["k o n s t a t a"],
-  "constatabile": ["k o n s t a t a b i l e"],
-  "constatabili": ["k o n s t a t a b i l i"],
-  "constatai": ["k o n s t a t a i"],
-  "constatammo": ["k o n s t a t a mː o"],
-  "constatando": ["k o n s t a t a n d o"],
-  "constatano": ["k o n s t a t a n o"],
-  "constatante": ["k o n s t a t a n t e"],
-  "constatare": ["k o n s t a t a r e"],
-  "constatarono": ["k o n s t a t a r o n o"],
-  "constatasse": ["k o n s t a t a sː e"],
-  "constatassero": ["k o n s t a t a sː e r o"],
-  "constatassi": ["k o n s t a t a sː i"],
-  "constatassimo": ["k o n s t a t a sː i m o"],
-  "constataste": ["k o n s t a t a s t e"],
-  "constatasti": ["k o n s t a t a s t i"],
-  "constatate": ["k o n s t a t a t e"],
-  "constatato": ["k o n s t a t a t o"],
-  "constatava": ["k o n s t a t a v a"],
-  "constatavamo": ["k o n s t a t a v a m o"],
-  "constatavano": ["k o n s t a t a v a n o"],
-  "constatavate": ["k o n s t a t a v a t e"],
-  "constatavi": ["k o n s t a t a v i"],
-  "constatavo": ["k o n s t a t a v o"],
-  "constatazione": ["k o n s t a t a t s j o n e", "k o n s t a t a tː s j o n e"],
-  "constatazioni": ["k o n s t a t a t s j o n i"],
-  "constaterà": ["k o n s t a t e r a"],
-  "constaterai": ["k o n s t a t e r a i"],
-  "constateranno": ["k o n s t a t e r a nː o"],
-  "constaterebbe": ["k o n s t a t e r e bː e"],
-  "constaterebbero": ["k o n s t a t e r e bː e r o"],
-  "constaterei": ["k o n s t a t e r e i"],
-  "constateremmo": ["k o n s t a t e r e mː o"],
-  "constateremo": ["k o n s t a t e r e m o"],
-  "constatereste": ["k o n s t a t e r e s t e"],
-  "constateresti": ["k o n s t a t e r e s t i"],
-  "constaterete": ["k o n s t a t e r e t e"],
-  "constaterò": ["k o n s t a t e r o"],
-  "constati": ["k o n s t a t i"],
-  "constatiamo": ["k o n s t a t j a m o"],
-  "constatiate": ["k o n s t a t j a t e"],
-  "constatino": ["k o n s t a t i n o"],
-  "constato": ["k o n s t a t o"],
-  "constatò": ["k o n s t a t o"],
-  "constellare": ["k o n s t e lː a r e"],
-  "constituente": ["k o n s t i t u e n t e"],
-  "constituenti": ["k o n s t i t u e n t i"],
-  "constituire": ["k o n s t i t u i r e"],
-  "constringere": ["k o n s t r i n d ʒ e r e"],
-  "construibile": ["k o n s t r u i b i l e"],
-  "construibili": ["k o n s t r u i b i l i"],
-  "construire": ["k o n s t r u i r e"],
-  "consueta": ["k o n s u ɛ t a"],
-  "consuete": ["k o n s u ɛ t e"],
-  "consueti": ["k o n s u ɛ t i"],
-  "consueto": ["k o n s u ɛ t o", "k o n s w ɛ t o"],
-  "consuetudinario": ["k o n s u e t u d i n a r j o"],
-  "consuetudine": ["k o n s u e t u d i n e", "k o n s w e t u d i n e"],
-  "consuetudini": ["k o n s w e t u d i n i"],
-  "consulente": ["k o n s u l ɛ n t e"],
-  "consulenti": ["k o n s u l ɛ n t i"],
-  "consulenza": ["k o n s u l ɛ n t s a"],
-  "consulenze": ["k o n s u l ɛ n t s e"],
-  "consulta": ["k o n s u l t a"],
-  "consultabile": ["k o n s u l t a b i l e"],
-  "consultabili": ["k o n s u l t a b i l i"],
-  "consultai": ["k o n s u l t a i"],
-  "consultammo": ["k o n s u l t a mː o"],
-  "consultando": ["k o n s u l t a n d o"],
-  "consultano": ["k o n s u l t a n o"],
-  "consultante": ["k o n s u l t a n t e"],
-  "consultare": ["k o n s u l t a r e"],
-  "consultarono": ["k o n s u l t a r o n o"],
-  "consultarsi": ["k o n s u l t a r s i"],
-  "consultasse": ["k o n s u l t a sː e"],
-  "consultassero": ["k o n s u l t a sː e r o"],
-  "consultassi": ["k o n s u l t a sː i"],
-  "consultassimo": ["k o n s u l t a sː i m o"],
-  "consultaste": ["k o n s u l t a s t e"],
-  "consultasti": ["k o n s u l t a s t i"],
-  "consultate": ["k o n s u l t a t e"],
-  "consultato": ["k o n s u l t a t o"],
-  "consultava": ["k o n s u l t a v a"],
-  "consultavamo": ["k o n s u l t a v a m o"],
-  "consultavano": ["k o n s u l t a v a n o"],
-  "consultavate": ["k o n s u l t a v a t e"],
-  "consultavi": ["k o n s u l t a v i"],
-  "consultavo": ["k o n s u l t a v o"],
-  "consultazione": ["k o n s u l t a t s j o n e"],
-  "consultazioni": ["k o n s u l t a t s j o n i"],
-  "consulterà": ["k o n s u l t e r a"],
-  "consulterai": ["k o n s u l t e r a i"],
-  "consulteranno": ["k o n s u l t e r a nː o"],
-  "consulterebbe": ["k o n s u l t e r e bː e"],
-  "consulterebbero": ["k o n s u l t e r e bː e r o"],
-  "consulterei": ["k o n s u l t e r e i"],
-  "consulteremmo": ["k o n s u l t e r e mː o"],
-  "consulteremo": ["k o n s u l t e r e m o"],
-  "consultereste": ["k o n s u l t e r e s t e"],
-  "consulteresti": ["k o n s u l t e r e s t i"],
-  "consulterete": ["k o n s u l t e r e t e"],
-  "consulterò": ["k o n s u l t e r o"],
-  "consulti": ["k o n s u l t i"],
-  "consultiamo": ["k o n s u l t j a m o"],
-  "consultiate": ["k o n s u l t j a t e"],
-  "consultino": ["k o n s u l t i n o"],
-  "consultiva": ["k o n s u l t i v a"],
-  "consultive": ["k o n s u l t i v e"],
-  "consultivi": ["k o n s u l t i v i"],
-  "consultivo": ["k o n s u l t i v o"],
-  "consulto": ["k o n s u l t o"],
-  "consultò": ["k o n s u l t o"],
-  "consultore": ["k o n s u l t o r e"],
-  "consumabile": ["k o n s u m a b i l e"],
-  "consumabili": ["k o n s u m a b i l i"],
-  "consumare": ["k o n s u m a r e"],
-  "consumarsi": ["k o n s u m a r s i"],
-  "consumato": ["k o n s u m a t o"],
-  "consumatore": ["k o n s u m a t o r e"],
-  "consumatori": ["k o n s u m a t o r i"],
-  "consumatrice": ["k o n s u m a t r i t ʃ e"],
-  "consumatrici": ["k o n s u m a t r i t ʃ i"],
-  "consumerai": ["k o n s u m e r a i"],
-  "consumismi": ["k o n s u m i z m i"],
-  "consumismo": ["k o n s u m i z m", "k o n s u m i z m o"],
-  "consumistico": ["k o n s u m i s t i k o"],
-  "consumo": ["k o n s u m o"],
-  "consuntivo": ["k o n s u n t i v o"],
-  "consunto": ["k o n s u n t o"],
-  "consuocera": ["k o n s w ɔ t ʃ e r o"],
-  "consuocero": ["k o n s w ɔ t ʃ e r o"],
-  "conta": ["k o n t a"],
-  "contabile": ["k o n t a b i l e"],
-  "contabili": ["k o n t a b i l i"],
-  "contabilità": ["k o n t a b i l i t a"],
-  "contabilizzare": ["k o n t a b i l i dː z a r e"],
-  "contabilizzazione": ["k o n t a b i l i dː z a tː s j o n e"],
-  "contachilometri": ["k o n t a k i l ɔ m e t r i"],
-  "contadina": ["k o n t a d i n a"],
-  "contadine": ["k o n t a d i n e"],
-  "contadinesco": ["k o n t a d i n e s k o"],
-  "contadini": ["k o n t a d i n i"],
-  "contadino": ["k o n t a d i n o"],
-  "contado": ["k o n t a d o"],
-  "contagiare": ["k o n t a d ʒ a r e"],
-  "contagiate": ["k o n t a d ʒ a t e"],
-  "contagiato": ["k o n t a d ʒ a t o"],
-  "contagio": ["k o n t a d ʒ o"],
-  "contagocce": ["k o n t a ɡ o tː ʃ e"],
-  "contaminabile": ["k o n t a m i n a b i l e"],
-  "contaminabili": ["k o n t a m i n a b i l i"],
-  "contaminante": ["k o n t a m i n a n t e"],
-  "contaminanti": ["k o n t a m i n a n t i"],
-  "contaminare": ["k o n t a m i n a r e"],
-  "contaminatore": ["k o n t a m i n a t o r e"],
-  "contaminatori": ["k o n t a m i n a t o r i"],
-  "contaminatrice": ["k o n t a m i n a t r i t ʃ e"],
-  "contaminatrici": ["k o n t a m i n a t r i t ʃ i"],
-  "contaminazione": ["k o n t a m i n a t s j o n e"],
-  "contamino": ["k o n t a m i n o"],
-  "contante": ["k o n t a n t e"],
-  "contanti": ["k o n t a n t i"],
-  "contare": ["k o n t a r e"],
-  "contarsi": ["k o n t a r s i"],
-  "contato": ["k o n t a t o"],
-  "contatore": ["k o n t a t o r e", "k ɔ n t a t o r e"],
-  "contattare": ["k o n t a tː a r e"],
-  "contattato": ["k o n t a tː a t o"],
-  "contatti": ["k ɔ n t a tː i"],
-  "contatto": ["k o n t a tː o", "k ɔ n t a tː ɔ"],
-  "conte": ["k o n t e"],
-  "contea": ["k o n t ɛ a"],
-  "contee": ["k o n t ɛ e"],
-  "conteggiare": ["k o n t e dː ʒ a r e"],
-  "conteggiato": ["k o n t e dː ʒ a t o"],
-  "conteggio": ["k o n t e dː ʒ o"],
-  "contegno": ["k o n t e ɲ ɲ o"]
+  "congiuntive": [
+    "koɲdʒuntive"
+  ],
+  "congiuntivi": [
+    "koɲdʒuntivi"
+  ],
+  "congiuntivite": [
+    "kondʒuntivite",
+    "koɲdʒuntivite"
+  ],
+  "congiuntiviti": [
+    "koɲdʒuntiviti"
+  ],
+  "congiuntivo": [
+    "koɲdʒuntivo"
+  ],
+  "congiunto": [
+    "kondʒunto"
+  ],
+  "congiuntura": [
+    "kondʒuntura"
+  ],
+  "congiunzione": [
+    "kondʒuntsjone"
+  ],
+  "congiunzioni": [
+    "kondʒuntsjone"
+  ],
+  "congiura": [
+    "kondʒura"
+  ],
+  "congiurare": [
+    "kondʒurare"
+  ],
+  "congiurato": [
+    "kondʒurato"
+  ],
+  "congiuratore": [
+    "kondʒuratore"
+  ],
+  "congiurazione": [
+    "kondʒuratːsjone"
+  ],
+  "conglobare": [
+    "konɡlobare"
+  ],
+  "conglobazione": [
+    "konɡlobatːsjone"
+  ],
+  "conglobazioni": [
+    "konɡlobatːsjoni"
+  ],
+  "conglomerare": [
+    "konɡlomerare"
+  ],
+  "conglomerato": [
+    "koɲɡlomerato"
+  ],
+  "congo": [
+    "konɡo",
+    "kɔnɡo",
+    "kɔɲɡo"
+  ],
+  "congolese": [
+    "konɡolese",
+    "konɡoleze",
+    "koɲɡoleze"
+  ],
+  "congolesi": [
+    "koɲɡolezi"
+  ],
+  "congratulare": [
+    "konɡratulare"
+  ],
+  "congratularsi": [
+    "koɲɡratularsi"
+  ],
+  "congratulazione": [
+    "koɲɡratulatsjone"
+  ],
+  "congrega": [
+    "konɡrɛɡa"
+  ],
+  "congregante": [
+    "koɲɡreɡante"
+  ],
+  "congregare": [
+    "konɡreɡare",
+    "koɲɡreɡare"
+  ],
+  "congregarsi": [
+    "koɲɡreɡarsi"
+  ],
+  "congregato": [
+    "koɲɡreɡato"
+  ],
+  "congregazione": [
+    "konɡreɡatːsjone"
+  ],
+  "congressi": [
+    "konɡrɛsːi"
+  ],
+  "congressista": [
+    "konɡresːista"
+  ],
+  "congresso": [
+    "konɡrɛsːo"
+  ],
+  "congruentemente": [
+    "konɡruentemente"
+  ],
+  "congruenti": [
+    "koɲɡruɛnti"
+  ],
+  "congruenza": [
+    "konɡruɛntsa"
+  ],
+  "congrui": [
+    "kɔnɡrui"
+  ],
+  "congruo": [
+    "kɔnɡruo"
+  ],
+  "conguagliare": [
+    "koɲɡwaʎare"
+  ],
+  "conguaglio": [
+    "konɡwaʎo"
+  ],
+  "coni": [
+    "kɔni"
+  ],
+  "coniare": [
+    "koniare",
+    "konjare"
+  ],
+  "coniata": [
+    "konjata"
+  ],
+  "coniato": [
+    "konjato"
+  ],
+  "coniatore": [
+    "konjatore"
+  ],
+  "conica": [
+    "kɔnika"
+  ],
+  "conicamente": [
+    "kɔnikamente"
+  ],
+  "coniche": [
+    "kɔnike"
+  ],
+  "conici": [
+    "kɔnitʃi"
+  ],
+  "conico": [
+    "kɔniko"
+  ],
+  "conifera": [
+    "konifera"
+  ],
+  "conifere": [
+    "konifere"
+  ],
+  "conigli": [
+    "koniʎi"
+  ],
+  "coniglia": [
+    "koniʎa"
+  ],
+  "coniglicoltura": [
+    "koniʎikoltura"
+  ],
+  "coniglicolture": [
+    "koniʎikolture"
+  ],
+  "coniglietta": [
+    "koniʎetːa"
+  ],
+  "coniglietto": [
+    "koniʎetːo"
+  ],
+  "coniglio": [
+    "koniʎo"
+  ],
+  "conio": [
+    "kɔnjo"
+  ],
+  "coniugabile": [
+    "konjuɡabile"
+  ],
+  "coniugabili": [
+    "konjuɡabili"
+  ],
+  "coniugale": [
+    "konjuɡale"
+  ],
+  "coniugalmente": [
+    "konjuɡalmente"
+  ],
+  "coniugare": [
+    "konjuɡare"
+  ],
+  "coniugata": [
+    "konjuɡata"
+  ],
+  "coniugate": [
+    "konjuɡate"
+  ],
+  "coniugati": [
+    "konjuɡati"
+  ],
+  "coniugato": [
+    "konjuɡato"
+  ],
+  "coniugazione": [
+    "konjuɡatsjone"
+  ],
+  "coniuge": [
+    "konjudʒe",
+    "kɔnjudʒe"
+  ],
+  "coniugi": [
+    "konjudʒi"
+  ],
+  "connata": [
+    "konːata"
+  ],
+  "connate": [
+    "konːate"
+  ],
+  "connati": [
+    "konːati"
+  ],
+  "connato": [
+    "konːato"
+  ],
+  "connaturale": [
+    "konːaturale"
+  ],
+  "connaturare": [
+    "konːaturare"
+  ],
+  "connaturato": [
+    "konːaturato"
+  ],
+  "connazionale": [
+    "konːatːsjonale"
+  ],
+  "connecticut": [
+    "konːɛktikat"
+  ],
+  "connessione": [
+    "konːesːjone"
+  ],
+  "connessioni": [
+    "konːesːjone"
+  ],
+  "connesso": [
+    "konːesːo",
+    "konːɛsːo"
+  ],
+  "connettente": [
+    "konːɛtːente"
+  ],
+  "connettere": [
+    "konːɛtːere"
+  ],
+  "connettersi": [
+    "konːɛtːersi"
+  ],
+  "connettibile": [
+    "konːetːibile"
+  ],
+  "connettibili": [
+    "konːetːibili"
+  ],
+  "connettivale": [
+    "konːetːivale"
+  ],
+  "connettivite": [
+    "konːetːivite"
+  ],
+  "connettivo": [
+    "konːetːivo"
+  ],
+  "connivente": [
+    "konːivɛnte"
+  ],
+  "connivenza": [
+    "konːivɛntsa"
+  ],
+  "conno": [
+    "konːo"
+  ],
+  "connotare": [
+    "konːotare"
+  ],
+  "connotati": [
+    "konːotati"
+  ],
+  "connotativo": [
+    "konːotativo"
+  ],
+  "connotato": [
+    "konːotato"
+  ],
+  "connotazione": [
+    "konːotatːsjone"
+  ],
+  "connubio": [
+    "konːubjo"
+  ],
+  "connumerare": [
+    "konːumerare"
+  ],
+  "cono": [
+    "kɔno"
+  ],
+  "conocchia": [
+    "konɔkːja"
+  ],
+  "conopofagide": [
+    "konopofadʒide"
+  ],
+  "conopofagidi": [
+    "konopofadʒidi"
+  ],
+  "conoscente": [
+    "konoʃʃɛnte"
+  ],
+  "conoscenti": [
+    "konoʃʃɛnti"
+  ],
+  "conoscenza": [
+    "konoʃʃɛntsa"
+  ],
+  "conoscenze": [
+    "konoʃʃɛntse"
+  ],
+  "conoscere": [
+    "konoʃʃere"
+  ],
+  "conoscersi": [
+    "konoʃʃersi"
+  ],
+  "conoscibile": [
+    "konoʃʃibile"
+  ],
+  "conoscibili": [
+    "konoʃʃibili"
+  ],
+  "conoscitivo": [
+    "konoʃʃitivo"
+  ],
+  "conoscitore": [
+    "konoʃʃitore"
+  ],
+  "conosciuta": [
+    "konoʃʃuta"
+  ],
+  "conosciutamente": [
+    "konoʃʃutamente"
+  ],
+  "conosciute": [
+    "konoʃʃute"
+  ],
+  "conosciuti": [
+    "konoʃʃuti"
+  ],
+  "conosciuto": [
+    "konoʃʃuto",
+    "kɔnɔstʃutɔ"
+  ],
+  "conosco": [
+    "konosko"
+  ],
+  "conquibus": [
+    "konkwibus"
+  ],
+  "conquidere": [
+    "konkwidere"
+  ],
+  "conquista": [
+    "konkwista",
+    "koɲkwista"
+  ],
+  "conquistabile": [
+    "konkwistabile"
+  ],
+  "conquistabili": [
+    "konkwistabili"
+  ],
+  "conquistador": [
+    "konkwistadɔr"
+  ],
+  "conquistai": [
+    "koɲkwistai"
+  ],
+  "conquistammo": [
+    "koɲkwistamːo"
+  ],
+  "conquistando": [
+    "koɲkwistando"
+  ],
+  "conquistandovi": [
+    "konkwistandovi"
+  ],
+  "conquistano": [
+    "koɲkwistano"
+  ],
+  "conquistante": [
+    "koɲkwistante"
+  ],
+  "conquistare": [
+    "konkwistare",
+    "koɲkwistare"
+  ],
+  "conquistarono": [
+    "koɲkwistarono"
+  ],
+  "conquistasse": [
+    "koɲkwistasːe"
+  ],
+  "conquistassero": [
+    "koɲkwistasːero"
+  ],
+  "conquistassi": [
+    "koɲkwistasːi"
+  ],
+  "conquistassimo": [
+    "koɲkwistasːimo"
+  ],
+  "conquistaste": [
+    "koɲkwistaste"
+  ],
+  "conquistasti": [
+    "koɲkwistasti"
+  ],
+  "conquistate": [
+    "koɲkwistate"
+  ],
+  "conquistato": [
+    "konkwistato",
+    "koɲkwistato"
+  ],
+  "conquistatore": [
+    "koɲkwistatore"
+  ],
+  "conquistatori": [
+    "koɲkwistatori"
+  ],
+  "conquistatrice": [
+    "koɲkwistatritʃe"
+  ],
+  "conquistatrici": [
+    "koɲkwistatritʃi"
+  ],
+  "conquistava": [
+    "koɲkwistava"
+  ],
+  "conquistavamo": [
+    "koɲkwistavamo"
+  ],
+  "conquistavano": [
+    "koɲkwistavano"
+  ],
+  "conquistavate": [
+    "koɲkwistavate"
+  ],
+  "conquistavi": [
+    "koɲkwistavi"
+  ],
+  "conquistavo": [
+    "koɲkwistavo"
+  ],
+  "conquisterà": [
+    "koɲkwistera"
+  ],
+  "conquisterai": [
+    "koɲkwisterai"
+  ],
+  "conquisteranno": [
+    "koɲkwisteranːo"
+  ],
+  "conquisterebbe": [
+    "koɲkwisterebːe"
+  ],
+  "conquisterebbero": [
+    "koɲkwisterebːero"
+  ],
+  "conquisterei": [
+    "koɲkwisterei"
+  ],
+  "conquisteremmo": [
+    "koɲkwisteremːo"
+  ],
+  "conquisteremo": [
+    "koɲkwisteremo"
+  ],
+  "conquistereste": [
+    "koɲkwistereste"
+  ],
+  "conquisteresti": [
+    "koɲkwisteresti"
+  ],
+  "conquisterete": [
+    "koɲkwisterete"
+  ],
+  "conquisterò": [
+    "koɲkwistero"
+  ],
+  "conquisti": [
+    "koɲkwisti"
+  ],
+  "conquistiamo": [
+    "koɲkwistjamo"
+  ],
+  "conquistiate": [
+    "koɲkwistjate"
+  ],
+  "conquistino": [
+    "koɲkwistino"
+  ],
+  "conquisto": [
+    "koɲkwisto"
+  ],
+  "conquistò": [
+    "koɲkuisto",
+    "koɲkwisto"
+  ],
+  "consacrando": [
+    "konsakrando"
+  ],
+  "consacrante": [
+    "konsakrante"
+  ],
+  "consacrare": [
+    "konsakrare"
+  ],
+  "consacrarsi": [
+    "konsakrarsi"
+  ],
+  "consacrato": [
+    "konsakrato"
+  ],
+  "consacrazione": [
+    "konsakratsjone",
+    "konsakratːsjone"
+  ],
+  "consanguineità": [
+    "konsanɡwineita"
+  ],
+  "consanguineo": [
+    "konsanɡwineo"
+  ],
+  "consapere": [
+    "konsapere"
+  ],
+  "consapevole": [
+    "konsapevole"
+  ],
+  "consapevolezza": [
+    "konsapevoletːsa"
+  ],
+  "consapevolezze": [
+    "konsapevoletːse"
+  ],
+  "consapevoli": [
+    "konsapevoli"
+  ],
+  "consapevolizzare": [
+    "konsapevolidːzare"
+  ],
+  "consapevolmente": [
+    "konsapevolmente"
+  ],
+  "consci": [
+    "kɔnʃi"
+  ],
+  "conscia": [
+    "kɔnʃa"
+  ],
+  "consciamente": [
+    "kɔnʃʃamente"
+  ],
+  "conscie": [
+    "kɔnʃe"
+  ],
+  "conscio": [
+    "kɔnʃo"
+  ],
+  "conscritta": [
+    "konskritːa"
+  ],
+  "conscritte": [
+    "konskritːe"
+  ],
+  "conscritti": [
+    "konskritːi"
+  ],
+  "conscritto": [
+    "konskritːo"
+  ],
+  "consecutivamente": [
+    "konsekutivamente"
+  ],
+  "consecutivo": [
+    "konsekutivo"
+  ],
+  "consegna": [
+    "konseɲɲa"
+  ],
+  "consegnare": [
+    "konseɲɲare"
+  ],
+  "consegnarsi": [
+    "konseɲɲarsi"
+  ],
+  "consegnato": [
+    "konseɲɲato"
+  ],
+  "conseguente": [
+    "konseɡwɛnte"
+  ],
+  "conseguentemente": [
+    "konseɡwentemente"
+  ],
+  "conseguenza": [
+    "konseɡwɛntsa"
+  ],
+  "conseguenze": [
+    "konseɡwɛntse"
+  ],
+  "consegui": [
+    "konseɡuj"
+  ],
+  "conseguimenti": [
+    "konseɡwimenti"
+  ],
+  "conseguimento": [
+    "konseɡwimento"
+  ],
+  "conseguire": [
+    "konseɡwire"
+  ],
+  "conseguiste": [
+    "konseɡwiste"
+  ],
+  "conseguito": [
+    "konseɡwito"
+  ],
+  "consensi": [
+    "konsɛnsi"
+  ],
+  "consenso": [
+    "konsɛnso"
+  ],
+  "consensuale": [
+    "konsensuale"
+  ],
+  "consentire": [
+    "konsentire"
+  ],
+  "consentito": [
+    "konsentito"
+  ],
+  "consenziente": [
+    "konsentsjɛnte"
+  ],
+  "consenzientemente": [
+    "konsentsjentemente"
+  ],
+  "consequenziale": [
+    "konsekwentsjale"
+  ],
+  "consequenziali": [
+    "konsekwentsjali"
+  ],
+  "conserva": [
+    "konsɛrva"
+  ],
+  "conservabile": [
+    "konservabile"
+  ],
+  "conservabili": [
+    "konservabili"
+  ],
+  "conservante": [
+    "konservante"
+  ],
+  "conservanti": [
+    "konservanti"
+  ],
+  "conservare": [
+    "konservare"
+  ],
+  "conservarsi": [
+    "konservarsi"
+  ],
+  "conservata": [
+    "konservata"
+  ],
+  "conservate": [
+    "konservate"
+  ],
+  "conservati": [
+    "konservati"
+  ],
+  "conservativa": [
+    "konservativa"
+  ],
+  "conservativamente": [
+    "konservativamente"
+  ],
+  "conservative": [
+    "konservative"
+  ],
+  "conservativi": [
+    "konservativi"
+  ],
+  "conservativo": [
+    "konservativo"
+  ],
+  "conservato": [
+    "konservato"
+  ],
+  "conservatore": [
+    "konservatore"
+  ],
+  "conservatori": [
+    "konservatori",
+    "konservatɔri"
+  ],
+  "conservatorio": [
+    "konservatɔrjo"
+  ],
+  "conservatorismi": [
+    "konservatorizmo"
+  ],
+  "conservatorismo": [
+    "konservatorizmo"
+  ],
+  "conservatrice": [
+    "konservatritʃe"
+  ],
+  "conservatrici": [
+    "konservatritʃi"
+  ],
+  "conservazione": [
+    "konservatsjone",
+    "konservatːsjone"
+  ],
+  "conservazioni": [
+    "konservatsjoni"
+  ],
+  "conservazionismi": [
+    "konservatsjonizmo"
+  ],
+  "conservazionismo": [
+    "konservatsjonizmo"
+  ],
+  "conserve": [
+    "konsɛrve"
+  ],
+  "conserviero": [
+    "konservjɛro"
+  ],
+  "conservifici": [
+    "konservifitʃi"
+  ],
+  "conservificio": [
+    "konservifitʃo"
+  ],
+  "consesso": [
+    "konsɛsːo"
+  ],
+  "considerante": [
+    "konsiderante"
+  ],
+  "considerare": [
+    "konsiderare"
+  ],
+  "consideratamente": [
+    "konsideratamente"
+  ],
+  "considerato": [
+    "konsiderato"
+  ],
+  "considerazione": [
+    "konsideratsjone"
+  ],
+  "considerazioni": [
+    "konsideratsjoni"
+  ],
+  "considerevole": [
+    "konsiderevole"
+  ],
+  "considerevoli": [
+    "konsiderevoli"
+  ],
+  "considerevolmente": [
+    "konsiderevolmente"
+  ],
+  "consigli": [
+    "konsiʎi"
+  ],
+  "consigliabile": [
+    "konsiʎabile"
+  ],
+  "consigliabili": [
+    "konsiʎabili"
+  ],
+  "consigliante": [
+    "konsiʎjante"
+  ],
+  "consigliare": [
+    "konsiʎare",
+    "konsiʎjare"
+  ],
+  "consigliarsi": [
+    "konsiʎarsi",
+    "konsiʎjarsi"
+  ],
+  "consigliato": [
+    "konsiʎjato"
+  ],
+  "consigliatore": [
+    "konsiʎatore"
+  ],
+  "consigliatori": [
+    "konsiʎatori"
+  ],
+  "consigliatrice": [
+    "konsiʎatritʃe"
+  ],
+  "consigliatrici": [
+    "konsiʎatritʃi"
+  ],
+  "consigliera": [
+    "konsiʎɛra"
+  ],
+  "consigliere": [
+    "konsiʎɛre",
+    "kɔnsiʎjɛre"
+  ],
+  "consiglieri": [
+    "konsiʎɛri"
+  ],
+  "consiglio": [
+    "konsiʎo"
+  ],
+  "consiliare": [
+    "konsiliare",
+    "konsiljare"
+  ],
+  "consimile": [
+    "konsimile"
+  ],
+  "consistente": [
+    "konsistɛnte"
+  ],
+  "consistenti": [
+    "konsistɛnti"
+  ],
+  "consistenza": [
+    "konsistɛntsa"
+  ],
+  "consistenze": [
+    "konsistɛntse"
+  ],
+  "consistere": [
+    "konsistere"
+  ],
+  "consistito": [
+    "konsistito"
+  ],
+  "consobrino": [
+    "konsobrino"
+  ],
+  "consociare": [
+    "konsotʃare"
+  ],
+  "consociativismo": [
+    "konsotʃativizmo"
+  ],
+  "consolabile": [
+    "konsolabile"
+  ],
+  "consolabili": [
+    "konsolabili"
+  ],
+  "consolante": [
+    "konsolante"
+  ],
+  "consolanti": [
+    "konsolanti"
+  ],
+  "consolare": [
+    "konsolare"
+  ],
+  "consolarsi": [
+    "konsolarsi"
+  ],
+  "consolati": [
+    "kɔnsɔlati"
+  ],
+  "consolato": [
+    "konsolato",
+    "kɔnsɔlatɔ"
+  ],
+  "consolazione": [
+    "konsolatsjone",
+    "konsolatːsjone"
+  ],
+  "consolazioni": [
+    "konsolatːsjoni"
+  ],
+  "console": [
+    "konsɔl",
+    "kɔnsole"
+  ],
+  "consoli": [
+    "kɔnsoli"
+  ],
+  "consolidamento": [
+    "konsolidamento"
+  ],
+  "consolidare": [
+    "konsolidare"
+  ],
+  "consolidarsi": [
+    "konsolidarsi"
+  ],
+  "consolidato": [
+    "konsolidato"
+  ],
+  "consolidazione": [
+    "konsolidatːsjone"
+  ],
+  "consolidazioni": [
+    "konsolidatːsjoni"
+  ],
+  "consonante": [
+    "konsonante"
+  ],
+  "consonanti": [
+    "konsonanti"
+  ],
+  "consonantico": [
+    "konsonantiko"
+  ],
+  "consonanza": [
+    "konsonantsa"
+  ],
+  "consonare": [
+    "konsonare"
+  ],
+  "consono": [
+    "kɔnsono"
+  ],
+  "consorte": [
+    "konsɔrte"
+  ],
+  "consorteria": [
+    "konsorteria"
+  ],
+  "consorti": [
+    "konsɔrti"
+  ],
+  "consorziale": [
+    "konsortsjale"
+  ],
+  "consorziare": [
+    "konsortsjare"
+  ],
+  "consorzio": [
+    "konsɔrtsjo"
+  ],
+  "conspargere": [
+    "konspardʒere"
+  ],
+  "conspecifico": [
+    "konspetʃifiko"
+  ],
+  "conspergere": [
+    "konspɛrdʒere"
+  ],
+  "constare": [
+    "konstare"
+  ],
+  "constata": [
+    "konstata"
+  ],
+  "constatabile": [
+    "konstatabile"
+  ],
+  "constatabili": [
+    "konstatabili"
+  ],
+  "constatai": [
+    "konstatai"
+  ],
+  "constatammo": [
+    "konstatamːo"
+  ],
+  "constatando": [
+    "konstatando"
+  ],
+  "constatano": [
+    "konstatano"
+  ],
+  "constatante": [
+    "konstatante"
+  ],
+  "constatare": [
+    "konstatare"
+  ],
+  "constatarono": [
+    "konstatarono"
+  ],
+  "constatasse": [
+    "konstatasːe"
+  ],
+  "constatassero": [
+    "konstatasːero"
+  ],
+  "constatassi": [
+    "konstatasːi"
+  ],
+  "constatassimo": [
+    "konstatasːimo"
+  ],
+  "constataste": [
+    "konstataste"
+  ],
+  "constatasti": [
+    "konstatasti"
+  ],
+  "constatate": [
+    "konstatate"
+  ],
+  "constatato": [
+    "konstatato"
+  ],
+  "constatava": [
+    "konstatava"
+  ],
+  "constatavamo": [
+    "konstatavamo"
+  ],
+  "constatavano": [
+    "konstatavano"
+  ],
+  "constatavate": [
+    "konstatavate"
+  ],
+  "constatavi": [
+    "konstatavi"
+  ],
+  "constatavo": [
+    "konstatavo"
+  ],
+  "constatazione": [
+    "konstatatsjone",
+    "konstatatːsjone"
+  ],
+  "constatazioni": [
+    "konstatatsjoni"
+  ],
+  "constaterà": [
+    "konstatera"
+  ],
+  "constaterai": [
+    "konstaterai"
+  ],
+  "constateranno": [
+    "konstateranːo"
+  ],
+  "constaterebbe": [
+    "konstaterebːe"
+  ],
+  "constaterebbero": [
+    "konstaterebːero"
+  ],
+  "constaterei": [
+    "konstaterei"
+  ],
+  "constateremmo": [
+    "konstateremːo"
+  ],
+  "constateremo": [
+    "konstateremo"
+  ],
+  "constatereste": [
+    "konstatereste"
+  ],
+  "constateresti": [
+    "konstateresti"
+  ],
+  "constaterete": [
+    "konstaterete"
+  ],
+  "constaterò": [
+    "konstatero"
+  ],
+  "constati": [
+    "konstati"
+  ],
+  "constatiamo": [
+    "konstatjamo"
+  ],
+  "constatiate": [
+    "konstatjate"
+  ],
+  "constatino": [
+    "konstatino"
+  ],
+  "constato": [
+    "konstato"
+  ],
+  "constatò": [
+    "konstato"
+  ],
+  "constellare": [
+    "konstelːare"
+  ],
+  "constituente": [
+    "konstituente"
+  ],
+  "constituenti": [
+    "konstituenti"
+  ],
+  "constituire": [
+    "konstituire"
+  ],
+  "constringere": [
+    "konstrindʒere"
+  ],
+  "construibile": [
+    "konstruibile"
+  ],
+  "construibili": [
+    "konstruibili"
+  ],
+  "construire": [
+    "konstruire"
+  ],
+  "consueta": [
+    "konsuɛta"
+  ],
+  "consuete": [
+    "konsuɛte"
+  ],
+  "consueti": [
+    "konsuɛti"
+  ],
+  "consueto": [
+    "konsuɛto",
+    "konswɛto"
+  ],
+  "consuetudinario": [
+    "konsuetudinarjo"
+  ],
+  "consuetudine": [
+    "konsuetudine",
+    "konswetudine"
+  ],
+  "consuetudini": [
+    "konswetudini"
+  ],
+  "consulente": [
+    "konsulɛnte"
+  ],
+  "consulenti": [
+    "konsulɛnti"
+  ],
+  "consulenza": [
+    "konsulɛntsa"
+  ],
+  "consulenze": [
+    "konsulɛntse"
+  ],
+  "consulta": [
+    "konsulta"
+  ],
+  "consultabile": [
+    "konsultabile"
+  ],
+  "consultabili": [
+    "konsultabili"
+  ],
+  "consultai": [
+    "konsultai"
+  ],
+  "consultammo": [
+    "konsultamːo"
+  ],
+  "consultando": [
+    "konsultando"
+  ],
+  "consultano": [
+    "konsultano"
+  ],
+  "consultante": [
+    "konsultante"
+  ],
+  "consultare": [
+    "konsultare"
+  ],
+  "consultarono": [
+    "konsultarono"
+  ],
+  "consultarsi": [
+    "konsultarsi"
+  ],
+  "consultasse": [
+    "konsultasːe"
+  ],
+  "consultassero": [
+    "konsultasːero"
+  ],
+  "consultassi": [
+    "konsultasːi"
+  ],
+  "consultassimo": [
+    "konsultasːimo"
+  ],
+  "consultaste": [
+    "konsultaste"
+  ],
+  "consultasti": [
+    "konsultasti"
+  ],
+  "consultate": [
+    "konsultate"
+  ],
+  "consultato": [
+    "konsultato"
+  ],
+  "consultava": [
+    "konsultava"
+  ],
+  "consultavamo": [
+    "konsultavamo"
+  ],
+  "consultavano": [
+    "konsultavano"
+  ],
+  "consultavate": [
+    "konsultavate"
+  ],
+  "consultavi": [
+    "konsultavi"
+  ],
+  "consultavo": [
+    "konsultavo"
+  ],
+  "consultazione": [
+    "konsultatsjone"
+  ],
+  "consultazioni": [
+    "konsultatsjoni"
+  ],
+  "consulterà": [
+    "konsultera"
+  ],
+  "consulterai": [
+    "konsulterai"
+  ],
+  "consulteranno": [
+    "konsulteranːo"
+  ],
+  "consulterebbe": [
+    "konsulterebːe"
+  ],
+  "consulterebbero": [
+    "konsulterebːero"
+  ],
+  "consulterei": [
+    "konsulterei"
+  ],
+  "consulteremmo": [
+    "konsulteremːo"
+  ],
+  "consulteremo": [
+    "konsulteremo"
+  ],
+  "consultereste": [
+    "konsultereste"
+  ],
+  "consulteresti": [
+    "konsulteresti"
+  ],
+  "consulterete": [
+    "konsulterete"
+  ],
+  "consulterò": [
+    "konsultero"
+  ],
+  "consulti": [
+    "konsulti"
+  ],
+  "consultiamo": [
+    "konsultjamo"
+  ],
+  "consultiate": [
+    "konsultjate"
+  ],
+  "consultino": [
+    "konsultino"
+  ],
+  "consultiva": [
+    "konsultiva"
+  ],
+  "consultive": [
+    "konsultive"
+  ],
+  "consultivi": [
+    "konsultivi"
+  ],
+  "consultivo": [
+    "konsultivo"
+  ],
+  "consulto": [
+    "konsulto"
+  ],
+  "consultò": [
+    "konsulto"
+  ],
+  "consultore": [
+    "konsultore"
+  ],
+  "consumabile": [
+    "konsumabile"
+  ],
+  "consumabili": [
+    "konsumabili"
+  ],
+  "consumare": [
+    "konsumare"
+  ],
+  "consumarsi": [
+    "konsumarsi"
+  ],
+  "consumato": [
+    "konsumato"
+  ],
+  "consumatore": [
+    "konsumatore"
+  ],
+  "consumatori": [
+    "konsumatori"
+  ],
+  "consumatrice": [
+    "konsumatritʃe"
+  ],
+  "consumatrici": [
+    "konsumatritʃi"
+  ],
+  "consumerai": [
+    "konsumerai"
+  ],
+  "consumismi": [
+    "konsumizmi"
+  ],
+  "consumismo": [
+    "konsumizm",
+    "konsumizmo"
+  ],
+  "consumistico": [
+    "konsumistiko"
+  ],
+  "consumo": [
+    "konsumo"
+  ],
+  "consuntivo": [
+    "konsuntivo"
+  ],
+  "consunto": [
+    "konsunto"
+  ],
+  "consuocera": [
+    "konswɔtʃero"
+  ],
+  "consuocero": [
+    "konswɔtʃero"
+  ],
+  "conta": [
+    "konta"
+  ],
+  "contabile": [
+    "kontabile"
+  ],
+  "contabili": [
+    "kontabili"
+  ],
+  "contabilità": [
+    "kontabilita"
+  ],
+  "contabilizzare": [
+    "kontabilidːzare"
+  ],
+  "contabilizzazione": [
+    "kontabilidːzatːsjone"
+  ],
+  "contachilometri": [
+    "kontakilɔmetri"
+  ],
+  "contadina": [
+    "kontadina"
+  ],
+  "contadine": [
+    "kontadine"
+  ],
+  "contadinesco": [
+    "kontadinesko"
+  ],
+  "contadini": [
+    "kontadini"
+  ],
+  "contadino": [
+    "kontadino"
+  ],
+  "contado": [
+    "kontado"
+  ],
+  "contagiare": [
+    "kontadʒare"
+  ],
+  "contagiate": [
+    "kontadʒate"
+  ],
+  "contagiato": [
+    "kontadʒato"
+  ],
+  "contagio": [
+    "kontadʒo"
+  ],
+  "contagocce": [
+    "kontaɡotːʃe"
+  ],
+  "contaminabile": [
+    "kontaminabile"
+  ],
+  "contaminabili": [
+    "kontaminabili"
+  ],
+  "contaminante": [
+    "kontaminante"
+  ],
+  "contaminanti": [
+    "kontaminanti"
+  ],
+  "contaminare": [
+    "kontaminare"
+  ],
+  "contaminatore": [
+    "kontaminatore"
+  ],
+  "contaminatori": [
+    "kontaminatori"
+  ],
+  "contaminatrice": [
+    "kontaminatritʃe"
+  ],
+  "contaminatrici": [
+    "kontaminatritʃi"
+  ],
+  "contaminazione": [
+    "kontaminatsjone"
+  ],
+  "contamino": [
+    "kontamino"
+  ],
+  "contante": [
+    "kontante"
+  ],
+  "contanti": [
+    "kontanti"
+  ],
+  "contare": [
+    "kontare"
+  ],
+  "contarsi": [
+    "kontarsi"
+  ],
+  "contato": [
+    "kontato"
+  ],
+  "contatore": [
+    "kontatore",
+    "kɔntatore"
+  ],
+  "contattare": [
+    "kontatːare"
+  ],
+  "contattato": [
+    "kontatːato"
+  ],
+  "contatti": [
+    "kɔntatːi"
+  ],
+  "contatto": [
+    "kontatːo",
+    "kɔntatːɔ"
+  ],
+  "conte": [
+    "konte"
+  ],
+  "contea": [
+    "kontɛa"
+  ],
+  "contee": [
+    "kontɛe"
+  ],
+  "conteggiare": [
+    "kontedːʒare"
+  ],
+  "conteggiato": [
+    "kontedːʒato"
+  ],
+  "conteggio": [
+    "kontedːʒo"
+  ],
+  "contegno": [
+    "konteɲɲo"
+  ]
 }

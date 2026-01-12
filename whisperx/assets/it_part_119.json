@@ -1,502 +1,1540 @@
 {
-  "negati": ["n e ɡ a t i"],
-  "negativa": ["n e ɡ a t i v a"],
-  "negativamente": ["n e ɡ a t i v a m e n t e"],
-  "negative": ["n e ɡ a t i v e"],
-  "negativi": ["n e ɡ a t i v i"],
-  "negativismi": ["n e ɡ a t i v i s m i"],
-  "negativismo": ["n e ɡ a t i v i s m o"],
-  "negatività": ["n e ɡ a t i v i t a"],
-  "negativo": ["n e ɡ a t i v o"],
-  "negativoscopi": ["n e ɡ a t i v o s k ɔ p i"],
-  "negativoscopio": ["n e ɡ a t i v o s k ɔ p j o"],
-  "negato": ["n e ɡ a t o"],
-  "negatore": ["n e ɡ a t o r e"],
-  "negatoscopi": ["n e ɡ a t o s k ɔ p i"],
-  "negatoscopio": ["n e ɡ a t o s k ɔ p j o"],
-  "negazione": ["n e ɡ a tː s j o n e"],
-  "negazioni": ["n e ɡ a tː s j o n i"],
-  "negazionismi": ["n e ɡ a tː s j o n i z m i"],
-  "negazionismo": ["n e ɡ a tː s j o n i z m o"],
-  "negazionista": ["n e ɡ a tː s j o n i s t a"],
-  "negazioniste": ["n e ɡ a tː s j o n i s t e"],
-  "negazionisti": ["n e ɡ a tː s j o n i s t i"],
-  "negazionistica": ["n e ɡ a tː s j o n i s t i k a"],
-  "negazionistiche": ["n e ɡ a tː s j o n i s t i k e"],
-  "negazionistici": ["n e ɡ a tː s j o n i s t i t ʃ i"],
-  "negazionistico": ["n e ɡ a tː s j o n i s t i k o"],
-  "neghittosa": ["n e ɡ i tː o z a"],
-  "neghittosamente": ["n e ɡ i tː o s a m e n t e"],
-  "neghittose": ["n e ɡ i tː o z e"],
-  "neghittosi": ["n e ɡ i tː o z i"],
-  "neghittoso": ["n e ɡ i tː o z o"],
-  "negletta": ["n e ɡ l ɛ tː a"],
-  "neglettamente": ["n e ɡ l e tː a m e n t e"],
-  "neglette": ["n e ɡ l ɛ tː e"],
-  "negletti": ["n e ɡ l ɛ tː i"],
-  "negletto": ["n e ɡ l ɛ tː o"],
-  "negli": ["n e ʎ i"],
-  "negligente": ["n e ʎ d ʒ ɛ n t e", "n e ʎ i d ʒ ɛ n t e"],
-  "negligentemente": ["n e ɡ l i d ʒ e n t e m e n t e", "n e ʎ i d ʒ ɛ n t e m e n t e"],
-  "negligenti": ["n e ʎ i d ʒ ɛ n t i"],
-  "negligenza": ["n e ɡ l i d ʒ ɛ n t s a"],
-  "negligenze": ["n e ɡ l i d ʒ ɛ n t s e"],
-  "negligere": ["n e ɡ l i d ʒ e r e"],
-  "nego": ["n e ɡ o"],
-  "negossa": ["n e ɡ ɔ sː a"],
-  "negozi": ["n e ɡ ɔ t s i"],
-  "negoziabile": ["n e ɡ o tː s j a b i l e"],
-  "negoziabili": ["n e ɡ o tː s j a b i l i"],
-  "negoziabilità": ["n e ɡ o tː s j a b i l i t a"],
-  "negoziale": ["n e ɡ o t s j a l e"],
-  "negoziali": ["n e ɡ o t s j a l i"],
-  "negoziante": ["n e ɡ o t s j a n t e", "n e ɡ o tː s j a n t e"],
-  "negozianti": ["n e ɡ o tː s j a n t i"],
-  "negoziare": ["n e ɡ o tː s j a r e"],
-  "negoziati": ["n e ɡ o tː s j a t i"],
-  "negoziato": ["n e ɡ o t s j a t o", "n e ɡ o tː s j a t o"],
-  "negoziatore": ["n e ɡ o tː s j a t o r e"],
-  "negoziatori": ["n e ɡ o tː s j a t o r i"],
-  "negoziatrice": ["n e ɡ o tː s j a t r i t ʃ e"],
-  "negoziatrici": ["n e ɡ o tː s j a t ʃ r i k i"],
-  "negoziazione": ["n e ɡ o t s j a t s j o n e", "n e ɡ o tː s j a tː s j o n e"],
-  "negoziazioni": ["n e ɡ o tː s j a tː s j o n i"],
-  "negozietto": ["n e ɡ o tː s j e tː o"],
-  "negozio": ["n e ɡ ɔ t s j o", "n e ɡ ɔ tː s j o"],
-  "negriera": ["n e ɡ r j ɛ r a"],
-  "negriere": ["n e ɡ r j ɛ r e"],
-  "negrieri": ["n e ɡ r j ɛ r i"],
-  "negriero": ["n e ɡ r j ɛ r o"],
-  "negritudine": ["n e ɡ r i t u d i n e"],
-  "negro": ["n e ɡ r o"],
-  "negromante": ["n e ɡ r o m a n t e"],
-  "negromanti": ["n e ɡ r o m a n t i"],
-  "negromanzia": ["n e ɡ r o m a n t s i a"],
-  "negromanzie": ["n e ɡ r o m a n t s i e"],
-  "negroni": ["n e ɡ r o n i"],
-  "negus": ["n ɛ ɡ u s"],
-  "negussita": ["n e ɡ u sː i t a"],
-  "neh": ["n ɛ"],
-  "nei": ["n ɛ i"],
-  "neismo": ["n e i z m o"],
-  "nel": ["n e l"],
-  "nell’": ["n e lː"],
-  "nella": ["n e lː a"],
-  "nelle": ["n e lː e"],
-  "nello": ["n e lː o"],
-  "nemateci": ["n e m a t ɛ t ʃ i"],
-  "nematecio": ["n e m a t ɛ t ʃ o"],
-  "nematelminto": ["n e m a t e l m i n t o"],
-  "nematica": ["n e m a t i k a"],
-  "nematiche": ["n e m a t i k e"],
-  "nematici": ["n e m a t i t ʃ i"],
-  "nematico": ["n e m a t i k o"],
-  "nematoblastico": ["n e m a t o b l a s t i k o"],
-  "nematocero": ["n e m a t ɔ t ʃ e r o"],
-  "nembo": ["n e m b o"],
-  "nemboso": ["n e m b o s o", "n e m b o z o"],
-  "nembostrato": ["n e m b o s t r a t o"],
-  "nembrot": ["n e m b r ɔ t"],
-  "nembrotto": ["n e m b r ɔ tː o"],
-  "nemesi": ["n ɛ m e z i"],
-  "nemica": ["n e m i k a"],
-  "nemiche": ["n e m i k e"],
-  "nemici": ["n e m i t ʃ i"],
-  "nemico": ["n e m i k o"],
-  "nemmanco": ["n e mː a n k o"],
-  "nemmeno": ["n e mː e n o"],
-  "nemorale": ["n e m o r a l e"],
-  "nenia": ["n ɛ n j a"],
-  "neo": ["n ɛ o"],
-  "neoaccademico": ["n ɛ o a kː a d ɛ m i k o"],
-  "neoacquisto": ["n ɛ o a kː w i s t o"],
-  "neoassunto": ["n ɛ o a sː u n t o"],
-  "neoatlantismo": ["n ɛ o a t l a n t i z m o"],
-  "neoaziendalismo": ["n ɛ o a dː z j e n d a l i z m o"],
-  "neobarocca": ["n e o b a r ɔ kː a"],
-  "neobarocche": ["n e o b a r ɔ kː e"],
-  "neobarocchi": ["n e o b a r ɔ kː i"],
-  "neobarocco": ["n e o b a r ɔ kː o", "n ɛ o b a r ɔ kː o"],
-  "neocapitalismi": ["n e o k a p i t a l i z m i"],
-  "neocapitalismo": ["n e o k a p i t a l i z m o"],
-  "neocapitalista": ["n e o k a p i t a l i s t a"],
-  "neocapitaliste": ["n e o k a p i t a l i s t e"],
-  "neocapitalisti": ["n e o k a p i t a l i s t i"],
-  "neocapitalistica": ["n e o k a p i t a l i s t i k a"],
-  "neocapitalistiche": ["n e o k a p i t a l i s t i k e"],
-  "neocapitalistici": ["n e o k a p i t a l i s t i t ʃ i"],
-  "neocapitalistico": ["n e o k a p i t a l i s t i k o"],
-  "neocatecumenale": ["n e o k a t u k e m e n a l e"],
-  "neocatecumenali": ["n e o k a t u k e m e n a l i"],
-  "neocattolica": ["n ɛ o k a tː ɔ l i k a"],
-  "neocattolicesimi": ["n ɛ o k a tː o l i t ʃ e z i m i"],
-  "neocattolicesimo": ["n ɛ o k a tː o l i t ʃ e z i m o"],
-  "neocattoliche": ["n ɛ o k a tː ɔ l i k e"],
-  "neocattolici": ["n ɛ o k a tː ɔ l i t ʃ i"],
-  "neocattolico": ["n ɛ o k a tː ɔ l i k"],
-  "neoclassica": ["n ɛ o k l a sː i k a"],
-  "neoclassiche": ["n ɛ o k l a sː i k e"],
-  "neoclassici": ["n ɛ o k l a sː i t ʃ i"],
-  "neoclassicismi": ["n ɛ o k l a sː i t ʃ i z m i"],
-  "neoclassicismo": ["n e o k l a sː i t ʃ i z m o", "n ɛ o k l a sː i t ʃ i z m o"],
-  "neoclassico": ["k l a sː i k o", "n ɛ o k l a sː i k o"],
-  "neocoloniale": ["n e o k o l o n j a l e"],
-  "neocoloniali": ["n e o k o l o n j a l i"],
-  "neocolonialismi": ["n e o k o l o n j a l i z m i"],
-  "neocolonialismo": ["n e o k o l o n j a l i z m o", "n ɛ o k o l o n j a l i z m o"],
-  "neocolonialista": ["n e o k o l o n j a l i s t a"],
-  "neocolonialiste": ["n e o k o l o n j a l i s t e"],
-  "neocolonialisti": ["n e o k o l o n j a l i s t i"],
-  "neocolonialistica": ["n e o k o l o n j a l i s t i k a"],
-  "neocolonialistiche": ["n e o k o l o n j a l i s t i k e"],
-  "neocolonialistici": ["n e o k o l o n j a l i s t i t ʃ i"],
-  "neocolonialistico": ["n e o k o l o n j a l i s t i k o"],
-  "neocomportamentismo": ["n ɛ o k o m p o r t a m e n t i z m o"],
-  "neocomunismo": ["n ɛ o k o m u n i z m o"],
-  "neocomunista": ["n e o k o m u n i s t a", "n ɛ o k o m u n i s t a"],
-  "neocomuniste": ["n e o k o m u n i s t e"],
-  "neocomunisti": ["n e o k o m u n i s t i"],
-  "neocorporativismo": ["n ɛ o k o r p o r a t i v i z m o"],
-  "neocrepuscolarismo": ["n ɛ o k r e p u s k o l a r i z m o"],
-  "neocriticismo": ["n ɛ o k r i t i t ʃ i z m o"],
-  "neocubismo": ["n ɛ o k u b i z m o"],
-  "neodadaismo": ["n ɛ o d a d a i z m o"],
-  "neodarvinismo": ["n ɛ o d a r v i n i z m o"],
-  "neodarwinismo": ["n ɛ o d a r v i n i z m o"],
-  "neodevoniano": ["n ɛ o d e v o n j a n o"],
-  "neodimio": ["n e o d i m j o"],
-  "neoeletto": ["n ɛ o e l ɛ tː o"],
-  "neoempirismo": ["n ɛ o e m p i r i z m o"],
-  "neoendemismo": ["n ɛ o e n d e m i z m o"],
-  "neofascismo": ["n ɛ o f a ʃ ʃ i z m o"],
-  "neofascista": ["n e o f a ʃ ʃ i s t a", "n ɛ o f a ʃ ʃ i s t a"],
-  "neofasciste": ["n e o f a ʃ ʃ i s t e"],
-  "neofascisti": ["n e o f a ʃ ʃ i s t i"],
-  "neofascistico": ["n e o f a ʃ ʃ i s t i k o"],
-  "neofilia": ["n e o f i l i a"],
-  "neofita": ["n e ɔ f i t a"],
-  "neofobia": ["n e o f o b i a"],
-  "neofobie": ["n e o f o b i e"],
-  "neoformazione": ["n e o f o r m a tː s j o n e"],
-  "neoformazioni": ["n e o f o r m a tː s j o n i"],
-  "neofreudismo": ["n ɛ o f r o j d i z m o"],
-  "neofrontismo": ["n ɛ o f r o n t i z m o"],
-  "neogene": ["n e o d ʒ ɛ n e", "n e ɔ d ʒ e n e"],
-  "neoghibellinismo": ["n ɛ o ɡ i b e lː i n i z m o"],
-  "neognati": ["n e ɔ ɲ ɲ a t i"],
-  "neognato": ["n e o ɲ ɲ a t o"],
-  "neogotica": ["n e o ɡ ɔ t i k a"],
-  "neogotiche": ["n e o ɡ ɔ t i k e"],
-  "neogotici": ["n e o ɡ ɔ t i t ʃ i"],
-  "neogotico": ["n e o ɡ ɔ t i k o", "n ɛ o ɡ ɔ t i k o"],
-  "neogreco": ["n ɛ o ɡ r ɛ k o"],
-  "neoguelfismo": ["n ɛ o ɡ w e l f i z m o"],
-  "neohegelianesimo": ["n ɛ o e ɡ e l j a n e z i m o"],
-  "neohegelianismo": ["n ɛ o e ɡ e l j a n i z m o"],
-  "neohegelismo": ["n ɛ o e ɡ e l i z m o"],
-  "neoidealismo": ["n e o i d e a l i z m o"],
-  "neoimpressionismo": ["n ɛ o i m p r e sː j o n i z m o"],
-  "neointegralismo": ["n ɛ o i n t e ɡ r a l i z m o"],
-  "neointimismo": ["n ɛ o i n t i m i z m o"],
-  "neokantismo": ["n ɛ o k a n t i z m o"],
-  "neolamarckismo": ["n ɛ o l a m a r k i z m o"],
-  "neolatino": ["n e o l a t i n o"],
-  "neoliberalismo": ["n ɛ o l i b e r a l i z m o"],
-  "neolitica": ["n e o l i t i k a"],
-  "neolitiche": ["n e o l i t i k e"],
-  "neolitici": ["n e o l i t i t ʃ i"],
-  "neolitico": ["n e o l i t i k o"],
-  "neologia": ["n e o l o d ʒ i a"],
-  "neologica": ["n e o l ɔ d ʒ i k a"],
-  "neologiche": ["n e o l ɔ d ʒ i k e"],
-  "neologici": ["n e o l ɔ d ʒ i t ʃ i"],
-  "neologico": ["n e o l ɔ d ʒ i k o"],
-  "neologie": ["n e o l o d ʒ i e"],
-  "neologismi": ["n e o l o d ʒ i z m i"],
-  "neologismo": ["n e o l o d ʒ i z m o"],
-  "neologista": ["n e o l o d ʒ i s t a"],
-  "neologiste": ["n e o l o d ʒ i s t e"],
-  "neologisti": ["n e o l o d ʒ i s t i"],
-  "neoluddismo": ["n ɛ o l u dː i z m o"],
-  "neomalthusianesimo": ["n ɛ o m a l t u z j a n e z i m o"],
-  "neomalthusianismo": ["n ɛ o m a l t u z j a n i z m o"],
-  "neomaltusianismo": ["n ɛ o m a l t u z j a n i z m o"],
-  "neomecenatismo": ["n ɛ o m e t ʃ e n a t i z m o"],
-  "neomercantilismo": ["n ɛ o m e r k a n t i l i z m o"],
-  "neon": ["n ɛ o n"],
-  "neonata": ["n e o n a t a"],
-  "neonatale": ["n e o n a t a l e"],
-  "neonatali": ["n e o n a t a l e"],
-  "neonate": ["n e o n a t e"],
-  "neonati": ["n e o n a t i"],
-  "neonato": ["n e o n a t o"],
-  "neonatologa": ["n e o n a t ɔ l o ɡ a"],
-  "neonatologhe": ["n e o n a t ɔ l o ɡ a"],
-  "neonatologi": ["n e o n a t ɔ l o ɡ i"],
-  "neonatologia": ["n e o n a t o l o d ʒ i a"],
-  "neonatologica": ["n e o n a t o l ɔ d ʒ i k a"],
-  "neonatologiche": ["n e o n a t o l ɔ d ʒ i k e"],
-  "neonatologici": ["n e o n a t o l ɔ d ʒ i t ʃ i"],
-  "neonatologico": ["n e o n a t o l ɔ d ʒ i k o"],
-  "neonatologie": ["n e o n a t o l o d ʒ i e"],
-  "neonatologo": ["n e o n a t ɔ l o ɡ o"],
-  "neonaziste": ["n e o n a d z i s t e"],
-  "neonazisti": ["n e o n a d z i s t i"],
-  "neontologo": ["n e o n t ɔ l o ɡ o"],
-  "neopitagorismo": ["n ɛ o p i t a ɡ o r i z m o"],
-  "neoplasia": ["n e o p l a z i a"],
-  "neoplasie": ["n e o p l a z i e"],
-  "neoplastica": ["n ɛ o p l a s t i k a"],
-  "neoplastici": ["n ɛ o p l a s t i k i"],
-  "neoplasticismo": ["n ɛ o p l a s t i t ʃ i z m o"],
-  "neoplastico": ["n ɛ o p l a s t i k o"],
-  "neoplatonico": ["n ɛ o p l a t ɔ n i k o"],
-  "neoplatonismi": ["n e o p l a t o n i z m i"],
-  "neoplatonismo": ["n e o p l a t o n i z m o", "n ɛ o p l a t o n i z m o"],
-  "neopositivismo": ["n ɛ o p o z i t i v i z m o"],
-  "neoprene": ["n ɛ o p r ɛ n e"],
-  "neopurismo": ["n ɛ o p u r i z m o"],
-  "neoqualunquismo": ["n ɛ o k w a l u n k w i z m o"],
-  "neorealismi": ["n e o r e a l i z m i"],
-  "neorealismo": ["n e o r e a l i z m o"],
-  "neorealista": ["n e o r e a l i s t a", "n ɛ o r e a l i s t a"],
-  "neorealiste": ["n e o r e a l i s t e"],
-  "neorealisti": ["n e o r e a l i s t i"],
-  "neornite": ["n e ɔ r n i t e"],
-  "neorniti": ["n e ɔ r n i t i"],
-  "neoromanico": ["n ɛ o r o m a n i k o"],
-  "neoromantica": ["n e o r o m a n t i k a"],
-  "neoromantiche": ["n e o r o m a n t i k e"],
-  "neoromantici": ["n e o r o m a n t i t ʃ i"],
-  "neoromanticismo": ["n ɛ o r o m a n t i t ʃ i z m o"],
-  "neoromantico": ["n e o r o m a n t i k o"],
-  "neoscolastica": ["n ɛ o s k o l a s t i k a"],
-  "neotenia": ["n e o t e n i a"],
-  "neotenico": ["n e o t ɛ n i k o"],
-  "neoterismo": ["n e o t e r i z m o"],
-  "neotestamentari": ["n e o t e s t a m e n t a r i"],
-  "neotestamentaria": ["n e o t e s t a m e n t a r j a"],
-  "neotestamentarie": ["n e o t e s t a m e n t a r j e"],
-  "neotestamentario": ["n e o t e s t a m e n t a r j o"],
-  "neotimpani": ["n ɛ o t i m p a n i"],
-  "neotimpano": ["n ɛ o t i m p a n o"],
-  "neotomismi": ["n ɛ o t o m i z m i"],
-  "neotomismo": ["n ɛ o t o m i z m o"],
-  "neotomista": ["n e o t o m i s t a"],
-  "neotomiste": ["n e o t o m i s t e"],
-  "neotomisti": ["n e o t o m i s t i"],
-  "neotteri": ["n e ɔ tː e r i", "n ɛ o tː e r i"],
-  "neottero": ["n e ɔ tː e r o", "n ɛ o tː e r o"],
-  "neoverismo": ["n ɛ o v e r i z m o"],
-  "neozelandese": ["n e o d ʒ e l a n d e z e", "n ɛ o dː z e l a n d e s e", "n ɛ o dː z e l a n d e z e"],
-  "neozelandesi": ["n e o d ʒ e l a n d e z i"],
-  "neozoico": ["n e o dː z ɔ j k o"],
-  "nepal": ["n e p a l"],
-  "nepalese": ["n e p a l ɛ z e"],
-  "nepalesi": ["n e p a l ɛ z i"],
-  "nepitella": ["n e p i t ɛ lː a"],
-  "nepote": ["n e p o t e"],
-  "nepoti": ["n e p o t e"],
-  "nepotismi": ["n e p o t i z m i"],
-  "nepotismo": ["n e p o t i z m o"],
-  "nepotista": ["n e p o t i s t a"],
-  "nepotiste": ["n e p o t i s t e"],
-  "nepotisti": ["n e p o t i s t i"],
-  "neppure": ["n e pː u r e"],
-  "nequitanza": ["n e k w i t a n t s a"],
-  "nequitoso": ["n e k w i t o z o"],
-  "nequizia": ["n e k w i t s j a", "n e k w i tː s j a"],
-  "nequizie": ["n e k w i t s j e"],
-  "nera": ["n e r a"],
-  "nerastra": ["n e r a s t r a"],
-  "nerastre": ["n e r a s t r e"],
-  "nerastri": ["n e r a s t r i"],
-  "nerastro": ["n e r a s t r o"],
-  "nerazzurra": ["n e r a tː s u rː a"],
-  "nerazzurre": ["n e r a tː s u rː e"],
-  "nerazzurri": ["n e r a tː s u rː i"],
-  "nerazzurro": ["n e r a dː z u rː o"],
-  "nerbo": ["n ɛ r b o"],
-  "nerbona": ["n e r b ɔ n a"],
-  "nerboruto": ["n e r b o r u t o"],
-  "nerd": ["n ɛ r d"],
-  "nere": ["n e r e"],
-  "nereggiante": ["n e r e dː ʒ a n t e"],
-  "nereggiato": ["n e r e dː ʒ a t o"],
-  "nereide": ["n e r ɛ j d e"],
-  "neri": ["n e r i"],
-  "nerissima": ["n e r i sː i m a"],
-  "nerissime": ["n e r i sː i m e"],
-  "nerissimi": ["n e r i sː i m i"],
-  "nerissimo": ["n e r i sː i m o"],
-  "nero": ["n e r o"],
-  "nerofumo": ["n e r o f u m o"],
-  "neroniano": ["n e r o n j a n o"],
-  "nervatura": ["n e r v a t u r a"],
-  "nervature": ["n e r v a t u r e"],
-  "nervi": ["n ɛ r v i"],
-  "nervino": ["n e r v i n o"],
-  "nervo": ["n ɛ r v o", "n ɛ r v ɔ"],
-  "nervosa": ["n e r v o z a"],
-  "nervosamente": ["n e r v o s a m e n t e", "n e r v o z a m e n t e"],
-  "nervose": ["n e r v o z e"],
-  "nervosi": ["n e r v o z i"],
-  "nervosismi": ["n e r v o z i z m i"],
-  "nervosismo": ["n e r v o s i z m o", "n e r v o z i z m o"],
-  "nervosità": ["n e r v o z i t a"],
-  "nervoso": ["n e r v o s o", "n e r v o z o"],
-  "nescio": ["n ɛ ʃ ʃ o"],
-  "nespola": ["n ɛ s p o l a"],
-  "nespolo": ["n ɛ s p o l o"],
-  "nesso": ["n ɛ sː o"],
-  "nessuno": ["n e sː u n o"],
-  "nestore": ["n ɛ s t o r e"],
-  "nestoriana": ["n e s t o r j a n a"],
-  "nestoriane": ["n e s t o r j a n e"],
-  "nestorianesimi": ["n e s t o r j a n e s i m i"],
-  "nestorianesimo": ["n e s t o r j a n e s i m o"],
-  "nestoriani": ["n e s t o r j a n i"],
-  "nestorianismi": ["n e s t o r j a n i z m i"],
-  "nestorianismo": ["n e s t o r j a n i z m o"],
-  "nestoriano": ["n e s t o r j a n o"],
-  "netta": ["n e tː a"],
-  "nettamente": ["n e tː a m e n t e"],
-  "nettando": ["n e tː a n d o"],
-  "nettante": ["n e tː a n t e"],
-  "nettapiedi": ["n e tː a p j ɛ d i"],
-  "nettare": ["n e tː a r e", "n ɛ tː a r e"],
-  "nettareo": ["n e tː a r e o"],
-  "nettari": ["n e tː a r i", "n ɛ tː a r i"],
-  "nettarina": ["n e tː a r i n a"],
-  "nettarino": ["n e tː a r i n o"],
-  "nettario": ["n e tː a r j o"],
-  "nettarivoro": ["n e tː a r i v o r o"],
-  "nettaroconca": ["n e tː a r o k o n k a"],
-  "nettarofago": ["n e tː a r ɔ f a ɡ o"],
-  "nettaroteca": ["n e tː a r o t ɛ k a"],
-  "nettarovia": ["n e tː a r o v i a"],
-  "nettata": ["n e tː a t a"],
-  "nettate": ["n e tː a t e"],
-  "nettati": ["n e tː a t i"],
-  "nettato": ["n e tː a t o"],
-  "nette": ["n e tː e"],
-  "netti": ["n e tː i"],
-  "nettissima": ["n e tː i sː i m a"],
-  "nettissime": ["n e tː i sː i m e"],
-  "nettissimi": ["n e tː i sː i m i"],
-  "nettissimo": ["n e tː i sː i m o"],
-  "netto": ["n e tː o"],
-  "nettozoide": ["n e tː o dː z ɔ j d e"],
-  "nettunense": ["n e tː u n ɛ n s e"],
-  "nettunensi": ["n e tː u n ɛ n s i"],
-  "nettunese": ["n e tː u n e s e"],
-  "nettunesi": ["n e tː u n e s i"],
-  "nettuni": ["n e tː u n i"],
-  "nettunia": ["n e tː u n j a"],
-  "nettuniana": ["n e tː u n j a n a"],
-  "nettuniane": ["n e tː u n j a n e"],
-  "nettuniani": ["n e tː u n j a n i"],
-  "nettuniano": ["n e tː u n j a n o"],
-  "nettunie": ["n e tː u n j e"],
-  "nettunio": ["n e tː u n j o"],
-  "nettunismi": ["n e tː u n i z m o"],
-  "nettunismo": ["n e tː u n i z m o"],
-  "nettunista": ["n e tː u n i s t a"],
-  "nettuniste": ["n e tː u n i s t e"],
-  "nettunisti": ["n e tː u n i s t i"],
-  "nettunno": ["n e tː u nː o"],
-  "nettuno": ["n e tː u n o", "ɲ e tː u n o"],
-  "netturbina": ["n e tː u r b i n a"],
-  "netturbine": ["n e tː u r b i n e"],
-  "netturbini": ["n e tː u r b i n i"],
-  "netturbino": ["n e tː u r b i n o"],
-  "neuma": ["n ɛ u m a"],
-  "neumatica": ["n e u m a t i k a"],
-  "neumatiche": ["n e u m a t i k e"],
-  "neumatici": ["n e u m a t i t ʃ i"],
-  "neumatico": ["n e u m a t i k o"],
-  "neumi": ["n ɛ u m i"],
-  "neuno": ["n e u n o"],
-  "neurale": ["n e w r a l e"],
-  "neurali": ["n e u r a l i"],
-  "neurobiologia": ["n e u r o b i o l o d ʒ i a", "n ɛ w r o b i o l o d ʒ i a"],
-  "neurobiologica": ["n e u r o b i o l ɔ d ʒ i k a"],
-  "neurobiologicamente": ["n e u r o b i o l o d ʒ i k a m e n t e"],
-  "neurobiologiche": ["n e u r o b i o l ɔ d ʒ i k e"],
-  "neurobiologici": ["n e u r o b i o l ɔ d ʒ i t ʃ i"],
-  "neurobiologico": ["n e u r o b i o l ɔ d ʒ i k o"],
-  "neurobiologie": ["n e u r o b i o l o d ʒ i e"],
-  "neuroblasti": ["n e u r o b l a s t i"],
-  "neuroblasto": ["n e u r o b l a s t o", "n e w r o b l a s t o"],
-  "neuroblastoma": ["n ɛ u r o b l a s t ɔ m a"],
-  "neuroblastomi": ["n ɛ u r o b l a s t ɔ m i"],
-  "neurochimica": ["n e u r o k i m i k a"],
-  "neurochimiche": ["n e u r o k i m i k e"],
-  "neurochimici": ["n e u r o k i m i t ʃ i"],
-  "neurochimico": ["n e u r o k i m i k o"],
-  "neurochirurga": ["n ɛ w r o k i r u r ɡ a"],
-  "neurochirurghe": ["n ɛ w r o k i r u r ɡ k e"],
-  "neurochirurghi": ["n ɛ w r o k i r u r ɡ i"],
-  "neurochirurgia": ["n ɛ w r o k i r u r d ʒ i a"],
-  "neurochirurgo": ["n e w r o k i r u r ɡ o", "n ɛ w r o k i r u r ɡ o"],
-  "neurocranio": ["n ɛ w r o k r a n j o"],
-  "neurodegenerativo": ["n ɛ w r o d e d ʒ e n e r a t i v o"],
-  "neurodermatite": ["n e u r o d e r m a t i t e"],
-  "neurodermatiti": ["n e u r o d e r m a t i t i"],
-  "neurodermite": ["n e u r o d e r m i t e"],
-  "neurodermiti": ["n e u r o d e r m i t i"],
-  "neuroendocrino": ["n ɛ w r o e n d ɔ k r i n o"],
-  "neuroendocrinologia": ["n e u r o e n d o k r i n o l o ɡ i a"],
-  "neurofarmacologia": ["n e u r o f a r m a k o l o d ʒ i a"],
-  "neurofarmacologie": ["n e u r o f a r m a k o l o d ʒ i e"],
-  "neurofibrillaro": ["n ɛ w r o f i b r i lː a r o"],
-  "neurofilamenti": ["n ɛ w r o f i l a m e n t i"],
-  "neurofilamento": ["n ɛ w r o f i l a m e n t o"],
-  "neurofisina": ["n e w r o f i z i n a"],
-  "neurofisiopatologia": ["n ɛ w r o f i z j o p a t o l o d ʒ i a"],
-  "neurolettico": ["n ɛ w r o l ɛ tː i k o"],
-  "neurolinguistica": ["n ɛ w r o l i n ɡ w i s t i k a"],
-  "neurolitico": ["n e w r o l i t i k o"],
-  "neurologa": ["n e u r ɔ l o ɡ a"],
-  "neurologhe": ["n e u r ɔ l o ɡ e"],
-  "neurologi": ["n e u r ɔ l o d ʒ i"],
-  "neurologia": ["n e u r o l o d ʒ i a"],
-  "neurologica": ["n e u r o l ɔ d ʒ i k a"],
-  "neurologicamente": ["n e u r o l o d ʒ i k a m e n t e"],
-  "neurologiche": ["n e u r o l ɔ d ʒ i k e"],
-  "neurologici": ["n e u r o l ɔ d ʒ i t ʃ i"],
-  "neurologico": ["n e u r o l ɔ d ʒ i k o", "n e w r o l ɔ d ʒ i k o"],
-  "neurologie": ["n e u r o l o d ʒ i e"],
-  "neurologo": ["n e u r ɔ l o ɡ o", "n e w r ɔ l o ɡ o"],
-  "neurolue": ["n ɛ w r o l u e"],
-  "neuromodulatore": ["n e u r o m o d u l a t o r e"],
-  "neuromodulatori": ["n e u r o m o d u l a t o r i"],
-  "neuromodulazione": ["n e u r o m o d u l a t s j o n e"],
-  "neuromodulazioni": ["n e u r o m o d u l a t s j o n i"],
-  "neuromuscolare": ["n e u r o m u s k o l a r e"],
-  "neuromuscolari": ["n e u r o m u s k o l a r i"],
-  "neuronale": ["n e u r o n a l e", "n e w r o n a l e"],
-  "neuronali": ["n e u r o n a l i"],
-  "neurone": ["n e w r o n e"],
-  "neuroni": ["n e w r o n i"],
-  "neuronico": ["n e w r ɔ n i k o"],
-  "neuronofago": ["n e w r o n ɔ f a ɡ o"],
-  "neuropatia": ["n e w r o p a t i a"],
-  "neuropatologia": ["n ɛ w r o p a t o l o d ʒ i a"],
-  "neuroplasticità": ["n e u r o p l a s t i t ʃ i t a"],
-  "neuroradiologia": ["n ɛ w r o r a d j o l o d ʒ i a"],
-  "neuroscheletri": ["n e u r o s k ɛ l e t r i"],
-  "neuroscheletro": ["n e u r o s k ɛ l e t r o", "n ɛ w r o s k ɛ l e t r o"],
-  "neuroscienza": ["n e u r o ʃ ɛ n t s a", "n ɛ w r o ʃ ʃ ɛ n t s a"],
-  "neuroscienze": ["n e u r o ʃ ɛ n t s e"],
-  "neurostimolante": ["n ɛ w r o s t i m o l a n t e"],
-  "neurostimolanti": ["n ɛ w r o s t i m o l a n t i"],
-  "neurotonica": ["n e u r o t ɔ n i k a"],
-  "neurotoniche": ["n e u r o t ɔ n i k e"],
-  "neurotonici": ["n e u r o t ɔ n i t ʃ i"],
-  "neurotonico": ["n e u r o t ɔ n i k o", "n ɛ w r o t ɔ n i k o"],
-  "neurotossica": ["n e u r o t ɔ sː i k a"],
-  "neurotossiche": ["n e u r o t ɔ sː i k e"],
-  "neurotossici": ["n e u r o t ɔ sː i t ʃ i"],
-  "neurotossicità": ["n e u r o t o sː i t ʃ i t a"]
+  "negati": [
+    "neɡati"
+  ],
+  "negativa": [
+    "neɡativa"
+  ],
+  "negativamente": [
+    "neɡativamente"
+  ],
+  "negative": [
+    "neɡative"
+  ],
+  "negativi": [
+    "neɡativi"
+  ],
+  "negativismi": [
+    "neɡativismi"
+  ],
+  "negativismo": [
+    "neɡativismo"
+  ],
+  "negatività": [
+    "neɡativita"
+  ],
+  "negativo": [
+    "neɡativo"
+  ],
+  "negativoscopi": [
+    "neɡativoskɔpi"
+  ],
+  "negativoscopio": [
+    "neɡativoskɔpjo"
+  ],
+  "negato": [
+    "neɡato"
+  ],
+  "negatore": [
+    "neɡatore"
+  ],
+  "negatoscopi": [
+    "neɡatoskɔpi"
+  ],
+  "negatoscopio": [
+    "neɡatoskɔpjo"
+  ],
+  "negazione": [
+    "neɡatːsjone"
+  ],
+  "negazioni": [
+    "neɡatːsjoni"
+  ],
+  "negazionismi": [
+    "neɡatːsjonizmi"
+  ],
+  "negazionismo": [
+    "neɡatːsjonizmo"
+  ],
+  "negazionista": [
+    "neɡatːsjonista"
+  ],
+  "negazioniste": [
+    "neɡatːsjoniste"
+  ],
+  "negazionisti": [
+    "neɡatːsjonisti"
+  ],
+  "negazionistica": [
+    "neɡatːsjonistika"
+  ],
+  "negazionistiche": [
+    "neɡatːsjonistike"
+  ],
+  "negazionistici": [
+    "neɡatːsjonistitʃi"
+  ],
+  "negazionistico": [
+    "neɡatːsjonistiko"
+  ],
+  "neghittosa": [
+    "neɡitːoza"
+  ],
+  "neghittosamente": [
+    "neɡitːosamente"
+  ],
+  "neghittose": [
+    "neɡitːoze"
+  ],
+  "neghittosi": [
+    "neɡitːozi"
+  ],
+  "neghittoso": [
+    "neɡitːozo"
+  ],
+  "negletta": [
+    "neɡlɛtːa"
+  ],
+  "neglettamente": [
+    "neɡletːamente"
+  ],
+  "neglette": [
+    "neɡlɛtːe"
+  ],
+  "negletti": [
+    "neɡlɛtːi"
+  ],
+  "negletto": [
+    "neɡlɛtːo"
+  ],
+  "negli": [
+    "neʎi"
+  ],
+  "negligente": [
+    "neʎdʒɛnte",
+    "neʎidʒɛnte"
+  ],
+  "negligentemente": [
+    "neɡlidʒentemente",
+    "neʎidʒɛntemente"
+  ],
+  "negligenti": [
+    "neʎidʒɛnti"
+  ],
+  "negligenza": [
+    "neɡlidʒɛntsa"
+  ],
+  "negligenze": [
+    "neɡlidʒɛntse"
+  ],
+  "negligere": [
+    "neɡlidʒere"
+  ],
+  "nego": [
+    "neɡo"
+  ],
+  "negossa": [
+    "neɡɔsːa"
+  ],
+  "negozi": [
+    "neɡɔtsi"
+  ],
+  "negoziabile": [
+    "neɡotːsjabile"
+  ],
+  "negoziabili": [
+    "neɡotːsjabili"
+  ],
+  "negoziabilità": [
+    "neɡotːsjabilita"
+  ],
+  "negoziale": [
+    "neɡotsjale"
+  ],
+  "negoziali": [
+    "neɡotsjali"
+  ],
+  "negoziante": [
+    "neɡotsjante",
+    "neɡotːsjante"
+  ],
+  "negozianti": [
+    "neɡotːsjanti"
+  ],
+  "negoziare": [
+    "neɡotːsjare"
+  ],
+  "negoziati": [
+    "neɡotːsjati"
+  ],
+  "negoziato": [
+    "neɡotsjato",
+    "neɡotːsjato"
+  ],
+  "negoziatore": [
+    "neɡotːsjatore"
+  ],
+  "negoziatori": [
+    "neɡotːsjatori"
+  ],
+  "negoziatrice": [
+    "neɡotːsjatritʃe"
+  ],
+  "negoziatrici": [
+    "neɡotːsjatʃriki"
+  ],
+  "negoziazione": [
+    "neɡotsjatsjone",
+    "neɡotːsjatːsjone"
+  ],
+  "negoziazioni": [
+    "neɡotːsjatːsjoni"
+  ],
+  "negozietto": [
+    "neɡotːsjetːo"
+  ],
+  "negozio": [
+    "neɡɔtsjo",
+    "neɡɔtːsjo"
+  ],
+  "negriera": [
+    "neɡrjɛra"
+  ],
+  "negriere": [
+    "neɡrjɛre"
+  ],
+  "negrieri": [
+    "neɡrjɛri"
+  ],
+  "negriero": [
+    "neɡrjɛro"
+  ],
+  "negritudine": [
+    "neɡritudine"
+  ],
+  "negro": [
+    "neɡro"
+  ],
+  "negromante": [
+    "neɡromante"
+  ],
+  "negromanti": [
+    "neɡromanti"
+  ],
+  "negromanzia": [
+    "neɡromantsia"
+  ],
+  "negromanzie": [
+    "neɡromantsie"
+  ],
+  "negroni": [
+    "neɡroni"
+  ],
+  "negus": [
+    "nɛɡus"
+  ],
+  "negussita": [
+    "neɡusːita"
+  ],
+  "neh": [
+    "nɛ"
+  ],
+  "nei": [
+    "nɛi"
+  ],
+  "neismo": [
+    "neizmo"
+  ],
+  "nel": [
+    "nel"
+  ],
+  "nell’": [
+    "nelː"
+  ],
+  "nella": [
+    "nelːa"
+  ],
+  "nelle": [
+    "nelːe"
+  ],
+  "nello": [
+    "nelːo"
+  ],
+  "nemateci": [
+    "nematɛtʃi"
+  ],
+  "nematecio": [
+    "nematɛtʃo"
+  ],
+  "nematelminto": [
+    "nematelminto"
+  ],
+  "nematica": [
+    "nematika"
+  ],
+  "nematiche": [
+    "nematike"
+  ],
+  "nematici": [
+    "nematitʃi"
+  ],
+  "nematico": [
+    "nematiko"
+  ],
+  "nematoblastico": [
+    "nematoblastiko"
+  ],
+  "nematocero": [
+    "nematɔtʃero"
+  ],
+  "nembo": [
+    "nembo"
+  ],
+  "nemboso": [
+    "nemboso",
+    "nembozo"
+  ],
+  "nembostrato": [
+    "nembostrato"
+  ],
+  "nembrot": [
+    "nembrɔt"
+  ],
+  "nembrotto": [
+    "nembrɔtːo"
+  ],
+  "nemesi": [
+    "nɛmezi"
+  ],
+  "nemica": [
+    "nemika"
+  ],
+  "nemiche": [
+    "nemike"
+  ],
+  "nemici": [
+    "nemitʃi"
+  ],
+  "nemico": [
+    "nemiko"
+  ],
+  "nemmanco": [
+    "nemːanko"
+  ],
+  "nemmeno": [
+    "nemːeno"
+  ],
+  "nemorale": [
+    "nemorale"
+  ],
+  "nenia": [
+    "nɛnja"
+  ],
+  "neo": [
+    "nɛo"
+  ],
+  "neoaccademico": [
+    "nɛoakːadɛmiko"
+  ],
+  "neoacquisto": [
+    "nɛoakːwisto"
+  ],
+  "neoassunto": [
+    "nɛoasːunto"
+  ],
+  "neoatlantismo": [
+    "nɛoatlantizmo"
+  ],
+  "neoaziendalismo": [
+    "nɛoadːzjendalizmo"
+  ],
+  "neobarocca": [
+    "neobarɔkːa"
+  ],
+  "neobarocche": [
+    "neobarɔkːe"
+  ],
+  "neobarocchi": [
+    "neobarɔkːi"
+  ],
+  "neobarocco": [
+    "neobarɔkːo",
+    "nɛobarɔkːo"
+  ],
+  "neocapitalismi": [
+    "neokapitalizmi"
+  ],
+  "neocapitalismo": [
+    "neokapitalizmo"
+  ],
+  "neocapitalista": [
+    "neokapitalista"
+  ],
+  "neocapitaliste": [
+    "neokapitaliste"
+  ],
+  "neocapitalisti": [
+    "neokapitalisti"
+  ],
+  "neocapitalistica": [
+    "neokapitalistika"
+  ],
+  "neocapitalistiche": [
+    "neokapitalistike"
+  ],
+  "neocapitalistici": [
+    "neokapitalistitʃi"
+  ],
+  "neocapitalistico": [
+    "neokapitalistiko"
+  ],
+  "neocatecumenale": [
+    "neokatukemenale"
+  ],
+  "neocatecumenali": [
+    "neokatukemenali"
+  ],
+  "neocattolica": [
+    "nɛokatːɔlika"
+  ],
+  "neocattolicesimi": [
+    "nɛokatːolitʃezimi"
+  ],
+  "neocattolicesimo": [
+    "nɛokatːolitʃezimo"
+  ],
+  "neocattoliche": [
+    "nɛokatːɔlike"
+  ],
+  "neocattolici": [
+    "nɛokatːɔlitʃi"
+  ],
+  "neocattolico": [
+    "nɛokatːɔlik"
+  ],
+  "neoclassica": [
+    "nɛoklasːika"
+  ],
+  "neoclassiche": [
+    "nɛoklasːike"
+  ],
+  "neoclassici": [
+    "nɛoklasːitʃi"
+  ],
+  "neoclassicismi": [
+    "nɛoklasːitʃizmi"
+  ],
+  "neoclassicismo": [
+    "neoklasːitʃizmo",
+    "nɛoklasːitʃizmo"
+  ],
+  "neoclassico": [
+    "klasːiko",
+    "nɛoklasːiko"
+  ],
+  "neocoloniale": [
+    "neokolonjale"
+  ],
+  "neocoloniali": [
+    "neokolonjali"
+  ],
+  "neocolonialismi": [
+    "neokolonjalizmi"
+  ],
+  "neocolonialismo": [
+    "neokolonjalizmo",
+    "nɛokolonjalizmo"
+  ],
+  "neocolonialista": [
+    "neokolonjalista"
+  ],
+  "neocolonialiste": [
+    "neokolonjaliste"
+  ],
+  "neocolonialisti": [
+    "neokolonjalisti"
+  ],
+  "neocolonialistica": [
+    "neokolonjalistika"
+  ],
+  "neocolonialistiche": [
+    "neokolonjalistike"
+  ],
+  "neocolonialistici": [
+    "neokolonjalistitʃi"
+  ],
+  "neocolonialistico": [
+    "neokolonjalistiko"
+  ],
+  "neocomportamentismo": [
+    "nɛokomportamentizmo"
+  ],
+  "neocomunismo": [
+    "nɛokomunizmo"
+  ],
+  "neocomunista": [
+    "neokomunista",
+    "nɛokomunista"
+  ],
+  "neocomuniste": [
+    "neokomuniste"
+  ],
+  "neocomunisti": [
+    "neokomunisti"
+  ],
+  "neocorporativismo": [
+    "nɛokorporativizmo"
+  ],
+  "neocrepuscolarismo": [
+    "nɛokrepuskolarizmo"
+  ],
+  "neocriticismo": [
+    "nɛokrititʃizmo"
+  ],
+  "neocubismo": [
+    "nɛokubizmo"
+  ],
+  "neodadaismo": [
+    "nɛodadaizmo"
+  ],
+  "neodarvinismo": [
+    "nɛodarvinizmo"
+  ],
+  "neodarwinismo": [
+    "nɛodarvinizmo"
+  ],
+  "neodevoniano": [
+    "nɛodevonjano"
+  ],
+  "neodimio": [
+    "neodimjo"
+  ],
+  "neoeletto": [
+    "nɛoelɛtːo"
+  ],
+  "neoempirismo": [
+    "nɛoempirizmo"
+  ],
+  "neoendemismo": [
+    "nɛoendemizmo"
+  ],
+  "neofascismo": [
+    "nɛofaʃʃizmo"
+  ],
+  "neofascista": [
+    "neofaʃʃista",
+    "nɛofaʃʃista"
+  ],
+  "neofasciste": [
+    "neofaʃʃiste"
+  ],
+  "neofascisti": [
+    "neofaʃʃisti"
+  ],
+  "neofascistico": [
+    "neofaʃʃistiko"
+  ],
+  "neofilia": [
+    "neofilia"
+  ],
+  "neofita": [
+    "neɔfita"
+  ],
+  "neofobia": [
+    "neofobia"
+  ],
+  "neofobie": [
+    "neofobie"
+  ],
+  "neoformazione": [
+    "neoformatːsjone"
+  ],
+  "neoformazioni": [
+    "neoformatːsjoni"
+  ],
+  "neofreudismo": [
+    "nɛofrojdizmo"
+  ],
+  "neofrontismo": [
+    "nɛofrontizmo"
+  ],
+  "neogene": [
+    "neodʒɛne",
+    "neɔdʒene"
+  ],
+  "neoghibellinismo": [
+    "nɛoɡibelːinizmo"
+  ],
+  "neognati": [
+    "neɔɲɲati"
+  ],
+  "neognato": [
+    "neoɲɲato"
+  ],
+  "neogotica": [
+    "neoɡɔtika"
+  ],
+  "neogotiche": [
+    "neoɡɔtike"
+  ],
+  "neogotici": [
+    "neoɡɔtitʃi"
+  ],
+  "neogotico": [
+    "neoɡɔtiko",
+    "nɛoɡɔtiko"
+  ],
+  "neogreco": [
+    "nɛoɡrɛko"
+  ],
+  "neoguelfismo": [
+    "nɛoɡwelfizmo"
+  ],
+  "neohegelianesimo": [
+    "nɛoeɡeljanezimo"
+  ],
+  "neohegelianismo": [
+    "nɛoeɡeljanizmo"
+  ],
+  "neohegelismo": [
+    "nɛoeɡelizmo"
+  ],
+  "neoidealismo": [
+    "neoidealizmo"
+  ],
+  "neoimpressionismo": [
+    "nɛoimpresːjonizmo"
+  ],
+  "neointegralismo": [
+    "nɛointeɡralizmo"
+  ],
+  "neointimismo": [
+    "nɛointimizmo"
+  ],
+  "neokantismo": [
+    "nɛokantizmo"
+  ],
+  "neolamarckismo": [
+    "nɛolamarkizmo"
+  ],
+  "neolatino": [
+    "neolatino"
+  ],
+  "neoliberalismo": [
+    "nɛoliberalizmo"
+  ],
+  "neolitica": [
+    "neolitika"
+  ],
+  "neolitiche": [
+    "neolitike"
+  ],
+  "neolitici": [
+    "neolititʃi"
+  ],
+  "neolitico": [
+    "neolitiko"
+  ],
+  "neologia": [
+    "neolodʒia"
+  ],
+  "neologica": [
+    "neolɔdʒika"
+  ],
+  "neologiche": [
+    "neolɔdʒike"
+  ],
+  "neologici": [
+    "neolɔdʒitʃi"
+  ],
+  "neologico": [
+    "neolɔdʒiko"
+  ],
+  "neologie": [
+    "neolodʒie"
+  ],
+  "neologismi": [
+    "neolodʒizmi"
+  ],
+  "neologismo": [
+    "neolodʒizmo"
+  ],
+  "neologista": [
+    "neolodʒista"
+  ],
+  "neologiste": [
+    "neolodʒiste"
+  ],
+  "neologisti": [
+    "neolodʒisti"
+  ],
+  "neoluddismo": [
+    "nɛoludːizmo"
+  ],
+  "neomalthusianesimo": [
+    "nɛomaltuzjanezimo"
+  ],
+  "neomalthusianismo": [
+    "nɛomaltuzjanizmo"
+  ],
+  "neomaltusianismo": [
+    "nɛomaltuzjanizmo"
+  ],
+  "neomecenatismo": [
+    "nɛometʃenatizmo"
+  ],
+  "neomercantilismo": [
+    "nɛomerkantilizmo"
+  ],
+  "neon": [
+    "nɛon"
+  ],
+  "neonata": [
+    "neonata"
+  ],
+  "neonatale": [
+    "neonatale"
+  ],
+  "neonatali": [
+    "neonatale"
+  ],
+  "neonate": [
+    "neonate"
+  ],
+  "neonati": [
+    "neonati"
+  ],
+  "neonato": [
+    "neonato"
+  ],
+  "neonatologa": [
+    "neonatɔloɡa"
+  ],
+  "neonatologhe": [
+    "neonatɔloɡa"
+  ],
+  "neonatologi": [
+    "neonatɔloɡi"
+  ],
+  "neonatologia": [
+    "neonatolodʒia"
+  ],
+  "neonatologica": [
+    "neonatolɔdʒika"
+  ],
+  "neonatologiche": [
+    "neonatolɔdʒike"
+  ],
+  "neonatologici": [
+    "neonatolɔdʒitʃi"
+  ],
+  "neonatologico": [
+    "neonatolɔdʒiko"
+  ],
+  "neonatologie": [
+    "neonatolodʒie"
+  ],
+  "neonatologo": [
+    "neonatɔloɡo"
+  ],
+  "neonaziste": [
+    "neonadziste"
+  ],
+  "neonazisti": [
+    "neonadzisti"
+  ],
+  "neontologo": [
+    "neontɔloɡo"
+  ],
+  "neopitagorismo": [
+    "nɛopitaɡorizmo"
+  ],
+  "neoplasia": [
+    "neoplazia"
+  ],
+  "neoplasie": [
+    "neoplazie"
+  ],
+  "neoplastica": [
+    "nɛoplastika"
+  ],
+  "neoplastici": [
+    "nɛoplastiki"
+  ],
+  "neoplasticismo": [
+    "nɛoplastitʃizmo"
+  ],
+  "neoplastico": [
+    "nɛoplastiko"
+  ],
+  "neoplatonico": [
+    "nɛoplatɔniko"
+  ],
+  "neoplatonismi": [
+    "neoplatonizmi"
+  ],
+  "neoplatonismo": [
+    "neoplatonizmo",
+    "nɛoplatonizmo"
+  ],
+  "neopositivismo": [
+    "nɛopozitivizmo"
+  ],
+  "neoprene": [
+    "nɛoprɛne"
+  ],
+  "neopurismo": [
+    "nɛopurizmo"
+  ],
+  "neoqualunquismo": [
+    "nɛokwalunkwizmo"
+  ],
+  "neorealismi": [
+    "neorealizmi"
+  ],
+  "neorealismo": [
+    "neorealizmo"
+  ],
+  "neorealista": [
+    "neorealista",
+    "nɛorealista"
+  ],
+  "neorealiste": [
+    "neorealiste"
+  ],
+  "neorealisti": [
+    "neorealisti"
+  ],
+  "neornite": [
+    "neɔrnite"
+  ],
+  "neorniti": [
+    "neɔrniti"
+  ],
+  "neoromanico": [
+    "nɛoromaniko"
+  ],
+  "neoromantica": [
+    "neoromantika"
+  ],
+  "neoromantiche": [
+    "neoromantike"
+  ],
+  "neoromantici": [
+    "neoromantitʃi"
+  ],
+  "neoromanticismo": [
+    "nɛoromantitʃizmo"
+  ],
+  "neoromantico": [
+    "neoromantiko"
+  ],
+  "neoscolastica": [
+    "nɛoskolastika"
+  ],
+  "neotenia": [
+    "neotenia"
+  ],
+  "neotenico": [
+    "neotɛniko"
+  ],
+  "neoterismo": [
+    "neoterizmo"
+  ],
+  "neotestamentari": [
+    "neotestamentari"
+  ],
+  "neotestamentaria": [
+    "neotestamentarja"
+  ],
+  "neotestamentarie": [
+    "neotestamentarje"
+  ],
+  "neotestamentario": [
+    "neotestamentarjo"
+  ],
+  "neotimpani": [
+    "nɛotimpani"
+  ],
+  "neotimpano": [
+    "nɛotimpano"
+  ],
+  "neotomismi": [
+    "nɛotomizmi"
+  ],
+  "neotomismo": [
+    "nɛotomizmo"
+  ],
+  "neotomista": [
+    "neotomista"
+  ],
+  "neotomiste": [
+    "neotomiste"
+  ],
+  "neotomisti": [
+    "neotomisti"
+  ],
+  "neotteri": [
+    "neɔtːeri",
+    "nɛotːeri"
+  ],
+  "neottero": [
+    "neɔtːero",
+    "nɛotːero"
+  ],
+  "neoverismo": [
+    "nɛoverizmo"
+  ],
+  "neozelandese": [
+    "neodʒelandeze",
+    "nɛodːzelandese",
+    "nɛodːzelandeze"
+  ],
+  "neozelandesi": [
+    "neodʒelandezi"
+  ],
+  "neozoico": [
+    "neodːzɔjko"
+  ],
+  "nepal": [
+    "nepal"
+  ],
+  "nepalese": [
+    "nepalɛze"
+  ],
+  "nepalesi": [
+    "nepalɛzi"
+  ],
+  "nepitella": [
+    "nepitɛlːa"
+  ],
+  "nepote": [
+    "nepote"
+  ],
+  "nepoti": [
+    "nepote"
+  ],
+  "nepotismi": [
+    "nepotizmi"
+  ],
+  "nepotismo": [
+    "nepotizmo"
+  ],
+  "nepotista": [
+    "nepotista"
+  ],
+  "nepotiste": [
+    "nepotiste"
+  ],
+  "nepotisti": [
+    "nepotisti"
+  ],
+  "neppure": [
+    "nepːure"
+  ],
+  "nequitanza": [
+    "nekwitantsa"
+  ],
+  "nequitoso": [
+    "nekwitozo"
+  ],
+  "nequizia": [
+    "nekwitsja",
+    "nekwitːsja"
+  ],
+  "nequizie": [
+    "nekwitsje"
+  ],
+  "nera": [
+    "nera"
+  ],
+  "nerastra": [
+    "nerastra"
+  ],
+  "nerastre": [
+    "nerastre"
+  ],
+  "nerastri": [
+    "nerastri"
+  ],
+  "nerastro": [
+    "nerastro"
+  ],
+  "nerazzurra": [
+    "neratːsurːa"
+  ],
+  "nerazzurre": [
+    "neratːsurːe"
+  ],
+  "nerazzurri": [
+    "neratːsurːi"
+  ],
+  "nerazzurro": [
+    "neradːzurːo"
+  ],
+  "nerbo": [
+    "nɛrbo"
+  ],
+  "nerbona": [
+    "nerbɔna"
+  ],
+  "nerboruto": [
+    "nerboruto"
+  ],
+  "nerd": [
+    "nɛrd"
+  ],
+  "nere": [
+    "nere"
+  ],
+  "nereggiante": [
+    "neredːʒante"
+  ],
+  "nereggiato": [
+    "neredːʒato"
+  ],
+  "nereide": [
+    "nerɛjde"
+  ],
+  "neri": [
+    "neri"
+  ],
+  "nerissima": [
+    "nerisːima"
+  ],
+  "nerissime": [
+    "nerisːime"
+  ],
+  "nerissimi": [
+    "nerisːimi"
+  ],
+  "nerissimo": [
+    "nerisːimo"
+  ],
+  "nero": [
+    "nero"
+  ],
+  "nerofumo": [
+    "nerofumo"
+  ],
+  "neroniano": [
+    "neronjano"
+  ],
+  "nervatura": [
+    "nervatura"
+  ],
+  "nervature": [
+    "nervature"
+  ],
+  "nervi": [
+    "nɛrvi"
+  ],
+  "nervino": [
+    "nervino"
+  ],
+  "nervo": [
+    "nɛrvo",
+    "nɛrvɔ"
+  ],
+  "nervosa": [
+    "nervoza"
+  ],
+  "nervosamente": [
+    "nervosamente",
+    "nervozamente"
+  ],
+  "nervose": [
+    "nervoze"
+  ],
+  "nervosi": [
+    "nervozi"
+  ],
+  "nervosismi": [
+    "nervozizmi"
+  ],
+  "nervosismo": [
+    "nervosizmo",
+    "nervozizmo"
+  ],
+  "nervosità": [
+    "nervozita"
+  ],
+  "nervoso": [
+    "nervoso",
+    "nervozo"
+  ],
+  "nescio": [
+    "nɛʃʃo"
+  ],
+  "nespola": [
+    "nɛspola"
+  ],
+  "nespolo": [
+    "nɛspolo"
+  ],
+  "nesso": [
+    "nɛsːo"
+  ],
+  "nessuno": [
+    "nesːuno"
+  ],
+  "nestore": [
+    "nɛstore"
+  ],
+  "nestoriana": [
+    "nestorjana"
+  ],
+  "nestoriane": [
+    "nestorjane"
+  ],
+  "nestorianesimi": [
+    "nestorjanesimi"
+  ],
+  "nestorianesimo": [
+    "nestorjanesimo"
+  ],
+  "nestoriani": [
+    "nestorjani"
+  ],
+  "nestorianismi": [
+    "nestorjanizmi"
+  ],
+  "nestorianismo": [
+    "nestorjanizmo"
+  ],
+  "nestoriano": [
+    "nestorjano"
+  ],
+  "netta": [
+    "netːa"
+  ],
+  "nettamente": [
+    "netːamente"
+  ],
+  "nettando": [
+    "netːando"
+  ],
+  "nettante": [
+    "netːante"
+  ],
+  "nettapiedi": [
+    "netːapjɛdi"
+  ],
+  "nettare": [
+    "netːare",
+    "nɛtːare"
+  ],
+  "nettareo": [
+    "netːareo"
+  ],
+  "nettari": [
+    "netːari",
+    "nɛtːari"
+  ],
+  "nettarina": [
+    "netːarina"
+  ],
+  "nettarino": [
+    "netːarino"
+  ],
+  "nettario": [
+    "netːarjo"
+  ],
+  "nettarivoro": [
+    "netːarivoro"
+  ],
+  "nettaroconca": [
+    "netːarokonka"
+  ],
+  "nettarofago": [
+    "netːarɔfaɡo"
+  ],
+  "nettaroteca": [
+    "netːarotɛka"
+  ],
+  "nettarovia": [
+    "netːarovia"
+  ],
+  "nettata": [
+    "netːata"
+  ],
+  "nettate": [
+    "netːate"
+  ],
+  "nettati": [
+    "netːati"
+  ],
+  "nettato": [
+    "netːato"
+  ],
+  "nette": [
+    "netːe"
+  ],
+  "netti": [
+    "netːi"
+  ],
+  "nettissima": [
+    "netːisːima"
+  ],
+  "nettissime": [
+    "netːisːime"
+  ],
+  "nettissimi": [
+    "netːisːimi"
+  ],
+  "nettissimo": [
+    "netːisːimo"
+  ],
+  "netto": [
+    "netːo"
+  ],
+  "nettozoide": [
+    "netːodːzɔjde"
+  ],
+  "nettunense": [
+    "netːunɛnse"
+  ],
+  "nettunensi": [
+    "netːunɛnsi"
+  ],
+  "nettunese": [
+    "netːunese"
+  ],
+  "nettunesi": [
+    "netːunesi"
+  ],
+  "nettuni": [
+    "netːuni"
+  ],
+  "nettunia": [
+    "netːunja"
+  ],
+  "nettuniana": [
+    "netːunjana"
+  ],
+  "nettuniane": [
+    "netːunjane"
+  ],
+  "nettuniani": [
+    "netːunjani"
+  ],
+  "nettuniano": [
+    "netːunjano"
+  ],
+  "nettunie": [
+    "netːunje"
+  ],
+  "nettunio": [
+    "netːunjo"
+  ],
+  "nettunismi": [
+    "netːunizmo"
+  ],
+  "nettunismo": [
+    "netːunizmo"
+  ],
+  "nettunista": [
+    "netːunista"
+  ],
+  "nettuniste": [
+    "netːuniste"
+  ],
+  "nettunisti": [
+    "netːunisti"
+  ],
+  "nettunno": [
+    "netːunːo"
+  ],
+  "nettuno": [
+    "netːuno",
+    "ɲetːuno"
+  ],
+  "netturbina": [
+    "netːurbina"
+  ],
+  "netturbine": [
+    "netːurbine"
+  ],
+  "netturbini": [
+    "netːurbini"
+  ],
+  "netturbino": [
+    "netːurbino"
+  ],
+  "neuma": [
+    "nɛuma"
+  ],
+  "neumatica": [
+    "neumatika"
+  ],
+  "neumatiche": [
+    "neumatike"
+  ],
+  "neumatici": [
+    "neumatitʃi"
+  ],
+  "neumatico": [
+    "neumatiko"
+  ],
+  "neumi": [
+    "nɛumi"
+  ],
+  "neuno": [
+    "neuno"
+  ],
+  "neurale": [
+    "newrale"
+  ],
+  "neurali": [
+    "neurali"
+  ],
+  "neurobiologia": [
+    "neurobiolodʒia",
+    "nɛwrobiolodʒia"
+  ],
+  "neurobiologica": [
+    "neurobiolɔdʒika"
+  ],
+  "neurobiologicamente": [
+    "neurobiolodʒikamente"
+  ],
+  "neurobiologiche": [
+    "neurobiolɔdʒike"
+  ],
+  "neurobiologici": [
+    "neurobiolɔdʒitʃi"
+  ],
+  "neurobiologico": [
+    "neurobiolɔdʒiko"
+  ],
+  "neurobiologie": [
+    "neurobiolodʒie"
+  ],
+  "neuroblasti": [
+    "neuroblasti"
+  ],
+  "neuroblasto": [
+    "neuroblasto",
+    "newroblasto"
+  ],
+  "neuroblastoma": [
+    "nɛuroblastɔma"
+  ],
+  "neuroblastomi": [
+    "nɛuroblastɔmi"
+  ],
+  "neurochimica": [
+    "neurokimika"
+  ],
+  "neurochimiche": [
+    "neurokimike"
+  ],
+  "neurochimici": [
+    "neurokimitʃi"
+  ],
+  "neurochimico": [
+    "neurokimiko"
+  ],
+  "neurochirurga": [
+    "nɛwrokirurɡa"
+  ],
+  "neurochirurghe": [
+    "nɛwrokirurɡke"
+  ],
+  "neurochirurghi": [
+    "nɛwrokirurɡi"
+  ],
+  "neurochirurgia": [
+    "nɛwrokirurdʒia"
+  ],
+  "neurochirurgo": [
+    "newrokirurɡo",
+    "nɛwrokirurɡo"
+  ],
+  "neurocranio": [
+    "nɛwrokranjo"
+  ],
+  "neurodegenerativo": [
+    "nɛwrodedʒenerativo"
+  ],
+  "neurodermatite": [
+    "neurodermatite"
+  ],
+  "neurodermatiti": [
+    "neurodermatiti"
+  ],
+  "neurodermite": [
+    "neurodermite"
+  ],
+  "neurodermiti": [
+    "neurodermiti"
+  ],
+  "neuroendocrino": [
+    "nɛwroendɔkrino"
+  ],
+  "neuroendocrinologia": [
+    "neuroendokrinoloɡia"
+  ],
+  "neurofarmacologia": [
+    "neurofarmakolodʒia"
+  ],
+  "neurofarmacologie": [
+    "neurofarmakolodʒie"
+  ],
+  "neurofibrillaro": [
+    "nɛwrofibrilːaro"
+  ],
+  "neurofilamenti": [
+    "nɛwrofilamenti"
+  ],
+  "neurofilamento": [
+    "nɛwrofilamento"
+  ],
+  "neurofisina": [
+    "newrofizina"
+  ],
+  "neurofisiopatologia": [
+    "nɛwrofizjopatolodʒia"
+  ],
+  "neurolettico": [
+    "nɛwrolɛtːiko"
+  ],
+  "neurolinguistica": [
+    "nɛwrolinɡwistika"
+  ],
+  "neurolitico": [
+    "newrolitiko"
+  ],
+  "neurologa": [
+    "neurɔloɡa"
+  ],
+  "neurologhe": [
+    "neurɔloɡe"
+  ],
+  "neurologi": [
+    "neurɔlodʒi"
+  ],
+  "neurologia": [
+    "neurolodʒia"
+  ],
+  "neurologica": [
+    "neurolɔdʒika"
+  ],
+  "neurologicamente": [
+    "neurolodʒikamente"
+  ],
+  "neurologiche": [
+    "neurolɔdʒike"
+  ],
+  "neurologici": [
+    "neurolɔdʒitʃi"
+  ],
+  "neurologico": [
+    "neurolɔdʒiko",
+    "newrolɔdʒiko"
+  ],
+  "neurologie": [
+    "neurolodʒie"
+  ],
+  "neurologo": [
+    "neurɔloɡo",
+    "newrɔloɡo"
+  ],
+  "neurolue": [
+    "nɛwrolue"
+  ],
+  "neuromodulatore": [
+    "neuromodulatore"
+  ],
+  "neuromodulatori": [
+    "neuromodulatori"
+  ],
+  "neuromodulazione": [
+    "neuromodulatsjone"
+  ],
+  "neuromodulazioni": [
+    "neuromodulatsjoni"
+  ],
+  "neuromuscolare": [
+    "neuromuskolare"
+  ],
+  "neuromuscolari": [
+    "neuromuskolari"
+  ],
+  "neuronale": [
+    "neuronale",
+    "newronale"
+  ],
+  "neuronali": [
+    "neuronali"
+  ],
+  "neurone": [
+    "newrone"
+  ],
+  "neuroni": [
+    "newroni"
+  ],
+  "neuronico": [
+    "newrɔniko"
+  ],
+  "neuronofago": [
+    "newronɔfaɡo"
+  ],
+  "neuropatia": [
+    "newropatia"
+  ],
+  "neuropatologia": [
+    "nɛwropatolodʒia"
+  ],
+  "neuroplasticità": [
+    "neuroplastitʃita"
+  ],
+  "neuroradiologia": [
+    "nɛwroradjolodʒia"
+  ],
+  "neuroscheletri": [
+    "neuroskɛletri"
+  ],
+  "neuroscheletro": [
+    "neuroskɛletro",
+    "nɛwroskɛletro"
+  ],
+  "neuroscienza": [
+    "neuroʃɛntsa",
+    "nɛwroʃʃɛntsa"
+  ],
+  "neuroscienze": [
+    "neuroʃɛntse"
+  ],
+  "neurostimolante": [
+    "nɛwrostimolante"
+  ],
+  "neurostimolanti": [
+    "nɛwrostimolanti"
+  ],
+  "neurotonica": [
+    "neurotɔnika"
+  ],
+  "neurotoniche": [
+    "neurotɔnike"
+  ],
+  "neurotonici": [
+    "neurotɔnitʃi"
+  ],
+  "neurotonico": [
+    "neurotɔniko",
+    "nɛwrotɔniko"
+  ],
+  "neurotossica": [
+    "neurotɔsːika"
+  ],
+  "neurotossiche": [
+    "neurotɔsːike"
+  ],
+  "neurotossici": [
+    "neurotɔsːitʃi"
+  ],
+  "neurotossicità": [
+    "neurotosːitʃita"
+  ]
 }

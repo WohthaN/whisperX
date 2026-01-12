@@ -1,502 +1,1545 @@
 {
-  "robiola": ["r o b j o l a"],
-  "roboante": ["r o b o a n t e"],
-  "roborante": ["r o b o r a n t e"],
-  "roborare": ["r o b o r a r e"],
-  "robot": ["r o b o t", "r o b ɔ t", "r ɔ b o", "r ɔ b o t"],
-  "robotica": ["r o b ɔ t i k a"],
-  "robotiche": ["r o b ɔ t i k e"],
-  "robotici": ["r o b ɔ t i t ʃ i"],
-  "robotico": ["r o b ɔ t i k o"],
-  "robotista": ["r o b o t i s t a"],
-  "robotiste": ["r o b o t i s t e"],
-  "robotisti": ["r o b o t i s t i"],
-  "robotizzante": ["r o b o t i dː z a t e"],
-  "robotizzare": ["r o b o t i dː z a r e"],
-  "robotizzata": ["r o b o t i dː z a t a", "r o b o t i dː z a t i"],
-  "robotizzate": ["r o b o t i dː z a t e"],
-  "robotizzati": ["r o b o t i dː z a t i"],
-  "robotizzato": ["r o b o t i dː z a t o"],
-  "robotizzazione": ["r o b o t i dː z a t s j o n e", "r o b o t i dː z a tː s j o n e"],
-  "robottino": ["r o b o tː i n o"],
-  "robusta": ["r o b u s t a"],
-  "robustamente": ["r o b u s t a m e n t e"],
-  "robuste": ["r o b u s t e"],
-  "robustezza": ["r o b u s t e tː s a"],
-  "robustezze": ["r o b u s t e tː s e"],
-  "robusti": ["r o b u s t i"],
-  "robusto": ["r o b u s t o"],
-  "robustoso": ["r o b u s t o z o"],
-  "rocambolesca": ["r o k a m b o l e s k a"],
-  "rocambolescamente": ["r o k a m b o l e s k a m e n t e"],
-  "rocambolesche": ["r o k a m b o l e s k e"],
-  "rocamboleschi": ["r o k a m b o l e s k i"],
-  "rocambolesco": ["r o k a m b o l e s k o"],
-  "rocca": ["r o kː a", "r ɔ kː a"],
-  "roccaforte": ["r o kː a f ɔ r t e"],
-  "rocce": ["r ɔ tː ʃ e"],
-  "rocchetta": ["r o kː e tː a"],
-  "rocchetto": ["r o kː e tː o"],
-  "rocchio": ["r ɔ kː j o"],
-  "roccia": ["r ɔ tː ʃ a"],
-  "rocciata": ["r o tː ʃ a t a"],
-  "rocciatore": ["r o tː ʃ a t o r e"],
-  "roccioso": ["r o tː ʃ o s o", "r o tː ʃ o z o"],
-  "rocco": ["r ɔ kː o"],
-  "roccocò": ["r o kː o k ɔ"],
-  "rock": ["r ɔ k"],
-  "roco": ["r ɔ k o"],
-  "rococò": ["r o k o k ɔ"],
-  "rodaggi": ["r o d a dː ʒ i"],
-  "rodaggio": ["r o d a dː ʒ o"],
-  "rodato": ["r o d a t o"],
-  "rodei": ["r o d ɛ i"],
-  "rodeo": ["r o d ɛ o"],
-  "rodere": ["r o d e r e"],
-  "rodesia": ["r o d ɛ z j a"],
-  "rodesiana": ["r o d e z j a n a"],
-  "rodesiane": ["r o d e z j a n e"],
-  "rodesiani": ["r o d e z j a n i"],
-  "rodesiano": ["r o d e z j a n o"],
-  "rodi": ["r ɔ d i"],
-  "rodiggio": ["r o d i dː ʒ o"],
-  "rodigine": ["r o d i d ʒ i n e"],
-  "rodigino": ["r o d i d ʒ i n o"],
-  "rodilegno": ["r o d i l e ɲ ɲ o"],
-  "rodimento": ["r o d i m e n t o"],
-  "rodio": ["r o d i o", "r ɔ d j o"],
-  "roditore": ["r o d i t o r e"],
-  "rododendri": ["r o d o d ɛ n d r i"],
-  "rododendro": ["r o d o d ɛ n d r o"],
-  "rodolfo": ["r o d ɔ l f o"],
-  "rodomonte": ["r o d o m o n t e"],
-  "rodrigo": ["r o d r i ɡ o"],
-  "roentgen": ["r e n t ɡ e n"],
-  "roentgenio": ["r e n t ɡ ɛ n j o", "r e ɲ ɡ ɛ n j o", "r ɛ n ɡ e n j o", "r ɛ n t ɡ e n j o", "r ɛ ɲ ɡ e n j o"],
-  "roero": ["r o ɛ r o"],
-  "roffia": ["r o fː j a"],
-  "rogare": ["r o ɡ a r e"],
-  "roggero": ["r o dː ʒ ɛ r o"],
-  "roggia": ["r o dː ʒ a"],
-  "rogito": ["r ɔ d ʒ i t o"],
-  "rogna": ["r o ɲ ɲ a"],
-  "rognone": ["r o ɲ ɲ o n e"],
-  "rognoni": ["r o ɲ ɲ o n i"],
-  "rogo": ["r ɔ ɡ o"],
-  "rollato": ["r o lː a t o"],
-  "rom": ["r ɔ m"],
-  "roma": ["r o m a"],
-  "romagna": ["r o m a ɲ ɲ a"],
-  "romagnolo": ["r o m a ɲ ɲ ɔ l o"],
-  "romana": ["r o m a n a"],
-  "romanamente": ["r o m a n a m e n t e"],
-  "romancio": ["r o m a n t ʃ o"],
-  "romane": ["r o m a n e"],
-  "romanesca": ["r o m a n e s k a"],
-  "romanescamente": ["r o m a n e s k a m e n t e"],
-  "romanesche": ["r o m a n e s k e"],
-  "romaneschi": ["r o m a n e s k i"],
-  "romanesco": ["r o m a n e s k o"],
-  "romani": ["r o m a n i"],
-  "romania": ["r o m a n i a"],
-  "romanica": ["r o m a n i k a"],
-  "romaniche": ["r o m a n i k e"],
-  "romanici": ["r o m a n i t ʃ i"],
-  "romanico": ["r o m a n i k o"],
-  "romanismo": ["r o m a n i z m o"],
-  "romanista": ["r o m a n i s t a"],
-  "romaniste": ["r o m a n i s t e"],
-  "romanisti": ["r o m a n i s t i"],
-  "romanità": ["r o m a n i t a"],
-  "romanizzare": ["r o m a n i dː z a r e"],
-  "romanizzazione": ["r o m a n i dː z a tː s j o n e"],
-  "romano": ["r o m a n o"],
-  "romanocentrismi": ["r o m a n o t ʃ e n t r i z m i"],
-  "romanocentrismo": ["r o m a n o t ʃ e n t r i z m o"],
-  "romantica": ["r o m a n t i k a"],
-  "romanticamente": ["r o m a n t i k a m e n t e"],
-  "romantiche": ["r o m a n t i k a", "r o m a n t i k e"],
-  "romanticheria": ["r o m a n t i k e r i a"],
-  "romanticherie": ["r o m a n t i k e r i e"],
-  "romantici": ["r o m a n t i t ʃ i"],
-  "romanticismi": ["r o m a n t i t ʃ i z m i"],
-  "romanticismo": ["r o m a n t i t ʃ i z m o"],
-  "romanticissima": ["r o m a n t i t ʃ i sː i m a"],
-  "romanticissime": ["r o m a n t i t ʃ i sː i m e"],
-  "romanticissimi": ["r o m a n t i t ʃ i sː i m i"],
-  "romanticissimo": ["r o m a n t i t ʃ i sː i m o"],
-  "romantico": ["r o m a n t i k o"],
-  "romanza": ["r o m a n d z a", "r ɔ m a n t s a"],
-  "romanzamento": ["r o m a n d z a m e n t o"],
-  "romanzare": ["r o m a n d z a r e"],
-  "romanze": ["r ɔ m a n t s e"],
-  "romanzesca": ["r o m a n d z e s k a"],
-  "romanzescamente": ["r o m a n d z e s k a m e n t e"],
-  "romanzesche": ["r o m a n d z e s k e"],
-  "romanzeschi": ["r o m a n d z e s k i"],
-  "romanzesco": ["r o m a n d z e s k o"],
-  "romanzi": ["r ɔ m a n t s i"],
-  "romanziera": ["r o m a n d z j ɛ r a"],
-  "romanziere": ["r o m a n d z j e r e", "r o m a n d z j ɛ r e"],
-  "romanzo": ["r o m a n d z o", "r ɔ m a n t s ɔ"],
-  "rombare": ["r o m b a r e"],
-  "rombazzo": ["r o m b a tː s o"],
-  "rombi": ["r o m b i"],
-  "rombico": ["r o m b i k o"],
-  "rombicosidodecaedri": ["r o m b i k o s i d o d e k a ɛ d r i"],
-  "rombicosidodecaedro": ["r o m b i k o s i d o d e k a ɛ d r o"],
-  "rombicubottaedri": ["r o m b i k u b o tː a ɛ d r i"],
-  "rombicubottaedro": ["r o m b i k u b o tː a ɛ d r o"],
-  "rombo": ["r o m b o"],
-  "rombododecaedri": ["r o m b o d o d e k a ɛ d r i"],
-  "romboedro": ["r o m b o ɛ d r o"],
-  "romboide": ["r o m b ɔ j d e"],
-  "romena": ["r o m ɛ n a"],
-  "romene": ["r o m ɛ n e"],
-  "romeni": ["r o m ɛ n i"],
-  "romeno": ["r o m ɛ n o"],
-  "romeo": ["r o m ɛ o"],
-  "romitaggio": ["r o m i t a dː ʒ o"],
-  "romito": ["r o m i t o"],
-  "romitorio": ["r o m i t ɔ r j o"],
-  "rompere": ["r o m p e r e"],
-  "rompersi": ["r o m p e r s i"],
-  "rompicapo": ["r o m p i k a p o"],
-  "rompicazzo": ["r o m p i k a tː s o"],
-  "rompicoglioni": ["r o m p i k o ʎ o n i"],
-  "rompighiaccio": ["r o m p i ɡ j a tː ʃ o"],
-  "rompipalle": ["r o m p i p a lː e"],
-  "rompiscatole": ["r o m p i s k a t o l e"],
-  "romuleo": ["r o m u l e o"],
-  "ronca": ["r o n k a", "r o ɲ k a"],
-  "roncare": ["r o n k a r e"],
-  "ronce": ["r o ɲ k e"],
-  "ronchi": ["r o n k i"],
-  "ronciglione": ["r o n t ʃ i ʎ o n e"],
-  "ronco": ["r o n k o"],
-  "roncola": ["r o n k o l a", "r o ɲ k o l a"],
-  "roncolare": ["r o n k o l a r e"],
-  "roncolata": ["r o n k o l a t a"],
-  "roncolatura": ["r o n k o l a t u r a"],
-  "roncole": ["r o ɲ k o l e"],
-  "roncolina": ["r o ɲ k o l i n a"],
-  "roncoline": ["r o ɲ k o l i n e"],
-  "roncolo": ["r o n k o l o"],
-  "roncone": ["r o ɲ k o n e"],
-  "ronconi": ["r o ɲ k o n i"],
-  "roncopatia": ["r o n k o p a t i a"],
-  "ronda": ["r o n d a"],
-  "rondella": ["r o n d ɛ lː a"],
-  "rondine": ["r o n d i n e"],
-  "rondinella": ["r o n d i n ɛ lː a"],
-  "rondini": ["r o n d i n i"],
-  "rondinino": ["r o n d i n i n o"],
-  "rondinotto": ["r o n d i n ɔ tː o"],
-  "rondone": ["r o n d o n e"],
-  "rondoni": ["r o n d o n i"],
-  "ronfare": ["r o n f a r e"],
-  "ronin": ["r ɔ n i n"],
-  "ronzare": ["r o n d z a r e"],
-  "ronzino": ["r o n d z i n o"],
-  "ronzio": ["r o n d z i o"],
-  "rorante": ["r o r a n t e"],
-  "rorare": ["r o r a r e"],
-  "rosa": ["r o z a", "r ɔ z a"],
-  "rosacea": ["r o z a t ʃ e a"],
-  "rosacee": ["r o z a t ʃ e e"],
-  "rosario": ["r o z a r j o"],
-  "rosata": ["r o z a t a"],
-  "rosate": ["r o z a t e"],
-  "rosati": ["r o z a t i"],
-  "rosato": ["r o z a t o"],
-  "rosbif": ["r ɔ s b i f", "r ɔ z b i f"],
-  "roscido": ["r ɔ ʃ ʃ i d o"],
-  "roseo": ["r ɔ z e o"],
-  "roseto": ["r o z e t o"],
-  "rosetta": ["r o z e tː a"],
-  "rosi": ["r o z i"],
-  "rosicare": ["r o z i k a r e"],
-  "rosicchiare": ["r o s i kː j a r e"],
-  "rosicchiato": ["r o s i kː j a t o"],
-  "rosicoltore": ["r o z i k o l t o r e"],
-  "rosicoltori": ["r o z i k o l t o r i"],
-  "rosicoltrice": ["r o z i k o l t r i t ʃ e"],
-  "rosicoltrici": ["r o z i k o l t r i t ʃ i"],
-  "rosignolo": ["r o z i ɲ ɲ ɔ l o"],
-  "rosignuolo": ["r o z i ɲ ɲ w ɔ l o"],
-  "rosmarini": ["r o z m a r i n i"],
-  "rosmarino": ["r o z m a r i n o"],
-  "rosminiano": ["r o z m i n j a n o"],
-  "roso": ["r o z o"],
-  "rosolare": ["r o z o l a r e"],
-  "rosolia": ["r o z o l i a"],
-  "rosone": ["r o z o n e"],
-  "rospi": ["r ɔ s p i"],
-  "rospo": ["r ɔ s p o", "r ɔ s p ɔ"],
-  "rospodotti": ["r o s p o d o tː i"],
-  "rospodotto": ["r o s p o d o tː o"],
-  "rossa": ["r o sː a"],
-  "rossastro": ["r o sː a s t r o"],
-  "rosse": ["r o sː e"],
-  "rosseggiante": ["r o sː e dː ʒ a n t e"],
-  "rosseggianti": ["r o sː e dː ʒ a n t i"],
-  "rossetti": ["r o sː e tː i"],
-  "rossetto": ["r o sː e tː o"],
-  "rossi": ["r o sː i", "r o sː o"],
-  "rossiccio": ["r o sː i tː ʃ o"],
-  "rossiniano": ["r o sː i n j a n o"],
-  "rossissima": ["r o sː i sː i m a"],
-  "rossissime": ["r o sː i sː i m e"],
-  "rossissimi": ["r o sː i sː i m i"],
-  "rossissimo": ["r o sː i sː i m o"],
-  "rosso": ["r o sː o"],
-  "rossore": ["r o sː o r e"],
-  "rosticceria": ["r o s t i tː ʃ e r i a"],
-  "rostro": ["r ɔ s t r o"],
-  "rota": ["r ɔ t a"],
-  "rotacismo": ["r o t a t ʃ i s m o", "r o t a t ʃ i z m o", "r ɔ t a t ʃ i z m o"],
-  "rotaia": ["r o t a j a"],
-  "rotante": ["r o t a n t e"],
-  "rotariano": ["r o t a r j a n o"],
-  "rotativo": ["r o t a t i v o"],
-  "rotatori": ["r o t a t o r i"],
-  "rotatoria": ["r o t a t o r j a"],
-  "rotatorie": ["r o t a t o r j e"],
-  "rotatorio": ["r o t a t o r j o"],
-  "rotavirus": ["r o t a v i r u s", "r ɔ t a v i r u s"],
-  "rotazione": ["r o t a tː s j o n e"],
-  "rotazioni": ["r o t a tː s j o n i"],
-  "roteggiare": ["r o t e dː ʒ a r e"],
-  "roteggio": ["r o t e dː ʒ o"],
-  "rotella": ["r o t ɛ lː a"],
-  "rotelle": ["r o t ɛ lː e"],
-  "rotellista": ["r o t e lː i s t a"],
-  "rotelliste": ["r o t e lː i s t e"],
-  "rotellisti": ["r o t e lː i s t i"],
-  "rotiferi": ["r o t i f e r i"],
-  "rotifero": ["r o t i f e r o"],
-  "rotocalco": ["r o t o k a l k o"],
-  "rotolamenti": ["r o t o l a m e n t i"],
-  "rotolamento": ["r o t o l a m e n t o"],
-  "rotolare": ["r o t o l a r e"],
-  "rotolo": ["r ɔ t o l o"],
-  "rotonda": ["r o t o n d a", "r ɔ t ɔ n d a"],
-  "rotonde": ["r ɔ t ɔ n d e"],
-  "rotondeggiante": ["r o t o n d e dː ʒ a n t e"],
-  "rotondi": ["r ɔ t ɔ n d i"],
-  "rotondissima": ["r ɔ t ɔ n d i sː i m a"],
-  "rotondissime": ["r ɔ t ɔ n d i sː i m e"],
-  "rotondissimi": ["r ɔ t ɔ n d i sː i m i"],
-  "rotondissimo": ["r ɔ t ɔ n d i sː i m o"],
-  "rotondità": ["r o t o n d i t a"],
-  "rotondo": ["r o t o n d o", "r ɔ t ɔ n d ɔ"],
-  "rotore": ["r o t o r e"],
-  "rotori": ["r o t o r i"],
-  "rotostampaggi": ["r o t o s t a m p a dː ʒ i"],
-  "rotostampaggio": ["r o t o s t a m p a dː ʒ o"],
-  "rotta": ["r o tː a"],
-  "rottamare": ["r o tː a m a r e"],
-  "rottame": ["r o tː a m e"],
-  "rottami": ["r o tː a m i"],
-  "rotte": ["r o tː e"],
-  "rotti": ["r o tː i"],
-  "rotto": ["r o tː o"],
-  "rottura": ["r o tː u r a"],
-  "rotture": ["r o tː u r e"],
-  "rotula": ["r ɔ t u l a"],
-  "roulette": ["r u l ɛ t"],
-  "roulotte": ["r u l ɔ t"],
-  "round": ["r a w n d"],
-  "rousseauiano": ["r u sː o j a n o"],
-  "router": ["r u t e r"],
-  "routinario": ["r u t i n a r j o"],
-  "routine": ["r u t i n"],
-  "roventare": ["r o v e n t a r e"],
-  "rovente": ["r o v ɛ n t e"],
-  "roventino": ["r o v e n t i n o", "r o v ɛ n t i n o"],
-  "rovere": ["r o v e r e"],
-  "rovescia": ["r o v ɛ ʃ ʃ a"],
-  "rovesciabile": ["r o v e ʃ ʃ a b i l e"],
-  "rovesciabili": ["r o v e ʃ ʃ a b i l i"],
-  "rovesciamenti": ["r o v e ʃ ʃ a m e n t i"],
-  "rovesciamento": ["r o v e ʃ ʃ a m e n t o"],
-  "rovesciante": ["r o v ɛ ʃ ʃ a n t e"],
-  "rovesciare": ["r o v e ʃ ʃ a r e", "r o v ɛ ʃ ʃ a r e", "r ɔ v ɛ s t ʃ a r e"],
-  "rovesciato": ["r o v e ʃ ʃ a t o", "r o v ɛ ʃ ʃ a t o"],
-  "rovescino": ["r o v ɛ ʃ ʃ i n o"],
-  "rovescio": ["r o v ɛ ʃ ʃ o"],
-  "roveto": ["r o v e t o"],
-  "rovi": ["r o v i"],
-  "rovigo": ["r o v i ɡ o"],
-  "rovigotto": ["r o v i ɡ ɔ tː o"],
-  "rovina": ["r o v i n a"],
-  "rovinare": ["r o v i n a r e", "r ɔ v i n a r e"],
-  "rovinata": ["r o v i n a t a"],
-  "rovinato": ["r o v i n a t o"],
-  "rovinosamente": ["r o v i n o s a m e n t e"],
-  "rovinoso": ["r o v i n o s o"],
-  "rovistare": ["r o v i s t a r e"],
-  "rovo": ["r o v o"],
-  "royalty": ["r ɔ j a l t i"],
-  "rozzamente": ["r o dː z a m e n t e"],
-  "rozzezza": ["r o dː z e tː s a"],
-  "rozzezze": ["r o dː z e tː s e"],
-  "rozzo": ["r o dː z o", "r ɔ tː s o"],
-  "rozzone": ["r o dː z o n e"],
-  "rozzore": ["r o dː z o r e"],
-  "rozzume": ["r o dː z u m e"],
-  "rua": ["r u a"],
-  "ruandese": ["r u a n d e s e"],
-  "ruandesi": ["r u a n d e s i"],
-  "rubacchiare": ["r u b a kː j a r e"],
-  "rubamazzo": ["r u b a m a tː s o"],
-  "rubare": ["r u b a r e"],
-  "rubata": ["r u b a t a"],
-  "rubate": ["r u b a t e"],
-  "rubati": ["r u b a t i"],
-  "rubato": ["r u b a t o"],
-  "rubbio": ["r u bː j o"],
-  "rubbiolo": ["r u bː j ɔ l o"],
-  "rubecchio": ["r u b e kː j o"],
-  "rubente": ["r u b ɛ n t e"],
-  "rubescente": ["r u b e ʃ ʃ ɛ n t e"],
-  "rubiconda": ["r u b i k o n d a"],
-  "rubiconde": ["r u b i k o n d e"],
-  "rubicondi": ["r u b i k o n d i"],
-  "rubicondo": ["r u b i k o n d o"],
-  "rubidio": ["r u b i d j o"],
-  "rubiglio": ["r u b i ʎ o"],
-  "rubinetti": ["r u b i n e tː i"],
-  "rubinetto": ["r u b i n e tː o"],
-  "rubini": ["r u b i n i"],
-  "rubino": ["r u b i n o"],
-  "rublo": ["r u b l o"],
-  "rubrica": ["r u b r i k a"],
-  "rubricare": ["r u b r i k a r e"],
-  "rubriche": ["r u b r i k e"],
-  "rubro": ["r u b r o"],
-  "ruca": ["r u k a"],
-  "ruchetta": ["r u k e tː a"],
-  "rucola": ["r u k o l a"],
-  "rude": ["r u d e"],
-  "rudere": ["r u d e r e"],
-  "ruderi": ["r u d e r i"],
-  "rudimentale": ["r u d i m e n t a l e"],
-  "rudimentalmente": ["r u d i m e n t a l m e n t e"],
-  "rudimento": ["r u d i m e n t o"],
-  "rudolfino": ["r u d o l f i n o"],
-  "rufa": ["r u f a"],
-  "rufe": ["r u f e"],
-  "ruffiano": ["r u fː i a n o", "r u fː j a n o"],
-  "rufi": ["r u f i"],
-  "rufo": ["r u f o"],
-  "rufola": ["r u f o l a"],
-  "ruga": ["r u ɡ a"],
-  "ruggente": ["r u dː ʒ ɛ n t e"],
-  "ruggenti": ["r u dː ʒ ɛ n t i"],
-  "ruggeri": ["r u dː ʒ ɛ r i"],
-  "ruggero": ["r u dː ʒ ɛ r o"],
-  "ruggiero": ["r u dː ʒ ɛ r o"],
-  "ruggine": ["r u dː ʒ i n e"],
-  "rugginoso": ["r u dː ʒ i n o s o", "r u dː ʒ i n o z o"],
-  "ruggire": ["r u dː ʒ i r e"],
-  "ruggito": ["r u dː ʒ i t o"],
-  "rughe": ["r u ɡ e"],
-  "rughetta": ["r u ɡ e tː a"],
-  "rugiada": ["r u d ʒ a d a"],
-  "rugiade": ["r u d ʒ a d e"],
-  "ruglio": ["r u ʎ o"],
-  "rugnare": ["r u ɲ ɲ a r e"],
-  "rugosamente": ["r u ɡ o s a m e n t e"],
-  "rugoso": ["r u ɡ o s o", "r u ɡ o z o"],
-  "rugumare": ["r u ɡ u m a r e"],
-  "ruina": ["r u i n a"],
-  "rullante": ["r u lː a n t e"],
-  "rullanti": ["r u lː a n t i"],
-  "rullare": ["r u lː a r e"],
-  "rullato": ["r u lː a t o"],
-  "rulli": ["r u lː i"],
-  "rullo": ["r u lː o"],
-  "rumba": ["r u m b a"],
-  "rumena": ["r u m ɛ n a"],
-  "rumene": ["r u m ɛ n e"],
-  "rumeni": ["r u m ɛ n i"],
-  "rumeno": ["r u m ɛ n o"],
-  "ruminando": ["r u m i n a n d o"],
-  "ruminante": ["r u m i n a n t e"],
-  "ruminanti": ["r u m i n a n t i"],
-  "ruminare": ["r u m i n a r e"],
-  "ruminata": ["r u m i n a t a"],
-  "ruminate": ["r u m i n a t e"],
-  "ruminati": ["r u m i n a t i"],
-  "ruminato": ["r u m i n a t o"],
-  "ruminazione": ["r u m i n a t s j o n e"],
-  "rumore": ["r u m o r e"],
-  "rumoreggiare": ["r u m o r e dː ʒ a r e"],
-  "rumori": ["r u m o r i"],
-  "rumorio": ["r u m o r i o"],
-  "rumorista": ["r u m o r i s t a"],
-  "rumoriste": ["i s t e"],
-  "rumoristi": ["i s t i"],
-  "rumorosamente": ["r u m o r o s a m e n t e", "r u m o r o z a m e n t e"],
-  "rumoroso": ["r u m o r o z o"],
-  "runa": ["r u n a"],
-  "runico": ["r u n i k o"],
-  "runologia": ["r u n a l o d ʒ i a", "r u n o l o d ʒ i a"],
-  "runologica": ["r u n o l ɔ d ʒ i k a"],
-  "runologiche": ["r u n o l ɔ d ʒ i k e"],
-  "runologici": ["r u n o l ɔ d ʒ i t ʃ i"],
-  "runologico": ["r u n o l ɔ d ʒ i k o"],
-  "runologie": ["r u n a l o d ʒ i e"],
-  "ruoli": ["r w ɔ l i"],
-  "ruolo": ["r w ɔ l o"],
-  "ruota": ["r w ɔ t a"],
-  "ruotare": ["r w o t a r e"],
-  "ruote": ["r w ɔ t e"],
-  "ruotino": ["r w o t i n o"],
-  "rupe": ["r u p e"],
-  "rupestre": ["r u p ɛ s t r e"],
-  "rupia": ["r u p i a", "r u p j a"],
-  "rurale": ["r u r a l e"],
-  "rurali": ["r u r a l i"],
-  "ruralità": ["r u r a l i t a"],
-  "ruscellamenti": ["r u ʃ ʃ e lː a m e n t i"],
-  "ruscellamento": ["r u ʃ ʃ e lː a m e n t o"],
-  "ruscelletto": ["r u ʃ ʃ e lː e tː o"],
-  "ruscelli": ["r u ʃ ʃ ɛ lː i"],
-  "ruscellino": ["r u ʃ ʃ e lː i n o", "r u ʃ ʃ ɛ lː i n o"],
-  "ruscello": ["r u ʃ ʃ ɛ lː o"],
-  "rush": ["r a ʃ"],
-  "rusignolo": ["r u z i ɲ ɲ ɔ l o"],
-  "rusignuolo": ["r u z i ɲ ɲ w ɔ l o"],
-  "ruspante": ["r u s p a n t e"],
-  "ruspare": ["r u s p a r e"],
-  "ruspato": ["r u s p a t o"],
-  "russa": ["r u sː a"],
-  "russamenti": ["r u sː a m e n t i"],
-  "russamento": ["r u sː a m e n t o"],
-  "russante": ["r u sː a n t e"],
-  "russare": ["r u sː a r e"],
-  "russato": ["r u sː a t o"],
-  "russe": ["r u sː e"],
-  "russi": ["r u sː i"],
-  "russia": ["r u sː j a"],
-  "russie": ["r u sː j e"],
-  "russificazione": ["r u sː i f i k a tː s j o n e"],
-  "russo": ["r u sː o"],
-  "rusticano": ["r u s t i k a n o"],
-  "rustico": ["r u s t i k o"],
-  "rutacea": ["r u t a t ʃ e a"],
-  "rutacee": ["r u t a t ʃ e e"],
-  "rutacei": ["r u t a t ʃ e i"],
-  "rutaceo": ["r u t a t ʃ e o"],
-  "rutenio": ["r u t ɛ n i o", "r u t ɛ n j o"],
-  "rutherfordio": ["r a d e r f ɔ r d j o", "r a t e r f ɔ r d j o", "r u t e r f ɔ r d j o"],
-  "rutilo": ["r u t i l o"],
-  "ruttante": ["r u tː a n t e"],
-  "ruttare": ["r u tː a r e"],
-  "ruttato": ["r u tː a t o"],
-  "ruttino": ["r u tː i n o"],
-  "rutto": ["r u tː o"],
-  "ruvidamente": ["r u v i d a m e n t e"]
+  "robiola": [
+    "robjola"
+  ],
+  "roboante": [
+    "roboante"
+  ],
+  "roborante": [
+    "roborante"
+  ],
+  "roborare": [
+    "roborare"
+  ],
+  "robot": [
+    "robot",
+    "robɔt",
+    "rɔbo",
+    "rɔbot"
+  ],
+  "robotica": [
+    "robɔtika"
+  ],
+  "robotiche": [
+    "robɔtike"
+  ],
+  "robotici": [
+    "robɔtitʃi"
+  ],
+  "robotico": [
+    "robɔtiko"
+  ],
+  "robotista": [
+    "robotista"
+  ],
+  "robotiste": [
+    "robotiste"
+  ],
+  "robotisti": [
+    "robotisti"
+  ],
+  "robotizzante": [
+    "robotidːzate"
+  ],
+  "robotizzare": [
+    "robotidːzare"
+  ],
+  "robotizzata": [
+    "robotidːzata",
+    "robotidːzati"
+  ],
+  "robotizzate": [
+    "robotidːzate"
+  ],
+  "robotizzati": [
+    "robotidːzati"
+  ],
+  "robotizzato": [
+    "robotidːzato"
+  ],
+  "robotizzazione": [
+    "robotidːzatsjone",
+    "robotidːzatːsjone"
+  ],
+  "robottino": [
+    "robotːino"
+  ],
+  "robusta": [
+    "robusta"
+  ],
+  "robustamente": [
+    "robustamente"
+  ],
+  "robuste": [
+    "robuste"
+  ],
+  "robustezza": [
+    "robustetːsa"
+  ],
+  "robustezze": [
+    "robustetːse"
+  ],
+  "robusti": [
+    "robusti"
+  ],
+  "robusto": [
+    "robusto"
+  ],
+  "robustoso": [
+    "robustozo"
+  ],
+  "rocambolesca": [
+    "rokamboleska"
+  ],
+  "rocambolescamente": [
+    "rokamboleskamente"
+  ],
+  "rocambolesche": [
+    "rokamboleske"
+  ],
+  "rocamboleschi": [
+    "rokamboleski"
+  ],
+  "rocambolesco": [
+    "rokambolesko"
+  ],
+  "rocca": [
+    "rokːa",
+    "rɔkːa"
+  ],
+  "roccaforte": [
+    "rokːafɔrte"
+  ],
+  "rocce": [
+    "rɔtːʃe"
+  ],
+  "rocchetta": [
+    "rokːetːa"
+  ],
+  "rocchetto": [
+    "rokːetːo"
+  ],
+  "rocchio": [
+    "rɔkːjo"
+  ],
+  "roccia": [
+    "rɔtːʃa"
+  ],
+  "rocciata": [
+    "rotːʃata"
+  ],
+  "rocciatore": [
+    "rotːʃatore"
+  ],
+  "roccioso": [
+    "rotːʃoso",
+    "rotːʃozo"
+  ],
+  "rocco": [
+    "rɔkːo"
+  ],
+  "roccocò": [
+    "rokːokɔ"
+  ],
+  "rock": [
+    "rɔk"
+  ],
+  "roco": [
+    "rɔko"
+  ],
+  "rococò": [
+    "rokokɔ"
+  ],
+  "rodaggi": [
+    "rodadːʒi"
+  ],
+  "rodaggio": [
+    "rodadːʒo"
+  ],
+  "rodato": [
+    "rodato"
+  ],
+  "rodei": [
+    "rodɛi"
+  ],
+  "rodeo": [
+    "rodɛo"
+  ],
+  "rodere": [
+    "rodere"
+  ],
+  "rodesia": [
+    "rodɛzja"
+  ],
+  "rodesiana": [
+    "rodezjana"
+  ],
+  "rodesiane": [
+    "rodezjane"
+  ],
+  "rodesiani": [
+    "rodezjani"
+  ],
+  "rodesiano": [
+    "rodezjano"
+  ],
+  "rodi": [
+    "rɔdi"
+  ],
+  "rodiggio": [
+    "rodidːʒo"
+  ],
+  "rodigine": [
+    "rodidʒine"
+  ],
+  "rodigino": [
+    "rodidʒino"
+  ],
+  "rodilegno": [
+    "rodileɲɲo"
+  ],
+  "rodimento": [
+    "rodimento"
+  ],
+  "rodio": [
+    "rodio",
+    "rɔdjo"
+  ],
+  "roditore": [
+    "roditore"
+  ],
+  "rododendri": [
+    "rododɛndri"
+  ],
+  "rododendro": [
+    "rododɛndro"
+  ],
+  "rodolfo": [
+    "rodɔlfo"
+  ],
+  "rodomonte": [
+    "rodomonte"
+  ],
+  "rodrigo": [
+    "rodriɡo"
+  ],
+  "roentgen": [
+    "rentɡen"
+  ],
+  "roentgenio": [
+    "rentɡɛnjo",
+    "reɲɡɛnjo",
+    "rɛnɡenjo",
+    "rɛntɡenjo",
+    "rɛɲɡenjo"
+  ],
+  "roero": [
+    "roɛro"
+  ],
+  "roffia": [
+    "rofːja"
+  ],
+  "rogare": [
+    "roɡare"
+  ],
+  "roggero": [
+    "rodːʒɛro"
+  ],
+  "roggia": [
+    "rodːʒa"
+  ],
+  "rogito": [
+    "rɔdʒito"
+  ],
+  "rogna": [
+    "roɲɲa"
+  ],
+  "rognone": [
+    "roɲɲone"
+  ],
+  "rognoni": [
+    "roɲɲoni"
+  ],
+  "rogo": [
+    "rɔɡo"
+  ],
+  "rollato": [
+    "rolːato"
+  ],
+  "rom": [
+    "rɔm"
+  ],
+  "roma": [
+    "roma"
+  ],
+  "romagna": [
+    "romaɲɲa"
+  ],
+  "romagnolo": [
+    "romaɲɲɔlo"
+  ],
+  "romana": [
+    "romana"
+  ],
+  "romanamente": [
+    "romanamente"
+  ],
+  "romancio": [
+    "romantʃo"
+  ],
+  "romane": [
+    "romane"
+  ],
+  "romanesca": [
+    "romaneska"
+  ],
+  "romanescamente": [
+    "romaneskamente"
+  ],
+  "romanesche": [
+    "romaneske"
+  ],
+  "romaneschi": [
+    "romaneski"
+  ],
+  "romanesco": [
+    "romanesko"
+  ],
+  "romani": [
+    "romani"
+  ],
+  "romania": [
+    "romania"
+  ],
+  "romanica": [
+    "romanika"
+  ],
+  "romaniche": [
+    "romanike"
+  ],
+  "romanici": [
+    "romanitʃi"
+  ],
+  "romanico": [
+    "romaniko"
+  ],
+  "romanismo": [
+    "romanizmo"
+  ],
+  "romanista": [
+    "romanista"
+  ],
+  "romaniste": [
+    "romaniste"
+  ],
+  "romanisti": [
+    "romanisti"
+  ],
+  "romanità": [
+    "romanita"
+  ],
+  "romanizzare": [
+    "romanidːzare"
+  ],
+  "romanizzazione": [
+    "romanidːzatːsjone"
+  ],
+  "romano": [
+    "romano"
+  ],
+  "romanocentrismi": [
+    "romanotʃentrizmi"
+  ],
+  "romanocentrismo": [
+    "romanotʃentrizmo"
+  ],
+  "romantica": [
+    "romantika"
+  ],
+  "romanticamente": [
+    "romantikamente"
+  ],
+  "romantiche": [
+    "romantika",
+    "romantike"
+  ],
+  "romanticheria": [
+    "romantikeria"
+  ],
+  "romanticherie": [
+    "romantikerie"
+  ],
+  "romantici": [
+    "romantitʃi"
+  ],
+  "romanticismi": [
+    "romantitʃizmi"
+  ],
+  "romanticismo": [
+    "romantitʃizmo"
+  ],
+  "romanticissima": [
+    "romantitʃisːima"
+  ],
+  "romanticissime": [
+    "romantitʃisːime"
+  ],
+  "romanticissimi": [
+    "romantitʃisːimi"
+  ],
+  "romanticissimo": [
+    "romantitʃisːimo"
+  ],
+  "romantico": [
+    "romantiko"
+  ],
+  "romanza": [
+    "romandza",
+    "rɔmantsa"
+  ],
+  "romanzamento": [
+    "romandzamento"
+  ],
+  "romanzare": [
+    "romandzare"
+  ],
+  "romanze": [
+    "rɔmantse"
+  ],
+  "romanzesca": [
+    "romandzeska"
+  ],
+  "romanzescamente": [
+    "romandzeskamente"
+  ],
+  "romanzesche": [
+    "romandzeske"
+  ],
+  "romanzeschi": [
+    "romandzeski"
+  ],
+  "romanzesco": [
+    "romandzesko"
+  ],
+  "romanzi": [
+    "rɔmantsi"
+  ],
+  "romanziera": [
+    "romandzjɛra"
+  ],
+  "romanziere": [
+    "romandzjere",
+    "romandzjɛre"
+  ],
+  "romanzo": [
+    "romandzo",
+    "rɔmantsɔ"
+  ],
+  "rombare": [
+    "rombare"
+  ],
+  "rombazzo": [
+    "rombatːso"
+  ],
+  "rombi": [
+    "rombi"
+  ],
+  "rombico": [
+    "rombiko"
+  ],
+  "rombicosidodecaedri": [
+    "rombikosidodekaɛdri"
+  ],
+  "rombicosidodecaedro": [
+    "rombikosidodekaɛdro"
+  ],
+  "rombicubottaedri": [
+    "rombikubotːaɛdri"
+  ],
+  "rombicubottaedro": [
+    "rombikubotːaɛdro"
+  ],
+  "rombo": [
+    "rombo"
+  ],
+  "rombododecaedri": [
+    "rombododekaɛdri"
+  ],
+  "romboedro": [
+    "romboɛdro"
+  ],
+  "romboide": [
+    "rombɔjde"
+  ],
+  "romena": [
+    "romɛna"
+  ],
+  "romene": [
+    "romɛne"
+  ],
+  "romeni": [
+    "romɛni"
+  ],
+  "romeno": [
+    "romɛno"
+  ],
+  "romeo": [
+    "romɛo"
+  ],
+  "romitaggio": [
+    "romitadːʒo"
+  ],
+  "romito": [
+    "romito"
+  ],
+  "romitorio": [
+    "romitɔrjo"
+  ],
+  "rompere": [
+    "rompere"
+  ],
+  "rompersi": [
+    "rompersi"
+  ],
+  "rompicapo": [
+    "rompikapo"
+  ],
+  "rompicazzo": [
+    "rompikatːso"
+  ],
+  "rompicoglioni": [
+    "rompikoʎoni"
+  ],
+  "rompighiaccio": [
+    "rompiɡjatːʃo"
+  ],
+  "rompipalle": [
+    "rompipalːe"
+  ],
+  "rompiscatole": [
+    "rompiskatole"
+  ],
+  "romuleo": [
+    "romuleo"
+  ],
+  "ronca": [
+    "ronka",
+    "roɲka"
+  ],
+  "roncare": [
+    "ronkare"
+  ],
+  "ronce": [
+    "roɲke"
+  ],
+  "ronchi": [
+    "ronki"
+  ],
+  "ronciglione": [
+    "rontʃiʎone"
+  ],
+  "ronco": [
+    "ronko"
+  ],
+  "roncola": [
+    "ronkola",
+    "roɲkola"
+  ],
+  "roncolare": [
+    "ronkolare"
+  ],
+  "roncolata": [
+    "ronkolata"
+  ],
+  "roncolatura": [
+    "ronkolatura"
+  ],
+  "roncole": [
+    "roɲkole"
+  ],
+  "roncolina": [
+    "roɲkolina"
+  ],
+  "roncoline": [
+    "roɲkoline"
+  ],
+  "roncolo": [
+    "ronkolo"
+  ],
+  "roncone": [
+    "roɲkone"
+  ],
+  "ronconi": [
+    "roɲkoni"
+  ],
+  "roncopatia": [
+    "ronkopatia"
+  ],
+  "ronda": [
+    "ronda"
+  ],
+  "rondella": [
+    "rondɛlːa"
+  ],
+  "rondine": [
+    "rondine"
+  ],
+  "rondinella": [
+    "rondinɛlːa"
+  ],
+  "rondini": [
+    "rondini"
+  ],
+  "rondinino": [
+    "rondinino"
+  ],
+  "rondinotto": [
+    "rondinɔtːo"
+  ],
+  "rondone": [
+    "rondone"
+  ],
+  "rondoni": [
+    "rondoni"
+  ],
+  "ronfare": [
+    "ronfare"
+  ],
+  "ronin": [
+    "rɔnin"
+  ],
+  "ronzare": [
+    "rondzare"
+  ],
+  "ronzino": [
+    "rondzino"
+  ],
+  "ronzio": [
+    "rondzio"
+  ],
+  "rorante": [
+    "rorante"
+  ],
+  "rorare": [
+    "rorare"
+  ],
+  "rosa": [
+    "roza",
+    "rɔza"
+  ],
+  "rosacea": [
+    "rozatʃea"
+  ],
+  "rosacee": [
+    "rozatʃee"
+  ],
+  "rosario": [
+    "rozarjo"
+  ],
+  "rosata": [
+    "rozata"
+  ],
+  "rosate": [
+    "rozate"
+  ],
+  "rosati": [
+    "rozati"
+  ],
+  "rosato": [
+    "rozato"
+  ],
+  "rosbif": [
+    "rɔsbif",
+    "rɔzbif"
+  ],
+  "roscido": [
+    "rɔʃʃido"
+  ],
+  "roseo": [
+    "rɔzeo"
+  ],
+  "roseto": [
+    "rozeto"
+  ],
+  "rosetta": [
+    "rozetːa"
+  ],
+  "rosi": [
+    "rozi"
+  ],
+  "rosicare": [
+    "rozikare"
+  ],
+  "rosicchiare": [
+    "rosikːjare"
+  ],
+  "rosicchiato": [
+    "rosikːjato"
+  ],
+  "rosicoltore": [
+    "rozikoltore"
+  ],
+  "rosicoltori": [
+    "rozikoltori"
+  ],
+  "rosicoltrice": [
+    "rozikoltritʃe"
+  ],
+  "rosicoltrici": [
+    "rozikoltritʃi"
+  ],
+  "rosignolo": [
+    "roziɲɲɔlo"
+  ],
+  "rosignuolo": [
+    "roziɲɲwɔlo"
+  ],
+  "rosmarini": [
+    "rozmarini"
+  ],
+  "rosmarino": [
+    "rozmarino"
+  ],
+  "rosminiano": [
+    "rozminjano"
+  ],
+  "roso": [
+    "rozo"
+  ],
+  "rosolare": [
+    "rozolare"
+  ],
+  "rosolia": [
+    "rozolia"
+  ],
+  "rosone": [
+    "rozone"
+  ],
+  "rospi": [
+    "rɔspi"
+  ],
+  "rospo": [
+    "rɔspo",
+    "rɔspɔ"
+  ],
+  "rospodotti": [
+    "rospodotːi"
+  ],
+  "rospodotto": [
+    "rospodotːo"
+  ],
+  "rossa": [
+    "rosːa"
+  ],
+  "rossastro": [
+    "rosːastro"
+  ],
+  "rosse": [
+    "rosːe"
+  ],
+  "rosseggiante": [
+    "rosːedːʒante"
+  ],
+  "rosseggianti": [
+    "rosːedːʒanti"
+  ],
+  "rossetti": [
+    "rosːetːi"
+  ],
+  "rossetto": [
+    "rosːetːo"
+  ],
+  "rossi": [
+    "rosːi",
+    "rosːo"
+  ],
+  "rossiccio": [
+    "rosːitːʃo"
+  ],
+  "rossiniano": [
+    "rosːinjano"
+  ],
+  "rossissima": [
+    "rosːisːima"
+  ],
+  "rossissime": [
+    "rosːisːime"
+  ],
+  "rossissimi": [
+    "rosːisːimi"
+  ],
+  "rossissimo": [
+    "rosːisːimo"
+  ],
+  "rosso": [
+    "rosːo"
+  ],
+  "rossore": [
+    "rosːore"
+  ],
+  "rosticceria": [
+    "rostitːʃeria"
+  ],
+  "rostro": [
+    "rɔstro"
+  ],
+  "rota": [
+    "rɔta"
+  ],
+  "rotacismo": [
+    "rotatʃismo",
+    "rotatʃizmo",
+    "rɔtatʃizmo"
+  ],
+  "rotaia": [
+    "rotaja"
+  ],
+  "rotante": [
+    "rotante"
+  ],
+  "rotariano": [
+    "rotarjano"
+  ],
+  "rotativo": [
+    "rotativo"
+  ],
+  "rotatori": [
+    "rotatori"
+  ],
+  "rotatoria": [
+    "rotatorja"
+  ],
+  "rotatorie": [
+    "rotatorje"
+  ],
+  "rotatorio": [
+    "rotatorjo"
+  ],
+  "rotavirus": [
+    "rotavirus",
+    "rɔtavirus"
+  ],
+  "rotazione": [
+    "rotatːsjone"
+  ],
+  "rotazioni": [
+    "rotatːsjoni"
+  ],
+  "roteggiare": [
+    "rotedːʒare"
+  ],
+  "roteggio": [
+    "rotedːʒo"
+  ],
+  "rotella": [
+    "rotɛlːa"
+  ],
+  "rotelle": [
+    "rotɛlːe"
+  ],
+  "rotellista": [
+    "rotelːista"
+  ],
+  "rotelliste": [
+    "rotelːiste"
+  ],
+  "rotellisti": [
+    "rotelːisti"
+  ],
+  "rotiferi": [
+    "rotiferi"
+  ],
+  "rotifero": [
+    "rotifero"
+  ],
+  "rotocalco": [
+    "rotokalko"
+  ],
+  "rotolamenti": [
+    "rotolamenti"
+  ],
+  "rotolamento": [
+    "rotolamento"
+  ],
+  "rotolare": [
+    "rotolare"
+  ],
+  "rotolo": [
+    "rɔtolo"
+  ],
+  "rotonda": [
+    "rotonda",
+    "rɔtɔnda"
+  ],
+  "rotonde": [
+    "rɔtɔnde"
+  ],
+  "rotondeggiante": [
+    "rotondedːʒante"
+  ],
+  "rotondi": [
+    "rɔtɔndi"
+  ],
+  "rotondissima": [
+    "rɔtɔndisːima"
+  ],
+  "rotondissime": [
+    "rɔtɔndisːime"
+  ],
+  "rotondissimi": [
+    "rɔtɔndisːimi"
+  ],
+  "rotondissimo": [
+    "rɔtɔndisːimo"
+  ],
+  "rotondità": [
+    "rotondita"
+  ],
+  "rotondo": [
+    "rotondo",
+    "rɔtɔndɔ"
+  ],
+  "rotore": [
+    "rotore"
+  ],
+  "rotori": [
+    "rotori"
+  ],
+  "rotostampaggi": [
+    "rotostampadːʒi"
+  ],
+  "rotostampaggio": [
+    "rotostampadːʒo"
+  ],
+  "rotta": [
+    "rotːa"
+  ],
+  "rottamare": [
+    "rotːamare"
+  ],
+  "rottame": [
+    "rotːame"
+  ],
+  "rottami": [
+    "rotːami"
+  ],
+  "rotte": [
+    "rotːe"
+  ],
+  "rotti": [
+    "rotːi"
+  ],
+  "rotto": [
+    "rotːo"
+  ],
+  "rottura": [
+    "rotːura"
+  ],
+  "rotture": [
+    "rotːure"
+  ],
+  "rotula": [
+    "rɔtula"
+  ],
+  "roulette": [
+    "rulɛt"
+  ],
+  "roulotte": [
+    "rulɔt"
+  ],
+  "round": [
+    "rawnd"
+  ],
+  "rousseauiano": [
+    "rusːojano"
+  ],
+  "router": [
+    "ruter"
+  ],
+  "routinario": [
+    "rutinarjo"
+  ],
+  "routine": [
+    "rutin"
+  ],
+  "roventare": [
+    "roventare"
+  ],
+  "rovente": [
+    "rovɛnte"
+  ],
+  "roventino": [
+    "roventino",
+    "rovɛntino"
+  ],
+  "rovere": [
+    "rovere"
+  ],
+  "rovescia": [
+    "rovɛʃʃa"
+  ],
+  "rovesciabile": [
+    "roveʃʃabile"
+  ],
+  "rovesciabili": [
+    "roveʃʃabili"
+  ],
+  "rovesciamenti": [
+    "roveʃʃamenti"
+  ],
+  "rovesciamento": [
+    "roveʃʃamento"
+  ],
+  "rovesciante": [
+    "rovɛʃʃante"
+  ],
+  "rovesciare": [
+    "roveʃʃare",
+    "rovɛʃʃare",
+    "rɔvɛstʃare"
+  ],
+  "rovesciato": [
+    "roveʃʃato",
+    "rovɛʃʃato"
+  ],
+  "rovescino": [
+    "rovɛʃʃino"
+  ],
+  "rovescio": [
+    "rovɛʃʃo"
+  ],
+  "roveto": [
+    "roveto"
+  ],
+  "rovi": [
+    "rovi"
+  ],
+  "rovigo": [
+    "roviɡo"
+  ],
+  "rovigotto": [
+    "roviɡɔtːo"
+  ],
+  "rovina": [
+    "rovina"
+  ],
+  "rovinare": [
+    "rovinare",
+    "rɔvinare"
+  ],
+  "rovinata": [
+    "rovinata"
+  ],
+  "rovinato": [
+    "rovinato"
+  ],
+  "rovinosamente": [
+    "rovinosamente"
+  ],
+  "rovinoso": [
+    "rovinoso"
+  ],
+  "rovistare": [
+    "rovistare"
+  ],
+  "rovo": [
+    "rovo"
+  ],
+  "royalty": [
+    "rɔjalti"
+  ],
+  "rozzamente": [
+    "rodːzamente"
+  ],
+  "rozzezza": [
+    "rodːzetːsa"
+  ],
+  "rozzezze": [
+    "rodːzetːse"
+  ],
+  "rozzo": [
+    "rodːzo",
+    "rɔtːso"
+  ],
+  "rozzone": [
+    "rodːzone"
+  ],
+  "rozzore": [
+    "rodːzore"
+  ],
+  "rozzume": [
+    "rodːzume"
+  ],
+  "rua": [
+    "rua"
+  ],
+  "ruandese": [
+    "ruandese"
+  ],
+  "ruandesi": [
+    "ruandesi"
+  ],
+  "rubacchiare": [
+    "rubakːjare"
+  ],
+  "rubamazzo": [
+    "rubamatːso"
+  ],
+  "rubare": [
+    "rubare"
+  ],
+  "rubata": [
+    "rubata"
+  ],
+  "rubate": [
+    "rubate"
+  ],
+  "rubati": [
+    "rubati"
+  ],
+  "rubato": [
+    "rubato"
+  ],
+  "rubbio": [
+    "rubːjo"
+  ],
+  "rubbiolo": [
+    "rubːjɔlo"
+  ],
+  "rubecchio": [
+    "rubekːjo"
+  ],
+  "rubente": [
+    "rubɛnte"
+  ],
+  "rubescente": [
+    "rubeʃʃɛnte"
+  ],
+  "rubiconda": [
+    "rubikonda"
+  ],
+  "rubiconde": [
+    "rubikonde"
+  ],
+  "rubicondi": [
+    "rubikondi"
+  ],
+  "rubicondo": [
+    "rubikondo"
+  ],
+  "rubidio": [
+    "rubidjo"
+  ],
+  "rubiglio": [
+    "rubiʎo"
+  ],
+  "rubinetti": [
+    "rubinetːi"
+  ],
+  "rubinetto": [
+    "rubinetːo"
+  ],
+  "rubini": [
+    "rubini"
+  ],
+  "rubino": [
+    "rubino"
+  ],
+  "rublo": [
+    "rublo"
+  ],
+  "rubrica": [
+    "rubrika"
+  ],
+  "rubricare": [
+    "rubrikare"
+  ],
+  "rubriche": [
+    "rubrike"
+  ],
+  "rubro": [
+    "rubro"
+  ],
+  "ruca": [
+    "ruka"
+  ],
+  "ruchetta": [
+    "ruketːa"
+  ],
+  "rucola": [
+    "rukola"
+  ],
+  "rude": [
+    "rude"
+  ],
+  "rudere": [
+    "rudere"
+  ],
+  "ruderi": [
+    "ruderi"
+  ],
+  "rudimentale": [
+    "rudimentale"
+  ],
+  "rudimentalmente": [
+    "rudimentalmente"
+  ],
+  "rudimento": [
+    "rudimento"
+  ],
+  "rudolfino": [
+    "rudolfino"
+  ],
+  "rufa": [
+    "rufa"
+  ],
+  "rufe": [
+    "rufe"
+  ],
+  "ruffiano": [
+    "rufːiano",
+    "rufːjano"
+  ],
+  "rufi": [
+    "rufi"
+  ],
+  "rufo": [
+    "rufo"
+  ],
+  "rufola": [
+    "rufola"
+  ],
+  "ruga": [
+    "ruɡa"
+  ],
+  "ruggente": [
+    "rudːʒɛnte"
+  ],
+  "ruggenti": [
+    "rudːʒɛnti"
+  ],
+  "ruggeri": [
+    "rudːʒɛri"
+  ],
+  "ruggero": [
+    "rudːʒɛro"
+  ],
+  "ruggiero": [
+    "rudːʒɛro"
+  ],
+  "ruggine": [
+    "rudːʒine"
+  ],
+  "rugginoso": [
+    "rudːʒinoso",
+    "rudːʒinozo"
+  ],
+  "ruggire": [
+    "rudːʒire"
+  ],
+  "ruggito": [
+    "rudːʒito"
+  ],
+  "rughe": [
+    "ruɡe"
+  ],
+  "rughetta": [
+    "ruɡetːa"
+  ],
+  "rugiada": [
+    "rudʒada"
+  ],
+  "rugiade": [
+    "rudʒade"
+  ],
+  "ruglio": [
+    "ruʎo"
+  ],
+  "rugnare": [
+    "ruɲɲare"
+  ],
+  "rugosamente": [
+    "ruɡosamente"
+  ],
+  "rugoso": [
+    "ruɡoso",
+    "ruɡozo"
+  ],
+  "rugumare": [
+    "ruɡumare"
+  ],
+  "ruina": [
+    "ruina"
+  ],
+  "rullante": [
+    "rulːante"
+  ],
+  "rullanti": [
+    "rulːanti"
+  ],
+  "rullare": [
+    "rulːare"
+  ],
+  "rullato": [
+    "rulːato"
+  ],
+  "rulli": [
+    "rulːi"
+  ],
+  "rullo": [
+    "rulːo"
+  ],
+  "rumba": [
+    "rumba"
+  ],
+  "rumena": [
+    "rumɛna"
+  ],
+  "rumene": [
+    "rumɛne"
+  ],
+  "rumeni": [
+    "rumɛni"
+  ],
+  "rumeno": [
+    "rumɛno"
+  ],
+  "ruminando": [
+    "ruminando"
+  ],
+  "ruminante": [
+    "ruminante"
+  ],
+  "ruminanti": [
+    "ruminanti"
+  ],
+  "ruminare": [
+    "ruminare"
+  ],
+  "ruminata": [
+    "ruminata"
+  ],
+  "ruminate": [
+    "ruminate"
+  ],
+  "ruminati": [
+    "ruminati"
+  ],
+  "ruminato": [
+    "ruminato"
+  ],
+  "ruminazione": [
+    "ruminatsjone"
+  ],
+  "rumore": [
+    "rumore"
+  ],
+  "rumoreggiare": [
+    "rumoredːʒare"
+  ],
+  "rumori": [
+    "rumori"
+  ],
+  "rumorio": [
+    "rumorio"
+  ],
+  "rumorista": [
+    "rumorista"
+  ],
+  "rumoriste": [
+    "iste"
+  ],
+  "rumoristi": [
+    "isti"
+  ],
+  "rumorosamente": [
+    "rumorosamente",
+    "rumorozamente"
+  ],
+  "rumoroso": [
+    "rumorozo"
+  ],
+  "runa": [
+    "runa"
+  ],
+  "runico": [
+    "runiko"
+  ],
+  "runologia": [
+    "runalodʒia",
+    "runolodʒia"
+  ],
+  "runologica": [
+    "runolɔdʒika"
+  ],
+  "runologiche": [
+    "runolɔdʒike"
+  ],
+  "runologici": [
+    "runolɔdʒitʃi"
+  ],
+  "runologico": [
+    "runolɔdʒiko"
+  ],
+  "runologie": [
+    "runalodʒie"
+  ],
+  "ruoli": [
+    "rwɔli"
+  ],
+  "ruolo": [
+    "rwɔlo"
+  ],
+  "ruota": [
+    "rwɔta"
+  ],
+  "ruotare": [
+    "rwotare"
+  ],
+  "ruote": [
+    "rwɔte"
+  ],
+  "ruotino": [
+    "rwotino"
+  ],
+  "rupe": [
+    "rupe"
+  ],
+  "rupestre": [
+    "rupɛstre"
+  ],
+  "rupia": [
+    "rupia",
+    "rupja"
+  ],
+  "rurale": [
+    "rurale"
+  ],
+  "rurali": [
+    "rurali"
+  ],
+  "ruralità": [
+    "ruralita"
+  ],
+  "ruscellamenti": [
+    "ruʃʃelːamenti"
+  ],
+  "ruscellamento": [
+    "ruʃʃelːamento"
+  ],
+  "ruscelletto": [
+    "ruʃʃelːetːo"
+  ],
+  "ruscelli": [
+    "ruʃʃɛlːi"
+  ],
+  "ruscellino": [
+    "ruʃʃelːino",
+    "ruʃʃɛlːino"
+  ],
+  "ruscello": [
+    "ruʃʃɛlːo"
+  ],
+  "rush": [
+    "raʃ"
+  ],
+  "rusignolo": [
+    "ruziɲɲɔlo"
+  ],
+  "rusignuolo": [
+    "ruziɲɲwɔlo"
+  ],
+  "ruspante": [
+    "ruspante"
+  ],
+  "ruspare": [
+    "ruspare"
+  ],
+  "ruspato": [
+    "ruspato"
+  ],
+  "russa": [
+    "rusːa"
+  ],
+  "russamenti": [
+    "rusːamenti"
+  ],
+  "russamento": [
+    "rusːamento"
+  ],
+  "russante": [
+    "rusːante"
+  ],
+  "russare": [
+    "rusːare"
+  ],
+  "russato": [
+    "rusːato"
+  ],
+  "russe": [
+    "rusːe"
+  ],
+  "russi": [
+    "rusːi"
+  ],
+  "russia": [
+    "rusːja"
+  ],
+  "russie": [
+    "rusːje"
+  ],
+  "russificazione": [
+    "rusːifikatːsjone"
+  ],
+  "russo": [
+    "rusːo"
+  ],
+  "rusticano": [
+    "rustikano"
+  ],
+  "rustico": [
+    "rustiko"
+  ],
+  "rutacea": [
+    "rutatʃea"
+  ],
+  "rutacee": [
+    "rutatʃee"
+  ],
+  "rutacei": [
+    "rutatʃei"
+  ],
+  "rutaceo": [
+    "rutatʃeo"
+  ],
+  "rutenio": [
+    "rutɛnio",
+    "rutɛnjo"
+  ],
+  "rutherfordio": [
+    "raderfɔrdjo",
+    "raterfɔrdjo",
+    "ruterfɔrdjo"
+  ],
+  "rutilo": [
+    "rutilo"
+  ],
+  "ruttante": [
+    "rutːante"
+  ],
+  "ruttare": [
+    "rutːare"
+  ],
+  "ruttato": [
+    "rutːato"
+  ],
+  "ruttino": [
+    "rutːino"
+  ],
+  "rutto": [
+    "rutːo"
+  ],
+  "ruvidamente": [
+    "ruvidamente"
+  ]
 }

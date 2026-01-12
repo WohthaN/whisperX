@@ -1,502 +1,1524 @@
 {
-  "dappresso": ["d a pː r e sː o"],
-  "dapprima": ["d a pː r i m a"],
-  "dapprincipio": ["d a pː r i n t ʃ i p j ɔ"],
-  "darà": ["d a r a"],
-  "darabukka": ["d a r a b u kː a"],
-  "darai": ["d a r a i"],
-  "daranno": ["d a r a nː o"],
-  "dardano": ["d a r d a n o"],
-  "dardeggiare": ["d a r d e dː ʒ a r e"],
-  "dardo": ["d a r d o"],
-  "dare": ["d a r e"],
-  "darebbe": ["d a r e bː e"],
-  "darebbero": ["d a r e bː e r o"],
-  "darei": ["d a r e i"],
-  "daremmo": ["d a r e mː o"],
-  "daremo": ["d a r e mː o"],
-  "dareste": ["d a r e s t e"],
-  "daresti": ["d a r e s t i"],
-  "darete": ["d a r e t e"],
-  "dari": ["d a r i"],
-  "darmstadtio": ["d a r m s t a d j o", "d a r m s t a t j o"],
-  "darmstazio": ["d a r m s t a tː s j o"],
-  "darne": ["d a r n e"],
-  "darò": ["d a r o"],
-  "darsena": ["d a r s e n a"],
-  "darsi": ["d a r s i"],
-  "darvinismo": ["d a r v i n i z m o"],
-  "darwiniano": ["d a r v i n j a n o"],
-  "darwinismo": ["d a r v i n i z m o"],
-  "darwinista": ["d a r v i n i s t a"],
-  "darwiniste": ["d a r v i n i s t e"],
-  "darwinisti": ["d a r v i n i s t i"],
-  "dasipodide": ["d a z i p ɔ d i d e"],
-  "dasiproctide": ["d a s i p r ɔ k t i d e"],
-  "dasiproctidi": ["d a z i p r ɔ k t i d i"],
-  "dasiprottide": ["d a s i p r ɔ tː i d e"],
-  "dasiprottidi": ["d a z i p r o tː i d i"],
-  "data": ["d a t a"],
-  "database": ["d a t a b a z e"],
-  "databile": ["d a t a b i l e"],
-  "databili": ["d a t a b i l i"],
-  "datai": ["d a t a j"],
-  "datando": ["d a t a n d o"],
-  "datante": ["d a t a n t e"],
-  "datare": ["d a t a r e"],
-  "dataria": ["d a t a r j a"],
-  "datasse": ["d a t a sː e"],
-  "dataste": ["d a t a s t e"],
-  "datato": ["d a t a t o"],
-  "datava": ["d a t a v a"],
-  "datazione": ["d a t a t s j o n e"],
-  "datazioni": ["d a t a t s j o n i"],
-  "date": ["d a t e"],
-  "dati": ["d a t i"],
-  "dato": ["d a t o"],
-  "datrice": ["d a t r i t ʃ e"],
-  "datteri": ["d a tː e r i"],
-  "dattero": ["d a tː e r o"],
-  "dattilo": ["d a tː i l o"],
-  "dattilografa": ["d a tː i l ɔ ɡ r a f a"],
-  "dattilografare": ["d a tː i l o ɡ r a f a r e"],
-  "dattilografe": ["d a tː i l ɔ ɡ r a f e"],
-  "dattilografi": ["d a tː i l ɔ ɡ r a f i"],
-  "dattilografia": ["d a tː i l o ɡ r a f i a"],
-  "dattilografica": ["d a tː i l o ɡ r a f i k a"],
-  "dattilografiche": ["d a tː i l o ɡ r a f i k e"],
-  "dattilografici": ["d a tː i l o ɡ r a f i t ʃ i"],
-  "dattilografico": ["d a tː i l o ɡ r a f i k o"],
-  "dattilografie": ["d a tː i l o ɡ r a f i e"],
-  "dattilografo": ["d a tː i l ɔ ɡ r a f o"],
-  "dattilologica": ["d a tː i l o l ɔ d ʒ i k a"],
-  "dattilologiche": ["d a tː i l o l ɔ d ʒ i k e"],
-  "dattilologici": ["d a tː i l o l ɔ d ʒ i t ʃ i"],
-  "dattilologico": ["d a tː i l o l ɔ d ʒ i k o"],
-  "dattiloscopica": ["d a tː i l o s k ɔ p i k a"],
-  "dattiloscopiche": ["d a tː i l o s k ɔ p i k e"],
-  "dattiloscopici": ["d a tː i l o s k ɔ p i t ʃ i"],
-  "dattiloscopico": ["d a tː i l o s k ɔ p i k o"],
-  "dattiloscrivere": ["d a tː i l o s k r i v e r e"],
-  "dava": ["d a v a"],
-  "davamo": ["d a v a m o"],
-  "davano": ["d a v a n o"],
-  "davante": ["d a v a n t e"],
-  "davanti": ["d a v a n t i"],
-  "davanzale": ["d a v a n t s a l e"],
-  "davate": ["d a v a t e"],
-  "davi": ["d a v i"],
-  "davide": ["d a v i d e"],
-  "davo": ["d a v o"],
-  "davvero": ["d a vː e r o", "d a vː ɛ r ɔ"],
-  "dazi": ["d a tː s i"],
-  "daziario": ["d a tː s j a r j o"],
-  "dazio": ["d a t s j o", "d a tː s j o"],
-  "dea": ["d ɛ a"],
-  "deacidificare": ["a t ʃ i d i f i k a r e"],
-  "deaerare": ["d e a e r a r e"],
-  "deambulando": ["d e a m b u l a n d o"],
-  "deambulante": ["d e a m b u l a n t e"],
-  "deambulare": ["d e a m b u l a r e"],
-  "deambulato": ["d e a m b u l a t o"],
-  "deambulatori": ["d e a m b u l a t o r i"],
-  "deambulatorio": ["d e a m b u l a t o r j o", "d e a m b u l a t ɔ r j o"],
-  "deambulazione": ["d e a m b u l a tː s j o n e"],
-  "deambulo": ["d e a m b u l o"],
-  "deamicisiano": ["d e a m i t ʃ i s j a n o", "d e a m i t ʃ i z j a n o"],
-  "deandreiano": ["d e a n d r e j a n o"],
-  "deattivare": ["d e a tː i v a r e"],
-  "deattivazione": ["d e a tː i v a t s j o n e"],
-  "deattivazioni": ["d e a tː i v a t s j o n i"],
-  "debacle": ["d e b a k l"],
-  "debba": ["d e bː a"],
-  "debbano": ["d e bː a n o"],
-  "debbo": ["d e bː o"],
-  "debbono": ["d e bː o n o"],
-  "debellante": ["d e b e lː a n t e"],
-  "debellare": ["d e b e lː a r e"],
-  "debellato": ["d e b e lː a t o"],
-  "debilità": ["d e b i l i t a"],
-  "debilitamento": ["d e b i l i t a m e n t o"],
-  "debilitante": ["d e b i l i t a n t e"],
-  "debilitanti": ["d e b i l i t a n t i"],
-  "debilitare": ["d e b i l i t a r e", "d ɛ b i l i t a r e"],
-  "debilitarsi": ["d e b i l i t a r s i"],
-  "debilitato": ["d e b i l i t a t o"],
-  "debilitazione": ["d e b i l i t a tː s j o n e"],
-  "debita": ["d ɛ b i t a"],
-  "debitamente": ["d e b i t a m e n t e"],
-  "debite": ["d ɛ b i t e"],
-  "debiti": ["d ɛ b i t i"],
-  "debito": ["d e b i t o", "d ɛ b i t ɔ"],
-  "debitore": ["d e b i t o r e"],
-  "debitrice": ["d e b i t r i t ʃ e"],
-  "debole": ["d e b o l e"],
-  "debolezza": ["d e b o l e tː s a"],
-  "debolezze": ["d e b o l e tː s e"],
-  "deboli": ["d e b o l i"],
-  "debolissima": ["d e b o l i sː i m a"],
-  "debolissime": ["d e b o l i sː i m e"],
-  "debolissimi": ["d e b o l i sː i m i"],
-  "debolissimo": ["d e b o l i sː i m o"],
-  "debolmente": ["d e b o l m e n t e"],
-  "debora": ["d ɛ b o r a"],
-  "debordante": ["d e b o r d a n t e"],
-  "debordare": ["d e b o r d a r e"],
-  "debosciato": ["d e b o ʃ ʃ a t o"],
-  "debrecen": ["d ɛ b r ɛ t s ɛ n"],
-  "debuccalizzazione": ["d e b u kː a l i dː z a tː s j o n e"],
-  "debuttare": ["d e b u tː a r e"],
-  "debutto": ["d e b u tː o"],
-  "deca": ["d ɛ k a"],
-  "decadente": ["d e k a d ɛ n t e"],
-  "decadentismi": ["d e k a d e n t i z m i"],
-  "decadentismo": ["d e k a d e n t i z m o"],
-  "decadentistico": ["d e k a d e n t i s t i k o"],
-  "decadenza": ["d e k a d ɛ n t s a"],
-  "decadenze": ["d e k a d ɛ n t s e"],
-  "decadere": ["d e k a d e r e"],
-  "decadimento": ["d e k a d i m e n t o"],
-  "decaduto": ["d e k a d u t o"],
-  "decaedro": ["d e k a ɛ d r o"],
-  "decaffeinare": ["d e k a fː e j n a r e"],
-  "decaffeinato": ["d e k a fː e j n a t o"],
-  "decaffeinizzare": ["d e k a fː e j n i dː z a r e"],
-  "decagono": ["d e k a ɡ o n o"],
-  "decagrammo": ["d ɛ k a ɡ r a mː o"],
-  "decalcare": ["d e k a l k a r e"],
-  "decalcificante": ["d e k a l t ʃ i f i k a n t e"],
-  "decalcificare": ["d e k a l t ʃ i f i k a r e"],
-  "decalcificarsi": ["e k a l t ʃ i f i k a r s i"],
-  "decalcificato": ["d e k a l t ʃ i f i k a t o"],
-  "decalcificazione": ["d e k a l t ʃ i f i k a t s j o n e"],
-  "decalcificazioni": ["d e k a l t ʃ i f i k a t s j o n i"],
-  "decalcomania": ["d e k a l k o m a n i a"],
-  "decalitro": ["d e k a l i t r o"],
-  "decalogo": ["d e k a l o ɡ o"],
-  "decameron": ["d e k a m e r o n", "d e k a m e r ɔ n"],
-  "decamerone": ["d e k a m e r o n e"],
-  "decametro": ["d e k a m e t r o"],
-  "decampare": ["d e k a m p a r e"],
-  "decano": ["d e k a n o"],
-  "decanone": ["d e k a n o n e"],
-  "decantare": ["d e k a n t a r e"],
-  "decantazione": ["d e k a n t a t s j o n e", "d e k a n t a tː s j o n e"],
-  "decanter": ["d e k a n t e r"],
-  "decaossido": ["d ɛ k a o s ɔ s i d o"],
-  "decapaggi": ["d e k a p a dː ʒ i"],
-  "decapaggio": ["d e k a p a dː ʒ o"],
-  "decapare": ["d e k a p a r e"],
-  "decapitare": ["d e k a p i t a r e"],
-  "decapitato": ["d e k a p i t a t o"],
-  "decapitazione": ["d e k a p i t a t s j o n e", "d e k a p i t a tː s i o n e"],
-  "decapode": ["d e k a p o d e"],
-  "decapodi": ["d e k a p o d i"],
-  "decapottabile": ["d e k a p o tː a b i l e"],
-  "decapottabili": ["d e k a p o tː a b i l i"],
-  "decappottabile": ["d e k a pː o tː a b i l e"],
-  "decappottabili": ["d e k a pː o tː a b i l i"],
-  "decappottare": ["d e k a p o tː a r e"],
-  "decarbonilazione": ["d e k a r b o n i l a tː s j o n e"],
-  "decarbonilazioni": ["d e k a r b o n i l a tː s j o n i"],
-  "decarbossilare": ["d e k a r b o sː i l a r e"],
-  "decarbossilazione": ["d e k a r b o sː i l a t s j o n e"],
-  "decarburare": ["d e k a r b u r a r e"],
-  "decarchia": ["d e k a r k i a"],
-  "decasillabo": ["d e k a s i lː a b o"],
-  "decathlon": ["d ɛ k a t l o n"],
-  "decatissaggio": ["d e k a t i sː a dː ʒ o"],
-  "decatizzare": ["d e k a t i dː z a r e"],
-  "decedente": ["d e t ʃ ɛ d e n t e"],
-  "decedere": ["d e t ʃ ɛ d e r e"],
-  "deceduto": ["d e t ʃ ɛ d u t o"],
-  "decelerare": ["d e t ʃ e l e r a r e"],
-  "decelerato": ["d e t ʃ e l e r a t o"],
-  "decelerazione": ["d e t ʃ e l e r a tː s j o n e"],
-  "decempeda": ["d e t ʃ ɛ m p e d a"],
-  "decenne": ["d e t ʃ ɛ nː e"],
-  "decennio": ["d e t ʃ ɛ nː j o"],
-  "decente": ["d e t ʃ ɛ n t e", "d ɛ t ʃ ɛ n t e"],
-  "decentemente": ["d e t ʃ e n t e m e n t e"],
-  "decenti": ["d e t ʃ ɛ n t i"],
-  "decentralizzare": ["d e t ʃ e n t r a l i dː z a r e"],
-  "decentralizzato": ["d e t ʃ e n t r a l i dː z a t o"],
-  "decentralizzatore": ["d e t ʃ e n t r a l i dː z a t o r e"],
-  "decentralizzatori": ["d e t ʃ e n t r a l i dː z a t o r i"],
-  "decentralizzatrice": ["d e t ʃ e n t r a l i dː z a t r i t ʃ i"],
-  "decentralizzatrici": ["d e t ʃ e n t r a l i dː z a t r i t ʃ i"],
-  "decentramenti": ["d e t ʃ e n t r a m e n t i"],
-  "decentramento": ["d e t ʃ e n t r a m e n t o"],
-  "decentrare": ["d e t ʃ e n t r a r e"],
-  "decentrato": ["d e t ʃ e n t r a t o"],
-  "decenza": ["d e t ʃ ɛ n t s a"],
-  "decerebrare": ["d e t ʃ e r e b r a r e"],
-  "decerebrato": ["d e t ʃ e r e b r a t o"],
-  "decespugliare": ["d e t ʃ e s p u ʎ a r e"],
-  "decespugliatore": ["d e t ʃ e s p u ʎ a t o r e"],
-  "decespugliatori": ["d e t ʃ e s p u ʎ a t o r i"],
-  "decesso": ["d e t ʃ ɛ sː o"],
-  "decettivo": ["d e t ʃ e tː i v o"],
-  "decevole": ["d e t ʃ e v o l e"],
-  "decevolmente": ["d e t ʃ e v o l m e n t e"],
-  "decidente": ["d ɛ t ʃ i d e n t e"],
-  "decidere": ["d e t ʃ i d e r e", "d ɛ t ʃ i d e r e"],
-  "decidersi": ["d e t ʃ i d e r s i", "d ɛ t ʃ i d e r s i"],
-  "deciduo": ["d e t ʃ i d u o"],
-  "decifrabile": ["d e t ʃ i f r a b i l e"],
-  "decifrabili": ["d e t ʃ i f r a b i l i"],
-  "decifrare": ["d e t ʃ i f r a r e"],
-  "decifrato": ["d e t ʃ i f r a t o"],
-  "decigrammo": ["d ɛ t ʃ i ɡ r a mː o"],
-  "decilitro": ["d e t ʃ i l i t r o"],
-  "decima": ["d ɛ t ʃ i m a"],
-  "decimale": ["d e t ʃ i m a l e"],
-  "decimali": ["d e t ʃ i m a l i"],
-  "decimalizzare": ["d e t ʃ i m a l i dː z a r e"],
-  "decimalizzazione": ["d e t ʃ i m a l i dː z a t s j o n e"],
-  "decimalizzazioni": ["d e t ʃ i m a l i dː z a t s j o n i"],
-  "decimante": ["d e t ʃ i m a n t e"],
-  "decimare": ["d e t ʃ i m a r e"],
-  "decimarsi": ["d e t ʃ i m a r s i"],
-  "decimato": ["d e t ʃ i m a t o"],
-  "decimazione": ["d e t ʃ i m a t s j o n e", "d e t ʃ i m a tː s j o n e"],
-  "decimetro": ["d e t ʃ i m e t r o"],
-  "decimillesimo": ["d ɛ t ʃ i m i lː ɛ z i m o"],
-  "decimo": ["d ɛ t ʃ i m o"],
-  "decimoprimo": ["d e t ʃ i m o p r i m o"],
-  "decina": ["d e t ʃ i n a"],
-  "decinormale": ["d e t ʃ i n o r m a l e"],
-  "decinormali": ["d e t ʃ i n o r m a l i"],
-  "decio": ["d ɛ t ʃ o"],
-  "decisamente": ["d e t ʃ i z a m e n t e"],
-  "decisionale": ["d e t ʃ i z j o n a l e"],
-  "decisione": ["d e t ʃ i z j o n e", "d ɛ t ʃ i z j ɔ n e"],
-  "decisioni": ["d ɛ t ʃ i z j ɔ n i"],
-  "decisionismo": ["d e t ʃ i z j o n i z m o"],
-  "decisiva": ["d e t ʃ i z i v a"],
-  "decisivamente": ["d e t ʃ i z i v a m e n t e"],
-  "decisivo": ["d e t ʃ i z i v o"],
-  "deciso": ["d e t ʃ i z o", "d ɛ t ʃ i z o"],
-  "declamare": ["d e k l a m a r e"],
-  "declamato": ["d e k l a m a t o"],
-  "declamatorio": ["d e k l a m a t ɔ r j o"],
-  "declamazione": ["d e k l a m a tː s j o n e"],
-  "declaratoria": ["d e k l a r a t ɔ r j a"],
-  "declaratorio": ["d e k l a r a t ɔ r j o"],
-  "declassare": ["d e k l a sː a r e"],
-  "declassato": ["d e k l a sː a t o"],
-  "declassificazione": ["d e k l a sː i f i k a t s j o n e"],
-  "declinabile": ["d e k l i n a b i l e"],
-  "declinabili": ["d e k l i n a b i l i"],
-  "declinante": ["d e k l i n a n t e"],
-  "declinanti": ["d e k l i n a n t i"],
-  "declinare": ["d e k l i n a r e"],
-  "declinato": ["d e k l i n a t o"],
-  "declinazione": ["d e k l i n a tː s j o n e"],
-  "declino": ["d e k l i n o"],
-  "declivi": ["d e k l i v i"],
-  "declivio": ["d e k l i v j o"],
-  "decoder": ["d e k ɔ d e r"],
-  "decodificare": ["d e k o d i f i k a r e"],
-  "decodificato": ["d e k o d i f i k a t o"],
-  "decodificatore": ["d e k o d i f i k a t o r e"],
-  "decollaggi": ["d e k o lː a dː ʒ i"],
-  "decollaggio": ["d e k o lː a dː ʒ o"],
-  "decollare": ["d e k o lː a r e"],
-  "decollato": ["d e k o lː a t o"],
-  "décolleté": ["d e k o l t e"],
-  "decolli": ["d e k ɔ lː i"],
-  "decollo": ["d e k ɔ lː o"],
-  "decolonizzare": ["d e k o l o n i dː z a r e"],
-  "decolonizzata": ["d e k o l o n i dː z a t a"],
-  "decolonizzate": ["d e k o l o n i dː z a t a", "d e k o l o n i dː z a t e"],
-  "decolonizzati": ["d e k o l o n i dː z a t i"],
-  "decolonizzato": ["d e k o l o n i dː z a t o"],
-  "decolonizzatore": ["d e k o l o n i dː z a t o r e"],
-  "decolonizzatori": ["d e k o l o n i dː z a t o r i"],
-  "decolonizzatrice": ["d e k o l o n i dː z a t r i t ʃ e"],
-  "decolonizzatrici": ["d e k o l o n i dː z a t r i t ʃ i"],
-  "decolonizzazione": ["d e k o l o n i dː z a tː s j o n e"],
-  "decolonizzazioni": ["d e k o l o n i dː z a tː s j o n i"],
-  "decolorante": ["d e k o l o r a n t e"],
-  "decoloranti": ["d e k o l o r a n t i"],
-  "decolorare": ["d e k o l o r a r e"],
-  "decolorarsi": ["d e k o l o r a r s i"],
-  "decolorato": ["d e k o l o r a t o"],
-  "decolorazione": ["d e k o l o r a tː s j o n e"],
-  "decolorazioni": ["d e k o l o r a tː s j o n i"],
-  "decompone": ["d e k o m p o n e"],
-  "decomponemmo": ["d e k o m p o n e mː o"],
-  "decomponendo": ["d e k o m p o n e n d o"],
-  "decomponente": ["d e k o m p o n e n t e"],
-  "decomponesse": ["d e k o m p o n e sː e"],
-  "decomponessero": ["d e k o m p o n e sː e r o"],
-  "decomponessi": ["d e k o m p o n e sː i"],
-  "decomponessimo": ["d e k o m p o n e sː i m o"],
-  "decomponeste": ["d e k o m p o nː e s t e"],
-  "decomponesti": ["d e k o m p o n e s t i"],
-  "decomponete": ["d e k o m p o n e t e"],
-  "decomponeva": ["d e k o m p o n e v a"],
-  "decomponevamo": ["d e k o m p o n e v a m o"],
-  "decomponevano": ["d e k o m p o n e v a n o"],
-  "decomponevate": ["d e k o m p o n e v a t e"],
-  "decomponevi": ["d e k o m p o n e v i"],
-  "decomponevo": ["d e k o m p o n e v o"],
-  "decomponga": ["d e k o m p o n ɡ a"],
-  "decompongano": ["d e k o m p o n ɡ a n o"],
-  "decompongo": ["d e k o m p o n ɡ o"],
-  "decompongono": ["d e k o m p o n ɡ o n o"],
-  "decomponi": ["d e k o m p o n i"],
-  "decomponiamo": ["d e k o m p o n j a m o"],
-  "decomponiate": ["d e k o m p o n j a t e"],
-  "decomponibile": ["d e k o m p o n i b i l e"],
-  "decomponibili": ["d e k o m p o n i b i l i"],
-  "decomporrà": ["p o rː a"],
-  "decomporrai": ["d e k o m p o rː a i"],
-  "decomporranno": ["d e k o m p o rː a nː o"],
-  "decomporre": ["d e k o m p o rː e"],
-  "decomporrebbe": ["d e k o m p o rː e bː e"],
-  "decomporrebbero": ["d e k o m p o rː e bː e r o"],
-  "decomporrei": ["d e k o m p o rː e i"],
-  "decomporremmo": ["d e k o m p o rː e m o"],
-  "decomporremo": ["d e k o m p o rː e m o"],
-  "decomporreste": ["d e k o m p o rː e s t e"],
-  "decomporresti": ["d e k o m p o rː e s t i"],
-  "decomporrete": ["d e k o m p o rː e t e"],
-  "decomporrò": ["d e k o m p o rː o"],
-  "decomporsi": ["d e k o m p o r s i"],
-  "decompose": ["d e k o m p o s e"],
-  "decomposero": ["d e k o m p o s e r o"],
-  "decomposi": ["d e k o m p o s i"],
-  "decomposizione": ["d e k o m p o z i tː s j o n e"],
-  "decomposta": ["d e k o m p o s t a"],
-  "decomposte": ["d e k o m p o s t e"],
-  "decomposti": ["d e k o m p o s t i"],
-  "decomposto": ["d e k o m p o s t o"],
-  "decompressimetri": ["d e k o m p r e sː i m ɛ t r i"],
-  "decompressimetro": ["d e k o m p r e sː i m ɛ t r o"],
-  "decompressione": ["d e k o m p r e sː j o n e"],
-  "decompressioni": ["d e k o m p r e sː j o n i"],
-  "decomprimere": ["d e k o m p r i m e r e"],
-  "deconcentrare": ["d e k o n t ʃ e n t r a r e"],
-  "deconcentrato": ["d e k o n t ʃ e n t r a t o"],
-  "decondizionare": ["d e k o n d i tː s j o n a r e"],
-  "decongelare": ["d e k o n d ʒ e l a r e"],
-  "decongelato": ["d e k o n d ʒ e l a t o"],
-  "decongestionante": ["d e k o n d ʒ e s t j o n a n t e"],
-  "decongestionanti": ["d e k o n d ʒ e s t j o n a n t i"],
-  "decongestionare": ["d e k o n d ʒ e s t j o n a r e"],
-  "decongestionato": ["d e k o n d ʒ e s t j o n a t o"],
-  "decontaminare": ["d e k o n t a m i n a r e"],
-  "decontaminato": ["d e k o n t a m i n a t o"],
-  "decontestualizzare": ["d e k o n t e s t u a l i dː z a r e"],
-  "decontrae": ["d e k o n t r a e"],
-  "decontraemmo": ["d e k o n t r a e mː o"],
-  "decontraendo": ["d e k o n t r a e n d o"],
-  "decontraente": ["d e k o n t r a e n t e"],
-  "decontraesse": ["d e k o n t r a e sː e"],
-  "decontraessero": ["d e k o n t r a e sː e r o"],
-  "decontraessi": ["d e k o n t r a e sː i"],
-  "decontraessimo": ["d e k o n t r a e sː i m o"],
-  "decontraeste": ["d e k o n t r a e s t e"],
-  "decontraesti": ["d e k o n t r a e s t i"],
-  "decontraete": ["d e k o n t r a e t e"],
-  "decontraeva": ["d e k o n t r a e v a"],
-  "decontraevamo": ["d e k o n t r a e v a m o"],
-  "decontraevano": ["d e k o n t r a e v a n o"],
-  "decontraevate": ["d e k o n t r a e v a t e"],
-  "decontraevi": ["d e k o n t r a e v i"],
-  "decontraevo": ["d e k o n t r a e v o"],
-  "decontragga": ["d e k o n t r a ɡː a"],
-  "decontraggano": ["d e k o n t r a ɡː a n o"],
-  "decontraggo": ["d e k o n t r a ɡː o"],
-  "decontraggono": ["d e k o n t r a ɡː o n o"],
-  "decontrai": ["d e k o n t r a i"],
-  "decontraiamo": ["d e k o n t r a j a m o"],
-  "decontraiate": ["d e k o n t r a j a t e"],
-  "decontrarrà": ["d e k o n t r a rː a"],
-  "decontrarrai": ["d e k o n t r a rː a i"],
-  "decontrarranno": ["d e k o n t r a rː a nː o"],
-  "decontrarre": ["d e k o n t r a rː e"],
-  "decontrarrebbe": ["d e k o n t r a rː e bː e"],
-  "decontrarrebbero": ["d e k o n t r a rː e bː e r o"],
-  "decontrarrei": ["d e k o n t r a rː e i"],
-  "decontrarremmo": ["d e k o n t r a rː e m o"],
-  "decontrarremo": ["d e k o n t r a rː e m o"],
-  "decontrarreste": ["d e k o n t r a rː e s t e"],
-  "decontrarresti": ["d e k o n t r a rː e s t i"],
-  "decontrarrete": ["d e k o n t r a rː e t e"],
-  "decontrarrò": ["d e k o n t r a rː o"],
-  "decontrarsi": ["d e k o n t r a r s i"],
-  "decontrasse": ["d e k o n t r a sː e"],
-  "decontrassero": ["d e k o n t r a sː e r o"],
-  "decontrassi": ["d e k o n t r a sː i"],
-  "decontratta": ["d e k o n t r a tː a"],
-  "decontratte": ["d e k o n t r a tː e"],
-  "decontratti": ["d e k o n t r a tː i"],
-  "decontratto": ["d e k o n t r a tː o"],
-  "decontrazione": ["d e k o n t r a tː s j o n e"],
-  "decontrazioni": ["d e k o n t r a tː s j o n i"],
-  "decorando": ["d e k o r a n d o"],
-  "decorare": ["d e k o r a r e"],
-  "decorativa": ["d e k o r a t i v a"],
-  "decorativo": ["d e k o r a t i v o"],
-  "decorato": ["d e k o r a t o"],
-  "decoratore": ["d e k o r a t o r e"],
-  "decoratori": ["d e k o r a t o r i"],
-  "decoratrice": ["d e k o r a t r i t ʃ e"],
-  "decoratrici": ["d e k o r a t r i t ʃ i"],
-  "decorazione": ["d e k o r a tː s j o n e"],
-  "decoro": ["d e k ɔ r o"],
-  "decorosamente": ["d e k o r o s a m e n t e"],
-  "decoroso": ["d e k o r o s o", "d e k o r o z o"],
-  "decorrere": ["d e k o rː e r e"],
-  "decorso": ["d e k o r s o"],
-  "decorticando": ["d e k o r t i k a n d o"],
-  "decorticante": ["d e k o r t i k a n t e"],
-  "decorticare": ["d e k o r t i k a r e"],
-  "decorticato": ["d e k o r t i k a t o"],
-  "decotto": ["d e k ɔ tː o"],
-  "decozione": ["d e k o tː s j o n e"],
-  "decremento": ["d e k r e m e n t o"],
-  "decrepità": ["d e k r e p i t a"],
-  "decrepito": ["d e k r ɛ p i t o", "d ɛ k r ɛ p i t ɔ"],
-  "decrescente": ["d e k r e ʃ ʃ ɛ n t e"],
-  "decrescenza": ["d e k r e ʃ ʃ ɛ n t s a"],
-  "decrescere": ["d e k r e ʃ ʃ e r e"],
-  "decrescita": ["d e k r e ʃ ʃ i t a"],
-  "decrescite": ["d e k r e ʃ ʃ i t e"],
-  "decretalista": ["d e k r e t a l i s t a"],
-  "decretaliste": ["d e k r e t a l i s t e"],
-  "decretalisti": ["d e k r e t a l i s t i"],
-  "decreti": ["d e k r e t i", "d e k r ɛ t i"],
-  "decreto": ["d e k r e t o", "d e k r ɛ t o"],
-  "decriminalizzante": ["d e k r i m i n a l i dː ʒ a n t e"],
-  "decriminalizzare": ["d e k r i m i n a l i dː z a r e", "d e k r i m i n a l i dː ʒ a r e"],
-  "decriminalizzato": ["d e k r i m i n a l i dː ʒ a t o"],
-  "decriminalizzazione": ["d e k r i m i n a l i dː z a t s j o n e"],
-  "decriminalizzazioni": ["d e k r i m i n a l i dː ʒ a t s j o n i"],
-  "decriptare": ["d e k r i p t a r e"],
-  "decrittare": ["d e k r i tː a r e"],
-  "decrittato": ["d e k r i tː a t o"],
-  "decubiti": ["d e k u b i t i"],
-  "decubito": ["d e k u b i t o"],
-  "decumani": ["d e k u m a n i"],
-  "decumano": ["d e k u m a n o"],
-  "decuocere": ["d e k w ɔ t ʃ e r e"],
-  "decuplicare": ["d e k u p l i k a r e"],
-  "decuplicato": ["d e k u p l i k a t o"],
-  "decuplo": ["d ɛ k u p l o"],
-  "decuria": ["d e k u r j a"],
-  "dedalo": ["d ɛ d a l o"],
-  "dedica": ["d ɛ d i k a"],
-  "dedicare": ["d e d i k a r e"],
-  "dedicarsi": ["d e d i k a r s i"],
-  "dedicato": ["d e d i k a t o"],
-  "dedita": ["d ɛ d i t a"],
-  "dedite": ["d ɛ d i t e"],
-  "dediti": ["d ɛ d i t i"],
-  "dedito": ["d ɛ d i t o"],
-  "dedizione": ["d e d i tː s j o n e"],
-  "dedizioni": ["d e d i tː s j o n i"]
+  "dappresso": [
+    "dapːresːo"
+  ],
+  "dapprima": [
+    "dapːrima"
+  ],
+  "dapprincipio": [
+    "dapːrintʃipjɔ"
+  ],
+  "darà": [
+    "dara"
+  ],
+  "darabukka": [
+    "darabukːa"
+  ],
+  "darai": [
+    "darai"
+  ],
+  "daranno": [
+    "daranːo"
+  ],
+  "dardano": [
+    "dardano"
+  ],
+  "dardeggiare": [
+    "dardedːʒare"
+  ],
+  "dardo": [
+    "dardo"
+  ],
+  "dare": [
+    "dare"
+  ],
+  "darebbe": [
+    "darebːe"
+  ],
+  "darebbero": [
+    "darebːero"
+  ],
+  "darei": [
+    "darei"
+  ],
+  "daremmo": [
+    "daremːo"
+  ],
+  "daremo": [
+    "daremːo"
+  ],
+  "dareste": [
+    "dareste"
+  ],
+  "daresti": [
+    "daresti"
+  ],
+  "darete": [
+    "darete"
+  ],
+  "dari": [
+    "dari"
+  ],
+  "darmstadtio": [
+    "darmstadjo",
+    "darmstatjo"
+  ],
+  "darmstazio": [
+    "darmstatːsjo"
+  ],
+  "darne": [
+    "darne"
+  ],
+  "darò": [
+    "daro"
+  ],
+  "darsena": [
+    "darsena"
+  ],
+  "darsi": [
+    "darsi"
+  ],
+  "darvinismo": [
+    "darvinizmo"
+  ],
+  "darwiniano": [
+    "darvinjano"
+  ],
+  "darwinismo": [
+    "darvinizmo"
+  ],
+  "darwinista": [
+    "darvinista"
+  ],
+  "darwiniste": [
+    "darviniste"
+  ],
+  "darwinisti": [
+    "darvinisti"
+  ],
+  "dasipodide": [
+    "dazipɔdide"
+  ],
+  "dasiproctide": [
+    "dasiprɔktide"
+  ],
+  "dasiproctidi": [
+    "daziprɔktidi"
+  ],
+  "dasiprottide": [
+    "dasiprɔtːide"
+  ],
+  "dasiprottidi": [
+    "daziprotːidi"
+  ],
+  "data": [
+    "data"
+  ],
+  "database": [
+    "databaze"
+  ],
+  "databile": [
+    "databile"
+  ],
+  "databili": [
+    "databili"
+  ],
+  "datai": [
+    "dataj"
+  ],
+  "datando": [
+    "datando"
+  ],
+  "datante": [
+    "datante"
+  ],
+  "datare": [
+    "datare"
+  ],
+  "dataria": [
+    "datarja"
+  ],
+  "datasse": [
+    "datasːe"
+  ],
+  "dataste": [
+    "dataste"
+  ],
+  "datato": [
+    "datato"
+  ],
+  "datava": [
+    "datava"
+  ],
+  "datazione": [
+    "datatsjone"
+  ],
+  "datazioni": [
+    "datatsjoni"
+  ],
+  "date": [
+    "date"
+  ],
+  "dati": [
+    "dati"
+  ],
+  "dato": [
+    "dato"
+  ],
+  "datrice": [
+    "datritʃe"
+  ],
+  "datteri": [
+    "datːeri"
+  ],
+  "dattero": [
+    "datːero"
+  ],
+  "dattilo": [
+    "datːilo"
+  ],
+  "dattilografa": [
+    "datːilɔɡrafa"
+  ],
+  "dattilografare": [
+    "datːiloɡrafare"
+  ],
+  "dattilografe": [
+    "datːilɔɡrafe"
+  ],
+  "dattilografi": [
+    "datːilɔɡrafi"
+  ],
+  "dattilografia": [
+    "datːiloɡrafia"
+  ],
+  "dattilografica": [
+    "datːiloɡrafika"
+  ],
+  "dattilografiche": [
+    "datːiloɡrafike"
+  ],
+  "dattilografici": [
+    "datːiloɡrafitʃi"
+  ],
+  "dattilografico": [
+    "datːiloɡrafiko"
+  ],
+  "dattilografie": [
+    "datːiloɡrafie"
+  ],
+  "dattilografo": [
+    "datːilɔɡrafo"
+  ],
+  "dattilologica": [
+    "datːilolɔdʒika"
+  ],
+  "dattilologiche": [
+    "datːilolɔdʒike"
+  ],
+  "dattilologici": [
+    "datːilolɔdʒitʃi"
+  ],
+  "dattilologico": [
+    "datːilolɔdʒiko"
+  ],
+  "dattiloscopica": [
+    "datːiloskɔpika"
+  ],
+  "dattiloscopiche": [
+    "datːiloskɔpike"
+  ],
+  "dattiloscopici": [
+    "datːiloskɔpitʃi"
+  ],
+  "dattiloscopico": [
+    "datːiloskɔpiko"
+  ],
+  "dattiloscrivere": [
+    "datːiloskrivere"
+  ],
+  "dava": [
+    "dava"
+  ],
+  "davamo": [
+    "davamo"
+  ],
+  "davano": [
+    "davano"
+  ],
+  "davante": [
+    "davante"
+  ],
+  "davanti": [
+    "davanti"
+  ],
+  "davanzale": [
+    "davantsale"
+  ],
+  "davate": [
+    "davate"
+  ],
+  "davi": [
+    "davi"
+  ],
+  "davide": [
+    "davide"
+  ],
+  "davo": [
+    "davo"
+  ],
+  "davvero": [
+    "davːero",
+    "davːɛrɔ"
+  ],
+  "dazi": [
+    "datːsi"
+  ],
+  "daziario": [
+    "datːsjarjo"
+  ],
+  "dazio": [
+    "datsjo",
+    "datːsjo"
+  ],
+  "dea": [
+    "dɛa"
+  ],
+  "deacidificare": [
+    "atʃidifikare"
+  ],
+  "deaerare": [
+    "deaerare"
+  ],
+  "deambulando": [
+    "deambulando"
+  ],
+  "deambulante": [
+    "deambulante"
+  ],
+  "deambulare": [
+    "deambulare"
+  ],
+  "deambulato": [
+    "deambulato"
+  ],
+  "deambulatori": [
+    "deambulatori"
+  ],
+  "deambulatorio": [
+    "deambulatorjo",
+    "deambulatɔrjo"
+  ],
+  "deambulazione": [
+    "deambulatːsjone"
+  ],
+  "deambulo": [
+    "deambulo"
+  ],
+  "deamicisiano": [
+    "deamitʃisjano",
+    "deamitʃizjano"
+  ],
+  "deandreiano": [
+    "deandrejano"
+  ],
+  "deattivare": [
+    "deatːivare"
+  ],
+  "deattivazione": [
+    "deatːivatsjone"
+  ],
+  "deattivazioni": [
+    "deatːivatsjoni"
+  ],
+  "debacle": [
+    "debakl"
+  ],
+  "debba": [
+    "debːa"
+  ],
+  "debbano": [
+    "debːano"
+  ],
+  "debbo": [
+    "debːo"
+  ],
+  "debbono": [
+    "debːono"
+  ],
+  "debellante": [
+    "debelːante"
+  ],
+  "debellare": [
+    "debelːare"
+  ],
+  "debellato": [
+    "debelːato"
+  ],
+  "debilità": [
+    "debilita"
+  ],
+  "debilitamento": [
+    "debilitamento"
+  ],
+  "debilitante": [
+    "debilitante"
+  ],
+  "debilitanti": [
+    "debilitanti"
+  ],
+  "debilitare": [
+    "debilitare",
+    "dɛbilitare"
+  ],
+  "debilitarsi": [
+    "debilitarsi"
+  ],
+  "debilitato": [
+    "debilitato"
+  ],
+  "debilitazione": [
+    "debilitatːsjone"
+  ],
+  "debita": [
+    "dɛbita"
+  ],
+  "debitamente": [
+    "debitamente"
+  ],
+  "debite": [
+    "dɛbite"
+  ],
+  "debiti": [
+    "dɛbiti"
+  ],
+  "debito": [
+    "debito",
+    "dɛbitɔ"
+  ],
+  "debitore": [
+    "debitore"
+  ],
+  "debitrice": [
+    "debitritʃe"
+  ],
+  "debole": [
+    "debole"
+  ],
+  "debolezza": [
+    "deboletːsa"
+  ],
+  "debolezze": [
+    "deboletːse"
+  ],
+  "deboli": [
+    "deboli"
+  ],
+  "debolissima": [
+    "debolisːima"
+  ],
+  "debolissime": [
+    "debolisːime"
+  ],
+  "debolissimi": [
+    "debolisːimi"
+  ],
+  "debolissimo": [
+    "debolisːimo"
+  ],
+  "debolmente": [
+    "debolmente"
+  ],
+  "debora": [
+    "dɛbora"
+  ],
+  "debordante": [
+    "debordante"
+  ],
+  "debordare": [
+    "debordare"
+  ],
+  "debosciato": [
+    "deboʃʃato"
+  ],
+  "debrecen": [
+    "dɛbrɛtsɛn"
+  ],
+  "debuccalizzazione": [
+    "debukːalidːzatːsjone"
+  ],
+  "debuttare": [
+    "debutːare"
+  ],
+  "debutto": [
+    "debutːo"
+  ],
+  "deca": [
+    "dɛka"
+  ],
+  "decadente": [
+    "dekadɛnte"
+  ],
+  "decadentismi": [
+    "dekadentizmi"
+  ],
+  "decadentismo": [
+    "dekadentizmo"
+  ],
+  "decadentistico": [
+    "dekadentistiko"
+  ],
+  "decadenza": [
+    "dekadɛntsa"
+  ],
+  "decadenze": [
+    "dekadɛntse"
+  ],
+  "decadere": [
+    "dekadere"
+  ],
+  "decadimento": [
+    "dekadimento"
+  ],
+  "decaduto": [
+    "dekaduto"
+  ],
+  "decaedro": [
+    "dekaɛdro"
+  ],
+  "decaffeinare": [
+    "dekafːejnare"
+  ],
+  "decaffeinato": [
+    "dekafːejnato"
+  ],
+  "decaffeinizzare": [
+    "dekafːejnidːzare"
+  ],
+  "decagono": [
+    "dekaɡono"
+  ],
+  "decagrammo": [
+    "dɛkaɡramːo"
+  ],
+  "decalcare": [
+    "dekalkare"
+  ],
+  "decalcificante": [
+    "dekaltʃifikante"
+  ],
+  "decalcificare": [
+    "dekaltʃifikare"
+  ],
+  "decalcificarsi": [
+    "ekaltʃifikarsi"
+  ],
+  "decalcificato": [
+    "dekaltʃifikato"
+  ],
+  "decalcificazione": [
+    "dekaltʃifikatsjone"
+  ],
+  "decalcificazioni": [
+    "dekaltʃifikatsjoni"
+  ],
+  "decalcomania": [
+    "dekalkomania"
+  ],
+  "decalitro": [
+    "dekalitro"
+  ],
+  "decalogo": [
+    "dekaloɡo"
+  ],
+  "decameron": [
+    "dekameron",
+    "dekamerɔn"
+  ],
+  "decamerone": [
+    "dekamerone"
+  ],
+  "decametro": [
+    "dekametro"
+  ],
+  "decampare": [
+    "dekampare"
+  ],
+  "decano": [
+    "dekano"
+  ],
+  "decanone": [
+    "dekanone"
+  ],
+  "decantare": [
+    "dekantare"
+  ],
+  "decantazione": [
+    "dekantatsjone",
+    "dekantatːsjone"
+  ],
+  "decanter": [
+    "dekanter"
+  ],
+  "decaossido": [
+    "dɛkaosɔsido"
+  ],
+  "decapaggi": [
+    "dekapadːʒi"
+  ],
+  "decapaggio": [
+    "dekapadːʒo"
+  ],
+  "decapare": [
+    "dekapare"
+  ],
+  "decapitare": [
+    "dekapitare"
+  ],
+  "decapitato": [
+    "dekapitato"
+  ],
+  "decapitazione": [
+    "dekapitatsjone",
+    "dekapitatːsione"
+  ],
+  "decapode": [
+    "dekapode"
+  ],
+  "decapodi": [
+    "dekapodi"
+  ],
+  "decapottabile": [
+    "dekapotːabile"
+  ],
+  "decapottabili": [
+    "dekapotːabili"
+  ],
+  "decappottabile": [
+    "dekapːotːabile"
+  ],
+  "decappottabili": [
+    "dekapːotːabili"
+  ],
+  "decappottare": [
+    "dekapotːare"
+  ],
+  "decarbonilazione": [
+    "dekarbonilatːsjone"
+  ],
+  "decarbonilazioni": [
+    "dekarbonilatːsjoni"
+  ],
+  "decarbossilare": [
+    "dekarbosːilare"
+  ],
+  "decarbossilazione": [
+    "dekarbosːilatsjone"
+  ],
+  "decarburare": [
+    "dekarburare"
+  ],
+  "decarchia": [
+    "dekarkia"
+  ],
+  "decasillabo": [
+    "dekasilːabo"
+  ],
+  "decathlon": [
+    "dɛkatlon"
+  ],
+  "decatissaggio": [
+    "dekatisːadːʒo"
+  ],
+  "decatizzare": [
+    "dekatidːzare"
+  ],
+  "decedente": [
+    "detʃɛdente"
+  ],
+  "decedere": [
+    "detʃɛdere"
+  ],
+  "deceduto": [
+    "detʃɛduto"
+  ],
+  "decelerare": [
+    "detʃelerare"
+  ],
+  "decelerato": [
+    "detʃelerato"
+  ],
+  "decelerazione": [
+    "detʃeleratːsjone"
+  ],
+  "decempeda": [
+    "detʃɛmpeda"
+  ],
+  "decenne": [
+    "detʃɛnːe"
+  ],
+  "decennio": [
+    "detʃɛnːjo"
+  ],
+  "decente": [
+    "detʃɛnte",
+    "dɛtʃɛnte"
+  ],
+  "decentemente": [
+    "detʃentemente"
+  ],
+  "decenti": [
+    "detʃɛnti"
+  ],
+  "decentralizzare": [
+    "detʃentralidːzare"
+  ],
+  "decentralizzato": [
+    "detʃentralidːzato"
+  ],
+  "decentralizzatore": [
+    "detʃentralidːzatore"
+  ],
+  "decentralizzatori": [
+    "detʃentralidːzatori"
+  ],
+  "decentralizzatrice": [
+    "detʃentralidːzatritʃi"
+  ],
+  "decentralizzatrici": [
+    "detʃentralidːzatritʃi"
+  ],
+  "decentramenti": [
+    "detʃentramenti"
+  ],
+  "decentramento": [
+    "detʃentramento"
+  ],
+  "decentrare": [
+    "detʃentrare"
+  ],
+  "decentrato": [
+    "detʃentrato"
+  ],
+  "decenza": [
+    "detʃɛntsa"
+  ],
+  "decerebrare": [
+    "detʃerebrare"
+  ],
+  "decerebrato": [
+    "detʃerebrato"
+  ],
+  "decespugliare": [
+    "detʃespuʎare"
+  ],
+  "decespugliatore": [
+    "detʃespuʎatore"
+  ],
+  "decespugliatori": [
+    "detʃespuʎatori"
+  ],
+  "decesso": [
+    "detʃɛsːo"
+  ],
+  "decettivo": [
+    "detʃetːivo"
+  ],
+  "decevole": [
+    "detʃevole"
+  ],
+  "decevolmente": [
+    "detʃevolmente"
+  ],
+  "decidente": [
+    "dɛtʃidente"
+  ],
+  "decidere": [
+    "detʃidere",
+    "dɛtʃidere"
+  ],
+  "decidersi": [
+    "detʃidersi",
+    "dɛtʃidersi"
+  ],
+  "deciduo": [
+    "detʃiduo"
+  ],
+  "decifrabile": [
+    "detʃifrabile"
+  ],
+  "decifrabili": [
+    "detʃifrabili"
+  ],
+  "decifrare": [
+    "detʃifrare"
+  ],
+  "decifrato": [
+    "detʃifrato"
+  ],
+  "decigrammo": [
+    "dɛtʃiɡramːo"
+  ],
+  "decilitro": [
+    "detʃilitro"
+  ],
+  "decima": [
+    "dɛtʃima"
+  ],
+  "decimale": [
+    "detʃimale"
+  ],
+  "decimali": [
+    "detʃimali"
+  ],
+  "decimalizzare": [
+    "detʃimalidːzare"
+  ],
+  "decimalizzazione": [
+    "detʃimalidːzatsjone"
+  ],
+  "decimalizzazioni": [
+    "detʃimalidːzatsjoni"
+  ],
+  "decimante": [
+    "detʃimante"
+  ],
+  "decimare": [
+    "detʃimare"
+  ],
+  "decimarsi": [
+    "detʃimarsi"
+  ],
+  "decimato": [
+    "detʃimato"
+  ],
+  "decimazione": [
+    "detʃimatsjone",
+    "detʃimatːsjone"
+  ],
+  "decimetro": [
+    "detʃimetro"
+  ],
+  "decimillesimo": [
+    "dɛtʃimilːɛzimo"
+  ],
+  "decimo": [
+    "dɛtʃimo"
+  ],
+  "decimoprimo": [
+    "detʃimoprimo"
+  ],
+  "decina": [
+    "detʃina"
+  ],
+  "decinormale": [
+    "detʃinormale"
+  ],
+  "decinormali": [
+    "detʃinormali"
+  ],
+  "decio": [
+    "dɛtʃo"
+  ],
+  "decisamente": [
+    "detʃizamente"
+  ],
+  "decisionale": [
+    "detʃizjonale"
+  ],
+  "decisione": [
+    "detʃizjone",
+    "dɛtʃizjɔne"
+  ],
+  "decisioni": [
+    "dɛtʃizjɔni"
+  ],
+  "decisionismo": [
+    "detʃizjonizmo"
+  ],
+  "decisiva": [
+    "detʃiziva"
+  ],
+  "decisivamente": [
+    "detʃizivamente"
+  ],
+  "decisivo": [
+    "detʃizivo"
+  ],
+  "deciso": [
+    "detʃizo",
+    "dɛtʃizo"
+  ],
+  "declamare": [
+    "deklamare"
+  ],
+  "declamato": [
+    "deklamato"
+  ],
+  "declamatorio": [
+    "deklamatɔrjo"
+  ],
+  "declamazione": [
+    "deklamatːsjone"
+  ],
+  "declaratoria": [
+    "deklaratɔrja"
+  ],
+  "declaratorio": [
+    "deklaratɔrjo"
+  ],
+  "declassare": [
+    "deklasːare"
+  ],
+  "declassato": [
+    "deklasːato"
+  ],
+  "declassificazione": [
+    "deklasːifikatsjone"
+  ],
+  "declinabile": [
+    "deklinabile"
+  ],
+  "declinabili": [
+    "deklinabili"
+  ],
+  "declinante": [
+    "deklinante"
+  ],
+  "declinanti": [
+    "deklinanti"
+  ],
+  "declinare": [
+    "deklinare"
+  ],
+  "declinato": [
+    "deklinato"
+  ],
+  "declinazione": [
+    "deklinatːsjone"
+  ],
+  "declino": [
+    "deklino"
+  ],
+  "declivi": [
+    "deklivi"
+  ],
+  "declivio": [
+    "deklivjo"
+  ],
+  "decoder": [
+    "dekɔder"
+  ],
+  "decodificare": [
+    "dekodifikare"
+  ],
+  "decodificato": [
+    "dekodifikato"
+  ],
+  "decodificatore": [
+    "dekodifikatore"
+  ],
+  "decollaggi": [
+    "dekolːadːʒi"
+  ],
+  "decollaggio": [
+    "dekolːadːʒo"
+  ],
+  "decollare": [
+    "dekolːare"
+  ],
+  "decollato": [
+    "dekolːato"
+  ],
+  "décolleté": [
+    "dekolte"
+  ],
+  "decolli": [
+    "dekɔlːi"
+  ],
+  "decollo": [
+    "dekɔlːo"
+  ],
+  "decolonizzare": [
+    "dekolonidːzare"
+  ],
+  "decolonizzata": [
+    "dekolonidːzata"
+  ],
+  "decolonizzate": [
+    "dekolonidːzata",
+    "dekolonidːzate"
+  ],
+  "decolonizzati": [
+    "dekolonidːzati"
+  ],
+  "decolonizzato": [
+    "dekolonidːzato"
+  ],
+  "decolonizzatore": [
+    "dekolonidːzatore"
+  ],
+  "decolonizzatori": [
+    "dekolonidːzatori"
+  ],
+  "decolonizzatrice": [
+    "dekolonidːzatritʃe"
+  ],
+  "decolonizzatrici": [
+    "dekolonidːzatritʃi"
+  ],
+  "decolonizzazione": [
+    "dekolonidːzatːsjone"
+  ],
+  "decolonizzazioni": [
+    "dekolonidːzatːsjoni"
+  ],
+  "decolorante": [
+    "dekolorante"
+  ],
+  "decoloranti": [
+    "dekoloranti"
+  ],
+  "decolorare": [
+    "dekolorare"
+  ],
+  "decolorarsi": [
+    "dekolorarsi"
+  ],
+  "decolorato": [
+    "dekolorato"
+  ],
+  "decolorazione": [
+    "dekoloratːsjone"
+  ],
+  "decolorazioni": [
+    "dekoloratːsjoni"
+  ],
+  "decompone": [
+    "dekompone"
+  ],
+  "decomponemmo": [
+    "dekomponemːo"
+  ],
+  "decomponendo": [
+    "dekomponendo"
+  ],
+  "decomponente": [
+    "dekomponente"
+  ],
+  "decomponesse": [
+    "dekomponesːe"
+  ],
+  "decomponessero": [
+    "dekomponesːero"
+  ],
+  "decomponessi": [
+    "dekomponesːi"
+  ],
+  "decomponessimo": [
+    "dekomponesːimo"
+  ],
+  "decomponeste": [
+    "dekomponːeste"
+  ],
+  "decomponesti": [
+    "dekomponesti"
+  ],
+  "decomponete": [
+    "dekomponete"
+  ],
+  "decomponeva": [
+    "dekomponeva"
+  ],
+  "decomponevamo": [
+    "dekomponevamo"
+  ],
+  "decomponevano": [
+    "dekomponevano"
+  ],
+  "decomponevate": [
+    "dekomponevate"
+  ],
+  "decomponevi": [
+    "dekomponevi"
+  ],
+  "decomponevo": [
+    "dekomponevo"
+  ],
+  "decomponga": [
+    "dekomponɡa"
+  ],
+  "decompongano": [
+    "dekomponɡano"
+  ],
+  "decompongo": [
+    "dekomponɡo"
+  ],
+  "decompongono": [
+    "dekomponɡono"
+  ],
+  "decomponi": [
+    "dekomponi"
+  ],
+  "decomponiamo": [
+    "dekomponjamo"
+  ],
+  "decomponiate": [
+    "dekomponjate"
+  ],
+  "decomponibile": [
+    "dekomponibile"
+  ],
+  "decomponibili": [
+    "dekomponibili"
+  ],
+  "decomporrà": [
+    "porːa"
+  ],
+  "decomporrai": [
+    "dekomporːai"
+  ],
+  "decomporranno": [
+    "dekomporːanːo"
+  ],
+  "decomporre": [
+    "dekomporːe"
+  ],
+  "decomporrebbe": [
+    "dekomporːebːe"
+  ],
+  "decomporrebbero": [
+    "dekomporːebːero"
+  ],
+  "decomporrei": [
+    "dekomporːei"
+  ],
+  "decomporremmo": [
+    "dekomporːemo"
+  ],
+  "decomporremo": [
+    "dekomporːemo"
+  ],
+  "decomporreste": [
+    "dekomporːeste"
+  ],
+  "decomporresti": [
+    "dekomporːesti"
+  ],
+  "decomporrete": [
+    "dekomporːete"
+  ],
+  "decomporrò": [
+    "dekomporːo"
+  ],
+  "decomporsi": [
+    "dekomporsi"
+  ],
+  "decompose": [
+    "dekompose"
+  ],
+  "decomposero": [
+    "dekomposero"
+  ],
+  "decomposi": [
+    "dekomposi"
+  ],
+  "decomposizione": [
+    "dekompozitːsjone"
+  ],
+  "decomposta": [
+    "dekomposta"
+  ],
+  "decomposte": [
+    "dekomposte"
+  ],
+  "decomposti": [
+    "dekomposti"
+  ],
+  "decomposto": [
+    "dekomposto"
+  ],
+  "decompressimetri": [
+    "dekompresːimɛtri"
+  ],
+  "decompressimetro": [
+    "dekompresːimɛtro"
+  ],
+  "decompressione": [
+    "dekompresːjone"
+  ],
+  "decompressioni": [
+    "dekompresːjoni"
+  ],
+  "decomprimere": [
+    "dekomprimere"
+  ],
+  "deconcentrare": [
+    "dekontʃentrare"
+  ],
+  "deconcentrato": [
+    "dekontʃentrato"
+  ],
+  "decondizionare": [
+    "dekonditːsjonare"
+  ],
+  "decongelare": [
+    "dekondʒelare"
+  ],
+  "decongelato": [
+    "dekondʒelato"
+  ],
+  "decongestionante": [
+    "dekondʒestjonante"
+  ],
+  "decongestionanti": [
+    "dekondʒestjonanti"
+  ],
+  "decongestionare": [
+    "dekondʒestjonare"
+  ],
+  "decongestionato": [
+    "dekondʒestjonato"
+  ],
+  "decontaminare": [
+    "dekontaminare"
+  ],
+  "decontaminato": [
+    "dekontaminato"
+  ],
+  "decontestualizzare": [
+    "dekontestualidːzare"
+  ],
+  "decontrae": [
+    "dekontrae"
+  ],
+  "decontraemmo": [
+    "dekontraemːo"
+  ],
+  "decontraendo": [
+    "dekontraendo"
+  ],
+  "decontraente": [
+    "dekontraente"
+  ],
+  "decontraesse": [
+    "dekontraesːe"
+  ],
+  "decontraessero": [
+    "dekontraesːero"
+  ],
+  "decontraessi": [
+    "dekontraesːi"
+  ],
+  "decontraessimo": [
+    "dekontraesːimo"
+  ],
+  "decontraeste": [
+    "dekontraeste"
+  ],
+  "decontraesti": [
+    "dekontraesti"
+  ],
+  "decontraete": [
+    "dekontraete"
+  ],
+  "decontraeva": [
+    "dekontraeva"
+  ],
+  "decontraevamo": [
+    "dekontraevamo"
+  ],
+  "decontraevano": [
+    "dekontraevano"
+  ],
+  "decontraevate": [
+    "dekontraevate"
+  ],
+  "decontraevi": [
+    "dekontraevi"
+  ],
+  "decontraevo": [
+    "dekontraevo"
+  ],
+  "decontragga": [
+    "dekontraɡːa"
+  ],
+  "decontraggano": [
+    "dekontraɡːano"
+  ],
+  "decontraggo": [
+    "dekontraɡːo"
+  ],
+  "decontraggono": [
+    "dekontraɡːono"
+  ],
+  "decontrai": [
+    "dekontrai"
+  ],
+  "decontraiamo": [
+    "dekontrajamo"
+  ],
+  "decontraiate": [
+    "dekontrajate"
+  ],
+  "decontrarrà": [
+    "dekontrarːa"
+  ],
+  "decontrarrai": [
+    "dekontrarːai"
+  ],
+  "decontrarranno": [
+    "dekontrarːanːo"
+  ],
+  "decontrarre": [
+    "dekontrarːe"
+  ],
+  "decontrarrebbe": [
+    "dekontrarːebːe"
+  ],
+  "decontrarrebbero": [
+    "dekontrarːebːero"
+  ],
+  "decontrarrei": [
+    "dekontrarːei"
+  ],
+  "decontrarremmo": [
+    "dekontrarːemo"
+  ],
+  "decontrarremo": [
+    "dekontrarːemo"
+  ],
+  "decontrarreste": [
+    "dekontrarːeste"
+  ],
+  "decontrarresti": [
+    "dekontrarːesti"
+  ],
+  "decontrarrete": [
+    "dekontrarːete"
+  ],
+  "decontrarrò": [
+    "dekontrarːo"
+  ],
+  "decontrarsi": [
+    "dekontrarsi"
+  ],
+  "decontrasse": [
+    "dekontrasːe"
+  ],
+  "decontrassero": [
+    "dekontrasːero"
+  ],
+  "decontrassi": [
+    "dekontrasːi"
+  ],
+  "decontratta": [
+    "dekontratːa"
+  ],
+  "decontratte": [
+    "dekontratːe"
+  ],
+  "decontratti": [
+    "dekontratːi"
+  ],
+  "decontratto": [
+    "dekontratːo"
+  ],
+  "decontrazione": [
+    "dekontratːsjone"
+  ],
+  "decontrazioni": [
+    "dekontratːsjoni"
+  ],
+  "decorando": [
+    "dekorando"
+  ],
+  "decorare": [
+    "dekorare"
+  ],
+  "decorativa": [
+    "dekorativa"
+  ],
+  "decorativo": [
+    "dekorativo"
+  ],
+  "decorato": [
+    "dekorato"
+  ],
+  "decoratore": [
+    "dekoratore"
+  ],
+  "decoratori": [
+    "dekoratori"
+  ],
+  "decoratrice": [
+    "dekoratritʃe"
+  ],
+  "decoratrici": [
+    "dekoratritʃi"
+  ],
+  "decorazione": [
+    "dekoratːsjone"
+  ],
+  "decoro": [
+    "dekɔro"
+  ],
+  "decorosamente": [
+    "dekorosamente"
+  ],
+  "decoroso": [
+    "dekoroso",
+    "dekorozo"
+  ],
+  "decorrere": [
+    "dekorːere"
+  ],
+  "decorso": [
+    "dekorso"
+  ],
+  "decorticando": [
+    "dekortikando"
+  ],
+  "decorticante": [
+    "dekortikante"
+  ],
+  "decorticare": [
+    "dekortikare"
+  ],
+  "decorticato": [
+    "dekortikato"
+  ],
+  "decotto": [
+    "dekɔtːo"
+  ],
+  "decozione": [
+    "dekotːsjone"
+  ],
+  "decremento": [
+    "dekremento"
+  ],
+  "decrepità": [
+    "dekrepita"
+  ],
+  "decrepito": [
+    "dekrɛpito",
+    "dɛkrɛpitɔ"
+  ],
+  "decrescente": [
+    "dekreʃʃɛnte"
+  ],
+  "decrescenza": [
+    "dekreʃʃɛntsa"
+  ],
+  "decrescere": [
+    "dekreʃʃere"
+  ],
+  "decrescita": [
+    "dekreʃʃita"
+  ],
+  "decrescite": [
+    "dekreʃʃite"
+  ],
+  "decretalista": [
+    "dekretalista"
+  ],
+  "decretaliste": [
+    "dekretaliste"
+  ],
+  "decretalisti": [
+    "dekretalisti"
+  ],
+  "decreti": [
+    "dekreti",
+    "dekrɛti"
+  ],
+  "decreto": [
+    "dekreto",
+    "dekrɛto"
+  ],
+  "decriminalizzante": [
+    "dekriminalidːʒante"
+  ],
+  "decriminalizzare": [
+    "dekriminalidːzare",
+    "dekriminalidːʒare"
+  ],
+  "decriminalizzato": [
+    "dekriminalidːʒato"
+  ],
+  "decriminalizzazione": [
+    "dekriminalidːzatsjone"
+  ],
+  "decriminalizzazioni": [
+    "dekriminalidːʒatsjoni"
+  ],
+  "decriptare": [
+    "dekriptare"
+  ],
+  "decrittare": [
+    "dekritːare"
+  ],
+  "decrittato": [
+    "dekritːato"
+  ],
+  "decubiti": [
+    "dekubiti"
+  ],
+  "decubito": [
+    "dekubito"
+  ],
+  "decumani": [
+    "dekumani"
+  ],
+  "decumano": [
+    "dekumano"
+  ],
+  "decuocere": [
+    "dekwɔtʃere"
+  ],
+  "decuplicare": [
+    "dekuplikare"
+  ],
+  "decuplicato": [
+    "dekuplikato"
+  ],
+  "decuplo": [
+    "dɛkuplo"
+  ],
+  "decuria": [
+    "dekurja"
+  ],
+  "dedalo": [
+    "dɛdalo"
+  ],
+  "dedica": [
+    "dɛdika"
+  ],
+  "dedicare": [
+    "dedikare"
+  ],
+  "dedicarsi": [
+    "dedikarsi"
+  ],
+  "dedicato": [
+    "dedikato"
+  ],
+  "dedita": [
+    "dɛdita"
+  ],
+  "dedite": [
+    "dɛdite"
+  ],
+  "dediti": [
+    "dɛditi"
+  ],
+  "dedito": [
+    "dɛdito"
+  ],
+  "dedizione": [
+    "deditːsjone"
+  ],
+  "dedizioni": [
+    "deditːsjoni"
+  ]
 }

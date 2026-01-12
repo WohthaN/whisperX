@@ -1,502 +1,1535 @@
 {
-  "rendimenti": ["r e n d i m e n t i"],
-  "rendimento": ["r e n d i m e n t o"],
-  "rendita": ["r ɛ n d i t a"],
-  "rene": ["r ɛ n e"],
-  "renella": ["r e n ɛ lː a"],
-  "renello": ["r e n ɛ lː o"],
-  "renetta": ["r e n e tː a"],
-  "reniforme": ["r e n i f o r m e"],
-  "renio": ["r ɛ n j o"],
-  "renitente": ["r e n i t ɛ n t e"],
-  "renitenti": ["r e n i t ɛ n t i"],
-  "renna": ["r ɛ nː a"],
-  "renne": ["r ɛ nː e"],
-  "reno": ["r ɛ n o"],
-  "renzi": ["r ɛ n t s i"],
-  "renziano": ["r e n t s j a n o"],
-  "reo": ["r ɛ o"],
-  "reorniti": ["r e o r n i t i"],
-  "reparti": ["r e p a r t i"],
-  "reparto": ["r e p a r t o"],
-  "repellente": ["r e p e lː ɛ n t e"],
-  "repellenti": ["r e p e lː ɛ n t i"],
-  "repellere": ["r e p ɛ lː e r e"],
-  "repentaglio": ["r e p e n t a ʎ o"],
-  "repentina": ["r e p e n t i n a"],
-  "repentine": ["r e p e n t i n e"],
-  "repentini": ["r e p e n t i n i"],
-  "repentino": ["r e p e n t i n o"],
-  "reperibile": ["r e p e r i b i l e"],
-  "reperire": ["r e p e r i r e"],
-  "reperto": ["r e p ɛ r t o"],
-  "repertorio": ["r e p e r t ɔ r j o"],
-  "replay": ["r e p l e i", "r e p l ɛ i", "r e p l ɛ j", "r i p l e i", "r i p l ɛ i"],
-  "replica": ["r ɛ p l i k a"],
-  "replicabile": ["r e p l i k a b i l e"],
-  "replicabili": ["r e p l i k a b i l i"],
-  "replicante": ["r e p l i k a n t e"],
-  "replicare": ["r e p l i k a r e", "r ɛ p l i k a r e"],
-  "replicata": ["r e p l i k a t a"],
-  "replicate": ["r e p l i k a t e"],
-  "replicati": ["r e p l i k a t i"],
-  "replicato": ["r e p l i k a t o"],
-  "replicazione": ["r e p l i k a t s j o n e"],
-  "replicazioni": ["r e p l i k a t s j o n i"],
-  "repliche": ["r ɛ p l i k e"],
-  "reporter": ["r e p ɔ r t e r"],
-  "repressa": ["r e p r e sː a"],
-  "represse": ["r e p r e sː e"],
-  "repressi": ["r e p r e sː i"],
-  "repressione": ["r e p r e sː j o n e"],
-  "repressioni": ["r e p r e sː j o n i"],
-  "repressivamente": ["r e p r e sː i v a m e n t e"],
-  "represso": ["r e p r ɛ sː o"],
-  "repressore": ["r e p r e sː o r e"],
-  "reprimenda": ["r e p r i m ɛ n d a"],
-  "reprimere": ["r e p r i m e r e"],
-  "reprimibile": ["r e p r i m i b i l e"],
-  "reprimibili": ["r e p r i m i b i l i"],
-  "repubblica": ["r e p u bː l i k a"],
-  "repubblicano": ["r e p u bː l i k a n o"],
-  "repubbliche": ["r e p u bː l i k e"],
-  "repubblichino": ["r e p u bː l i k i n o"],
-  "republica": ["r e p u b l i k a"],
-  "repugnanza": ["r e p u n ɲ a n t s a"],
-  "repugnanze": ["r e p u n ɲ a n t s e"],
-  "repugnare": ["r e p u ɲ ɲ a r e"],
-  "repulisti": ["r e p u l i s t i"],
-  "repulsa": ["r e p u l s a"],
-  "repulsione": ["r e p u l s j o n e"],
-  "repulsioni": ["r e p u l s j o n i"],
-  "repulsiva": ["r e p u l s i v a"],
-  "repulsivamente": ["r e p u l s i v a m e n t e"],
-  "repulsive": ["r e p u l s i v e"],
-  "repulsivi": ["r e p u l s i v i"],
-  "repulsivo": ["r e p u l s i v o"],
-  "repulso": ["r e p u l s o"],
-  "reputa": ["r e p u t a"],
-  "reputai": ["r e p u t a j"],
-  "reputando": ["r e p u t a n d o"],
-  "reputare": ["r e p u t a r e"],
-  "reputasse": ["r e p u t a sː e"],
-  "reputaste": ["r e p u t a s t e"],
-  "reputava": ["r e p u t a v a"],
-  "reputazionale": ["r e p u t a t s j o n a l e"],
-  "reputazionali": ["r e p u t a t s j o n a l i"],
-  "reputazione": ["r e p u t a t s j o n e"],
-  "reputazioni": ["r e p u t a t s j o n e"],
-  "reputo": ["r e p u t o"],
-  "requiare": ["r e k w j a r e"],
-  "requie": ["r ɛ k w j e"],
-  "requiem": ["r ɛ k w j e m"],
-  "requisire": ["r e k w i z i r e"],
-  "requisiti": ["r e k w i z i t i"],
-  "requisito": ["r e k u i z i t o", "r e k w i z i t o"],
-  "requisitoria": ["r e k w i z i t ɔ r j a"],
-  "requisizione": ["r e k w i z i tː s j o n e"],
-  "resa": ["r e z a"],
-  "rescindente": ["r e ʃ ʃ i n d ɛ n t e"],
-  "rese": ["r e z e"],
-  "reseda": ["r e z ɛ d a"],
-  "resettare": ["r e s e tː a r e", "r e z e tː a r e"],
-  "resezione": ["r e s e t s j o n e"],
-  "resezioni": ["r e s e t s j o n i"],
-  "residence": ["r ɛ z i d e n s"],
-  "residente": ["r e s i d ɛ n t e", "r e z i d ɛ n t e"],
-  "residenza": ["r e s i d ɛ n t s a", "r e z i d ɛ n t s a"],
-  "residenze": ["r e s i d ɛ n t s e"],
-  "residenziale": ["r e s i d e n t s j a l e"],
-  "residenziali": ["r e s i d e n t s j a l i"],
-  "residuo": ["r e z i d w o"],
-  "resilienza": ["r e s i l j ɛ n t s a"],
-  "resilienze": ["r e s i l j ɛ n t s e"],
-  "resina": ["r e z i n a", "r ɛ z i n a"],
-  "resinificare": ["r e z i n i f i k a r e"],
-  "resinoso": ["r e z i n o s o"],
-  "resipiscenza": ["r e s i p i ʃ ɛ n t s a"],
-  "resistente": ["r e s i s t ɛ n t e", "r e z i s t ɛ n t e"],
-  "resistenti": ["r e z i s t ɛ n t i"],
-  "resistentissima": ["r e z i s t ɛ n t i sː i m a"],
-  "resistentissime": ["r e z i s t ɛ n t i sː i m e"],
-  "resistentissimi": ["r e z i s t ɛ n t i sː i m i"],
-  "resistentissimo": ["r e z i s t ɛ n t i sː i m o"],
-  "resistenza": ["r e s i s t ɛ n t s a", "r e z i s t ɛ n t s a"],
-  "resistenze": ["r e z i s t ɛ n t s e"],
-  "resistere": ["r e s i s t e r e", "r e z i s t e r e"],
-  "resistito": ["r e s i s t i t o"],
-  "resistività": ["r e s i s t i v i t a"],
-  "resistore": ["r e s i s t o r e"],
-  "reso": ["r e s o", "r e z o", "r ɛ z o"],
-  "resoconto": ["r e s o k o n t o", "r e z o k o n t o"],
-  "resort": ["r i s o r t"],
-  "respingente": ["r e s p i n d ʒ ɛ n t e"],
-  "respingenti": ["r e s p i n d ʒ ɛ n t i"],
-  "respingere": ["r e s p i n d ʒ e r e", "r e s p i ɲ d ʒ e r e", "r ɛ s p i n d ʒ ɛ r e"],
-  "respinto": ["r e s p i n t o"],
-  "respirabile": ["r e s p i r a b i l e"],
-  "respirabili": ["r e s p i r a b i l i"],
-  "respirabilità": ["r ɛ s p i r a b i l i t a"],
-  "respirante": ["r ɛ s p i r a n t e"],
-  "respiranti": ["r ɛ s p i r a n t i"],
-  "respirare": ["r e s p i r a r e", "r ɛ s p i r a r e"],
-  "respirato": ["r ɛ s p i r a t o"],
-  "respiratore": ["r e s p i r a t o r e"],
-  "respiratori": ["r e s p i r a t o r i", "r e s p i r a t ɔ r i"],
-  "respiratoria": ["r e s p i r a t ɔ r j a"],
-  "respiratorie": ["r e s p i r a t ɔ r j e"],
-  "respiratorio": ["r e s p i r a t ɔ r j o"],
-  "respirazione": ["r e s p i r a t s j o n e", "r ɛ s p i r a t s j ɔ n e"],
-  "respiro": ["r e s p i r o"],
-  "responsabile": ["r e s p o n s a b i l e"],
-  "responsabili": ["r e s p o n s a b i l i"],
-  "responsabilità": ["r e s p o n s a b i l i t a"],
-  "responsabilizzare": ["r e s p o n s a b i l i dː z a r e"],
-  "responsabilizzazione": ["r e s p o n s a b i l i dː z a tː s j o n e"],
-  "responsabilmente": ["r e s p o n s a b i l m e n t e"],
-  "responsivo": ["r e s p o n s i v o"],
-  "responso": ["r e s p ɔ n s o"],
-  "ressa": ["r e sː a", "r ɛ sː a"],
-  "resta": ["r ɛ s t a"],
-  "restabue": ["r e s t a b u e"],
-  "restante": ["r e s t a n t e"],
-  "restanti": ["r e s t a n t i"],
-  "restare": ["r e s t a r e", "r ɛ s t a r e"],
-  "restaurabile": ["r e s t a w r a b i l e"],
-  "restaurabili": ["r e s t a w r a b i l i"],
-  "restaurare": ["r e s t a w r a r e"],
-  "restaurata": ["r e s t a w r a t a"],
-  "restaurate": ["r e s t a w r a t e"],
-  "restaurati": ["r e s t a w r a t i"],
-  "restaurato": ["r e s t a w r a t o"],
-  "restaurazione": ["r e s t a w r a tː s j o n e"],
-  "restauro": ["r e s t a u r o"],
-  "restia": ["r e s t i a"],
-  "restio": ["r e s t i o"],
-  "restituibile": ["r e s t i t u i b i l e"],
-  "restituire": ["r e s t i t u i r e"],
-  "restituita": ["r e s t i t u i t a"],
-  "restituite": ["r e s t i t u i t e"],
-  "restituiti": ["r e s t i t u i t i"],
-  "restituito": ["r e s t i t u i t o"],
-  "restituzione": ["r e s t i t u t s j o n e"],
-  "restituzioni": ["r e s t i t u t s j o n i"],
-  "resto": ["r ɛ s t o"],
-  "restringere": ["r e s t r i n d ʒ e r e", "r ɛ s t r i n d ʒ ɛ r e"],
-  "restringimento": ["r e s t r i ɲ d ʒ i m e n t o"],
-  "restrittivamente": ["r e s t r i tː i v a m e n t e"],
-  "restrittivo": ["r e s t r i tː i v o"],
-  "restrizione": ["r e s t r i t s j o n e"],
-  "restrizioni": ["r e s t r i tː s j o n i"],
-  "resurgere": ["r e s u r d ʒ e r e"],
-  "resurrezione": ["r e z u rː e t s j o n e"],
-  "resuscitare": ["r e s u ʃ ʃ i t a r e"],
-  "retaggio": ["r e t a dː ʒ o"],
-  "retata": ["r e t a t a"],
-  "rete": ["r e t e", "r ɛ t e"],
-  "retentire": ["r e t e n t i r e"],
-  "reti": ["r ɛ t i"],
-  "reticella": ["r e t i t ʃ ɛ lː a"],
-  "reticente": ["r e t i t ʃ ɛ n t e"],
-  "reticenti": ["r e t i t ʃ ɛ n t i"],
-  "reticenza": ["r e t i t ʃ e n t s a", "r e t i t ʃ ɛ n t s a"],
-  "reticenze": ["r e t i t ʃ e n t s e"],
-  "reticola": ["r e t i k o l a"],
-  "reticolare": ["r e t i k o l a r e"],
-  "reticolato": ["r e t i k o l a t o"],
-  "reticolazione": ["r e t i k o l a t s j o n e"],
-  "reticolazioni": ["r e t i k o l a t s j o n i"],
-  "reticole": ["r e t i k o l e"],
-  "reticoli": ["r e t i k o l i"],
-  "reticolo": ["r e t i k o l o"],
-  "retina": ["r e t i n a", "r ɛ t i n a"],
-  "retinando": ["r e t i n a n d o"],
-  "retinante": ["r e t i n a n t e"],
-  "retinasfalto": ["r e t i n a s f a l t o"],
-  "retinata": ["r e t i n a t a"],
-  "retinate": ["r e t i n a t e"],
-  "retinati": ["r e t i n a t i"],
-  "retinato": ["r e t i n a t o"],
-  "retine": ["r e t i n e"],
-  "retini": ["r e t i n i"],
-  "retinica": ["r e t i n i k a"],
-  "retiniche": ["r e t i n i k e"],
-  "retinici": ["r e t i n i t ʃ i"],
-  "retinico": ["r e t i n i k o"],
-  "retinite": ["r e t i n i t e"],
-  "retiniti": ["r e t i n i t i"],
-  "retino": ["r e t i n o"],
-  "retinoblastoma": ["r e t i n o b l a s t ɔ m a"],
-  "retinoblastomi": ["r e t i n o b l a s t ɔ m i"],
-  "retinopatia": ["r e t i n o p a t i a"],
-  "retinopatie": ["r e t i n o p a t i e"],
-  "retinoscopi": ["r e t i n o s k ɔ p i"],
-  "retinoscopia": ["r e t i n o s k ɔ p j a"],
-  "retinoscopie": ["r e t i n o s k ɔ p j e"],
-  "retinoscopio": ["r e t i n o s k ɔ p j o"],
-  "retore": ["r ɛ t o r e"],
-  "retorica": ["r e t ɔ r i k a"],
-  "retoriche": ["r e t ɔ r i k e"],
-  "retorici": ["r e t ɔ r i t ʃ i"],
-  "retorico": ["r e t ɔ r i k o"],
-  "retrae": ["r e t r a e"],
-  "retraemmo": ["r e t r a e mː o"],
-  "retraendo": ["r e t r a e n d o"],
-  "retraente": ["r e t r a e n t e"],
-  "retraesse": ["r e t r a e sː e"],
-  "retraessero": ["r e t r a e sː e r o"],
-  "retraessi": ["r e t r a e sː i"],
-  "retraessimo": ["r e t r a e sː i m o"],
-  "retraeste": ["r e t r a e s t e"],
-  "retraesti": ["r e t r a e s t i"],
-  "retraete": ["r e t r a e t e"],
-  "retraeva": ["r e t r a e v a"],
-  "retraevamo": ["r e t r a e v a m o"],
-  "retraevano": ["r e t r a e v a n o"],
-  "retraevate": ["r e t r a e v a t e"],
-  "retraevi": ["r e t r a e v i"],
-  "retraevo": ["r e t r a e v o"],
-  "retragga": ["r e t r a ɡː a"],
-  "retraggano": ["r e t r a ɡː a n o"],
-  "retraggo": ["r e t r a ɡː o"],
-  "retraggono": ["r e t r a ɡː o n o"],
-  "retrai": ["r e t r a i"],
-  "retraiamo": ["r e t r a j a m o"],
-  "retraiate": ["r e t r a j a t e"],
-  "retrarrà": ["r e t r a rː a"],
-  "retrarrai": ["r e t r a rː a i"],
-  "retrarranno": ["r e t r a rː a nː o"],
-  "retrarre": ["r e t r a rː e"],
-  "retrarrebbe": ["r e t r a rː e bː e"],
-  "retrarrebbero": ["r e t r a rː e bː e r o"],
-  "retrarrei": ["r e t r a rː e i"],
-  "retrarremmo": ["r e t r a rː e m o"],
-  "retrarremo": ["r e t r a rː e m o"],
-  "retrarreste": ["r e t r a rː e s t e"],
-  "retrarresti": ["r e t r a rː e s t i"],
-  "retrarrete": ["r e t r a rː e t e"],
-  "retrarrò": ["r e t r a rː o"],
-  "retrasse": ["r e t r a sː e"],
-  "retrassero": ["r e t r a sː e r o"],
-  "retrassi": ["r e t r a sː i"],
-  "retratta": ["r e t r a tː a"],
-  "retratte": ["r e t r a tː e"],
-  "retratti": ["r e t r a tː i"],
-  "retrattile": ["r e t r a tː i l e"],
-  "retratto": ["r e t r a tː o"],
-  "retribuito": ["r e t r i b u i t o"],
-  "retribuzione": ["r e t r i b u tː s j o n e"],
-  "retriever": ["r e t r i v e r"],
-  "retriva": ["r e t r i v a"],
-  "retrive": ["r e t r i v e"],
-  "retrivi": ["r e t r i v a"],
-  "retrivo": ["r e t r i v o"],
-  "retroabside": ["r e t r o a b s i d e"],
-  "retroagente": ["r e t r o a d ʒ e n t e"],
-  "retroagire": ["r e t r o a d ʒ i r e"],
-  "retroagito": ["r e t r o a d ʒ i t o"],
-  "retroattiva": ["r e t r o a tː i v a"],
-  "retroattive": ["r e t r o a tː i v e"],
-  "retroattivi": ["r e t r o a tː i v i"],
-  "retroattività": ["r e t r o a tː i v i t a"],
-  "retroattivo": ["r e t r o a tː i v o"],
-  "retrobottega": ["r e t r o b o tː e ɡ a"],
-  "retrocedente": ["r e t r o t ʃ ɛ d e n t e"],
-  "retrocedere": ["r e t r o t ʃ ɛ d e r e"],
-  "retrocessione": ["r e t r o t ʃ e sː j o n e"],
-  "retrocesso": ["r e t r o t ʃ ɛ sː o"],
-  "retrocompatibile": ["r e t r o k o m p a t i b i l e"],
-  "retrocompatibili": ["r e t r o k o m p a t i b i l i"],
-  "retrocompatibilità": ["r e t r o k o m p a t i b i l i t a"],
-  "retrodatare": ["r e t r o d a t a r e"],
-  "retrodatazione": ["r e t r o d a t a tː s j o n e"],
-  "retrofeudo": ["r e t r o f ɛ w d o"],
-  "retroflesso": ["r e t r o f l ɛ sː o"],
-  "retroformazione": ["r ɛ t r o f o r m a tː s j o n e"],
-  "retrofrontespizio": ["r e t r o f r o n t e s p i tː s j o"],
-  "retrofuturista": ["r e t r o f u t u r i s t a"],
-  "retrofuturiste": ["r e t r o f u t u r i s t e"],
-  "retrofuturisti": ["r e t r o f u t u r i s t i"],
-  "retrogrado": ["r e t r ɔ ɡ r a d o"],
-  "retroguardia": ["r e t r o ɡ w a r d j a"],
-  "retroguardie": ["r e t r o ɡ w a r d j e"],
-  "retrogusto": ["r e t r o ɡ u s t o"],
-  "retromarce": ["r e t r o m a r t ʃ e"],
-  "retromarcia": ["r e t r o m a r t ʃ a"],
-  "retropalco": ["r e t r o p a l k o"],
-  "retroproiezione": ["r e t r o p r o j e t s j o n e"],
-  "retroproiezioni": ["r e t r o p r o j e t s j o n i"],
-  "retrorazzo": ["r ɛ t r o r a dː z o"],
-  "retroscena": ["r e t r o ʃ ʃ ɛ n a"],
-  "retrospettiva": ["r e t r o s p e tː i v a"],
-  "retrostante": ["r e t r o s t a n t e"],
-  "retroterra": ["e t r o t ɛ rː a"],
-  "retrotreno": ["r e t r o t r ɛ n o"],
-  "retroversione": ["r e t r o v e r s j o n e"],
-  "retrovisivo": ["r e t r o v i z i v o"],
-  "retta": ["r ɛ tː a"],
-  "rettale": ["r e tː a l e"],
-  "rettali": ["r e tː a l i"],
-  "rettamente": ["r e tː a m e n t e"],
-  "rettangolare": ["r e tː a n ɡ o l a r e", "r e tː a ɲ ɡ o l a r e"],
-  "rettangolino": ["r e tː a n ɡ o l i n o"],
-  "rettangolo": ["r e tː a n ɡ o l o", "r e tː a ɲ ɡ o l o"],
-  "rette": ["r ɛ tː e"],
-  "retti": ["r ɛ tː i"],
-  "rettifica": ["r e tː i f i k a"],
-  "rettificabile": ["r e tː i f i k a b i l e"],
-  "rettificabili": ["r e tː i f i k a b i l i"],
-  "rettificare": ["r e tː i f i k a r e"],
-  "rettificato": ["r e tː i f i k a t o"],
-  "rettificazione": ["r e tː i f i k a tː s j o n e"],
-  "rettificazioni": ["r e tː i f i k a tː s j o n i"],
-  "rettifilo": ["r e tː i f i l o"],
-  "rettile": ["r ɛ tː i l e"],
-  "rettili": ["r ɛ tː i l i"],
-  "rettilineo": ["r e tː i l i n e o"],
-  "rettitudine": ["r e tː i t u d i n e"],
-  "rettitudini": ["r e tː i t u d i n i"],
-  "retto": ["r ɛ tː o"],
-  "rettocolite": ["r ɛ tː o k o l i t e"],
-  "rettorale": ["r e tː o r a l e"],
-  "rettorali": ["r e tː o r a l i"],
-  "rettorati": ["r e tː o r a t i"],
-  "rettorato": ["r e tː o r a t o"],
-  "rettore": ["r e tː o r e"],
-  "rettoressa": ["r e tː o r e sː a"],
-  "rettori": ["r e tː o r i"],
-  "rettoria": ["r e tː o r i a"],
-  "rettorie": ["r e tː o r i e"],
-  "rettovescicale": ["r e tː o v e ʃ i k a l e", "r e tː o v e ʃ ʃ i k a l e", "r ɛ tː o v e ʃ ʃ i k a l e"],
-  "rettrice": ["r e tː r i t ʃ e"],
-  "rettrici": ["r e tː r i t ʃ i"],
-  "reuccio": ["r e u tː ʃ o"],
-  "reuma": ["r ɛ w m a"],
-  "reumatismo": ["r e u m a t i z m o"],
-  "reumatoide": ["r e w m a t ɔ j d e"],
-  "reumatologia": ["r e w m a t o l o d ʒ i a"],
-  "revanscismo": ["r e v a n ʃ i z m o"],
-  "reverendo": ["r e v e r ɛ n d o"],
-  "reverente": ["r e v e r ɛ n t e"],
-  "reverentemente": ["r e v e r e n t e m e n t e"],
-  "reversibile": ["r e v e r s i b i l e"],
-  "reversibili": ["r e v e r s i b i l e"],
-  "reversibilità": ["r e v e r s i b i l i t a"],
-  "reversibilmente": ["r e v e r s i b i l m e n t e"],
-  "revisionato": ["r e v i z j o n a t o"],
-  "revisione": ["r e v i z j o n e"],
-  "revisionismi": ["r e v i z j o n i z m i"],
-  "revisionismo": ["r e v i z j o n i z m o"],
-  "revisionista": ["r e v i z j o n i s t a"],
-  "revisioniste": ["r e v i z j o n i s t e"],
-  "revisionisti": ["r e v i z j o n i s t i"],
-  "revisore": ["r e v i z o r e"],
-  "revival": ["r e v a j v a l"],
-  "revivalista": ["r e v i v a l i s t"],
-  "revivaliste": ["r e v i v a l i s t e"],
-  "revivalisti": ["r e v i v a l i s t i"],
-  "revoca": ["r ɛ v o k a"],
-  "revocabile": ["r e v o k a b i l e"],
-  "revocabili": ["r e v o k a b i l i"],
-  "revocare": ["r e v o k a r e"],
-  "revocato": ["r e v o k a t o"],
-  "revoche": ["r ɛ v o k e"],
-  "rh": ["e rː e a kː a"],
-  "rho": ["r ɔ"],
-  "rhodesia": ["r o d ɛ z j a"],
-  "rhodesiana": ["r o d e z j a n a"],
-  "rhodesiane": ["r o d e z j a n e"],
-  "rhodesiani": ["r o d e z j a n i"],
-  "rhodesiano": ["r o d e z j a n o"],
-  "rhum": ["r u m"],
-  "riabbandonare": ["r i a bː a n d o n a r e"],
-  "riabbocca": ["r i a bː o kː a"],
-  "riabboccai": ["r i a bː o kː a i"],
-  "riabboccammo": ["r i a bː o kː a mː o"],
-  "riabboccando": ["r i a bː o kː a n d o"],
-  "riabboccano": ["r i a bː o kː a n o"],
-  "riabboccante": ["r i a bː o kː a n t e"],
-  "riabboccarono": ["r i a bː o kː a r o n o"],
-  "riabboccasse": ["r i a bː o kː a sː e"],
-  "riabboccassero": ["r i a bː o kː a sː e r o"],
-  "riabboccassi": ["r i a bː o kː a sː i"],
-  "riabboccassimo": ["r i a bː o kː a sː i m o"],
-  "riabboccaste": ["r i a bː o kː a s t e"],
-  "riabboccasti": ["r i a bː o kː a s t i"],
-  "riabboccata": ["r i a bː o kː a t a"],
-  "riabboccate": ["r i a bː o kː a t e"],
-  "riabboccati": ["r i a bː o kː a t i"],
-  "riabboccato": ["r i a bː o kː a t o"],
-  "riabboccava": ["r i a bː o kː a v a"],
-  "riabboccavamo": ["r i a bː o kː a v a m o"],
-  "riabboccavano": ["r i a bː o kː a v a n o"],
-  "riabboccavate": ["r i a bː o kː a v a t e"],
-  "riabboccavi": ["r i a bː o kː a v i"],
-  "riabboccavo": ["r i a bː o kː a v o"],
-  "riabboccherà": ["r i a bː o kː e r a"],
-  "riabboccherai": ["r i a bː o kː e r a i"],
-  "riabboccheranno": ["r i a bː o kː e r a nː o"],
-  "riabboccherebbe": ["r i a bː o kː e r e bː e"],
-  "riabboccherebbero": ["r i a bː o kː e r e bː e r o"],
-  "riabboccherei": ["r i a bː o kː e r e i"],
-  "riabboccheremmo": ["r i a bː o kː e r e mː o"],
-  "riabboccheremo": ["r i a bː o kː e r e m o"],
-  "riabbocchereste": ["r i a bː o kː e r e s t e"],
-  "riabboccheresti": ["r i a bː o kː e r e s t i"],
-  "riabboccherete": ["r i a bː o kː e r e t e"],
-  "riabboccherò": ["r i a bː o kː e r o"],
-  "riabbocchi": ["r i a bː o kː i"],
-  "riabbocchiamo": ["r i a bː o kː j a m o"],
-  "riabbocchiate": ["r i a bː o kː j a t e"],
-  "riabbocchino": ["r i a bː o kː i n o"],
-  "riabbocco": ["r i a bː o kː o"],
-  "riabboccò": ["r i a bː o kː o"],
-  "riabilitante": ["r i a b i l i t a n t e"],
-  "riabilitare": ["r i a b i l i t a r e", "r j a b i l i t a r e"],
-  "riabilitato": ["r i a b i l i t a t o"],
-  "riabilitazione": ["r i a b i l i t a tː s j o n e", "r j a b i l i t a t s j o n e"],
-  "riabilitazioni": ["r j a b i l i t a t s j o n i"],
-  "riaccadere": ["r j a kː a d e r e"],
-  "riaccasa": ["r i a kː a s a"],
-  "riaccasai": ["r i a kː a s a i"],
-  "riaccasammo": ["r i a kː a s a mː o"],
-  "riaccasando": ["r i a kː a s a n d o"],
-  "riaccasano": ["r i a kː a s a n o"],
-  "riaccasante": ["r i a kː a s a n t e"],
-  "riaccasarono": ["r i a kː a s a r o n o"],
-  "riaccasasse": ["r i a kː a s a sː e"],
-  "riaccasassero": ["r i a kː a s a sː e r o"],
-  "riaccasassi": ["r i a kː a s a sː i"],
-  "riaccasassimo": ["r i a kː a s a sː i m o"],
-  "riaccasaste": ["r i a kː a s a s t e"],
-  "riaccasasti": ["r i a kː a s a s t i"],
-  "riaccasata": ["r i a kː a s a t a"],
-  "riaccasate": ["r i a kː a s a t e"],
-  "riaccasati": ["r i a kː a s a t i"],
-  "riaccasato": ["r i a kː a s a t o"],
-  "riaccasava": ["r i a kː a s a v a"],
-  "riaccasavamo": ["r i a kː a s a v a m o"],
-  "riaccasavano": ["r i a kː a s a v a n o"],
-  "riaccasavate": ["r i a kː a s a v a t e"],
-  "riaccasavi": ["r i a kː a s a v i"],
-  "riaccasavo": ["r i a kː a s a v o"],
-  "riaccaserà": ["r i a kː a s e r a"],
-  "riaccaserai": ["r i a kː a s e r a i"],
-  "riaccaseranno": ["r i a kː a s e r a nː o"],
-  "riaccaserebbe": ["r i a kː a s e r e bː e"],
-  "riaccaserebbero": ["r i a kː a s e r e bː e r o"],
-  "riaccaserei": ["r i a kː a s e r e i"],
-  "riaccaseremmo": ["r i a kː a s e r e mː o"],
-  "riaccaseremo": ["r i a kː a s e r e m o"],
-  "riaccasereste": ["r i a kː a s e r e s t e"],
-  "riaccaseresti": ["r i a kː a s e r e s t i"],
-  "riaccaserete": ["r i a kː a s e r e t e"],
-  "riaccaserò": ["r i a kː a s e r o"],
-  "riaccasi": ["r i a kː a s i"],
-  "riaccasiamo": ["r i a kː a s j a m o"],
-  "riaccasiate": ["r i a kː a s j a t e"],
-  "riaccasino": ["r i a kː a s i n o"],
-  "riaccaso": ["r i a kː a s o"],
-  "riaccasò": ["r i a kː a s o"],
-  "riaccennare": ["r j a tː ʃ e nː a r e"]
+  "rendimenti": [
+    "rendimenti"
+  ],
+  "rendimento": [
+    "rendimento"
+  ],
+  "rendita": [
+    "rɛndita"
+  ],
+  "rene": [
+    "rɛne"
+  ],
+  "renella": [
+    "renɛlːa"
+  ],
+  "renello": [
+    "renɛlːo"
+  ],
+  "renetta": [
+    "renetːa"
+  ],
+  "reniforme": [
+    "reniforme"
+  ],
+  "renio": [
+    "rɛnjo"
+  ],
+  "renitente": [
+    "renitɛnte"
+  ],
+  "renitenti": [
+    "renitɛnti"
+  ],
+  "renna": [
+    "rɛnːa"
+  ],
+  "renne": [
+    "rɛnːe"
+  ],
+  "reno": [
+    "rɛno"
+  ],
+  "renzi": [
+    "rɛntsi"
+  ],
+  "renziano": [
+    "rentsjano"
+  ],
+  "reo": [
+    "rɛo"
+  ],
+  "reorniti": [
+    "reorniti"
+  ],
+  "reparti": [
+    "reparti"
+  ],
+  "reparto": [
+    "reparto"
+  ],
+  "repellente": [
+    "repelːɛnte"
+  ],
+  "repellenti": [
+    "repelːɛnti"
+  ],
+  "repellere": [
+    "repɛlːere"
+  ],
+  "repentaglio": [
+    "repentaʎo"
+  ],
+  "repentina": [
+    "repentina"
+  ],
+  "repentine": [
+    "repentine"
+  ],
+  "repentini": [
+    "repentini"
+  ],
+  "repentino": [
+    "repentino"
+  ],
+  "reperibile": [
+    "reperibile"
+  ],
+  "reperire": [
+    "reperire"
+  ],
+  "reperto": [
+    "repɛrto"
+  ],
+  "repertorio": [
+    "repertɔrjo"
+  ],
+  "replay": [
+    "replei",
+    "replɛi",
+    "replɛj",
+    "riplei",
+    "riplɛi"
+  ],
+  "replica": [
+    "rɛplika"
+  ],
+  "replicabile": [
+    "replikabile"
+  ],
+  "replicabili": [
+    "replikabili"
+  ],
+  "replicante": [
+    "replikante"
+  ],
+  "replicare": [
+    "replikare",
+    "rɛplikare"
+  ],
+  "replicata": [
+    "replikata"
+  ],
+  "replicate": [
+    "replikate"
+  ],
+  "replicati": [
+    "replikati"
+  ],
+  "replicato": [
+    "replikato"
+  ],
+  "replicazione": [
+    "replikatsjone"
+  ],
+  "replicazioni": [
+    "replikatsjoni"
+  ],
+  "repliche": [
+    "rɛplike"
+  ],
+  "reporter": [
+    "repɔrter"
+  ],
+  "repressa": [
+    "represːa"
+  ],
+  "represse": [
+    "represːe"
+  ],
+  "repressi": [
+    "represːi"
+  ],
+  "repressione": [
+    "represːjone"
+  ],
+  "repressioni": [
+    "represːjoni"
+  ],
+  "repressivamente": [
+    "represːivamente"
+  ],
+  "represso": [
+    "reprɛsːo"
+  ],
+  "repressore": [
+    "represːore"
+  ],
+  "reprimenda": [
+    "reprimɛnda"
+  ],
+  "reprimere": [
+    "reprimere"
+  ],
+  "reprimibile": [
+    "reprimibile"
+  ],
+  "reprimibili": [
+    "reprimibili"
+  ],
+  "repubblica": [
+    "repubːlika"
+  ],
+  "repubblicano": [
+    "repubːlikano"
+  ],
+  "repubbliche": [
+    "repubːlike"
+  ],
+  "repubblichino": [
+    "repubːlikino"
+  ],
+  "republica": [
+    "republika"
+  ],
+  "repugnanza": [
+    "repunɲantsa"
+  ],
+  "repugnanze": [
+    "repunɲantse"
+  ],
+  "repugnare": [
+    "repuɲɲare"
+  ],
+  "repulisti": [
+    "repulisti"
+  ],
+  "repulsa": [
+    "repulsa"
+  ],
+  "repulsione": [
+    "repulsjone"
+  ],
+  "repulsioni": [
+    "repulsjoni"
+  ],
+  "repulsiva": [
+    "repulsiva"
+  ],
+  "repulsivamente": [
+    "repulsivamente"
+  ],
+  "repulsive": [
+    "repulsive"
+  ],
+  "repulsivi": [
+    "repulsivi"
+  ],
+  "repulsivo": [
+    "repulsivo"
+  ],
+  "repulso": [
+    "repulso"
+  ],
+  "reputa": [
+    "reputa"
+  ],
+  "reputai": [
+    "reputaj"
+  ],
+  "reputando": [
+    "reputando"
+  ],
+  "reputare": [
+    "reputare"
+  ],
+  "reputasse": [
+    "reputasːe"
+  ],
+  "reputaste": [
+    "reputaste"
+  ],
+  "reputava": [
+    "reputava"
+  ],
+  "reputazionale": [
+    "reputatsjonale"
+  ],
+  "reputazionali": [
+    "reputatsjonali"
+  ],
+  "reputazione": [
+    "reputatsjone"
+  ],
+  "reputazioni": [
+    "reputatsjone"
+  ],
+  "reputo": [
+    "reputo"
+  ],
+  "requiare": [
+    "rekwjare"
+  ],
+  "requie": [
+    "rɛkwje"
+  ],
+  "requiem": [
+    "rɛkwjem"
+  ],
+  "requisire": [
+    "rekwizire"
+  ],
+  "requisiti": [
+    "rekwiziti"
+  ],
+  "requisito": [
+    "rekuizito",
+    "rekwizito"
+  ],
+  "requisitoria": [
+    "rekwizitɔrja"
+  ],
+  "requisizione": [
+    "rekwizitːsjone"
+  ],
+  "resa": [
+    "reza"
+  ],
+  "rescindente": [
+    "reʃʃindɛnte"
+  ],
+  "rese": [
+    "reze"
+  ],
+  "reseda": [
+    "rezɛda"
+  ],
+  "resettare": [
+    "resetːare",
+    "rezetːare"
+  ],
+  "resezione": [
+    "resetsjone"
+  ],
+  "resezioni": [
+    "resetsjoni"
+  ],
+  "residence": [
+    "rɛzidens"
+  ],
+  "residente": [
+    "residɛnte",
+    "rezidɛnte"
+  ],
+  "residenza": [
+    "residɛntsa",
+    "rezidɛntsa"
+  ],
+  "residenze": [
+    "residɛntse"
+  ],
+  "residenziale": [
+    "residentsjale"
+  ],
+  "residenziali": [
+    "residentsjali"
+  ],
+  "residuo": [
+    "rezidwo"
+  ],
+  "resilienza": [
+    "resiljɛntsa"
+  ],
+  "resilienze": [
+    "resiljɛntse"
+  ],
+  "resina": [
+    "rezina",
+    "rɛzina"
+  ],
+  "resinificare": [
+    "rezinifikare"
+  ],
+  "resinoso": [
+    "rezinoso"
+  ],
+  "resipiscenza": [
+    "resipiʃɛntsa"
+  ],
+  "resistente": [
+    "resistɛnte",
+    "rezistɛnte"
+  ],
+  "resistenti": [
+    "rezistɛnti"
+  ],
+  "resistentissima": [
+    "rezistɛntisːima"
+  ],
+  "resistentissime": [
+    "rezistɛntisːime"
+  ],
+  "resistentissimi": [
+    "rezistɛntisːimi"
+  ],
+  "resistentissimo": [
+    "rezistɛntisːimo"
+  ],
+  "resistenza": [
+    "resistɛntsa",
+    "rezistɛntsa"
+  ],
+  "resistenze": [
+    "rezistɛntse"
+  ],
+  "resistere": [
+    "resistere",
+    "rezistere"
+  ],
+  "resistito": [
+    "resistito"
+  ],
+  "resistività": [
+    "resistivita"
+  ],
+  "resistore": [
+    "resistore"
+  ],
+  "reso": [
+    "reso",
+    "rezo",
+    "rɛzo"
+  ],
+  "resoconto": [
+    "resokonto",
+    "rezokonto"
+  ],
+  "resort": [
+    "risort"
+  ],
+  "respingente": [
+    "respindʒɛnte"
+  ],
+  "respingenti": [
+    "respindʒɛnti"
+  ],
+  "respingere": [
+    "respindʒere",
+    "respiɲdʒere",
+    "rɛspindʒɛre"
+  ],
+  "respinto": [
+    "respinto"
+  ],
+  "respirabile": [
+    "respirabile"
+  ],
+  "respirabili": [
+    "respirabili"
+  ],
+  "respirabilità": [
+    "rɛspirabilita"
+  ],
+  "respirante": [
+    "rɛspirante"
+  ],
+  "respiranti": [
+    "rɛspiranti"
+  ],
+  "respirare": [
+    "respirare",
+    "rɛspirare"
+  ],
+  "respirato": [
+    "rɛspirato"
+  ],
+  "respiratore": [
+    "respiratore"
+  ],
+  "respiratori": [
+    "respiratori",
+    "respiratɔri"
+  ],
+  "respiratoria": [
+    "respiratɔrja"
+  ],
+  "respiratorie": [
+    "respiratɔrje"
+  ],
+  "respiratorio": [
+    "respiratɔrjo"
+  ],
+  "respirazione": [
+    "respiratsjone",
+    "rɛspiratsjɔne"
+  ],
+  "respiro": [
+    "respiro"
+  ],
+  "responsabile": [
+    "responsabile"
+  ],
+  "responsabili": [
+    "responsabili"
+  ],
+  "responsabilità": [
+    "responsabilita"
+  ],
+  "responsabilizzare": [
+    "responsabilidːzare"
+  ],
+  "responsabilizzazione": [
+    "responsabilidːzatːsjone"
+  ],
+  "responsabilmente": [
+    "responsabilmente"
+  ],
+  "responsivo": [
+    "responsivo"
+  ],
+  "responso": [
+    "respɔnso"
+  ],
+  "ressa": [
+    "resːa",
+    "rɛsːa"
+  ],
+  "resta": [
+    "rɛsta"
+  ],
+  "restabue": [
+    "restabue"
+  ],
+  "restante": [
+    "restante"
+  ],
+  "restanti": [
+    "restanti"
+  ],
+  "restare": [
+    "restare",
+    "rɛstare"
+  ],
+  "restaurabile": [
+    "restawrabile"
+  ],
+  "restaurabili": [
+    "restawrabili"
+  ],
+  "restaurare": [
+    "restawrare"
+  ],
+  "restaurata": [
+    "restawrata"
+  ],
+  "restaurate": [
+    "restawrate"
+  ],
+  "restaurati": [
+    "restawrati"
+  ],
+  "restaurato": [
+    "restawrato"
+  ],
+  "restaurazione": [
+    "restawratːsjone"
+  ],
+  "restauro": [
+    "restauro"
+  ],
+  "restia": [
+    "restia"
+  ],
+  "restio": [
+    "restio"
+  ],
+  "restituibile": [
+    "restituibile"
+  ],
+  "restituire": [
+    "restituire"
+  ],
+  "restituita": [
+    "restituita"
+  ],
+  "restituite": [
+    "restituite"
+  ],
+  "restituiti": [
+    "restituiti"
+  ],
+  "restituito": [
+    "restituito"
+  ],
+  "restituzione": [
+    "restitutsjone"
+  ],
+  "restituzioni": [
+    "restitutsjoni"
+  ],
+  "resto": [
+    "rɛsto"
+  ],
+  "restringere": [
+    "restrindʒere",
+    "rɛstrindʒɛre"
+  ],
+  "restringimento": [
+    "restriɲdʒimento"
+  ],
+  "restrittivamente": [
+    "restritːivamente"
+  ],
+  "restrittivo": [
+    "restritːivo"
+  ],
+  "restrizione": [
+    "restritsjone"
+  ],
+  "restrizioni": [
+    "restritːsjoni"
+  ],
+  "resurgere": [
+    "resurdʒere"
+  ],
+  "resurrezione": [
+    "rezurːetsjone"
+  ],
+  "resuscitare": [
+    "resuʃʃitare"
+  ],
+  "retaggio": [
+    "retadːʒo"
+  ],
+  "retata": [
+    "retata"
+  ],
+  "rete": [
+    "rete",
+    "rɛte"
+  ],
+  "retentire": [
+    "retentire"
+  ],
+  "reti": [
+    "rɛti"
+  ],
+  "reticella": [
+    "retitʃɛlːa"
+  ],
+  "reticente": [
+    "retitʃɛnte"
+  ],
+  "reticenti": [
+    "retitʃɛnti"
+  ],
+  "reticenza": [
+    "retitʃentsa",
+    "retitʃɛntsa"
+  ],
+  "reticenze": [
+    "retitʃentse"
+  ],
+  "reticola": [
+    "retikola"
+  ],
+  "reticolare": [
+    "retikolare"
+  ],
+  "reticolato": [
+    "retikolato"
+  ],
+  "reticolazione": [
+    "retikolatsjone"
+  ],
+  "reticolazioni": [
+    "retikolatsjoni"
+  ],
+  "reticole": [
+    "retikole"
+  ],
+  "reticoli": [
+    "retikoli"
+  ],
+  "reticolo": [
+    "retikolo"
+  ],
+  "retina": [
+    "retina",
+    "rɛtina"
+  ],
+  "retinando": [
+    "retinando"
+  ],
+  "retinante": [
+    "retinante"
+  ],
+  "retinasfalto": [
+    "retinasfalto"
+  ],
+  "retinata": [
+    "retinata"
+  ],
+  "retinate": [
+    "retinate"
+  ],
+  "retinati": [
+    "retinati"
+  ],
+  "retinato": [
+    "retinato"
+  ],
+  "retine": [
+    "retine"
+  ],
+  "retini": [
+    "retini"
+  ],
+  "retinica": [
+    "retinika"
+  ],
+  "retiniche": [
+    "retinike"
+  ],
+  "retinici": [
+    "retinitʃi"
+  ],
+  "retinico": [
+    "retiniko"
+  ],
+  "retinite": [
+    "retinite"
+  ],
+  "retiniti": [
+    "retiniti"
+  ],
+  "retino": [
+    "retino"
+  ],
+  "retinoblastoma": [
+    "retinoblastɔma"
+  ],
+  "retinoblastomi": [
+    "retinoblastɔmi"
+  ],
+  "retinopatia": [
+    "retinopatia"
+  ],
+  "retinopatie": [
+    "retinopatie"
+  ],
+  "retinoscopi": [
+    "retinoskɔpi"
+  ],
+  "retinoscopia": [
+    "retinoskɔpja"
+  ],
+  "retinoscopie": [
+    "retinoskɔpje"
+  ],
+  "retinoscopio": [
+    "retinoskɔpjo"
+  ],
+  "retore": [
+    "rɛtore"
+  ],
+  "retorica": [
+    "retɔrika"
+  ],
+  "retoriche": [
+    "retɔrike"
+  ],
+  "retorici": [
+    "retɔritʃi"
+  ],
+  "retorico": [
+    "retɔriko"
+  ],
+  "retrae": [
+    "retrae"
+  ],
+  "retraemmo": [
+    "retraemːo"
+  ],
+  "retraendo": [
+    "retraendo"
+  ],
+  "retraente": [
+    "retraente"
+  ],
+  "retraesse": [
+    "retraesːe"
+  ],
+  "retraessero": [
+    "retraesːero"
+  ],
+  "retraessi": [
+    "retraesːi"
+  ],
+  "retraessimo": [
+    "retraesːimo"
+  ],
+  "retraeste": [
+    "retraeste"
+  ],
+  "retraesti": [
+    "retraesti"
+  ],
+  "retraete": [
+    "retraete"
+  ],
+  "retraeva": [
+    "retraeva"
+  ],
+  "retraevamo": [
+    "retraevamo"
+  ],
+  "retraevano": [
+    "retraevano"
+  ],
+  "retraevate": [
+    "retraevate"
+  ],
+  "retraevi": [
+    "retraevi"
+  ],
+  "retraevo": [
+    "retraevo"
+  ],
+  "retragga": [
+    "retraɡːa"
+  ],
+  "retraggano": [
+    "retraɡːano"
+  ],
+  "retraggo": [
+    "retraɡːo"
+  ],
+  "retraggono": [
+    "retraɡːono"
+  ],
+  "retrai": [
+    "retrai"
+  ],
+  "retraiamo": [
+    "retrajamo"
+  ],
+  "retraiate": [
+    "retrajate"
+  ],
+  "retrarrà": [
+    "retrarːa"
+  ],
+  "retrarrai": [
+    "retrarːai"
+  ],
+  "retrarranno": [
+    "retrarːanːo"
+  ],
+  "retrarre": [
+    "retrarːe"
+  ],
+  "retrarrebbe": [
+    "retrarːebːe"
+  ],
+  "retrarrebbero": [
+    "retrarːebːero"
+  ],
+  "retrarrei": [
+    "retrarːei"
+  ],
+  "retrarremmo": [
+    "retrarːemo"
+  ],
+  "retrarremo": [
+    "retrarːemo"
+  ],
+  "retrarreste": [
+    "retrarːeste"
+  ],
+  "retrarresti": [
+    "retrarːesti"
+  ],
+  "retrarrete": [
+    "retrarːete"
+  ],
+  "retrarrò": [
+    "retrarːo"
+  ],
+  "retrasse": [
+    "retrasːe"
+  ],
+  "retrassero": [
+    "retrasːero"
+  ],
+  "retrassi": [
+    "retrasːi"
+  ],
+  "retratta": [
+    "retratːa"
+  ],
+  "retratte": [
+    "retratːe"
+  ],
+  "retratti": [
+    "retratːi"
+  ],
+  "retrattile": [
+    "retratːile"
+  ],
+  "retratto": [
+    "retratːo"
+  ],
+  "retribuito": [
+    "retribuito"
+  ],
+  "retribuzione": [
+    "retributːsjone"
+  ],
+  "retriever": [
+    "retriver"
+  ],
+  "retriva": [
+    "retriva"
+  ],
+  "retrive": [
+    "retrive"
+  ],
+  "retrivi": [
+    "retriva"
+  ],
+  "retrivo": [
+    "retrivo"
+  ],
+  "retroabside": [
+    "retroabside"
+  ],
+  "retroagente": [
+    "retroadʒente"
+  ],
+  "retroagire": [
+    "retroadʒire"
+  ],
+  "retroagito": [
+    "retroadʒito"
+  ],
+  "retroattiva": [
+    "retroatːiva"
+  ],
+  "retroattive": [
+    "retroatːive"
+  ],
+  "retroattivi": [
+    "retroatːivi"
+  ],
+  "retroattività": [
+    "retroatːivita"
+  ],
+  "retroattivo": [
+    "retroatːivo"
+  ],
+  "retrobottega": [
+    "retrobotːeɡa"
+  ],
+  "retrocedente": [
+    "retrotʃɛdente"
+  ],
+  "retrocedere": [
+    "retrotʃɛdere"
+  ],
+  "retrocessione": [
+    "retrotʃesːjone"
+  ],
+  "retrocesso": [
+    "retrotʃɛsːo"
+  ],
+  "retrocompatibile": [
+    "retrokompatibile"
+  ],
+  "retrocompatibili": [
+    "retrokompatibili"
+  ],
+  "retrocompatibilità": [
+    "retrokompatibilita"
+  ],
+  "retrodatare": [
+    "retrodatare"
+  ],
+  "retrodatazione": [
+    "retrodatatːsjone"
+  ],
+  "retrofeudo": [
+    "retrofɛwdo"
+  ],
+  "retroflesso": [
+    "retroflɛsːo"
+  ],
+  "retroformazione": [
+    "rɛtroformatːsjone"
+  ],
+  "retrofrontespizio": [
+    "retrofrontespitːsjo"
+  ],
+  "retrofuturista": [
+    "retrofuturista"
+  ],
+  "retrofuturiste": [
+    "retrofuturiste"
+  ],
+  "retrofuturisti": [
+    "retrofuturisti"
+  ],
+  "retrogrado": [
+    "retrɔɡrado"
+  ],
+  "retroguardia": [
+    "retroɡwardja"
+  ],
+  "retroguardie": [
+    "retroɡwardje"
+  ],
+  "retrogusto": [
+    "retroɡusto"
+  ],
+  "retromarce": [
+    "retromartʃe"
+  ],
+  "retromarcia": [
+    "retromartʃa"
+  ],
+  "retropalco": [
+    "retropalko"
+  ],
+  "retroproiezione": [
+    "retroprojetsjone"
+  ],
+  "retroproiezioni": [
+    "retroprojetsjoni"
+  ],
+  "retrorazzo": [
+    "rɛtroradːzo"
+  ],
+  "retroscena": [
+    "retroʃʃɛna"
+  ],
+  "retrospettiva": [
+    "retrospetːiva"
+  ],
+  "retrostante": [
+    "retrostante"
+  ],
+  "retroterra": [
+    "etrotɛrːa"
+  ],
+  "retrotreno": [
+    "retrotrɛno"
+  ],
+  "retroversione": [
+    "retroversjone"
+  ],
+  "retrovisivo": [
+    "retrovizivo"
+  ],
+  "retta": [
+    "rɛtːa"
+  ],
+  "rettale": [
+    "retːale"
+  ],
+  "rettali": [
+    "retːali"
+  ],
+  "rettamente": [
+    "retːamente"
+  ],
+  "rettangolare": [
+    "retːanɡolare",
+    "retːaɲɡolare"
+  ],
+  "rettangolino": [
+    "retːanɡolino"
+  ],
+  "rettangolo": [
+    "retːanɡolo",
+    "retːaɲɡolo"
+  ],
+  "rette": [
+    "rɛtːe"
+  ],
+  "retti": [
+    "rɛtːi"
+  ],
+  "rettifica": [
+    "retːifika"
+  ],
+  "rettificabile": [
+    "retːifikabile"
+  ],
+  "rettificabili": [
+    "retːifikabili"
+  ],
+  "rettificare": [
+    "retːifikare"
+  ],
+  "rettificato": [
+    "retːifikato"
+  ],
+  "rettificazione": [
+    "retːifikatːsjone"
+  ],
+  "rettificazioni": [
+    "retːifikatːsjoni"
+  ],
+  "rettifilo": [
+    "retːifilo"
+  ],
+  "rettile": [
+    "rɛtːile"
+  ],
+  "rettili": [
+    "rɛtːili"
+  ],
+  "rettilineo": [
+    "retːilineo"
+  ],
+  "rettitudine": [
+    "retːitudine"
+  ],
+  "rettitudini": [
+    "retːitudini"
+  ],
+  "retto": [
+    "rɛtːo"
+  ],
+  "rettocolite": [
+    "rɛtːokolite"
+  ],
+  "rettorale": [
+    "retːorale"
+  ],
+  "rettorali": [
+    "retːorali"
+  ],
+  "rettorati": [
+    "retːorati"
+  ],
+  "rettorato": [
+    "retːorato"
+  ],
+  "rettore": [
+    "retːore"
+  ],
+  "rettoressa": [
+    "retːoresːa"
+  ],
+  "rettori": [
+    "retːori"
+  ],
+  "rettoria": [
+    "retːoria"
+  ],
+  "rettorie": [
+    "retːorie"
+  ],
+  "rettovescicale": [
+    "retːoveʃikale",
+    "retːoveʃʃikale",
+    "rɛtːoveʃʃikale"
+  ],
+  "rettrice": [
+    "retːritʃe"
+  ],
+  "rettrici": [
+    "retːritʃi"
+  ],
+  "reuccio": [
+    "reutːʃo"
+  ],
+  "reuma": [
+    "rɛwma"
+  ],
+  "reumatismo": [
+    "reumatizmo"
+  ],
+  "reumatoide": [
+    "rewmatɔjde"
+  ],
+  "reumatologia": [
+    "rewmatolodʒia"
+  ],
+  "revanscismo": [
+    "revanʃizmo"
+  ],
+  "reverendo": [
+    "reverɛndo"
+  ],
+  "reverente": [
+    "reverɛnte"
+  ],
+  "reverentemente": [
+    "reverentemente"
+  ],
+  "reversibile": [
+    "reversibile"
+  ],
+  "reversibili": [
+    "reversibile"
+  ],
+  "reversibilità": [
+    "reversibilita"
+  ],
+  "reversibilmente": [
+    "reversibilmente"
+  ],
+  "revisionato": [
+    "revizjonato"
+  ],
+  "revisione": [
+    "revizjone"
+  ],
+  "revisionismi": [
+    "revizjonizmi"
+  ],
+  "revisionismo": [
+    "revizjonizmo"
+  ],
+  "revisionista": [
+    "revizjonista"
+  ],
+  "revisioniste": [
+    "revizjoniste"
+  ],
+  "revisionisti": [
+    "revizjonisti"
+  ],
+  "revisore": [
+    "revizore"
+  ],
+  "revival": [
+    "revajval"
+  ],
+  "revivalista": [
+    "revivalist"
+  ],
+  "revivaliste": [
+    "revivaliste"
+  ],
+  "revivalisti": [
+    "revivalisti"
+  ],
+  "revoca": [
+    "rɛvoka"
+  ],
+  "revocabile": [
+    "revokabile"
+  ],
+  "revocabili": [
+    "revokabili"
+  ],
+  "revocare": [
+    "revokare"
+  ],
+  "revocato": [
+    "revokato"
+  ],
+  "revoche": [
+    "rɛvoke"
+  ],
+  "rh": [
+    "erːeakːa"
+  ],
+  "rho": [
+    "rɔ"
+  ],
+  "rhodesia": [
+    "rodɛzja"
+  ],
+  "rhodesiana": [
+    "rodezjana"
+  ],
+  "rhodesiane": [
+    "rodezjane"
+  ],
+  "rhodesiani": [
+    "rodezjani"
+  ],
+  "rhodesiano": [
+    "rodezjano"
+  ],
+  "rhum": [
+    "rum"
+  ],
+  "riabbandonare": [
+    "riabːandonare"
+  ],
+  "riabbocca": [
+    "riabːokːa"
+  ],
+  "riabboccai": [
+    "riabːokːai"
+  ],
+  "riabboccammo": [
+    "riabːokːamːo"
+  ],
+  "riabboccando": [
+    "riabːokːando"
+  ],
+  "riabboccano": [
+    "riabːokːano"
+  ],
+  "riabboccante": [
+    "riabːokːante"
+  ],
+  "riabboccarono": [
+    "riabːokːarono"
+  ],
+  "riabboccasse": [
+    "riabːokːasːe"
+  ],
+  "riabboccassero": [
+    "riabːokːasːero"
+  ],
+  "riabboccassi": [
+    "riabːokːasːi"
+  ],
+  "riabboccassimo": [
+    "riabːokːasːimo"
+  ],
+  "riabboccaste": [
+    "riabːokːaste"
+  ],
+  "riabboccasti": [
+    "riabːokːasti"
+  ],
+  "riabboccata": [
+    "riabːokːata"
+  ],
+  "riabboccate": [
+    "riabːokːate"
+  ],
+  "riabboccati": [
+    "riabːokːati"
+  ],
+  "riabboccato": [
+    "riabːokːato"
+  ],
+  "riabboccava": [
+    "riabːokːava"
+  ],
+  "riabboccavamo": [
+    "riabːokːavamo"
+  ],
+  "riabboccavano": [
+    "riabːokːavano"
+  ],
+  "riabboccavate": [
+    "riabːokːavate"
+  ],
+  "riabboccavi": [
+    "riabːokːavi"
+  ],
+  "riabboccavo": [
+    "riabːokːavo"
+  ],
+  "riabboccherà": [
+    "riabːokːera"
+  ],
+  "riabboccherai": [
+    "riabːokːerai"
+  ],
+  "riabboccheranno": [
+    "riabːokːeranːo"
+  ],
+  "riabboccherebbe": [
+    "riabːokːerebːe"
+  ],
+  "riabboccherebbero": [
+    "riabːokːerebːero"
+  ],
+  "riabboccherei": [
+    "riabːokːerei"
+  ],
+  "riabboccheremmo": [
+    "riabːokːeremːo"
+  ],
+  "riabboccheremo": [
+    "riabːokːeremo"
+  ],
+  "riabbocchereste": [
+    "riabːokːereste"
+  ],
+  "riabboccheresti": [
+    "riabːokːeresti"
+  ],
+  "riabboccherete": [
+    "riabːokːerete"
+  ],
+  "riabboccherò": [
+    "riabːokːero"
+  ],
+  "riabbocchi": [
+    "riabːokːi"
+  ],
+  "riabbocchiamo": [
+    "riabːokːjamo"
+  ],
+  "riabbocchiate": [
+    "riabːokːjate"
+  ],
+  "riabbocchino": [
+    "riabːokːino"
+  ],
+  "riabbocco": [
+    "riabːokːo"
+  ],
+  "riabboccò": [
+    "riabːokːo"
+  ],
+  "riabilitante": [
+    "riabilitante"
+  ],
+  "riabilitare": [
+    "riabilitare",
+    "rjabilitare"
+  ],
+  "riabilitato": [
+    "riabilitato"
+  ],
+  "riabilitazione": [
+    "riabilitatːsjone",
+    "rjabilitatsjone"
+  ],
+  "riabilitazioni": [
+    "rjabilitatsjoni"
+  ],
+  "riaccadere": [
+    "rjakːadere"
+  ],
+  "riaccasa": [
+    "riakːasa"
+  ],
+  "riaccasai": [
+    "riakːasai"
+  ],
+  "riaccasammo": [
+    "riakːasamːo"
+  ],
+  "riaccasando": [
+    "riakːasando"
+  ],
+  "riaccasano": [
+    "riakːasano"
+  ],
+  "riaccasante": [
+    "riakːasante"
+  ],
+  "riaccasarono": [
+    "riakːasarono"
+  ],
+  "riaccasasse": [
+    "riakːasasːe"
+  ],
+  "riaccasassero": [
+    "riakːasasːero"
+  ],
+  "riaccasassi": [
+    "riakːasasːi"
+  ],
+  "riaccasassimo": [
+    "riakːasasːimo"
+  ],
+  "riaccasaste": [
+    "riakːasaste"
+  ],
+  "riaccasasti": [
+    "riakːasasti"
+  ],
+  "riaccasata": [
+    "riakːasata"
+  ],
+  "riaccasate": [
+    "riakːasate"
+  ],
+  "riaccasati": [
+    "riakːasati"
+  ],
+  "riaccasato": [
+    "riakːasato"
+  ],
+  "riaccasava": [
+    "riakːasava"
+  ],
+  "riaccasavamo": [
+    "riakːasavamo"
+  ],
+  "riaccasavano": [
+    "riakːasavano"
+  ],
+  "riaccasavate": [
+    "riakːasavate"
+  ],
+  "riaccasavi": [
+    "riakːasavi"
+  ],
+  "riaccasavo": [
+    "riakːasavo"
+  ],
+  "riaccaserà": [
+    "riakːasera"
+  ],
+  "riaccaserai": [
+    "riakːaserai"
+  ],
+  "riaccaseranno": [
+    "riakːaseranːo"
+  ],
+  "riaccaserebbe": [
+    "riakːaserebːe"
+  ],
+  "riaccaserebbero": [
+    "riakːaserebːero"
+  ],
+  "riaccaserei": [
+    "riakːaserei"
+  ],
+  "riaccaseremmo": [
+    "riakːaseremːo"
+  ],
+  "riaccaseremo": [
+    "riakːaseremo"
+  ],
+  "riaccasereste": [
+    "riakːasereste"
+  ],
+  "riaccaseresti": [
+    "riakːaseresti"
+  ],
+  "riaccaserete": [
+    "riakːaserete"
+  ],
+  "riaccaserò": [
+    "riakːasero"
+  ],
+  "riaccasi": [
+    "riakːasi"
+  ],
+  "riaccasiamo": [
+    "riakːasjamo"
+  ],
+  "riaccasiate": [
+    "riakːasjate"
+  ],
+  "riaccasino": [
+    "riakːasino"
+  ],
+  "riaccaso": [
+    "riakːaso"
+  ],
+  "riaccasò": [
+    "riakːaso"
+  ],
+  "riaccennare": [
+    "rjatːʃenːare"
+  ]
 }

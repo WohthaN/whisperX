@@ -1,502 +1,1517 @@
 {
-  "dispiegabili": ["d i s p j e ɡ a b i l i"],
-  "dispiegamento": ["d i s p j e ɡ a m e n t o"],
-  "dispiegare": ["d i s p j e ɡ a r e"],
-  "dispnea": ["d i s p n ɛ a"],
-  "dispone": ["d i s p o n e"],
-  "disponemmo": ["d i s p o n e mː o"],
-  "disponendo": ["d i s p o n e n d o"],
-  "disponente": ["d i s p o n e n t e"],
-  "disponenti": ["d i s p o n e n t i"],
-  "disponesse": ["d i s p o n e sː e"],
-  "disponessero": ["d i s p o n e sː e r o"],
-  "disponessi": ["d i s p o n e sː i"],
-  "disponessimo": ["d i s p o n e sː i m o"],
-  "disponeste": ["d i s p o nː e s t e"],
-  "disponesti": ["d i s p o n e s t i"],
-  "disponete": ["d i s p o n e t e"],
-  "disponeva": ["d i s p o n e v a"],
-  "disponevamo": ["d i s p o n e v a m o"],
-  "disponevano": ["d i s p o n e v a n o"],
-  "disponevate": ["d i s p o n e v a t e"],
-  "disponevi": ["d i s p o n e v i"],
-  "disponevo": ["d i s p o n e v o"],
-  "disponga": ["d i s p o n ɡ a"],
-  "dispongano": ["d i s p o n ɡ a n o"],
-  "dispongo": ["d i s p o n ɡ o"],
-  "dispongono": ["d i s p o n ɡ o n o"],
-  "disponi": ["d i s p o n i"],
-  "disponiamo": ["d i s p o n j a m o"],
-  "disponiate": ["d i s p o n j a t e"],
-  "disponibile": ["d i s p o n i b i l e"],
-  "disponibili": ["d i s p o n i b i l i"],
-  "disponibilissima": ["d i s p o n i b i l i sː i m a"],
-  "disponibilissime": ["d i s p o n i b i l i sː i m e"],
-  "disponibilissimi": ["d i s p o n i b i l i sː i m i"],
-  "disponibilissimo": ["d i s p o n i b i l i sː i m o"],
-  "disponibilità": ["d i s p o n i b i l i t a"],
-  "disporrà": ["p o rː a"],
-  "disporrai": ["d i s p o rː a i"],
-  "disporranno": ["d i s p o rː a nː o"],
-  "disporre": ["d i s p o rː e"],
-  "disporrebbe": ["d i s p o rː e bː e"],
-  "disporrebbero": ["d i s p o rː e bː e r o"],
-  "disporrei": ["d i s p o rː e i"],
-  "disporremmo": ["d i s p o rː e m o"],
-  "disporremo": ["d i s p o rː e m o"],
-  "disporreste": ["d i s p o rː e s t e"],
-  "disporresti": ["d i s p o rː e s t i"],
-  "disporrete": ["d i s p o rː e t e"],
-  "disporrò": ["d i s p o rː o"],
-  "disporsi": ["d i s p o r s i"],
-  "disposare": ["d i s p o z a r e"],
-  "dispose": ["d i s p o s e"],
-  "disposero": ["d i s p o s e r o"],
-  "disposi": ["d i s p o s i"],
-  "dispositivi": ["d i s p o s i t i v i"],
-  "dispositivo": ["d i s p o s i t i v o"],
-  "disposizione": ["d i s p o z i t s j o n e", "d i s p o z i tː s j o n e"],
-  "disposofobia": ["d i s p o z o f o b i a"],
-  "disposofobie": ["d i s p o z o f o b i e"],
-  "disposta": ["d i s p o s t a"],
-  "disposte": ["d i s p o s t e"],
-  "disposti": ["d i s p o s t i"],
-  "disposto": ["d i s p o s t o"],
-  "dispotica": ["d i s p ɔ t i k a"],
-  "dispoticamente": ["d i s p o t i k a m e n t e"],
-  "dispotiche": ["d i s p ɔ t i k e"],
-  "dispotici": ["d i s p ɔ t i t ʃ i"],
-  "dispotico": ["d i s p ɔ t i k o"],
-  "dispotismi": ["d i s p o t i z m i"],
-  "dispotismo": ["d i s p o t i z m o"],
-  "dispregiare": ["d i s p r e d ʒ a r e"],
-  "dispregiativamente": ["d i s p r e d ʒ a t i v a m e n t e"],
-  "dispregio": ["d i s p r ɛ d ʒ o"],
-  "disprezzante": ["d i s p r e tː s a n t e"],
-  "disprezzare": ["d i s p r e t s a r e", "d i s p r e tː s a r e"],
-  "disprezzato": ["d i s p r e t s a t o", "d i s p r ɛ tː s a t o"],
-  "disprezzi": ["d i s p r ɛ tː s i"],
-  "disprezzo": ["d i s p r ɛ tː s o"],
-  "disprosio": ["d i s p r ɔ z j o"],
-  "disputa": ["d i s p u t a"],
-  "disputabile": ["d i s p u t a b i l e"],
-  "disputabili": ["d i s p u t a b i l i"],
-  "disputai": ["d i s p u t a i"],
-  "disputammo": ["d i s p u t a mː o"],
-  "disputando": ["d i s p u t a n d o"],
-  "disputano": ["d i s p u t a n o"],
-  "disputante": ["d i s p u t a n t e"],
-  "disputare": ["d i s p u t a r e"],
-  "disputarono": ["d i s p u t a r o n o"],
-  "disputasse": ["d i s p u t a sː e"],
-  "disputassero": ["d i s p u t a sː e r o"],
-  "disputassi": ["d i s p u t a sː i"],
-  "disputassimo": ["d i s p u t a sː i m o"],
-  "disputaste": ["d i s p u t a s t e"],
-  "disputasti": ["d i s p u t a s t i"],
-  "disputate": ["d i s p u t a t e"],
-  "disputato": ["d i s p u t a t o"],
-  "disputava": ["d i s p u t a v a"],
-  "disputavamo": ["d i s p u t a v a m o"],
-  "disputavano": ["d i s p u t a v a n o"],
-  "disputavate": ["d i s p u t a v a t e"],
-  "disputavi": ["d i s p u t a v i"],
-  "disputavo": ["d i s p u t a v o"],
-  "disputerà": ["d i s p u t e r a"],
-  "disputerai": ["d i s p u t e r a i"],
-  "disputeranno": ["d i s p u t e r a nː o"],
-  "disputerebbe": ["d i s p u t e r e bː e"],
-  "disputerebbero": ["d i s p u t e r e bː e r o"],
-  "disputerei": ["d i s p u t e r e i"],
-  "disputeremmo": ["d i s p u t e r e mː o"],
-  "disputeremo": ["d i s p u t e r e m o"],
-  "disputereste": ["d i s p u t e r e s t e"],
-  "disputeresti": ["d i s p u t e r e s t i"],
-  "disputerete": ["d i s p u t e r e t e"],
-  "disputerò": ["d i s p u t e r o"],
-  "disputi": ["d i s p u t i"],
-  "disputiamo": ["d i s p u t j a m o"],
-  "disputiate": ["d i s p u t j a t e"],
-  "disputino": ["d i s p u t i n o"],
-  "disputo": ["d i s p u t o"],
-  "disputò": ["d i s p u t o"],
-  "disquisire": ["d i s k w i z i r e"],
-  "disquisizione": ["d i s k w i z i tː s j o n e"],
-  "dissacrare": ["d i sː a k r a r e"],
-  "dissacratore": ["d i sː a k r a t o r e"],
-  "dissalare": ["d e s a l i n i dː z a r e"],
-  "dissalazione": ["d i sː a l a tː s j o n e"],
-  "dissanguamento": ["d i sː a ɲ ɡ w a m e n t o"],
-  "dissanguare": ["d i sː a n ɡ w a r e"],
-  "dissanguato": ["d i sː a n ɡ w a t o"],
-  "dissanguinare": ["d i sː a n ɡ w i n a r e"],
-  "dissapore": ["d i sː a p o r e"],
-  "dissapori": ["d i sː a p o r i"],
-  "disse": ["d i sː e"],
-  "dissecante": ["d i sː e k a n t e"],
-  "dissecare": ["d i sː e k a r e"],
-  "dissecato": ["d i sː e k a t o"],
-  "dissemina": ["d i sː e m i n a"],
-  "disseminante": ["d i sː e m i n a n t e"],
-  "disseminare": ["d i sː e m i n a r e"],
-  "disseminasse": ["d i sː e m i n a sː e"],
-  "disseminato": ["d i sː e m i n a t o"],
-  "disseminava": ["d i sː e m i n a v a"],
-  "dissemino": ["d i sː e m i n o"],
-  "dissennatamente": ["d i sː e nː a t a m e n t e"],
-  "dissennati": ["d i sː e nː a t o"],
-  "dissennato": ["d i sː e nː a t o"],
-  "dissensi": ["d i sː ɛ n s i"],
-  "dissenso": ["d i sː ɛ n s o"],
-  "dissenteria": ["d i sː e n t e r i a"],
-  "dissenterie": ["d i sː e n t e r i e"],
-  "dissentire": ["d i sː e n t i r e"],
-  "dissentito": ["d i sː e n t i t o"],
-  "disseparare": ["d i sː e p a r a r e"],
-  "disseppellire": ["d i sː e pː e lː i r e"],
-  "dissero": ["d i sː e r o"],
-  "dissertare": ["d i sː e r t a r e"],
-  "dissertato": ["d i sː e r t a t o"],
-  "dissertazione": ["d i sː e r t a tː s j o n e"],
-  "disservire": ["d i sː e r v i r e"],
-  "disservito": ["d i sː e r v i t o"],
-  "disservizio": ["d i sː e r v i tː s j o"],
-  "dissestare": ["d i sː e s t a r e"],
-  "dissestato": ["d i sː e s t a t o"],
-  "dissesto": ["d i sː ɛ s t o"],
-  "dissetante": ["d i sː e t a n t e"],
-  "dissezionare": ["d i sː e tː s j o n a r e"],
-  "dissezione": ["d i sː e tː s j o n e"],
-  "dissi": ["d i sː i"],
-  "dissidente": ["d i sː i d ɛ n t e"],
-  "dissidenti": ["d i sː i d ɛ n t i"],
-  "dissidio": ["d i sː i d j o"],
-  "dissimilare": ["d i s i m i l a r e"],
-  "dissimilazione": ["d i sː i m i l a t s j o n e"],
-  "dissimile": ["d i sː i m i l e"],
-  "dissimulabile": ["d i sː i m u l a b i l e"],
-  "dissimulabili": ["d i sː i m u l a b i l i"],
-  "dissimulante": ["d i sː i m u l a n t e"],
-  "dissimulare": ["d i sː i m u l a r e"],
-  "dissimularsi": ["d i sː i m u l a r s i"],
-  "dissimulatamente": ["d i sː i m u l a t a m e n t e"],
-  "dissimulato": ["d i sː i m u l a t o"],
-  "dissimulatore": ["d i sː i m u l a t o r e"],
-  "dissimulatori": ["d i sː i m u l a t o r i"],
-  "dissimulatrice": ["d i sː i m u l a t r i t ʃ e"],
-  "dissimulatrici": ["d i sː i m u l a t r i t ʃ i"],
-  "dissimulazione": ["d i sː i m u l a t s j o n e"],
-  "dissimulazioni": ["d i sː i m u l a t s j o n i"],
-  "dissipabile": ["d i sː i p a b i l e"],
-  "dissipabili": ["d i sː i p a b i l i"],
-  "dissipare": ["d i sː i p a r e"],
-  "dissipato": ["d i sː i p a t o"],
-  "dissipatore": ["d i sː i p a t o r e"],
-  "dissipatori": ["d i sː i p a t o r i"],
-  "dissipatrice": ["d i sː i p a t r i t ʃ e"],
-  "dissipatrici": ["d i sː i p a t r i t ʃ i"],
-  "dissipazione": ["d i sː i p a tː s j o n e"],
-  "dissociabile": ["d i sː o t ʃ a b i l e"],
-  "dissociabili": ["d i sː o t ʃ a b i l i"],
-  "dissociare": ["d i sː o t ʃ a r e"],
-  "dissociata": ["d i sː o t ʃ a t a"],
-  "dissociate": ["d i sː o t ʃ a t e"],
-  "dissociati": ["d i sː o t ʃ a t i"],
-  "dissociato": ["d i sː o t ʃ a t o", "i sː o t ʃ a t o"],
-  "dissociazione": ["d i sː o t ʃ a t s j o n e"],
-  "dissodare": ["d i sː o d a r e"],
-  "dissolto": ["d i sː ɔ l t o"],
-  "dissolubile": ["d i sː o l u b i l e"],
-  "dissolubili": ["d i sː o l u b i l i"],
-  "dissolutamente": ["d i sː o l u t a m e n t e"],
-  "dissoluto": ["d i sː o l u t o"],
-  "dissoluzione": ["d i sː o l u t s j o n e"],
-  "dissolvenza": ["d i sː o l v ɛ n t s a"],
-  "dissolvere": ["d i sː ɔ l v e r e"],
-  "dissolversi": ["d i sː ɔ l v e r s i"],
-  "dissomiglianza": ["d i sː o m i ʎ a n t s a"],
-  "dissonante": ["d i sː o n a n t e"],
-  "dissonanti": ["d i sː o n a n t i"],
-  "dissonanza": ["d i sː o n a n t s a"],
-  "dissonanze": ["d i sː o n a n t s e"],
-  "dissonnare": ["d i sː o nː a r e"],
-  "dissotterrare": ["d i sː o tː e rː a r e"],
-  "dissuadente": ["d i sː w a d e n t e"],
-  "dissuadere": ["d i sː u a d e r e", "d i sː w a d e r e"],
-  "dissuadersi": ["d i sː u a d e r s i"],
-  "dissuasione": ["d i sː w a z j o n e"],
-  "dissuasivamente": ["d i sː u a z i v a m e n t e"],
-  "dissuasivo": ["d i sː u a z i v o"],
-  "dissuaso": ["d i sː u a z o"],
-  "dissuetudine": ["d i sː w e t u d i n e"],
-  "distaccabile": ["d i s t a kː a b i l e"],
-  "distaccabili": ["d i s t a kː a b i l i"],
-  "distaccare": ["d i s t a kː a r e"],
-  "distaccatamente": ["d i s t a kː a t a m e n t e"],
-  "distaccato": ["d i s t a kː a t o"],
-  "distacchi": ["d i s t a kː i"],
-  "distacco": ["d i s t a kː o"],
-  "distale": ["d i s t a l e"],
-  "distante": ["d i s t a n t e"],
-  "distanti": ["d i s t a n t i"],
-  "distantissima": ["d i s t a n t i sː i m a"],
-  "distantissime": ["d i s t a n t i sː i m e"],
-  "distantissimi": ["d i s t a n t i sː i m i"],
-  "distantissimo": ["d i s t a n t i sː i m o"],
-  "distanza": ["d i s t a n t s a"],
-  "distanziamenti": ["d i s t a n t s j a m e n t i"],
-  "distanziamento": ["d i s t a n t s j a m e n t o"],
-  "distanziare": ["d i s t a n t s j a r e"],
-  "distare": ["d i s t a r e"],
-  "distendente": ["d i s t ɛ n d e n t e"],
-  "distendere": ["d i s t ɛ n d e r e"],
-  "distendersi": ["d i s t ɛ n d e r s i"],
-  "distensione": ["d i s t e n s j o n e"],
-  "distensivo": ["d i s t e n s i v o"],
-  "distesa": ["d i s t e s a", "d i s t e z a"],
-  "disteso": ["d i s t e z o"],
-  "distico": ["d i s t i k o"],
-  "distilla": ["d i s t i lː a"],
-  "distillabile": ["d i s t i lː a b i l e"],
-  "distillabili": ["d i s t i lː a b i l i"],
-  "distillai": ["d i s t i lː a i"],
-  "distillante": ["d i s t i lː a n t e"],
-  "distillare": ["d i s t i lː a r e"],
-  "distillata": ["d i s t i lː a t a"],
-  "distillate": ["d i s t i lː a t e"],
-  "distillati": ["d i s t i lː a t i"],
-  "distillato": ["d i s t i lː a t o"],
-  "distillatore": ["d i s t i lː a t o r e"],
-  "distillatori": ["d i s t i lː a t o r i"],
-  "distillatrice": ["d i s t i lː a t r i t ʃ e"],
-  "distillatrici": ["d i s t i lː a t r i t ʃ i"],
-  "distillazione": ["d i s t i lː a t s j o n e", "d i s t i lː a tː s j o n e"],
-  "distillazioni": ["d i s t i lː a t s j o n i"],
-  "distillerai": ["d i s t i lː e r a i"],
-  "distilleria": ["d i s t i lː e r i a"],
-  "distinazione": ["d i s t i n a tː s j o n e"],
-  "distinguente": ["d i s t i ɲ ɡ w e n t e"],
-  "distinguere": ["d i s t i n ɡ w e r e", "d i s t i ɲ ɡ w e r e"],
-  "distinguersi": ["d i s t i ɲ ɡ w e r s i"],
-  "distinguibile": ["d i s t i n ɡ w i b i l e"],
-  "distinguibili": ["d i s t i n ɡ w i b i l i"],
-  "distinguibilmente": ["d i s t i n ɡ w i b i l m e n t e"],
-  "distinguo": ["d i s t i n ɡ w o"],
-  "distintamente": ["d i s t i n t a m e n t e"],
-  "distintivo": ["d i s t i n t i v o"],
-  "distinto": ["d i s t i n t o", "d i s t i n t ɔ"],
-  "distinzione": ["d i s t i n t s i o n e", "d i s t i n t s j o n e"],
-  "distogliere": ["d i s t ɔ ʎ e r e"],
-  "distogliersi": ["d i s t ɔ ʎ e r s i"],
-  "distolto": ["d i s t ɔ l t o"],
-  "distonia": ["d i s t o n i a"],
-  "distonico": ["d i s t ɔ n i k o"],
-  "distopia": ["d i s t o p i a"],
-  "distopico": ["d i s t ɔ p i k o"],
-  "distorcere": ["d i s t ɔ r t ʃ e r e"],
-  "distorsione": ["d i s t o r s j o n e"],
-  "distorsioni": ["d i s t o r s j o n i"],
-  "distorto": ["d i s t ɔ r t o"],
-  "distrae": ["d i s t r a e"],
-  "distraemmo": ["d i s t r a e mː o"],
-  "distraendo": ["d i s t r a e n d o"],
-  "distraente": ["d i s t r a e n t e", "d i s t r a ɛ n t e"],
-  "distraenti": ["d i s t r a ɛ n t i"],
-  "distraesse": ["d i s t r a e sː e"],
-  "distraessero": ["d i s t r a e sː e r o"],
-  "distraessi": ["d i s t r a e sː i"],
-  "distraessimo": ["d i s t r a e sː i m o"],
-  "distraeste": ["d i s t r a e s t e"],
-  "distraesti": ["d i s t r a e s t i"],
-  "distraete": ["d i s t r a e t e"],
-  "distraeva": ["d i s t r a e v a"],
-  "distraevamo": ["d i s t r a e v a m o"],
-  "distraevano": ["d i s t r a e v a n o"],
-  "distraevate": ["d i s t r a e v a t e"],
-  "distraevi": ["d i s t r a e v i"],
-  "distraevo": ["d i s t r a e v o"],
-  "distragga": ["d i s t r a ɡː a"],
-  "distraggano": ["d i s t r a ɡː a n o"],
-  "distraggere": ["d i s t r a dː ʒ e r e"],
-  "distraggo": ["d i s t r a ɡː o"],
-  "distraggono": ["d i s t r a ɡː o n o"],
-  "distrai": ["d i s t r a i"],
-  "distraiamo": ["d i s t r a j a m o"],
-  "distraiate": ["d i s t r a j a t e"],
-  "distraibile": ["d i s t r a i b i l e"],
-  "distraibili": ["d i s t r a i b i l i"],
-  "distrarrà": ["d i s t r a rː a"],
-  "distrarrai": ["d i s t r a rː a i"],
-  "distrarranno": ["d i s t r a rː a nː o"],
-  "distrarre": ["d i s t r a rː e"],
-  "distrarrebbe": ["d i s t r a rː e bː e"],
-  "distrarrebbero": ["d i s t r a rː e bː e r o"],
-  "distrarrei": ["d i s t r a rː e i"],
-  "distrarremmo": ["d i s t r a rː e m o"],
-  "distrarremo": ["d i s t r a rː e m o"],
-  "distrarreste": ["d i s t r a rː e s t e"],
-  "distrarresti": ["d i s t r a rː e s t i"],
-  "distrarrete": ["d i s t r a rː e t e"],
-  "distrarrò": ["d i s t r a rː o"],
-  "distrarsi": ["d i s t r a r s i"],
-  "distrasse": ["d i s t r a sː e"],
-  "distrassero": ["d i s t r a sː e r o"],
-  "distrassi": ["d i s t r a sː i"],
-  "distratta": ["d i s t r a tː a"],
-  "distrattamente": ["d i s t r a tː a m e n t e"],
-  "distratte": ["d i s t r a tː e"],
-  "distratti": ["d i s t r a tː i"],
-  "distratto": ["d i s t r a tː o"],
-  "distrazione": ["d i s t r a tː s j o n e"],
-  "distrazioni": ["d i s t r a tː s j o n i"],
-  "distretta": ["d i s t r e tː a"],
-  "distrette": ["d i s t r e tː e"],
-  "distretti": ["d i s t r e tː i"],
-  "distretto": ["d i s t r e tː o"],
-  "distribuibile": ["d i s t r i b u i b i l e"],
-  "distribuibili": ["d i s t r i b u i b i l i"],
-  "distribuire": ["d i s t r i b u i r e", "d i s t r i b w i r e"],
-  "distribuita": ["d i s t r i b w i t a"],
-  "distribuite": ["d i s t r i b w i t e"],
-  "distribuiti": ["d i s t r i b w i t i"],
-  "distribuito": ["d i s t r i b u i t o", "d i s t r i b w i t o"],
-  "distributiva": ["d i s t r i b u t i v a"],
-  "distributive": ["d i s t r i b u t i v e"],
-  "distributivi": ["d i s t r i b u t i v i"],
-  "distributività": ["d i s t r i b u t i v i t a"],
-  "distributivo": ["d i s t r i b u t i v o"],
-  "distributore": ["d i s t r i b u t o r e"],
-  "distributori": ["d i s t r i b u t o r i"],
-  "distributrice": ["d i s t r i b u t r i t ʃ e"],
-  "distributrici": ["d i s t r i b u t r i t ʃ i"],
-  "distribuzione": ["d i s t r i b u t s j o n e"],
-  "districare": ["d i s t r i k a r e"],
-  "districarsi": ["d i s t r i k a r s i"],
-  "districato": ["d i s t r i k a t o"],
-  "distringere": ["d i s t r i n d ʒ e r e"],
-  "distrofia": ["d i s t r o f i a"],
-  "distruggere": ["d i s t r u dː ʒ e r e"],
-  "distruggibile": ["d i s t r u dː ʒ i b i l e"],
-  "distruggibili": ["d i s t r u dː ʒ i b i l i"],
-  "distrutta": ["d i s t r u tː a"],
-  "distrutte": ["d i s t r u tː o"],
-  "distrutti": ["d i s t r u tː i"],
-  "distruttibile": ["d i s t r u t i b i l e"],
-  "distruttibili": ["d i s t r u t i b i l i"],
-  "distruttivo": ["d i s t r u tː i v o"],
-  "distrutto": ["d i s t r u tː o"],
-  "distruttore": ["d i s t r u tː o r e"],
-  "distruzione": ["d i s t r u t s j o n e", "d i s t r u tː s j o n e"],
-  "distruzioni": ["d i s t r u t s j o n i"],
-  "disturbante": ["d i s t u r b a n t e"],
-  "disturbanti": ["d i s t u r b a n t i"],
-  "disturbanza": ["d i s t u r b a n t s a"],
-  "disturbare": ["d i s t u r b a r e"],
-  "disturbarsi": ["d i s t u r b a r s i"],
-  "disturbato": ["d i s t u r b a t o"],
-  "disturbi": ["d i s t u r b i"],
-  "disturbo": ["d i s t u r b o"],
-  "disubbidente": ["d i z u bː i d j ɛ n t e"],
-  "disubbidiente": ["d i z u bː i d j ɛ n t e"],
-  "disubbidienti": ["d i z u bː i d j ɛ n t i"],
-  "disubbidienza": ["d i z u bː i d j ɛ n t s a"],
-  "disubbidienze": ["d i z u bː i d j ɛ n t s e"],
-  "disubbidire": ["d i z u bː i d i r e"],
-  "disubbidito": ["d i z u bː i d i t o"],
-  "disuguaglianza": ["d i z u ɡ w a ʎ a n t s a"],
-  "disuguaglianze": ["d i z u ɡ w a ʎ a n t s e"],
-  "disumanamente": ["d i z u m a n a m e n t e"],
-  "disumanizzante": ["d i s u m a n i dː ʒ a n t e"],
-  "disumanizzare": ["d i s u m a n i dː ʒ a r e"],
-  "disumanizzato": ["d i s u m a n i dː ʒ a t o"],
-  "disumanizzazione": ["d i s u m a n i dː ʒ a t s j o n e"],
-  "disumanizzazioni": ["d i s u m a n i dː ʒ a t s j o n i"],
-  "disumano": ["d i z u m a n o"],
-  "disunente": ["d i z u n e n t e"],
-  "disungere": ["d i s u n d ʒ e r e"],
-  "disunione": ["d i z u n j o n e"],
-  "disunire": ["d i z u n i r e"],
-  "disunirsi": ["d i z u n i r s i"],
-  "disunito": ["d i z u n i t o"],
-  "disuria": ["d i z u r j a"],
-  "disurie": ["d i z u r j e"],
-  "disuso": ["d i z u s o"],
-  "disutile": ["d i z u t i l e"],
-  "disvariare": ["d i z v a r j a r e"],
-  "disvelamento": ["d i z v e l a m e n t o"],
-  "disvelato": ["d i z v e l a t o"],
-  "disvellere": ["d i z v ɛ lː e r e"],
-  "disverre": ["d i z v ɛ rː e"],
-  "disvolere": ["d i z v o l e r e"],
-  "dita": ["d i t a"],
-  "ditale": ["d i t a l e"],
-  "ditali": ["d i t a l i"],
-  "ditalino": ["d i t a l i n o"],
-  "ditata": ["d i t a t a"],
-  "dite": ["d i t e"],
-  "diteggiatura": ["d i t e dː ʒ a t u r a"],
-  "diteggiature": ["d i t e dː ʒ a t u r e"],
-  "ditella": ["d i t ɛ lː a"],
-  "diti": ["d i t i"],
-  "ditirambico": ["d i t i r a m b i k o"],
-  "ditirambo": ["d i t i r a m b o"],
-  "ditisco": ["d i t i s k o"],
-  "dito": ["d i t o"],
-  "ditola": ["d i t o l a"],
-  "ditta": ["d i tː a"],
-  "dittatore": ["d i tː a t o r e"],
-  "dittatori": ["d i tː a t o r i", "d i tː a t ɔ r i"],
-  "dittatoria": ["d i tː a t ɔ r j a"],
-  "dittatoriale": ["d i tː a t o r j a l e"],
-  "dittatoriali": ["d i tː a t o r j a l i"],
-  "dittatorialmente": ["d i tː a t o r j a l m e n t e"],
-  "dittatorie": ["d i tː a t ɔ r j e"],
-  "dittatorio": ["d i tː a t ɔ r j o"],
-  "dittatrice": ["d i tː a t r i t ʃ e"],
-  "dittatrici": ["d i tː a t r i t ʃ i"],
-  "dittatura": ["d i tː a t u r a"],
-  "dittature": ["d i tː a t u r e"],
-  "ditteri": ["d i tː e r i"],
-  "dittero": ["d i tː e r o"],
-  "dittinella": ["d i tː i n ɛ lː a"],
-  "dittologia": ["d i tː o l o d ʒ i a"],
-  "dittologie": ["d i tː o l o d ʒ i a"],
-  "dittongo": ["d i tː ɔ n ɡ o"],
-  "diuretico": ["d j u r ɛ t i k o"],
-  "diurna": ["d i u r n a"],
-  "diurne": ["d i u r n e"],
-  "diurni": ["d i u r n i"],
-  "diurnista": ["d i u r n i s t a"],
-  "diurniste": ["d i u r n i s t e"],
-  "diurnisti": ["d i u r n i s t i"],
-  "diurno": ["d i u r n o"],
-  "diuturna": ["d j u t u r n a"],
-  "diuturne": ["d j u t u r n e"],
-  "diuturni": ["d j u t u r n i"],
-  "diuturnità": ["d j u t u r n i t a"],
-  "diuturno": ["d j u t u r n o"],
-  "divagare": ["d i v a ɡ a r e"],
-  "divallare": ["d i v a lː a r e"],
-  "divampamento": ["d i v a m p a m e n t o"],
-  "divampare": ["d i v a m p a r e"],
-  "divanetto": ["d i v a n e tː o"],
-  "divani": ["d i v a n i"],
-  "divano": ["d i v a n o"],
-  "divaricare": ["d i v a r i k a r e"],
-  "divaricato": ["d i v a r i k a t o"],
-  "divaricatore": ["d i v a r i k a t o r e"],
-  "divaricazione": ["d i v a r i k a tː s j o n e"],
-  "divario": ["d i v a r j o"],
-  "divedere": ["d i v e d e r e"],
-  "divellere": ["d i v ɛ lː e r e"],
-  "divelto": ["d i v ɛ l t o"],
-  "diveniente": ["d i v e n j e n t e"],
-  "divenire": ["d i v e n i r e"],
-  "diventa": ["d i v e n t a"],
-  "diventai": ["d i v e n t a i"],
-  "diventammo": ["d i v e n t a mː o"],
-  "diventando": ["d i v e n t a n d o"],
-  "diventano": ["d i v e n t a n o"],
-  "diventante": ["d i v e n t a n t e"],
-  "diventare": ["d i v e n t a r e"]
+  "dispiegabili": [
+    "dispjeɡabili"
+  ],
+  "dispiegamento": [
+    "dispjeɡamento"
+  ],
+  "dispiegare": [
+    "dispjeɡare"
+  ],
+  "dispnea": [
+    "dispnɛa"
+  ],
+  "dispone": [
+    "dispone"
+  ],
+  "disponemmo": [
+    "disponemːo"
+  ],
+  "disponendo": [
+    "disponendo"
+  ],
+  "disponente": [
+    "disponente"
+  ],
+  "disponenti": [
+    "disponenti"
+  ],
+  "disponesse": [
+    "disponesːe"
+  ],
+  "disponessero": [
+    "disponesːero"
+  ],
+  "disponessi": [
+    "disponesːi"
+  ],
+  "disponessimo": [
+    "disponesːimo"
+  ],
+  "disponeste": [
+    "disponːeste"
+  ],
+  "disponesti": [
+    "disponesti"
+  ],
+  "disponete": [
+    "disponete"
+  ],
+  "disponeva": [
+    "disponeva"
+  ],
+  "disponevamo": [
+    "disponevamo"
+  ],
+  "disponevano": [
+    "disponevano"
+  ],
+  "disponevate": [
+    "disponevate"
+  ],
+  "disponevi": [
+    "disponevi"
+  ],
+  "disponevo": [
+    "disponevo"
+  ],
+  "disponga": [
+    "disponɡa"
+  ],
+  "dispongano": [
+    "disponɡano"
+  ],
+  "dispongo": [
+    "disponɡo"
+  ],
+  "dispongono": [
+    "disponɡono"
+  ],
+  "disponi": [
+    "disponi"
+  ],
+  "disponiamo": [
+    "disponjamo"
+  ],
+  "disponiate": [
+    "disponjate"
+  ],
+  "disponibile": [
+    "disponibile"
+  ],
+  "disponibili": [
+    "disponibili"
+  ],
+  "disponibilissima": [
+    "disponibilisːima"
+  ],
+  "disponibilissime": [
+    "disponibilisːime"
+  ],
+  "disponibilissimi": [
+    "disponibilisːimi"
+  ],
+  "disponibilissimo": [
+    "disponibilisːimo"
+  ],
+  "disponibilità": [
+    "disponibilita"
+  ],
+  "disporrà": [
+    "porːa"
+  ],
+  "disporrai": [
+    "disporːai"
+  ],
+  "disporranno": [
+    "disporːanːo"
+  ],
+  "disporre": [
+    "disporːe"
+  ],
+  "disporrebbe": [
+    "disporːebːe"
+  ],
+  "disporrebbero": [
+    "disporːebːero"
+  ],
+  "disporrei": [
+    "disporːei"
+  ],
+  "disporremmo": [
+    "disporːemo"
+  ],
+  "disporremo": [
+    "disporːemo"
+  ],
+  "disporreste": [
+    "disporːeste"
+  ],
+  "disporresti": [
+    "disporːesti"
+  ],
+  "disporrete": [
+    "disporːete"
+  ],
+  "disporrò": [
+    "disporːo"
+  ],
+  "disporsi": [
+    "disporsi"
+  ],
+  "disposare": [
+    "dispozare"
+  ],
+  "dispose": [
+    "dispose"
+  ],
+  "disposero": [
+    "disposero"
+  ],
+  "disposi": [
+    "disposi"
+  ],
+  "dispositivi": [
+    "dispositivi"
+  ],
+  "dispositivo": [
+    "dispositivo"
+  ],
+  "disposizione": [
+    "dispozitsjone",
+    "dispozitːsjone"
+  ],
+  "disposofobia": [
+    "dispozofobia"
+  ],
+  "disposofobie": [
+    "dispozofobie"
+  ],
+  "disposta": [
+    "disposta"
+  ],
+  "disposte": [
+    "disposte"
+  ],
+  "disposti": [
+    "disposti"
+  ],
+  "disposto": [
+    "disposto"
+  ],
+  "dispotica": [
+    "dispɔtika"
+  ],
+  "dispoticamente": [
+    "dispotikamente"
+  ],
+  "dispotiche": [
+    "dispɔtike"
+  ],
+  "dispotici": [
+    "dispɔtitʃi"
+  ],
+  "dispotico": [
+    "dispɔtiko"
+  ],
+  "dispotismi": [
+    "dispotizmi"
+  ],
+  "dispotismo": [
+    "dispotizmo"
+  ],
+  "dispregiare": [
+    "dispredʒare"
+  ],
+  "dispregiativamente": [
+    "dispredʒativamente"
+  ],
+  "dispregio": [
+    "disprɛdʒo"
+  ],
+  "disprezzante": [
+    "dispretːsante"
+  ],
+  "disprezzare": [
+    "dispretsare",
+    "dispretːsare"
+  ],
+  "disprezzato": [
+    "dispretsato",
+    "disprɛtːsato"
+  ],
+  "disprezzi": [
+    "disprɛtːsi"
+  ],
+  "disprezzo": [
+    "disprɛtːso"
+  ],
+  "disprosio": [
+    "disprɔzjo"
+  ],
+  "disputa": [
+    "disputa"
+  ],
+  "disputabile": [
+    "disputabile"
+  ],
+  "disputabili": [
+    "disputabili"
+  ],
+  "disputai": [
+    "disputai"
+  ],
+  "disputammo": [
+    "disputamːo"
+  ],
+  "disputando": [
+    "disputando"
+  ],
+  "disputano": [
+    "disputano"
+  ],
+  "disputante": [
+    "disputante"
+  ],
+  "disputare": [
+    "disputare"
+  ],
+  "disputarono": [
+    "disputarono"
+  ],
+  "disputasse": [
+    "disputasːe"
+  ],
+  "disputassero": [
+    "disputasːero"
+  ],
+  "disputassi": [
+    "disputasːi"
+  ],
+  "disputassimo": [
+    "disputasːimo"
+  ],
+  "disputaste": [
+    "disputaste"
+  ],
+  "disputasti": [
+    "disputasti"
+  ],
+  "disputate": [
+    "disputate"
+  ],
+  "disputato": [
+    "disputato"
+  ],
+  "disputava": [
+    "disputava"
+  ],
+  "disputavamo": [
+    "disputavamo"
+  ],
+  "disputavano": [
+    "disputavano"
+  ],
+  "disputavate": [
+    "disputavate"
+  ],
+  "disputavi": [
+    "disputavi"
+  ],
+  "disputavo": [
+    "disputavo"
+  ],
+  "disputerà": [
+    "disputera"
+  ],
+  "disputerai": [
+    "disputerai"
+  ],
+  "disputeranno": [
+    "disputeranːo"
+  ],
+  "disputerebbe": [
+    "disputerebːe"
+  ],
+  "disputerebbero": [
+    "disputerebːero"
+  ],
+  "disputerei": [
+    "disputerei"
+  ],
+  "disputeremmo": [
+    "disputeremːo"
+  ],
+  "disputeremo": [
+    "disputeremo"
+  ],
+  "disputereste": [
+    "disputereste"
+  ],
+  "disputeresti": [
+    "disputeresti"
+  ],
+  "disputerete": [
+    "disputerete"
+  ],
+  "disputerò": [
+    "disputero"
+  ],
+  "disputi": [
+    "disputi"
+  ],
+  "disputiamo": [
+    "disputjamo"
+  ],
+  "disputiate": [
+    "disputjate"
+  ],
+  "disputino": [
+    "disputino"
+  ],
+  "disputo": [
+    "disputo"
+  ],
+  "disputò": [
+    "disputo"
+  ],
+  "disquisire": [
+    "diskwizire"
+  ],
+  "disquisizione": [
+    "diskwizitːsjone"
+  ],
+  "dissacrare": [
+    "disːakrare"
+  ],
+  "dissacratore": [
+    "disːakratore"
+  ],
+  "dissalare": [
+    "desalinidːzare"
+  ],
+  "dissalazione": [
+    "disːalatːsjone"
+  ],
+  "dissanguamento": [
+    "disːaɲɡwamento"
+  ],
+  "dissanguare": [
+    "disːanɡware"
+  ],
+  "dissanguato": [
+    "disːanɡwato"
+  ],
+  "dissanguinare": [
+    "disːanɡwinare"
+  ],
+  "dissapore": [
+    "disːapore"
+  ],
+  "dissapori": [
+    "disːapori"
+  ],
+  "disse": [
+    "disːe"
+  ],
+  "dissecante": [
+    "disːekante"
+  ],
+  "dissecare": [
+    "disːekare"
+  ],
+  "dissecato": [
+    "disːekato"
+  ],
+  "dissemina": [
+    "disːemina"
+  ],
+  "disseminante": [
+    "disːeminante"
+  ],
+  "disseminare": [
+    "disːeminare"
+  ],
+  "disseminasse": [
+    "disːeminasːe"
+  ],
+  "disseminato": [
+    "disːeminato"
+  ],
+  "disseminava": [
+    "disːeminava"
+  ],
+  "dissemino": [
+    "disːemino"
+  ],
+  "dissennatamente": [
+    "disːenːatamente"
+  ],
+  "dissennati": [
+    "disːenːato"
+  ],
+  "dissennato": [
+    "disːenːato"
+  ],
+  "dissensi": [
+    "disːɛnsi"
+  ],
+  "dissenso": [
+    "disːɛnso"
+  ],
+  "dissenteria": [
+    "disːenteria"
+  ],
+  "dissenterie": [
+    "disːenterie"
+  ],
+  "dissentire": [
+    "disːentire"
+  ],
+  "dissentito": [
+    "disːentito"
+  ],
+  "disseparare": [
+    "disːeparare"
+  ],
+  "disseppellire": [
+    "disːepːelːire"
+  ],
+  "dissero": [
+    "disːero"
+  ],
+  "dissertare": [
+    "disːertare"
+  ],
+  "dissertato": [
+    "disːertato"
+  ],
+  "dissertazione": [
+    "disːertatːsjone"
+  ],
+  "disservire": [
+    "disːervire"
+  ],
+  "disservito": [
+    "disːervito"
+  ],
+  "disservizio": [
+    "disːervitːsjo"
+  ],
+  "dissestare": [
+    "disːestare"
+  ],
+  "dissestato": [
+    "disːestato"
+  ],
+  "dissesto": [
+    "disːɛsto"
+  ],
+  "dissetante": [
+    "disːetante"
+  ],
+  "dissezionare": [
+    "disːetːsjonare"
+  ],
+  "dissezione": [
+    "disːetːsjone"
+  ],
+  "dissi": [
+    "disːi"
+  ],
+  "dissidente": [
+    "disːidɛnte"
+  ],
+  "dissidenti": [
+    "disːidɛnti"
+  ],
+  "dissidio": [
+    "disːidjo"
+  ],
+  "dissimilare": [
+    "disimilare"
+  ],
+  "dissimilazione": [
+    "disːimilatsjone"
+  ],
+  "dissimile": [
+    "disːimile"
+  ],
+  "dissimulabile": [
+    "disːimulabile"
+  ],
+  "dissimulabili": [
+    "disːimulabili"
+  ],
+  "dissimulante": [
+    "disːimulante"
+  ],
+  "dissimulare": [
+    "disːimulare"
+  ],
+  "dissimularsi": [
+    "disːimularsi"
+  ],
+  "dissimulatamente": [
+    "disːimulatamente"
+  ],
+  "dissimulato": [
+    "disːimulato"
+  ],
+  "dissimulatore": [
+    "disːimulatore"
+  ],
+  "dissimulatori": [
+    "disːimulatori"
+  ],
+  "dissimulatrice": [
+    "disːimulatritʃe"
+  ],
+  "dissimulatrici": [
+    "disːimulatritʃi"
+  ],
+  "dissimulazione": [
+    "disːimulatsjone"
+  ],
+  "dissimulazioni": [
+    "disːimulatsjoni"
+  ],
+  "dissipabile": [
+    "disːipabile"
+  ],
+  "dissipabili": [
+    "disːipabili"
+  ],
+  "dissipare": [
+    "disːipare"
+  ],
+  "dissipato": [
+    "disːipato"
+  ],
+  "dissipatore": [
+    "disːipatore"
+  ],
+  "dissipatori": [
+    "disːipatori"
+  ],
+  "dissipatrice": [
+    "disːipatritʃe"
+  ],
+  "dissipatrici": [
+    "disːipatritʃi"
+  ],
+  "dissipazione": [
+    "disːipatːsjone"
+  ],
+  "dissociabile": [
+    "disːotʃabile"
+  ],
+  "dissociabili": [
+    "disːotʃabili"
+  ],
+  "dissociare": [
+    "disːotʃare"
+  ],
+  "dissociata": [
+    "disːotʃata"
+  ],
+  "dissociate": [
+    "disːotʃate"
+  ],
+  "dissociati": [
+    "disːotʃati"
+  ],
+  "dissociato": [
+    "disːotʃato",
+    "isːotʃato"
+  ],
+  "dissociazione": [
+    "disːotʃatsjone"
+  ],
+  "dissodare": [
+    "disːodare"
+  ],
+  "dissolto": [
+    "disːɔlto"
+  ],
+  "dissolubile": [
+    "disːolubile"
+  ],
+  "dissolubili": [
+    "disːolubili"
+  ],
+  "dissolutamente": [
+    "disːolutamente"
+  ],
+  "dissoluto": [
+    "disːoluto"
+  ],
+  "dissoluzione": [
+    "disːolutsjone"
+  ],
+  "dissolvenza": [
+    "disːolvɛntsa"
+  ],
+  "dissolvere": [
+    "disːɔlvere"
+  ],
+  "dissolversi": [
+    "disːɔlversi"
+  ],
+  "dissomiglianza": [
+    "disːomiʎantsa"
+  ],
+  "dissonante": [
+    "disːonante"
+  ],
+  "dissonanti": [
+    "disːonanti"
+  ],
+  "dissonanza": [
+    "disːonantsa"
+  ],
+  "dissonanze": [
+    "disːonantse"
+  ],
+  "dissonnare": [
+    "disːonːare"
+  ],
+  "dissotterrare": [
+    "disːotːerːare"
+  ],
+  "dissuadente": [
+    "disːwadente"
+  ],
+  "dissuadere": [
+    "disːuadere",
+    "disːwadere"
+  ],
+  "dissuadersi": [
+    "disːuadersi"
+  ],
+  "dissuasione": [
+    "disːwazjone"
+  ],
+  "dissuasivamente": [
+    "disːuazivamente"
+  ],
+  "dissuasivo": [
+    "disːuazivo"
+  ],
+  "dissuaso": [
+    "disːuazo"
+  ],
+  "dissuetudine": [
+    "disːwetudine"
+  ],
+  "distaccabile": [
+    "distakːabile"
+  ],
+  "distaccabili": [
+    "distakːabili"
+  ],
+  "distaccare": [
+    "distakːare"
+  ],
+  "distaccatamente": [
+    "distakːatamente"
+  ],
+  "distaccato": [
+    "distakːato"
+  ],
+  "distacchi": [
+    "distakːi"
+  ],
+  "distacco": [
+    "distakːo"
+  ],
+  "distale": [
+    "distale"
+  ],
+  "distante": [
+    "distante"
+  ],
+  "distanti": [
+    "distanti"
+  ],
+  "distantissima": [
+    "distantisːima"
+  ],
+  "distantissime": [
+    "distantisːime"
+  ],
+  "distantissimi": [
+    "distantisːimi"
+  ],
+  "distantissimo": [
+    "distantisːimo"
+  ],
+  "distanza": [
+    "distantsa"
+  ],
+  "distanziamenti": [
+    "distantsjamenti"
+  ],
+  "distanziamento": [
+    "distantsjamento"
+  ],
+  "distanziare": [
+    "distantsjare"
+  ],
+  "distare": [
+    "distare"
+  ],
+  "distendente": [
+    "distɛndente"
+  ],
+  "distendere": [
+    "distɛndere"
+  ],
+  "distendersi": [
+    "distɛndersi"
+  ],
+  "distensione": [
+    "distensjone"
+  ],
+  "distensivo": [
+    "distensivo"
+  ],
+  "distesa": [
+    "distesa",
+    "disteza"
+  ],
+  "disteso": [
+    "distezo"
+  ],
+  "distico": [
+    "distiko"
+  ],
+  "distilla": [
+    "distilːa"
+  ],
+  "distillabile": [
+    "distilːabile"
+  ],
+  "distillabili": [
+    "distilːabili"
+  ],
+  "distillai": [
+    "distilːai"
+  ],
+  "distillante": [
+    "distilːante"
+  ],
+  "distillare": [
+    "distilːare"
+  ],
+  "distillata": [
+    "distilːata"
+  ],
+  "distillate": [
+    "distilːate"
+  ],
+  "distillati": [
+    "distilːati"
+  ],
+  "distillato": [
+    "distilːato"
+  ],
+  "distillatore": [
+    "distilːatore"
+  ],
+  "distillatori": [
+    "distilːatori"
+  ],
+  "distillatrice": [
+    "distilːatritʃe"
+  ],
+  "distillatrici": [
+    "distilːatritʃi"
+  ],
+  "distillazione": [
+    "distilːatsjone",
+    "distilːatːsjone"
+  ],
+  "distillazioni": [
+    "distilːatsjoni"
+  ],
+  "distillerai": [
+    "distilːerai"
+  ],
+  "distilleria": [
+    "distilːeria"
+  ],
+  "distinazione": [
+    "distinatːsjone"
+  ],
+  "distinguente": [
+    "distiɲɡwente"
+  ],
+  "distinguere": [
+    "distinɡwere",
+    "distiɲɡwere"
+  ],
+  "distinguersi": [
+    "distiɲɡwersi"
+  ],
+  "distinguibile": [
+    "distinɡwibile"
+  ],
+  "distinguibili": [
+    "distinɡwibili"
+  ],
+  "distinguibilmente": [
+    "distinɡwibilmente"
+  ],
+  "distinguo": [
+    "distinɡwo"
+  ],
+  "distintamente": [
+    "distintamente"
+  ],
+  "distintivo": [
+    "distintivo"
+  ],
+  "distinto": [
+    "distinto",
+    "distintɔ"
+  ],
+  "distinzione": [
+    "distintsione",
+    "distintsjone"
+  ],
+  "distogliere": [
+    "distɔʎere"
+  ],
+  "distogliersi": [
+    "distɔʎersi"
+  ],
+  "distolto": [
+    "distɔlto"
+  ],
+  "distonia": [
+    "distonia"
+  ],
+  "distonico": [
+    "distɔniko"
+  ],
+  "distopia": [
+    "distopia"
+  ],
+  "distopico": [
+    "distɔpiko"
+  ],
+  "distorcere": [
+    "distɔrtʃere"
+  ],
+  "distorsione": [
+    "distorsjone"
+  ],
+  "distorsioni": [
+    "distorsjoni"
+  ],
+  "distorto": [
+    "distɔrto"
+  ],
+  "distrae": [
+    "distrae"
+  ],
+  "distraemmo": [
+    "distraemːo"
+  ],
+  "distraendo": [
+    "distraendo"
+  ],
+  "distraente": [
+    "distraente",
+    "distraɛnte"
+  ],
+  "distraenti": [
+    "distraɛnti"
+  ],
+  "distraesse": [
+    "distraesːe"
+  ],
+  "distraessero": [
+    "distraesːero"
+  ],
+  "distraessi": [
+    "distraesːi"
+  ],
+  "distraessimo": [
+    "distraesːimo"
+  ],
+  "distraeste": [
+    "distraeste"
+  ],
+  "distraesti": [
+    "distraesti"
+  ],
+  "distraete": [
+    "distraete"
+  ],
+  "distraeva": [
+    "distraeva"
+  ],
+  "distraevamo": [
+    "distraevamo"
+  ],
+  "distraevano": [
+    "distraevano"
+  ],
+  "distraevate": [
+    "distraevate"
+  ],
+  "distraevi": [
+    "distraevi"
+  ],
+  "distraevo": [
+    "distraevo"
+  ],
+  "distragga": [
+    "distraɡːa"
+  ],
+  "distraggano": [
+    "distraɡːano"
+  ],
+  "distraggere": [
+    "distradːʒere"
+  ],
+  "distraggo": [
+    "distraɡːo"
+  ],
+  "distraggono": [
+    "distraɡːono"
+  ],
+  "distrai": [
+    "distrai"
+  ],
+  "distraiamo": [
+    "distrajamo"
+  ],
+  "distraiate": [
+    "distrajate"
+  ],
+  "distraibile": [
+    "distraibile"
+  ],
+  "distraibili": [
+    "distraibili"
+  ],
+  "distrarrà": [
+    "distrarːa"
+  ],
+  "distrarrai": [
+    "distrarːai"
+  ],
+  "distrarranno": [
+    "distrarːanːo"
+  ],
+  "distrarre": [
+    "distrarːe"
+  ],
+  "distrarrebbe": [
+    "distrarːebːe"
+  ],
+  "distrarrebbero": [
+    "distrarːebːero"
+  ],
+  "distrarrei": [
+    "distrarːei"
+  ],
+  "distrarremmo": [
+    "distrarːemo"
+  ],
+  "distrarremo": [
+    "distrarːemo"
+  ],
+  "distrarreste": [
+    "distrarːeste"
+  ],
+  "distrarresti": [
+    "distrarːesti"
+  ],
+  "distrarrete": [
+    "distrarːete"
+  ],
+  "distrarrò": [
+    "distrarːo"
+  ],
+  "distrarsi": [
+    "distrarsi"
+  ],
+  "distrasse": [
+    "distrasːe"
+  ],
+  "distrassero": [
+    "distrasːero"
+  ],
+  "distrassi": [
+    "distrasːi"
+  ],
+  "distratta": [
+    "distratːa"
+  ],
+  "distrattamente": [
+    "distratːamente"
+  ],
+  "distratte": [
+    "distratːe"
+  ],
+  "distratti": [
+    "distratːi"
+  ],
+  "distratto": [
+    "distratːo"
+  ],
+  "distrazione": [
+    "distratːsjone"
+  ],
+  "distrazioni": [
+    "distratːsjoni"
+  ],
+  "distretta": [
+    "distretːa"
+  ],
+  "distrette": [
+    "distretːe"
+  ],
+  "distretti": [
+    "distretːi"
+  ],
+  "distretto": [
+    "distretːo"
+  ],
+  "distribuibile": [
+    "distribuibile"
+  ],
+  "distribuibili": [
+    "distribuibili"
+  ],
+  "distribuire": [
+    "distribuire",
+    "distribwire"
+  ],
+  "distribuita": [
+    "distribwita"
+  ],
+  "distribuite": [
+    "distribwite"
+  ],
+  "distribuiti": [
+    "distribwiti"
+  ],
+  "distribuito": [
+    "distribuito",
+    "distribwito"
+  ],
+  "distributiva": [
+    "distributiva"
+  ],
+  "distributive": [
+    "distributive"
+  ],
+  "distributivi": [
+    "distributivi"
+  ],
+  "distributività": [
+    "distributivita"
+  ],
+  "distributivo": [
+    "distributivo"
+  ],
+  "distributore": [
+    "distributore"
+  ],
+  "distributori": [
+    "distributori"
+  ],
+  "distributrice": [
+    "distributritʃe"
+  ],
+  "distributrici": [
+    "distributritʃi"
+  ],
+  "distribuzione": [
+    "distributsjone"
+  ],
+  "districare": [
+    "distrikare"
+  ],
+  "districarsi": [
+    "distrikarsi"
+  ],
+  "districato": [
+    "distrikato"
+  ],
+  "distringere": [
+    "distrindʒere"
+  ],
+  "distrofia": [
+    "distrofia"
+  ],
+  "distruggere": [
+    "distrudːʒere"
+  ],
+  "distruggibile": [
+    "distrudːʒibile"
+  ],
+  "distruggibili": [
+    "distrudːʒibili"
+  ],
+  "distrutta": [
+    "distrutːa"
+  ],
+  "distrutte": [
+    "distrutːo"
+  ],
+  "distrutti": [
+    "distrutːi"
+  ],
+  "distruttibile": [
+    "distrutibile"
+  ],
+  "distruttibili": [
+    "distrutibili"
+  ],
+  "distruttivo": [
+    "distrutːivo"
+  ],
+  "distrutto": [
+    "distrutːo"
+  ],
+  "distruttore": [
+    "distrutːore"
+  ],
+  "distruzione": [
+    "distrutsjone",
+    "distrutːsjone"
+  ],
+  "distruzioni": [
+    "distrutsjoni"
+  ],
+  "disturbante": [
+    "disturbante"
+  ],
+  "disturbanti": [
+    "disturbanti"
+  ],
+  "disturbanza": [
+    "disturbantsa"
+  ],
+  "disturbare": [
+    "disturbare"
+  ],
+  "disturbarsi": [
+    "disturbarsi"
+  ],
+  "disturbato": [
+    "disturbato"
+  ],
+  "disturbi": [
+    "disturbi"
+  ],
+  "disturbo": [
+    "disturbo"
+  ],
+  "disubbidente": [
+    "dizubːidjɛnte"
+  ],
+  "disubbidiente": [
+    "dizubːidjɛnte"
+  ],
+  "disubbidienti": [
+    "dizubːidjɛnti"
+  ],
+  "disubbidienza": [
+    "dizubːidjɛntsa"
+  ],
+  "disubbidienze": [
+    "dizubːidjɛntse"
+  ],
+  "disubbidire": [
+    "dizubːidire"
+  ],
+  "disubbidito": [
+    "dizubːidito"
+  ],
+  "disuguaglianza": [
+    "dizuɡwaʎantsa"
+  ],
+  "disuguaglianze": [
+    "dizuɡwaʎantse"
+  ],
+  "disumanamente": [
+    "dizumanamente"
+  ],
+  "disumanizzante": [
+    "disumanidːʒante"
+  ],
+  "disumanizzare": [
+    "disumanidːʒare"
+  ],
+  "disumanizzato": [
+    "disumanidːʒato"
+  ],
+  "disumanizzazione": [
+    "disumanidːʒatsjone"
+  ],
+  "disumanizzazioni": [
+    "disumanidːʒatsjoni"
+  ],
+  "disumano": [
+    "dizumano"
+  ],
+  "disunente": [
+    "dizunente"
+  ],
+  "disungere": [
+    "disundʒere"
+  ],
+  "disunione": [
+    "dizunjone"
+  ],
+  "disunire": [
+    "dizunire"
+  ],
+  "disunirsi": [
+    "dizunirsi"
+  ],
+  "disunito": [
+    "dizunito"
+  ],
+  "disuria": [
+    "dizurja"
+  ],
+  "disurie": [
+    "dizurje"
+  ],
+  "disuso": [
+    "dizuso"
+  ],
+  "disutile": [
+    "dizutile"
+  ],
+  "disvariare": [
+    "dizvarjare"
+  ],
+  "disvelamento": [
+    "dizvelamento"
+  ],
+  "disvelato": [
+    "dizvelato"
+  ],
+  "disvellere": [
+    "dizvɛlːere"
+  ],
+  "disverre": [
+    "dizvɛrːe"
+  ],
+  "disvolere": [
+    "dizvolere"
+  ],
+  "dita": [
+    "dita"
+  ],
+  "ditale": [
+    "ditale"
+  ],
+  "ditali": [
+    "ditali"
+  ],
+  "ditalino": [
+    "ditalino"
+  ],
+  "ditata": [
+    "ditata"
+  ],
+  "dite": [
+    "dite"
+  ],
+  "diteggiatura": [
+    "ditedːʒatura"
+  ],
+  "diteggiature": [
+    "ditedːʒature"
+  ],
+  "ditella": [
+    "ditɛlːa"
+  ],
+  "diti": [
+    "diti"
+  ],
+  "ditirambico": [
+    "ditirambiko"
+  ],
+  "ditirambo": [
+    "ditirambo"
+  ],
+  "ditisco": [
+    "ditisko"
+  ],
+  "dito": [
+    "dito"
+  ],
+  "ditola": [
+    "ditola"
+  ],
+  "ditta": [
+    "ditːa"
+  ],
+  "dittatore": [
+    "ditːatore"
+  ],
+  "dittatori": [
+    "ditːatori",
+    "ditːatɔri"
+  ],
+  "dittatoria": [
+    "ditːatɔrja"
+  ],
+  "dittatoriale": [
+    "ditːatorjale"
+  ],
+  "dittatoriali": [
+    "ditːatorjali"
+  ],
+  "dittatorialmente": [
+    "ditːatorjalmente"
+  ],
+  "dittatorie": [
+    "ditːatɔrje"
+  ],
+  "dittatorio": [
+    "ditːatɔrjo"
+  ],
+  "dittatrice": [
+    "ditːatritʃe"
+  ],
+  "dittatrici": [
+    "ditːatritʃi"
+  ],
+  "dittatura": [
+    "ditːatura"
+  ],
+  "dittature": [
+    "ditːature"
+  ],
+  "ditteri": [
+    "ditːeri"
+  ],
+  "dittero": [
+    "ditːero"
+  ],
+  "dittinella": [
+    "ditːinɛlːa"
+  ],
+  "dittologia": [
+    "ditːolodʒia"
+  ],
+  "dittologie": [
+    "ditːolodʒia"
+  ],
+  "dittongo": [
+    "ditːɔnɡo"
+  ],
+  "diuretico": [
+    "djurɛtiko"
+  ],
+  "diurna": [
+    "diurna"
+  ],
+  "diurne": [
+    "diurne"
+  ],
+  "diurni": [
+    "diurni"
+  ],
+  "diurnista": [
+    "diurnista"
+  ],
+  "diurniste": [
+    "diurniste"
+  ],
+  "diurnisti": [
+    "diurnisti"
+  ],
+  "diurno": [
+    "diurno"
+  ],
+  "diuturna": [
+    "djuturna"
+  ],
+  "diuturne": [
+    "djuturne"
+  ],
+  "diuturni": [
+    "djuturni"
+  ],
+  "diuturnità": [
+    "djuturnita"
+  ],
+  "diuturno": [
+    "djuturno"
+  ],
+  "divagare": [
+    "divaɡare"
+  ],
+  "divallare": [
+    "divalːare"
+  ],
+  "divampamento": [
+    "divampamento"
+  ],
+  "divampare": [
+    "divampare"
+  ],
+  "divanetto": [
+    "divanetːo"
+  ],
+  "divani": [
+    "divani"
+  ],
+  "divano": [
+    "divano"
+  ],
+  "divaricare": [
+    "divarikare"
+  ],
+  "divaricato": [
+    "divarikato"
+  ],
+  "divaricatore": [
+    "divarikatore"
+  ],
+  "divaricazione": [
+    "divarikatːsjone"
+  ],
+  "divario": [
+    "divarjo"
+  ],
+  "divedere": [
+    "divedere"
+  ],
+  "divellere": [
+    "divɛlːere"
+  ],
+  "divelto": [
+    "divɛlto"
+  ],
+  "diveniente": [
+    "divenjente"
+  ],
+  "divenire": [
+    "divenire"
+  ],
+  "diventa": [
+    "diventa"
+  ],
+  "diventai": [
+    "diventai"
+  ],
+  "diventammo": [
+    "diventamːo"
+  ],
+  "diventando": [
+    "diventando"
+  ],
+  "diventano": [
+    "diventano"
+  ],
+  "diventante": [
+    "diventante"
+  ],
+  "diventare": [
+    "diventare"
+  ]
 }

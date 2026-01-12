@@ -1,502 +1,1507 @@
 {
-  "accampo": ["a kː a m p o"],
-  "accampò": ["a kː a m p o"],
-  "accana": ["a kː a n a"],
-  "accanala": ["a kː a n a l a"],
-  "accanalare": ["a kː a n a l a r e"],
-  "accanali": ["a kː a n a l i"],
-  "accanalo": ["a kː a n a l o"],
-  "accanare": ["a kː a n a r e"],
-  "accaneggerà": ["a kː a n e dː ʒ e r a"],
-  "accaneggerai": ["a kː a n e dː ʒ e r a i"],
-  "accaneggeranno": ["a kː a n e dː ʒ e r a nː o"],
-  "accaneggerebbe": ["a kː a n e dː ʒ e r e bː e"],
-  "accaneggerebbero": ["a kː a n e dː ʒ e r e bː e r o"],
-  "accaneggerei": ["a kː a n e dː ʒ e r e i"],
-  "accaneggeremmo": ["a kː a n e dː ʒ e r e mː o"],
-  "accaneggeremo": ["a kː a n e dː ʒ e r e m o"],
-  "accaneggereste": ["a kː a n e dː ʒ e r e s t e"],
-  "accaneggeresti": ["a kː a n e dː ʒ e r e s t i"],
-  "accaneggerete": ["a kː a n e dː ʒ e r e t e"],
-  "accaneggerò": ["a kː a n e dː ʒ e r o"],
-  "accaneggi": ["a kː a n e dː ʒ i"],
-  "accaneggia": ["a kː a n e dː ʒ a"],
-  "accaneggiai": ["a kː a n e dː ʒ a i"],
-  "accaneggiammo": ["a kː a n e dː ʒ a mː o"],
-  "accaneggiamo": ["a kː a n e dː ʒ a m o"],
-  "accaneggiando": ["a kː a n e dː ʒ a n d o"],
-  "accaneggiano": ["a kː a n e dː ʒ a n o"],
-  "accaneggiante": ["a kː a n e dː ʒ a n t e"],
-  "accaneggiare": ["a kː a n e dː ʒ a r e"],
-  "accaneggiarono": ["a kː a n e dː ʒ a r o n o"],
-  "accaneggiasse": ["a kː a n e dː ʒ a sː e"],
-  "accaneggiassero": ["a kː a n e dː ʒ a sː e r o"],
-  "accaneggiassi": ["a kː a n e dː ʒ a sː i"],
-  "accaneggiassimo": ["a kː a n e dː ʒ a sː i m o"],
-  "accaneggiaste": ["a kː a n e dː ʒ a s t e"],
-  "accaneggiasti": ["a kː a n e dː ʒ a s t i"],
-  "accaneggiata": ["a kː a n e dː ʒ a t a"],
-  "accaneggiate": ["a kː a n e dː ʒ a t e"],
-  "accaneggiati": ["a kː a n e dː ʒ a t i"],
-  "accaneggiato": ["a kː a n e dː ʒ a t o"],
-  "accaneggiava": ["a kː a n e dː ʒ a v a"],
-  "accaneggiavamo": ["a kː a n e dː ʒ a v a m o"],
-  "accaneggiavano": ["a kː a n e dː ʒ a v a n o"],
-  "accaneggiavate": ["a kː a n e dː ʒ a v a t e"],
-  "accaneggiavi": ["a kː a n e dː ʒ a v i"],
-  "accaneggiavo": ["a kː a n e dː ʒ a v o"],
-  "accaneggino": ["a kː a n e dː ʒ i n o"],
-  "accaneggio": ["a kː a n e dː ʒ o"],
-  "accaneggiò": ["a kː a n e dː ʒ o"],
-  "accani": ["a kː a n i"],
-  "accanimenti": ["a kː a n i m e n t i"],
-  "accanimento": ["a kː a n i m e n t o"],
-  "accanire": ["a kː a n i r e"],
-  "accanirsi": ["a kː a n i r s i"],
-  "accanita": ["a kː a n i t a"],
-  "accanitamente": ["a kː a n i t a m e n t e"],
-  "accanite": ["a kː a n i t e"],
-  "accaniti": ["a kː a n i t i"],
-  "accanito": ["a kː a n i t o"],
-  "accannella": ["a kː a nː e lː a"],
-  "accannelli": ["a kː a nː e lː i"],
-  "accannello": ["a kː a nː e lː o"],
-  "accano": ["a kː a n o"],
-  "accanto": ["a kː a n t o"],
-  "accantona": ["a kː a n t o n a"],
-  "accantonai": ["a kː a n t o n a i"],
-  "accantonammo": ["a kː a n t o n a mː o"],
-  "accantonando": ["a kː a n t o n a n d o"],
-  "accantonano": ["a kː a n t o n a n o"],
-  "accantonante": ["a kː a n t o n a n t e"],
-  "accantonare": ["a kː a n t o n a r e"],
-  "accantonarono": ["a kː a n t o n a r o n o"],
-  "accantonasse": ["a kː a n t o n a sː e"],
-  "accantonassero": ["a kː a n t o n a sː e r o"],
-  "accantonassi": ["a kː a n t o n a sː i"],
-  "accantonassimo": ["a kː a n t o n a sː i m o"],
-  "accantonaste": ["a kː a n t o n a s t e"],
-  "accantonasti": ["a kː a n t o n a s t i"],
-  "accantonata": ["a kː a n t o n a t a"],
-  "accantonate": ["a kː a n t o n a t e"],
-  "accantonati": ["a kː a n t o n a t i"],
-  "accantonato": ["a kː a n t o n a t o"],
-  "accantonava": ["a kː a n t o n a v a"],
-  "accantonavamo": ["a kː a n t o n a v a m o"],
-  "accantonavano": ["a kː a n t o n a v a n o"],
-  "accantonavate": ["a kː a n t o n a v a t e"],
-  "accantonavi": ["a kː a n t o n a v i"],
-  "accantonavo": ["a kː a n t o n a v o"],
-  "accantonerà": ["a kː a n t o n e r a"],
-  "accantonerai": ["a kː a n t o n e r a i"],
-  "accantoneranno": ["a kː a n t o n e r a nː o"],
-  "accantonerebbe": ["a kː a n t o n e r e bː e"],
-  "accantonerebbero": ["a kː a n t o n e r e bː e r o"],
-  "accantonerei": ["a kː a n t o n e r e i"],
-  "accantoneremmo": ["a kː a n t o n e r e mː o"],
-  "accantoneremo": ["a kː a n t o n e r e m o"],
-  "accantonereste": ["a kː a n t o n e r e s t e"],
-  "accantoneresti": ["a kː a n t o n e r e s t i"],
-  "accantonerete": ["a kː a n t o n e r e t e"],
-  "accantonerò": ["a kː a n t o n e r o"],
-  "accantoni": ["a kː a n t o n i"],
-  "accantoniamo": ["a kː a n t o n j a m o"],
-  "accantoniate": ["a kː a n t o n j a t e"],
-  "accantonino": ["a kː a n t o n i n o"],
-  "accantono": ["a kː a n t o n o"],
-  "accantonò": ["a kː a n t o n o"],
-  "accaparra": ["a kː a p a rː a"],
-  "accaparrai": ["a kː a p a rː a i"],
-  "accaparrammo": ["a kː a p a rː a mː o"],
-  "accaparrando": ["a kː a p a rː a n d o"],
-  "accaparrano": ["a kː a p a rː a n o"],
-  "accaparrante": ["a kː a p a rː a n t e"],
-  "accaparrare": ["a kː a p a rː a r e"],
-  "accaparrarono": ["a kː a p a rː a r o n o"],
-  "accaparrarsi": ["a kː a p a rː a r s i"],
-  "accaparrasse": ["a kː a p a rː a sː e"],
-  "accaparrassero": ["a kː a p a rː a sː e r o"],
-  "accaparrassi": ["a kː a p a rː a sː i"],
-  "accaparrassimo": ["a kː a p a rː a sː i m o"],
-  "accaparraste": ["a kː a p a rː a s t e"],
-  "accaparrasti": ["a kː a p a rː a s t i"],
-  "accaparrata": ["a kː a p a rː a t a"],
-  "accaparrate": ["a kː a p a rː a t e"],
-  "accaparrati": ["a kː a p a rː a t i"],
-  "accaparrato": ["a kː a p a rː a t o"],
-  "accaparrava": ["a kː a p a rː a v a"],
-  "accaparravamo": ["a kː a p a rː a v a m o"],
-  "accaparravano": ["a kː a p a rː a v a n o"],
-  "accaparravate": ["a kː a p a rː a v a t e"],
-  "accaparravi": ["a kː a p a rː a v i"],
-  "accaparravo": ["a kː a p a rː a v o"],
-  "accaparrerà": ["a kː a p a rː e r a"],
-  "accaparrerai": ["a kː a p a rː e r a i"],
-  "accaparreranno": ["a kː a p a rː e r a nː o"],
-  "accaparrerebbe": ["a kː a p a rː e r e bː e"],
-  "accaparrerebbero": ["a kː a p a rː e r e bː e r o"],
-  "accaparrerei": ["a kː a p a rː e r e i"],
-  "accaparreremmo": ["a kː a p a rː e r e mː o"],
-  "accaparreremo": ["a kː a p a rː e r e m o"],
-  "accaparrereste": ["a kː a p a rː e r e s t e"],
-  "accaparreresti": ["a kː a p a rː e r e s t i"],
-  "accaparrerete": ["a kː a p a rː e r e t e"],
-  "accaparrerò": ["a kː a p a rː e r o"],
-  "accaparri": ["a kː a p a rː i"],
-  "accaparriamo": ["a kː a p a rː j a m o"],
-  "accaparriate": ["a kː a p a rː j a t e"],
-  "accaparrino": ["a kː a p a rː i n o"],
-  "accaparro": ["a kː a p a rː o"],
-  "accaparrò": ["a kː a p a rː o"],
-  "accapezza": ["a kː a p e tː s a"],
-  "accapezzare": ["a kː a p e tː s a r e"],
-  "accapezzi": ["a kː a p e tː s i"],
-  "accapezzo": ["a kː a p e tː s o"],
-  "accapigliare": ["a kː a p i ʎ a r e"],
-  "accapigliarsi": ["a kː a p i ʎ a r s i"],
-  "accapigliato": ["a kː a p i ʎ a t o"],
-  "accapottare": ["a kː a p o tː a r e"],
-  "accappare": ["a kː a pː a r e"],
-  "accappatoi": ["a kː a pː a t o i"],
-  "accappatoio": ["a kː a pː a t o i o", "a kː a pː a t o j o"],
-  "accappiare": ["a kː a pː j a r e"],
-  "accappietta": ["a kː a pː j e tː a"],
-  "accappietti": ["a kː a pː j e tː i"],
-  "accappietto": ["a kː a pː j e tː o"],
-  "accappona": ["a kː a pː o n a"],
-  "accapponi": ["a kː a pː o n i"],
-  "accappono": ["a kː a pː o n o"],
-  "accappuccia": ["a kː a pː u tː ʃ a"],
-  "accappuccio": ["a kː a pː u tː ʃ o"],
-  "accapretta": ["a kː a p r e tː a"],
-  "accapretti": ["a kː a p r e tː i"],
-  "accapretto": ["a kː a p r e tː o"],
-  "accapriccia": ["a kː a p r i tː ʃ a"],
-  "accapricciare": ["a kː a p r i tː ʃ a r e"],
-  "accapriccio": ["a kː a p r i tː ʃ o"],
-  "accareggi": ["a kː a r e dː ʒ i"],
-  "accareggia": ["a kː a r e dː ʒ a"],
-  "accareggiare": ["a kː a r e dː ʒ a r e"],
-  "accareggio": ["a kː a r e dː ʒ o"],
-  "accarezza": ["a kː a r e tː s a"],
-  "accarezzai": ["a kː a r e tː s a i"],
-  "accarezzammo": ["a kː a r e tː s a mː o"],
-  "accarezzando": ["a kː a r e tː s a n d o"],
-  "accarezzano": ["a kː a r e tː s a n o"],
-  "accarezzante": ["a kː a r e tː s a n t e"],
-  "accarezzare": ["a kː a r e tː s a r e"],
-  "accarezzarono": ["a kː a r e tː s a r o n o"],
-  "accarezzasse": ["a kː a r e tː s a sː e"],
-  "accarezzassero": ["a kː a r e tː s a sː e r o"],
-  "accarezzassi": ["a kː a r e tː s a sː i"],
-  "accarezzassimo": ["a kː a r e tː s a sː i m o"],
-  "accarezzaste": ["a kː a r e tː s a s t e"],
-  "accarezzasti": ["a kː a r e tː s a s t i"],
-  "accarezzata": ["a kː a r e tː s a t a"],
-  "accarezzate": ["a kː a r e tː s a t e"],
-  "accarezzati": ["a kː a r e tː s a t i"],
-  "accarezzato": ["a kː a r e tː s a t o"],
-  "accarezzava": ["a kː a r e tː s a v a"],
-  "accarezzavamo": ["a kː a r e tː s a v a m o"],
-  "accarezzavano": ["a kː a r e tː s a v a n o"],
-  "accarezzavate": ["a kː a r e tː s a v a t e"],
-  "accarezzavi": ["a kː a r e tː s a v i"],
-  "accarezzavo": ["a kː a r e tː s a v o"],
-  "accarezzerà": ["a kː a r e tː s e r a"],
-  "accarezzerai": ["a kː a r e tː s e r a i"],
-  "accarezzeranno": ["a kː a r e tː s e r a nː o"],
-  "accarezzerebbe": ["a kː a r e tː s e r e bː e"],
-  "accarezzerebbero": ["a kː a r e tː s e r e bː e r o"],
-  "accarezzerei": ["a kː a r e tː s e r e i"],
-  "accarezzeremmo": ["a kː a r e tː s e r e mː o"],
-  "accarezzeremo": ["a kː a r e tː s e r e m o"],
-  "accarezzereste": ["a kː a r e tː s e r e s t e"],
-  "accarezzeresti": ["a kː a r e tː s e r e s t i"],
-  "accarezzerete": ["a kː a r e tː s e r e t e"],
-  "accarezzerò": ["a kː a r e tː s e r o"],
-  "accarezzi": ["a kː a r e tː s i"],
-  "accarezziamo": ["a kː a r e tː s j a m o"],
-  "accarezziate": ["a kː a r e tː s j a t e"],
-  "accarezzino": ["a kː a r e tː s i n o"],
-  "accarezzo": ["a kː a r e tː s o"],
-  "accarezzò": ["a kː a r e tː s o"],
-  "accarna": ["a kː a r n a"],
-  "accarnare": ["a kː a r n a r e"],
-  "accarni": ["a kː a r n i"],
-  "accarno": ["a kː a r n o"],
-  "accarpiona": ["a kː a r p j o n a"],
-  "accarpioni": ["a kː a r p j o n i"],
-  "accarpiono": ["a kː a r p j o n o"],
-  "accartoccerà": ["a kː a r t o tː ʃ e r a"],
-  "accartoccerai": ["a kː a r t o tː ʃ e r a i"],
-  "accartocceranno": ["a kː a r t o tː ʃ e r a nː o"],
-  "accartoccerebbe": ["a kː a r t o tː ʃ e r e bː e"],
-  "accartoccerebbero": ["a kː a r t o tː ʃ e r e bː e r o"],
-  "accartoccerei": ["a kː a r t o tː ʃ e r e i"],
-  "accartocceremmo": ["a kː a r t o tː ʃ e r e mː o"],
-  "accartocceremo": ["a kː a r t o tː ʃ e r e m o"],
-  "accartoccereste": ["a kː a r t o tː ʃ e r e s t e"],
-  "accartocceresti": ["a kː a r t o tː ʃ e r e s t i"],
-  "accartoccerete": ["a kː a r t o tː ʃ e r e t e"],
-  "accartoccerò": ["a kː a r t o tː ʃ e r o"],
-  "accartocci": ["a kː a r t o tː ʃ i"],
-  "accartoccia": ["a kː a r t o tː ʃ a"],
-  "accartocciai": ["a kː a r t o tː ʃ a i"],
-  "accartocciammo": ["a kː a r t o tː ʃ a mː o"],
-  "accartocciamo": ["a kː a r t o tː ʃ j a m o"],
-  "accartocciando": ["a kː a r t o tː ʃ a n d o"],
-  "accartocciano": ["a kː a r t o tː ʃ a n o"],
-  "accartocciante": ["a kː a r t o tː ʃ a n t e"],
-  "accartocciare": ["a kː a r t o tː ʃ a r e"],
-  "accartocciarono": ["a kː a r t o tː ʃ a r o n o"],
-  "accartocciasse": ["a kː a r t o tː ʃ a sː e"],
-  "accartocciassero": ["a kː a r t o tː ʃ a sː e r o"],
-  "accartocciassi": ["a kː a r t o tː ʃ a sː i"],
-  "accartocciassimo": ["a kː a r t o tː ʃ a sː i m o"],
-  "accartocciaste": ["a kː a r t o tː ʃ a s t e"],
-  "accartocciasti": ["a kː a r t o tː ʃ a s t i"],
-  "accartocciata": ["a kː a r t o tː ʃ a t a"],
-  "accartocciate": ["a kː a r t o tː ʃ a t e"],
-  "accartocciati": ["a kː a r t o tː ʃ a t i"],
-  "accartocciato": ["a kː a r t o tː ʃ a t o"],
-  "accartocciava": ["a kː a r t o tː ʃ a v a"],
-  "accartocciavamo": ["a kː a r t o tː ʃ a v a m o"],
-  "accartocciavano": ["a kː a r t o tː ʃ a v a n o"],
-  "accartocciavate": ["a kː a r t o tː ʃ a v a t e"],
-  "accartocciavi": ["a kː a r t o tː ʃ a v i"],
-  "accartocciavo": ["a kː a r t o tː ʃ a v o"],
-  "accartoccino": ["a kː a r t o tː ʃ i n o"],
-  "accartoccio": ["a kː a r t o tː ʃ o"],
-  "accartocciò": ["a kː a r t o tː ʃ o"],
-  "accasa": ["a kː a s a"],
-  "accasai": ["a kː a s a i"],
-  "accasammo": ["a kː a s a mː o"],
-  "accasando": ["a kː a s a n d o"],
-  "accasano": ["a kː a s a n o"],
-  "accasante": ["a kː a s a n t e"],
-  "accasare": ["a kː a z a r e"],
-  "accasarono": ["a kː a s a r o n o"],
-  "accasarsi": ["a kː a z a r s i"],
-  "accasasse": ["a kː a s a sː e"],
-  "accasassero": ["a kː a s a sː e r o"],
-  "accasassi": ["a kː a s a sː i"],
-  "accasassimo": ["a kː a s a sː i m o"],
-  "accasaste": ["a kː a s a s t e"],
-  "accasasti": ["a kː a s a s t i"],
-  "accasata": ["a kː a s a t a"],
-  "accasate": ["a kː a s a t e"],
-  "accasati": ["a kː a s a t i"],
-  "accasato": ["a kː a s a t o"],
-  "accasava": ["a kː a s a v a"],
-  "accasavamo": ["a kː a s a v a m o"],
-  "accasavano": ["a kː a s a v a n o"],
-  "accasavate": ["a kː a s a v a t e"],
-  "accasavi": ["a kː a s a v i"],
-  "accasavo": ["a kː a s a v o"],
-  "accasciare": ["a kː a ʃ ʃ a r e"],
-  "accasciarsi": ["a kː a ʃ ʃ a r s i"],
-  "accasciato": ["a kː a ʃ ʃ a t o"],
-  "accasella": ["a kː a s e lː a"],
-  "accasellare": ["a kː a s e lː a r e", "a kː a z e lː a r e"],
-  "accaselli": ["a kː a s e lː i"],
-  "accasello": ["a kː a s e lː o"],
-  "accaserà": ["a kː a s e r a"],
-  "accaserai": ["a kː a s e r a i"],
-  "accaseranno": ["a kː a s e r a nː o"],
-  "accaserebbe": ["a kː a s e r e bː e"],
-  "accaserebbero": ["a kː a s e r e bː e r o"],
-  "accaserei": ["a kː a s e r e i"],
-  "accaseremmo": ["a kː a s e r e mː o"],
-  "accaseremo": ["a kː a s e r e m o"],
-  "accasereste": ["a kː a s e r e s t e"],
-  "accaseresti": ["a kː a s e r e s t i"],
-  "accaserete": ["a kː a s e r e t e"],
-  "accaserma": ["a kː a s e r m a"],
-  "accasermare": ["a kː a s e r m a r e", "a kː a z e r m a r e"],
-  "accasermi": ["a kː a s e r m i"],
-  "accasermo": ["a kː a s e r m o"],
-  "accaserò": ["a kː a s e r o"],
-  "accasi": ["a kː a s i"],
-  "accasiamo": ["a kː a s j a m o"],
-  "accasiate": ["a kː a s j a t e"],
-  "accasino": ["a kː a s i n o"],
-  "accaso": ["a kː a s o"],
-  "accasò": ["a kː a s o"],
-  "accastella": ["a kː a s t e lː a"],
-  "accastellare": ["a kː a s t e lː a r e"],
-  "accastelli": ["a kː a s t e lː i"],
-  "accastellina": ["a kː a s t e lː i n a"],
-  "accastellini": ["a kː a s t e lː i n i"],
-  "accastellino": ["a kː a s t e lː i n o"],
-  "accastello": ["a kː a s t e lː o"],
-  "accatarra": ["a kː a t a rː a"],
-  "accatarrare": ["a kː a t a rː a r e"],
-  "accatarri": ["a kː a t a rː i"],
-  "accatarro": ["a kː a t a rː o"],
-  "accatasta": ["a kː a t a s t a"],
-  "accatastai": ["a kː a t a s t a i"],
-  "accatastammo": ["a kː a t a s t a mː o"],
-  "accatastando": ["a kː a t a s t a n d o"],
-  "accatastano": ["a kː a t a s t a n o"],
-  "accatastante": ["a kː a t a s t a n t e"],
-  "accatastare": ["a kː a t a s t a r e"],
-  "accatastarono": ["a kː a t a s t a r o n o"],
-  "accatastasse": ["a kː a t a s t a sː e"],
-  "accatastassero": ["a kː a t a s t a sː e r o"],
-  "accatastassi": ["a kː a t a s t a sː i"],
-  "accatastassimo": ["a kː a t a s t a sː i m o"],
-  "accatastaste": ["a kː a t a s t a s t e"],
-  "accatastasti": ["a kː a t a s t a s t i"],
-  "accatastata": ["a kː a t a s t a t a"],
-  "accatastate": ["a kː a t a s t a t e"],
-  "accatastati": ["a kː a t a s t a t i"],
-  "accatastato": ["a kː a t a s t a t o"],
-  "accatastava": ["a kː a t a s t a v a"],
-  "accatastavamo": ["a kː a t a s t a v a m o"],
-  "accatastavano": ["a kː a t a s t a v a n o"],
-  "accatastavate": ["a kː a t a s t a v a t e"],
-  "accatastavi": ["a kː a t a s t a v i"],
-  "accatastavo": ["a kː a t a s t a v o"],
-  "accatasterà": ["a kː a t a s t e r a"],
-  "accatasterai": ["a kː a t a s t e r a i"],
-  "accatasteranno": ["a kː a t a s t e r a nː o"],
-  "accatasterebbe": ["a kː a t a s t e r e bː e"],
-  "accatasterebbero": ["a kː a t a s t e r e bː e r o"],
-  "accatasterei": ["a kː a t a s t e r e i"],
-  "accatasteremmo": ["a kː a t a s t e r e mː o"],
-  "accatasteremo": ["a kː a t a s t e r e m o"],
-  "accatastereste": ["a kː a t a s t e r e s t e"],
-  "accatasteresti": ["a kː a t a s t e r e s t i"],
-  "accatasterete": ["a kː a t a s t e r e t e"],
-  "accatasterò": ["a kː a t a s t e r o"],
-  "accatasti": ["a kː a t a s t i"],
-  "accatastiamo": ["a kː a t a s t j a m o"],
-  "accatastiate": ["a kː a t a s t j a t e"],
-  "accatastino": ["a kː a t a s t i n o"],
-  "accatasto": ["a kː a t a s t o"],
-  "accatastò": ["a kː a t a s t o"],
-  "accatta": ["a kː a tː a"],
-  "accattafieno": ["a kː a tː a f j e n o", "a kː a tː a f j ɛ n o"],
-  "accattai": ["a k tː a i"],
-  "accattammo": ["a k tː a mː o"],
-  "accattando": ["a k tː a n d o"],
-  "accattano": ["a k tː a n o"],
-  "accattante": ["a k tː a n t e"],
-  "accattare": ["a kː a tː a r e"],
-  "accattarono": ["a k tː a r o n o"],
-  "accattasse": ["a k tː a sː e"],
-  "accattassero": ["a k tː a sː e r o"],
-  "accattassi": ["a k tː a sː i"],
-  "accattassimo": ["a k tː a sː i m o"],
-  "accattaste": ["a k tː a s t e"],
-  "accattasti": ["a k tː a s t i"],
-  "accattata": ["a k tː a t a"],
-  "accattate": ["a k tː a t e"],
-  "accattati": ["a k tː a t i"],
-  "accattato": ["a k tː a t o"],
-  "accattava": ["a k tː a v a"],
-  "accattavamo": ["a k tː a v a m o"],
-  "accattavano": ["a k tː a v a n o"],
-  "accattavate": ["a k tː a v a t e"],
-  "accattavi": ["a k tː a v i"],
-  "accattavo": ["a k tː a v o"],
-  "accatterà": ["a k tː e r a"],
-  "accatterai": ["a k tː e r a i"],
-  "accatteranno": ["a k tː e r a nː o"],
-  "accatterebbe": ["a k tː e r e bː e"],
-  "accatterebbero": ["a k tː e r e bː e r o"],
-  "accatterei": ["a k tː e r e i"],
-  "accatteremmo": ["a k tː e r e mː o"],
-  "accatteremo": ["a k tː e r e m o"],
-  "accattereste": ["a k tː e r e s t e"],
-  "accatteresti": ["a k tː e r e s t i"],
-  "accatterete": ["a k tː e r e t e"],
-  "accatterò": ["a k tː e r o"],
-  "accatti": ["a kː a tː i"],
-  "accattiamo": ["a k tː j a m o"],
-  "accattiate": ["a k tː j a t e"],
-  "accattino": ["a k tː i n o"],
-  "accattiva": ["a kː a t i v a"],
-  "accattivai": ["a kː a t i v a i"],
-  "accattivammo": ["a kː a t i v a mː o"],
-  "accattivando": ["a kː a t i v a n d o"],
-  "accattivano": ["a kː a t i v a n o"],
-  "accattivante": ["a kː a t i v a n t e", "a kː a tː i v a n t e"],
-  "accattivantemente": ["a kː a tː i v a n t e m e n t e"],
-  "accattivare": ["a kː a t i v a r e"],
-  "accattivarono": ["a kː a t i v a r o n o"],
-  "accattivasse": ["a kː a t i v a sː e"],
-  "accattivassero": ["a kː a t i v a sː e r o"],
-  "accattivassi": ["a kː a t i v a sː i"],
-  "accattivassimo": ["a kː a t i v a sː i m o"],
-  "accattivaste": ["a kː a t i v a s t e"],
-  "accattivasti": ["a kː a t i v a s t i"],
-  "accattivata": ["a kː a t i v a t a"],
-  "accattivate": ["a kː a t i v a t e"],
-  "accattivati": ["a kː a t i v a t i"],
-  "accattivato": ["a kː a t i v a t o"],
-  "accattivava": ["a kː a t i v a v a"],
-  "accattivavamo": ["a kː a t i v a v a m o"],
-  "accattivavano": ["a kː a t i v a v a n o"],
-  "accattivavate": ["a kː a t i v a v a t e"],
-  "accattivavi": ["a kː a t i v a v i"],
-  "accattivavo": ["a kː a t i v a v o"],
-  "accattiverà": ["a kː a t i v e r a"],
-  "accattiverai": ["a kː a t i v e r a i"],
-  "accattiveranno": ["a kː a t i v e r a nː o"],
-  "accattiverebbe": ["a kː a t i v e r e bː e"],
-  "accattiverebbero": ["a kː a t i v e r e bː e r o"],
-  "accattiverei": ["a kː a t i v e r e i"],
-  "accattiveremmo": ["a kː a t i v e r e mː o"],
-  "accattiveremo": ["a kː a t i v e r e m o"],
-  "accattivereste": ["a kː a t i v e r e s t e"],
-  "accattiveresti": ["a kː a t i v e r e s t i"],
-  "accattiverete": ["a kː a t i v e r e t e"],
-  "accattiverò": ["a kː a t i v e r o"],
-  "accattivi": ["a kː a t i v i"],
-  "accattiviamo": ["a kː a t i v j a m o"],
-  "accattiviate": ["a kː a t i v j a t e"],
-  "accattivino": ["a kː a t i v i n o"],
-  "accattivo": ["a kː a t i v o"],
-  "accattivò": ["a kː a t i v o"],
-  "accatto": ["a kː a tː o"],
-  "accattò": ["a k tː o"],
-  "accattona": ["a kː a tː o n a"],
-  "accattonaggio": ["a kː a tː o n a dː ʒ o"],
-  "accattone": ["a kː a tː o n e"],
-  "accattoni": ["a kː a tː o n i"],
-  "accavalcare": ["a kː a v a lː a r e"],
-  "accavalciare": ["a kː a v a l t ʃ a r e"],
-  "accavalla": ["a kː a v a lː a"],
-  "accavallai": ["a kː a v a lː a i"],
-  "accavallammo": ["a kː a v a lː a mː o"],
-  "accavallando": ["a kː a v a lː a n d o"],
-  "accavallano": ["a kː a v a lː a n o"],
-  "accavallante": ["a kː a v a lː a n t e"],
-  "accavallare": ["a kː a v a lː a r e"],
-  "accavallarono": ["a kː a v a lː a r o n o"],
-  "accavallasse": ["a kː a v a lː a sː e"],
-  "accavallassero": ["a kː a v a lː a sː e r o"],
-  "accavallassi": ["a kː a v a lː a sː i"],
-  "accavallassimo": ["a kː a v a lː a sː i m o"],
-  "accavallaste": ["a kː a v a lː a s t e"],
-  "accavallasti": ["a kː a v a lː a s t i"],
-  "accavallata": ["a kː a v a lː a t a"],
-  "accavallate": ["a kː a v a lː a t e"],
-  "accavallati": ["a kː a v a lː a t i"],
-  "accavallato": ["a kː a v a lː a t o"],
-  "accavallava": ["a kː a v a lː a v a"],
-  "accavallavamo": ["a kː a v a lː a v a m o"],
-  "accavallavano": ["a kː a v a lː a v a n o"],
-  "accavallavate": ["a kː a v a lː a v a t e"],
-  "accavallavi": ["a kː a v a lː a v i"],
-  "accavallavo": ["a kː a v a lː a v o"],
-  "accavallerà": ["a kː a v a lː e r a"],
-  "accavallerai": ["a kː a v a lː e r a i"],
-  "accavalleranno": ["a kː a v a lː e r a nː o"],
-  "accavallerebbe": ["a kː a v a lː e r e bː e"],
-  "accavallerebbero": ["a kː a v a lː e r e bː e r o"],
-  "accavallerei": ["a kː a v a lː e r e i"],
-  "accavalleremmo": ["a kː a v a lː e r e mː o"],
-  "accavalleremo": ["a kː a v a lː e r e m o"]
+  "accampo": [
+    "akːampo"
+  ],
+  "accampò": [
+    "akːampo"
+  ],
+  "accana": [
+    "akːana"
+  ],
+  "accanala": [
+    "akːanala"
+  ],
+  "accanalare": [
+    "akːanalare"
+  ],
+  "accanali": [
+    "akːanali"
+  ],
+  "accanalo": [
+    "akːanalo"
+  ],
+  "accanare": [
+    "akːanare"
+  ],
+  "accaneggerà": [
+    "akːanedːʒera"
+  ],
+  "accaneggerai": [
+    "akːanedːʒerai"
+  ],
+  "accaneggeranno": [
+    "akːanedːʒeranːo"
+  ],
+  "accaneggerebbe": [
+    "akːanedːʒerebːe"
+  ],
+  "accaneggerebbero": [
+    "akːanedːʒerebːero"
+  ],
+  "accaneggerei": [
+    "akːanedːʒerei"
+  ],
+  "accaneggeremmo": [
+    "akːanedːʒeremːo"
+  ],
+  "accaneggeremo": [
+    "akːanedːʒeremo"
+  ],
+  "accaneggereste": [
+    "akːanedːʒereste"
+  ],
+  "accaneggeresti": [
+    "akːanedːʒeresti"
+  ],
+  "accaneggerete": [
+    "akːanedːʒerete"
+  ],
+  "accaneggerò": [
+    "akːanedːʒero"
+  ],
+  "accaneggi": [
+    "akːanedːʒi"
+  ],
+  "accaneggia": [
+    "akːanedːʒa"
+  ],
+  "accaneggiai": [
+    "akːanedːʒai"
+  ],
+  "accaneggiammo": [
+    "akːanedːʒamːo"
+  ],
+  "accaneggiamo": [
+    "akːanedːʒamo"
+  ],
+  "accaneggiando": [
+    "akːanedːʒando"
+  ],
+  "accaneggiano": [
+    "akːanedːʒano"
+  ],
+  "accaneggiante": [
+    "akːanedːʒante"
+  ],
+  "accaneggiare": [
+    "akːanedːʒare"
+  ],
+  "accaneggiarono": [
+    "akːanedːʒarono"
+  ],
+  "accaneggiasse": [
+    "akːanedːʒasːe"
+  ],
+  "accaneggiassero": [
+    "akːanedːʒasːero"
+  ],
+  "accaneggiassi": [
+    "akːanedːʒasːi"
+  ],
+  "accaneggiassimo": [
+    "akːanedːʒasːimo"
+  ],
+  "accaneggiaste": [
+    "akːanedːʒaste"
+  ],
+  "accaneggiasti": [
+    "akːanedːʒasti"
+  ],
+  "accaneggiata": [
+    "akːanedːʒata"
+  ],
+  "accaneggiate": [
+    "akːanedːʒate"
+  ],
+  "accaneggiati": [
+    "akːanedːʒati"
+  ],
+  "accaneggiato": [
+    "akːanedːʒato"
+  ],
+  "accaneggiava": [
+    "akːanedːʒava"
+  ],
+  "accaneggiavamo": [
+    "akːanedːʒavamo"
+  ],
+  "accaneggiavano": [
+    "akːanedːʒavano"
+  ],
+  "accaneggiavate": [
+    "akːanedːʒavate"
+  ],
+  "accaneggiavi": [
+    "akːanedːʒavi"
+  ],
+  "accaneggiavo": [
+    "akːanedːʒavo"
+  ],
+  "accaneggino": [
+    "akːanedːʒino"
+  ],
+  "accaneggio": [
+    "akːanedːʒo"
+  ],
+  "accaneggiò": [
+    "akːanedːʒo"
+  ],
+  "accani": [
+    "akːani"
+  ],
+  "accanimenti": [
+    "akːanimenti"
+  ],
+  "accanimento": [
+    "akːanimento"
+  ],
+  "accanire": [
+    "akːanire"
+  ],
+  "accanirsi": [
+    "akːanirsi"
+  ],
+  "accanita": [
+    "akːanita"
+  ],
+  "accanitamente": [
+    "akːanitamente"
+  ],
+  "accanite": [
+    "akːanite"
+  ],
+  "accaniti": [
+    "akːaniti"
+  ],
+  "accanito": [
+    "akːanito"
+  ],
+  "accannella": [
+    "akːanːelːa"
+  ],
+  "accannelli": [
+    "akːanːelːi"
+  ],
+  "accannello": [
+    "akːanːelːo"
+  ],
+  "accano": [
+    "akːano"
+  ],
+  "accanto": [
+    "akːanto"
+  ],
+  "accantona": [
+    "akːantona"
+  ],
+  "accantonai": [
+    "akːantonai"
+  ],
+  "accantonammo": [
+    "akːantonamːo"
+  ],
+  "accantonando": [
+    "akːantonando"
+  ],
+  "accantonano": [
+    "akːantonano"
+  ],
+  "accantonante": [
+    "akːantonante"
+  ],
+  "accantonare": [
+    "akːantonare"
+  ],
+  "accantonarono": [
+    "akːantonarono"
+  ],
+  "accantonasse": [
+    "akːantonasːe"
+  ],
+  "accantonassero": [
+    "akːantonasːero"
+  ],
+  "accantonassi": [
+    "akːantonasːi"
+  ],
+  "accantonassimo": [
+    "akːantonasːimo"
+  ],
+  "accantonaste": [
+    "akːantonaste"
+  ],
+  "accantonasti": [
+    "akːantonasti"
+  ],
+  "accantonata": [
+    "akːantonata"
+  ],
+  "accantonate": [
+    "akːantonate"
+  ],
+  "accantonati": [
+    "akːantonati"
+  ],
+  "accantonato": [
+    "akːantonato"
+  ],
+  "accantonava": [
+    "akːantonava"
+  ],
+  "accantonavamo": [
+    "akːantonavamo"
+  ],
+  "accantonavano": [
+    "akːantonavano"
+  ],
+  "accantonavate": [
+    "akːantonavate"
+  ],
+  "accantonavi": [
+    "akːantonavi"
+  ],
+  "accantonavo": [
+    "akːantonavo"
+  ],
+  "accantonerà": [
+    "akːantonera"
+  ],
+  "accantonerai": [
+    "akːantonerai"
+  ],
+  "accantoneranno": [
+    "akːantoneranːo"
+  ],
+  "accantonerebbe": [
+    "akːantonerebːe"
+  ],
+  "accantonerebbero": [
+    "akːantonerebːero"
+  ],
+  "accantonerei": [
+    "akːantonerei"
+  ],
+  "accantoneremmo": [
+    "akːantoneremːo"
+  ],
+  "accantoneremo": [
+    "akːantoneremo"
+  ],
+  "accantonereste": [
+    "akːantonereste"
+  ],
+  "accantoneresti": [
+    "akːantoneresti"
+  ],
+  "accantonerete": [
+    "akːantonerete"
+  ],
+  "accantonerò": [
+    "akːantonero"
+  ],
+  "accantoni": [
+    "akːantoni"
+  ],
+  "accantoniamo": [
+    "akːantonjamo"
+  ],
+  "accantoniate": [
+    "akːantonjate"
+  ],
+  "accantonino": [
+    "akːantonino"
+  ],
+  "accantono": [
+    "akːantono"
+  ],
+  "accantonò": [
+    "akːantono"
+  ],
+  "accaparra": [
+    "akːaparːa"
+  ],
+  "accaparrai": [
+    "akːaparːai"
+  ],
+  "accaparrammo": [
+    "akːaparːamːo"
+  ],
+  "accaparrando": [
+    "akːaparːando"
+  ],
+  "accaparrano": [
+    "akːaparːano"
+  ],
+  "accaparrante": [
+    "akːaparːante"
+  ],
+  "accaparrare": [
+    "akːaparːare"
+  ],
+  "accaparrarono": [
+    "akːaparːarono"
+  ],
+  "accaparrarsi": [
+    "akːaparːarsi"
+  ],
+  "accaparrasse": [
+    "akːaparːasːe"
+  ],
+  "accaparrassero": [
+    "akːaparːasːero"
+  ],
+  "accaparrassi": [
+    "akːaparːasːi"
+  ],
+  "accaparrassimo": [
+    "akːaparːasːimo"
+  ],
+  "accaparraste": [
+    "akːaparːaste"
+  ],
+  "accaparrasti": [
+    "akːaparːasti"
+  ],
+  "accaparrata": [
+    "akːaparːata"
+  ],
+  "accaparrate": [
+    "akːaparːate"
+  ],
+  "accaparrati": [
+    "akːaparːati"
+  ],
+  "accaparrato": [
+    "akːaparːato"
+  ],
+  "accaparrava": [
+    "akːaparːava"
+  ],
+  "accaparravamo": [
+    "akːaparːavamo"
+  ],
+  "accaparravano": [
+    "akːaparːavano"
+  ],
+  "accaparravate": [
+    "akːaparːavate"
+  ],
+  "accaparravi": [
+    "akːaparːavi"
+  ],
+  "accaparravo": [
+    "akːaparːavo"
+  ],
+  "accaparrerà": [
+    "akːaparːera"
+  ],
+  "accaparrerai": [
+    "akːaparːerai"
+  ],
+  "accaparreranno": [
+    "akːaparːeranːo"
+  ],
+  "accaparrerebbe": [
+    "akːaparːerebːe"
+  ],
+  "accaparrerebbero": [
+    "akːaparːerebːero"
+  ],
+  "accaparrerei": [
+    "akːaparːerei"
+  ],
+  "accaparreremmo": [
+    "akːaparːeremːo"
+  ],
+  "accaparreremo": [
+    "akːaparːeremo"
+  ],
+  "accaparrereste": [
+    "akːaparːereste"
+  ],
+  "accaparreresti": [
+    "akːaparːeresti"
+  ],
+  "accaparrerete": [
+    "akːaparːerete"
+  ],
+  "accaparrerò": [
+    "akːaparːero"
+  ],
+  "accaparri": [
+    "akːaparːi"
+  ],
+  "accaparriamo": [
+    "akːaparːjamo"
+  ],
+  "accaparriate": [
+    "akːaparːjate"
+  ],
+  "accaparrino": [
+    "akːaparːino"
+  ],
+  "accaparro": [
+    "akːaparːo"
+  ],
+  "accaparrò": [
+    "akːaparːo"
+  ],
+  "accapezza": [
+    "akːapetːsa"
+  ],
+  "accapezzare": [
+    "akːapetːsare"
+  ],
+  "accapezzi": [
+    "akːapetːsi"
+  ],
+  "accapezzo": [
+    "akːapetːso"
+  ],
+  "accapigliare": [
+    "akːapiʎare"
+  ],
+  "accapigliarsi": [
+    "akːapiʎarsi"
+  ],
+  "accapigliato": [
+    "akːapiʎato"
+  ],
+  "accapottare": [
+    "akːapotːare"
+  ],
+  "accappare": [
+    "akːapːare"
+  ],
+  "accappatoi": [
+    "akːapːatoi"
+  ],
+  "accappatoio": [
+    "akːapːatoio",
+    "akːapːatojo"
+  ],
+  "accappiare": [
+    "akːapːjare"
+  ],
+  "accappietta": [
+    "akːapːjetːa"
+  ],
+  "accappietti": [
+    "akːapːjetːi"
+  ],
+  "accappietto": [
+    "akːapːjetːo"
+  ],
+  "accappona": [
+    "akːapːona"
+  ],
+  "accapponi": [
+    "akːapːoni"
+  ],
+  "accappono": [
+    "akːapːono"
+  ],
+  "accappuccia": [
+    "akːapːutːʃa"
+  ],
+  "accappuccio": [
+    "akːapːutːʃo"
+  ],
+  "accapretta": [
+    "akːapretːa"
+  ],
+  "accapretti": [
+    "akːapretːi"
+  ],
+  "accapretto": [
+    "akːapretːo"
+  ],
+  "accapriccia": [
+    "akːapritːʃa"
+  ],
+  "accapricciare": [
+    "akːapritːʃare"
+  ],
+  "accapriccio": [
+    "akːapritːʃo"
+  ],
+  "accareggi": [
+    "akːaredːʒi"
+  ],
+  "accareggia": [
+    "akːaredːʒa"
+  ],
+  "accareggiare": [
+    "akːaredːʒare"
+  ],
+  "accareggio": [
+    "akːaredːʒo"
+  ],
+  "accarezza": [
+    "akːaretːsa"
+  ],
+  "accarezzai": [
+    "akːaretːsai"
+  ],
+  "accarezzammo": [
+    "akːaretːsamːo"
+  ],
+  "accarezzando": [
+    "akːaretːsando"
+  ],
+  "accarezzano": [
+    "akːaretːsano"
+  ],
+  "accarezzante": [
+    "akːaretːsante"
+  ],
+  "accarezzare": [
+    "akːaretːsare"
+  ],
+  "accarezzarono": [
+    "akːaretːsarono"
+  ],
+  "accarezzasse": [
+    "akːaretːsasːe"
+  ],
+  "accarezzassero": [
+    "akːaretːsasːero"
+  ],
+  "accarezzassi": [
+    "akːaretːsasːi"
+  ],
+  "accarezzassimo": [
+    "akːaretːsasːimo"
+  ],
+  "accarezzaste": [
+    "akːaretːsaste"
+  ],
+  "accarezzasti": [
+    "akːaretːsasti"
+  ],
+  "accarezzata": [
+    "akːaretːsata"
+  ],
+  "accarezzate": [
+    "akːaretːsate"
+  ],
+  "accarezzati": [
+    "akːaretːsati"
+  ],
+  "accarezzato": [
+    "akːaretːsato"
+  ],
+  "accarezzava": [
+    "akːaretːsava"
+  ],
+  "accarezzavamo": [
+    "akːaretːsavamo"
+  ],
+  "accarezzavano": [
+    "akːaretːsavano"
+  ],
+  "accarezzavate": [
+    "akːaretːsavate"
+  ],
+  "accarezzavi": [
+    "akːaretːsavi"
+  ],
+  "accarezzavo": [
+    "akːaretːsavo"
+  ],
+  "accarezzerà": [
+    "akːaretːsera"
+  ],
+  "accarezzerai": [
+    "akːaretːserai"
+  ],
+  "accarezzeranno": [
+    "akːaretːseranːo"
+  ],
+  "accarezzerebbe": [
+    "akːaretːserebːe"
+  ],
+  "accarezzerebbero": [
+    "akːaretːserebːero"
+  ],
+  "accarezzerei": [
+    "akːaretːserei"
+  ],
+  "accarezzeremmo": [
+    "akːaretːseremːo"
+  ],
+  "accarezzeremo": [
+    "akːaretːseremo"
+  ],
+  "accarezzereste": [
+    "akːaretːsereste"
+  ],
+  "accarezzeresti": [
+    "akːaretːseresti"
+  ],
+  "accarezzerete": [
+    "akːaretːserete"
+  ],
+  "accarezzerò": [
+    "akːaretːsero"
+  ],
+  "accarezzi": [
+    "akːaretːsi"
+  ],
+  "accarezziamo": [
+    "akːaretːsjamo"
+  ],
+  "accarezziate": [
+    "akːaretːsjate"
+  ],
+  "accarezzino": [
+    "akːaretːsino"
+  ],
+  "accarezzo": [
+    "akːaretːso"
+  ],
+  "accarezzò": [
+    "akːaretːso"
+  ],
+  "accarna": [
+    "akːarna"
+  ],
+  "accarnare": [
+    "akːarnare"
+  ],
+  "accarni": [
+    "akːarni"
+  ],
+  "accarno": [
+    "akːarno"
+  ],
+  "accarpiona": [
+    "akːarpjona"
+  ],
+  "accarpioni": [
+    "akːarpjoni"
+  ],
+  "accarpiono": [
+    "akːarpjono"
+  ],
+  "accartoccerà": [
+    "akːartotːʃera"
+  ],
+  "accartoccerai": [
+    "akːartotːʃerai"
+  ],
+  "accartocceranno": [
+    "akːartotːʃeranːo"
+  ],
+  "accartoccerebbe": [
+    "akːartotːʃerebːe"
+  ],
+  "accartoccerebbero": [
+    "akːartotːʃerebːero"
+  ],
+  "accartoccerei": [
+    "akːartotːʃerei"
+  ],
+  "accartocceremmo": [
+    "akːartotːʃeremːo"
+  ],
+  "accartocceremo": [
+    "akːartotːʃeremo"
+  ],
+  "accartoccereste": [
+    "akːartotːʃereste"
+  ],
+  "accartocceresti": [
+    "akːartotːʃeresti"
+  ],
+  "accartoccerete": [
+    "akːartotːʃerete"
+  ],
+  "accartoccerò": [
+    "akːartotːʃero"
+  ],
+  "accartocci": [
+    "akːartotːʃi"
+  ],
+  "accartoccia": [
+    "akːartotːʃa"
+  ],
+  "accartocciai": [
+    "akːartotːʃai"
+  ],
+  "accartocciammo": [
+    "akːartotːʃamːo"
+  ],
+  "accartocciamo": [
+    "akːartotːʃjamo"
+  ],
+  "accartocciando": [
+    "akːartotːʃando"
+  ],
+  "accartocciano": [
+    "akːartotːʃano"
+  ],
+  "accartocciante": [
+    "akːartotːʃante"
+  ],
+  "accartocciare": [
+    "akːartotːʃare"
+  ],
+  "accartocciarono": [
+    "akːartotːʃarono"
+  ],
+  "accartocciasse": [
+    "akːartotːʃasːe"
+  ],
+  "accartocciassero": [
+    "akːartotːʃasːero"
+  ],
+  "accartocciassi": [
+    "akːartotːʃasːi"
+  ],
+  "accartocciassimo": [
+    "akːartotːʃasːimo"
+  ],
+  "accartocciaste": [
+    "akːartotːʃaste"
+  ],
+  "accartocciasti": [
+    "akːartotːʃasti"
+  ],
+  "accartocciata": [
+    "akːartotːʃata"
+  ],
+  "accartocciate": [
+    "akːartotːʃate"
+  ],
+  "accartocciati": [
+    "akːartotːʃati"
+  ],
+  "accartocciato": [
+    "akːartotːʃato"
+  ],
+  "accartocciava": [
+    "akːartotːʃava"
+  ],
+  "accartocciavamo": [
+    "akːartotːʃavamo"
+  ],
+  "accartocciavano": [
+    "akːartotːʃavano"
+  ],
+  "accartocciavate": [
+    "akːartotːʃavate"
+  ],
+  "accartocciavi": [
+    "akːartotːʃavi"
+  ],
+  "accartocciavo": [
+    "akːartotːʃavo"
+  ],
+  "accartoccino": [
+    "akːartotːʃino"
+  ],
+  "accartoccio": [
+    "akːartotːʃo"
+  ],
+  "accartocciò": [
+    "akːartotːʃo"
+  ],
+  "accasa": [
+    "akːasa"
+  ],
+  "accasai": [
+    "akːasai"
+  ],
+  "accasammo": [
+    "akːasamːo"
+  ],
+  "accasando": [
+    "akːasando"
+  ],
+  "accasano": [
+    "akːasano"
+  ],
+  "accasante": [
+    "akːasante"
+  ],
+  "accasare": [
+    "akːazare"
+  ],
+  "accasarono": [
+    "akːasarono"
+  ],
+  "accasarsi": [
+    "akːazarsi"
+  ],
+  "accasasse": [
+    "akːasasːe"
+  ],
+  "accasassero": [
+    "akːasasːero"
+  ],
+  "accasassi": [
+    "akːasasːi"
+  ],
+  "accasassimo": [
+    "akːasasːimo"
+  ],
+  "accasaste": [
+    "akːasaste"
+  ],
+  "accasasti": [
+    "akːasasti"
+  ],
+  "accasata": [
+    "akːasata"
+  ],
+  "accasate": [
+    "akːasate"
+  ],
+  "accasati": [
+    "akːasati"
+  ],
+  "accasato": [
+    "akːasato"
+  ],
+  "accasava": [
+    "akːasava"
+  ],
+  "accasavamo": [
+    "akːasavamo"
+  ],
+  "accasavano": [
+    "akːasavano"
+  ],
+  "accasavate": [
+    "akːasavate"
+  ],
+  "accasavi": [
+    "akːasavi"
+  ],
+  "accasavo": [
+    "akːasavo"
+  ],
+  "accasciare": [
+    "akːaʃʃare"
+  ],
+  "accasciarsi": [
+    "akːaʃʃarsi"
+  ],
+  "accasciato": [
+    "akːaʃʃato"
+  ],
+  "accasella": [
+    "akːaselːa"
+  ],
+  "accasellare": [
+    "akːaselːare",
+    "akːazelːare"
+  ],
+  "accaselli": [
+    "akːaselːi"
+  ],
+  "accasello": [
+    "akːaselːo"
+  ],
+  "accaserà": [
+    "akːasera"
+  ],
+  "accaserai": [
+    "akːaserai"
+  ],
+  "accaseranno": [
+    "akːaseranːo"
+  ],
+  "accaserebbe": [
+    "akːaserebːe"
+  ],
+  "accaserebbero": [
+    "akːaserebːero"
+  ],
+  "accaserei": [
+    "akːaserei"
+  ],
+  "accaseremmo": [
+    "akːaseremːo"
+  ],
+  "accaseremo": [
+    "akːaseremo"
+  ],
+  "accasereste": [
+    "akːasereste"
+  ],
+  "accaseresti": [
+    "akːaseresti"
+  ],
+  "accaserete": [
+    "akːaserete"
+  ],
+  "accaserma": [
+    "akːaserma"
+  ],
+  "accasermare": [
+    "akːasermare",
+    "akːazermare"
+  ],
+  "accasermi": [
+    "akːasermi"
+  ],
+  "accasermo": [
+    "akːasermo"
+  ],
+  "accaserò": [
+    "akːasero"
+  ],
+  "accasi": [
+    "akːasi"
+  ],
+  "accasiamo": [
+    "akːasjamo"
+  ],
+  "accasiate": [
+    "akːasjate"
+  ],
+  "accasino": [
+    "akːasino"
+  ],
+  "accaso": [
+    "akːaso"
+  ],
+  "accasò": [
+    "akːaso"
+  ],
+  "accastella": [
+    "akːastelːa"
+  ],
+  "accastellare": [
+    "akːastelːare"
+  ],
+  "accastelli": [
+    "akːastelːi"
+  ],
+  "accastellina": [
+    "akːastelːina"
+  ],
+  "accastellini": [
+    "akːastelːini"
+  ],
+  "accastellino": [
+    "akːastelːino"
+  ],
+  "accastello": [
+    "akːastelːo"
+  ],
+  "accatarra": [
+    "akːatarːa"
+  ],
+  "accatarrare": [
+    "akːatarːare"
+  ],
+  "accatarri": [
+    "akːatarːi"
+  ],
+  "accatarro": [
+    "akːatarːo"
+  ],
+  "accatasta": [
+    "akːatasta"
+  ],
+  "accatastai": [
+    "akːatastai"
+  ],
+  "accatastammo": [
+    "akːatastamːo"
+  ],
+  "accatastando": [
+    "akːatastando"
+  ],
+  "accatastano": [
+    "akːatastano"
+  ],
+  "accatastante": [
+    "akːatastante"
+  ],
+  "accatastare": [
+    "akːatastare"
+  ],
+  "accatastarono": [
+    "akːatastarono"
+  ],
+  "accatastasse": [
+    "akːatastasːe"
+  ],
+  "accatastassero": [
+    "akːatastasːero"
+  ],
+  "accatastassi": [
+    "akːatastasːi"
+  ],
+  "accatastassimo": [
+    "akːatastasːimo"
+  ],
+  "accatastaste": [
+    "akːatastaste"
+  ],
+  "accatastasti": [
+    "akːatastasti"
+  ],
+  "accatastata": [
+    "akːatastata"
+  ],
+  "accatastate": [
+    "akːatastate"
+  ],
+  "accatastati": [
+    "akːatastati"
+  ],
+  "accatastato": [
+    "akːatastato"
+  ],
+  "accatastava": [
+    "akːatastava"
+  ],
+  "accatastavamo": [
+    "akːatastavamo"
+  ],
+  "accatastavano": [
+    "akːatastavano"
+  ],
+  "accatastavate": [
+    "akːatastavate"
+  ],
+  "accatastavi": [
+    "akːatastavi"
+  ],
+  "accatastavo": [
+    "akːatastavo"
+  ],
+  "accatasterà": [
+    "akːatastera"
+  ],
+  "accatasterai": [
+    "akːatasterai"
+  ],
+  "accatasteranno": [
+    "akːatasteranːo"
+  ],
+  "accatasterebbe": [
+    "akːatasterebːe"
+  ],
+  "accatasterebbero": [
+    "akːatasterebːero"
+  ],
+  "accatasterei": [
+    "akːatasterei"
+  ],
+  "accatasteremmo": [
+    "akːatasteremːo"
+  ],
+  "accatasteremo": [
+    "akːatasteremo"
+  ],
+  "accatastereste": [
+    "akːatastereste"
+  ],
+  "accatasteresti": [
+    "akːatasteresti"
+  ],
+  "accatasterete": [
+    "akːatasterete"
+  ],
+  "accatasterò": [
+    "akːatastero"
+  ],
+  "accatasti": [
+    "akːatasti"
+  ],
+  "accatastiamo": [
+    "akːatastjamo"
+  ],
+  "accatastiate": [
+    "akːatastjate"
+  ],
+  "accatastino": [
+    "akːatastino"
+  ],
+  "accatasto": [
+    "akːatasto"
+  ],
+  "accatastò": [
+    "akːatasto"
+  ],
+  "accatta": [
+    "akːatːa"
+  ],
+  "accattafieno": [
+    "akːatːafjeno",
+    "akːatːafjɛno"
+  ],
+  "accattai": [
+    "aktːai"
+  ],
+  "accattammo": [
+    "aktːamːo"
+  ],
+  "accattando": [
+    "aktːando"
+  ],
+  "accattano": [
+    "aktːano"
+  ],
+  "accattante": [
+    "aktːante"
+  ],
+  "accattare": [
+    "akːatːare"
+  ],
+  "accattarono": [
+    "aktːarono"
+  ],
+  "accattasse": [
+    "aktːasːe"
+  ],
+  "accattassero": [
+    "aktːasːero"
+  ],
+  "accattassi": [
+    "aktːasːi"
+  ],
+  "accattassimo": [
+    "aktːasːimo"
+  ],
+  "accattaste": [
+    "aktːaste"
+  ],
+  "accattasti": [
+    "aktːasti"
+  ],
+  "accattata": [
+    "aktːata"
+  ],
+  "accattate": [
+    "aktːate"
+  ],
+  "accattati": [
+    "aktːati"
+  ],
+  "accattato": [
+    "aktːato"
+  ],
+  "accattava": [
+    "aktːava"
+  ],
+  "accattavamo": [
+    "aktːavamo"
+  ],
+  "accattavano": [
+    "aktːavano"
+  ],
+  "accattavate": [
+    "aktːavate"
+  ],
+  "accattavi": [
+    "aktːavi"
+  ],
+  "accattavo": [
+    "aktːavo"
+  ],
+  "accatterà": [
+    "aktːera"
+  ],
+  "accatterai": [
+    "aktːerai"
+  ],
+  "accatteranno": [
+    "aktːeranːo"
+  ],
+  "accatterebbe": [
+    "aktːerebːe"
+  ],
+  "accatterebbero": [
+    "aktːerebːero"
+  ],
+  "accatterei": [
+    "aktːerei"
+  ],
+  "accatteremmo": [
+    "aktːeremːo"
+  ],
+  "accatteremo": [
+    "aktːeremo"
+  ],
+  "accattereste": [
+    "aktːereste"
+  ],
+  "accatteresti": [
+    "aktːeresti"
+  ],
+  "accatterete": [
+    "aktːerete"
+  ],
+  "accatterò": [
+    "aktːero"
+  ],
+  "accatti": [
+    "akːatːi"
+  ],
+  "accattiamo": [
+    "aktːjamo"
+  ],
+  "accattiate": [
+    "aktːjate"
+  ],
+  "accattino": [
+    "aktːino"
+  ],
+  "accattiva": [
+    "akːativa"
+  ],
+  "accattivai": [
+    "akːativai"
+  ],
+  "accattivammo": [
+    "akːativamːo"
+  ],
+  "accattivando": [
+    "akːativando"
+  ],
+  "accattivano": [
+    "akːativano"
+  ],
+  "accattivante": [
+    "akːativante",
+    "akːatːivante"
+  ],
+  "accattivantemente": [
+    "akːatːivantemente"
+  ],
+  "accattivare": [
+    "akːativare"
+  ],
+  "accattivarono": [
+    "akːativarono"
+  ],
+  "accattivasse": [
+    "akːativasːe"
+  ],
+  "accattivassero": [
+    "akːativasːero"
+  ],
+  "accattivassi": [
+    "akːativasːi"
+  ],
+  "accattivassimo": [
+    "akːativasːimo"
+  ],
+  "accattivaste": [
+    "akːativaste"
+  ],
+  "accattivasti": [
+    "akːativasti"
+  ],
+  "accattivata": [
+    "akːativata"
+  ],
+  "accattivate": [
+    "akːativate"
+  ],
+  "accattivati": [
+    "akːativati"
+  ],
+  "accattivato": [
+    "akːativato"
+  ],
+  "accattivava": [
+    "akːativava"
+  ],
+  "accattivavamo": [
+    "akːativavamo"
+  ],
+  "accattivavano": [
+    "akːativavano"
+  ],
+  "accattivavate": [
+    "akːativavate"
+  ],
+  "accattivavi": [
+    "akːativavi"
+  ],
+  "accattivavo": [
+    "akːativavo"
+  ],
+  "accattiverà": [
+    "akːativera"
+  ],
+  "accattiverai": [
+    "akːativerai"
+  ],
+  "accattiveranno": [
+    "akːativeranːo"
+  ],
+  "accattiverebbe": [
+    "akːativerebːe"
+  ],
+  "accattiverebbero": [
+    "akːativerebːero"
+  ],
+  "accattiverei": [
+    "akːativerei"
+  ],
+  "accattiveremmo": [
+    "akːativeremːo"
+  ],
+  "accattiveremo": [
+    "akːativeremo"
+  ],
+  "accattivereste": [
+    "akːativereste"
+  ],
+  "accattiveresti": [
+    "akːativeresti"
+  ],
+  "accattiverete": [
+    "akːativerete"
+  ],
+  "accattiverò": [
+    "akːativero"
+  ],
+  "accattivi": [
+    "akːativi"
+  ],
+  "accattiviamo": [
+    "akːativjamo"
+  ],
+  "accattiviate": [
+    "akːativjate"
+  ],
+  "accattivino": [
+    "akːativino"
+  ],
+  "accattivo": [
+    "akːativo"
+  ],
+  "accattivò": [
+    "akːativo"
+  ],
+  "accatto": [
+    "akːatːo"
+  ],
+  "accattò": [
+    "aktːo"
+  ],
+  "accattona": [
+    "akːatːona"
+  ],
+  "accattonaggio": [
+    "akːatːonadːʒo"
+  ],
+  "accattone": [
+    "akːatːone"
+  ],
+  "accattoni": [
+    "akːatːoni"
+  ],
+  "accavalcare": [
+    "akːavalːare"
+  ],
+  "accavalciare": [
+    "akːavaltʃare"
+  ],
+  "accavalla": [
+    "akːavalːa"
+  ],
+  "accavallai": [
+    "akːavalːai"
+  ],
+  "accavallammo": [
+    "akːavalːamːo"
+  ],
+  "accavallando": [
+    "akːavalːando"
+  ],
+  "accavallano": [
+    "akːavalːano"
+  ],
+  "accavallante": [
+    "akːavalːante"
+  ],
+  "accavallare": [
+    "akːavalːare"
+  ],
+  "accavallarono": [
+    "akːavalːarono"
+  ],
+  "accavallasse": [
+    "akːavalːasːe"
+  ],
+  "accavallassero": [
+    "akːavalːasːero"
+  ],
+  "accavallassi": [
+    "akːavalːasːi"
+  ],
+  "accavallassimo": [
+    "akːavalːasːimo"
+  ],
+  "accavallaste": [
+    "akːavalːaste"
+  ],
+  "accavallasti": [
+    "akːavalːasti"
+  ],
+  "accavallata": [
+    "akːavalːata"
+  ],
+  "accavallate": [
+    "akːavalːate"
+  ],
+  "accavallati": [
+    "akːavalːati"
+  ],
+  "accavallato": [
+    "akːavalːato"
+  ],
+  "accavallava": [
+    "akːavalːava"
+  ],
+  "accavallavamo": [
+    "akːavalːavamo"
+  ],
+  "accavallavano": [
+    "akːavalːavano"
+  ],
+  "accavallavate": [
+    "akːavalːavate"
+  ],
+  "accavallavi": [
+    "akːavalːavi"
+  ],
+  "accavallavo": [
+    "akːavalːavo"
+  ],
+  "accavallerà": [
+    "akːavalːera"
+  ],
+  "accavallerai": [
+    "akːavalːerai"
+  ],
+  "accavalleranno": [
+    "akːavalːeranːo"
+  ],
+  "accavallerebbe": [
+    "akːavalːerebːe"
+  ],
+  "accavallerebbero": [
+    "akːavalːerebːero"
+  ],
+  "accavallerei": [
+    "akːavalːerei"
+  ],
+  "accavalleremmo": [
+    "akːavalːeremːo"
+  ],
+  "accavalleremo": [
+    "akːavalːeremo"
+  ]
 }

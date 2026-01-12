@@ -1,502 +1,1519 @@
 {
-  "ibisco": ["i b i s k o"],
-  "ibogaina": ["i b o ɡ a i n a"],
-  "ibrida": ["i b r i d a"],
-  "ibridare": ["i b r i d a r e"],
-  "ibridato": ["i n b r i d a t o"],
-  "ibridazione": ["i b r i d a t s j o n e"],
-  "ibride": ["i b r i d e"],
-  "ibridi": ["i b r i d i"],
-  "ibridismo": ["i b r i d i z m o"],
-  "ibrido": ["i b r i d o"],
-  "ibridoma": ["i b r i d ɔ m a"],
-  "ibridomi": ["i b r i d ɔ m i"],
-  "icastica": ["i k a s t i k a"],
-  "icasticamente": ["i k a s t i k a m e n t e"],
-  "icastiche": ["i k a s t i k e"],
-  "icastici": ["i k a s t i k i"],
-  "icasticità": ["i k a s t i t ʃ i t a"],
-  "icastico": ["i k a s t i k o"],
-  "iceberg": ["a j s b ɛ r", "a j s b ɛ r ɡ"],
-  "icneumone": ["i k n ɛ u m o n e"],
-  "icneumoni": ["i k n ɛ u m o n i"],
-  "icona": ["i k o n a", "i k ɔ n a"],
-  "icone": ["i k o n e"],
-  "iconico": ["i k ɔ n i k o"],
-  "iconoclasta": ["i k o n o k l a s t a"],
-  "iconoclastia": ["i k o n o k l a s t i a"],
-  "iconografia": ["i k o n o ɡ r a f i a"],
-  "iconografico": ["i k o n o ɡ r a f i k o"],
-  "iconografie": ["i k o n o ɡ r a f i e"],
-  "iconologica": ["i k o n o l ɔ d ʒ i k a"],
-  "iconologiche": ["i k o n o l ɔ d ʒ i k e"],
-  "iconologici": ["i k o n o l ɔ d ʒ i t ʃ i"],
-  "iconologico": ["i k o n o l ɔ d ʒ i k o"],
-  "iconoscopi": ["i k o n o s k ɔ p i"],
-  "iconoscopio": ["i k o n o s k ɔ p j o"],
-  "iconostasi": ["i k o n o s t a z i", "i k o n ɔ s t a z i"],
-  "iconoteca": ["i k o n o t ɛ k a"],
-  "iconoteche": ["i k o n o t ɛ k e"],
-  "icore": ["i k o r e"],
-  "icosaedri": ["i k o s a e d r i"],
-  "icosaedro": ["i k o s a ɛ d r o", "i k o z a e d r o", "i k o z a ɛ d r o"],
-  "icosidodecaedro": ["i k o z i d o d e k a ɛ d r o"],
-  "ics": ["i k s"],
-  "ictus": ["i k t u s"],
-  "idaho": ["a j d a o"],
-  "idea": ["i d ɛ a"],
-  "ideale": ["i d e a l e"],
-  "ideali": ["i d e a l i"],
-  "idealismi": ["i d e a l i z m i"],
-  "idealismo": ["i d e a l i z m o"],
-  "idealista": ["i d e a l i s t a"],
-  "idealiste": ["i d e a l i s t e"],
-  "idealisti": ["i d e a l i s t i"],
-  "idealistico": ["i d e a l i s t i k o"],
-  "idealizzare": ["i d e a l i dː z a r e"],
-  "idealmente": ["i d e a l m e n t e"],
-  "ideando": ["i d e a n d o"],
-  "ideante": ["i d e a n t e"],
-  "ideare": ["i d e a r e"],
-  "ideaste": ["i d e a s t e"],
-  "ideativo": ["i d e a t i v o"],
-  "ideato": ["i d e a t o"],
-  "ideatore": ["i d e a t o r e"],
-  "ideatrice": ["i d e a t r i t ʃ e"],
-  "ideazione": ["i d e a t s j o n e"],
-  "ideazioni": ["i d e a t s j o n i"],
-  "idei": ["i d ɛ i"],
-  "idem": ["i d e m"],
-  "identica": ["i d ɛ n t i k a"],
-  "identicamente": ["i d ɛ n t i k a m e n t e"],
-  "identiche": ["i d ɛ n t i k e"],
-  "identici": ["i d ɛ n t i ʃ i"],
-  "identico": ["i d ɛ n t i k o"],
-  "identificabile": ["i d e n t i f i k a b i l e"],
-  "identificabili": ["i d e n t i f i k a b i l i"],
-  "identificare": ["i d e n t i f i k a r e"],
-  "identificatore": ["i d e n t i f i k a t o r e"],
-  "identificatori": ["i d e n t i f i k a t o r i"],
-  "identificazione": ["i d e n t i f i k a tː s j o n e"],
-  "identificazioni": ["i d e n t i f i k a t s j o n i"],
-  "identikit": ["i d e n t i k i t"],
-  "identità": ["i d e n t i t a"],
-  "identitari": ["i d e n t i t a r i"],
-  "identitaria": ["i d e n t i t a r j a"],
-  "identitarie": ["i d e n t i t a r j e"],
-  "identitario": ["i d e n t i t a r j o"],
-  "identite": ["i d e n t i t a"],
-  "ideogramma": ["i d e o ɡ r a mː a"],
-  "ideogrammi": ["i d e o ɡ r a mː a"],
-  "ideologa": ["i d e ɔ l o ɡ a"],
-  "ideologe": ["i d e ɔ l o ɡ e"],
-  "ideologhi": ["i d e ɔ l o ɡ i"],
-  "ideologi": ["i d e ɔ l o ɡ i"],
-  "ideologia": ["i d e o l o d ʒ i a"],
-  "ideologica": ["i d e o l ɔ d ʒ i k a"],
-  "ideologicamente": ["i d e o l ɔ d ʒ i k a m e n t e"],
-  "ideologiche": ["i d e o l ɔ d ʒ i k e"],
-  "ideologici": ["i d e o l ɔ d ʒ i t ʃ i"],
-  "ideologico": ["i d e o l ɔ d ʒ i k o"],
-  "ideologie": ["i d e o l o d ʒ i e"],
-  "ideologismi": ["i d e o l o d ʒ i z m i"],
-  "ideologismo": ["i d e o l o d ʒ i z m o"],
-  "ideologo": ["i d e ɔ l o ɡ o"],
-  "idilli": ["i d i lː i"],
-  "idilliaca": ["i d i lː i a k a"],
-  "idilliache": ["i d i lː i a k e"],
-  "idilliaco": ["i d i lː i a k o"],
-  "idillico": ["i d i lː i k o"],
-  "idillio": ["i d i lː j o"],
-  "idioblasto": ["i d j o b l a s t o"],
-  "idioma": ["i d j ɔ m a"],
-  "idiomatico": ["i d j o m a t i k o"],
-  "idiosincrasia": ["i d j o s i n k r a z i a", "i d j o z i n k r a z i a"],
-  "idiota": ["i d j ɔ t a"],
-  "idiotismi": ["i d j o t i z m i"],
-  "idiotismo": ["i d j o t i z m o"],
-  "idiozia": ["i d j o tː s i a"],
-  "idiozie": ["i d j o tː s i e"],
-  "ido": ["i d o"],
-  "idolatra": ["i d o l a t r a"],
-  "idolatrato": ["i d o l a t r a t o"],
-  "idoletto": ["i d o l e tː o"],
-  "idolo": ["i d o l o"],
-  "idoneamente": ["i d o n e a m e n t e"],
-  "idoneità": ["i d o n e i t a", "i d o n e j t a"],
-  "idoneo": ["i d ɔ n e a", "i d ɔ n e o", "i d ɔ n ɛ ɔ"],
-  "idra": ["i d r a"],
-  "idracidi": ["i d r o a t ʃ i d i"],
-  "idracido": ["i d r o a t ʃ i d o"],
-  "idragogo": ["i d r a ɡ ɔ ɡ o"],
-  "idrante": ["i d r a n t e"],
-  "idranti": ["i d r a n t i"],
-  "idrargirismo": ["i d r a r d ʒ i r i z m o"],
-  "idrargirolo": ["i d r a r d ʒ i r ɔ l o"],
-  "idratabile": ["i d r a t a b i l e"],
-  "idratabili": ["i d r a t a b i l i"],
-  "idratante": ["i d r a t a n t e"],
-  "idratanti": ["i d r a t a n t i"],
-  "idratare": ["i d r a t a r e"],
-  "idraulica": ["i d r a u l i k a"],
-  "idrauliche": ["i d r a u l i k e"],
-  "idraulici": ["i d r a u l i t ʃ i"],
-  "idraulicità": ["i d r a u l i t ʃ i t a"],
-  "idraulico": ["i d r a u l i k o", "i d r a w l i k o"],
-  "idrica": ["i d r i k a"],
-  "idriche": ["i d r i k e"],
-  "idrico": ["i d r i k o"],
-  "idroalcolico": ["i d r o a l k ɔ l i k o"],
-  "idroaliante": ["i d r o a l j a n t e"],
-  "idrobatide": ["i d r o b a t i d e"],
-  "idrobatidi": ["i d r o b a t i d i"],
-  "idrobiologa": ["i d r ɔ b i ɔ l o ɡ a"],
-  "idrobiologhe": ["i d r ɔ b i ɔ l o ɡ e"],
-  "idrobiologi": ["i d r ɔ b i ɔ l o d ʒ i"],
-  "idrobiologia": ["i d r o b i o l o d ʒ i a"],
-  "idrobiologie": ["i d r o b i o l o d ʒ i e"],
-  "idrobiologo": ["i d r ɔ b i ɔ l o ɡ o"],
-  "idrocarburico": ["i d r o k a r b u r i k o"],
-  "idrocarburo": ["i d r o k a r b u r o"],
-  "idrocinetico": ["i d r o t ʃ i n ɛ t i k o"],
-  "idrocoro": ["i d r o k ɔ r o"],
-  "idrodinamico": ["i d r o d i n a m i k o"],
-  "idroelettrica": ["i d r o e l ɛ tː r i k a"],
-  "idroelettriche": ["i d r o e l ɛ tː r i k e"],
-  "idroelettrici": ["i d r o e l ɛ tː r i t ʃ i"],
-  "idroelettricità": ["i d r o e l e tː r i t ʃ i t a"],
-  "idroelettrico": ["i d r o e l ɛ tː r i k o"],
-  "idrofilo": ["i d r ɔ f i l o"],
-  "idrofobia": ["i d r o f o b i a"],
-  "idroformatura": ["i d r o f o r m a t u r a"],
-  "idrofuga": ["i d r o f u ɡ a"],
-  "idrofughe": ["i d r o f u ɡ e"],
-  "idrofughi": ["i d r o f u ɡ i"],
-  "idrofugo": ["i d r o f u ɡ o"],
-  "idrogenare": ["i d r o d ʒ e n a r e"],
-  "idrogenazione": ["i d r o d ʒ e n a t s j o n e"],
-  "idrogeni": ["i d r ɔ d ʒ e n i"],
-  "idrogenica": ["i d r o d ʒ ɛ n i k a"],
-  "idrogeniche": ["i d r o d ʒ ɛ n i k e"],
-  "idrogenico": ["i d r o d ʒ ɛ n i k o"],
-  "idrogeno": ["i d r ɔ d ʒ e n o"],
-  "idrogenocarbonile": ["i d r ɔ d ʒ e n o k a r b o n i l e"],
-  "idrogenosolfati": ["i d r o d ʒ e n o s o l f a t i"],
-  "idrogenosolfato": ["i d r o d ʒ e n o s o l f a t o"],
-  "idrogeochimica": ["i d r o d ʒ ɛ o k i m i k a"],
-  "idrogeologia": ["i d r o d ʒ e o l o d ʒ i a"],
-  "idrogeologico": ["i d r o d ʒ e o l ɔ d ʒ i k o"],
-  "idrografia": ["i d r o ɡ r a f i a"],
-  "idrografico": ["i d r o ɡ r a f i k o"],
-  "idrolipidica": ["i d r o l i p i d i k a"],
-  "idrolipidiche": ["i d r o l i p i d i k e"],
-  "idrolipidici": ["i d r o l i p i d i t ʃ i"],
-  "idrolipidico": ["i d r o l i p i d i k o"],
-  "idrolisi": ["i d r o l i z i", "i d r ɔ l i z i"],
-  "idrolitico": ["i d r o l i t i k o"],
-  "idrolizzabile": ["i d r o l i dː z a b i l e"],
-  "idrolizzabili": ["i d r o l i dː z a b i l i"],
-  "idrolizzante": ["i d r a l i dː z a n t e"],
-  "idrolizzanti": ["i d r a l i dː z a n t i"],
-  "idrolizzare": ["i d r o l i dː z a r e"],
-  "idrologa": ["i d r o l o ɡ a"],
-  "idrologhe": ["i d r o l o ɡ e"],
-  "idrologi": ["i d r o l o d ʒ i"],
-  "idrologia": ["i d r o l o d ʒ i a"],
-  "idrologica": ["i d r o l ɔ d ʒ i k a"],
-  "idrologiche": ["i d r o l ɔ d ʒ i k e"],
-  "idrologici": ["i d r o l ɔ d ʒ i t ʃ i"],
-  "idrologico": ["i d r o l ɔ d ʒ i k o"],
-  "idrologo": ["i d r o l o ɡ o"],
-  "idromante": ["i d r o m a n t e"],
-  "idromanzia": ["i d r o m a n t s i a"],
-  "idromassaggi": ["i d r o m a sː a dː ʒ i"],
-  "idromassaggio": ["i d r o m a sː a dː ʒ o"],
-  "idromeccanica": ["i d r o m e kː a n i k a"],
-  "idromele": ["i d r o m ɛ l e"],
-  "idromeli": ["i d r o m ɛ l i"],
-  "idrometra": ["i d r ɔ m e t r a"],
-  "idrometri": ["i d r ɔ m e t r i"],
-  "idrometria": ["i d r o m e t r i a"],
-  "idrometride": ["i d r o m ɛ t r i d e"],
-  "idrometridi": ["i d r o m ɛ t r i d i"],
-  "idrometro": ["i d r ɔ m e t r o"],
-  "idronimo": ["i d r ɔ n i m o"],
-  "idronio": ["i d r ɔ n j o"],
-  "idroplano": ["i d r o p l a n o"],
-  "idroponico": ["i d r o p ɔ n i k o"],
-  "idrorepellente": ["i d r o r e p e lː ɛ n t e"],
-  "idrorepellenti": ["i d r o r e p e lː ɛ n t i"],
-  "idrorepellenza": ["i d r o r e p e lː ɛ n t s a"],
-  "idroscalo": ["i d r o s k a l o"],
-  "idroscheletri": ["i d r o s k ɛ l e t r o"],
-  "idroscheletro": ["i d r o s k ɛ l e t r o"],
-  "idrosciatore": ["i d r o ʃ ʃ a t o r e"],
-  "idrosciatori": ["i d r o ʃ ʃ a t o r i"],
-  "idrosciatrice": ["i d r o ʃ ʃ a t r i t ʃ e"],
-  "idrosciatrici": ["i d r o ʃ ʃ a t r i t ʃ i"],
-  "idroscivolante": ["i d r o ʃ ʃ i v o l a n t e"],
-  "idroscivolanti": ["i d r o ʃ ʃ i v o l a n t i"],
-  "idroscopi": ["i d r o s k ɔ p i"],
-  "idroscopio": ["i d r o s k ɔ p j o"],
-  "idrosfera": ["i d r o s f e r a", "i d r o s f ɛ r a"],
-  "idrosfere": ["i d r o s f ɛ r e"],
-  "idrosolubile": ["i d r o s o l u b i l e"],
-  "idrosolubili": ["i d r o s o l u b i l i"],
-  "idrosolubilità": ["i d r o s o l u b i l i t a"],
-  "idrossiapatite": ["i d r ɔ sː i a p a t i t e"],
-  "idrossido": ["i d r ɔ sː i d o"],
-  "idrossilammina": ["i d r o sː i l e a mː i n a"],
-  "idrossile": ["i d r o sː i l e"],
-  "idrossili": ["i d r o sː i l i"],
-  "idroterapia": ["i d r o t e r a p i a"],
-  "idrovolante": ["i d r o v o l a n t e"],
-  "idrovolanti": ["i d r o v o l a n t i"],
-  "idrovora": ["i d r ɔ v o r a"],
-  "idruro": ["i d r u r o"],
-  "iella": ["j ɛ lː a"],
-  "iemen": ["j ɛ m e n"],
-  "iemenita": ["j e m e n i t a"],
-  "iemenite": ["j e m e n i t e"],
-  "iemeniti": ["j e m e n i t i"],
-  "iena": ["j ɛ n a"],
-  "iene": ["j ɛ n e"],
-  "ienide": ["j ɛ n i d e"],
-  "ienidi": ["j ɛ n i d i"],
-  "ieraticamente": ["j e r a t i k a m e n t e"],
-  "ieratico": ["j e r a t i k o"],
-  "ieri": ["j ɛ r i"],
-  "iernotte": ["j e r n ɔ tː e"],
-  "ierocrazia": ["j e r o k r a tː s i a"],
-  "iettare": ["j e tː a r e"],
-  "iettatore": ["j e tː a t o r e"],
-  "iettatura": ["j e tː a t u r a"],
-  "ifa": ["i f a"],
-  "igiene": ["i d ʒ ɛ n e"],
-  "igieni": ["i d ʒ ɛ n e"],
-  "igienica": ["i d ʒ ɛ n i k a"],
-  "igienicamente": ["i d ʒ e n i k a m e n t e"],
-  "igieniche": ["i d ʒ ɛ n i k e"],
-  "igienici": ["i d ʒ ɛ n i t ʃ i"],
-  "igienico": ["i d ʒ ɛ n i k o"],
-  "igienista": ["i d ʒ e n i s t a"],
-  "igieniste": ["i d ʒ e n i s t e"],
-  "igienisti": ["i d ʒ e n i s t i"],
-  "iglò": ["i ɡ l o"],
-  "iglù": ["i ɡ l u"],
-  "igname": ["i ɲ ɲ a m e"],
-  "ignami": ["i ɲ ɲ a m i"],
-  "ignaro": ["i ɲ ɲ a r o"],
-  "ignava": ["i ɲ a v a"],
-  "ignave": ["i ɲ a v e"],
-  "ignavi": ["i ɲ a v i"],
-  "ignavia": ["i ɲ ɲ a v j a"],
-  "ignavo": ["i ɲ a v o", "i ɲ ɲ a v o"],
-  "ignazio": ["i ɲ ɲ a tː s j o"],
-  "igne": ["i ɲ ɲ e"],
-  "igneo": ["i ɲ ɲ e o"],
-  "ignicolo": ["i ɲ ɲ i k o l o"],
-  "ignifuga": ["i ɲ ɲ i f u ɡ a"],
-  "ignifughe": ["i ɲ ɲ i f u ɡ e"],
-  "ignifughi": ["i ɲ ɲ i f u ɡ i"],
-  "ignifugo": ["i ɲ ɲ i f u ɡ o"],
-  "ignimbrite": ["i ɡ n i m b r i t e"],
-  "ignizione": ["i ɲ ɲ i tː s j o n e"],
-  "ignobile": ["i ɲ ɲ ɔ b i l e"],
-  "ignobili": ["i ɲ ɲ ɔ b i l i"],
-  "ignobilità": ["i ɲ ɲ ɔ b i l i t a"],
-  "ignobiltà": ["i ɲ ɲ ɔ b i l t a"],
-  "ignominia": ["i ɲ ɲ o m i n j a"],
-  "ignominie": ["i ɲ ɲ o m i n j e"],
-  "ignominiosa": ["i ɲ ɲ o m i n j o s a"],
-  "ignominiosamente": ["i ɲ ɲ o m i n j o s a m e n t e"],
-  "ignominiose": ["i ɲ ɲ o m i n j o s e"],
-  "ignominiosi": ["i ɲ ɲ o m i n j o s i"],
-  "ignominioso": ["i ɲ ɲ o m i n j o s o"],
-  "ignorabile": ["i ɲ ɲ o r a b i l e"],
-  "ignorabili": ["i ɲ ɲ o r a b i l i"],
-  "ignorando": ["i ɲ ɲ o r a n d o"],
-  "ignorante": ["i ɲ ɲ o r a n t e"],
-  "ignorantemente": ["i ɲ ɲ o r a n t e m e n t e"],
-  "ignoranti": ["i ɲ ɲ o r a n t i"],
-  "ignorantissima": ["i ɲ ɲ o r a n t i sː i m a"],
-  "ignorantissime": ["i ɲ ɲ o r a n t i sː i m e"],
-  "ignorantissimi": ["i ɲ ɲ o r a n t i sː i m i"],
-  "ignorantissimo": ["i ɲ ɲ o r a n t i sː i m o"],
-  "ignoranza": ["i ɲ ɲ o r a n t s a"],
-  "ignoranze": ["i ɲ ɲ o r a n t s e"],
-  "ignorare": ["i ɲ ɲ o r a r e"],
-  "ignorarsi": ["i ɲ ɲ o r a r s i"],
-  "ignorata": ["i ɲ ɲ o r a t a"],
-  "ignorate": ["i ɲ ɲ o r a t e"],
-  "ignorati": ["i ɲ ɲ o r a t i"],
-  "ignorato": ["i ɲ ɲ o r a t o"],
-  "ignoro": ["i ɲ ɲ o r o"],
-  "ignota": ["i ɲ ɔ t a"],
-  "ignote": ["i ɲ ɔ t e"],
-  "ignoti": ["i ɲ ɔ t i"],
-  "ignoto": ["i ɲ ɲ ɔ t o", "i ɲ ɔ t o"],
-  "ignudare": ["i ɲ ɲ u d a r e"],
-  "ignudo": ["i ɲ ɲ u d o"],
-  "igrocasia": ["i ɡ r o k a z i a"],
-  "igrocastico": ["i ɡ r o k a s t i k o"],
-  "igrografo": ["i ɡ r ɔ ɡ r a f o"],
-  "igrometri": ["i ɡ r ɔ m e t r i"],
-  "igrometria": ["i ɡ r o m e t r i a"],
-  "igrometrico": ["i ɡ r o m ɛ t r i k o"],
-  "igrometro": ["i ɡ r ɔ m e t r o"],
-  "igroregolabile": ["i ɡ r o r e ɡ o l a b i l e"],
-  "igroregolabili": ["i ɡ r o r e ɡ o l a b i l i"],
-  "igroscopia": ["i ɡ r o s k o p i a"],
-  "igroscopica": ["i ɡ r o s k ɔ p i k a"],
-  "igroscopiche": ["i ɡ r o s k ɔ p i k e"],
-  "igroscopici": ["i ɡ r o s k ɔ p i t ʃ i"],
-  "igroscopico": ["i ɡ r o s k ɔ p i k o"],
-  "iguana": ["i ɡ w a n a"],
-  "iguane": ["i ɡ w a n e"],
-  "ikebana": ["i k e b a n a"],
-  "il": ["i l"],
-  "ilare": ["i l a r e"],
-  "ilarità": ["i l a r i t a"],
-  "ilarotragedia": ["i l a r o t r a d ʒ ɛ d j a"],
-  "ilarotragedie": ["i l a r o t r a d ʒ ɛ d j e"],
-  "ilda": ["i l d a"],
-  "ileo": ["i l e o"],
-  "ili": ["i l i"],
-  "iliaco": ["i l i a k o"],
-  "ilio": ["i l j o"],
-  "illanguidire": ["i lː a n ɡ w i d i r e"],
-  "illanguidito": ["i lː a n ɡ w i d i t o"],
-  "illazione": ["i lː a tː s j o n e"],
-  "illecitamente": ["i lː e t ʃ i t a m e n t e"],
-  "illecito": ["i lː e t ʃ i t o"],
-  "illegale": ["i lː e ɡ a l e"],
-  "illegali": ["i lː e ɡ a l i"],
-  "illegalità": ["i lː e ɡ a l i t a"],
-  "illegalmente": ["i lː e ɡ a l m e n t e"],
-  "illeggibile": ["i lː e dː ʒ i b i l e"],
-  "illeggibili": ["i lː e dː ʒ i b i l i"],
-  "illeggibilità": ["i lː e dː ʒ i b i l i t a"],
-  "illeggibilmente": ["i lː e dː ʒ i b i l m e n t e"],
-  "illegittima": ["i lː e d ʒ i tː i m a"],
-  "illegittimamente": ["i lː e d ʒ i tː i m a m e n t e"],
-  "illegittime": ["i lː e d ʒ i tː i m e"],
-  "illegittimi": ["i lː e d ʒ i tː i m i"],
-  "illegittimità": ["i lː e d ʒ i tː i m i t a"],
-  "illegittimo": ["i lː e d ʒ i tː i m o"],
-  "illeopardito": ["i lː e o p a r d i t o"],
-  "illeso": ["i lː e z o"],
-  "illetterata": ["i lː e tː e r a t a"],
-  "illetteratamente": ["i lː e tː e r a t a m e n t e"],
-  "illetterate": ["i lː e tː e r a t e"],
-  "illetterati": ["i lː e tː e r a t i"],
-  "illetterato": ["i lː e tː e r a t o"],
-  "illibatezza": ["i lː i b a t e tː s a"],
-  "illibatezze": ["i lː i b a t e tː s e"],
-  "illibato": ["i lː i b a t o"],
-  "illiberale": ["i lː i b e r a l e"],
-  "illiberali": ["i lː i b e r a l i"],
-  "illiberalismi": ["i lː i b e r a l i z m i"],
-  "illiberalismo": ["i lː i b e r a l i z m o"],
-  "illiberalmente": ["i lː i b e r a l m e n t e"],
-  "illimitabile": ["i lː i m i t a b i l e"],
-  "illimitabili": ["i lː i m i t a b i l i"],
-  "illimitata": ["i lː i m i t a t a"],
-  "illimitatamente": ["i lː i m i t a t a m e n t e"],
-  "illimitate": ["i lː i m i t a t e"],
-  "illimitati": ["i lː i m i t a t i"],
-  "illimitato": ["i lː i m i t a t o"],
-  "illimitazione": ["i lː i m i t a tː s j o n e"],
-  "illimitazioni": ["i lː i m i t a tː s j o n i"],
-  "illimpidire": ["i lː i m p i d i r e"],
-  "illinois": ["i lː i n ɔ j s"],
-  "illirico": ["i lː i r i k o"],
-  "illogica": ["i lː ɔ d ʒ i k a"],
-  "illogiche": ["i lː ɔ d ʒ i k e"],
-  "illogici": ["i lː ɔ d ʒ i t ʃ i"],
-  "illogico": ["a sː u r d o", "i lː ɔ d ʒ i k o"],
-  "illudere": ["i lː u d e r e"],
-  "illudersi": ["i lː u d e r s i"],
-  "illuminamenti": ["i lː u m i n a m e n t i"],
-  "illuminamento": ["i lː u m i n a m e n t o"],
-  "illuminante": ["i lː u m i n a n t e"],
-  "illuminanti": ["i lː u m i n a n t i"],
-  "illuminare": ["i lː u m i n a r e"],
-  "illuminata": ["i lː u m i n a t a"],
-  "illuminate": ["i lː u m i n a t e"],
-  "illuminati": ["i lː u m i n a t i"],
-  "illuminato": ["i lː u m i n a t o"],
-  "illuminazione": ["i lː u m i n a tː s j o n e"],
-  "illuminazioni": ["i lː u m i n a tː s j o n i"],
-  "illuminismo": ["i lː u m i n i z m o"],
-  "illuminista": ["i lː u m i n i s t a"],
-  "illuministe": ["i lː u m i n i s t e"],
-  "illuministi": ["i lː u m i n i s t i"],
-  "illuministica": ["i lː u m i n i s t i k a"],
-  "illuministicamente": ["i lː u m i n i s t i k a m e n t e"],
-  "illuministiche": ["i lː u m i n i s t i k e"],
-  "illuministici": ["i lː u m i n i s t i t ʃ i"],
-  "illuministico": ["i lː u m i n i s t i k o"],
-  "illumino": ["i lː u m i n o"],
-  "illune": ["i lː u n e"],
-  "illusa": ["i lː u z a"],
-  "illusione": ["i lː u z j o n e"],
-  "illusioni": ["i lː u z j o n i"],
-  "illusionismi": ["i lː u z j o n i z m i"],
-  "illusionismo": ["i lː u z j o n i z m o"],
-  "illusionista": ["i lː u z j o n i s t a"],
-  "illusioniste": ["i lː u z j o n i s t e"],
-  "illusionisti": ["i lː u z j o n i s t i"],
-  "illusionistica": ["i lː u z j o n i s t i k a"],
-  "illusionistiche": ["i lː u z j o n i s t i k e"],
-  "illusionistici": ["i lː u z j o n i s t i t ʃ i"],
-  "illusionistico": ["i lː u z j o n i s t i k o"],
-  "illuso": ["i lː u z o"],
-  "illusori": ["i lː u z ɔ r i"],
-  "illusoria": ["i lː u z ɔ r j a"],
-  "illusorie": ["i lː u z ɔ r j e"],
-  "illusorio": ["i lː u z ɔ r j o"],
-  "illustrante": ["i lː u s t r a n t e"],
-  "illustrare": ["i lː u s t r a r e"],
-  "illustrarsi": ["i lː u s t r a r s i"],
-  "illustrative": ["i lː u s t r a t i v e"],
-  "illustrativo": ["i lː u s t r a t i v o"],
-  "illustrato": ["i lː u s t r a t o"],
-  "illustratore": ["i lː u s t r a t o r e"],
-  "illustratori": ["i lː u s t r a t o r i"],
-  "illustratrice": ["i lː u s t r a t r i t ʃ e"],
-  "illustratrici": ["i lː u s t r a t r i t ʃ i"],
-  "illustrazione": ["i lː u s t r a t s j o n e", "i lː u s t r a t s j ɔ n e", "i lː u s t r a tː s j o n e"],
-  "illustrazioni": ["i lː u s t r a t s j ɔ n i"],
-  "illustre": ["i lː u s t r e"],
-  "illustro": ["i lː u s t r o"],
-  "ilo": ["i l o"],
-  "ilobate": ["i l ɔ b a t e"],
-  "ilobatide": ["i l o b a t i d e"],
-  "ilobatidi": ["i l o b a t i d i"],
-  "ilota": ["i l ɔ t a"],
-  "iloti": ["i l ɔ t i"],
-  "ilozoismi": ["i l o dː z o i z m i"],
-  "ilozoismo": ["i l o dː z o i z m o"],
-  "ilozoista": ["i l o dː z o i s t a"],
-  "ilozoiste": ["i l o dː z o i s t e"],
-  "ilozoisti": ["i l o dː z o i s t i"],
-  "ilvaite": ["i l v a i t e"],
-  "imago": ["i m a ɡ o"],
-  "imam": ["i m a m"],
-  "iman": ["i m a n"],
-  "imbacare": ["i m b a k a r e"],
-  "imbacuccare": ["i m b a k u kː a r e"],
-  "imballaggi": ["i m b a lː a dː ʒ i"],
-  "imballaggio": ["i m b a lː a dː ʒ o"],
-  "imballare": ["i m b a lː a r e"],
-  "imballato": ["i m b a lː a t o"],
-  "imballatore": ["i m b a lː a t o r e"],
-  "imballatori": ["i m b a lː a t o r i"],
-  "imballatrice": ["i m b a lː a t r i t ʃ e"],
-  "imballatrici": ["i m b a lː a t r i t ʃ i"],
-  "imballatura": ["i m b a lː a t u r a"],
-  "imballature": ["i m b a lː a t u r e"],
-  "imballo": ["i m b a lː o"],
-  "imbalsamare": ["i m b a l s a m a r e"]
+  "ibisco": [
+    "ibisko"
+  ],
+  "ibogaina": [
+    "iboɡaina"
+  ],
+  "ibrida": [
+    "ibrida"
+  ],
+  "ibridare": [
+    "ibridare"
+  ],
+  "ibridato": [
+    "inbridato"
+  ],
+  "ibridazione": [
+    "ibridatsjone"
+  ],
+  "ibride": [
+    "ibride"
+  ],
+  "ibridi": [
+    "ibridi"
+  ],
+  "ibridismo": [
+    "ibridizmo"
+  ],
+  "ibrido": [
+    "ibrido"
+  ],
+  "ibridoma": [
+    "ibridɔma"
+  ],
+  "ibridomi": [
+    "ibridɔmi"
+  ],
+  "icastica": [
+    "ikastika"
+  ],
+  "icasticamente": [
+    "ikastikamente"
+  ],
+  "icastiche": [
+    "ikastike"
+  ],
+  "icastici": [
+    "ikastiki"
+  ],
+  "icasticità": [
+    "ikastitʃita"
+  ],
+  "icastico": [
+    "ikastiko"
+  ],
+  "iceberg": [
+    "ajsbɛr",
+    "ajsbɛrɡ"
+  ],
+  "icneumone": [
+    "iknɛumone"
+  ],
+  "icneumoni": [
+    "iknɛumoni"
+  ],
+  "icona": [
+    "ikona",
+    "ikɔna"
+  ],
+  "icone": [
+    "ikone"
+  ],
+  "iconico": [
+    "ikɔniko"
+  ],
+  "iconoclasta": [
+    "ikonoklasta"
+  ],
+  "iconoclastia": [
+    "ikonoklastia"
+  ],
+  "iconografia": [
+    "ikonoɡrafia"
+  ],
+  "iconografico": [
+    "ikonoɡrafiko"
+  ],
+  "iconografie": [
+    "ikonoɡrafie"
+  ],
+  "iconologica": [
+    "ikonolɔdʒika"
+  ],
+  "iconologiche": [
+    "ikonolɔdʒike"
+  ],
+  "iconologici": [
+    "ikonolɔdʒitʃi"
+  ],
+  "iconologico": [
+    "ikonolɔdʒiko"
+  ],
+  "iconoscopi": [
+    "ikonoskɔpi"
+  ],
+  "iconoscopio": [
+    "ikonoskɔpjo"
+  ],
+  "iconostasi": [
+    "ikonostazi",
+    "ikonɔstazi"
+  ],
+  "iconoteca": [
+    "ikonotɛka"
+  ],
+  "iconoteche": [
+    "ikonotɛke"
+  ],
+  "icore": [
+    "ikore"
+  ],
+  "icosaedri": [
+    "ikosaedri"
+  ],
+  "icosaedro": [
+    "ikosaɛdro",
+    "ikozaedro",
+    "ikozaɛdro"
+  ],
+  "icosidodecaedro": [
+    "ikozidodekaɛdro"
+  ],
+  "ics": [
+    "iks"
+  ],
+  "ictus": [
+    "iktus"
+  ],
+  "idaho": [
+    "ajdao"
+  ],
+  "idea": [
+    "idɛa"
+  ],
+  "ideale": [
+    "ideale"
+  ],
+  "ideali": [
+    "ideali"
+  ],
+  "idealismi": [
+    "idealizmi"
+  ],
+  "idealismo": [
+    "idealizmo"
+  ],
+  "idealista": [
+    "idealista"
+  ],
+  "idealiste": [
+    "idealiste"
+  ],
+  "idealisti": [
+    "idealisti"
+  ],
+  "idealistico": [
+    "idealistiko"
+  ],
+  "idealizzare": [
+    "idealidːzare"
+  ],
+  "idealmente": [
+    "idealmente"
+  ],
+  "ideando": [
+    "ideando"
+  ],
+  "ideante": [
+    "ideante"
+  ],
+  "ideare": [
+    "ideare"
+  ],
+  "ideaste": [
+    "ideaste"
+  ],
+  "ideativo": [
+    "ideativo"
+  ],
+  "ideato": [
+    "ideato"
+  ],
+  "ideatore": [
+    "ideatore"
+  ],
+  "ideatrice": [
+    "ideatritʃe"
+  ],
+  "ideazione": [
+    "ideatsjone"
+  ],
+  "ideazioni": [
+    "ideatsjoni"
+  ],
+  "idei": [
+    "idɛi"
+  ],
+  "idem": [
+    "idem"
+  ],
+  "identica": [
+    "idɛntika"
+  ],
+  "identicamente": [
+    "idɛntikamente"
+  ],
+  "identiche": [
+    "idɛntike"
+  ],
+  "identici": [
+    "idɛntiʃi"
+  ],
+  "identico": [
+    "idɛntiko"
+  ],
+  "identificabile": [
+    "identifikabile"
+  ],
+  "identificabili": [
+    "identifikabili"
+  ],
+  "identificare": [
+    "identifikare"
+  ],
+  "identificatore": [
+    "identifikatore"
+  ],
+  "identificatori": [
+    "identifikatori"
+  ],
+  "identificazione": [
+    "identifikatːsjone"
+  ],
+  "identificazioni": [
+    "identifikatsjoni"
+  ],
+  "identikit": [
+    "identikit"
+  ],
+  "identità": [
+    "identita"
+  ],
+  "identitari": [
+    "identitari"
+  ],
+  "identitaria": [
+    "identitarja"
+  ],
+  "identitarie": [
+    "identitarje"
+  ],
+  "identitario": [
+    "identitarjo"
+  ],
+  "identite": [
+    "identita"
+  ],
+  "ideogramma": [
+    "ideoɡramːa"
+  ],
+  "ideogrammi": [
+    "ideoɡramːa"
+  ],
+  "ideologa": [
+    "ideɔloɡa"
+  ],
+  "ideologe": [
+    "ideɔloɡe"
+  ],
+  "ideologhi": [
+    "ideɔloɡi"
+  ],
+  "ideologi": [
+    "ideɔloɡi"
+  ],
+  "ideologia": [
+    "ideolodʒia"
+  ],
+  "ideologica": [
+    "ideolɔdʒika"
+  ],
+  "ideologicamente": [
+    "ideolɔdʒikamente"
+  ],
+  "ideologiche": [
+    "ideolɔdʒike"
+  ],
+  "ideologici": [
+    "ideolɔdʒitʃi"
+  ],
+  "ideologico": [
+    "ideolɔdʒiko"
+  ],
+  "ideologie": [
+    "ideolodʒie"
+  ],
+  "ideologismi": [
+    "ideolodʒizmi"
+  ],
+  "ideologismo": [
+    "ideolodʒizmo"
+  ],
+  "ideologo": [
+    "ideɔloɡo"
+  ],
+  "idilli": [
+    "idilːi"
+  ],
+  "idilliaca": [
+    "idilːiaka"
+  ],
+  "idilliache": [
+    "idilːiake"
+  ],
+  "idilliaco": [
+    "idilːiako"
+  ],
+  "idillico": [
+    "idilːiko"
+  ],
+  "idillio": [
+    "idilːjo"
+  ],
+  "idioblasto": [
+    "idjoblasto"
+  ],
+  "idioma": [
+    "idjɔma"
+  ],
+  "idiomatico": [
+    "idjomatiko"
+  ],
+  "idiosincrasia": [
+    "idjosinkrazia",
+    "idjozinkrazia"
+  ],
+  "idiota": [
+    "idjɔta"
+  ],
+  "idiotismi": [
+    "idjotizmi"
+  ],
+  "idiotismo": [
+    "idjotizmo"
+  ],
+  "idiozia": [
+    "idjotːsia"
+  ],
+  "idiozie": [
+    "idjotːsie"
+  ],
+  "ido": [
+    "ido"
+  ],
+  "idolatra": [
+    "idolatra"
+  ],
+  "idolatrato": [
+    "idolatrato"
+  ],
+  "idoletto": [
+    "idoletːo"
+  ],
+  "idolo": [
+    "idolo"
+  ],
+  "idoneamente": [
+    "idoneamente"
+  ],
+  "idoneità": [
+    "idoneita",
+    "idonejta"
+  ],
+  "idoneo": [
+    "idɔnea",
+    "idɔneo",
+    "idɔnɛɔ"
+  ],
+  "idra": [
+    "idra"
+  ],
+  "idracidi": [
+    "idroatʃidi"
+  ],
+  "idracido": [
+    "idroatʃido"
+  ],
+  "idragogo": [
+    "idraɡɔɡo"
+  ],
+  "idrante": [
+    "idrante"
+  ],
+  "idranti": [
+    "idranti"
+  ],
+  "idrargirismo": [
+    "idrardʒirizmo"
+  ],
+  "idrargirolo": [
+    "idrardʒirɔlo"
+  ],
+  "idratabile": [
+    "idratabile"
+  ],
+  "idratabili": [
+    "idratabili"
+  ],
+  "idratante": [
+    "idratante"
+  ],
+  "idratanti": [
+    "idratanti"
+  ],
+  "idratare": [
+    "idratare"
+  ],
+  "idraulica": [
+    "idraulika"
+  ],
+  "idrauliche": [
+    "idraulike"
+  ],
+  "idraulici": [
+    "idraulitʃi"
+  ],
+  "idraulicità": [
+    "idraulitʃita"
+  ],
+  "idraulico": [
+    "idrauliko",
+    "idrawliko"
+  ],
+  "idrica": [
+    "idrika"
+  ],
+  "idriche": [
+    "idrike"
+  ],
+  "idrico": [
+    "idriko"
+  ],
+  "idroalcolico": [
+    "idroalkɔliko"
+  ],
+  "idroaliante": [
+    "idroaljante"
+  ],
+  "idrobatide": [
+    "idrobatide"
+  ],
+  "idrobatidi": [
+    "idrobatidi"
+  ],
+  "idrobiologa": [
+    "idrɔbiɔloɡa"
+  ],
+  "idrobiologhe": [
+    "idrɔbiɔloɡe"
+  ],
+  "idrobiologi": [
+    "idrɔbiɔlodʒi"
+  ],
+  "idrobiologia": [
+    "idrobiolodʒia"
+  ],
+  "idrobiologie": [
+    "idrobiolodʒie"
+  ],
+  "idrobiologo": [
+    "idrɔbiɔloɡo"
+  ],
+  "idrocarburico": [
+    "idrokarburiko"
+  ],
+  "idrocarburo": [
+    "idrokarburo"
+  ],
+  "idrocinetico": [
+    "idrotʃinɛtiko"
+  ],
+  "idrocoro": [
+    "idrokɔro"
+  ],
+  "idrodinamico": [
+    "idrodinamiko"
+  ],
+  "idroelettrica": [
+    "idroelɛtːrika"
+  ],
+  "idroelettriche": [
+    "idroelɛtːrike"
+  ],
+  "idroelettrici": [
+    "idroelɛtːritʃi"
+  ],
+  "idroelettricità": [
+    "idroeletːritʃita"
+  ],
+  "idroelettrico": [
+    "idroelɛtːriko"
+  ],
+  "idrofilo": [
+    "idrɔfilo"
+  ],
+  "idrofobia": [
+    "idrofobia"
+  ],
+  "idroformatura": [
+    "idroformatura"
+  ],
+  "idrofuga": [
+    "idrofuɡa"
+  ],
+  "idrofughe": [
+    "idrofuɡe"
+  ],
+  "idrofughi": [
+    "idrofuɡi"
+  ],
+  "idrofugo": [
+    "idrofuɡo"
+  ],
+  "idrogenare": [
+    "idrodʒenare"
+  ],
+  "idrogenazione": [
+    "idrodʒenatsjone"
+  ],
+  "idrogeni": [
+    "idrɔdʒeni"
+  ],
+  "idrogenica": [
+    "idrodʒɛnika"
+  ],
+  "idrogeniche": [
+    "idrodʒɛnike"
+  ],
+  "idrogenico": [
+    "idrodʒɛniko"
+  ],
+  "idrogeno": [
+    "idrɔdʒeno"
+  ],
+  "idrogenocarbonile": [
+    "idrɔdʒenokarbonile"
+  ],
+  "idrogenosolfati": [
+    "idrodʒenosolfati"
+  ],
+  "idrogenosolfato": [
+    "idrodʒenosolfato"
+  ],
+  "idrogeochimica": [
+    "idrodʒɛokimika"
+  ],
+  "idrogeologia": [
+    "idrodʒeolodʒia"
+  ],
+  "idrogeologico": [
+    "idrodʒeolɔdʒiko"
+  ],
+  "idrografia": [
+    "idroɡrafia"
+  ],
+  "idrografico": [
+    "idroɡrafiko"
+  ],
+  "idrolipidica": [
+    "idrolipidika"
+  ],
+  "idrolipidiche": [
+    "idrolipidike"
+  ],
+  "idrolipidici": [
+    "idrolipiditʃi"
+  ],
+  "idrolipidico": [
+    "idrolipidiko"
+  ],
+  "idrolisi": [
+    "idrolizi",
+    "idrɔlizi"
+  ],
+  "idrolitico": [
+    "idrolitiko"
+  ],
+  "idrolizzabile": [
+    "idrolidːzabile"
+  ],
+  "idrolizzabili": [
+    "idrolidːzabili"
+  ],
+  "idrolizzante": [
+    "idralidːzante"
+  ],
+  "idrolizzanti": [
+    "idralidːzanti"
+  ],
+  "idrolizzare": [
+    "idrolidːzare"
+  ],
+  "idrologa": [
+    "idroloɡa"
+  ],
+  "idrologhe": [
+    "idroloɡe"
+  ],
+  "idrologi": [
+    "idrolodʒi"
+  ],
+  "idrologia": [
+    "idrolodʒia"
+  ],
+  "idrologica": [
+    "idrolɔdʒika"
+  ],
+  "idrologiche": [
+    "idrolɔdʒike"
+  ],
+  "idrologici": [
+    "idrolɔdʒitʃi"
+  ],
+  "idrologico": [
+    "idrolɔdʒiko"
+  ],
+  "idrologo": [
+    "idroloɡo"
+  ],
+  "idromante": [
+    "idromante"
+  ],
+  "idromanzia": [
+    "idromantsia"
+  ],
+  "idromassaggi": [
+    "idromasːadːʒi"
+  ],
+  "idromassaggio": [
+    "idromasːadːʒo"
+  ],
+  "idromeccanica": [
+    "idromekːanika"
+  ],
+  "idromele": [
+    "idromɛle"
+  ],
+  "idromeli": [
+    "idromɛli"
+  ],
+  "idrometra": [
+    "idrɔmetra"
+  ],
+  "idrometri": [
+    "idrɔmetri"
+  ],
+  "idrometria": [
+    "idrometria"
+  ],
+  "idrometride": [
+    "idromɛtride"
+  ],
+  "idrometridi": [
+    "idromɛtridi"
+  ],
+  "idrometro": [
+    "idrɔmetro"
+  ],
+  "idronimo": [
+    "idrɔnimo"
+  ],
+  "idronio": [
+    "idrɔnjo"
+  ],
+  "idroplano": [
+    "idroplano"
+  ],
+  "idroponico": [
+    "idropɔniko"
+  ],
+  "idrorepellente": [
+    "idrorepelːɛnte"
+  ],
+  "idrorepellenti": [
+    "idrorepelːɛnti"
+  ],
+  "idrorepellenza": [
+    "idrorepelːɛntsa"
+  ],
+  "idroscalo": [
+    "idroskalo"
+  ],
+  "idroscheletri": [
+    "idroskɛletro"
+  ],
+  "idroscheletro": [
+    "idroskɛletro"
+  ],
+  "idrosciatore": [
+    "idroʃʃatore"
+  ],
+  "idrosciatori": [
+    "idroʃʃatori"
+  ],
+  "idrosciatrice": [
+    "idroʃʃatritʃe"
+  ],
+  "idrosciatrici": [
+    "idroʃʃatritʃi"
+  ],
+  "idroscivolante": [
+    "idroʃʃivolante"
+  ],
+  "idroscivolanti": [
+    "idroʃʃivolanti"
+  ],
+  "idroscopi": [
+    "idroskɔpi"
+  ],
+  "idroscopio": [
+    "idroskɔpjo"
+  ],
+  "idrosfera": [
+    "idrosfera",
+    "idrosfɛra"
+  ],
+  "idrosfere": [
+    "idrosfɛre"
+  ],
+  "idrosolubile": [
+    "idrosolubile"
+  ],
+  "idrosolubili": [
+    "idrosolubili"
+  ],
+  "idrosolubilità": [
+    "idrosolubilita"
+  ],
+  "idrossiapatite": [
+    "idrɔsːiapatite"
+  ],
+  "idrossido": [
+    "idrɔsːido"
+  ],
+  "idrossilammina": [
+    "idrosːileamːina"
+  ],
+  "idrossile": [
+    "idrosːile"
+  ],
+  "idrossili": [
+    "idrosːili"
+  ],
+  "idroterapia": [
+    "idroterapia"
+  ],
+  "idrovolante": [
+    "idrovolante"
+  ],
+  "idrovolanti": [
+    "idrovolanti"
+  ],
+  "idrovora": [
+    "idrɔvora"
+  ],
+  "idruro": [
+    "idruro"
+  ],
+  "iella": [
+    "jɛlːa"
+  ],
+  "iemen": [
+    "jɛmen"
+  ],
+  "iemenita": [
+    "jemenita"
+  ],
+  "iemenite": [
+    "jemenite"
+  ],
+  "iemeniti": [
+    "jemeniti"
+  ],
+  "iena": [
+    "jɛna"
+  ],
+  "iene": [
+    "jɛne"
+  ],
+  "ienide": [
+    "jɛnide"
+  ],
+  "ienidi": [
+    "jɛnidi"
+  ],
+  "ieraticamente": [
+    "jeratikamente"
+  ],
+  "ieratico": [
+    "jeratiko"
+  ],
+  "ieri": [
+    "jɛri"
+  ],
+  "iernotte": [
+    "jernɔtːe"
+  ],
+  "ierocrazia": [
+    "jerokratːsia"
+  ],
+  "iettare": [
+    "jetːare"
+  ],
+  "iettatore": [
+    "jetːatore"
+  ],
+  "iettatura": [
+    "jetːatura"
+  ],
+  "ifa": [
+    "ifa"
+  ],
+  "igiene": [
+    "idʒɛne"
+  ],
+  "igieni": [
+    "idʒɛne"
+  ],
+  "igienica": [
+    "idʒɛnika"
+  ],
+  "igienicamente": [
+    "idʒenikamente"
+  ],
+  "igieniche": [
+    "idʒɛnike"
+  ],
+  "igienici": [
+    "idʒɛnitʃi"
+  ],
+  "igienico": [
+    "idʒɛniko"
+  ],
+  "igienista": [
+    "idʒenista"
+  ],
+  "igieniste": [
+    "idʒeniste"
+  ],
+  "igienisti": [
+    "idʒenisti"
+  ],
+  "iglò": [
+    "iɡlo"
+  ],
+  "iglù": [
+    "iɡlu"
+  ],
+  "igname": [
+    "iɲɲame"
+  ],
+  "ignami": [
+    "iɲɲami"
+  ],
+  "ignaro": [
+    "iɲɲaro"
+  ],
+  "ignava": [
+    "iɲava"
+  ],
+  "ignave": [
+    "iɲave"
+  ],
+  "ignavi": [
+    "iɲavi"
+  ],
+  "ignavia": [
+    "iɲɲavja"
+  ],
+  "ignavo": [
+    "iɲavo",
+    "iɲɲavo"
+  ],
+  "ignazio": [
+    "iɲɲatːsjo"
+  ],
+  "igne": [
+    "iɲɲe"
+  ],
+  "igneo": [
+    "iɲɲeo"
+  ],
+  "ignicolo": [
+    "iɲɲikolo"
+  ],
+  "ignifuga": [
+    "iɲɲifuɡa"
+  ],
+  "ignifughe": [
+    "iɲɲifuɡe"
+  ],
+  "ignifughi": [
+    "iɲɲifuɡi"
+  ],
+  "ignifugo": [
+    "iɲɲifuɡo"
+  ],
+  "ignimbrite": [
+    "iɡnimbrite"
+  ],
+  "ignizione": [
+    "iɲɲitːsjone"
+  ],
+  "ignobile": [
+    "iɲɲɔbile"
+  ],
+  "ignobili": [
+    "iɲɲɔbili"
+  ],
+  "ignobilità": [
+    "iɲɲɔbilita"
+  ],
+  "ignobiltà": [
+    "iɲɲɔbilta"
+  ],
+  "ignominia": [
+    "iɲɲominja"
+  ],
+  "ignominie": [
+    "iɲɲominje"
+  ],
+  "ignominiosa": [
+    "iɲɲominjosa"
+  ],
+  "ignominiosamente": [
+    "iɲɲominjosamente"
+  ],
+  "ignominiose": [
+    "iɲɲominjose"
+  ],
+  "ignominiosi": [
+    "iɲɲominjosi"
+  ],
+  "ignominioso": [
+    "iɲɲominjoso"
+  ],
+  "ignorabile": [
+    "iɲɲorabile"
+  ],
+  "ignorabili": [
+    "iɲɲorabili"
+  ],
+  "ignorando": [
+    "iɲɲorando"
+  ],
+  "ignorante": [
+    "iɲɲorante"
+  ],
+  "ignorantemente": [
+    "iɲɲorantemente"
+  ],
+  "ignoranti": [
+    "iɲɲoranti"
+  ],
+  "ignorantissima": [
+    "iɲɲorantisːima"
+  ],
+  "ignorantissime": [
+    "iɲɲorantisːime"
+  ],
+  "ignorantissimi": [
+    "iɲɲorantisːimi"
+  ],
+  "ignorantissimo": [
+    "iɲɲorantisːimo"
+  ],
+  "ignoranza": [
+    "iɲɲorantsa"
+  ],
+  "ignoranze": [
+    "iɲɲorantse"
+  ],
+  "ignorare": [
+    "iɲɲorare"
+  ],
+  "ignorarsi": [
+    "iɲɲorarsi"
+  ],
+  "ignorata": [
+    "iɲɲorata"
+  ],
+  "ignorate": [
+    "iɲɲorate"
+  ],
+  "ignorati": [
+    "iɲɲorati"
+  ],
+  "ignorato": [
+    "iɲɲorato"
+  ],
+  "ignoro": [
+    "iɲɲoro"
+  ],
+  "ignota": [
+    "iɲɔta"
+  ],
+  "ignote": [
+    "iɲɔte"
+  ],
+  "ignoti": [
+    "iɲɔti"
+  ],
+  "ignoto": [
+    "iɲɲɔto",
+    "iɲɔto"
+  ],
+  "ignudare": [
+    "iɲɲudare"
+  ],
+  "ignudo": [
+    "iɲɲudo"
+  ],
+  "igrocasia": [
+    "iɡrokazia"
+  ],
+  "igrocastico": [
+    "iɡrokastiko"
+  ],
+  "igrografo": [
+    "iɡrɔɡrafo"
+  ],
+  "igrometri": [
+    "iɡrɔmetri"
+  ],
+  "igrometria": [
+    "iɡrometria"
+  ],
+  "igrometrico": [
+    "iɡromɛtriko"
+  ],
+  "igrometro": [
+    "iɡrɔmetro"
+  ],
+  "igroregolabile": [
+    "iɡroreɡolabile"
+  ],
+  "igroregolabili": [
+    "iɡroreɡolabili"
+  ],
+  "igroscopia": [
+    "iɡroskopia"
+  ],
+  "igroscopica": [
+    "iɡroskɔpika"
+  ],
+  "igroscopiche": [
+    "iɡroskɔpike"
+  ],
+  "igroscopici": [
+    "iɡroskɔpitʃi"
+  ],
+  "igroscopico": [
+    "iɡroskɔpiko"
+  ],
+  "iguana": [
+    "iɡwana"
+  ],
+  "iguane": [
+    "iɡwane"
+  ],
+  "ikebana": [
+    "ikebana"
+  ],
+  "il": [
+    "il"
+  ],
+  "ilare": [
+    "ilare"
+  ],
+  "ilarità": [
+    "ilarita"
+  ],
+  "ilarotragedia": [
+    "ilarotradʒɛdja"
+  ],
+  "ilarotragedie": [
+    "ilarotradʒɛdje"
+  ],
+  "ilda": [
+    "ilda"
+  ],
+  "ileo": [
+    "ileo"
+  ],
+  "ili": [
+    "ili"
+  ],
+  "iliaco": [
+    "iliako"
+  ],
+  "ilio": [
+    "iljo"
+  ],
+  "illanguidire": [
+    "ilːanɡwidire"
+  ],
+  "illanguidito": [
+    "ilːanɡwidito"
+  ],
+  "illazione": [
+    "ilːatːsjone"
+  ],
+  "illecitamente": [
+    "ilːetʃitamente"
+  ],
+  "illecito": [
+    "ilːetʃito"
+  ],
+  "illegale": [
+    "ilːeɡale"
+  ],
+  "illegali": [
+    "ilːeɡali"
+  ],
+  "illegalità": [
+    "ilːeɡalita"
+  ],
+  "illegalmente": [
+    "ilːeɡalmente"
+  ],
+  "illeggibile": [
+    "ilːedːʒibile"
+  ],
+  "illeggibili": [
+    "ilːedːʒibili"
+  ],
+  "illeggibilità": [
+    "ilːedːʒibilita"
+  ],
+  "illeggibilmente": [
+    "ilːedːʒibilmente"
+  ],
+  "illegittima": [
+    "ilːedʒitːima"
+  ],
+  "illegittimamente": [
+    "ilːedʒitːimamente"
+  ],
+  "illegittime": [
+    "ilːedʒitːime"
+  ],
+  "illegittimi": [
+    "ilːedʒitːimi"
+  ],
+  "illegittimità": [
+    "ilːedʒitːimita"
+  ],
+  "illegittimo": [
+    "ilːedʒitːimo"
+  ],
+  "illeopardito": [
+    "ilːeopardito"
+  ],
+  "illeso": [
+    "ilːezo"
+  ],
+  "illetterata": [
+    "ilːetːerata"
+  ],
+  "illetteratamente": [
+    "ilːetːeratamente"
+  ],
+  "illetterate": [
+    "ilːetːerate"
+  ],
+  "illetterati": [
+    "ilːetːerati"
+  ],
+  "illetterato": [
+    "ilːetːerato"
+  ],
+  "illibatezza": [
+    "ilːibatetːsa"
+  ],
+  "illibatezze": [
+    "ilːibatetːse"
+  ],
+  "illibato": [
+    "ilːibato"
+  ],
+  "illiberale": [
+    "ilːiberale"
+  ],
+  "illiberali": [
+    "ilːiberali"
+  ],
+  "illiberalismi": [
+    "ilːiberalizmi"
+  ],
+  "illiberalismo": [
+    "ilːiberalizmo"
+  ],
+  "illiberalmente": [
+    "ilːiberalmente"
+  ],
+  "illimitabile": [
+    "ilːimitabile"
+  ],
+  "illimitabili": [
+    "ilːimitabili"
+  ],
+  "illimitata": [
+    "ilːimitata"
+  ],
+  "illimitatamente": [
+    "ilːimitatamente"
+  ],
+  "illimitate": [
+    "ilːimitate"
+  ],
+  "illimitati": [
+    "ilːimitati"
+  ],
+  "illimitato": [
+    "ilːimitato"
+  ],
+  "illimitazione": [
+    "ilːimitatːsjone"
+  ],
+  "illimitazioni": [
+    "ilːimitatːsjoni"
+  ],
+  "illimpidire": [
+    "ilːimpidire"
+  ],
+  "illinois": [
+    "ilːinɔjs"
+  ],
+  "illirico": [
+    "ilːiriko"
+  ],
+  "illogica": [
+    "ilːɔdʒika"
+  ],
+  "illogiche": [
+    "ilːɔdʒike"
+  ],
+  "illogici": [
+    "ilːɔdʒitʃi"
+  ],
+  "illogico": [
+    "asːurdo",
+    "ilːɔdʒiko"
+  ],
+  "illudere": [
+    "ilːudere"
+  ],
+  "illudersi": [
+    "ilːudersi"
+  ],
+  "illuminamenti": [
+    "ilːuminamenti"
+  ],
+  "illuminamento": [
+    "ilːuminamento"
+  ],
+  "illuminante": [
+    "ilːuminante"
+  ],
+  "illuminanti": [
+    "ilːuminanti"
+  ],
+  "illuminare": [
+    "ilːuminare"
+  ],
+  "illuminata": [
+    "ilːuminata"
+  ],
+  "illuminate": [
+    "ilːuminate"
+  ],
+  "illuminati": [
+    "ilːuminati"
+  ],
+  "illuminato": [
+    "ilːuminato"
+  ],
+  "illuminazione": [
+    "ilːuminatːsjone"
+  ],
+  "illuminazioni": [
+    "ilːuminatːsjoni"
+  ],
+  "illuminismo": [
+    "ilːuminizmo"
+  ],
+  "illuminista": [
+    "ilːuminista"
+  ],
+  "illuministe": [
+    "ilːuministe"
+  ],
+  "illuministi": [
+    "ilːuministi"
+  ],
+  "illuministica": [
+    "ilːuministika"
+  ],
+  "illuministicamente": [
+    "ilːuministikamente"
+  ],
+  "illuministiche": [
+    "ilːuministike"
+  ],
+  "illuministici": [
+    "ilːuministitʃi"
+  ],
+  "illuministico": [
+    "ilːuministiko"
+  ],
+  "illumino": [
+    "ilːumino"
+  ],
+  "illune": [
+    "ilːune"
+  ],
+  "illusa": [
+    "ilːuza"
+  ],
+  "illusione": [
+    "ilːuzjone"
+  ],
+  "illusioni": [
+    "ilːuzjoni"
+  ],
+  "illusionismi": [
+    "ilːuzjonizmi"
+  ],
+  "illusionismo": [
+    "ilːuzjonizmo"
+  ],
+  "illusionista": [
+    "ilːuzjonista"
+  ],
+  "illusioniste": [
+    "ilːuzjoniste"
+  ],
+  "illusionisti": [
+    "ilːuzjonisti"
+  ],
+  "illusionistica": [
+    "ilːuzjonistika"
+  ],
+  "illusionistiche": [
+    "ilːuzjonistike"
+  ],
+  "illusionistici": [
+    "ilːuzjonistitʃi"
+  ],
+  "illusionistico": [
+    "ilːuzjonistiko"
+  ],
+  "illuso": [
+    "ilːuzo"
+  ],
+  "illusori": [
+    "ilːuzɔri"
+  ],
+  "illusoria": [
+    "ilːuzɔrja"
+  ],
+  "illusorie": [
+    "ilːuzɔrje"
+  ],
+  "illusorio": [
+    "ilːuzɔrjo"
+  ],
+  "illustrante": [
+    "ilːustrante"
+  ],
+  "illustrare": [
+    "ilːustrare"
+  ],
+  "illustrarsi": [
+    "ilːustrarsi"
+  ],
+  "illustrative": [
+    "ilːustrative"
+  ],
+  "illustrativo": [
+    "ilːustrativo"
+  ],
+  "illustrato": [
+    "ilːustrato"
+  ],
+  "illustratore": [
+    "ilːustratore"
+  ],
+  "illustratori": [
+    "ilːustratori"
+  ],
+  "illustratrice": [
+    "ilːustratritʃe"
+  ],
+  "illustratrici": [
+    "ilːustratritʃi"
+  ],
+  "illustrazione": [
+    "ilːustratsjone",
+    "ilːustratsjɔne",
+    "ilːustratːsjone"
+  ],
+  "illustrazioni": [
+    "ilːustratsjɔni"
+  ],
+  "illustre": [
+    "ilːustre"
+  ],
+  "illustro": [
+    "ilːustro"
+  ],
+  "ilo": [
+    "ilo"
+  ],
+  "ilobate": [
+    "ilɔbate"
+  ],
+  "ilobatide": [
+    "ilobatide"
+  ],
+  "ilobatidi": [
+    "ilobatidi"
+  ],
+  "ilota": [
+    "ilɔta"
+  ],
+  "iloti": [
+    "ilɔti"
+  ],
+  "ilozoismi": [
+    "ilodːzoizmi"
+  ],
+  "ilozoismo": [
+    "ilodːzoizmo"
+  ],
+  "ilozoista": [
+    "ilodːzoista"
+  ],
+  "ilozoiste": [
+    "ilodːzoiste"
+  ],
+  "ilozoisti": [
+    "ilodːzoisti"
+  ],
+  "ilvaite": [
+    "ilvaite"
+  ],
+  "imago": [
+    "imaɡo"
+  ],
+  "imam": [
+    "imam"
+  ],
+  "iman": [
+    "iman"
+  ],
+  "imbacare": [
+    "imbakare"
+  ],
+  "imbacuccare": [
+    "imbakukːare"
+  ],
+  "imballaggi": [
+    "imbalːadːʒi"
+  ],
+  "imballaggio": [
+    "imbalːadːʒo"
+  ],
+  "imballare": [
+    "imbalːare"
+  ],
+  "imballato": [
+    "imbalːato"
+  ],
+  "imballatore": [
+    "imbalːatore"
+  ],
+  "imballatori": [
+    "imbalːatori"
+  ],
+  "imballatrice": [
+    "imbalːatritʃe"
+  ],
+  "imballatrici": [
+    "imbalːatritʃi"
+  ],
+  "imballatura": [
+    "imbalːatura"
+  ],
+  "imballature": [
+    "imbalːature"
+  ],
+  "imballo": [
+    "imbalːo"
+  ],
+  "imbalsamare": [
+    "imbalsamare"
+  ]
 }

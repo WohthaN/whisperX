@@ -1,502 +1,1544 @@
 {
-  "innanzitutto": ["i nː a n t s i t u t o", "i nː a n t s i t u tː o"],
-  "innarrabile": ["i nː a rː a b i l e"],
-  "innarrabili": ["i nː a rː a b i l i"],
-  "innaspare": ["i nː a s p a r e"],
-  "innata": ["i nː a t a"],
-  "innate": ["i nː a t e"],
-  "innati": ["i nː a t i"],
-  "innato": ["i nː a t o"],
-  "innaturale": ["i nː a t u r a l e"],
-  "innaturalmente": ["i nː a t u r a l m e n t e"],
-  "innavigabile": ["i nː a v i ɡ a b i l e"],
-  "innavigabili": ["i nː a v i ɡ a b i l i"],
-  "innavigabilità": ["i nː a v i ɡ a b i l i t a"],
-  "innecessari": ["i nː e t ʃ e sː a r i"],
-  "innecessaria": ["i nː e t ʃ e sː a r j a"],
-  "innecessarie": ["i nː e t ʃ e sː a r j e"],
-  "innecessario": ["i nː e t ʃ e sː a r j o"],
-  "innegabile": ["i nː e ɡ a b i l e"],
-  "innegabili": ["i nː e ɡ a b i l i"],
-  "innegabilmente": ["i nː e ɡ a b i l m e n t e"],
-  "inneggiare": ["i nː e dː ʒ a r e"],
-  "inneggiato": ["i nː e dː ʒ a t o"],
-  "innegoziabile": ["i nː e ɡ o tː s j a b i l e"],
-  "innegoziabili": ["i nː e ɡ o tː s j a b i l i"],
-  "innervare": ["i nː e r v a r e"],
-  "innervosire": ["i nː e r v o z i r e"],
-  "innervosirsi": ["i nː e r v o s i r s i"],
-  "innervosito": ["i nː e r v o s i t o"],
-  "innescare": ["i nː e s k a r e"],
-  "innesco": ["i nː e s k o", "i nː ɛ s k o"],
-  "innestare": ["i nː e s t a r e"],
-  "innesto": ["i nː ɛ s t o"],
-  "innevare": ["i nː e v a r e"],
-  "innevarsi": ["i nː e v a r s i"],
-  "innevato": ["i nː e v a t o"],
-  "inni": ["i nː o"],
-  "inno": ["i nː o"],
-  "innocentare": ["i nː o t ʃ e n t a r e"],
-  "innocente": ["i nː o t ʃ ɛ n t e"],
-  "innocentemente": ["i nː o t ʃ e n t e m e n t e"],
-  "innocentismo": ["i nː o t ʃ e n t i z m o"],
-  "innocentista": ["i nː o t ʃ e n t i s t a"],
-  "innocentizzazione": ["i nː o t ʃ e n t i dː z a tː s j o n e"],
-  "innocenza": ["i nː o t ʃ ɛ n t s a"],
-  "innocuamente": ["i nː o k w a m e n t e"],
-  "innocuità": ["i nː o k u j t a", "i nː o k w i t a"],
-  "innocuizzare": ["i nː o k u j dː z a r e"],
-  "innocuo": ["i nː ɔ k w o"],
-  "innodico": ["i nː ɔ d i k o"],
-  "innominato": ["i nː o m i n a t o"],
-  "innovante": ["i nː o v a n t e"],
-  "innovanti": ["i nː o v a n t i"],
-  "innovare": ["i nː o v a r e"],
-  "innovativo": ["i nː o v a t i v o"],
-  "innovato": ["i nː o v a t o"],
-  "innovatore": ["i nː o v a t o r e"],
-  "innovatori": ["i nː o v a t o r i"],
-  "innovatrice": ["i nː o v a t r i t ʃ e"],
-  "innovatrici": ["i nː o v a t r i t ʃ i"],
-  "innovazione": ["i nː o v a tː s j o n e"],
-  "innovazioni": ["i nː o v a tː s j o n i"],
-  "innuba": ["i nː u b a"],
-  "innumere": ["i nː u m e r e"],
-  "innumerevole": ["i nː u m e r e v o l e"],
-  "ino": ["i n o"],
-  "inobliabile": ["o b l i a b i l e", "o b l j a b i l e"],
-  "inoccultabile": ["i n o kː u l t a b i l e"],
-  "inoccultabili": ["i n o kː u l t a b i l i"],
-  "inoccupato": ["i n o kː u p a t o"],
-  "inoculabile": ["i n o k u l a b i l e"],
-  "inoculabili": ["i n o k u l a b i l i"],
-  "inoculare": ["i n o k u l a r e"],
-  "inodiare": ["i n o d j a r e"],
-  "inodore": ["i n o d o r e"],
-  "inodori": ["i n o d o r i"],
-  "inodoro": ["i n o d o r o"],
-  "inoffensivamente": ["i n o fː e n s i v a m e n t e"],
-  "inoffensivo": ["i n o fː e n s i v o"],
-  "inoltrante": ["i n o l t r a n t e"],
-  "inoltrare": ["i n o l t r a r e"],
-  "inoltrarsi": ["i n o l t r a r s i"],
-  "inoltrato": ["i n o l t r a t o"],
-  "inoltre": ["i n o l t r e", "i n ɔ l t r e", "n o l t r e"],
-  "inoltro": ["i n o l t r o"],
-  "inondare": ["i n o n d a r e"],
-  "inope": ["i n o p e", "i n ɔ p e"],
-  "inoperabile": ["i n o p e r a b i l e"],
-  "inoperabili": ["i n o p e r a b i l i"],
-  "inoperante": ["i n o p e r a n t e"],
-  "inoperanti": ["i n o p e r a n t i"],
-  "inoperosa": ["i n o p e r o s a", "i n o p e r o z a"],
-  "inoperose": ["i n o p e r o s e", "i n o p e r o z e"],
-  "inoperosi": ["i n o p e r o s i", "i n o p e r o z i"],
-  "inoperosità": ["i n o p e r o s i t a"],
-  "inoperoso": ["i n o p e r o s o", "i n o p e r o z o"],
-  "inopi": ["i n o p i", "i n ɔ p i"],
-  "inopia": ["i n ɔ p j a"],
-  "inopie": ["i n ɔ p j e"],
-  "inopinabile": ["i n o p i n a b i l e"],
-  "inopinatamente": ["i n o p i n a t a m e n t e"],
-  "inopinato": ["i n o p i n a t o"],
-  "inopportunamente": ["i n o pː o r t u n a m e n t e"],
-  "inopportunità": ["i n o pː o r t u n i t a"],
-  "inopportuno": ["i n o pː o r t u n o"],
-  "inoppugnabile": ["i n o pː u ɲ ɲ a b i l e"],
-  "inoppugnabilmente": ["i n o pː u ɲ ɲ a b i l m e n t e"],
-  "inorganico": ["i n o r ɡ a n i k o"],
-  "inorgoglire": ["i n o r ɡ o ɡ l i r e", "i n o r ɡ o ʎ i r e"],
-  "inorgoglirsi": ["i n o r ɡ o ʎ i r s i"],
-  "inorpellare": ["i n o r p e lː a r e"],
-  "inorridire": ["i n o rː i d i r e"],
-  "inorridito": ["i n o rː i d i t o"],
-  "inosabile": ["i n o z a b i l e"],
-  "inosabili": ["i n o z a b i l i"],
-  "inospitale": ["i n o s p i t a l e"],
-  "inospitalità": ["o s p i t a l i t a"],
-  "inosservabile": ["i n o sː e r v a b i l e"],
-  "inosservabili": ["i n o sː e r v a b i l i"],
-  "inosservanza": ["i n o sː e r v a n t s a"],
-  "inosservata": ["i n o sː e r v a t a"],
-  "inosservate": ["i n o sː e r v a t e"],
-  "inosservati": ["i n o sː e r v a t i"],
-  "inosservato": ["i n o sː e r v a t o"],
-  "inossidabile": ["i n o sː i d a b i l e"],
-  "inossidabili": ["i n o sː i d a b i l i"],
-  "inotropo": ["i n ɔ t r o p o"],
-  "inquadramento": ["i n k w a d r a m e n t o"],
-  "inquadrare": ["i n k w a d r a r e"],
-  "inquadrato": ["i n k w a d r a t o"],
-  "inquadratura": ["i n k w a d r a t u r a", "i ɲ k w a d r a t u r a"],
-  "inquadrature": ["i n k w a d r a t u r e"],
-  "inqualificabile": ["i n k w a l i f i k a b i l e"],
-  "inqualificabili": ["i n k w a l i f i k a b i l i"],
-  "inquantificabile": ["i n k w a n t i f i k a b i l e"],
-  "inquantificabili": ["i n k w a n t i f i k a b i l i"],
-  "inqueto": ["i n k w ɛ t o"],
-  "inquietamente": ["i n k w j e t a m e n t e"],
-  "inquietando": ["i ɲ k w j e t a n d o"],
-  "inquietante": ["i n k w j e t a n t e", "i ɲ k w j e t a n t e"],
-  "inquietanti": ["i ɲ k w j e t a n t i"],
-  "inquietare": ["i n k w j e t a r e", "i ɲ k w j e t a r e"],
-  "inquietarsi": ["i n k w j e t a r s i", "i ɲ k w j e t a r s i"],
-  "inquietezza": ["i n k w j e t e tː s a"],
-  "inquieto": ["i n k w j ɛ t o", "i ɲ k w j ɛ t o"],
-  "inquietudine": ["i n k w j e t u d i n e"],
-  "inquietudini": ["i n k w j e t u d i n i"],
-  "inquilina": ["i n k w i l i n a"],
-  "inquilinato": ["i n k w i l i n a t o"],
-  "inquilinismo": ["i n k w i l i n i z m o"],
-  "inquilino": ["i n k w i l i n o", "i ɲ k w i l i n o"],
-  "inquinabile": ["i n k w i n a b i l e"],
-  "inquinabili": ["i n k w i n a b i l i"],
-  "inquinamenti": ["i ɲ k w i n a m e n t i"],
-  "inquinamento": ["i n k w i n a m e n t o", "i ɲ k w i n a m e n t o"],
-  "inquinante": ["i n k w i n a n t e", "i ɲ k w i n a n t e"],
-  "inquinanti": ["i ɲ k w i n a n t i"],
-  "inquinare": ["i n k w i n a r e", "i ɲ k w i n a r e"],
-  "inquinate": ["i ɲ k w i n a t e", "i ɲ k w i n a t o"],
-  "inquinato": ["i n k w i n a t o", "i ɲ k w i n a t o"],
-  "inquirente": ["i ɲ k w i r ɛ n t e"],
-  "inquisito": ["i n k w i z i t o"],
-  "inquisitore": ["i n k w i z i t o r e", "i ɲ k w i z i t o r e"],
-  "inquisitorio": ["i n k w i z i t ɔ r j o"],
-  "inquisitrice": ["i n k w i z i t r i t ʃ e"],
-  "inquisitrici": ["i n k w i z i t r i t ʃ i"],
-  "inquisizione": ["i ɲ k w i z i t s j o n e"],
-  "inquisizioni": ["i ɲ k w i z i t s j o n i"],
-  "inraggi": ["i n r a dː ʒ i"],
-  "inraggio": ["i n r a dː ʒ o"],
-  "inriducibile": ["i n r i d u t ʃ i b i l e"],
-  "inriducibili": ["i n r i d u t ʃ i b i l i"],
-  "insabbiamenti": ["i n s a bː j a m e n t i"],
-  "insabbiamento": ["i n s a bː j a m e n t o"],
-  "insabbiato": ["i n s a bː j a t o"],
-  "insaccare": ["i n s a kː a r e"],
-  "insaccato": ["i n s a kː a t o"],
-  "insalare": ["i n s a l a r e"],
-  "insalarsi": ["i n s a l a r s i"],
-  "insalata": ["i n s a l a t a"],
-  "insalate": ["i n s a l a t e"],
-  "insalatona": ["i n s a l a t o n a"],
-  "insalatone": ["i n s a l a t o n e"],
-  "insaldabile": ["i n s a l d a b i l e"],
-  "insaldabili": ["i n s a l d a b i l i"],
-  "insalivare": ["i n s a l i v a r e"],
-  "insalubre": ["i n s a l u b r e"],
-  "insalubremente": ["i n s a l u b r e m e n t e"],
-  "insalubri": ["i n s a l u b r i"],
-  "insanabile": ["i n s a n a b i l e"],
-  "insanabili": ["i n s a n a b i l i"],
-  "insanguinante": ["i n s a ɲ ɡ w i n a n t e"],
-  "insanguinare": ["i n s a n ɡ w i n a r e", "i n s a ɲ ɡ w i n a r e"],
-  "insanguinarsi": ["i n s a ɲ ɡ w i n a r s i"],
-  "insanguinato": ["i n s a n ɡ w i n a t o"],
-  "insania": ["i n s a n j a"],
-  "insanire": ["i n s a n i r e"],
-  "insano": ["i n s a n o"],
-  "insaponamento": ["i n s a p o n a m e n t o"],
-  "insaponante": ["i n s a p o n a n t e"],
-  "insaponare": ["i n s a p o n a r e"],
-  "insaponato": ["i n s a p o n a t o"],
-  "insaponatura": ["i n s a p o n a t u r a"],
-  "insaponificabile": ["i n s a p o n i f i k a b i l e"],
-  "insaponificabili": ["i n s a p o n i f i k a b i l i"],
-  "insapore": ["i n s u l s o"],
-  "insaporito": ["i n s a p o r i t o"],
-  "insaturabile": ["i n s a t u r a b i l e"],
-  "insaturabili": ["i n s a t u r a b i l i"],
-  "insaziabile": ["i n s a t s j a b i l e"],
-  "insaziabili": ["i n s a t s j a b i l i"],
-  "insaziabilmente": ["i n s a tː s j a b i l m e n t e"],
-  "inscambiabile": ["i n s k a m b j a b i l e"],
-  "inscambiabili": ["i n s k a m b j a b i l i"],
-  "inscatolato": ["i n s k a t o l a t o"],
-  "inscindibile": ["i n ʃ i n d i b i l e", "i n ʃ ʃ i n d i b i l e"],
-  "inscindibilità": ["i n ʃ i n d i b i l i t a"],
-  "inscoppiabile": ["i n s k o pː j a b i l e"],
-  "inscoppiabili": ["i n s k o pː j a b i l i"],
-  "inscrivere": ["i n s k r i v e r e"],
-  "inscrutabile": ["i n s k r u t a b i l e"],
-  "inscrutabili": ["i n s k r u t a b i l i"],
-  "inscusabile": ["i n s k u z a b i l e"],
-  "inscusabili": ["i n s k u z a b i l i"],
-  "insecabile": ["i n s e k a b i l e"],
-  "insecabili": ["i n s e k a b i l i"],
-  "insecchire": ["i n s e kː i r e"],
-  "insediamenti": ["i n s e d j a m e n t i"],
-  "insediamento": ["i n s e d j a m e n t o"],
-  "insediarsi": ["i n s e d j a r s i"],
-  "insegare": ["i n s e ɡ a r e"],
-  "insegna": ["i n s e ɲ ɲ a"],
-  "insegnabile": ["i n s e ɲ ɲ a b i l e"],
-  "insegnamento": ["i n s e ɲ ɲ a m e n t o"],
-  "insegnante": ["i n s e ɲ ɲ a n t e"],
-  "insegnanti": ["i n s e ɲ ɲ a n t i"],
-  "insegnare": ["i n s e ɲ ɲ a r e", "i n s ɛ ɲ ɲ a r e"],
-  "insegnato": ["i n s e ɲ ɲ a t o", "i n s ɛ ɲ ɲ a t o"],
-  "insegne": ["i n s e ɲ ɲ e"],
-  "inseguimenti": ["i n s e ɡ w i m e n t i"],
-  "inseguimento": ["i n s e ɡ w i m e n t o"],
-  "inseguire": ["i n s e ɡ w i r e"],
-  "inseguito": ["i n s e ɡ w i t o"],
-  "inseguitore": ["i n s e ɡ w i t o r e"],
-  "inseguitori": ["i n s e ɡ w i t o r i"],
-  "inseguitrice": ["i n s e ɡ w i t r i t ʃ e"],
-  "inseguitrici": ["i n s e ɡ w i t r i t ʃ i"],
-  "insembla": ["i n s ɛ m b l a"],
-  "insembra": ["i n s ɛ m b r a"],
-  "insembre": ["i n s ɛ m b r e"],
-  "inseminare": ["i n s e m i n a r e"],
-  "inseminatore": ["i n s e m i n a t o r e"],
-  "inseminatori": ["i n s e m i n a t o r i"],
-  "inseminatrice": ["i n s e m i n a t r i t ʃ e"],
-  "inseminatrici": ["i n s e m i n a t r i t ʃ i"],
-  "insemprarsi": ["i n s e m p r a r s i"],
-  "insenatura": ["i n s e n a t u r a"],
-  "insensata": ["i n s e n s a t a"],
-  "insensatamente": ["i n s e n s a t a m e n t e"],
-  "insensate": ["i n s e n s a t e"],
-  "insensatezza": ["i n s e n s a t e tː s a"],
-  "insensati": ["i n s e n s a t i"],
-  "insensato": ["i n s e n s a t o"],
-  "insensibile": ["i n s e n s i b i l e"],
-  "insensibili": ["i n s e n s i b i l i"],
-  "insensibilissima": ["i n s e n s i b i l i sː i m a"],
-  "insensibilissime": ["i n s e n s i b i l i sː i m e"],
-  "insensibilissimi": ["i n s e n s i b i l i sː i m i"],
-  "insensibilissimo": ["i n s e n s i b i l i sː i m o"],
-  "insensibilità": ["i n s e n s i b i l i t a"],
-  "insensibilmente": ["i n s e n s i b i l m e n t e"],
-  "inseparabile": ["i n s e p a r a b i l", "i n s e p a r a b i l e"],
-  "inseparabili": ["i n s e p a r a b i l i"],
-  "insepolto": ["i n s e p o l t o"],
-  "inserimento": ["i n s e r i m e n t o"],
-  "inserire": ["i n s e r i r e"],
-  "inserirsi": ["i n s e r i r s i"],
-  "inserito": ["i n s e r i t o"],
-  "inserpentire": ["i n s e r p e n t i r e"],
-  "inserpentirsi": ["i n s e r p e n t i r s i"],
-  "inserto": ["i n s ɛ r t o"],
-  "inservibile": ["i n s e r v a b i l e"],
-  "inservibili": ["i n s e r v a b i l i"],
-  "inserviente": ["i n s e r v j ɛ n t e"],
-  "inserzione": ["i n s e r t s j o n e", "i n s ɛ r t s j ɔ n e"],
-  "inserzioni": ["i n s ɛ r t s j ɔ n i"],
-  "insetti": ["i n s ɛ tː i"],
-  "insetticida": ["i n s e tː i t ʃ i d a"],
-  "insetticide": ["i n s e tː i t ʃ i d e"],
-  "insetticidi": ["i n s e tː i t ʃ i d i"],
-  "insettifuga": ["i n s ɛ tː i f u ɡ a"],
-  "insettifughe": ["i n s ɛ tː i f u ɡ e"],
-  "insettifughi": ["i n s ɛ tː i f u ɡ i"],
-  "insettifugo": ["i n s e tː i f u ɡ o", "i n s ɛ tː i f u ɡ o"],
-  "insettivora": ["i n s e tː i v o r a"],
-  "insettivore": ["i n s e tː i v o r e"],
-  "insettivori": ["i n s e tː i v o r i"],
-  "insettivoro": ["i n s e tː i v o r o"],
-  "insetto": ["i n s ɛ tː o"],
-  "insettologica": ["i n s e tː o l ɔ d ʒ i k a"],
-  "insettologiche": ["i n s e tː o l ɔ d ʒ i k e"],
-  "insettologici": ["i n s e tː o l ɔ d ʒ i t ʃ i"],
-  "insettologico": ["i n s e tː o l ɔ d ʒ i"],
-  "insevare": ["i n s e v a r e"],
-  "insicuramente": ["i n s i k u r a m e n t e"],
-  "insicurezza": ["i n s i k u r e tː s a"],
-  "insicurezze": ["i n s i k u r e tː s e"],
-  "insicuro": ["i n s i k u r o"],
-  "insidia": ["i n s i d j a"],
-  "insidiare": ["i n s i d j a r e"],
-  "insidiato": ["i n s i d j a t o"],
-  "insidioso": ["i n s i d i o s o", "i n s i d j o s o", "i n s i d j o z o"],
-  "insieme": ["i n s j ɛ m e"],
-  "insiemi": ["i n s j ɛ m i"],
-  "insiemistica": ["i n s j e m i s t i k a"],
-  "insiemistico": ["i n s j e m i s t i k o"],
-  "insigne": ["i n s i ɲ ɲ e"],
-  "insignente": ["i n s i ɲ ɲ e n t e"],
-  "insigni": ["i n s i ɲ ɲ i"],
-  "insignificante": ["i n s i ɲ ɲ i f i k a n t e"],
-  "insignificanti": ["i n s i ɲ ɲ i f i k a n t i"],
-  "insignificanza": ["i n s i ɲ ɲ i f i k a n t s a"],
-  "insignificanze": ["i n s i ɲ ɲ i f i k a n t s e"],
-  "insignire": ["i n s i ɲ ɲ i r e"],
-  "insignito": ["i n s i ɲ ɲ i t o"],
-  "insilamenti": ["i n s i l a m e n t i"],
-  "insilamento": ["i n s i l a m e n t o"],
-  "insincera": ["i n s i n t ʃ ɛ r a"],
-  "insinceramente": ["i n s i n t ʃ e r a m e n t e"],
-  "insincere": ["i n s i n t ʃ ɛ r e"],
-  "insinceri": ["i n s i n t ʃ ɛ r i"],
-  "insincero": ["i n s i n t ʃ ɛ r o"],
-  "insindacabilmente": ["i n s i n d a k a b i l m e n t e"],
-  "insinuabile": ["i n s i n u a b i l e"],
-  "insinuabili": ["i n s i n u a b i l i"],
-  "insinuare": ["i n s i n w a r e"],
-  "insinuarsi": ["i n s i n w a r s i"],
-  "insinuato": ["i n s i n w a t o"],
-  "insinuazione": ["i n s i n u a t s j o n e", "i n s i n u a tː s j o n e"],
-  "insinuazioni": ["i n s i n u a t s j o n i"],
-  "insipidezza": ["i n s i p i d e tː s a"],
-  "insipidissima": ["i n s i p i d i sː i m a"],
-  "insipidissime": ["i n s i p i d i sː i m e"],
-  "insipidissimi": ["i n s i p i d i sː i m i"],
-  "insipidissimo": ["i n s i p i d i sː i m o"],
-  "insipidità": ["i n s i p i d i t a"],
-  "insipido": ["i n s i p i d o"],
-  "insipiente": ["i n s i p j ɛ n t e"],
-  "insipientemente": ["i n s i p j e n t e m e n t e"],
-  "insipienza": ["i n s i p j ɛ n t s a"],
-  "insistente": ["i n s i s t ɛ n t e"],
-  "insistentemente": ["i n s i s t e n t e m e n t e"],
-  "insistenti": ["i n s i s t ɛ n t i"],
-  "insistenza": ["i n s i s t ɛ n t s a"],
-  "insistere": ["i n s i s t e r e"],
-  "insito": ["i n s i t o"],
-  "insobrio": ["i n s ɔ b r j o"],
-  "insoddisfacente": ["i n s o dː i s f a t ʃ ɛ n t e"],
-  "insoddisfacenti": ["i n s o dː i s f a t ʃ ɛ n t i"],
-  "insoddisfatta": ["i n s o dː i s f a tː a"],
-  "insoddisfatte": ["i n s o dː i s f a tː e"],
-  "insoddisfatti": ["i n s o dː i s f a tː i"],
-  "insoddisfatto": ["i n s o dː i s f a tː o"],
-  "insoddisfazione": ["i n s o dː i s f a tː s j o n e"],
-  "insoddisfazioni": ["i n s o dː i s f a tː s j o n i"],
-  "insofferente": ["i n s o fː e r ɛ n t e"],
-  "insofferenza": ["i n s o fː e r ɛ n t s a"],
-  "insoffribile": ["i n s o fː r a b i l e", "i n s o fː r i b i l e"],
-  "insoffribili": ["i n s o fː r a b i l i"],
-  "insoffribilmente": ["i n s o fː r i b i l m e n t e"],
-  "insolazione": ["i n s o l a tː s j o n e"],
-  "insolente": ["i n s o l ɛ n t e"],
-  "insolenza": ["i n s o l ɛ n t s a"],
-  "insolita": ["i n s o l i t a"],
-  "insolitamente": ["i n s o l i t a m e n t e"],
-  "insolite": ["i n s o l i t e"],
-  "insoliti": ["i n s o l i t i"],
-  "insolito": ["i n s o l i t o", "i n s ɔ l i t o"],
-  "insollevabile": ["i n s o lː e v a b i l e"],
-  "insolubile": ["i n s o l u b i l e"],
-  "insolubili": ["i n s o l u b i l i"],
-  "insoluto": ["i n s o l u t o"],
-  "insolvente": ["i n s o l v ɛ n t e"],
-  "insolvenza": ["i n s o l v ɛ n t s a"],
-  "insolvibile": ["i n s o l v i b i l e"],
-  "insolvibili": ["i n s o l v i b i l i"],
-  "insolvibilità": ["i n s o l v i b i l i t a"],
-  "insomma": ["i n s o mː a"],
-  "insondabile": ["i n s o n d a b i l e"],
-  "insondabili": ["i n s o n d a b i l i"],
-  "insondabilità": ["i n s o n d a b i l i t a"],
-  "insondabilmente": ["i n s o n d a b i l m e n t e"],
-  "insonne": ["i n s ɔ nː e"],
-  "insonnia": ["i n s ɔ nː j a"],
-  "insonnie": ["i n s ɔ nː j e"],
-  "insonnolire": ["i n s o nː o l i r e"],
-  "insonnolito": ["i n s o nː o l i t o"],
-  "insonorizzante": ["i n s o n o r i dː z a n t e"],
-  "insonorizzanti": ["i n s o n o r i dː z a n t i"],
-  "insonorizzare": ["i n s o n o r i dː z a r e"],
-  "insopportabile": ["i n s o pː o r t a b i l e"],
-  "insopportabili": ["i n s o pː o r t a b i l i"],
-  "insopportabilmente": ["i n s o pː o r t a b i l m e n t e"],
-  "insorgenza": ["i n s o r d ʒ ɛ n t s a"],
-  "insorgere": ["i n s o r d ʒ e r e"],
-  "insormontabile": ["i n s o r m o n a b i l e"],
-  "insormontabili": ["i n s o r m o n a b i l i"],
-  "insorta": ["i n s o r t a"],
-  "insorto": ["i n s o r t o"],
-  "insospettabile": ["i n s o s p e tː a b i l e"],
-  "insospettabili": ["i n s o s p e tː a b i l i"],
-  "insospettabilmente": ["i n s o s p e tː a b i l m e n t e"],
-  "insospettire": ["i n s o s p e tː i r e"],
-  "insostenibile": ["i n s o s t e n i b i l", "i n s o s t e n i b i l e"],
-  "insostenibili": ["i n s o s t e n i b i l i"],
-  "insostituibile": ["i n s o s t i t u i b i l e"],
-  "insostituibili": ["i n s o s t i t u i b i l i"],
-  "insozzare": ["i n s o tː s a r e"],
-  "inspalmabile": ["i n s p a l m a b i l e"],
-  "inspalmabili": ["i n s p a l m a b i l i"],
-  "insperabile": ["i n s p e r a b i l e"],
-  "insperabili": ["i n s p e r a b i l i"],
-  "insperabilmente": ["i n s p e r a b i l m e n t e"],
-  "insperatamente": ["i n s p e r a t a m e n t e"],
-  "insperato": ["i n s p e r a t o"],
-  "inspiegabile": ["i n s p i e ɡ a b i l e", "i n s p j e ɡ a b i l e"],
-  "inspiegabili": ["i n s p i e ɡ a b i l i", "i n s p j e ɡ a b i l i"],
-  "inspiegabilmente": ["i n s p i e ɡ a b i l m e n t e"],
-  "inspirare": ["i n s p i r a r e"],
-  "instabile": ["i n s t a b i l e"],
-  "instabili": ["i n s t a b i l i"],
-  "instabilità": ["i n s t a b i l i t a"],
-  "instagrammabile": ["i n s t a ɡ r a mː a b i l e"],
-  "instagrammabili": ["i n s t a ɡ r a mː a b i l i"],
-  "installabile": ["i n s t a lː a b i l e"],
-  "installabili": ["i n s t a lː a b i l i"],
-  "installante": ["i n s t a lː a n t e"],
-  "installare": ["i n s t a lː a r e"],
-  "installarsi": ["i n s t a lː a r s i"],
-  "installata": ["i n s t a lː a t a"],
-  "installate": ["i n s t a lː a t e"],
-  "installati": ["i n s t a lː a t i"],
-  "installato": ["i n s t a lː a t o"],
-  "installatore": ["i n s t a lː a t o r e"],
-  "installatori": ["i n s t a lː a t o r i"],
-  "installatrice": ["i n s t a lː a t r i t ʃ e"],
-  "installatrici": ["i n s t a lː a t r i t ʃ i"],
-  "installazione": ["i n s t a lː a t s j o n e", "i s t a lː a tː s j o n e"],
-  "installazioni": ["i n s t a lː a t s j o n i"],
-  "instancabile": ["i n s t a n k a b i l e"],
-  "instancabili": ["i n s t a n k a b i l i"],
-  "instancabilmente": ["i n s t a n k a b i l m e n t e"],
-  "instante": ["i n s t a n t e"],
-  "instaurare": ["i n s t a w r a r e"],
-  "instaurato": ["i n s t a w r a t o"],
-  "instillante": ["i n s t i lː a n t e"],
-  "instillato": ["i n s t i lː a t o"],
-  "instirabile": ["i n s t i r a b i l e"],
-  "instirabili": ["i n s t i r a b i l i"],
-  "instradamenti": ["i n s t r a d a m e n t i"],
-  "instradamento": ["i n s t r a d a m e n t o"],
-  "instradatore": ["i n s t r a d a t o r e"],
-  "instruire": ["i n s t r w i r e"],
-  "instrumento": ["i n s t r u m e n t o"],
-  "instruttivo": ["i n s t r u t i v o"],
-  "instupidire": ["i n s t u p i d i r e"],
-  "insù": ["i n s u"],
-  "insubbiare": ["i n s u bː j a r e"],
-  "insubordinato": ["i n s u b o r d i n a t o"],
-  "insubre": ["i n s u b r e"],
-  "insubria": ["i n s u b r i a"],
-  "insuccesso": ["i n s u tː ʃ ɛ sː o"],
-  "insudare": ["i n s u d a r e"],
-  "insudiciare": ["i n s u d i t ʃ a r e"],
-  "insufficiente": ["i n s u fː i t ʃ ɛ n t e"],
-  "insufficientemente": ["i n s u fː i t ʃ e n t e m e n t e"],
-  "insufficienza": ["i n s u fː i t ʃ ɛ n t s a"],
-  "insugnare": ["i n s u ɲ ɲ a r e"],
-  "insulare": ["i n s u l a r e"],
-  "insulina": ["i n s u l i n a"],
-  "insuline": ["i n s u l i n e"],
-  "insulinemia": ["i n s u l i n e m i a"],
-  "insulinemie": ["i n s u l i n e m i e"],
-  "insulinica": ["i n s u l i n i k a"],
-  "insuliniche": ["i n s u l i n i k e"],
-  "insulinici": ["i n s u l i n i t ʃ i"],
-  "insulinico": ["i n s u l i n i k o"],
-  "insulinizzare": ["i n s u l i n i dː ʒ a r e"],
-  "insulinodipendente": ["i n s u l i n o d i p e n d ɛ n t e"],
-  "insulinodipendenti": ["i n s u l i n o d i p e n d ɛ n t i"],
-  "insulinoresistente": ["i n s u l i n o r e s i s t ɛ n t e", "i n s u l i n o r e z i s t ɛ n t e"],
-  "insulinoresistenti": ["i n s u l i n o r e z i s t ɛ n t i"],
-  "insulinoresistenza": ["i n s u l i n o r e z i s t ɛ n t s a"],
-  "insulinoresistenze": ["i n s u l i n o r e z i s t ɛ n t s e"],
-  "insulinoterapia": ["i n s u l i n o t e r a p i a"],
-  "insulinoterapie": ["i n s u l i n o t e r a p i e"],
-  "insuloma": ["i n s u l ɔ m a"],
-  "insulsaggine": ["i n s u l s a dː ʒ i n e"],
-  "insulso": ["i n s u l s o"],
-  "insultabile": ["i n s u l t a b i l e"],
-  "insultabili": ["i n s u l t a b i l i"]
+  "innanzitutto": [
+    "inːantsituto",
+    "inːantsitutːo"
+  ],
+  "innarrabile": [
+    "inːarːabile"
+  ],
+  "innarrabili": [
+    "inːarːabili"
+  ],
+  "innaspare": [
+    "inːaspare"
+  ],
+  "innata": [
+    "inːata"
+  ],
+  "innate": [
+    "inːate"
+  ],
+  "innati": [
+    "inːati"
+  ],
+  "innato": [
+    "inːato"
+  ],
+  "innaturale": [
+    "inːaturale"
+  ],
+  "innaturalmente": [
+    "inːaturalmente"
+  ],
+  "innavigabile": [
+    "inːaviɡabile"
+  ],
+  "innavigabili": [
+    "inːaviɡabili"
+  ],
+  "innavigabilità": [
+    "inːaviɡabilita"
+  ],
+  "innecessari": [
+    "inːetʃesːari"
+  ],
+  "innecessaria": [
+    "inːetʃesːarja"
+  ],
+  "innecessarie": [
+    "inːetʃesːarje"
+  ],
+  "innecessario": [
+    "inːetʃesːarjo"
+  ],
+  "innegabile": [
+    "inːeɡabile"
+  ],
+  "innegabili": [
+    "inːeɡabili"
+  ],
+  "innegabilmente": [
+    "inːeɡabilmente"
+  ],
+  "inneggiare": [
+    "inːedːʒare"
+  ],
+  "inneggiato": [
+    "inːedːʒato"
+  ],
+  "innegoziabile": [
+    "inːeɡotːsjabile"
+  ],
+  "innegoziabili": [
+    "inːeɡotːsjabili"
+  ],
+  "innervare": [
+    "inːervare"
+  ],
+  "innervosire": [
+    "inːervozire"
+  ],
+  "innervosirsi": [
+    "inːervosirsi"
+  ],
+  "innervosito": [
+    "inːervosito"
+  ],
+  "innescare": [
+    "inːeskare"
+  ],
+  "innesco": [
+    "inːesko",
+    "inːɛsko"
+  ],
+  "innestare": [
+    "inːestare"
+  ],
+  "innesto": [
+    "inːɛsto"
+  ],
+  "innevare": [
+    "inːevare"
+  ],
+  "innevarsi": [
+    "inːevarsi"
+  ],
+  "innevato": [
+    "inːevato"
+  ],
+  "inni": [
+    "inːo"
+  ],
+  "inno": [
+    "inːo"
+  ],
+  "innocentare": [
+    "inːotʃentare"
+  ],
+  "innocente": [
+    "inːotʃɛnte"
+  ],
+  "innocentemente": [
+    "inːotʃentemente"
+  ],
+  "innocentismo": [
+    "inːotʃentizmo"
+  ],
+  "innocentista": [
+    "inːotʃentista"
+  ],
+  "innocentizzazione": [
+    "inːotʃentidːzatːsjone"
+  ],
+  "innocenza": [
+    "inːotʃɛntsa"
+  ],
+  "innocuamente": [
+    "inːokwamente"
+  ],
+  "innocuità": [
+    "inːokujta",
+    "inːokwita"
+  ],
+  "innocuizzare": [
+    "inːokujdːzare"
+  ],
+  "innocuo": [
+    "inːɔkwo"
+  ],
+  "innodico": [
+    "inːɔdiko"
+  ],
+  "innominato": [
+    "inːominato"
+  ],
+  "innovante": [
+    "inːovante"
+  ],
+  "innovanti": [
+    "inːovanti"
+  ],
+  "innovare": [
+    "inːovare"
+  ],
+  "innovativo": [
+    "inːovativo"
+  ],
+  "innovato": [
+    "inːovato"
+  ],
+  "innovatore": [
+    "inːovatore"
+  ],
+  "innovatori": [
+    "inːovatori"
+  ],
+  "innovatrice": [
+    "inːovatritʃe"
+  ],
+  "innovatrici": [
+    "inːovatritʃi"
+  ],
+  "innovazione": [
+    "inːovatːsjone"
+  ],
+  "innovazioni": [
+    "inːovatːsjoni"
+  ],
+  "innuba": [
+    "inːuba"
+  ],
+  "innumere": [
+    "inːumere"
+  ],
+  "innumerevole": [
+    "inːumerevole"
+  ],
+  "ino": [
+    "ino"
+  ],
+  "inobliabile": [
+    "obliabile",
+    "obljabile"
+  ],
+  "inoccultabile": [
+    "inokːultabile"
+  ],
+  "inoccultabili": [
+    "inokːultabili"
+  ],
+  "inoccupato": [
+    "inokːupato"
+  ],
+  "inoculabile": [
+    "inokulabile"
+  ],
+  "inoculabili": [
+    "inokulabili"
+  ],
+  "inoculare": [
+    "inokulare"
+  ],
+  "inodiare": [
+    "inodjare"
+  ],
+  "inodore": [
+    "inodore"
+  ],
+  "inodori": [
+    "inodori"
+  ],
+  "inodoro": [
+    "inodoro"
+  ],
+  "inoffensivamente": [
+    "inofːensivamente"
+  ],
+  "inoffensivo": [
+    "inofːensivo"
+  ],
+  "inoltrante": [
+    "inoltrante"
+  ],
+  "inoltrare": [
+    "inoltrare"
+  ],
+  "inoltrarsi": [
+    "inoltrarsi"
+  ],
+  "inoltrato": [
+    "inoltrato"
+  ],
+  "inoltre": [
+    "inoltre",
+    "inɔltre",
+    "noltre"
+  ],
+  "inoltro": [
+    "inoltro"
+  ],
+  "inondare": [
+    "inondare"
+  ],
+  "inope": [
+    "inope",
+    "inɔpe"
+  ],
+  "inoperabile": [
+    "inoperabile"
+  ],
+  "inoperabili": [
+    "inoperabili"
+  ],
+  "inoperante": [
+    "inoperante"
+  ],
+  "inoperanti": [
+    "inoperanti"
+  ],
+  "inoperosa": [
+    "inoperosa",
+    "inoperoza"
+  ],
+  "inoperose": [
+    "inoperose",
+    "inoperoze"
+  ],
+  "inoperosi": [
+    "inoperosi",
+    "inoperozi"
+  ],
+  "inoperosità": [
+    "inoperosita"
+  ],
+  "inoperoso": [
+    "inoperoso",
+    "inoperozo"
+  ],
+  "inopi": [
+    "inopi",
+    "inɔpi"
+  ],
+  "inopia": [
+    "inɔpja"
+  ],
+  "inopie": [
+    "inɔpje"
+  ],
+  "inopinabile": [
+    "inopinabile"
+  ],
+  "inopinatamente": [
+    "inopinatamente"
+  ],
+  "inopinato": [
+    "inopinato"
+  ],
+  "inopportunamente": [
+    "inopːortunamente"
+  ],
+  "inopportunità": [
+    "inopːortunita"
+  ],
+  "inopportuno": [
+    "inopːortuno"
+  ],
+  "inoppugnabile": [
+    "inopːuɲɲabile"
+  ],
+  "inoppugnabilmente": [
+    "inopːuɲɲabilmente"
+  ],
+  "inorganico": [
+    "inorɡaniko"
+  ],
+  "inorgoglire": [
+    "inorɡoɡlire",
+    "inorɡoʎire"
+  ],
+  "inorgoglirsi": [
+    "inorɡoʎirsi"
+  ],
+  "inorpellare": [
+    "inorpelːare"
+  ],
+  "inorridire": [
+    "inorːidire"
+  ],
+  "inorridito": [
+    "inorːidito"
+  ],
+  "inosabile": [
+    "inozabile"
+  ],
+  "inosabili": [
+    "inozabili"
+  ],
+  "inospitale": [
+    "inospitale"
+  ],
+  "inospitalità": [
+    "ospitalita"
+  ],
+  "inosservabile": [
+    "inosːervabile"
+  ],
+  "inosservabili": [
+    "inosːervabili"
+  ],
+  "inosservanza": [
+    "inosːervantsa"
+  ],
+  "inosservata": [
+    "inosːervata"
+  ],
+  "inosservate": [
+    "inosːervate"
+  ],
+  "inosservati": [
+    "inosːervati"
+  ],
+  "inosservato": [
+    "inosːervato"
+  ],
+  "inossidabile": [
+    "inosːidabile"
+  ],
+  "inossidabili": [
+    "inosːidabili"
+  ],
+  "inotropo": [
+    "inɔtropo"
+  ],
+  "inquadramento": [
+    "inkwadramento"
+  ],
+  "inquadrare": [
+    "inkwadrare"
+  ],
+  "inquadrato": [
+    "inkwadrato"
+  ],
+  "inquadratura": [
+    "inkwadratura",
+    "iɲkwadratura"
+  ],
+  "inquadrature": [
+    "inkwadrature"
+  ],
+  "inqualificabile": [
+    "inkwalifikabile"
+  ],
+  "inqualificabili": [
+    "inkwalifikabili"
+  ],
+  "inquantificabile": [
+    "inkwantifikabile"
+  ],
+  "inquantificabili": [
+    "inkwantifikabili"
+  ],
+  "inqueto": [
+    "inkwɛto"
+  ],
+  "inquietamente": [
+    "inkwjetamente"
+  ],
+  "inquietando": [
+    "iɲkwjetando"
+  ],
+  "inquietante": [
+    "inkwjetante",
+    "iɲkwjetante"
+  ],
+  "inquietanti": [
+    "iɲkwjetanti"
+  ],
+  "inquietare": [
+    "inkwjetare",
+    "iɲkwjetare"
+  ],
+  "inquietarsi": [
+    "inkwjetarsi",
+    "iɲkwjetarsi"
+  ],
+  "inquietezza": [
+    "inkwjetetːsa"
+  ],
+  "inquieto": [
+    "inkwjɛto",
+    "iɲkwjɛto"
+  ],
+  "inquietudine": [
+    "inkwjetudine"
+  ],
+  "inquietudini": [
+    "inkwjetudini"
+  ],
+  "inquilina": [
+    "inkwilina"
+  ],
+  "inquilinato": [
+    "inkwilinato"
+  ],
+  "inquilinismo": [
+    "inkwilinizmo"
+  ],
+  "inquilino": [
+    "inkwilino",
+    "iɲkwilino"
+  ],
+  "inquinabile": [
+    "inkwinabile"
+  ],
+  "inquinabili": [
+    "inkwinabili"
+  ],
+  "inquinamenti": [
+    "iɲkwinamenti"
+  ],
+  "inquinamento": [
+    "inkwinamento",
+    "iɲkwinamento"
+  ],
+  "inquinante": [
+    "inkwinante",
+    "iɲkwinante"
+  ],
+  "inquinanti": [
+    "iɲkwinanti"
+  ],
+  "inquinare": [
+    "inkwinare",
+    "iɲkwinare"
+  ],
+  "inquinate": [
+    "iɲkwinate",
+    "iɲkwinato"
+  ],
+  "inquinato": [
+    "inkwinato",
+    "iɲkwinato"
+  ],
+  "inquirente": [
+    "iɲkwirɛnte"
+  ],
+  "inquisito": [
+    "inkwizito"
+  ],
+  "inquisitore": [
+    "inkwizitore",
+    "iɲkwizitore"
+  ],
+  "inquisitorio": [
+    "inkwizitɔrjo"
+  ],
+  "inquisitrice": [
+    "inkwizitritʃe"
+  ],
+  "inquisitrici": [
+    "inkwizitritʃi"
+  ],
+  "inquisizione": [
+    "iɲkwizitsjone"
+  ],
+  "inquisizioni": [
+    "iɲkwizitsjoni"
+  ],
+  "inraggi": [
+    "inradːʒi"
+  ],
+  "inraggio": [
+    "inradːʒo"
+  ],
+  "inriducibile": [
+    "inridutʃibile"
+  ],
+  "inriducibili": [
+    "inridutʃibili"
+  ],
+  "insabbiamenti": [
+    "insabːjamenti"
+  ],
+  "insabbiamento": [
+    "insabːjamento"
+  ],
+  "insabbiato": [
+    "insabːjato"
+  ],
+  "insaccare": [
+    "insakːare"
+  ],
+  "insaccato": [
+    "insakːato"
+  ],
+  "insalare": [
+    "insalare"
+  ],
+  "insalarsi": [
+    "insalarsi"
+  ],
+  "insalata": [
+    "insalata"
+  ],
+  "insalate": [
+    "insalate"
+  ],
+  "insalatona": [
+    "insalatona"
+  ],
+  "insalatone": [
+    "insalatone"
+  ],
+  "insaldabile": [
+    "insaldabile"
+  ],
+  "insaldabili": [
+    "insaldabili"
+  ],
+  "insalivare": [
+    "insalivare"
+  ],
+  "insalubre": [
+    "insalubre"
+  ],
+  "insalubremente": [
+    "insalubremente"
+  ],
+  "insalubri": [
+    "insalubri"
+  ],
+  "insanabile": [
+    "insanabile"
+  ],
+  "insanabili": [
+    "insanabili"
+  ],
+  "insanguinante": [
+    "insaɲɡwinante"
+  ],
+  "insanguinare": [
+    "insanɡwinare",
+    "insaɲɡwinare"
+  ],
+  "insanguinarsi": [
+    "insaɲɡwinarsi"
+  ],
+  "insanguinato": [
+    "insanɡwinato"
+  ],
+  "insania": [
+    "insanja"
+  ],
+  "insanire": [
+    "insanire"
+  ],
+  "insano": [
+    "insano"
+  ],
+  "insaponamento": [
+    "insaponamento"
+  ],
+  "insaponante": [
+    "insaponante"
+  ],
+  "insaponare": [
+    "insaponare"
+  ],
+  "insaponato": [
+    "insaponato"
+  ],
+  "insaponatura": [
+    "insaponatura"
+  ],
+  "insaponificabile": [
+    "insaponifikabile"
+  ],
+  "insaponificabili": [
+    "insaponifikabili"
+  ],
+  "insapore": [
+    "insulso"
+  ],
+  "insaporito": [
+    "insaporito"
+  ],
+  "insaturabile": [
+    "insaturabile"
+  ],
+  "insaturabili": [
+    "insaturabili"
+  ],
+  "insaziabile": [
+    "insatsjabile"
+  ],
+  "insaziabili": [
+    "insatsjabili"
+  ],
+  "insaziabilmente": [
+    "insatːsjabilmente"
+  ],
+  "inscambiabile": [
+    "inskambjabile"
+  ],
+  "inscambiabili": [
+    "inskambjabili"
+  ],
+  "inscatolato": [
+    "inskatolato"
+  ],
+  "inscindibile": [
+    "inʃindibile",
+    "inʃʃindibile"
+  ],
+  "inscindibilità": [
+    "inʃindibilita"
+  ],
+  "inscoppiabile": [
+    "inskopːjabile"
+  ],
+  "inscoppiabili": [
+    "inskopːjabili"
+  ],
+  "inscrivere": [
+    "inskrivere"
+  ],
+  "inscrutabile": [
+    "inskrutabile"
+  ],
+  "inscrutabili": [
+    "inskrutabili"
+  ],
+  "inscusabile": [
+    "inskuzabile"
+  ],
+  "inscusabili": [
+    "inskuzabili"
+  ],
+  "insecabile": [
+    "insekabile"
+  ],
+  "insecabili": [
+    "insekabili"
+  ],
+  "insecchire": [
+    "insekːire"
+  ],
+  "insediamenti": [
+    "insedjamenti"
+  ],
+  "insediamento": [
+    "insedjamento"
+  ],
+  "insediarsi": [
+    "insedjarsi"
+  ],
+  "insegare": [
+    "inseɡare"
+  ],
+  "insegna": [
+    "inseɲɲa"
+  ],
+  "insegnabile": [
+    "inseɲɲabile"
+  ],
+  "insegnamento": [
+    "inseɲɲamento"
+  ],
+  "insegnante": [
+    "inseɲɲante"
+  ],
+  "insegnanti": [
+    "inseɲɲanti"
+  ],
+  "insegnare": [
+    "inseɲɲare",
+    "insɛɲɲare"
+  ],
+  "insegnato": [
+    "inseɲɲato",
+    "insɛɲɲato"
+  ],
+  "insegne": [
+    "inseɲɲe"
+  ],
+  "inseguimenti": [
+    "inseɡwimenti"
+  ],
+  "inseguimento": [
+    "inseɡwimento"
+  ],
+  "inseguire": [
+    "inseɡwire"
+  ],
+  "inseguito": [
+    "inseɡwito"
+  ],
+  "inseguitore": [
+    "inseɡwitore"
+  ],
+  "inseguitori": [
+    "inseɡwitori"
+  ],
+  "inseguitrice": [
+    "inseɡwitritʃe"
+  ],
+  "inseguitrici": [
+    "inseɡwitritʃi"
+  ],
+  "insembla": [
+    "insɛmbla"
+  ],
+  "insembra": [
+    "insɛmbra"
+  ],
+  "insembre": [
+    "insɛmbre"
+  ],
+  "inseminare": [
+    "inseminare"
+  ],
+  "inseminatore": [
+    "inseminatore"
+  ],
+  "inseminatori": [
+    "inseminatori"
+  ],
+  "inseminatrice": [
+    "inseminatritʃe"
+  ],
+  "inseminatrici": [
+    "inseminatritʃi"
+  ],
+  "insemprarsi": [
+    "insemprarsi"
+  ],
+  "insenatura": [
+    "insenatura"
+  ],
+  "insensata": [
+    "insensata"
+  ],
+  "insensatamente": [
+    "insensatamente"
+  ],
+  "insensate": [
+    "insensate"
+  ],
+  "insensatezza": [
+    "insensatetːsa"
+  ],
+  "insensati": [
+    "insensati"
+  ],
+  "insensato": [
+    "insensato"
+  ],
+  "insensibile": [
+    "insensibile"
+  ],
+  "insensibili": [
+    "insensibili"
+  ],
+  "insensibilissima": [
+    "insensibilisːima"
+  ],
+  "insensibilissime": [
+    "insensibilisːime"
+  ],
+  "insensibilissimi": [
+    "insensibilisːimi"
+  ],
+  "insensibilissimo": [
+    "insensibilisːimo"
+  ],
+  "insensibilità": [
+    "insensibilita"
+  ],
+  "insensibilmente": [
+    "insensibilmente"
+  ],
+  "inseparabile": [
+    "inseparabil",
+    "inseparabile"
+  ],
+  "inseparabili": [
+    "inseparabili"
+  ],
+  "insepolto": [
+    "insepolto"
+  ],
+  "inserimento": [
+    "inserimento"
+  ],
+  "inserire": [
+    "inserire"
+  ],
+  "inserirsi": [
+    "inserirsi"
+  ],
+  "inserito": [
+    "inserito"
+  ],
+  "inserpentire": [
+    "inserpentire"
+  ],
+  "inserpentirsi": [
+    "inserpentirsi"
+  ],
+  "inserto": [
+    "insɛrto"
+  ],
+  "inservibile": [
+    "inservabile"
+  ],
+  "inservibili": [
+    "inservabili"
+  ],
+  "inserviente": [
+    "inservjɛnte"
+  ],
+  "inserzione": [
+    "insertsjone",
+    "insɛrtsjɔne"
+  ],
+  "inserzioni": [
+    "insɛrtsjɔni"
+  ],
+  "insetti": [
+    "insɛtːi"
+  ],
+  "insetticida": [
+    "insetːitʃida"
+  ],
+  "insetticide": [
+    "insetːitʃide"
+  ],
+  "insetticidi": [
+    "insetːitʃidi"
+  ],
+  "insettifuga": [
+    "insɛtːifuɡa"
+  ],
+  "insettifughe": [
+    "insɛtːifuɡe"
+  ],
+  "insettifughi": [
+    "insɛtːifuɡi"
+  ],
+  "insettifugo": [
+    "insetːifuɡo",
+    "insɛtːifuɡo"
+  ],
+  "insettivora": [
+    "insetːivora"
+  ],
+  "insettivore": [
+    "insetːivore"
+  ],
+  "insettivori": [
+    "insetːivori"
+  ],
+  "insettivoro": [
+    "insetːivoro"
+  ],
+  "insetto": [
+    "insɛtːo"
+  ],
+  "insettologica": [
+    "insetːolɔdʒika"
+  ],
+  "insettologiche": [
+    "insetːolɔdʒike"
+  ],
+  "insettologici": [
+    "insetːolɔdʒitʃi"
+  ],
+  "insettologico": [
+    "insetːolɔdʒi"
+  ],
+  "insevare": [
+    "insevare"
+  ],
+  "insicuramente": [
+    "insikuramente"
+  ],
+  "insicurezza": [
+    "insikuretːsa"
+  ],
+  "insicurezze": [
+    "insikuretːse"
+  ],
+  "insicuro": [
+    "insikuro"
+  ],
+  "insidia": [
+    "insidja"
+  ],
+  "insidiare": [
+    "insidjare"
+  ],
+  "insidiato": [
+    "insidjato"
+  ],
+  "insidioso": [
+    "insidioso",
+    "insidjoso",
+    "insidjozo"
+  ],
+  "insieme": [
+    "insjɛme"
+  ],
+  "insiemi": [
+    "insjɛmi"
+  ],
+  "insiemistica": [
+    "insjemistika"
+  ],
+  "insiemistico": [
+    "insjemistiko"
+  ],
+  "insigne": [
+    "insiɲɲe"
+  ],
+  "insignente": [
+    "insiɲɲente"
+  ],
+  "insigni": [
+    "insiɲɲi"
+  ],
+  "insignificante": [
+    "insiɲɲifikante"
+  ],
+  "insignificanti": [
+    "insiɲɲifikanti"
+  ],
+  "insignificanza": [
+    "insiɲɲifikantsa"
+  ],
+  "insignificanze": [
+    "insiɲɲifikantse"
+  ],
+  "insignire": [
+    "insiɲɲire"
+  ],
+  "insignito": [
+    "insiɲɲito"
+  ],
+  "insilamenti": [
+    "insilamenti"
+  ],
+  "insilamento": [
+    "insilamento"
+  ],
+  "insincera": [
+    "insintʃɛra"
+  ],
+  "insinceramente": [
+    "insintʃeramente"
+  ],
+  "insincere": [
+    "insintʃɛre"
+  ],
+  "insinceri": [
+    "insintʃɛri"
+  ],
+  "insincero": [
+    "insintʃɛro"
+  ],
+  "insindacabilmente": [
+    "insindakabilmente"
+  ],
+  "insinuabile": [
+    "insinuabile"
+  ],
+  "insinuabili": [
+    "insinuabili"
+  ],
+  "insinuare": [
+    "insinware"
+  ],
+  "insinuarsi": [
+    "insinwarsi"
+  ],
+  "insinuato": [
+    "insinwato"
+  ],
+  "insinuazione": [
+    "insinuatsjone",
+    "insinuatːsjone"
+  ],
+  "insinuazioni": [
+    "insinuatsjoni"
+  ],
+  "insipidezza": [
+    "insipidetːsa"
+  ],
+  "insipidissima": [
+    "insipidisːima"
+  ],
+  "insipidissime": [
+    "insipidisːime"
+  ],
+  "insipidissimi": [
+    "insipidisːimi"
+  ],
+  "insipidissimo": [
+    "insipidisːimo"
+  ],
+  "insipidità": [
+    "insipidita"
+  ],
+  "insipido": [
+    "insipido"
+  ],
+  "insipiente": [
+    "insipjɛnte"
+  ],
+  "insipientemente": [
+    "insipjentemente"
+  ],
+  "insipienza": [
+    "insipjɛntsa"
+  ],
+  "insistente": [
+    "insistɛnte"
+  ],
+  "insistentemente": [
+    "insistentemente"
+  ],
+  "insistenti": [
+    "insistɛnti"
+  ],
+  "insistenza": [
+    "insistɛntsa"
+  ],
+  "insistere": [
+    "insistere"
+  ],
+  "insito": [
+    "insito"
+  ],
+  "insobrio": [
+    "insɔbrjo"
+  ],
+  "insoddisfacente": [
+    "insodːisfatʃɛnte"
+  ],
+  "insoddisfacenti": [
+    "insodːisfatʃɛnti"
+  ],
+  "insoddisfatta": [
+    "insodːisfatːa"
+  ],
+  "insoddisfatte": [
+    "insodːisfatːe"
+  ],
+  "insoddisfatti": [
+    "insodːisfatːi"
+  ],
+  "insoddisfatto": [
+    "insodːisfatːo"
+  ],
+  "insoddisfazione": [
+    "insodːisfatːsjone"
+  ],
+  "insoddisfazioni": [
+    "insodːisfatːsjoni"
+  ],
+  "insofferente": [
+    "insofːerɛnte"
+  ],
+  "insofferenza": [
+    "insofːerɛntsa"
+  ],
+  "insoffribile": [
+    "insofːrabile",
+    "insofːribile"
+  ],
+  "insoffribili": [
+    "insofːrabili"
+  ],
+  "insoffribilmente": [
+    "insofːribilmente"
+  ],
+  "insolazione": [
+    "insolatːsjone"
+  ],
+  "insolente": [
+    "insolɛnte"
+  ],
+  "insolenza": [
+    "insolɛntsa"
+  ],
+  "insolita": [
+    "insolita"
+  ],
+  "insolitamente": [
+    "insolitamente"
+  ],
+  "insolite": [
+    "insolite"
+  ],
+  "insoliti": [
+    "insoliti"
+  ],
+  "insolito": [
+    "insolito",
+    "insɔlito"
+  ],
+  "insollevabile": [
+    "insolːevabile"
+  ],
+  "insolubile": [
+    "insolubile"
+  ],
+  "insolubili": [
+    "insolubili"
+  ],
+  "insoluto": [
+    "insoluto"
+  ],
+  "insolvente": [
+    "insolvɛnte"
+  ],
+  "insolvenza": [
+    "insolvɛntsa"
+  ],
+  "insolvibile": [
+    "insolvibile"
+  ],
+  "insolvibili": [
+    "insolvibili"
+  ],
+  "insolvibilità": [
+    "insolvibilita"
+  ],
+  "insomma": [
+    "insomːa"
+  ],
+  "insondabile": [
+    "insondabile"
+  ],
+  "insondabili": [
+    "insondabili"
+  ],
+  "insondabilità": [
+    "insondabilita"
+  ],
+  "insondabilmente": [
+    "insondabilmente"
+  ],
+  "insonne": [
+    "insɔnːe"
+  ],
+  "insonnia": [
+    "insɔnːja"
+  ],
+  "insonnie": [
+    "insɔnːje"
+  ],
+  "insonnolire": [
+    "insonːolire"
+  ],
+  "insonnolito": [
+    "insonːolito"
+  ],
+  "insonorizzante": [
+    "insonoridːzante"
+  ],
+  "insonorizzanti": [
+    "insonoridːzanti"
+  ],
+  "insonorizzare": [
+    "insonoridːzare"
+  ],
+  "insopportabile": [
+    "insopːortabile"
+  ],
+  "insopportabili": [
+    "insopːortabili"
+  ],
+  "insopportabilmente": [
+    "insopːortabilmente"
+  ],
+  "insorgenza": [
+    "insordʒɛntsa"
+  ],
+  "insorgere": [
+    "insordʒere"
+  ],
+  "insormontabile": [
+    "insormonabile"
+  ],
+  "insormontabili": [
+    "insormonabili"
+  ],
+  "insorta": [
+    "insorta"
+  ],
+  "insorto": [
+    "insorto"
+  ],
+  "insospettabile": [
+    "insospetːabile"
+  ],
+  "insospettabili": [
+    "insospetːabili"
+  ],
+  "insospettabilmente": [
+    "insospetːabilmente"
+  ],
+  "insospettire": [
+    "insospetːire"
+  ],
+  "insostenibile": [
+    "insostenibil",
+    "insostenibile"
+  ],
+  "insostenibili": [
+    "insostenibili"
+  ],
+  "insostituibile": [
+    "insostituibile"
+  ],
+  "insostituibili": [
+    "insostituibili"
+  ],
+  "insozzare": [
+    "insotːsare"
+  ],
+  "inspalmabile": [
+    "inspalmabile"
+  ],
+  "inspalmabili": [
+    "inspalmabili"
+  ],
+  "insperabile": [
+    "insperabile"
+  ],
+  "insperabili": [
+    "insperabili"
+  ],
+  "insperabilmente": [
+    "insperabilmente"
+  ],
+  "insperatamente": [
+    "insperatamente"
+  ],
+  "insperato": [
+    "insperato"
+  ],
+  "inspiegabile": [
+    "inspieɡabile",
+    "inspjeɡabile"
+  ],
+  "inspiegabili": [
+    "inspieɡabili",
+    "inspjeɡabili"
+  ],
+  "inspiegabilmente": [
+    "inspieɡabilmente"
+  ],
+  "inspirare": [
+    "inspirare"
+  ],
+  "instabile": [
+    "instabile"
+  ],
+  "instabili": [
+    "instabili"
+  ],
+  "instabilità": [
+    "instabilita"
+  ],
+  "instagrammabile": [
+    "instaɡramːabile"
+  ],
+  "instagrammabili": [
+    "instaɡramːabili"
+  ],
+  "installabile": [
+    "instalːabile"
+  ],
+  "installabili": [
+    "instalːabili"
+  ],
+  "installante": [
+    "instalːante"
+  ],
+  "installare": [
+    "instalːare"
+  ],
+  "installarsi": [
+    "instalːarsi"
+  ],
+  "installata": [
+    "instalːata"
+  ],
+  "installate": [
+    "instalːate"
+  ],
+  "installati": [
+    "instalːati"
+  ],
+  "installato": [
+    "instalːato"
+  ],
+  "installatore": [
+    "instalːatore"
+  ],
+  "installatori": [
+    "instalːatori"
+  ],
+  "installatrice": [
+    "instalːatritʃe"
+  ],
+  "installatrici": [
+    "instalːatritʃi"
+  ],
+  "installazione": [
+    "instalːatsjone",
+    "istalːatːsjone"
+  ],
+  "installazioni": [
+    "instalːatsjoni"
+  ],
+  "instancabile": [
+    "instankabile"
+  ],
+  "instancabili": [
+    "instankabili"
+  ],
+  "instancabilmente": [
+    "instankabilmente"
+  ],
+  "instante": [
+    "instante"
+  ],
+  "instaurare": [
+    "instawrare"
+  ],
+  "instaurato": [
+    "instawrato"
+  ],
+  "instillante": [
+    "instilːante"
+  ],
+  "instillato": [
+    "instilːato"
+  ],
+  "instirabile": [
+    "instirabile"
+  ],
+  "instirabili": [
+    "instirabili"
+  ],
+  "instradamenti": [
+    "instradamenti"
+  ],
+  "instradamento": [
+    "instradamento"
+  ],
+  "instradatore": [
+    "instradatore"
+  ],
+  "instruire": [
+    "instrwire"
+  ],
+  "instrumento": [
+    "instrumento"
+  ],
+  "instruttivo": [
+    "instrutivo"
+  ],
+  "instupidire": [
+    "instupidire"
+  ],
+  "insù": [
+    "insu"
+  ],
+  "insubbiare": [
+    "insubːjare"
+  ],
+  "insubordinato": [
+    "insubordinato"
+  ],
+  "insubre": [
+    "insubre"
+  ],
+  "insubria": [
+    "insubria"
+  ],
+  "insuccesso": [
+    "insutːʃɛsːo"
+  ],
+  "insudare": [
+    "insudare"
+  ],
+  "insudiciare": [
+    "insuditʃare"
+  ],
+  "insufficiente": [
+    "insufːitʃɛnte"
+  ],
+  "insufficientemente": [
+    "insufːitʃentemente"
+  ],
+  "insufficienza": [
+    "insufːitʃɛntsa"
+  ],
+  "insugnare": [
+    "insuɲɲare"
+  ],
+  "insulare": [
+    "insulare"
+  ],
+  "insulina": [
+    "insulina"
+  ],
+  "insuline": [
+    "insuline"
+  ],
+  "insulinemia": [
+    "insulinemia"
+  ],
+  "insulinemie": [
+    "insulinemie"
+  ],
+  "insulinica": [
+    "insulinika"
+  ],
+  "insuliniche": [
+    "insulinike"
+  ],
+  "insulinici": [
+    "insulinitʃi"
+  ],
+  "insulinico": [
+    "insuliniko"
+  ],
+  "insulinizzare": [
+    "insulinidːʒare"
+  ],
+  "insulinodipendente": [
+    "insulinodipendɛnte"
+  ],
+  "insulinodipendenti": [
+    "insulinodipendɛnti"
+  ],
+  "insulinoresistente": [
+    "insulinoresistɛnte",
+    "insulinorezistɛnte"
+  ],
+  "insulinoresistenti": [
+    "insulinorezistɛnti"
+  ],
+  "insulinoresistenza": [
+    "insulinorezistɛntsa"
+  ],
+  "insulinoresistenze": [
+    "insulinorezistɛntse"
+  ],
+  "insulinoterapia": [
+    "insulinoterapia"
+  ],
+  "insulinoterapie": [
+    "insulinoterapie"
+  ],
+  "insuloma": [
+    "insulɔma"
+  ],
+  "insulsaggine": [
+    "insulsadːʒine"
+  ],
+  "insulso": [
+    "insulso"
+  ],
+  "insultabile": [
+    "insultabile"
+  ],
+  "insultabili": [
+    "insultabili"
+  ]
 }

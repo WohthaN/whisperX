@@ -1,502 +1,1537 @@
 {
-  "oligopolistici": ["o l i ɡ o p o l i s t i t ʃ i"],
-  "oligopolistico": ["o l i ɡ o p o l i s t i k o"],
-  "oligopsonistico": ["o l i ɡ o p s o n i s t i k o"],
-  "oligosaccaride": ["ɔ l i ɡ o s a kː a r i d e"],
-  "oligosaccaridica": ["o l i ɡ o s a kː a r i d i k a"],
-  "oligosaccaridiche": ["o l i ɡ o s a kː a r i d i k e"],
-  "oligosaccaridici": ["o l i ɡ o s a kː a r i d i t ʃ i"],
-  "oligosaccaridico": ["o l i ɡ o s a kː a r i d i k o"],
-  "oligotrofico": ["o l i ɡ o t r ɔ f i k o"],
-  "oliguria": ["o l i ɡ u r j a"],
-  "olimpiade": ["o l i m p i a d e"],
-  "olimpiadi": ["o l i m p i a d i"],
-  "olimpico": ["o l i m p i k o"],
-  "olimpionico": ["o l i m p j ɔ n i k o"],
-  "olimpo": ["o l i m p o"],
-  "olio": ["ɔ l j o", "ɔ l j ɔ"],
-  "olire": ["o l i r e"],
-  "olisco": ["o l i s k o"],
-  "olismo": ["o l i z m o"],
-  "olistico": ["o l i s t i k o"],
-  "oliva": ["o l i v a"],
-  "olivastro": ["o l i v a s t r o"],
-  "olive": ["o l i v e"],
-  "oliveto": ["o l i v e t o"],
-  "olivetta": ["o l i v e tː a"],
-  "olivi": ["ɔ l i v i"],
-  "olivicoltura": ["o l i v i k o l t u r a"],
-  "olivicolture": ["o l i v i k o l t u r e"],
-  "oliviero": ["o l i v j ɛ r o"],
-  "olivina": ["o l i v i n a"],
-  "olivo": ["o l i v o", "ɔ l i v o"],
-  "olmacee": ["o l m a t ʃ e e"],
-  "olmeca": ["o l m ɛ k a"],
-  "olmeche": ["o l m ɛ k e"],
-  "olmechi": ["o l m ɛ k i"],
-  "olmeco": ["o l m ɛ k o"],
-  "olmi": ["ɔ l m i"],
-  "olmio": ["ɔ l m j o"],
-  "olmo": ["o l m o", "ɔ l m ɔ"],
-  "oloblastico": ["o l o b l a s t i k o"],
-  "olocausti": ["o l o k a w s t i"],
-  "olocausto": ["o l o k a u s t o", "o l o k a w s t o"],
-  "olocefali": ["o l o t ʃ ɛ f a l i"],
-  "olocene": ["o l o t ʃ ɛ n e"],
-  "olocenico": ["o l o t ʃ ɛ n i k o"],
-  "olocrina": ["o l ɔ k r i n a"],
-  "olocrine": ["o l ɔ k r i n e"],
-  "olocrini": ["o l ɔ k r i n i"],
-  "olocrino": ["o l ɔ k r i n o"],
-  "olocristallina": ["o l o k r i s t a lː i n a"],
-  "olocristalline": ["o l o k r i s t a lː i n e"],
-  "olocristallini": ["o l o k r i s t a lː i n i"],
-  "olocristallino": ["o l o k r i s t a lː i n o"],
-  "olofrastico": ["o l o f r a s t i k o"],
-  "ologenesi": ["o l o d ʒ ɛ n e z i"],
-  "ologenetico": ["o l o d ʒ e n ɛ t i k o"],
-  "olografa": ["o l ɔ ɡ r a f a"],
-  "olografe": ["o l ɔ ɡ r a f e"],
-  "olografi": ["o l ɔ ɡ r a f i"],
-  "olografia": ["o l o ɡ r a f i a"],
-  "olografo": ["o l ɔ ɡ r a f o"],
-  "ologramma": ["o l o ɡ r a mː a"],
-  "olomorfa": ["o l o m ɔ r f a"],
-  "olomorfe": ["o l o m ɔ r f e"],
-  "olomorfi": ["o l o m ɔ r f i"],
-  "olomorfo": ["o l o m ɔ r f o"],
-  "olore": ["o l o r e"],
-  "olorima": ["o l o r i m a"],
-  "olorime": ["o l o r i m e"],
-  "olosomo": ["o l ɔ s o m o"],
-  "olotipo": ["o l o t i p o"],
-  "oloturia": ["l o t u r j a", "o l o t u r j a"],
-  "oltra": ["o l t r a"],
-  "oltracciò": ["o l t r a tː ʃ ɔ"],
-  "oltracotante": ["o l t r a k o t a n t e"],
-  "oltraggi": ["o l t r a dː ʒ i"],
-  "oltraggiato": ["o l t r a dː ʒ a t o"],
-  "oltraggio": ["o l t r a dː ʒ o"],
-  "oltraggioso": ["o l t r a dː ʒ o s o", "o l t r a dː ʒ o z o"],
-  "oltramondano": ["o l t r a m o n d a n o"],
-  "oltramontano": ["o l t r a m o n t a n o"],
-  "oltranaturale": ["o l t r a n a t u r a l e"],
-  "oltranza": ["o l t r a n t s a"],
-  "oltranzista": ["o l t r a n t s i s t a"],
-  "oltranziste": ["o l t r a n t s i s t e"],
-  "oltranzisti": ["o l t r a n t s i s t i"],
-  "oltre": ["o l t r e"],
-  "oltremanica": ["o l t r e m a n i k a"],
-  "oltremare": ["o l t r e m a r e"],
-  "oltremodo": ["o l t r e m ɔ d o"],
-  "oltremondanità": ["o l t r e m o n d a n i t a"],
-  "oltremondano": ["o l t r e m o n d a n o"],
-  "oltrenaturale": ["o l t r e n a t u r a l e"],
-  "oltreoceano": ["o l t r e o t ʃ ɛ a n o"],
-  "oltrepassabile": ["o l t r e p a sː a b i l e"],
-  "oltrepassante": ["o l t r e p a sː a n t e"],
-  "oltrepassare": ["o l t r e p a sː a r e"],
-  "oltrepassato": ["o l t r e p a sː a t o"],
-  "oltretomba": ["o l t r e t o m b a"],
-  "omaggi": ["o m a dː ʒ i"],
-  "omaggiato": ["o m a dː ʒ a t o"],
-  "omaggio": ["o m a dː ʒ o"],
-  "omai": ["o m a j"],
-  "oman": ["o m a n"],
-  "omanita": ["o m a n i t a"],
-  "omanite": ["o m a n i t e"],
-  "omaniti": ["o m a n i t i"],
-  "omar": ["o m a r", "ɔ m a r"],
-  "omaro": ["ɔ m a r o"],
-  "ombelicale": ["o m b e l i k a l e"],
-  "ombelicali": ["o m b e l i k a l i"],
-  "ombelichi": ["ɔ m b ɛ l i k i"],
-  "ombelico": ["o m b e l i k o"],
-  "ombellicale": ["o m b e lː i k a l e"],
-  "ombellicali": ["o m b e lː i k a l i"],
-  "ombellichi": ["o m b e lː i k i"],
-  "ombellico": ["o m b e lː i k o"],
-  "ombra": ["o m b r a", "ɔ m b r a"],
-  "ombre": ["ɔ m b r e"],
-  "ombreggiato": ["o m b r e dː ʒ a t o"],
-  "ombrella": ["o m b r ɛ lː a"],
-  "ombrelle": ["o m b r ɛ lː e"],
-  "ombrelli": ["o m b r ɛ lː i"],
-  "ombrello": ["o m b r ɛ lː o"],
-  "ombrellone": ["o m b r e lː o n e"],
-  "ombretti": ["o m b r e tː i"],
-  "ombretto": ["o m b r e tː o"],
-  "ombrifero": ["o m b r i f e r o"],
-  "ombroso": ["o m b r o z o"],
-  "omega": ["o m ɛ ɡ a", "ɔ m e ɡ a"],
-  "omelia": ["o m e l i a", "o m e l j a"],
-  "omento": ["o m e n t o"],
-  "omeopata": ["o m e ɔ p a t a"],
-  "omeopate": ["o m e ɔ p a t e"],
-  "omeopati": ["o m e ɔ p a t i"],
-  "omeopatia": ["o m e o p a t i a"],
-  "omeopatica": ["o m e o p a t i k a"],
-  "omeopatiche": ["o m e o p a t i k e"],
-  "omeopatici": ["o m e o p a t i t ʃ i"],
-  "omeopatico": ["o m e o p a t i k o"],
-  "omeostasi": ["o m e ɔ s t a z i"],
-  "omeostatico": ["o m e o s t a t i k o"],
-  "omeotermo": ["o m e o t ɛ r m o"],
-  "omerale": ["o m e r a l e"],
-  "omerali": ["o m e r a l i"],
-  "omeri": ["ɔ m e r i"],
-  "omerica": ["o m ɛ r i k a"],
-  "omericamente": ["o m e r i k a m e n t e"],
-  "omeriche": ["o m ɛ r i k e"],
-  "omerici": ["o m ɛ r i k i"],
-  "omerico": ["o m ɛ r i k o"],
-  "omero": ["ɔ m e r o"],
-  "omertà": ["o m e r t a"],
-  "omertosamente": ["o m e r t o s a m e n t e", "o m e r t o z a m e n t e"],
-  "omertoso": ["o m e r t o s o", "o m e r t o z o"],
-  "omesso": ["o"],
-  "omettere": ["o m e tː e r e"],
-  "ometto": ["o m e tː o"],
-  "omicida": ["o m i t ʃ i d a"],
-  "omicidi": ["o m i t ʃ i d i"],
-  "omicidiale": ["o m i t ʃ i d j a l e"],
-  "omicidio": ["o m i t ʃ i d j o"],
-  "omiletica": ["o m i l ɛ t i k a"],
-  "ominazione": ["o m i n a tː s j o n e"],
-  "omini": ["o m i n i", "ɔ m i n i"],
-  "ominide": ["o m i n i d e"],
-  "ominidi": ["o m i n i d i"],
-  "omino": ["o m i n o"],
-  "ominoidei": ["o m i n o j d ɛ i"],
-  "ominoideo": ["o m i n o j d ɛ o"],
-  "ominoso": ["o m i n o s o", "o m i n o z o"],
-  "omissione": ["o m i sː j o n e"],
-  "omissioni": ["o m i sː j o n i"],
-  "ommatostrefi": ["o mː a t o s t r ɛ f i"],
-  "ommatostrefo": ["o mː a t o s t r ɛ f o"],
-  "omnibus": ["ɔ m n i b u s"],
-  "omo": ["ɔ m o"],
-  "omocromia": ["ɔ m o k r o m i a"],
-  "omocromie": ["ɔ m o k r o m i e"],
-  "omoerotico": ["ɔ m o e r ɔ t i k o"],
-  "omofaga": ["o m ɔ f a ɡ a"],
-  "omofaghe": ["o m ɔ f a ɡ e"],
-  "omofagi": ["o m ɔ f a d ʒ i"],
-  "omofago": ["o m ɔ f a ɡ o"],
-  "omofilia": ["o m o f i l i a"],
-  "omofobia": ["o m o f o b i a"],
-  "omofobie": ["o m o f o b i e"],
-  "omofobo": ["o m ɔ f o b o"],
-  "omofonia": ["o m o f o n i a"],
-  "omofono": ["o m ɔ f o n o"],
-  "omogenea": ["o m o d ʒ ɛ n e a"],
-  "omogeneamente": ["o m o d ʒ e n e a m e n t e"],
-  "omogenee": ["o m o d ʒ ɛ n e e"],
-  "omogenei": ["o m o d ʒ ɛ n e i"],
-  "omogeneità": ["o m o d ʒ e n e i t a"],
-  "omogeneizzare": ["o m o d ʒ e n e i dː z a r e", "o m o d ʒ e n i dː z a r e"],
-  "omogeneizzato": ["o m o d ʒ e n e i dː z a t o"],
-  "omogeneizzazione": ["o m o d ʒ e n e i dː z a t s j o n e"],
-  "omogeneo": ["o m o d ʒ ɛ n e o"],
-  "omogenetico": ["o m o d ʒ e n ɛ t i k o"],
-  "omogenismo": ["o m o d ʒ e n i z m o"],
-  "omografia": ["o m o ɡ r a f i a"],
-  "omolaterale": ["o m o l a t e r a l e"],
-  "omolaterali": ["o m o l a t e r a l i"],
-  "omolisi": ["o m o l i z i"],
-  "omologa": ["o m ɔ l o ɡ a"],
-  "omologabile": ["o m o l o ɡ a b i l e"],
-  "omologabili": ["o m o l o ɡ a b i l i"],
-  "omologare": ["o m o l o ɡ a r e"],
-  "omologazione": ["o m o l o ɡ a t s j o n e"],
-  "omologia": ["o m o l o d ʒ i a"],
-  "omologo": ["o m ɔ l o ɡ o"],
-  "omone": ["o m o n e"],
-  "omonima": ["o m ɔ n i m a"],
-  "omonime": ["o m ɔ n i m e"],
-  "omonimi": ["o m ɔ n i m i"],
-  "omonimia": ["o m o n i m i a", "o m o n i m j a"],
-  "omonimico": ["o m o n i m i k o"],
-  "omonimo": ["o m ɔ n i m o"],
-  "omoplastico": ["o m o p l a s t i k o", "ɔ m o p l a s t i k o"],
-  "omosessuale": ["o m o s e sː u a l e", "ɔ m o s e sː u a l e"],
-  "omosessuali": ["ɔ m o s e sː u a l i"],
-  "omosessualità": ["o m o s e sː u a l i t a"],
-  "omotermia": ["o m o t e r m i a"],
-  "omotermo": ["o m o t ɛ r m o"],
-  "omotopia": ["o m o t o p i a"],
-  "omotossicologia": ["o m o t o sː i k o l o d ʒ i a"],
-  "omotossicologica": ["o m o t o sː i k o l ɔ d ʒ i k a"],
-  "omotossicologiche": ["o m o t o sː i k o l ɔ d ʒ i k e"],
-  "omotossicologici": ["o m o t o sː i k o l ɔ d ʒ i t ʃ i"],
-  "omotossicologico": ["o m o t o sː i k o l ɔ d ʒ i k o"],
-  "omotossicologie": ["o m o t o sː i k o l o d ʒ i e"],
-  "omotteri": ["o m ɔ tː e r i"],
-  "omottero": ["o m ɔ tː e r o"],
-  "onagri": ["o n a ɡ r i"],
-  "onagro": ["o n a ɡ r o", "ɔ n a ɡ r o"],
-  "onagrocrazia": ["o n a ɡ r o k r a tː s i a"],
-  "onanismo": ["o n a n i z m o"],
-  "oncia": ["o n t ʃ a"],
-  "onciario": ["o n t ʃ a r j o"],
-  "oncogenesi": ["o n k o d ʒ ɛ n e z i"],
-  "oncogeno": ["o n k ɔ d ʒ e n o"],
-  "oncologica": ["o n k o l ɔ d ʒ i k a"],
-  "oncologiche": ["o n k o l ɔ d ʒ i k e"],
-  "oncologici": ["o n k o l ɔ d ʒ i t ʃ i"],
-  "oncologico": ["o n k o l ɔ d ʒ i k o"],
-  "onda": ["o n d a", "ɔ n d a"],
-  "ondare": ["o n d a r e"],
-  "ondata": ["o n d a t a"],
-  "ondato": ["o n d a t o"],
-  "onde": ["o n d e", "ɔ n d e"],
-  "ondeché": ["o n d e k e"],
-  "ondeggiamento": ["o n d e dː ʒ a m e n t o"],
-  "ondeggiante": ["o n d e dː ʒ a n t e"],
-  "ondeggiare": ["o n d e dː ʒ a r e"],
-  "ondeggio": ["o n d e dː ʒ o"],
-  "ondisono": ["o n d i s o n o"],
-  "ondivago": ["o n d i v a ɡ o"],
-  "ondulato": ["o n d u l a t o"],
-  "onduras": ["o n d u r a s"],
-  "onduregna": ["o n d u r e ɲ ɲ a"],
-  "onduregne": ["o n d u r e ɲ ɲ e"],
-  "onduregni": ["o n d u r e ɲ ɲ i"],
-  "onduregno": ["o n d u r e ɲ ɲ o"],
-  "onera": ["ɔ n e r a"],
-  "onere": ["ɔ n e r e"],
-  "oneri": ["ɔ n e r i"],
-  "onerosamente": ["o n e r o s a m e n t e"],
-  "onesta": ["o n ɛ s t a"],
-  "onestà": ["o n e s t a"],
-  "onestamente": ["o n e s t a m e n t e"],
-  "oneste": ["o n ɛ s t e"],
-  "onesti": ["ɔ n ɛ s t i"],
-  "onestissima": ["o n ɛ s t i sː i m a"],
-  "onestissime": ["o n ɛ s t i sː i m e"],
-  "onestissimi": ["o n ɛ s t i sː i m i"],
-  "onestissimo": ["o n ɛ s t i sː i m o"],
-  "onesto": ["o n ɛ s t o"],
-  "onice": ["ɔ n i t ʃ e"],
-  "onichia": ["o n i k i a"],
-  "onichie": ["o n i k i e"],
-  "onicosi": ["o n i k ɔ s i"],
-  "onirico": ["o n i r i k o"],
-  "onisco": ["o n i s k o"],
-  "onne": ["ɔ nː e"],
-  "onni": ["ɔ nː i"],
-  "onnicomprensivo": ["ɔ nː i k o m p r e n s i v o"],
-  "onninamente": ["o nː i n a m e n t e"],
-  "onnipossente": ["o nː i p o sː ɛ n t e"],
-  "onnipotente": ["o nː i p o t ɛ n t e", "ɔ nː i p o t ɛ n t e"],
-  "onnipotenti": ["o nː i p o t ɛ n t i"],
-  "onnipotenza": ["o nː i p o t ɛ n t s a", "ɔ nː i p o t ɛ n t s a"],
-  "onnipresente": ["o nː i p r e z ɛ n t e"],
-  "onnipresenti": ["o nː i p r e z ɛ n t i"],
-  "onnisciente": ["o nː i ʃ ʃ ɛ n t e"],
-  "onniscienti": ["o nː i ʃ ʃ ɛ n t i"],
-  "onniscienza": ["o nː i ʃ ʃ ɛ n t s a"],
-  "onniscienze": ["o nː i ʃ ʃ ɛ n t s e"],
-  "onnivora": ["o nː i v o r a"],
-  "onnivore": ["o nː i v o r e"],
-  "onnivori": ["o nː i v o r i"],
-  "onnivorismi": ["o nː i v o r i z m i"],
-  "onnivorismo": ["o nː i v o r i z m o"],
-  "onnivoro": ["o nː i v o r o"],
-  "onomasiologia": ["o n o m a z j o l o d ʒ i a"],
-  "onomasiologie": ["o n o m a z j o l o d ʒ i e"],
-  "onomastica": ["o n o m a s t i k a"],
-  "onomastiche": ["o n o m a s t i k e"],
-  "onomastici": ["o n o m a s t i t ʃ i"],
-  "onomastico": ["o n o m a s t i k o"],
-  "onomatopea": ["o n o m a t o p ɛ a"],
-  "onomatopeico": ["o n o m a t o p ɛ i k o"],
-  "onomaturga": ["o n o m a t u r ɡ a"],
-  "onomaturgo": ["o n o m a t u r ɡ o"],
-  "onorabile": ["o n o r a b i l e"],
-  "onorabili": ["o n o r a b i l i"],
-  "onorabilità": ["o n o r a b i l i t a"],
-  "onorabilmente": ["o n o r a b i l m e n t e"],
-  "onorante": ["o n o r a n t e"],
-  "onoranza": ["o n o r a n t s a"],
-  "onorare": ["o n o r a r e"],
-  "onorari": ["o n o r a r i"],
-  "onoraria": ["o n o r a r j a"],
-  "onorarie": ["o n o r a r j e"],
-  "onorario": ["o n o r a r j o"],
-  "onorarsi": ["o n o r a r s i"],
-  "onorata": ["o n o r a t a"],
-  "onoratamente": ["o n o r a t a m e n t e"],
-  "onorate": ["o n o r a t e"],
-  "onorati": ["o n o r a t i"],
-  "onorativo": ["o n o r a t i v o"],
-  "onorato": ["o n o r a t o"],
-  "onore": ["o n o r e"],
-  "onorevole": ["o n o r e v o l e"],
-  "onori": ["o n o r i"],
-  "onorifica": ["o n o r i f i k a"],
-  "onorificenza": ["o n o r i f i t ʃ ɛ n t s a"],
-  "onorificenze": ["o n o r i f i t ʃ ɛ n t s e"],
-  "onorifiche": ["o n o r i f i k e"],
-  "onorifici": ["o n o r i f i t ʃ i"],
-  "onorifico": ["o n o r i f i k o"],
-  "onranza": ["o n r a n t s a"],
-  "onrare": ["o n r a r e"],
-  "onrato": ["o n r a t o"],
-  "onta": ["o n t a"],
-  "ontani": ["o n t a n o"],
-  "ontano": ["o n t a n o"],
-  "ontariana": ["o n t a r j a n a"],
-  "ontariane": ["o n t a r j a n e"],
-  "ontariani": ["o n t a r j a n i"],
-  "ontariano": ["o n t a r j a n o"],
-  "ontogenesi": ["o n t o d ʒ ɛ n e z i"],
-  "ontogenetico": ["o n t o d ʒ e n ɛ t i k o"],
-  "ontologa": ["o n t o l ɔ ɡ a"],
-  "ontologe": ["o n t o l ɔ ɡ e"],
-  "ontologi": ["o n t o l ɔ d ʒ i"],
-  "ontologia": ["o n t o l o d ʒ i a"],
-  "ontologica": ["o n t o l ɔ d ʒ i k a"],
-  "ontologiche": ["o n t o l ɔ d ʒ i k e"],
-  "ontologici": ["o n t o l ɔ d ʒ i k i", "o n t o l ɔ d ʒ i t ʃ i"],
-  "ontologico": ["o n t o l ɔ d ʒ i k o"],
-  "ontologie": ["o n t o l o d ʒ i e"],
-  "ontologismi": ["o n t o l o d ʒ i z m i"],
-  "ontologismo": ["o n t o l o d ʒ i z m o"],
-  "ontologista": ["o n t o l o d ʒ i s t a"],
-  "ontologiste": ["o n t o l o d ʒ i s t e"],
-  "ontologisti": ["o n t o l o d ʒ i s t i"],
-  "ontologizzare": ["o n t o l o d ʒ i dː ʒ a r e"],
-  "ontologo": ["o n t o l ɔ ɡ o"],
-  "ontoso": ["o n t o z o"],
-  "onu": ["ɔ n u"],
-  "onusta": ["o n u s t a"],
-  "onuste": ["o n u s t e"],
-  "onusti": ["o n u s t i"],
-  "onusto": ["o n u s t o"],
-  "ooblasto": ["o o b l a s t o"],
-  "oosfera": ["o o s f ɛ r a"],
-  "ooteca": ["o o t ɛ k a"],
-  "opa": ["o p a"],
-  "opacimetri": ["o p a t ʃ i m e t r i"],
-  "opacimetro": ["o p a t ʃ i m e t r o"],
-  "opacità": ["o p a t ʃ i t a"],
-  "opacizzare": ["o p a t ʃ i dː z a r e"],
-  "opaco": ["o p a k o"],
-  "opale": ["o p a l e"],
-  "opalescente": ["o p a l e ʃ ʃ ɛ n t e"],
-  "opalescenti": ["o p a l e ʃ ʃ ɛ n t i"],
-  "opali": ["o p a l i"],
-  "opelanda": ["o p e l a n d a"],
-  "opera": ["o p e r a", "ɔ p e r a"],
-  "operabile": ["o p e r a b i l e"],
-  "operabili": ["o p e r a b i l i"],
-  "operai": ["o p e r a i"],
-  "operaia": ["o p e r a j a"],
-  "operaie": ["o p e r a j e"],
-  "operaio": ["o p e r a j o"],
-  "operaismo": ["o p e r a i z m o"],
-  "operante": ["o p e r a n t e"],
-  "operare": ["o p e r a r e"],
-  "operarsi": ["o p e r a r s i"],
-  "operata": ["o p e r a t a"],
-  "operate": ["o p e r a t e"],
-  "operati": ["o p e r a t i"],
-  "operatività": ["o p e r a t i v i t a"],
-  "operativo": ["o p e r a t i v o"],
-  "operato": ["o p e r a t o"],
-  "operatore": ["o p e r a t o r e"],
-  "operatori": ["o p e r a t ɔ r i"],
-  "operatoria": ["o p e r a t ɔ r j a"],
-  "operatorie": ["o p e r a t ɔ r j e"],
-  "operatorio": ["o p e r a t ɔ r j o"],
-  "operatrice": ["o p e r a t r i t ʃ e"],
-  "operatrici": ["o p e r a t r i t ʃ i"],
-  "operazione": ["o p e r a t s j o n e"],
-  "operazioni": ["o p e r a t s j o n i"],
-  "opercoli": ["o p e r k o l i"],
-  "opercolo": ["o p e r k o l o"],
-  "opere": ["o p e r e", "ɔ p e r e"],
-  "operetta": ["o p e r e tː a"],
-  "operette": ["o p e r e tː e"],
-  "operi": ["ɔ p e r o"],
-  "operosa": ["o p e r o s a", "o p e r o z a", "ɔ p ɛ r ɔ z a"],
-  "operosamente": ["o p e r o s a m e n t e"],
-  "operose": ["o p e r o s e", "o p e r o z e", "ɔ p ɛ r ɔ z e"],
-  "operosi": ["o p e r o s i", "o p e r o z i", "ɔ p ɛ r ɔ z i"],
-  "operoso": ["o p e r o s o", "o p e r o z o", "ɔ p ɛ r ɔ z ɔ"],
-  "opifici": ["o p i f i t ʃ i"],
-  "opificio": ["o p i f i t ʃ o"],
-  "opimo": ["o p i m o"],
-  "opinabile": ["o p i n a b i l e"],
-  "opinare": ["o p i n a r e"],
-  "opinione": ["o p i n j o n e"],
-  "opinioni": ["o p i n j o n i"],
-  "opinionista": ["o p i n j o n i s t a"],
-  "opinioniste": ["o p i n j o n i s t e"],
-  "opinionisti": ["o p i n j o n i s t i"],
-  "opistonefro": ["o p i s t o n ɛ f r o"],
-  "opistosoma": ["o p i s t o s ɔ m a"],
-  "opistosomi": ["o p i s t o s ɔ m i"],
-  "oplita": ["o p l i t a"],
-  "oplomachia": ["o p l o m a k j a"],
-  "opossum": ["o p ɔ sː u m"],
-  "oppi": ["ɔ pː i"],
-  "oppiaceo": ["o pː j a t ʃ e o"],
-  "oppido": ["ɔ pː i d o"],
-  "oppilare": ["o pː i l a r e"],
-  "oppilazione": ["o pː i l a tː s j o n e"],
-  "oppio": ["ɔ pː j o"],
-  "oppioide": ["o pː i ɔ j d e", "o pː j ɔ j d e"],
-  "oppone": ["o pː o n e"],
-  "opponemmo": ["o pː o n e mː o"],
-  "opponendo": ["o pː o n e n d o"],
-  "opponente": ["o pː o n e n t e"],
-  "opponenti": ["o pː o n e n t i"],
-  "opponesse": ["o pː o n e sː e"],
-  "opponessero": ["o pː o n e sː e r o"],
-  "opponessi": ["o pː o n e sː i"],
-  "opponessimo": ["o pː o n e sː i m o"],
-  "opponeste": ["o pː o nː e s t e"],
-  "opponesti": ["o pː o n e s t i"],
-  "opponete": ["o pː o n e t e"],
-  "opponeva": ["o pː o n e v a"],
-  "opponevamo": ["o pː o n e v a m o"],
-  "opponevano": ["o pː o n e v a n o"],
-  "opponevate": ["o pː o n e v a t e"],
-  "opponevi": ["o pː o n e v i"],
-  "opponevo": ["o pː o n e v o"],
-  "opponga": ["o pː o n ɡ a"],
-  "oppongano": ["o pː o n ɡ a n o"],
-  "oppongo": ["o pː o n ɡ o"],
-  "oppongono": ["o pː o n ɡ o n o"],
-  "opponi": ["o pː o n i"],
-  "opponiamo": ["o pː o n j a m o"],
-  "opponiate": ["o pː o n j a t e"],
-  "opponibile": ["o pː o n i b i l e"],
-  "opponibilità": ["o pː o n i b i l i t a"],
-  "opporrà": ["p o rː a"],
-  "opporrai": ["o pː o rː a i"],
-  "opporranno": ["o pː o rː a nː o"],
-  "opporre": ["o pː o rː e"],
-  "opporrebbe": ["o pː o rː e bː e"],
-  "opporrebbero": ["o pː o rː e bː e r o"],
-  "opporrei": ["o pː o rː e i"],
-  "opporremmo": ["o pː o rː e m o"],
-  "opporremo": ["o pː o rː e m o"],
-  "opporreste": ["o pː o rː e s t e"],
-  "opporresti": ["o pː o rː e s t i"],
-  "opporrete": ["o pː o rː e t e"],
-  "opporrò": ["o pː o rː o"],
-  "opporsi": ["o pː o r s i"],
-  "opportunamente": ["o pː o r t u n a m e n t e"],
-  "opportunismi": ["o pː o r t u n i z m i"],
-  "opportunismo": ["o pː o r t u n i z m o"],
-  "opportunista": ["o pː o r t u n i s t a"],
-  "opportuniste": ["o pː o r t u n i s t e"],
-  "opportunisti": ["o pː o r t u n i s t i"],
-  "opportunità": ["o pː o r t u n i t a"],
-  "opportuno": ["o pː o r t u n o"],
-  "oppose": ["o pː o s e"],
-  "opposero": ["o pː o s e r o"]
+  "oligopolistici": [
+    "oliɡopolistitʃi"
+  ],
+  "oligopolistico": [
+    "oliɡopolistiko"
+  ],
+  "oligopsonistico": [
+    "oliɡopsonistiko"
+  ],
+  "oligosaccaride": [
+    "ɔliɡosakːaride"
+  ],
+  "oligosaccaridica": [
+    "oliɡosakːaridika"
+  ],
+  "oligosaccaridiche": [
+    "oliɡosakːaridike"
+  ],
+  "oligosaccaridici": [
+    "oliɡosakːariditʃi"
+  ],
+  "oligosaccaridico": [
+    "oliɡosakːaridiko"
+  ],
+  "oligotrofico": [
+    "oliɡotrɔfiko"
+  ],
+  "oliguria": [
+    "oliɡurja"
+  ],
+  "olimpiade": [
+    "olimpiade"
+  ],
+  "olimpiadi": [
+    "olimpiadi"
+  ],
+  "olimpico": [
+    "olimpiko"
+  ],
+  "olimpionico": [
+    "olimpjɔniko"
+  ],
+  "olimpo": [
+    "olimpo"
+  ],
+  "olio": [
+    "ɔljo",
+    "ɔljɔ"
+  ],
+  "olire": [
+    "olire"
+  ],
+  "olisco": [
+    "olisko"
+  ],
+  "olismo": [
+    "olizmo"
+  ],
+  "olistico": [
+    "olistiko"
+  ],
+  "oliva": [
+    "oliva"
+  ],
+  "olivastro": [
+    "olivastro"
+  ],
+  "olive": [
+    "olive"
+  ],
+  "oliveto": [
+    "oliveto"
+  ],
+  "olivetta": [
+    "olivetːa"
+  ],
+  "olivi": [
+    "ɔlivi"
+  ],
+  "olivicoltura": [
+    "olivikoltura"
+  ],
+  "olivicolture": [
+    "olivikolture"
+  ],
+  "oliviero": [
+    "olivjɛro"
+  ],
+  "olivina": [
+    "olivina"
+  ],
+  "olivo": [
+    "olivo",
+    "ɔlivo"
+  ],
+  "olmacee": [
+    "olmatʃee"
+  ],
+  "olmeca": [
+    "olmɛka"
+  ],
+  "olmeche": [
+    "olmɛke"
+  ],
+  "olmechi": [
+    "olmɛki"
+  ],
+  "olmeco": [
+    "olmɛko"
+  ],
+  "olmi": [
+    "ɔlmi"
+  ],
+  "olmio": [
+    "ɔlmjo"
+  ],
+  "olmo": [
+    "olmo",
+    "ɔlmɔ"
+  ],
+  "oloblastico": [
+    "oloblastiko"
+  ],
+  "olocausti": [
+    "olokawsti"
+  ],
+  "olocausto": [
+    "olokausto",
+    "olokawsto"
+  ],
+  "olocefali": [
+    "olotʃɛfali"
+  ],
+  "olocene": [
+    "olotʃɛne"
+  ],
+  "olocenico": [
+    "olotʃɛniko"
+  ],
+  "olocrina": [
+    "olɔkrina"
+  ],
+  "olocrine": [
+    "olɔkrine"
+  ],
+  "olocrini": [
+    "olɔkrini"
+  ],
+  "olocrino": [
+    "olɔkrino"
+  ],
+  "olocristallina": [
+    "olokristalːina"
+  ],
+  "olocristalline": [
+    "olokristalːine"
+  ],
+  "olocristallini": [
+    "olokristalːini"
+  ],
+  "olocristallino": [
+    "olokristalːino"
+  ],
+  "olofrastico": [
+    "olofrastiko"
+  ],
+  "ologenesi": [
+    "olodʒɛnezi"
+  ],
+  "ologenetico": [
+    "olodʒenɛtiko"
+  ],
+  "olografa": [
+    "olɔɡrafa"
+  ],
+  "olografe": [
+    "olɔɡrafe"
+  ],
+  "olografi": [
+    "olɔɡrafi"
+  ],
+  "olografia": [
+    "oloɡrafia"
+  ],
+  "olografo": [
+    "olɔɡrafo"
+  ],
+  "ologramma": [
+    "oloɡramːa"
+  ],
+  "olomorfa": [
+    "olomɔrfa"
+  ],
+  "olomorfe": [
+    "olomɔrfe"
+  ],
+  "olomorfi": [
+    "olomɔrfi"
+  ],
+  "olomorfo": [
+    "olomɔrfo"
+  ],
+  "olore": [
+    "olore"
+  ],
+  "olorima": [
+    "olorima"
+  ],
+  "olorime": [
+    "olorime"
+  ],
+  "olosomo": [
+    "olɔsomo"
+  ],
+  "olotipo": [
+    "olotipo"
+  ],
+  "oloturia": [
+    "loturja",
+    "oloturja"
+  ],
+  "oltra": [
+    "oltra"
+  ],
+  "oltracciò": [
+    "oltratːʃɔ"
+  ],
+  "oltracotante": [
+    "oltrakotante"
+  ],
+  "oltraggi": [
+    "oltradːʒi"
+  ],
+  "oltraggiato": [
+    "oltradːʒato"
+  ],
+  "oltraggio": [
+    "oltradːʒo"
+  ],
+  "oltraggioso": [
+    "oltradːʒoso",
+    "oltradːʒozo"
+  ],
+  "oltramondano": [
+    "oltramondano"
+  ],
+  "oltramontano": [
+    "oltramontano"
+  ],
+  "oltranaturale": [
+    "oltranaturale"
+  ],
+  "oltranza": [
+    "oltrantsa"
+  ],
+  "oltranzista": [
+    "oltrantsista"
+  ],
+  "oltranziste": [
+    "oltrantsiste"
+  ],
+  "oltranzisti": [
+    "oltrantsisti"
+  ],
+  "oltre": [
+    "oltre"
+  ],
+  "oltremanica": [
+    "oltremanika"
+  ],
+  "oltremare": [
+    "oltremare"
+  ],
+  "oltremodo": [
+    "oltremɔdo"
+  ],
+  "oltremondanità": [
+    "oltremondanita"
+  ],
+  "oltremondano": [
+    "oltremondano"
+  ],
+  "oltrenaturale": [
+    "oltrenaturale"
+  ],
+  "oltreoceano": [
+    "oltreotʃɛano"
+  ],
+  "oltrepassabile": [
+    "oltrepasːabile"
+  ],
+  "oltrepassante": [
+    "oltrepasːante"
+  ],
+  "oltrepassare": [
+    "oltrepasːare"
+  ],
+  "oltrepassato": [
+    "oltrepasːato"
+  ],
+  "oltretomba": [
+    "oltretomba"
+  ],
+  "omaggi": [
+    "omadːʒi"
+  ],
+  "omaggiato": [
+    "omadːʒato"
+  ],
+  "omaggio": [
+    "omadːʒo"
+  ],
+  "omai": [
+    "omaj"
+  ],
+  "oman": [
+    "oman"
+  ],
+  "omanita": [
+    "omanita"
+  ],
+  "omanite": [
+    "omanite"
+  ],
+  "omaniti": [
+    "omaniti"
+  ],
+  "omar": [
+    "omar",
+    "ɔmar"
+  ],
+  "omaro": [
+    "ɔmaro"
+  ],
+  "ombelicale": [
+    "ombelikale"
+  ],
+  "ombelicali": [
+    "ombelikali"
+  ],
+  "ombelichi": [
+    "ɔmbɛliki"
+  ],
+  "ombelico": [
+    "ombeliko"
+  ],
+  "ombellicale": [
+    "ombelːikale"
+  ],
+  "ombellicali": [
+    "ombelːikali"
+  ],
+  "ombellichi": [
+    "ombelːiki"
+  ],
+  "ombellico": [
+    "ombelːiko"
+  ],
+  "ombra": [
+    "ombra",
+    "ɔmbra"
+  ],
+  "ombre": [
+    "ɔmbre"
+  ],
+  "ombreggiato": [
+    "ombredːʒato"
+  ],
+  "ombrella": [
+    "ombrɛlːa"
+  ],
+  "ombrelle": [
+    "ombrɛlːe"
+  ],
+  "ombrelli": [
+    "ombrɛlːi"
+  ],
+  "ombrello": [
+    "ombrɛlːo"
+  ],
+  "ombrellone": [
+    "ombrelːone"
+  ],
+  "ombretti": [
+    "ombretːi"
+  ],
+  "ombretto": [
+    "ombretːo"
+  ],
+  "ombrifero": [
+    "ombrifero"
+  ],
+  "ombroso": [
+    "ombrozo"
+  ],
+  "omega": [
+    "omɛɡa",
+    "ɔmeɡa"
+  ],
+  "omelia": [
+    "omelia",
+    "omelja"
+  ],
+  "omento": [
+    "omento"
+  ],
+  "omeopata": [
+    "omeɔpata"
+  ],
+  "omeopate": [
+    "omeɔpate"
+  ],
+  "omeopati": [
+    "omeɔpati"
+  ],
+  "omeopatia": [
+    "omeopatia"
+  ],
+  "omeopatica": [
+    "omeopatika"
+  ],
+  "omeopatiche": [
+    "omeopatike"
+  ],
+  "omeopatici": [
+    "omeopatitʃi"
+  ],
+  "omeopatico": [
+    "omeopatiko"
+  ],
+  "omeostasi": [
+    "omeɔstazi"
+  ],
+  "omeostatico": [
+    "omeostatiko"
+  ],
+  "omeotermo": [
+    "omeotɛrmo"
+  ],
+  "omerale": [
+    "omerale"
+  ],
+  "omerali": [
+    "omerali"
+  ],
+  "omeri": [
+    "ɔmeri"
+  ],
+  "omerica": [
+    "omɛrika"
+  ],
+  "omericamente": [
+    "omerikamente"
+  ],
+  "omeriche": [
+    "omɛrike"
+  ],
+  "omerici": [
+    "omɛriki"
+  ],
+  "omerico": [
+    "omɛriko"
+  ],
+  "omero": [
+    "ɔmero"
+  ],
+  "omertà": [
+    "omerta"
+  ],
+  "omertosamente": [
+    "omertosamente",
+    "omertozamente"
+  ],
+  "omertoso": [
+    "omertoso",
+    "omertozo"
+  ],
+  "omesso": [
+    "o"
+  ],
+  "omettere": [
+    "ometːere"
+  ],
+  "ometto": [
+    "ometːo"
+  ],
+  "omicida": [
+    "omitʃida"
+  ],
+  "omicidi": [
+    "omitʃidi"
+  ],
+  "omicidiale": [
+    "omitʃidjale"
+  ],
+  "omicidio": [
+    "omitʃidjo"
+  ],
+  "omiletica": [
+    "omilɛtika"
+  ],
+  "ominazione": [
+    "ominatːsjone"
+  ],
+  "omini": [
+    "omini",
+    "ɔmini"
+  ],
+  "ominide": [
+    "ominide"
+  ],
+  "ominidi": [
+    "ominidi"
+  ],
+  "omino": [
+    "omino"
+  ],
+  "ominoidei": [
+    "ominojdɛi"
+  ],
+  "ominoideo": [
+    "ominojdɛo"
+  ],
+  "ominoso": [
+    "ominoso",
+    "ominozo"
+  ],
+  "omissione": [
+    "omisːjone"
+  ],
+  "omissioni": [
+    "omisːjoni"
+  ],
+  "ommatostrefi": [
+    "omːatostrɛfi"
+  ],
+  "ommatostrefo": [
+    "omːatostrɛfo"
+  ],
+  "omnibus": [
+    "ɔmnibus"
+  ],
+  "omo": [
+    "ɔmo"
+  ],
+  "omocromia": [
+    "ɔmokromia"
+  ],
+  "omocromie": [
+    "ɔmokromie"
+  ],
+  "omoerotico": [
+    "ɔmoerɔtiko"
+  ],
+  "omofaga": [
+    "omɔfaɡa"
+  ],
+  "omofaghe": [
+    "omɔfaɡe"
+  ],
+  "omofagi": [
+    "omɔfadʒi"
+  ],
+  "omofago": [
+    "omɔfaɡo"
+  ],
+  "omofilia": [
+    "omofilia"
+  ],
+  "omofobia": [
+    "omofobia"
+  ],
+  "omofobie": [
+    "omofobie"
+  ],
+  "omofobo": [
+    "omɔfobo"
+  ],
+  "omofonia": [
+    "omofonia"
+  ],
+  "omofono": [
+    "omɔfono"
+  ],
+  "omogenea": [
+    "omodʒɛnea"
+  ],
+  "omogeneamente": [
+    "omodʒeneamente"
+  ],
+  "omogenee": [
+    "omodʒɛnee"
+  ],
+  "omogenei": [
+    "omodʒɛnei"
+  ],
+  "omogeneità": [
+    "omodʒeneita"
+  ],
+  "omogeneizzare": [
+    "omodʒeneidːzare",
+    "omodʒenidːzare"
+  ],
+  "omogeneizzato": [
+    "omodʒeneidːzato"
+  ],
+  "omogeneizzazione": [
+    "omodʒeneidːzatsjone"
+  ],
+  "omogeneo": [
+    "omodʒɛneo"
+  ],
+  "omogenetico": [
+    "omodʒenɛtiko"
+  ],
+  "omogenismo": [
+    "omodʒenizmo"
+  ],
+  "omografia": [
+    "omoɡrafia"
+  ],
+  "omolaterale": [
+    "omolaterale"
+  ],
+  "omolaterali": [
+    "omolaterali"
+  ],
+  "omolisi": [
+    "omolizi"
+  ],
+  "omologa": [
+    "omɔloɡa"
+  ],
+  "omologabile": [
+    "omoloɡabile"
+  ],
+  "omologabili": [
+    "omoloɡabili"
+  ],
+  "omologare": [
+    "omoloɡare"
+  ],
+  "omologazione": [
+    "omoloɡatsjone"
+  ],
+  "omologia": [
+    "omolodʒia"
+  ],
+  "omologo": [
+    "omɔloɡo"
+  ],
+  "omone": [
+    "omone"
+  ],
+  "omonima": [
+    "omɔnima"
+  ],
+  "omonime": [
+    "omɔnime"
+  ],
+  "omonimi": [
+    "omɔnimi"
+  ],
+  "omonimia": [
+    "omonimia",
+    "omonimja"
+  ],
+  "omonimico": [
+    "omonimiko"
+  ],
+  "omonimo": [
+    "omɔnimo"
+  ],
+  "omoplastico": [
+    "omoplastiko",
+    "ɔmoplastiko"
+  ],
+  "omosessuale": [
+    "omosesːuale",
+    "ɔmosesːuale"
+  ],
+  "omosessuali": [
+    "ɔmosesːuali"
+  ],
+  "omosessualità": [
+    "omosesːualita"
+  ],
+  "omotermia": [
+    "omotermia"
+  ],
+  "omotermo": [
+    "omotɛrmo"
+  ],
+  "omotopia": [
+    "omotopia"
+  ],
+  "omotossicologia": [
+    "omotosːikolodʒia"
+  ],
+  "omotossicologica": [
+    "omotosːikolɔdʒika"
+  ],
+  "omotossicologiche": [
+    "omotosːikolɔdʒike"
+  ],
+  "omotossicologici": [
+    "omotosːikolɔdʒitʃi"
+  ],
+  "omotossicologico": [
+    "omotosːikolɔdʒiko"
+  ],
+  "omotossicologie": [
+    "omotosːikolodʒie"
+  ],
+  "omotteri": [
+    "omɔtːeri"
+  ],
+  "omottero": [
+    "omɔtːero"
+  ],
+  "onagri": [
+    "onaɡri"
+  ],
+  "onagro": [
+    "onaɡro",
+    "ɔnaɡro"
+  ],
+  "onagrocrazia": [
+    "onaɡrokratːsia"
+  ],
+  "onanismo": [
+    "onanizmo"
+  ],
+  "oncia": [
+    "ontʃa"
+  ],
+  "onciario": [
+    "ontʃarjo"
+  ],
+  "oncogenesi": [
+    "onkodʒɛnezi"
+  ],
+  "oncogeno": [
+    "onkɔdʒeno"
+  ],
+  "oncologica": [
+    "onkolɔdʒika"
+  ],
+  "oncologiche": [
+    "onkolɔdʒike"
+  ],
+  "oncologici": [
+    "onkolɔdʒitʃi"
+  ],
+  "oncologico": [
+    "onkolɔdʒiko"
+  ],
+  "onda": [
+    "onda",
+    "ɔnda"
+  ],
+  "ondare": [
+    "ondare"
+  ],
+  "ondata": [
+    "ondata"
+  ],
+  "ondato": [
+    "ondato"
+  ],
+  "onde": [
+    "onde",
+    "ɔnde"
+  ],
+  "ondeché": [
+    "ondeke"
+  ],
+  "ondeggiamento": [
+    "ondedːʒamento"
+  ],
+  "ondeggiante": [
+    "ondedːʒante"
+  ],
+  "ondeggiare": [
+    "ondedːʒare"
+  ],
+  "ondeggio": [
+    "ondedːʒo"
+  ],
+  "ondisono": [
+    "ondisono"
+  ],
+  "ondivago": [
+    "ondivaɡo"
+  ],
+  "ondulato": [
+    "ondulato"
+  ],
+  "onduras": [
+    "onduras"
+  ],
+  "onduregna": [
+    "ondureɲɲa"
+  ],
+  "onduregne": [
+    "ondureɲɲe"
+  ],
+  "onduregni": [
+    "ondureɲɲi"
+  ],
+  "onduregno": [
+    "ondureɲɲo"
+  ],
+  "onera": [
+    "ɔnera"
+  ],
+  "onere": [
+    "ɔnere"
+  ],
+  "oneri": [
+    "ɔneri"
+  ],
+  "onerosamente": [
+    "onerosamente"
+  ],
+  "onesta": [
+    "onɛsta"
+  ],
+  "onestà": [
+    "onesta"
+  ],
+  "onestamente": [
+    "onestamente"
+  ],
+  "oneste": [
+    "onɛste"
+  ],
+  "onesti": [
+    "ɔnɛsti"
+  ],
+  "onestissima": [
+    "onɛstisːima"
+  ],
+  "onestissime": [
+    "onɛstisːime"
+  ],
+  "onestissimi": [
+    "onɛstisːimi"
+  ],
+  "onestissimo": [
+    "onɛstisːimo"
+  ],
+  "onesto": [
+    "onɛsto"
+  ],
+  "onice": [
+    "ɔnitʃe"
+  ],
+  "onichia": [
+    "onikia"
+  ],
+  "onichie": [
+    "onikie"
+  ],
+  "onicosi": [
+    "onikɔsi"
+  ],
+  "onirico": [
+    "oniriko"
+  ],
+  "onisco": [
+    "onisko"
+  ],
+  "onne": [
+    "ɔnːe"
+  ],
+  "onni": [
+    "ɔnːi"
+  ],
+  "onnicomprensivo": [
+    "ɔnːikomprensivo"
+  ],
+  "onninamente": [
+    "onːinamente"
+  ],
+  "onnipossente": [
+    "onːiposːɛnte"
+  ],
+  "onnipotente": [
+    "onːipotɛnte",
+    "ɔnːipotɛnte"
+  ],
+  "onnipotenti": [
+    "onːipotɛnti"
+  ],
+  "onnipotenza": [
+    "onːipotɛntsa",
+    "ɔnːipotɛntsa"
+  ],
+  "onnipresente": [
+    "onːiprezɛnte"
+  ],
+  "onnipresenti": [
+    "onːiprezɛnti"
+  ],
+  "onnisciente": [
+    "onːiʃʃɛnte"
+  ],
+  "onniscienti": [
+    "onːiʃʃɛnti"
+  ],
+  "onniscienza": [
+    "onːiʃʃɛntsa"
+  ],
+  "onniscienze": [
+    "onːiʃʃɛntse"
+  ],
+  "onnivora": [
+    "onːivora"
+  ],
+  "onnivore": [
+    "onːivore"
+  ],
+  "onnivori": [
+    "onːivori"
+  ],
+  "onnivorismi": [
+    "onːivorizmi"
+  ],
+  "onnivorismo": [
+    "onːivorizmo"
+  ],
+  "onnivoro": [
+    "onːivoro"
+  ],
+  "onomasiologia": [
+    "onomazjolodʒia"
+  ],
+  "onomasiologie": [
+    "onomazjolodʒie"
+  ],
+  "onomastica": [
+    "onomastika"
+  ],
+  "onomastiche": [
+    "onomastike"
+  ],
+  "onomastici": [
+    "onomastitʃi"
+  ],
+  "onomastico": [
+    "onomastiko"
+  ],
+  "onomatopea": [
+    "onomatopɛa"
+  ],
+  "onomatopeico": [
+    "onomatopɛiko"
+  ],
+  "onomaturga": [
+    "onomaturɡa"
+  ],
+  "onomaturgo": [
+    "onomaturɡo"
+  ],
+  "onorabile": [
+    "onorabile"
+  ],
+  "onorabili": [
+    "onorabili"
+  ],
+  "onorabilità": [
+    "onorabilita"
+  ],
+  "onorabilmente": [
+    "onorabilmente"
+  ],
+  "onorante": [
+    "onorante"
+  ],
+  "onoranza": [
+    "onorantsa"
+  ],
+  "onorare": [
+    "onorare"
+  ],
+  "onorari": [
+    "onorari"
+  ],
+  "onoraria": [
+    "onorarja"
+  ],
+  "onorarie": [
+    "onorarje"
+  ],
+  "onorario": [
+    "onorarjo"
+  ],
+  "onorarsi": [
+    "onorarsi"
+  ],
+  "onorata": [
+    "onorata"
+  ],
+  "onoratamente": [
+    "onoratamente"
+  ],
+  "onorate": [
+    "onorate"
+  ],
+  "onorati": [
+    "onorati"
+  ],
+  "onorativo": [
+    "onorativo"
+  ],
+  "onorato": [
+    "onorato"
+  ],
+  "onore": [
+    "onore"
+  ],
+  "onorevole": [
+    "onorevole"
+  ],
+  "onori": [
+    "onori"
+  ],
+  "onorifica": [
+    "onorifika"
+  ],
+  "onorificenza": [
+    "onorifitʃɛntsa"
+  ],
+  "onorificenze": [
+    "onorifitʃɛntse"
+  ],
+  "onorifiche": [
+    "onorifike"
+  ],
+  "onorifici": [
+    "onorifitʃi"
+  ],
+  "onorifico": [
+    "onorifiko"
+  ],
+  "onranza": [
+    "onrantsa"
+  ],
+  "onrare": [
+    "onrare"
+  ],
+  "onrato": [
+    "onrato"
+  ],
+  "onta": [
+    "onta"
+  ],
+  "ontani": [
+    "ontano"
+  ],
+  "ontano": [
+    "ontano"
+  ],
+  "ontariana": [
+    "ontarjana"
+  ],
+  "ontariane": [
+    "ontarjane"
+  ],
+  "ontariani": [
+    "ontarjani"
+  ],
+  "ontariano": [
+    "ontarjano"
+  ],
+  "ontogenesi": [
+    "ontodʒɛnezi"
+  ],
+  "ontogenetico": [
+    "ontodʒenɛtiko"
+  ],
+  "ontologa": [
+    "ontolɔɡa"
+  ],
+  "ontologe": [
+    "ontolɔɡe"
+  ],
+  "ontologi": [
+    "ontolɔdʒi"
+  ],
+  "ontologia": [
+    "ontolodʒia"
+  ],
+  "ontologica": [
+    "ontolɔdʒika"
+  ],
+  "ontologiche": [
+    "ontolɔdʒike"
+  ],
+  "ontologici": [
+    "ontolɔdʒiki",
+    "ontolɔdʒitʃi"
+  ],
+  "ontologico": [
+    "ontolɔdʒiko"
+  ],
+  "ontologie": [
+    "ontolodʒie"
+  ],
+  "ontologismi": [
+    "ontolodʒizmi"
+  ],
+  "ontologismo": [
+    "ontolodʒizmo"
+  ],
+  "ontologista": [
+    "ontolodʒista"
+  ],
+  "ontologiste": [
+    "ontolodʒiste"
+  ],
+  "ontologisti": [
+    "ontolodʒisti"
+  ],
+  "ontologizzare": [
+    "ontolodʒidːʒare"
+  ],
+  "ontologo": [
+    "ontolɔɡo"
+  ],
+  "ontoso": [
+    "ontozo"
+  ],
+  "onu": [
+    "ɔnu"
+  ],
+  "onusta": [
+    "onusta"
+  ],
+  "onuste": [
+    "onuste"
+  ],
+  "onusti": [
+    "onusti"
+  ],
+  "onusto": [
+    "onusto"
+  ],
+  "ooblasto": [
+    "ooblasto"
+  ],
+  "oosfera": [
+    "oosfɛra"
+  ],
+  "ooteca": [
+    "ootɛka"
+  ],
+  "opa": [
+    "opa"
+  ],
+  "opacimetri": [
+    "opatʃimetri"
+  ],
+  "opacimetro": [
+    "opatʃimetro"
+  ],
+  "opacità": [
+    "opatʃita"
+  ],
+  "opacizzare": [
+    "opatʃidːzare"
+  ],
+  "opaco": [
+    "opako"
+  ],
+  "opale": [
+    "opale"
+  ],
+  "opalescente": [
+    "opaleʃʃɛnte"
+  ],
+  "opalescenti": [
+    "opaleʃʃɛnti"
+  ],
+  "opali": [
+    "opali"
+  ],
+  "opelanda": [
+    "opelanda"
+  ],
+  "opera": [
+    "opera",
+    "ɔpera"
+  ],
+  "operabile": [
+    "operabile"
+  ],
+  "operabili": [
+    "operabili"
+  ],
+  "operai": [
+    "operai"
+  ],
+  "operaia": [
+    "operaja"
+  ],
+  "operaie": [
+    "operaje"
+  ],
+  "operaio": [
+    "operajo"
+  ],
+  "operaismo": [
+    "operaizmo"
+  ],
+  "operante": [
+    "operante"
+  ],
+  "operare": [
+    "operare"
+  ],
+  "operarsi": [
+    "operarsi"
+  ],
+  "operata": [
+    "operata"
+  ],
+  "operate": [
+    "operate"
+  ],
+  "operati": [
+    "operati"
+  ],
+  "operatività": [
+    "operativita"
+  ],
+  "operativo": [
+    "operativo"
+  ],
+  "operato": [
+    "operato"
+  ],
+  "operatore": [
+    "operatore"
+  ],
+  "operatori": [
+    "operatɔri"
+  ],
+  "operatoria": [
+    "operatɔrja"
+  ],
+  "operatorie": [
+    "operatɔrje"
+  ],
+  "operatorio": [
+    "operatɔrjo"
+  ],
+  "operatrice": [
+    "operatritʃe"
+  ],
+  "operatrici": [
+    "operatritʃi"
+  ],
+  "operazione": [
+    "operatsjone"
+  ],
+  "operazioni": [
+    "operatsjoni"
+  ],
+  "opercoli": [
+    "operkoli"
+  ],
+  "opercolo": [
+    "operkolo"
+  ],
+  "opere": [
+    "opere",
+    "ɔpere"
+  ],
+  "operetta": [
+    "operetːa"
+  ],
+  "operette": [
+    "operetːe"
+  ],
+  "operi": [
+    "ɔpero"
+  ],
+  "operosa": [
+    "operosa",
+    "operoza",
+    "ɔpɛrɔza"
+  ],
+  "operosamente": [
+    "operosamente"
+  ],
+  "operose": [
+    "operose",
+    "operoze",
+    "ɔpɛrɔze"
+  ],
+  "operosi": [
+    "operosi",
+    "operozi",
+    "ɔpɛrɔzi"
+  ],
+  "operoso": [
+    "operoso",
+    "operozo",
+    "ɔpɛrɔzɔ"
+  ],
+  "opifici": [
+    "opifitʃi"
+  ],
+  "opificio": [
+    "opifitʃo"
+  ],
+  "opimo": [
+    "opimo"
+  ],
+  "opinabile": [
+    "opinabile"
+  ],
+  "opinare": [
+    "opinare"
+  ],
+  "opinione": [
+    "opinjone"
+  ],
+  "opinioni": [
+    "opinjoni"
+  ],
+  "opinionista": [
+    "opinjonista"
+  ],
+  "opinioniste": [
+    "opinjoniste"
+  ],
+  "opinionisti": [
+    "opinjonisti"
+  ],
+  "opistonefro": [
+    "opistonɛfro"
+  ],
+  "opistosoma": [
+    "opistosɔma"
+  ],
+  "opistosomi": [
+    "opistosɔmi"
+  ],
+  "oplita": [
+    "oplita"
+  ],
+  "oplomachia": [
+    "oplomakja"
+  ],
+  "opossum": [
+    "opɔsːum"
+  ],
+  "oppi": [
+    "ɔpːi"
+  ],
+  "oppiaceo": [
+    "opːjatʃeo"
+  ],
+  "oppido": [
+    "ɔpːido"
+  ],
+  "oppilare": [
+    "opːilare"
+  ],
+  "oppilazione": [
+    "opːilatːsjone"
+  ],
+  "oppio": [
+    "ɔpːjo"
+  ],
+  "oppioide": [
+    "opːiɔjde",
+    "opːjɔjde"
+  ],
+  "oppone": [
+    "opːone"
+  ],
+  "opponemmo": [
+    "opːonemːo"
+  ],
+  "opponendo": [
+    "opːonendo"
+  ],
+  "opponente": [
+    "opːonente"
+  ],
+  "opponenti": [
+    "opːonenti"
+  ],
+  "opponesse": [
+    "opːonesːe"
+  ],
+  "opponessero": [
+    "opːonesːero"
+  ],
+  "opponessi": [
+    "opːonesːi"
+  ],
+  "opponessimo": [
+    "opːonesːimo"
+  ],
+  "opponeste": [
+    "opːonːeste"
+  ],
+  "opponesti": [
+    "opːonesti"
+  ],
+  "opponete": [
+    "opːonete"
+  ],
+  "opponeva": [
+    "opːoneva"
+  ],
+  "opponevamo": [
+    "opːonevamo"
+  ],
+  "opponevano": [
+    "opːonevano"
+  ],
+  "opponevate": [
+    "opːonevate"
+  ],
+  "opponevi": [
+    "opːonevi"
+  ],
+  "opponevo": [
+    "opːonevo"
+  ],
+  "opponga": [
+    "opːonɡa"
+  ],
+  "oppongano": [
+    "opːonɡano"
+  ],
+  "oppongo": [
+    "opːonɡo"
+  ],
+  "oppongono": [
+    "opːonɡono"
+  ],
+  "opponi": [
+    "opːoni"
+  ],
+  "opponiamo": [
+    "opːonjamo"
+  ],
+  "opponiate": [
+    "opːonjate"
+  ],
+  "opponibile": [
+    "opːonibile"
+  ],
+  "opponibilità": [
+    "opːonibilita"
+  ],
+  "opporrà": [
+    "porːa"
+  ],
+  "opporrai": [
+    "opːorːai"
+  ],
+  "opporranno": [
+    "opːorːanːo"
+  ],
+  "opporre": [
+    "opːorːe"
+  ],
+  "opporrebbe": [
+    "opːorːebːe"
+  ],
+  "opporrebbero": [
+    "opːorːebːero"
+  ],
+  "opporrei": [
+    "opːorːei"
+  ],
+  "opporremmo": [
+    "opːorːemo"
+  ],
+  "opporremo": [
+    "opːorːemo"
+  ],
+  "opporreste": [
+    "opːorːeste"
+  ],
+  "opporresti": [
+    "opːorːesti"
+  ],
+  "opporrete": [
+    "opːorːete"
+  ],
+  "opporrò": [
+    "opːorːo"
+  ],
+  "opporsi": [
+    "opːorsi"
+  ],
+  "opportunamente": [
+    "opːortunamente"
+  ],
+  "opportunismi": [
+    "opːortunizmi"
+  ],
+  "opportunismo": [
+    "opːortunizmo"
+  ],
+  "opportunista": [
+    "opːortunista"
+  ],
+  "opportuniste": [
+    "opːortuniste"
+  ],
+  "opportunisti": [
+    "opːortunisti"
+  ],
+  "opportunità": [
+    "opːortunita"
+  ],
+  "opportuno": [
+    "opːortuno"
+  ],
+  "oppose": [
+    "opːose"
+  ],
+  "opposero": [
+    "opːosero"
+  ]
 }

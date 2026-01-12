@@ -1,502 +1,1529 @@
 {
-  "arrendere": ["a rː ɛ n d e r e"],
-  "arrendersi": ["a rː ɛ n d e r s i"],
-  "arrendevole": ["a rː e n d e v o l e"],
-  "arrendevolmente": ["a rː e n d e v o l m e n t e"],
-  "arreso": ["a rː e s o", "a rː e z o"],
-  "arresta": ["a rː e s t a"],
-  "arrestabile": ["a rː e s t a b i l e"],
-  "arrestabili": ["a rː e s t a b i l i"],
-  "arrestai": ["a rː e s t a i"],
-  "arrestammo": ["a rː e s t a mː o"],
-  "arrestando": ["a rː e s t a n d o"],
-  "arrestano": ["a rː e s t a n o"],
-  "arrestante": ["a rː e s t a n t e"],
-  "arrestare": ["a rː e s t a r e"],
-  "arrestarono": ["a rː e s t a r o n o"],
-  "arrestarsi": ["a rː e s t a r s i"],
-  "arrestasse": ["a rː e s t a sː e"],
-  "arrestassero": ["a rː e s t a sː e r o"],
-  "arrestassi": ["a rː e s t a sː i"],
-  "arrestassimo": ["a rː e s t a sː i m o"],
-  "arrestaste": ["a rː e s t a s t e"],
-  "arrestasti": ["a rː e s t a s t i"],
-  "arrestate": ["a rː e s t a t e"],
-  "arrestato": ["a rː e s t a t o"],
-  "arrestava": ["a rː e s t a v a"],
-  "arrestavamo": ["a rː e s t a v a m o"],
-  "arrestavano": ["a rː e s t a v a n o"],
-  "arrestavate": ["a rː e s t a v a t e"],
-  "arrestavi": ["a rː e s t a v i"],
-  "arrestavo": ["a rː e s t a v o"],
-  "arresterà": ["a rː e s t e r a"],
-  "arresterai": ["a rː e s t e r a i"],
-  "arresteranno": ["a rː e s t e r a nː o"],
-  "arresterebbe": ["a rː e s t e r e bː e"],
-  "arresterebbero": ["a rː e s t e r e bː e r o"],
-  "arresterei": ["a rː e s t e r e i"],
-  "arresteremmo": ["a rː e s t e r e mː o"],
-  "arresteremo": ["a rː e s t e r e m o"],
-  "arrestereste": ["a rː e s t e r e s t e"],
-  "arresteresti": ["a rː e s t e r e s t i"],
-  "arresterete": ["a rː e s t e r e t e"],
-  "arresterò": ["a rː e s t e r o"],
-  "arresti": ["a rː e s t i"],
-  "arrestiamo": ["a rː e s t j a m o"],
-  "arrestiate": ["a rː e s t j a t e"],
-  "arrestino": ["a rː e s t i n o"],
-  "arresto": ["a rː e s t o", "a rː ɛ s t o", "a rː ɛ s t ɔ"],
-  "arrestò": ["a rː e s t o"],
-  "arretramento": ["a rː e t r a m e n t o"],
-  "arretratezza": ["a rː e t r a t e tː s a"],
-  "arretratezze": ["a rː e t r a t e tː s e"],
-  "arretrato": ["a rː e t r a t o"],
-  "arri": ["a rː i"],
-  "arricchente": ["a rː i kː e n t e"],
-  "arricchimenti": ["a rː i k i m e n t i"],
-  "arricchimento": ["a rː i k i m e n t o", "a rː i kː i m e n t o"],
-  "arricchire": ["a rː i kː i r e"],
-  "arricchirsi": ["a rː i kː i r s i"],
-  "arricchita": ["a rː i kː i t a"],
-  "arricchite": ["a rː i kː i t e"],
-  "arricchiti": ["a rː i kː i t i"],
-  "arricchito": ["a rː i kː i t o"],
-  "arricciaburro": ["a rː i dː z a b u rː o", "a rː i tː ʃ a b u rː o"],
-  "arricciacapelli": ["a rː i dː z a k a p e lː i"],
-  "arricciare": ["a rː i tː ʃ a r e"],
-  "arricciato": ["a rː i tː ʃ a t o"],
-  "arricciolare": ["a rː i tː ʃ o l a r e"],
-  "arridere": ["a rː i d e r e"],
-  "arrigo": ["a rː i ɡ o"],
-  "arringa": ["a rː i n ɡ a"],
-  "arringare": ["a rː i n ɡ a r e"],
-  "arringhe": ["a rː i n ɡ e"],
-  "arrischiante": ["a rː i s k j a n t e"],
-  "arrischiare": ["a rː i s k j a r e"],
-  "arrischiarsi": ["a rː i s k j a r s i"],
-  "arrischiatamente": ["a rː i s k j a t a m e n t e"],
-  "arrischiato": ["a rː i s k i a t o", "a rː i s k j a t o"],
-  "arriva": ["a rː i v a"],
-  "arrivai": ["a rː i v a i"],
-  "arrivammo": ["a rː i v a mː o"],
-  "arrivando": ["a rː i v a n d o"],
-  "arrivano": ["a rː i v a n o"],
-  "arrivante": ["a rː i v a n t e"],
-  "arrivanti": ["a rː i v a n t i"],
-  "arrivare": ["a rː i v a r e"],
-  "arrivarono": ["a rː i v a r o n o"],
-  "arrivasse": ["a rː i v a sː e"],
-  "arrivassero": ["a rː i v a sː e r o"],
-  "arrivassi": ["a rː i v a sː i"],
-  "arrivassimo": ["a rː i v a sː i m o"],
-  "arrivaste": ["a rː i v a s t e"],
-  "arrivasti": ["a rː i v a s t i"],
-  "arrivata": ["a rː i v a t a"],
-  "arrivate": ["a rː i v a t e"],
-  "arrivati": ["a rː i v a t i"],
-  "arrivato": ["a rː i v a t o"],
-  "arrivava": ["a rː i v a v a"],
-  "arrivavamo": ["a rː i v a v a m o"],
-  "arrivavano": ["a rː i v a v a n o"],
-  "arrivavate": ["a rː i v a v a t e"],
-  "arrivavi": ["a rː i v a v i"],
-  "arrivavo": ["a rː i v a v o"],
-  "arrivedella": ["a rː i v e d e lː a"],
-  "arrivederci": ["a rː i v e d e r t ʃ i"],
-  "arrivederla": ["a rː i v e d e r l a"],
-  "arriverà": ["a rː i v e r a"],
-  "arriverai": ["a rː i v e r a i"],
-  "arriveranno": ["a rː i v e r a nː o"],
-  "arriverebbe": ["a rː i v e r e bː e"],
-  "arriverebbero": ["a rː i v e r e bː e r o"],
-  "arriverei": ["a rː i v e r e i"],
-  "arriveremmo": ["a rː i v e r e mː o"],
-  "arriveremo": ["a rː i v e r e m o"],
-  "arrivereste": ["a rː i v e r e s t e"],
-  "arriveresti": ["a rː i v e r e s t i"],
-  "arriverete": ["a rː i v e r e t e"],
-  "arriverò": ["a rː i v e r o"],
-  "arrivi": ["a rː i v i"],
-  "arriviamo": ["a rː i v j a m o"],
-  "arriviate": ["a rː i v j a t e"],
-  "arrivino": ["a rː i v i n o"],
-  "arrivismi": ["a rː i v i z m i"],
-  "arrivismo": ["a rː i v i z m o"],
-  "arrivista": ["a rː i v i s t a"],
-  "arriviste": ["a rː i v i s t e"],
-  "arrivisti": ["a rː i v i s t i"],
-  "arrivo": ["a rː i v o"],
-  "arrivò": ["a rː i v o"],
-  "arroccare": ["a rː o kː a r e"],
-  "arroccato": ["a rː o kː a t o"],
-  "arrocchi": ["a rː ɔ kː i"],
-  "arrocco": ["a rː ɔ kː o"],
-  "arrochito": ["a rː o k i t o"],
-  "arrogante": ["a rː o ɡ a n t e"],
-  "arrogantemente": ["a rː o ɡ a n t e m e n t e"],
-  "arroganti": ["a rː o ɡ a n t i"],
-  "arroganza": ["a rː o ɡ a n t s a"],
-  "arroganze": ["a rː o ɡ a n t s e"],
-  "arrogare": ["a rː o ɡ a r e"],
-  "arroge": ["a rː ɔ d ʒ e"],
-  "arrogere": ["a rː ɔ d ʒ e r e"],
-  "arrogi": ["a rː ɔ d ʒ i"],
-  "arrolare": ["a rː o l a r e"],
-  "arroncigliare": ["a rː o n t ʃ i ʎ a r e"],
-  "arrossamenti": ["a rː o sː a m e n t i"],
-  "arrossamento": ["a rː o sː a m e n t o"],
-  "arrossare": ["a rː o sː a r e"],
-  "arrossato": ["a rː o sː a t o"],
-  "arrossire": ["a rː o sː i r e"],
-  "arrostare": ["a rː o s t a r e"],
-  "arrostente": ["a rː o s t e n t e"],
-  "arrostereste": ["a rː o s t e r e s t e"],
-  "arrosticino": ["a rː o s t i t ʃ i n o"],
-  "arrostimento": ["a rː o s t i m e n t o"],
-  "arrostire": ["a rː o s t i r e"],
-  "arrostita": ["a rː o s t i t a"],
-  "arrostite": ["a rː o s t i t e"],
-  "arrostiti": ["a rː o s t i t i"],
-  "arrostito": ["a rː o s t i t o"],
-  "arrostitura": ["a rː o s t i t u r a"],
-  "arrosto": ["a rː ɔ s t o"],
-  "arrotare": ["a rː o t a r e"],
-  "arrotatore": ["a rː o t a t o r e"],
-  "arrotatori": ["a rː o t a t o r i"],
-  "arrotatrice": ["a rː o t a t r i t ʃ e"],
-  "arrotatrici": ["a rː o t a t r i t ʃ i"],
-  "arrotino": ["a rː o t i n o"],
-  "arrotolare": ["a rː o t o l a r e"],
-  "arrotolarsi": ["a rː o t o l a r s i"],
-  "arrotondamenti": ["a rː o t o n d a m e n t i"],
-  "arrotondamento": ["a rː o t o n d a m e n t o"],
-  "arrotondante": ["a rː o t o n d a n t e"],
-  "arrotondare": ["a rː o t o n d a r e", "a rː ɔ t ɔ n d a r e"],
-  "arrotondato": ["a rː o t o n d a t o"],
-  "arrovellare": ["a rː o v e lː a r e"],
-  "arroventare": ["a rː o v e n t a r e"],
-  "arroventato": ["a rː o v e n t a t o"],
-  "arrovesciare": ["a rː o v e ʃ ʃ a r e"],
-  "arruffapopoli": ["a rː u fː a p ɔ p o l i"],
-  "arruffapopolo": ["a rː u fː a p ɔ p o l o"],
-  "arruffare": ["a rː u fː a r e"],
-  "arruffato": ["a rː u fː a t o"],
-  "arruffianamento": ["a rː u fː j a n a m e n t o"],
-  "arruffianare": ["a rː u fː j a n a r e"],
-  "arrugginire": ["a rː u dː ʒ i n i r e"],
-  "arrugginito": ["a rː u dː ʒ i n i t o"],
-  "arruncigliare": ["a rː u n t ʃ i ʎ a r e"],
-  "arruolabile": ["a rː w o l a b i l e"],
-  "arruolabili": ["a rː w o l a b i l i"],
-  "arruolamento": ["a rː w o l a m e n t o"],
-  "arruolante": ["a rː w o l a n t e"],
-  "arruolare": ["a rː w o l a r e"],
-  "arruolarsi": ["a rː w o l a r s i"],
-  "arruolato": ["a rː w o l a t o"],
-  "arruolatore": ["a rː w o l a t o r e"],
-  "arruolatori": ["a rː w o l a t o r i"],
-  "arruolatrice": ["a rː w o l a t r i t ʃ e"],
-  "arruolatrici": ["a rː w o l a t r i t ʃ i"],
-  "arsa": ["a r s a"],
-  "arse": ["a r s e"],
-  "arsella": ["a r s ɛ lː a"],
-  "arsenale": ["a r s e n a l e"],
-  "arsenali": ["a r s e n a l i"],
-  "arsenalotto": ["a r s e n a l ɔ tː o"],
-  "arsenica": ["a r s ɛ n i k a"],
-  "arseniche": ["a r s ɛ n i k e"],
-  "arsenici": ["a r s ɛ n i t ʃ i"],
-  "arsenicismo": ["a r s e n i t ʃ i z m o"],
-  "arsenico": ["a r s ɛ n i k o"],
-  "arsenioso": ["a r s e n j o s o", "a r s e n j o z o"],
-  "arseniuro": ["a r s e n j u r o"],
-  "arsero": ["a r s e r o"],
-  "arsi": ["a r s i"],
-  "arsione": ["a r s j o n e"],
-  "arso": ["a r s o"],
-  "arsura": ["a r s u r a"],
-  "artanita": ["a r t a n i t a"],
-  "artatamente": ["a r t a t a m e n t e"],
-  "arte": ["a r t e"],
-  "artefatto": ["a r t e f a tː o"],
-  "artefice": ["a r t e f i t ʃ e"],
-  "artemisia": ["a r t e m i z j a"],
-  "arteria": ["a r t ɛ r j a"],
-  "arteriectomia": ["a r t e r j e k t o m i a"],
-  "arteriosclerosi": ["a r t ɛ r j o s k l e r ɔ z i", "a r t ɛ r j o s k l ɛ r o z i"],
-  "arterioso": ["a r t e r j o s o", "a r t e r j o z o"],
-  "arterite": ["a r t e r i t e"],
-  "arthrodynies": ["a r t r ɔ d i n i"],
-  "artica": ["a r t i k a"],
-  "artiche": ["a r t i k e"],
-  "artici": ["a r t i t ʃ i"],
-  "articiocco": ["a r t i t ʃ ɔ kː o"],
-  "artico": ["a r t i k o"],
-  "articolabile": ["a r t i k o l a b i l e"],
-  "articolabili": ["a r t i k o l a b i l i"],
-  "articolando": ["a r t i k o l a n d o"],
-  "articolante": ["a r t i k o l a n t e"],
-  "articolare": ["a r t i k o l a r e"],
-  "articolari": ["a r t i k o l a r i"],
-  "articolarsi": ["a r t i k o l a r s i"],
-  "articolata": ["a r t i k o l a t a"],
-  "articolatamente": ["a r t i k o l a t a m e n t e"],
-  "articolate": ["a r t i k o l a t e"],
-  "articolati": ["a r t i k o l a t i"],
-  "articolato": ["a r t i k o l a t o"],
-  "articolatori": ["a r t i k o l a t o r i"],
-  "articolatoria": ["a r t i k o l a t o r j a"],
-  "articolatorie": ["a r t i k o l a t o r j e"],
-  "articolatorio": ["a r t i k o l a t o r j o"],
-  "articolazione": ["a r t i k o l a t s j o n e", "a r t i k o l a tː s j o n e"],
-  "articolazioni": ["a r t i k o l a tː s j o n i"],
-  "articoli": ["a r t i k o l i"],
-  "articolista": ["a r t i k o l i s t a"],
-  "articolo": ["a r t i k o l o"],
-  "artiere": ["a r t i ɛ r e", "a r t j ɛ r e"],
-  "artieri": ["a r t i ɛ r i"],
-  "artifici": ["a r t i f i t ʃ i"],
-  "artificiale": ["a r t i f i t ʃ a l e"],
-  "artificiali": ["a r t i f i t ʃ a l i"],
-  "artificialità": ["a r t i f i t ʃ a l i t a"],
-  "artificializzazione": ["a r t i f i t ʃ a l i dː z a tː s j o n e"],
-  "artificializzazioni": ["a r t i f i t ʃ a l i dː z a tː s j o n i"],
-  "artificialmente": ["a r t i f i t ʃ a l m e n t e"],
-  "artificiere": ["a r t i f i t ʃ ɛ r e"],
-  "artificieri": ["a r t i f i t ʃ ɛ r i"],
-  "artificio": ["a r t i f i t ʃ o"],
-  "artificiosa": ["a r t i f i t ʃ o s a"],
-  "artificiosamente": ["a r t i f i t ʃ o s a m e n t e"],
-  "artificiose": ["a r t i f i t ʃ o s e"],
-  "artificiosi": ["a r t i f i t ʃ o s i"],
-  "artificioso": ["a r t i f i t ʃ o s o", "a r t i f i t ʃ o z o"],
-  "artifizio": ["a r t i f i tː s j o"],
-  "artigiana": ["a r t i d ʒ a n a"],
-  "artigianale": ["a r t i d ʒ a n a l e"],
-  "artigianali": ["a r t i d ʒ a n a l i"],
-  "artigianalmente": ["a r t i d ʒ a n a l m e n t e"],
-  "artigianati": ["a r t i d ʒ a n a t i"],
-  "artigianato": ["a r t i d ʒ a n a t o"],
-  "artigiane": ["a r t i d ʒ a n e"],
-  "artigiani": ["a r t i d ʒ a n o"],
-  "artigiano": ["a r t i d ʒ a n a", "a r t i d ʒ a n o"],
-  "artigli": ["a r t i ʎ i"],
-  "artigliare": ["a r t i ʎ a r e"],
-  "artigliato": ["a r t i ʎ a t o"],
-  "artigliere": ["a r t i ʎ ɛ r e"],
-  "artiglieria": ["a r t i ʎ e r i a"],
-  "artiglierie": ["a r t i ʎ e r i e"],
-  "artiglio": ["a r t i ʎ o"],
-  "artiodattili": ["a r t j o d a tː i l i"],
-  "artiodattilo": ["a r t j o d a tː i l o"],
-  "artista": ["a r t i s t a"],
-  "artiste": ["a r t i s t e"],
-  "artisti": ["a r t i s t i"],
-  "artistica": ["a r t i s t i k a"],
-  "artisticamente": ["a r t i s t i k a m e n t e"],
-  "artistiche": ["a r t i s t i k e"],
-  "artistici": ["a r t i s t i t ʃ i"],
-  "artistico": ["a r t i s t i k o"],
-  "artoteca": ["a r t o t ɛ k a"],
-  "artoteche": ["a r t o t ɛ k e"],
-  "artrite": ["a r t r i t e"],
-  "artriti": ["a r t r i t i"],
-  "artritico": ["a r t r i t i k o"],
-  "artritismi": ["a r t r i t i s m i"],
-  "artritismo": ["a r t r i t i s m o"],
-  "artrocentesi": ["a r t r o t ʃ e n t ɛ z i", "a r t r ɔ t ʃ e n t ɛ z i"],
-  "artrologia": ["a r t r o l o d ʒ i a"],
-  "artrologico": ["a r t r o l ɔ d ʒ i k o"],
-  "artrologie": ["a r t r o l o d ʒ i e"],
-  "artroplastica": ["a r t r o p l a s t i k a"],
-  "artroplastiche": ["a r t r o p l a s t i k e"],
-  "artropode": ["a r t r ɔ p o d e"],
-  "artropodi": ["a r t r ɔ p o d i"],
-  "artropodo": ["a r t r ɔ p o d o"],
-  "artroscopi": ["a r t r o s k o p i"],
-  "artroscopia": ["a r t r o s k o p i a"],
-  "artroscopica": ["a r t r o s k ɔ p i k a"],
-  "artroscopiche": ["a r t r o s k ɔ p i k e"],
-  "artroscopici": ["a r t r o s k ɔ p i t ʃ i"],
-  "artroscopico": ["a r t r o s k ɔ p i k o"],
-  "artroscopie": ["a r t r o s k o p i e"],
-  "artroscopio": ["a r t r o s k o p j o"],
-  "artrosi": ["a r t r ɔ z i"],
-  "artù": ["a r t u"],
-  "arturo": ["a r t u r o"],
-  "aruspice": ["a r u s p i t ʃ e"],
-  "aruspicina": ["a r u s p i t ʃ i n a"],
-  "arvicola": ["a r v i k o l a"],
-  "arzagola": ["a r t s a ɡ o l a"],
-  "arzanese": ["a r z a n e s e"],
-  "arzanesi": ["a r z a n e s i"],
-  "arzano": ["a r z a n o"],
-  "arzavola": ["a r t s a v o l a"],
-  "arzigogolante": ["a r d z i ɡ o ɡ o l a n t e"],
-  "arzigogolare": ["a r d z i ɡ o ɡ o l a r e"],
-  "arzigogolatamente": ["a r d z i ɡ o ɡ o l a t a m e n t e"],
-  "arzigogolato": ["a r d z i ɡ o ɡ o l a t o"],
-  "arzigogolo": ["a r d z i ɡ ɔ ɡ o l o"],
-  "arzillo": ["a r d z i lː o"],
-  "asado": ["a s a d o"],
-  "asaro": ["a z a r o"],
-  "asbergo": ["a z b ɛ r ɡ o"],
-  "asbesto": ["a z b ɛ s t o"],
-  "asburgico": ["a z b u r d ʒ i k o"],
-  "asburgo": ["a z b u r ɡ o"],
-  "ascaride": ["a s k a r i d e"],
-  "ascaridi": ["a s k a r i d i"],
-  "ascaro": ["a s k a r o"],
-  "asce": ["a ʃ ʃ e"],
-  "ascella": ["a ʃ ʃ ɛ lː a"],
-  "ascellare": ["a ʃ ʃ e lː a r e"],
-  "ascellari": ["a ʃ ʃ e lː a r i"],
-  "ascelle": ["a ʃ ʃ ɛ lː e"],
-  "ascenda": ["a ʃ ʃ e n d a"],
-  "ascendano": ["a ʃ ʃ e n d a n o"],
-  "ascende": ["a ʃ ʃ e n d e"],
-  "ascendemmo": ["a ʃ ʃ e n d e mː o"],
-  "ascendendo": ["a ʃ ʃ e n d e n d o"],
-  "ascendente": ["a ʃ e n d e n t e", "a ʃ ʃ e n d e n t e", "a ʃ ʃ e n d ɛ n t e"],
-  "ascendenti": ["a ʃ e n d e n t i", "a ʃ ʃ e n d e n t i"],
-  "ascenderà": ["a ʃ ʃ e n d e r a"],
-  "ascenderai": ["a ʃ ʃ e n d e r a i"],
-  "ascenderanno": ["a ʃ ʃ e n d e r a nː o"],
-  "ascendere": ["a ʃ ʃ e n d e r e", "a ʃ ʃ ɛ n d e r e"],
-  "ascenderebbe": ["a ʃ ʃ e n d e r e bː e"],
-  "ascenderebbero": ["a ʃ ʃ e n d e r e bː e r o"],
-  "ascenderei": ["a ʃ ʃ e n d e r e i"],
-  "ascenderemmo": ["a ʃ ʃ e n d e r e mː o"],
-  "ascenderemo": ["a ʃ ʃ e n d e r e m o"],
-  "ascendereste": ["a ʃ ʃ e n d e r e s t e"],
-  "ascenderesti": ["a ʃ ʃ e n d e r e s t i"],
-  "ascenderete": ["a ʃ ʃ e n d e r e t e"],
-  "ascenderò": ["a ʃ ʃ e n d e r o"],
-  "ascendesse": ["a ʃ ʃ e n d e sː e"],
-  "ascendessero": ["a ʃ ʃ e n d e sː e r o"],
-  "ascendessi": ["a ʃ ʃ e n d e sː i"],
-  "ascendessimo": ["a ʃ ʃ e n d e sː i m o"],
-  "ascendeste": ["a ʃ ʃ e n d e s t e"],
-  "ascendesti": ["a ʃ ʃ e n d e s t i"],
-  "ascendete": ["a ʃ ʃ e n d e t e"],
-  "ascendeva": ["a ʃ ʃ e n d e v a"],
-  "ascendevamo": ["a ʃ ʃ e n d a v e m o"],
-  "ascendevano": ["a ʃ ʃ e n d e v a n o"],
-  "ascendevate": ["a ʃ ʃ e n d e v a t e"],
-  "ascendevi": ["a ʃ ʃ e n d e v i"],
-  "ascendevo": ["a ʃ ʃ e n d e v o"],
-  "ascendi": ["a ʃ ʃ e n d i"],
-  "ascendiamo": ["a ʃ ʃ e n d j a m o"],
-  "ascendiate": ["a ʃ ʃ e n d j a t e"],
-  "ascendo": ["a ʃ ʃ e n d o"],
-  "ascendono": ["a ʃ ʃ e n d o n o"],
-  "ascensa": ["a ʃ ʃ ɛ n s a"],
-  "ascensione": ["a ʃ ɛ n z i o n ɛ", "a ʃ ʃ e n s j o n e"],
-  "ascensioni": ["a ʃ ʃ e n s j o n e"],
-  "ascensorabile": ["a ʃ ʃ e n s o r a b i l e"],
-  "ascensorabili": ["a ʃ ʃ e n s o r a b i l i"],
-  "ascensore": ["a ʃ ʃ e n s o r e", "a ʃ ʃ ɛ n s ɔ r e"],
-  "ascensori": ["a ʃ ɛ n s ɔ r i"],
-  "ascesa": ["a ʃ ʃ e s a", "a ʃ ʃ e z a"],
-  "ascese": ["a ʃ ʃ e s e"],
-  "ascesero": ["a ʃ ʃ e s e r o"],
-  "ascesi": ["a ʃ ʃ e s i", "a ʃ ʃ ɛ z i"],
-  "asceso": ["a ʃ ʃ e s o"],
-  "ascessi": ["a ʃ ɛ sː i"],
-  "ascesso": ["a ʃ ɛ sː o", "a ʃ ʃ ɛ sː o"],
-  "ascessuale": ["a ʃ ʃ e sː u a l e"],
-  "asceta": ["a ʃ ʃ ɛ t a"],
-  "ascete": ["a ʃ ʃ ɛ t e"],
-  "asceterio": ["a ʃ ʃ e t ɛ r j o"],
-  "asceti": ["a ʃ ʃ ɛ t i"],
-  "ascetica": ["a ʃ ʃ ɛ t i k a"],
-  "asceticamente": ["a ʃ ʃ e t i k a m e n t e"],
-  "ascetiche": ["a ʃ ʃ ɛ t i k e"],
-  "ascetici": ["a ʃ ʃ ɛ t i t ʃ i"],
-  "ascetico": ["a ʃ ʃ ɛ t i k o"],
-  "ascetismi": ["a ʃ ʃ e t i z m i"],
-  "ascetismo": ["a ʃ ʃ e t i z m o"],
-  "ascia": ["a ʃ ʃ a"],
-  "asciare": ["a ʃ ʃ a r e"],
-  "asciatico": ["a ʃ ʃ a t i k o"],
-  "asciolvere": ["a ʃ ʃ ɔ l v e r e"],
-  "ascitizio": ["a ʃ ʃ i t i tː s j o"],
-  "asciuga": ["a ʃ ʃ u ɡ a"],
-  "asciugabiancheria": ["a ʃ ʃ u ɡ a b j a n k e r i a"],
-  "asciugabile": ["a ʃ ʃ u ɡ a b i l e"],
-  "asciugabili": ["a ʃ ʃ u ɡ a b i l i"],
-  "asciugacapelli": ["a ʃ ʃ u ɡ a k a p e lː i"],
-  "asciugai": ["a ʃ ʃ u ɡ a i"],
-  "asciugamani": ["a ʃ ʃ u ɡ a m a n i"],
-  "asciugamano": ["a ʃ ʃ u ɡ a m a n o"],
-  "asciugammo": ["a ʃ ʃ u ɡ a mː o"],
-  "asciugando": ["a ʃ ʃ u ɡ a n d o"],
-  "asciugano": ["a ʃ ʃ u ɡ a n o"],
-  "asciugante": ["a ʃ ʃ u ɡ a n t e"],
-  "asciuganti": ["a ʃ ʃ u ɡ a n t i"],
-  "asciugare": ["a ʃ ʃ u ɡ a r e"],
-  "asciugarono": ["a ʃ ʃ u ɡ a r o n o"],
-  "asciugarsi": ["a ʃ ʃ u ɡ a r s i"],
-  "asciugasse": ["a ʃ ʃ u ɡ a sː e"],
-  "asciugassero": ["a ʃ ʃ u ɡ a sː e r o"],
-  "asciugassi": ["a ʃ ʃ u ɡ a sː i"],
-  "asciugassimo": ["a ʃ ʃ u ɡ a sː i m o"],
-  "asciugaste": ["a ʃ ʃ u ɡ a s t e"],
-  "asciugasti": ["a ʃ ʃ u ɡ a s t i"],
-  "asciugata": ["a ʃ ʃ u ɡ a t a"],
-  "asciugate": ["a ʃ ʃ u ɡ a t e"],
-  "asciugati": ["a ʃ ʃ u ɡ a t i"],
-  "asciugato": ["a ʃ ʃ u ɡ a t o"],
-  "asciugatrice": ["a ʃ ʃ u ɡ a t r i t ʃ e"],
-  "asciugava": ["a ʃ ʃ u ɡ a v a"],
-  "asciugavamo": ["a ʃ ʃ u ɡ a v a m o"],
-  "asciugavano": ["a ʃ ʃ u ɡ a v a n o"],
-  "asciugavate": ["a ʃ ʃ u ɡ a v a t e"],
-  "asciugavi": ["a ʃ ʃ u ɡ a v i"],
-  "asciugavo": ["a ʃ ʃ u ɡ a v o"],
-  "asciugherà": ["a ʃ ʃ u ɡ e r a"],
-  "asciugherai": ["a ʃ ʃ u ɡ e r a i"],
-  "asciugheranno": ["a ʃ ʃ u ɡ e r a nː o"],
-  "asciugherebbe": ["a ʃ ʃ u ɡ e r e bː e"],
-  "asciugherebbero": ["a ʃ ʃ u ɡ e r e bː e r o"],
-  "asciugherei": ["a ʃ ʃ u ɡ e r e i"],
-  "asciugheremmo": ["a ʃ ʃ u ɡ e r e mː o"],
-  "asciugheremo": ["a ʃ ʃ u ɡ e r e m o"],
-  "asciughereste": ["a ʃ ʃ u ɡ e r e s t e"],
-  "asciugheresti": ["a ʃ ʃ u ɡ e r e s t i"],
-  "asciugherete": ["a ʃ ʃ u ɡ e r e t e"],
-  "asciugherò": ["a ʃ ʃ u ɡ e r o"],
-  "asciughi": ["a ʃ ʃ u ɡ i"],
-  "asciughiamo": ["a ʃ ʃ u ɡ j a m o"],
-  "asciughiate": ["a ʃ ʃ u ɡ j a t e"],
-  "asciughino": ["a ʃ ʃ u ɡ i n o"],
-  "asciugo": ["a ʃ ʃ u ɡ o"],
-  "asciugò": ["a ʃ ʃ u ɡ o"],
-  "asciutta": ["a ʃ ʃ u tː a"],
-  "asciuttamente": ["a ʃ ʃ u tː a m e n t e"],
-  "asciutte": ["a ʃ ʃ u tː e"],
-  "asciutti": ["a ʃ ʃ u tː o"],
-  "asciutto": ["a ʃ ʃ u tː o"],
-  "asclepiadeo": ["a s k l e p i a d ɛ o"],
-  "asco": ["a s k o"],
-  "ascolta": ["a s k o l t a", "a s k ɔ l t a"],
-  "ascoltabile": ["a s k o l t a b i l e"],
-  "ascoltabili": ["a s k o l t a b i l i"],
-  "ascoltai": ["a s k ɔ l t a i"],
-  "ascoltammo": ["a s k ɔ l t a mː o"],
-  "ascoltando": ["a s k ɔ l t a n d o"],
-  "ascoltano": ["a s k ɔ l t a n o"],
-  "ascoltante": ["a s k ɔ l t a n t e"],
-  "ascoltare": ["a s k o l t a r e", "a s k ɔ l t a r e"],
-  "ascoltarono": ["a s k ɔ l t a r o n o"],
-  "ascoltasse": ["a s k ɔ l t a sː e"],
-  "ascoltassero": ["a s k ɔ l t a sː e r o"],
-  "ascoltassi": ["a s k ɔ l t a sː i"],
-  "ascoltassimo": ["a s k ɔ l t a sː i m o"],
-  "ascoltaste": ["a s k ɔ l t a s t e"],
-  "ascoltasti": ["a s k ɔ l t a s t i"],
-  "ascoltata": ["a s k ɔ l t a t i"],
-  "ascoltate": ["a s k ɔ l t a t e"],
-  "ascoltati": ["a s k ɔ l t a t i"],
-  "ascoltato": ["a s k o l t a t o", "a s k ɔ l t a t o"]
+  "arrendere": [
+    "arːɛndere"
+  ],
+  "arrendersi": [
+    "arːɛndersi"
+  ],
+  "arrendevole": [
+    "arːendevole"
+  ],
+  "arrendevolmente": [
+    "arːendevolmente"
+  ],
+  "arreso": [
+    "arːeso",
+    "arːezo"
+  ],
+  "arresta": [
+    "arːesta"
+  ],
+  "arrestabile": [
+    "arːestabile"
+  ],
+  "arrestabili": [
+    "arːestabili"
+  ],
+  "arrestai": [
+    "arːestai"
+  ],
+  "arrestammo": [
+    "arːestamːo"
+  ],
+  "arrestando": [
+    "arːestando"
+  ],
+  "arrestano": [
+    "arːestano"
+  ],
+  "arrestante": [
+    "arːestante"
+  ],
+  "arrestare": [
+    "arːestare"
+  ],
+  "arrestarono": [
+    "arːestarono"
+  ],
+  "arrestarsi": [
+    "arːestarsi"
+  ],
+  "arrestasse": [
+    "arːestasːe"
+  ],
+  "arrestassero": [
+    "arːestasːero"
+  ],
+  "arrestassi": [
+    "arːestasːi"
+  ],
+  "arrestassimo": [
+    "arːestasːimo"
+  ],
+  "arrestaste": [
+    "arːestaste"
+  ],
+  "arrestasti": [
+    "arːestasti"
+  ],
+  "arrestate": [
+    "arːestate"
+  ],
+  "arrestato": [
+    "arːestato"
+  ],
+  "arrestava": [
+    "arːestava"
+  ],
+  "arrestavamo": [
+    "arːestavamo"
+  ],
+  "arrestavano": [
+    "arːestavano"
+  ],
+  "arrestavate": [
+    "arːestavate"
+  ],
+  "arrestavi": [
+    "arːestavi"
+  ],
+  "arrestavo": [
+    "arːestavo"
+  ],
+  "arresterà": [
+    "arːestera"
+  ],
+  "arresterai": [
+    "arːesterai"
+  ],
+  "arresteranno": [
+    "arːesteranːo"
+  ],
+  "arresterebbe": [
+    "arːesterebːe"
+  ],
+  "arresterebbero": [
+    "arːesterebːero"
+  ],
+  "arresterei": [
+    "arːesterei"
+  ],
+  "arresteremmo": [
+    "arːesteremːo"
+  ],
+  "arresteremo": [
+    "arːesteremo"
+  ],
+  "arrestereste": [
+    "arːestereste"
+  ],
+  "arresteresti": [
+    "arːesteresti"
+  ],
+  "arresterete": [
+    "arːesterete"
+  ],
+  "arresterò": [
+    "arːestero"
+  ],
+  "arresti": [
+    "arːesti"
+  ],
+  "arrestiamo": [
+    "arːestjamo"
+  ],
+  "arrestiate": [
+    "arːestjate"
+  ],
+  "arrestino": [
+    "arːestino"
+  ],
+  "arresto": [
+    "arːesto",
+    "arːɛsto",
+    "arːɛstɔ"
+  ],
+  "arrestò": [
+    "arːesto"
+  ],
+  "arretramento": [
+    "arːetramento"
+  ],
+  "arretratezza": [
+    "arːetratetːsa"
+  ],
+  "arretratezze": [
+    "arːetratetːse"
+  ],
+  "arretrato": [
+    "arːetrato"
+  ],
+  "arri": [
+    "arːi"
+  ],
+  "arricchente": [
+    "arːikːente"
+  ],
+  "arricchimenti": [
+    "arːikimenti"
+  ],
+  "arricchimento": [
+    "arːikimento",
+    "arːikːimento"
+  ],
+  "arricchire": [
+    "arːikːire"
+  ],
+  "arricchirsi": [
+    "arːikːirsi"
+  ],
+  "arricchita": [
+    "arːikːita"
+  ],
+  "arricchite": [
+    "arːikːite"
+  ],
+  "arricchiti": [
+    "arːikːiti"
+  ],
+  "arricchito": [
+    "arːikːito"
+  ],
+  "arricciaburro": [
+    "arːidːzaburːo",
+    "arːitːʃaburːo"
+  ],
+  "arricciacapelli": [
+    "arːidːzakapelːi"
+  ],
+  "arricciare": [
+    "arːitːʃare"
+  ],
+  "arricciato": [
+    "arːitːʃato"
+  ],
+  "arricciolare": [
+    "arːitːʃolare"
+  ],
+  "arridere": [
+    "arːidere"
+  ],
+  "arrigo": [
+    "arːiɡo"
+  ],
+  "arringa": [
+    "arːinɡa"
+  ],
+  "arringare": [
+    "arːinɡare"
+  ],
+  "arringhe": [
+    "arːinɡe"
+  ],
+  "arrischiante": [
+    "arːiskjante"
+  ],
+  "arrischiare": [
+    "arːiskjare"
+  ],
+  "arrischiarsi": [
+    "arːiskjarsi"
+  ],
+  "arrischiatamente": [
+    "arːiskjatamente"
+  ],
+  "arrischiato": [
+    "arːiskiato",
+    "arːiskjato"
+  ],
+  "arriva": [
+    "arːiva"
+  ],
+  "arrivai": [
+    "arːivai"
+  ],
+  "arrivammo": [
+    "arːivamːo"
+  ],
+  "arrivando": [
+    "arːivando"
+  ],
+  "arrivano": [
+    "arːivano"
+  ],
+  "arrivante": [
+    "arːivante"
+  ],
+  "arrivanti": [
+    "arːivanti"
+  ],
+  "arrivare": [
+    "arːivare"
+  ],
+  "arrivarono": [
+    "arːivarono"
+  ],
+  "arrivasse": [
+    "arːivasːe"
+  ],
+  "arrivassero": [
+    "arːivasːero"
+  ],
+  "arrivassi": [
+    "arːivasːi"
+  ],
+  "arrivassimo": [
+    "arːivasːimo"
+  ],
+  "arrivaste": [
+    "arːivaste"
+  ],
+  "arrivasti": [
+    "arːivasti"
+  ],
+  "arrivata": [
+    "arːivata"
+  ],
+  "arrivate": [
+    "arːivate"
+  ],
+  "arrivati": [
+    "arːivati"
+  ],
+  "arrivato": [
+    "arːivato"
+  ],
+  "arrivava": [
+    "arːivava"
+  ],
+  "arrivavamo": [
+    "arːivavamo"
+  ],
+  "arrivavano": [
+    "arːivavano"
+  ],
+  "arrivavate": [
+    "arːivavate"
+  ],
+  "arrivavi": [
+    "arːivavi"
+  ],
+  "arrivavo": [
+    "arːivavo"
+  ],
+  "arrivedella": [
+    "arːivedelːa"
+  ],
+  "arrivederci": [
+    "arːivedertʃi"
+  ],
+  "arrivederla": [
+    "arːivederla"
+  ],
+  "arriverà": [
+    "arːivera"
+  ],
+  "arriverai": [
+    "arːiverai"
+  ],
+  "arriveranno": [
+    "arːiveranːo"
+  ],
+  "arriverebbe": [
+    "arːiverebːe"
+  ],
+  "arriverebbero": [
+    "arːiverebːero"
+  ],
+  "arriverei": [
+    "arːiverei"
+  ],
+  "arriveremmo": [
+    "arːiveremːo"
+  ],
+  "arriveremo": [
+    "arːiveremo"
+  ],
+  "arrivereste": [
+    "arːivereste"
+  ],
+  "arriveresti": [
+    "arːiveresti"
+  ],
+  "arriverete": [
+    "arːiverete"
+  ],
+  "arriverò": [
+    "arːivero"
+  ],
+  "arrivi": [
+    "arːivi"
+  ],
+  "arriviamo": [
+    "arːivjamo"
+  ],
+  "arriviate": [
+    "arːivjate"
+  ],
+  "arrivino": [
+    "arːivino"
+  ],
+  "arrivismi": [
+    "arːivizmi"
+  ],
+  "arrivismo": [
+    "arːivizmo"
+  ],
+  "arrivista": [
+    "arːivista"
+  ],
+  "arriviste": [
+    "arːiviste"
+  ],
+  "arrivisti": [
+    "arːivisti"
+  ],
+  "arrivo": [
+    "arːivo"
+  ],
+  "arrivò": [
+    "arːivo"
+  ],
+  "arroccare": [
+    "arːokːare"
+  ],
+  "arroccato": [
+    "arːokːato"
+  ],
+  "arrocchi": [
+    "arːɔkːi"
+  ],
+  "arrocco": [
+    "arːɔkːo"
+  ],
+  "arrochito": [
+    "arːokito"
+  ],
+  "arrogante": [
+    "arːoɡante"
+  ],
+  "arrogantemente": [
+    "arːoɡantemente"
+  ],
+  "arroganti": [
+    "arːoɡanti"
+  ],
+  "arroganza": [
+    "arːoɡantsa"
+  ],
+  "arroganze": [
+    "arːoɡantse"
+  ],
+  "arrogare": [
+    "arːoɡare"
+  ],
+  "arroge": [
+    "arːɔdʒe"
+  ],
+  "arrogere": [
+    "arːɔdʒere"
+  ],
+  "arrogi": [
+    "arːɔdʒi"
+  ],
+  "arrolare": [
+    "arːolare"
+  ],
+  "arroncigliare": [
+    "arːontʃiʎare"
+  ],
+  "arrossamenti": [
+    "arːosːamenti"
+  ],
+  "arrossamento": [
+    "arːosːamento"
+  ],
+  "arrossare": [
+    "arːosːare"
+  ],
+  "arrossato": [
+    "arːosːato"
+  ],
+  "arrossire": [
+    "arːosːire"
+  ],
+  "arrostare": [
+    "arːostare"
+  ],
+  "arrostente": [
+    "arːostente"
+  ],
+  "arrostereste": [
+    "arːostereste"
+  ],
+  "arrosticino": [
+    "arːostitʃino"
+  ],
+  "arrostimento": [
+    "arːostimento"
+  ],
+  "arrostire": [
+    "arːostire"
+  ],
+  "arrostita": [
+    "arːostita"
+  ],
+  "arrostite": [
+    "arːostite"
+  ],
+  "arrostiti": [
+    "arːostiti"
+  ],
+  "arrostito": [
+    "arːostito"
+  ],
+  "arrostitura": [
+    "arːostitura"
+  ],
+  "arrosto": [
+    "arːɔsto"
+  ],
+  "arrotare": [
+    "arːotare"
+  ],
+  "arrotatore": [
+    "arːotatore"
+  ],
+  "arrotatori": [
+    "arːotatori"
+  ],
+  "arrotatrice": [
+    "arːotatritʃe"
+  ],
+  "arrotatrici": [
+    "arːotatritʃi"
+  ],
+  "arrotino": [
+    "arːotino"
+  ],
+  "arrotolare": [
+    "arːotolare"
+  ],
+  "arrotolarsi": [
+    "arːotolarsi"
+  ],
+  "arrotondamenti": [
+    "arːotondamenti"
+  ],
+  "arrotondamento": [
+    "arːotondamento"
+  ],
+  "arrotondante": [
+    "arːotondante"
+  ],
+  "arrotondare": [
+    "arːotondare",
+    "arːɔtɔndare"
+  ],
+  "arrotondato": [
+    "arːotondato"
+  ],
+  "arrovellare": [
+    "arːovelːare"
+  ],
+  "arroventare": [
+    "arːoventare"
+  ],
+  "arroventato": [
+    "arːoventato"
+  ],
+  "arrovesciare": [
+    "arːoveʃʃare"
+  ],
+  "arruffapopoli": [
+    "arːufːapɔpoli"
+  ],
+  "arruffapopolo": [
+    "arːufːapɔpolo"
+  ],
+  "arruffare": [
+    "arːufːare"
+  ],
+  "arruffato": [
+    "arːufːato"
+  ],
+  "arruffianamento": [
+    "arːufːjanamento"
+  ],
+  "arruffianare": [
+    "arːufːjanare"
+  ],
+  "arrugginire": [
+    "arːudːʒinire"
+  ],
+  "arrugginito": [
+    "arːudːʒinito"
+  ],
+  "arruncigliare": [
+    "arːuntʃiʎare"
+  ],
+  "arruolabile": [
+    "arːwolabile"
+  ],
+  "arruolabili": [
+    "arːwolabili"
+  ],
+  "arruolamento": [
+    "arːwolamento"
+  ],
+  "arruolante": [
+    "arːwolante"
+  ],
+  "arruolare": [
+    "arːwolare"
+  ],
+  "arruolarsi": [
+    "arːwolarsi"
+  ],
+  "arruolato": [
+    "arːwolato"
+  ],
+  "arruolatore": [
+    "arːwolatore"
+  ],
+  "arruolatori": [
+    "arːwolatori"
+  ],
+  "arruolatrice": [
+    "arːwolatritʃe"
+  ],
+  "arruolatrici": [
+    "arːwolatritʃi"
+  ],
+  "arsa": [
+    "arsa"
+  ],
+  "arse": [
+    "arse"
+  ],
+  "arsella": [
+    "arsɛlːa"
+  ],
+  "arsenale": [
+    "arsenale"
+  ],
+  "arsenali": [
+    "arsenali"
+  ],
+  "arsenalotto": [
+    "arsenalɔtːo"
+  ],
+  "arsenica": [
+    "arsɛnika"
+  ],
+  "arseniche": [
+    "arsɛnike"
+  ],
+  "arsenici": [
+    "arsɛnitʃi"
+  ],
+  "arsenicismo": [
+    "arsenitʃizmo"
+  ],
+  "arsenico": [
+    "arsɛniko"
+  ],
+  "arsenioso": [
+    "arsenjoso",
+    "arsenjozo"
+  ],
+  "arseniuro": [
+    "arsenjuro"
+  ],
+  "arsero": [
+    "arsero"
+  ],
+  "arsi": [
+    "arsi"
+  ],
+  "arsione": [
+    "arsjone"
+  ],
+  "arso": [
+    "arso"
+  ],
+  "arsura": [
+    "arsura"
+  ],
+  "artanita": [
+    "artanita"
+  ],
+  "artatamente": [
+    "artatamente"
+  ],
+  "arte": [
+    "arte"
+  ],
+  "artefatto": [
+    "artefatːo"
+  ],
+  "artefice": [
+    "artefitʃe"
+  ],
+  "artemisia": [
+    "artemizja"
+  ],
+  "arteria": [
+    "artɛrja"
+  ],
+  "arteriectomia": [
+    "arterjektomia"
+  ],
+  "arteriosclerosi": [
+    "artɛrjosklerɔzi",
+    "artɛrjosklɛrozi"
+  ],
+  "arterioso": [
+    "arterjoso",
+    "arterjozo"
+  ],
+  "arterite": [
+    "arterite"
+  ],
+  "arthrodynies": [
+    "artrɔdini"
+  ],
+  "artica": [
+    "artika"
+  ],
+  "artiche": [
+    "artike"
+  ],
+  "artici": [
+    "artitʃi"
+  ],
+  "articiocco": [
+    "artitʃɔkːo"
+  ],
+  "artico": [
+    "artiko"
+  ],
+  "articolabile": [
+    "artikolabile"
+  ],
+  "articolabili": [
+    "artikolabili"
+  ],
+  "articolando": [
+    "artikolando"
+  ],
+  "articolante": [
+    "artikolante"
+  ],
+  "articolare": [
+    "artikolare"
+  ],
+  "articolari": [
+    "artikolari"
+  ],
+  "articolarsi": [
+    "artikolarsi"
+  ],
+  "articolata": [
+    "artikolata"
+  ],
+  "articolatamente": [
+    "artikolatamente"
+  ],
+  "articolate": [
+    "artikolate"
+  ],
+  "articolati": [
+    "artikolati"
+  ],
+  "articolato": [
+    "artikolato"
+  ],
+  "articolatori": [
+    "artikolatori"
+  ],
+  "articolatoria": [
+    "artikolatorja"
+  ],
+  "articolatorie": [
+    "artikolatorje"
+  ],
+  "articolatorio": [
+    "artikolatorjo"
+  ],
+  "articolazione": [
+    "artikolatsjone",
+    "artikolatːsjone"
+  ],
+  "articolazioni": [
+    "artikolatːsjoni"
+  ],
+  "articoli": [
+    "artikoli"
+  ],
+  "articolista": [
+    "artikolista"
+  ],
+  "articolo": [
+    "artikolo"
+  ],
+  "artiere": [
+    "artiɛre",
+    "artjɛre"
+  ],
+  "artieri": [
+    "artiɛri"
+  ],
+  "artifici": [
+    "artifitʃi"
+  ],
+  "artificiale": [
+    "artifitʃale"
+  ],
+  "artificiali": [
+    "artifitʃali"
+  ],
+  "artificialità": [
+    "artifitʃalita"
+  ],
+  "artificializzazione": [
+    "artifitʃalidːzatːsjone"
+  ],
+  "artificializzazioni": [
+    "artifitʃalidːzatːsjoni"
+  ],
+  "artificialmente": [
+    "artifitʃalmente"
+  ],
+  "artificiere": [
+    "artifitʃɛre"
+  ],
+  "artificieri": [
+    "artifitʃɛri"
+  ],
+  "artificio": [
+    "artifitʃo"
+  ],
+  "artificiosa": [
+    "artifitʃosa"
+  ],
+  "artificiosamente": [
+    "artifitʃosamente"
+  ],
+  "artificiose": [
+    "artifitʃose"
+  ],
+  "artificiosi": [
+    "artifitʃosi"
+  ],
+  "artificioso": [
+    "artifitʃoso",
+    "artifitʃozo"
+  ],
+  "artifizio": [
+    "artifitːsjo"
+  ],
+  "artigiana": [
+    "artidʒana"
+  ],
+  "artigianale": [
+    "artidʒanale"
+  ],
+  "artigianali": [
+    "artidʒanali"
+  ],
+  "artigianalmente": [
+    "artidʒanalmente"
+  ],
+  "artigianati": [
+    "artidʒanati"
+  ],
+  "artigianato": [
+    "artidʒanato"
+  ],
+  "artigiane": [
+    "artidʒane"
+  ],
+  "artigiani": [
+    "artidʒano"
+  ],
+  "artigiano": [
+    "artidʒana",
+    "artidʒano"
+  ],
+  "artigli": [
+    "artiʎi"
+  ],
+  "artigliare": [
+    "artiʎare"
+  ],
+  "artigliato": [
+    "artiʎato"
+  ],
+  "artigliere": [
+    "artiʎɛre"
+  ],
+  "artiglieria": [
+    "artiʎeria"
+  ],
+  "artiglierie": [
+    "artiʎerie"
+  ],
+  "artiglio": [
+    "artiʎo"
+  ],
+  "artiodattili": [
+    "artjodatːili"
+  ],
+  "artiodattilo": [
+    "artjodatːilo"
+  ],
+  "artista": [
+    "artista"
+  ],
+  "artiste": [
+    "artiste"
+  ],
+  "artisti": [
+    "artisti"
+  ],
+  "artistica": [
+    "artistika"
+  ],
+  "artisticamente": [
+    "artistikamente"
+  ],
+  "artistiche": [
+    "artistike"
+  ],
+  "artistici": [
+    "artistitʃi"
+  ],
+  "artistico": [
+    "artistiko"
+  ],
+  "artoteca": [
+    "artotɛka"
+  ],
+  "artoteche": [
+    "artotɛke"
+  ],
+  "artrite": [
+    "artrite"
+  ],
+  "artriti": [
+    "artriti"
+  ],
+  "artritico": [
+    "artritiko"
+  ],
+  "artritismi": [
+    "artritismi"
+  ],
+  "artritismo": [
+    "artritismo"
+  ],
+  "artrocentesi": [
+    "artrotʃentɛzi",
+    "artrɔtʃentɛzi"
+  ],
+  "artrologia": [
+    "artrolodʒia"
+  ],
+  "artrologico": [
+    "artrolɔdʒiko"
+  ],
+  "artrologie": [
+    "artrolodʒie"
+  ],
+  "artroplastica": [
+    "artroplastika"
+  ],
+  "artroplastiche": [
+    "artroplastike"
+  ],
+  "artropode": [
+    "artrɔpode"
+  ],
+  "artropodi": [
+    "artrɔpodi"
+  ],
+  "artropodo": [
+    "artrɔpodo"
+  ],
+  "artroscopi": [
+    "artroskopi"
+  ],
+  "artroscopia": [
+    "artroskopia"
+  ],
+  "artroscopica": [
+    "artroskɔpika"
+  ],
+  "artroscopiche": [
+    "artroskɔpike"
+  ],
+  "artroscopici": [
+    "artroskɔpitʃi"
+  ],
+  "artroscopico": [
+    "artroskɔpiko"
+  ],
+  "artroscopie": [
+    "artroskopie"
+  ],
+  "artroscopio": [
+    "artroskopjo"
+  ],
+  "artrosi": [
+    "artrɔzi"
+  ],
+  "artù": [
+    "artu"
+  ],
+  "arturo": [
+    "arturo"
+  ],
+  "aruspice": [
+    "aruspitʃe"
+  ],
+  "aruspicina": [
+    "aruspitʃina"
+  ],
+  "arvicola": [
+    "arvikola"
+  ],
+  "arzagola": [
+    "artsaɡola"
+  ],
+  "arzanese": [
+    "arzanese"
+  ],
+  "arzanesi": [
+    "arzanesi"
+  ],
+  "arzano": [
+    "arzano"
+  ],
+  "arzavola": [
+    "artsavola"
+  ],
+  "arzigogolante": [
+    "ardziɡoɡolante"
+  ],
+  "arzigogolare": [
+    "ardziɡoɡolare"
+  ],
+  "arzigogolatamente": [
+    "ardziɡoɡolatamente"
+  ],
+  "arzigogolato": [
+    "ardziɡoɡolato"
+  ],
+  "arzigogolo": [
+    "ardziɡɔɡolo"
+  ],
+  "arzillo": [
+    "ardzilːo"
+  ],
+  "asado": [
+    "asado"
+  ],
+  "asaro": [
+    "azaro"
+  ],
+  "asbergo": [
+    "azbɛrɡo"
+  ],
+  "asbesto": [
+    "azbɛsto"
+  ],
+  "asburgico": [
+    "azburdʒiko"
+  ],
+  "asburgo": [
+    "azburɡo"
+  ],
+  "ascaride": [
+    "askaride"
+  ],
+  "ascaridi": [
+    "askaridi"
+  ],
+  "ascaro": [
+    "askaro"
+  ],
+  "asce": [
+    "aʃʃe"
+  ],
+  "ascella": [
+    "aʃʃɛlːa"
+  ],
+  "ascellare": [
+    "aʃʃelːare"
+  ],
+  "ascellari": [
+    "aʃʃelːari"
+  ],
+  "ascelle": [
+    "aʃʃɛlːe"
+  ],
+  "ascenda": [
+    "aʃʃenda"
+  ],
+  "ascendano": [
+    "aʃʃendano"
+  ],
+  "ascende": [
+    "aʃʃende"
+  ],
+  "ascendemmo": [
+    "aʃʃendemːo"
+  ],
+  "ascendendo": [
+    "aʃʃendendo"
+  ],
+  "ascendente": [
+    "aʃendente",
+    "aʃʃendente",
+    "aʃʃendɛnte"
+  ],
+  "ascendenti": [
+    "aʃendenti",
+    "aʃʃendenti"
+  ],
+  "ascenderà": [
+    "aʃʃendera"
+  ],
+  "ascenderai": [
+    "aʃʃenderai"
+  ],
+  "ascenderanno": [
+    "aʃʃenderanːo"
+  ],
+  "ascendere": [
+    "aʃʃendere",
+    "aʃʃɛndere"
+  ],
+  "ascenderebbe": [
+    "aʃʃenderebːe"
+  ],
+  "ascenderebbero": [
+    "aʃʃenderebːero"
+  ],
+  "ascenderei": [
+    "aʃʃenderei"
+  ],
+  "ascenderemmo": [
+    "aʃʃenderemːo"
+  ],
+  "ascenderemo": [
+    "aʃʃenderemo"
+  ],
+  "ascendereste": [
+    "aʃʃendereste"
+  ],
+  "ascenderesti": [
+    "aʃʃenderesti"
+  ],
+  "ascenderete": [
+    "aʃʃenderete"
+  ],
+  "ascenderò": [
+    "aʃʃendero"
+  ],
+  "ascendesse": [
+    "aʃʃendesːe"
+  ],
+  "ascendessero": [
+    "aʃʃendesːero"
+  ],
+  "ascendessi": [
+    "aʃʃendesːi"
+  ],
+  "ascendessimo": [
+    "aʃʃendesːimo"
+  ],
+  "ascendeste": [
+    "aʃʃendeste"
+  ],
+  "ascendesti": [
+    "aʃʃendesti"
+  ],
+  "ascendete": [
+    "aʃʃendete"
+  ],
+  "ascendeva": [
+    "aʃʃendeva"
+  ],
+  "ascendevamo": [
+    "aʃʃendavemo"
+  ],
+  "ascendevano": [
+    "aʃʃendevano"
+  ],
+  "ascendevate": [
+    "aʃʃendevate"
+  ],
+  "ascendevi": [
+    "aʃʃendevi"
+  ],
+  "ascendevo": [
+    "aʃʃendevo"
+  ],
+  "ascendi": [
+    "aʃʃendi"
+  ],
+  "ascendiamo": [
+    "aʃʃendjamo"
+  ],
+  "ascendiate": [
+    "aʃʃendjate"
+  ],
+  "ascendo": [
+    "aʃʃendo"
+  ],
+  "ascendono": [
+    "aʃʃendono"
+  ],
+  "ascensa": [
+    "aʃʃɛnsa"
+  ],
+  "ascensione": [
+    "aʃɛnzionɛ",
+    "aʃʃensjone"
+  ],
+  "ascensioni": [
+    "aʃʃensjone"
+  ],
+  "ascensorabile": [
+    "aʃʃensorabile"
+  ],
+  "ascensorabili": [
+    "aʃʃensorabili"
+  ],
+  "ascensore": [
+    "aʃʃensore",
+    "aʃʃɛnsɔre"
+  ],
+  "ascensori": [
+    "aʃɛnsɔri"
+  ],
+  "ascesa": [
+    "aʃʃesa",
+    "aʃʃeza"
+  ],
+  "ascese": [
+    "aʃʃese"
+  ],
+  "ascesero": [
+    "aʃʃesero"
+  ],
+  "ascesi": [
+    "aʃʃesi",
+    "aʃʃɛzi"
+  ],
+  "asceso": [
+    "aʃʃeso"
+  ],
+  "ascessi": [
+    "aʃɛsːi"
+  ],
+  "ascesso": [
+    "aʃɛsːo",
+    "aʃʃɛsːo"
+  ],
+  "ascessuale": [
+    "aʃʃesːuale"
+  ],
+  "asceta": [
+    "aʃʃɛta"
+  ],
+  "ascete": [
+    "aʃʃɛte"
+  ],
+  "asceterio": [
+    "aʃʃetɛrjo"
+  ],
+  "asceti": [
+    "aʃʃɛti"
+  ],
+  "ascetica": [
+    "aʃʃɛtika"
+  ],
+  "asceticamente": [
+    "aʃʃetikamente"
+  ],
+  "ascetiche": [
+    "aʃʃɛtike"
+  ],
+  "ascetici": [
+    "aʃʃɛtitʃi"
+  ],
+  "ascetico": [
+    "aʃʃɛtiko"
+  ],
+  "ascetismi": [
+    "aʃʃetizmi"
+  ],
+  "ascetismo": [
+    "aʃʃetizmo"
+  ],
+  "ascia": [
+    "aʃʃa"
+  ],
+  "asciare": [
+    "aʃʃare"
+  ],
+  "asciatico": [
+    "aʃʃatiko"
+  ],
+  "asciolvere": [
+    "aʃʃɔlvere"
+  ],
+  "ascitizio": [
+    "aʃʃititːsjo"
+  ],
+  "asciuga": [
+    "aʃʃuɡa"
+  ],
+  "asciugabiancheria": [
+    "aʃʃuɡabjankeria"
+  ],
+  "asciugabile": [
+    "aʃʃuɡabile"
+  ],
+  "asciugabili": [
+    "aʃʃuɡabili"
+  ],
+  "asciugacapelli": [
+    "aʃʃuɡakapelːi"
+  ],
+  "asciugai": [
+    "aʃʃuɡai"
+  ],
+  "asciugamani": [
+    "aʃʃuɡamani"
+  ],
+  "asciugamano": [
+    "aʃʃuɡamano"
+  ],
+  "asciugammo": [
+    "aʃʃuɡamːo"
+  ],
+  "asciugando": [
+    "aʃʃuɡando"
+  ],
+  "asciugano": [
+    "aʃʃuɡano"
+  ],
+  "asciugante": [
+    "aʃʃuɡante"
+  ],
+  "asciuganti": [
+    "aʃʃuɡanti"
+  ],
+  "asciugare": [
+    "aʃʃuɡare"
+  ],
+  "asciugarono": [
+    "aʃʃuɡarono"
+  ],
+  "asciugarsi": [
+    "aʃʃuɡarsi"
+  ],
+  "asciugasse": [
+    "aʃʃuɡasːe"
+  ],
+  "asciugassero": [
+    "aʃʃuɡasːero"
+  ],
+  "asciugassi": [
+    "aʃʃuɡasːi"
+  ],
+  "asciugassimo": [
+    "aʃʃuɡasːimo"
+  ],
+  "asciugaste": [
+    "aʃʃuɡaste"
+  ],
+  "asciugasti": [
+    "aʃʃuɡasti"
+  ],
+  "asciugata": [
+    "aʃʃuɡata"
+  ],
+  "asciugate": [
+    "aʃʃuɡate"
+  ],
+  "asciugati": [
+    "aʃʃuɡati"
+  ],
+  "asciugato": [
+    "aʃʃuɡato"
+  ],
+  "asciugatrice": [
+    "aʃʃuɡatritʃe"
+  ],
+  "asciugava": [
+    "aʃʃuɡava"
+  ],
+  "asciugavamo": [
+    "aʃʃuɡavamo"
+  ],
+  "asciugavano": [
+    "aʃʃuɡavano"
+  ],
+  "asciugavate": [
+    "aʃʃuɡavate"
+  ],
+  "asciugavi": [
+    "aʃʃuɡavi"
+  ],
+  "asciugavo": [
+    "aʃʃuɡavo"
+  ],
+  "asciugherà": [
+    "aʃʃuɡera"
+  ],
+  "asciugherai": [
+    "aʃʃuɡerai"
+  ],
+  "asciugheranno": [
+    "aʃʃuɡeranːo"
+  ],
+  "asciugherebbe": [
+    "aʃʃuɡerebːe"
+  ],
+  "asciugherebbero": [
+    "aʃʃuɡerebːero"
+  ],
+  "asciugherei": [
+    "aʃʃuɡerei"
+  ],
+  "asciugheremmo": [
+    "aʃʃuɡeremːo"
+  ],
+  "asciugheremo": [
+    "aʃʃuɡeremo"
+  ],
+  "asciughereste": [
+    "aʃʃuɡereste"
+  ],
+  "asciugheresti": [
+    "aʃʃuɡeresti"
+  ],
+  "asciugherete": [
+    "aʃʃuɡerete"
+  ],
+  "asciugherò": [
+    "aʃʃuɡero"
+  ],
+  "asciughi": [
+    "aʃʃuɡi"
+  ],
+  "asciughiamo": [
+    "aʃʃuɡjamo"
+  ],
+  "asciughiate": [
+    "aʃʃuɡjate"
+  ],
+  "asciughino": [
+    "aʃʃuɡino"
+  ],
+  "asciugo": [
+    "aʃʃuɡo"
+  ],
+  "asciugò": [
+    "aʃʃuɡo"
+  ],
+  "asciutta": [
+    "aʃʃutːa"
+  ],
+  "asciuttamente": [
+    "aʃʃutːamente"
+  ],
+  "asciutte": [
+    "aʃʃutːe"
+  ],
+  "asciutti": [
+    "aʃʃutːo"
+  ],
+  "asciutto": [
+    "aʃʃutːo"
+  ],
+  "asclepiadeo": [
+    "asklepiadɛo"
+  ],
+  "asco": [
+    "asko"
+  ],
+  "ascolta": [
+    "askolta",
+    "askɔlta"
+  ],
+  "ascoltabile": [
+    "askoltabile"
+  ],
+  "ascoltabili": [
+    "askoltabili"
+  ],
+  "ascoltai": [
+    "askɔltai"
+  ],
+  "ascoltammo": [
+    "askɔltamːo"
+  ],
+  "ascoltando": [
+    "askɔltando"
+  ],
+  "ascoltano": [
+    "askɔltano"
+  ],
+  "ascoltante": [
+    "askɔltante"
+  ],
+  "ascoltare": [
+    "askoltare",
+    "askɔltare"
+  ],
+  "ascoltarono": [
+    "askɔltarono"
+  ],
+  "ascoltasse": [
+    "askɔltasːe"
+  ],
+  "ascoltassero": [
+    "askɔltasːero"
+  ],
+  "ascoltassi": [
+    "askɔltasːi"
+  ],
+  "ascoltassimo": [
+    "askɔltasːimo"
+  ],
+  "ascoltaste": [
+    "askɔltaste"
+  ],
+  "ascoltasti": [
+    "askɔltasti"
+  ],
+  "ascoltata": [
+    "askɔltati"
+  ],
+  "ascoltate": [
+    "askɔltate"
+  ],
+  "ascoltati": [
+    "askɔltati"
+  ],
+  "ascoltato": [
+    "askoltato",
+    "askɔltato"
+  ]
 }

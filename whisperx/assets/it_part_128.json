@@ -1,502 +1,1536 @@
 {
-  "parcheggino": ["p a r k e dː ʒ a sː i"],
-  "parcheggio": ["p a r k e dː ʒ o"],
-  "parcheggiò": ["p a r k e dː ʒ o", "p a r k e dː ʒ ɔ"],
-  "parchi": ["p a r k i"],
-  "parchimetri": ["p a r k i m e t r i"],
-  "parchimetro": ["p a r k i m e t r o"],
-  "parco": ["p a r k o"],
-  "parcometri": ["p a r k o m e t r i"],
-  "parcometro": ["p a r k o m e t r o"],
-  "pare": ["p a r e"],
-  "parecchia": ["p a r e kː i a"],
-  "parecchio": ["p a r e kː j o"],
-  "paredra": ["p a r e d r a", "p a r ɛ d r a"],
-  "paredre": ["p a r e d r e", "p a r ɛ d r e"],
-  "paredri": ["p a r e d r i", "p a r ɛ d r i"],
-  "paredro": ["p a r e d r o", "p a r ɛ d r o"],
-  "pareggi": ["p a r e dː ʒ i"],
-  "pareggiabile": ["p a r e dː ʒ a b i l e"],
-  "pareggiabili": ["p a r e dː ʒ a b i l i"],
-  "pareggiare": ["p a r e dː ʒ a r e"],
-  "pareggiato": ["p a r e dː ʒ a t o"],
-  "pareggio": ["p a r e dː ʒ o"],
-  "pareglio": ["p a r e ʎ o"],
-  "parelio": ["p a r ɛ l j o"],
-  "parenchimella": ["p a r e n k i m ɛ lː a"],
-  "parenchimula": ["p a r e n k i m u l a"],
-  "parentadi": ["p a r ɛ n t a d i"],
-  "parentado": ["p a r e n t a d o", "p a r ɛ n t a d o", "p a r ɛ n t a d ɔ"],
-  "parentale": ["p a r e n t a l e"],
-  "parentali": ["p a r e n t a l i"],
-  "parente": ["p a r ɛ n t e"],
-  "parentela": ["p a r e n t e l a", "p a r e n t ɛ l a"],
-  "parentele": ["p a r e n t e l e"],
-  "parentesi": ["p a r ɛ n t e z i"],
-  "parenti": ["p a r e n t i", "p a r ɛ n t i"],
-  "pareo": ["p a r ɛ o"],
-  "parere": ["p a r e r e", "p a r ɛ r e"],
-  "pareri": ["p a r ɛ r i"],
-  "parete": ["p a r e t e", "p a r ɛ t e"],
-  "pareti": ["p a r ɛ t i"],
-  "paretone": ["p a r e t o n e"],
-  "parevano": ["p a r e v a n o"],
-  "pargolo": ["p a r ɡ o l o"],
-  "pari": ["p a r i"],
-  "paria": ["p a r i a"],
-  "pariate": ["p a r j a t e"],
-  "paride": ["p a r i d e"],
-  "paridi": ["p a r i d i"],
-  "parietale": ["p a r j e t a l e"],
-  "parigi": ["p a r i d ʒ i"],
-  "parigina": ["p a r i d ʒ i n a"],
-  "parigine": ["p a r i d ʒ i n e"],
-  "parigini": ["p a r i d ʒ i n i"],
-  "parigino": ["p a r i d ʒ i n o"],
-  "parigli": ["p a r i ʎ i"],
-  "pariglia": ["p a r i ʎ a"],
-  "pariglie": ["p a r i ʎ e"],
-  "pariglio": ["p a r i ʎ o"],
-  "parimenti": ["p a r i m e n t i"],
-  "pariniano": ["p a r i n j a n o"],
-  "pariolino": ["p a r j o l i n o"],
-  "parità": ["p a r i t a"],
-  "paritario": ["p a r i t a r j o"],
-  "paritetico": ["p a r i t ɛ t i k o"],
-  "parkour": ["p a r k u r"],
-  "parla": ["p a r l a"],
-  "parlabile": ["p a r l a b i l e"],
-  "parlabili": ["p a r l a b i l i"],
-  "parlai": ["p a r l a i", "p a r l a j"],
-  "parlamentare": ["p a r l a m e n t a r e"],
-  "parlamentari": ["p a r l a m e n t a r i"],
-  "parlamentarismi": ["p a r l a m e n t a r i z m i"],
-  "parlamentarismo": ["p a r l a m e n t a r i z m o"],
-  "parlamentarista": ["p a r l a m e n t a r i s t a"],
-  "parlamentariste": ["p a r l a m e n t a r i s t e"],
-  "parlamentaristi": ["p a r l a m e n t a r i s t i"],
-  "parlamentaristica": ["p a r l a m e n t a r i s t i k a"],
-  "parlamentaristiche": ["p a r l a m e n t a r i s t i k e"],
-  "parlamentaristici": ["p a r l a m e n t a r i s t i t ʃ i"],
-  "parlamentaristico": ["p a r l a m e n t a r i s t i k o"],
-  "parlamenti": ["p a r l a m e n t i"],
-  "parlamento": ["p a r l a m e n t o"],
-  "parlammo": ["p a r l a mː o"],
-  "parlando": ["p a r l a n d o"],
-  "parlano": ["p a r l a n o"],
-  "parlante": ["p a r l a n t e"],
-  "parlanti": ["p a r l a n t e"],
-  "parlantina": ["p a r l a n t i n a"],
-  "parlare": ["p a r l a r e"],
-  "parlarono": ["p a r l a r o n o"],
-  "parlarsi": ["p a r l a r s i"],
-  "parlasse": ["p a r l a sː e"],
-  "parlassero": ["p a r l a sː e r o"],
-  "parlassi": ["p a r l a sː i"],
-  "parlassimo": ["p a r l a sː i m o"],
-  "parlaste": ["p a r l a s t e"],
-  "parlasti": ["p a r l a s t i"],
-  "parlata": ["p a r l a t a", "p a r l a t i"],
-  "parlate": ["p a r l a t e"],
-  "parlati": ["p a r l a t i"],
-  "parlato": ["p a r l a t o"],
-  "parlatori": ["p a r l a t o r i"],
-  "parlatorio": ["p a r l a t o r j o"],
-  "parlava": ["p a r l a v a"],
-  "parlavamo": ["p a r l a v a m o"],
-  "parlavano": ["p a r l a v a n o"],
-  "parlavate": ["p a r l a v a t e"],
-  "parlavi": ["p a r l a v i"],
-  "parlavo": ["p a r l a v o"],
-  "parlerà": ["p a r l e r a"],
-  "parlerai": ["p a r l e r a i"],
-  "parleranno": ["p a r l e r a nː o"],
-  "parlerebbe": ["p a r l e r e bː e"],
-  "parlerebbero": ["p a r l e r e bː e r o"],
-  "parlerei": ["p a r l e r e i"],
-  "parleremmo": ["p a r l e r e mː o"],
-  "parleremo": ["p a r l e r e m o"],
-  "parlereste": ["p a r l e r e s t e"],
-  "parleresti": ["p a r l e r e s t i"],
-  "parlerete": ["p a r l e r e t e"],
-  "parlerò": ["p a r l e r o"],
-  "parli": ["p a r l i"],
-  "parliamo": ["p a r l j a m o"],
-  "parliate": ["p a r l j a t e"],
-  "parlino": ["p a r l i n o"],
-  "parlo": ["p a r l o"],
-  "parlò": ["p a r l o"],
-  "parma": ["p a r m a"],
-  "parmenideo": ["p a r m e n i d ɛ o"],
-  "parmigiana": ["p a r m i d ʒ a n a"],
-  "parmigiano": ["p a r m i d ʒ a n o"],
-  "paro": ["p a r o"],
-  "parodia": ["p a r o d i a"],
-  "parodie": ["p a r o d i a"],
-  "parodista": ["p a r o d i s t a"],
-  "parodiste": ["p a r o d i s t e"],
-  "parodisti": ["p a r o d i s t i"],
-  "parodistico": ["p a r o d i s t i k o"],
-  "parodontite": ["p a r o d o n t i t e"],
-  "parodonto": ["p a r a d ɔ n t o"],
-  "parodontologia": ["p a r o d o n t o l o d ʒ i a"],
-  "parola": ["p a r ɔ l a"],
-  "parolacce": ["p a r o l a tː ʃ e"],
-  "parolaccia": ["p a r o l a tː ʃ a"],
-  "parolai": ["p a r o l a j"],
-  "parolaia": ["p a r o l a j"],
-  "parolaie": ["p a r o l a j e"],
-  "parolaio": ["p a r o l a j o"],
-  "parole": ["p a r ɔ l e"],
-  "parolina": ["p a r o l i n a"],
-  "paronimi": ["p a r ɔ n i m i"],
-  "paronimia": ["p a r o n i m i a"],
-  "paronimico": ["p a r o n i m i k o"],
-  "paronimo": ["p a r ɔ n i m o"],
-  "parossismi": ["p a r o sː i z m i"],
-  "parossismo": ["p a r o sː i z m o"],
-  "parossistico": ["p a r o sː i s t i k o"],
-  "parossitono": ["p a r o sː i t o n o"],
-  "parresia": ["p a rː e z i a"],
-  "parricida": ["p a rː i t ʃ i d a"],
-  "parricidi": ["p a rː i t ʃ i d i"],
-  "parricidio": ["p a rː i t ʃ i d j o"],
-  "parrocchetti": ["p a rː o kː e tː i"],
-  "parrocchetto": ["p a rː o kː e tː o"],
-  "parrocchia": ["p a rː ɔ kː j a"],
-  "parrocchiano": ["p a rː o kː j a n o"],
-  "parrochi": ["p a rː o k i"],
-  "parroco": ["p a rː o k o"],
-  "parrucca": ["p a rː u kː a"],
-  "parruccaia": ["p a rː u kː a j a"],
-  "parruccaio": ["p a rː u kː a j o"],
-  "parrucche": ["p a rː u kː e"],
-  "parruccheria": ["p a rː u kː e r i a"],
-  "parrucchiera": ["p a rː u kː j ɛ r a"],
-  "parrucchiere": ["p a rː u kː i ɛ r e", "p a rː u kː j ɛ r e"],
-  "parrucchieri": ["p a rː u kː j ɛ r i"],
-  "parrucchino": ["p a rː u kː i n o"],
-  "parsec": ["p a r s e k"],
-  "parsimonia": ["p a r s i m ɔ n j a"],
-  "parsimonie": ["p a r s i m ɔ n j e"],
-  "parsimonioso": ["p a r s i m o n j o z o"],
-  "parso": ["p a r s o"],
-  "parta": ["p a r t a"],
-  "partaccia": ["p a r t a tː ʃ a"],
-  "partano": ["p a r t a n o"],
-  "parte": ["p a r t e"],
-  "partecipante": ["p a r t e t ʃ i p a n t e"],
-  "partecipanti": ["p a r t e t ʃ i p a n t i"],
-  "partecipare": ["p a r t e t ʃ i p a r e"],
-  "partecipazione": ["p a r t e t ʃ i p a t s j o n e"],
-  "partecipazioni": ["p a r t e t ʃ i p a t s j o n i"],
-  "partecipe": ["p a r t e t ʃ i p e"],
-  "parteggiare": ["p a r t e dː ʒ a r e"],
-  "partendo": ["p a r t e n d o"],
-  "partenere": ["p a r t e n e r e"],
-  "partenogenesi": ["p a r t e n o d ʒ ɛ n e z i"],
-  "partenogenetico": ["p a r t e n o d ʒ e n ɛ t i k o"],
-  "partenopeo": ["p a r t e n o p ɛ o"],
-  "partente": ["p a r t e n t e", "p a r t ɛ n t e"],
-  "partenza": ["p a r t ɛ n t s a"],
-  "partenze": ["p a r t ɛ n t s e"],
-  "parti": ["p a r t i"],
-  "partì": ["p a r t i"],
-  "partiamo": ["p a r t j a m o"],
-  "partiate": ["p a r t j a t e"],
-  "particella": ["p a r t i t ʃ ɛ lː a"],
-  "particellare": ["p a r t i t ʃ e lː a r e"],
-  "particellari": ["p a r t i t ʃ e lː a r i"],
-  "particelle": ["p a r t i t ʃ ɛ lː e"],
-  "particina": ["p a r t i t ʃ i n a"],
-  "participio": ["p a r t i t ʃ i p j o", "p a r t i t ʃ i p j ɔ"],
-  "particolare": ["p a r t i k o l a r e"],
-  "particolareggiato": ["p a r t i k o l a r e dː ʒ a t o"],
-  "particolari": ["p a r t i k o l a r i"],
-  "particolarismo": ["p a r t i k o l a r i z m o"],
-  "particolarmente": ["p a r t i k o l a r m e n t e"],
-  "particulare": ["p a r t i k u l a r e"],
-  "partigiana": ["p a r t i d ʒ a n a"],
-  "partigiane": ["p a r t i d ʒ a n e"],
-  "partigianeria": ["p a r t i d ʒ a n e r i a"],
-  "partigiani": ["p a r t i d ʒ a n i"],
-  "partigiano": ["p a r t i d ʒ a n o"],
-  "partii": ["p a r t i i"],
-  "partimmo": ["p a r t i mː o"],
-  "partirà": ["p a r t i r a"],
-  "partirai": ["p a r t i r a i"],
-  "partiranno": ["p a r t i r a nː o"],
-  "partire": ["p a r t i r e"],
-  "partirebbe": ["p a r t i r e bː e"],
-  "partirebbero": ["p a r t i r e bː e r o"],
-  "partirei": ["p a r t i r e i"],
-  "partiremmo": ["p a r t i r e mː o"],
-  "partiremo": ["p a r t i r e m o"],
-  "partireste": ["p a r t i r e s t e"],
-  "partiresti": ["p a r t i r e s t i"],
-  "partirete": ["p a r t i r e t e"],
-  "partirò": ["p a r t i r o"],
-  "partirono": ["p a r t i r o n o"],
-  "partirsi": ["p a r t i r s i"],
-  "partisca": ["p a r t i s k a"],
-  "partiscano": ["p a r t i s k a n o"],
-  "partisce": ["p a r t i s ʃ e"],
-  "partisci": ["p a r t i s ʃ i"],
-  "partisco": ["p a r t i s k o"],
-  "partiscono": ["p a r t i s k o n o"],
-  "partisse": ["p a r t i sː e"],
-  "partissero": ["p a r t i sː e r o"],
-  "partissi": ["p a r t i sː i"],
-  "partissimo": ["p a r t i sː i m o"],
-  "partiste": ["p a r t i s t e"],
-  "partisti": ["p a r t i s t i"],
-  "partita": ["p a r t i t a"],
-  "partite": ["p a r t i t e"],
-  "partiti": ["p a r t i t i"],
-  "partitico": ["p a r t i t i k o"],
-  "partitino": ["p a r t i t i n o"],
-  "partitismo": ["p a r t i t i z m o"],
-  "partitivo": ["p a r t i t i v o"],
-  "partito": ["p a r t i t o", "p a r t i t ɔ"],
-  "partitocrazia": ["p a r t i t o k r a tː s i a"],
-  "partitone": ["p a r t i t o n e"],
-  "partitura": ["p a r t i t u r a"],
-  "partiture": ["p a r t i t u r e"],
-  "partiva": ["p a r t i v a"],
-  "partivamo": ["p a r t i v a m o"],
-  "partivano": ["p a r t i v a n o"],
-  "partivate": ["p a r t i v a t e"],
-  "partivi": ["p a r t i v i"],
-  "partivo": ["p a r t i v o"],
-  "partizione": ["p a r t i t s j o n e", "p a r t i tː s j o n e"],
-  "partizioni": ["p a r t i t s j o n i"],
-  "partner": ["p a r t n e r"],
-  "parto": ["p a r t o"],
-  "partono": ["p a r t o n o"],
-  "partoriente": ["p a r t o r j ɛ n t e"],
-  "partorienti": ["p a r t o r j ɛ n t i"],
-  "partorire": ["p a r t o r i r e"],
-  "party": ["p a r t i"],
-  "parulide": ["p a r u l i d e"],
-  "parulidi": ["p a r u l i d i"],
-  "parvenu": ["p a r v e n u"],
-  "parvenza": ["p a r v ɛ n t s a"],
-  "parvolezza": ["p a r v o l e tː s a"],
-  "parvolo": ["p a r v o l o"],
-  "parziale": ["p a r t s j a l e"],
-  "parzialità": ["p a r t s j a l i t a"],
-  "parzialmente": ["p a r t s j a l m e n t e", "p a r t s j a l m ɛ n t e"],
-  "pas": ["p a s"],
-  "pascal": ["p a s k a l"],
-  "pascale": ["p a s k a l e"],
-  "pascaliano": ["p a s k a l j a n o"],
-  "pascente": ["p a ʃ ʃ e n t e", "p a ʃ ʃ ɛ n t e"],
-  "pascere": ["p a ʃ ʃ e r e"],
-  "pascersi": ["p a ʃ ʃ e r e"],
-  "pascià": ["p a ʃ ʃ a"],
-  "pasciuta": ["p a ʃ ʃ u t a"],
-  "pasciute": ["p a ʃ ʃ u t e"],
-  "pasciuti": ["p a ʃ ʃ u t i"],
-  "pasciuto": ["p a ʃ ʃ u t o"],
-  "pascolare": ["p a s k o l a r e"],
-  "pascoli": ["p a s k o l i"],
-  "pascolo": ["p a s k o l o"],
-  "pasifae": ["p a z i f a e"],
-  "pasife": ["p a z i f e"],
-  "pasqua": ["p a s k w a"],
-  "pasquale": ["p a s k w a l e"],
-  "pasquetta": ["p a s k w e tː a"],
-  "pass": ["p a s"],
-  "passa": ["p a sː a"],
-  "passabile": ["p a sː a b i l e"],
-  "passabili": ["p a sː a b i l i"],
-  "passabilmente": ["p a sː a b i l m e n t e"],
-  "passacaglia": ["p a sː a k a ʎ a"],
-  "passacavo": ["p a sː a k a v o"],
-  "passaggere": ["p a sː a dː ʒ ɛ r e"],
-  "passaggeri": ["p a sː a dː ʒ ɛ r e"],
-  "passaggi": ["p a sː a dː ʒ i"],
-  "passaggiere": ["p a sː a dː ʒ ɛ r e"],
-  "passaggieri": ["p a sː a dː ʒ ɛ r i"],
-  "passaggio": ["p a sː a dː ʒ i o", "p a sː a dː ʒ o"],
-  "passamaneria": ["p a sː a m a n e r i a"],
-  "passamezzo": ["p a sː a m ɛ dː z o"],
-  "passammo": ["p a sː a mː o"],
-  "passamontagna": ["p a sː a m o n t a ɲ ɲ a"],
-  "passante": ["p a sː a n t e"],
-  "passanti": ["p a sː a n t i"],
-  "passaparola": ["p a sː a p a r ɔ l a"],
-  "passaporti": ["p a sː a p ɔ r t i"],
-  "passaporto": ["p a sː a p o r t o", "p a sː a p ɔ r t o"],
-  "passare": ["p a sː a r e"],
-  "passata": ["p a sː a t a"],
-  "passate": ["p a sː a t e"],
-  "passatempi": ["p a sː a t ɛ m p i"],
-  "passatempo": ["p a sː a t ɛ m p o"],
-  "passati": ["p a sː a t i"],
-  "passatismo": ["p a sː a t i z m o"],
-  "passatista": ["p a sː a t i s t a"],
-  "passato": ["p a sː a t o", "p a sː a t ɔ"],
-  "passava": ["p a sː a v a"],
-  "passavedute": ["p a sː a v e d u t e"],
-  "passaverdura": ["p a sː a v e r d u r a"],
-  "passeggera": ["p a sː a dː ʒ ɛ r a"],
-  "passeggere": ["p a sː a dː ʒ ɛ r e"],
-  "passeggeri": ["p a sː a dː ʒ ɛ r i"],
-  "passeggero": ["p a sː a dː ʒ ɛ r o", "p a sː e dː ʒ ɛ r o"],
-  "passeggi": ["p a sː e dː ʒ i"],
-  "passeggiammo": ["p a sː e dː ʒ a mː o"],
-  "passeggiare": ["p a sː e dː ʒ a r e"],
-  "passeggiata": ["p a sː e dː ʒ a t a", "p a sː ɛ ɡ d ʒ a t a"],
-  "passeggiate": ["p a sː ɛ ɡ d ʒ a t e"],
-  "passeggiato": ["p a sː e dː ʒ a t o"],
-  "passeggiatore": ["p a sː e dː ʒ a t o r e"],
-  "passeggiatori": ["p a sː e dː ʒ a t o r i"],
-  "passeggiatrice": ["p a sː e dː ʒ a t r i t ʃ e"],
-  "passeggiatrici": ["p a sː e dː ʒ a t r i t ʃ i"],
-  "passeggio": ["p a sː e dː ʒ o"],
-  "passemezzo": ["p a sː e m ɛ dː z o"],
-  "passepartout": ["p a s p a r t u"],
-  "passera": ["p a sː e r a", "p a sː ɛ r a"],
-  "passeraceo": ["p a sː e r a t ʃ e o"],
-  "passere": ["p a sː e r e"],
-  "passerella": ["p a sː e r ɛ lː a"],
-  "passeri": ["p a sː ɛ r i"],
-  "passeride": ["p a sː ɛ r i d e"],
-  "passeridi": ["p a sː ɛ r i d i"],
-  "passeriforme": ["p a sː e r i f o r m e"],
-  "passeriformi": ["p a sː e r i f o r m i"],
-  "passero": ["p a sː e r o", "p a sː ɛ r ɔ"],
-  "passerotti": ["p a sː e r ɔ tː i"],
-  "passerotto": ["p a sː e r ɔ tː o"],
-  "passettino": ["p a sː e tː i n o"],
-  "passi": ["p a sː i"],
-  "passionale": ["p a sː j o n a l e"],
-  "passionalmente": ["p a sː j o n a l m e n t e"],
-  "passione": ["p a sː j o n e"],
-  "passioni": ["p a sː j o n i"],
-  "passista": ["p a sː i s t a"],
-  "passito": ["p a sː i t o"],
-  "passiva": ["p a sː i v a"],
-  "passivamente": ["p a sː i v a m e n t e"],
-  "passivare": ["p a sː i v a r e"],
-  "passive": ["p a sː i v e"],
-  "passivi": ["p a sː i v i"],
-  "passivo": ["p a sː i v o"],
-  "passo": ["p a sː o", "p a sː ɔ"],
-  "password": ["p a s w o r d", "p a z w e r d", "p a z w o r d"],
-  "pasta": ["p a s t a"],
-  "pastaio": ["p a s t a j o"],
-  "pastasciutta": ["p a s t a ʃ ʃ u tː a"],
-  "pastazzo": ["p a s t a tː s o"],
-  "pasteca": ["p a s t ɛ k a"],
-  "pastecca": ["p a s t ɛ kː a"],
-  "pasteche": ["p a s t ɛ k e"],
-  "pastella": ["p a s t ɛ lː a"],
-  "pastello": ["p a s t ɛ lː o"],
-  "pasti": ["p a s t i"],
-  "pasticca": ["p a s t i kː a"],
-  "pasticceria": ["p a s t i t ʃ e r i a", "p a s t i tː ʃ e r i a"],
-  "pasticcerie": ["p a s t i tː ʃ e r i e"],
-  "pasticci": ["p a s t i tː ʃ i"],
-  "pasticciere": ["p a s t i tː ʃ ɛ r e"],
-  "pasticcieri": ["p a s t i tː ʃ ɛ r i"],
-  "pasticcino": ["p a s t i tː ʃ i n o"],
-  "pasticcio": ["p a s t i tː ʃ o"],
-  "pasticcione": ["p a s t i tː ʃ o n e"],
-  "pasticciotto": ["p a s t i tː ʃ ɔ tː o"],
-  "pastiera": ["p a s t j ɛ r a"],
-  "pastiere": ["p a s t j ɛ r e"],
-  "pastificio": ["p a s t i f i t ʃ o"],
-  "pastiglia": ["p a s t i ʎ a"],
-  "pastina": ["p a s t i n a"],
-  "pastinare": ["p a s t i n a r e"],
-  "pastine": ["p a s t i n e"],
-  "pastini": ["p a s t i n i"],
-  "pastino": ["p a s t i n o"],
-  "pasto": ["p a s t o"],
-  "pastoia": ["p a s t o j a"],
-  "pastora": ["p a s t o r a"],
-  "pastorale": ["p a s t ɔ r a l ɛ"],
-  "pastorali": ["p a s t ɔ r a l i"],
-  "pastore": ["p a s t o r e"],
-  "pastori": ["p a s t o r i"],
-  "pastorizio": ["p a s t o r i tː s j o"],
-  "pastorizzare": ["p a s t o r i dː z a r e"],
-  "pastorizzato": ["p a s t o r i dː z a t o"],
-  "pastorizzazione": ["p a s t o r i dː z a t s j ɔ n e"],
-  "pastoso": ["p a s t o s o", "p a s t o z o"],
-  "pastrocchio": ["p a s t r ɔ kː j o"],
-  "pastura": ["p a s t u r a"],
-  "pasturare": ["p a s t u r a r e"],
-  "patacca": ["p a t a kː a"],
-  "patagone": ["p a t a ɡ o n e"],
-  "patagoni": ["p a t a ɡ o n i"],
-  "patagonia": ["p a t a ɡ ɔ n j a"],
-  "patagonica": ["p a t a ɡ ɔ n i k a"],
-  "patagoniche": ["p a t a ɡ ɔ n i k e"],
-  "patagonici": ["p a t a ɡ ɔ n i k o"],
-  "patagonico": ["p a t a ɡ ɔ n i k o"],
-  "patata": ["p a t a t a"],
-  "patataia": ["p a t a t a j a"],
-  "patataio": ["p a t a t a j o"],
-  "patate": ["p a t a t e"],
-  "patatoso": ["p a t a t o s o", "p a t a t o z o"],
-  "patatucco": ["p a t a t u kː o"],
-  "patavino": ["p a t a v i n o"],
-  "pate": ["p a t e"],
-  "patella": ["p a t ɛ lː a"],
-  "patentare": ["p a t e n t a r e"],
-  "patente": ["p a t ɛ n t e"],
-  "patenti": ["p a t ɛ n t i"],
-  "patentino": ["p a t e n t i n o"],
-  "pateracchio": ["p a t e r a kː j o"],
-  "paterna": ["p a t ɛ r n a"],
-  "paternale": ["p a t e r n a l e"],
-  "paternalismo": ["p a t e r n a l i z m o"],
-  "paternalisticamente": ["p a t e r n a l i s t i k a m e n t e"],
-  "paterne": ["p a t ɛ r n e"],
-  "paterni": ["p a t ɛ r n i"],
-  "paternità": ["p a t e r n i t a"],
-  "paterno": ["p a t ɛ r n o"],
-  "patetico": ["p a t ɛ t i k o"],
-  "pathos": ["p a t o s"],
-  "patibolo": ["p a t i b o l o"],
-  "patimenti": ["p a t i m e n t i"],
-  "patimento": ["p a t i m e n t o"],
-  "patina": ["p a t i n a"],
-  "patire": ["p a t i r e"],
-  "patita": ["p a t i t a"],
-  "patite": ["p a t i t e"],
-  "patiti": ["p a t i t i"],
-  "patito": ["p a t i t o"],
-  "patogenesi": ["p a t o d ʒ ɛ n e z i"],
-  "patogenicità": ["p a t o d ʒ e n i t ʃ i t a"],
-  "patogeno": ["p a t ɔ d ʒ e n o"],
-  "patologia": ["p a t o l o d ʒ i a"],
-  "patologica": ["p a t o l ɔ d ʒ i k a"],
-  "patologiche": ["p a t o l ɔ d ʒ i k e"],
-  "patologici": ["p a t o l ɔ d ʒ i t ʃ i"],
-  "patologico": ["p a t o l ɔ d ʒ i k o"],
-  "patologie": ["p a t o l o d ʒ i e"],
-  "patologista": ["p a t o l o d ʒ i s t a"],
-  "patologiste": ["p a t o l o d ʒ i s t e"],
-  "patologisti": ["p a t o l o d ʒ i s t i"],
-  "patologo": ["p a t ɔ l o ɡ o"],
-  "patre": ["p a t r e"],
-  "patria": ["p a t r i a", "p a t r j a"],
-  "patriarca": ["p a t r i a r k a"],
-  "patriarcato": ["p a t r j a r k a t o"],
-  "patriarchi": ["p a t r i a r k i"],
-  "patrigni": ["p a t r i ɲ ɲ i"],
-  "patrigno": ["p a t r i ɲ ɲ o"],
-  "patrimo": ["p a t r i m o"],
-  "patrimoniale": ["p a t r i m o n j a l e"],
-  "patrimonio": ["p a t r i m ɔ n j o"],
-  "patrio": ["p a t r j o"],
-  "patriota": ["p a t r i ɔ t a"],
-  "patriote": ["p a t r i ɔ t e"],
-  "patrioti": ["p a t r i ɔ t i"],
-  "patriottardo": ["p a t r i o tː a r d o"],
-  "patriottico": ["p a t r i ɔ tː i k o"]
+  "parcheggino": [
+    "parkedːʒasːi"
+  ],
+  "parcheggio": [
+    "parkedːʒo"
+  ],
+  "parcheggiò": [
+    "parkedːʒo",
+    "parkedːʒɔ"
+  ],
+  "parchi": [
+    "parki"
+  ],
+  "parchimetri": [
+    "parkimetri"
+  ],
+  "parchimetro": [
+    "parkimetro"
+  ],
+  "parco": [
+    "parko"
+  ],
+  "parcometri": [
+    "parkometri"
+  ],
+  "parcometro": [
+    "parkometro"
+  ],
+  "pare": [
+    "pare"
+  ],
+  "parecchia": [
+    "parekːia"
+  ],
+  "parecchio": [
+    "parekːjo"
+  ],
+  "paredra": [
+    "paredra",
+    "parɛdra"
+  ],
+  "paredre": [
+    "paredre",
+    "parɛdre"
+  ],
+  "paredri": [
+    "paredri",
+    "parɛdri"
+  ],
+  "paredro": [
+    "paredro",
+    "parɛdro"
+  ],
+  "pareggi": [
+    "paredːʒi"
+  ],
+  "pareggiabile": [
+    "paredːʒabile"
+  ],
+  "pareggiabili": [
+    "paredːʒabili"
+  ],
+  "pareggiare": [
+    "paredːʒare"
+  ],
+  "pareggiato": [
+    "paredːʒato"
+  ],
+  "pareggio": [
+    "paredːʒo"
+  ],
+  "pareglio": [
+    "pareʎo"
+  ],
+  "parelio": [
+    "parɛljo"
+  ],
+  "parenchimella": [
+    "parenkimɛlːa"
+  ],
+  "parenchimula": [
+    "parenkimula"
+  ],
+  "parentadi": [
+    "parɛntadi"
+  ],
+  "parentado": [
+    "parentado",
+    "parɛntado",
+    "parɛntadɔ"
+  ],
+  "parentale": [
+    "parentale"
+  ],
+  "parentali": [
+    "parentali"
+  ],
+  "parente": [
+    "parɛnte"
+  ],
+  "parentela": [
+    "parentela",
+    "parentɛla"
+  ],
+  "parentele": [
+    "parentele"
+  ],
+  "parentesi": [
+    "parɛntezi"
+  ],
+  "parenti": [
+    "parenti",
+    "parɛnti"
+  ],
+  "pareo": [
+    "parɛo"
+  ],
+  "parere": [
+    "parere",
+    "parɛre"
+  ],
+  "pareri": [
+    "parɛri"
+  ],
+  "parete": [
+    "parete",
+    "parɛte"
+  ],
+  "pareti": [
+    "parɛti"
+  ],
+  "paretone": [
+    "paretone"
+  ],
+  "parevano": [
+    "parevano"
+  ],
+  "pargolo": [
+    "parɡolo"
+  ],
+  "pari": [
+    "pari"
+  ],
+  "paria": [
+    "paria"
+  ],
+  "pariate": [
+    "parjate"
+  ],
+  "paride": [
+    "paride"
+  ],
+  "paridi": [
+    "paridi"
+  ],
+  "parietale": [
+    "parjetale"
+  ],
+  "parigi": [
+    "paridʒi"
+  ],
+  "parigina": [
+    "paridʒina"
+  ],
+  "parigine": [
+    "paridʒine"
+  ],
+  "parigini": [
+    "paridʒini"
+  ],
+  "parigino": [
+    "paridʒino"
+  ],
+  "parigli": [
+    "pariʎi"
+  ],
+  "pariglia": [
+    "pariʎa"
+  ],
+  "pariglie": [
+    "pariʎe"
+  ],
+  "pariglio": [
+    "pariʎo"
+  ],
+  "parimenti": [
+    "parimenti"
+  ],
+  "pariniano": [
+    "parinjano"
+  ],
+  "pariolino": [
+    "parjolino"
+  ],
+  "parità": [
+    "parita"
+  ],
+  "paritario": [
+    "paritarjo"
+  ],
+  "paritetico": [
+    "paritɛtiko"
+  ],
+  "parkour": [
+    "parkur"
+  ],
+  "parla": [
+    "parla"
+  ],
+  "parlabile": [
+    "parlabile"
+  ],
+  "parlabili": [
+    "parlabili"
+  ],
+  "parlai": [
+    "parlai",
+    "parlaj"
+  ],
+  "parlamentare": [
+    "parlamentare"
+  ],
+  "parlamentari": [
+    "parlamentari"
+  ],
+  "parlamentarismi": [
+    "parlamentarizmi"
+  ],
+  "parlamentarismo": [
+    "parlamentarizmo"
+  ],
+  "parlamentarista": [
+    "parlamentarista"
+  ],
+  "parlamentariste": [
+    "parlamentariste"
+  ],
+  "parlamentaristi": [
+    "parlamentaristi"
+  ],
+  "parlamentaristica": [
+    "parlamentaristika"
+  ],
+  "parlamentaristiche": [
+    "parlamentaristike"
+  ],
+  "parlamentaristici": [
+    "parlamentaristitʃi"
+  ],
+  "parlamentaristico": [
+    "parlamentaristiko"
+  ],
+  "parlamenti": [
+    "parlamenti"
+  ],
+  "parlamento": [
+    "parlamento"
+  ],
+  "parlammo": [
+    "parlamːo"
+  ],
+  "parlando": [
+    "parlando"
+  ],
+  "parlano": [
+    "parlano"
+  ],
+  "parlante": [
+    "parlante"
+  ],
+  "parlanti": [
+    "parlante"
+  ],
+  "parlantina": [
+    "parlantina"
+  ],
+  "parlare": [
+    "parlare"
+  ],
+  "parlarono": [
+    "parlarono"
+  ],
+  "parlarsi": [
+    "parlarsi"
+  ],
+  "parlasse": [
+    "parlasːe"
+  ],
+  "parlassero": [
+    "parlasːero"
+  ],
+  "parlassi": [
+    "parlasːi"
+  ],
+  "parlassimo": [
+    "parlasːimo"
+  ],
+  "parlaste": [
+    "parlaste"
+  ],
+  "parlasti": [
+    "parlasti"
+  ],
+  "parlata": [
+    "parlata",
+    "parlati"
+  ],
+  "parlate": [
+    "parlate"
+  ],
+  "parlati": [
+    "parlati"
+  ],
+  "parlato": [
+    "parlato"
+  ],
+  "parlatori": [
+    "parlatori"
+  ],
+  "parlatorio": [
+    "parlatorjo"
+  ],
+  "parlava": [
+    "parlava"
+  ],
+  "parlavamo": [
+    "parlavamo"
+  ],
+  "parlavano": [
+    "parlavano"
+  ],
+  "parlavate": [
+    "parlavate"
+  ],
+  "parlavi": [
+    "parlavi"
+  ],
+  "parlavo": [
+    "parlavo"
+  ],
+  "parlerà": [
+    "parlera"
+  ],
+  "parlerai": [
+    "parlerai"
+  ],
+  "parleranno": [
+    "parleranːo"
+  ],
+  "parlerebbe": [
+    "parlerebːe"
+  ],
+  "parlerebbero": [
+    "parlerebːero"
+  ],
+  "parlerei": [
+    "parlerei"
+  ],
+  "parleremmo": [
+    "parleremːo"
+  ],
+  "parleremo": [
+    "parleremo"
+  ],
+  "parlereste": [
+    "parlereste"
+  ],
+  "parleresti": [
+    "parleresti"
+  ],
+  "parlerete": [
+    "parlerete"
+  ],
+  "parlerò": [
+    "parlero"
+  ],
+  "parli": [
+    "parli"
+  ],
+  "parliamo": [
+    "parljamo"
+  ],
+  "parliate": [
+    "parljate"
+  ],
+  "parlino": [
+    "parlino"
+  ],
+  "parlo": [
+    "parlo"
+  ],
+  "parlò": [
+    "parlo"
+  ],
+  "parma": [
+    "parma"
+  ],
+  "parmenideo": [
+    "parmenidɛo"
+  ],
+  "parmigiana": [
+    "parmidʒana"
+  ],
+  "parmigiano": [
+    "parmidʒano"
+  ],
+  "paro": [
+    "paro"
+  ],
+  "parodia": [
+    "parodia"
+  ],
+  "parodie": [
+    "parodia"
+  ],
+  "parodista": [
+    "parodista"
+  ],
+  "parodiste": [
+    "parodiste"
+  ],
+  "parodisti": [
+    "parodisti"
+  ],
+  "parodistico": [
+    "parodistiko"
+  ],
+  "parodontite": [
+    "parodontite"
+  ],
+  "parodonto": [
+    "paradɔnto"
+  ],
+  "parodontologia": [
+    "parodontolodʒia"
+  ],
+  "parola": [
+    "parɔla"
+  ],
+  "parolacce": [
+    "parolatːʃe"
+  ],
+  "parolaccia": [
+    "parolatːʃa"
+  ],
+  "parolai": [
+    "parolaj"
+  ],
+  "parolaia": [
+    "parolaj"
+  ],
+  "parolaie": [
+    "parolaje"
+  ],
+  "parolaio": [
+    "parolajo"
+  ],
+  "parole": [
+    "parɔle"
+  ],
+  "parolina": [
+    "parolina"
+  ],
+  "paronimi": [
+    "parɔnimi"
+  ],
+  "paronimia": [
+    "paronimia"
+  ],
+  "paronimico": [
+    "paronimiko"
+  ],
+  "paronimo": [
+    "parɔnimo"
+  ],
+  "parossismi": [
+    "parosːizmi"
+  ],
+  "parossismo": [
+    "parosːizmo"
+  ],
+  "parossistico": [
+    "parosːistiko"
+  ],
+  "parossitono": [
+    "parosːitono"
+  ],
+  "parresia": [
+    "parːezia"
+  ],
+  "parricida": [
+    "parːitʃida"
+  ],
+  "parricidi": [
+    "parːitʃidi"
+  ],
+  "parricidio": [
+    "parːitʃidjo"
+  ],
+  "parrocchetti": [
+    "parːokːetːi"
+  ],
+  "parrocchetto": [
+    "parːokːetːo"
+  ],
+  "parrocchia": [
+    "parːɔkːja"
+  ],
+  "parrocchiano": [
+    "parːokːjano"
+  ],
+  "parrochi": [
+    "parːoki"
+  ],
+  "parroco": [
+    "parːoko"
+  ],
+  "parrucca": [
+    "parːukːa"
+  ],
+  "parruccaia": [
+    "parːukːaja"
+  ],
+  "parruccaio": [
+    "parːukːajo"
+  ],
+  "parrucche": [
+    "parːukːe"
+  ],
+  "parruccheria": [
+    "parːukːeria"
+  ],
+  "parrucchiera": [
+    "parːukːjɛra"
+  ],
+  "parrucchiere": [
+    "parːukːiɛre",
+    "parːukːjɛre"
+  ],
+  "parrucchieri": [
+    "parːukːjɛri"
+  ],
+  "parrucchino": [
+    "parːukːino"
+  ],
+  "parsec": [
+    "parsek"
+  ],
+  "parsimonia": [
+    "parsimɔnja"
+  ],
+  "parsimonie": [
+    "parsimɔnje"
+  ],
+  "parsimonioso": [
+    "parsimonjozo"
+  ],
+  "parso": [
+    "parso"
+  ],
+  "parta": [
+    "parta"
+  ],
+  "partaccia": [
+    "partatːʃa"
+  ],
+  "partano": [
+    "partano"
+  ],
+  "parte": [
+    "parte"
+  ],
+  "partecipante": [
+    "partetʃipante"
+  ],
+  "partecipanti": [
+    "partetʃipanti"
+  ],
+  "partecipare": [
+    "partetʃipare"
+  ],
+  "partecipazione": [
+    "partetʃipatsjone"
+  ],
+  "partecipazioni": [
+    "partetʃipatsjoni"
+  ],
+  "partecipe": [
+    "partetʃipe"
+  ],
+  "parteggiare": [
+    "partedːʒare"
+  ],
+  "partendo": [
+    "partendo"
+  ],
+  "partenere": [
+    "partenere"
+  ],
+  "partenogenesi": [
+    "partenodʒɛnezi"
+  ],
+  "partenogenetico": [
+    "partenodʒenɛtiko"
+  ],
+  "partenopeo": [
+    "partenopɛo"
+  ],
+  "partente": [
+    "partente",
+    "partɛnte"
+  ],
+  "partenza": [
+    "partɛntsa"
+  ],
+  "partenze": [
+    "partɛntse"
+  ],
+  "parti": [
+    "parti"
+  ],
+  "partì": [
+    "parti"
+  ],
+  "partiamo": [
+    "partjamo"
+  ],
+  "partiate": [
+    "partjate"
+  ],
+  "particella": [
+    "partitʃɛlːa"
+  ],
+  "particellare": [
+    "partitʃelːare"
+  ],
+  "particellari": [
+    "partitʃelːari"
+  ],
+  "particelle": [
+    "partitʃɛlːe"
+  ],
+  "particina": [
+    "partitʃina"
+  ],
+  "participio": [
+    "partitʃipjo",
+    "partitʃipjɔ"
+  ],
+  "particolare": [
+    "partikolare"
+  ],
+  "particolareggiato": [
+    "partikolaredːʒato"
+  ],
+  "particolari": [
+    "partikolari"
+  ],
+  "particolarismo": [
+    "partikolarizmo"
+  ],
+  "particolarmente": [
+    "partikolarmente"
+  ],
+  "particulare": [
+    "partikulare"
+  ],
+  "partigiana": [
+    "partidʒana"
+  ],
+  "partigiane": [
+    "partidʒane"
+  ],
+  "partigianeria": [
+    "partidʒaneria"
+  ],
+  "partigiani": [
+    "partidʒani"
+  ],
+  "partigiano": [
+    "partidʒano"
+  ],
+  "partii": [
+    "partii"
+  ],
+  "partimmo": [
+    "partimːo"
+  ],
+  "partirà": [
+    "partira"
+  ],
+  "partirai": [
+    "partirai"
+  ],
+  "partiranno": [
+    "partiranːo"
+  ],
+  "partire": [
+    "partire"
+  ],
+  "partirebbe": [
+    "partirebːe"
+  ],
+  "partirebbero": [
+    "partirebːero"
+  ],
+  "partirei": [
+    "partirei"
+  ],
+  "partiremmo": [
+    "partiremːo"
+  ],
+  "partiremo": [
+    "partiremo"
+  ],
+  "partireste": [
+    "partireste"
+  ],
+  "partiresti": [
+    "partiresti"
+  ],
+  "partirete": [
+    "partirete"
+  ],
+  "partirò": [
+    "partiro"
+  ],
+  "partirono": [
+    "partirono"
+  ],
+  "partirsi": [
+    "partirsi"
+  ],
+  "partisca": [
+    "partiska"
+  ],
+  "partiscano": [
+    "partiskano"
+  ],
+  "partisce": [
+    "partisʃe"
+  ],
+  "partisci": [
+    "partisʃi"
+  ],
+  "partisco": [
+    "partisko"
+  ],
+  "partiscono": [
+    "partiskono"
+  ],
+  "partisse": [
+    "partisːe"
+  ],
+  "partissero": [
+    "partisːero"
+  ],
+  "partissi": [
+    "partisːi"
+  ],
+  "partissimo": [
+    "partisːimo"
+  ],
+  "partiste": [
+    "partiste"
+  ],
+  "partisti": [
+    "partisti"
+  ],
+  "partita": [
+    "partita"
+  ],
+  "partite": [
+    "partite"
+  ],
+  "partiti": [
+    "partiti"
+  ],
+  "partitico": [
+    "partitiko"
+  ],
+  "partitino": [
+    "partitino"
+  ],
+  "partitismo": [
+    "partitizmo"
+  ],
+  "partitivo": [
+    "partitivo"
+  ],
+  "partito": [
+    "partito",
+    "partitɔ"
+  ],
+  "partitocrazia": [
+    "partitokratːsia"
+  ],
+  "partitone": [
+    "partitone"
+  ],
+  "partitura": [
+    "partitura"
+  ],
+  "partiture": [
+    "partiture"
+  ],
+  "partiva": [
+    "partiva"
+  ],
+  "partivamo": [
+    "partivamo"
+  ],
+  "partivano": [
+    "partivano"
+  ],
+  "partivate": [
+    "partivate"
+  ],
+  "partivi": [
+    "partivi"
+  ],
+  "partivo": [
+    "partivo"
+  ],
+  "partizione": [
+    "partitsjone",
+    "partitːsjone"
+  ],
+  "partizioni": [
+    "partitsjoni"
+  ],
+  "partner": [
+    "partner"
+  ],
+  "parto": [
+    "parto"
+  ],
+  "partono": [
+    "partono"
+  ],
+  "partoriente": [
+    "partorjɛnte"
+  ],
+  "partorienti": [
+    "partorjɛnti"
+  ],
+  "partorire": [
+    "partorire"
+  ],
+  "party": [
+    "parti"
+  ],
+  "parulide": [
+    "parulide"
+  ],
+  "parulidi": [
+    "parulidi"
+  ],
+  "parvenu": [
+    "parvenu"
+  ],
+  "parvenza": [
+    "parvɛntsa"
+  ],
+  "parvolezza": [
+    "parvoletːsa"
+  ],
+  "parvolo": [
+    "parvolo"
+  ],
+  "parziale": [
+    "partsjale"
+  ],
+  "parzialità": [
+    "partsjalita"
+  ],
+  "parzialmente": [
+    "partsjalmente",
+    "partsjalmɛnte"
+  ],
+  "pas": [
+    "pas"
+  ],
+  "pascal": [
+    "paskal"
+  ],
+  "pascale": [
+    "paskale"
+  ],
+  "pascaliano": [
+    "paskaljano"
+  ],
+  "pascente": [
+    "paʃʃente",
+    "paʃʃɛnte"
+  ],
+  "pascere": [
+    "paʃʃere"
+  ],
+  "pascersi": [
+    "paʃʃere"
+  ],
+  "pascià": [
+    "paʃʃa"
+  ],
+  "pasciuta": [
+    "paʃʃuta"
+  ],
+  "pasciute": [
+    "paʃʃute"
+  ],
+  "pasciuti": [
+    "paʃʃuti"
+  ],
+  "pasciuto": [
+    "paʃʃuto"
+  ],
+  "pascolare": [
+    "paskolare"
+  ],
+  "pascoli": [
+    "paskoli"
+  ],
+  "pascolo": [
+    "paskolo"
+  ],
+  "pasifae": [
+    "pazifae"
+  ],
+  "pasife": [
+    "pazife"
+  ],
+  "pasqua": [
+    "paskwa"
+  ],
+  "pasquale": [
+    "paskwale"
+  ],
+  "pasquetta": [
+    "paskwetːa"
+  ],
+  "pass": [
+    "pas"
+  ],
+  "passa": [
+    "pasːa"
+  ],
+  "passabile": [
+    "pasːabile"
+  ],
+  "passabili": [
+    "pasːabili"
+  ],
+  "passabilmente": [
+    "pasːabilmente"
+  ],
+  "passacaglia": [
+    "pasːakaʎa"
+  ],
+  "passacavo": [
+    "pasːakavo"
+  ],
+  "passaggere": [
+    "pasːadːʒɛre"
+  ],
+  "passaggeri": [
+    "pasːadːʒɛre"
+  ],
+  "passaggi": [
+    "pasːadːʒi"
+  ],
+  "passaggiere": [
+    "pasːadːʒɛre"
+  ],
+  "passaggieri": [
+    "pasːadːʒɛri"
+  ],
+  "passaggio": [
+    "pasːadːʒio",
+    "pasːadːʒo"
+  ],
+  "passamaneria": [
+    "pasːamaneria"
+  ],
+  "passamezzo": [
+    "pasːamɛdːzo"
+  ],
+  "passammo": [
+    "pasːamːo"
+  ],
+  "passamontagna": [
+    "pasːamontaɲɲa"
+  ],
+  "passante": [
+    "pasːante"
+  ],
+  "passanti": [
+    "pasːanti"
+  ],
+  "passaparola": [
+    "pasːaparɔla"
+  ],
+  "passaporti": [
+    "pasːapɔrti"
+  ],
+  "passaporto": [
+    "pasːaporto",
+    "pasːapɔrto"
+  ],
+  "passare": [
+    "pasːare"
+  ],
+  "passata": [
+    "pasːata"
+  ],
+  "passate": [
+    "pasːate"
+  ],
+  "passatempi": [
+    "pasːatɛmpi"
+  ],
+  "passatempo": [
+    "pasːatɛmpo"
+  ],
+  "passati": [
+    "pasːati"
+  ],
+  "passatismo": [
+    "pasːatizmo"
+  ],
+  "passatista": [
+    "pasːatista"
+  ],
+  "passato": [
+    "pasːato",
+    "pasːatɔ"
+  ],
+  "passava": [
+    "pasːava"
+  ],
+  "passavedute": [
+    "pasːavedute"
+  ],
+  "passaverdura": [
+    "pasːaverdura"
+  ],
+  "passeggera": [
+    "pasːadːʒɛra"
+  ],
+  "passeggere": [
+    "pasːadːʒɛre"
+  ],
+  "passeggeri": [
+    "pasːadːʒɛri"
+  ],
+  "passeggero": [
+    "pasːadːʒɛro",
+    "pasːedːʒɛro"
+  ],
+  "passeggi": [
+    "pasːedːʒi"
+  ],
+  "passeggiammo": [
+    "pasːedːʒamːo"
+  ],
+  "passeggiare": [
+    "pasːedːʒare"
+  ],
+  "passeggiata": [
+    "pasːedːʒata",
+    "pasːɛɡdʒata"
+  ],
+  "passeggiate": [
+    "pasːɛɡdʒate"
+  ],
+  "passeggiato": [
+    "pasːedːʒato"
+  ],
+  "passeggiatore": [
+    "pasːedːʒatore"
+  ],
+  "passeggiatori": [
+    "pasːedːʒatori"
+  ],
+  "passeggiatrice": [
+    "pasːedːʒatritʃe"
+  ],
+  "passeggiatrici": [
+    "pasːedːʒatritʃi"
+  ],
+  "passeggio": [
+    "pasːedːʒo"
+  ],
+  "passemezzo": [
+    "pasːemɛdːzo"
+  ],
+  "passepartout": [
+    "paspartu"
+  ],
+  "passera": [
+    "pasːera",
+    "pasːɛra"
+  ],
+  "passeraceo": [
+    "pasːeratʃeo"
+  ],
+  "passere": [
+    "pasːere"
+  ],
+  "passerella": [
+    "pasːerɛlːa"
+  ],
+  "passeri": [
+    "pasːɛri"
+  ],
+  "passeride": [
+    "pasːɛride"
+  ],
+  "passeridi": [
+    "pasːɛridi"
+  ],
+  "passeriforme": [
+    "pasːeriforme"
+  ],
+  "passeriformi": [
+    "pasːeriformi"
+  ],
+  "passero": [
+    "pasːero",
+    "pasːɛrɔ"
+  ],
+  "passerotti": [
+    "pasːerɔtːi"
+  ],
+  "passerotto": [
+    "pasːerɔtːo"
+  ],
+  "passettino": [
+    "pasːetːino"
+  ],
+  "passi": [
+    "pasːi"
+  ],
+  "passionale": [
+    "pasːjonale"
+  ],
+  "passionalmente": [
+    "pasːjonalmente"
+  ],
+  "passione": [
+    "pasːjone"
+  ],
+  "passioni": [
+    "pasːjoni"
+  ],
+  "passista": [
+    "pasːista"
+  ],
+  "passito": [
+    "pasːito"
+  ],
+  "passiva": [
+    "pasːiva"
+  ],
+  "passivamente": [
+    "pasːivamente"
+  ],
+  "passivare": [
+    "pasːivare"
+  ],
+  "passive": [
+    "pasːive"
+  ],
+  "passivi": [
+    "pasːivi"
+  ],
+  "passivo": [
+    "pasːivo"
+  ],
+  "passo": [
+    "pasːo",
+    "pasːɔ"
+  ],
+  "password": [
+    "pasword",
+    "pazwerd",
+    "pazword"
+  ],
+  "pasta": [
+    "pasta"
+  ],
+  "pastaio": [
+    "pastajo"
+  ],
+  "pastasciutta": [
+    "pastaʃʃutːa"
+  ],
+  "pastazzo": [
+    "pastatːso"
+  ],
+  "pasteca": [
+    "pastɛka"
+  ],
+  "pastecca": [
+    "pastɛkːa"
+  ],
+  "pasteche": [
+    "pastɛke"
+  ],
+  "pastella": [
+    "pastɛlːa"
+  ],
+  "pastello": [
+    "pastɛlːo"
+  ],
+  "pasti": [
+    "pasti"
+  ],
+  "pasticca": [
+    "pastikːa"
+  ],
+  "pasticceria": [
+    "pastitʃeria",
+    "pastitːʃeria"
+  ],
+  "pasticcerie": [
+    "pastitːʃerie"
+  ],
+  "pasticci": [
+    "pastitːʃi"
+  ],
+  "pasticciere": [
+    "pastitːʃɛre"
+  ],
+  "pasticcieri": [
+    "pastitːʃɛri"
+  ],
+  "pasticcino": [
+    "pastitːʃino"
+  ],
+  "pasticcio": [
+    "pastitːʃo"
+  ],
+  "pasticcione": [
+    "pastitːʃone"
+  ],
+  "pasticciotto": [
+    "pastitːʃɔtːo"
+  ],
+  "pastiera": [
+    "pastjɛra"
+  ],
+  "pastiere": [
+    "pastjɛre"
+  ],
+  "pastificio": [
+    "pastifitʃo"
+  ],
+  "pastiglia": [
+    "pastiʎa"
+  ],
+  "pastina": [
+    "pastina"
+  ],
+  "pastinare": [
+    "pastinare"
+  ],
+  "pastine": [
+    "pastine"
+  ],
+  "pastini": [
+    "pastini"
+  ],
+  "pastino": [
+    "pastino"
+  ],
+  "pasto": [
+    "pasto"
+  ],
+  "pastoia": [
+    "pastoja"
+  ],
+  "pastora": [
+    "pastora"
+  ],
+  "pastorale": [
+    "pastɔralɛ"
+  ],
+  "pastorali": [
+    "pastɔrali"
+  ],
+  "pastore": [
+    "pastore"
+  ],
+  "pastori": [
+    "pastori"
+  ],
+  "pastorizio": [
+    "pastoritːsjo"
+  ],
+  "pastorizzare": [
+    "pastoridːzare"
+  ],
+  "pastorizzato": [
+    "pastoridːzato"
+  ],
+  "pastorizzazione": [
+    "pastoridːzatsjɔne"
+  ],
+  "pastoso": [
+    "pastoso",
+    "pastozo"
+  ],
+  "pastrocchio": [
+    "pastrɔkːjo"
+  ],
+  "pastura": [
+    "pastura"
+  ],
+  "pasturare": [
+    "pasturare"
+  ],
+  "patacca": [
+    "patakːa"
+  ],
+  "patagone": [
+    "pataɡone"
+  ],
+  "patagoni": [
+    "pataɡoni"
+  ],
+  "patagonia": [
+    "pataɡɔnja"
+  ],
+  "patagonica": [
+    "pataɡɔnika"
+  ],
+  "patagoniche": [
+    "pataɡɔnike"
+  ],
+  "patagonici": [
+    "pataɡɔniko"
+  ],
+  "patagonico": [
+    "pataɡɔniko"
+  ],
+  "patata": [
+    "patata"
+  ],
+  "patataia": [
+    "patataja"
+  ],
+  "patataio": [
+    "patatajo"
+  ],
+  "patate": [
+    "patate"
+  ],
+  "patatoso": [
+    "patatoso",
+    "patatozo"
+  ],
+  "patatucco": [
+    "patatukːo"
+  ],
+  "patavino": [
+    "patavino"
+  ],
+  "pate": [
+    "pate"
+  ],
+  "patella": [
+    "patɛlːa"
+  ],
+  "patentare": [
+    "patentare"
+  ],
+  "patente": [
+    "patɛnte"
+  ],
+  "patenti": [
+    "patɛnti"
+  ],
+  "patentino": [
+    "patentino"
+  ],
+  "pateracchio": [
+    "paterakːjo"
+  ],
+  "paterna": [
+    "patɛrna"
+  ],
+  "paternale": [
+    "paternale"
+  ],
+  "paternalismo": [
+    "paternalizmo"
+  ],
+  "paternalisticamente": [
+    "paternalistikamente"
+  ],
+  "paterne": [
+    "patɛrne"
+  ],
+  "paterni": [
+    "patɛrni"
+  ],
+  "paternità": [
+    "paternita"
+  ],
+  "paterno": [
+    "patɛrno"
+  ],
+  "patetico": [
+    "patɛtiko"
+  ],
+  "pathos": [
+    "patos"
+  ],
+  "patibolo": [
+    "patibolo"
+  ],
+  "patimenti": [
+    "patimenti"
+  ],
+  "patimento": [
+    "patimento"
+  ],
+  "patina": [
+    "patina"
+  ],
+  "patire": [
+    "patire"
+  ],
+  "patita": [
+    "patita"
+  ],
+  "patite": [
+    "patite"
+  ],
+  "patiti": [
+    "patiti"
+  ],
+  "patito": [
+    "patito"
+  ],
+  "patogenesi": [
+    "patodʒɛnezi"
+  ],
+  "patogenicità": [
+    "patodʒenitʃita"
+  ],
+  "patogeno": [
+    "patɔdʒeno"
+  ],
+  "patologia": [
+    "patolodʒia"
+  ],
+  "patologica": [
+    "patolɔdʒika"
+  ],
+  "patologiche": [
+    "patolɔdʒike"
+  ],
+  "patologici": [
+    "patolɔdʒitʃi"
+  ],
+  "patologico": [
+    "patolɔdʒiko"
+  ],
+  "patologie": [
+    "patolodʒie"
+  ],
+  "patologista": [
+    "patolodʒista"
+  ],
+  "patologiste": [
+    "patolodʒiste"
+  ],
+  "patologisti": [
+    "patolodʒisti"
+  ],
+  "patologo": [
+    "patɔloɡo"
+  ],
+  "patre": [
+    "patre"
+  ],
+  "patria": [
+    "patria",
+    "patrja"
+  ],
+  "patriarca": [
+    "patriarka"
+  ],
+  "patriarcato": [
+    "patrjarkato"
+  ],
+  "patriarchi": [
+    "patriarki"
+  ],
+  "patrigni": [
+    "patriɲɲi"
+  ],
+  "patrigno": [
+    "patriɲɲo"
+  ],
+  "patrimo": [
+    "patrimo"
+  ],
+  "patrimoniale": [
+    "patrimonjale"
+  ],
+  "patrimonio": [
+    "patrimɔnjo"
+  ],
+  "patrio": [
+    "patrjo"
+  ],
+  "patriota": [
+    "patriɔta"
+  ],
+  "patriote": [
+    "patriɔte"
+  ],
+  "patrioti": [
+    "patriɔti"
+  ],
+  "patriottardo": [
+    "patriotːardo"
+  ],
+  "patriottico": [
+    "patriɔtːiko"
+  ]
 }

@@ -1,502 +1,1567 @@
 {
-  "pescecane": ["p e ʃ ʃ e k a n e", "p ɛ ʃ ɛ k a n e"],
-  "pescespada": ["p e ʃ ʃ e s p a d a"],
-  "pescetarianismo": ["p e s k e t a r i a n i s m o"],
-  "pescetto": ["p e ʃ ʃ e tː o"],
-  "pesche": ["p e s k e", "p ɛ s k e"],
-  "pescherecce": ["p e s k e r e tː ʃ e"],
-  "pescherecci": ["p e s k e r e tː ʃ i", "p e s k e r e tː ʃ o"],
-  "peschereccia": ["p e s k e r e tː ʃ a"],
-  "peschereccio": ["p e s k e r e tː ʃ o"],
-  "peschi": ["p e s k i", "p ɛ s k i"],
-  "peschiera": ["p e s k j ɛ r a"],
-  "pesci": ["p e ʃ i", "p e ʃ ʃ i"],
-  "pescino": ["p e ʃ ʃ i n o"],
-  "pescivendola": ["p e ʃ ʃ i v e n d o l a"],
-  "pescivendole": ["p e ʃ ʃ i v e n d o l e"],
-  "pescivendoli": ["p e ʃ ʃ i v e n d o l i"],
-  "pescivéndoli": ["p e ʃ ʃ i v e n d o l i"],
-  "pescivendolo": ["p e ʃ ʃ i v e n d o l o"],
-  "pescivéndolo": ["p e ʃ ʃ i v e n d o l o"],
-  "pesco": ["p e s k o", "p ɛ s k o"],
-  "pescò": ["p e s k o"],
-  "pesconoce": ["p e s k o n o t ʃ e"],
-  "pescosità": ["p e s k o z i t a"],
-  "pescoso": ["p e s k o z o"],
-  "pesi": ["p e s i"],
-  "peso": ["p e s o", "p e z o", "p ɛ z o", "p ɛ z ɔ"],
-  "pessimamente": ["p e sː i m a m e n t e"],
-  "pessimismi": ["p e sː i m i z m i"],
-  "pessimismo": ["p e sː i m i z m o"],
-  "pessimista": ["p e sː i m i s t a"],
-  "pessimiste": ["p e sː i m i s t e"],
-  "pessimisti": ["p e sː i m i s t i"],
-  "pessimo": ["p ɛ sː i m o"],
-  "pesta": ["p e s t a"],
-  "pestaggio": ["p e s t a dː ʒ o"],
-  "pestare": ["p e s t a r e", "p ɛ s t a r e"],
-  "pestato": ["p e s t a t o"],
-  "peste": ["p e s t e", "p ɛ s t e"],
-  "pesti": ["p e s t i", "p ɛ s t i"],
-  "pesticida": ["p e s t i t ʃ i d a"],
-  "pesticidi": ["p e s t i t ʃ i d i"],
-  "pestifero": ["p e s t i f e r o"],
-  "pestilente": ["p e s t i l ɛ n t e"],
-  "pestilenti": ["p e s t i l ɛ n t i"],
-  "pestilenza": ["p e s t i l ɛ n t s a"],
-  "pestilenze": ["p e s t i l ɛ n t s e"],
-  "pestilenziale": ["p e s t i l e n t s j a l e"],
-  "pestilenziali": ["p e s t i l e n t s j a l i"],
-  "pesto": ["p e s t o"],
-  "petacchio": ["p e t a kː j o"],
-  "petaccio": ["p e t a tː ʃ o"],
-  "petacco": ["p e t a kː o"],
-  "petalismo": ["p e t a l i z m o"],
-  "petalo": ["p ɛ t a l o"],
-  "petalosa": ["p e t a l o z a"],
-  "petalose": ["p e t a l o z e"],
-  "petalosi": ["p e t a l o z i"],
-  "petaloso": ["p e t a l o s o", "p e t a l o z o", "p ɛ t a l o z o"],
-  "petardo": ["p e t a r d o"],
-  "petecchia": ["p e t e kː j a"],
-  "petizione": ["p e t i tː s j o n e"],
-  "peto": ["p e t o"],
-  "petonciano": ["p e t o n t ʃ a n o"],
-  "petragnola": ["p e t r a ɲ ɲ ɔ l a"],
-  "petraiola": ["p e t r a j ɔ l a"],
-  "petrarca": ["p e t r a r k a"],
-  "petrarcheggiare": ["p e t r a r k e dː ʒ a r e"],
-  "petrarcheggio": ["p e t r a r k e dː ʒ o"],
-  "petrarchescamente": ["p e t r a r k e s k a m e n t e"],
-  "petrarchesco": ["p e t r a r k e s k o"],
-  "petrarchismo": ["p e t r a r k i z m o"],
-  "petrarchista": ["p e t r a r k i s t a"],
-  "petrino": ["p e t r i n o"],
-  "petrochimica": ["p e t r o k i m i k a"],
-  "petrochimiche": ["p e t r o k i m i k e"],
-  "petrochimici": ["p e t r o k i m i t ʃ i"],
-  "petrochimico": ["p e t r o k i m i k o"],
-  "petrodipendente": ["p e t r o d i p e n d ɛ n t e"],
-  "petrodipendenti": ["p e t r o d i p e n d ɛ n t i"],
-  "petrolati": ["p e t r o l a t i"],
-  "petrolato": ["p e t r o l a t o"],
-  "petrolchimica": ["p e t r o l k i m i k a", "p e t r ɔ l k i m i k a"],
-  "petrolchimiche": ["p e t r o l k i m i k e"],
-  "petrolchimici": ["p e t r o l k i m i t ʃ i"],
-  "petrolchimico": ["p e t r o l k i m i k o"],
-  "petroli": ["p e t r ɔ l i"],
-  "petroliera": ["p e t r o l j ɛ r a"],
-  "petroliere": ["p e t r o l j ɛ r e"],
-  "petrolieri": ["p e t r o l j ɛ r i"],
-  "petroliero": ["p e t r o l j ɛ r o"],
-  "petrolifera": ["p e t r o l i f e r a"],
-  "petrolifere": ["p e t r o l i f e r e"],
-  "petroliferi": ["p e t r o l i f e r i"],
-  "petrolifero": ["p e t r o l i f e r o"],
-  "petrolio": ["p e t r ɔ l j o"],
-  "petrolismi": ["p e t r o l i z m i"],
-  "petrolismo": ["p e t r o l i z m o"],
-  "petrologa": ["p e t r o l o ɡ a"],
-  "petrologhe": ["p e t r o l o ɡ k e"],
-  "petrologi": ["p e t r o l o ɡ d ʒ i"],
-  "petrologia": ["p e t r o l o d ʒ i a"],
-  "petrologie": ["p e t r o l o d ʒ i e"],
-  "petrologo": ["p e t r o l o ɡ o"],
-  "petronà": ["p e t r o n a"],
-  "petroniana": ["p e t r o n j a n a"],
-  "petroniane": ["p e t r o n j a n e"],
-  "petroniani": ["p e t r o n j a n i"],
-  "petroniano": ["p e t r o n j a n o"],
-  "petroso": ["p e t r o s o", "p e t r o z o"],
-  "pettazzurro": ["p ɛ tː a dː z u rː o"],
-  "pettegola": ["p e tː e ɡ o l a"],
-  "pettegolare": ["p e tː e ɡ o l a r e"],
-  "pettegolezzo": ["p e tː e ɡ o l e dː z o", "p e tː e ɡ o l e tː s o", "p ɛ tː ɛ ɡ ɔ l ɛ tː s ɔ"],
-  "pettinare": ["p ɛ tː i n a r e"],
-  "pettinato": ["p e tː i n a t o"],
-  "pettinatore": ["p e tː i n a t o r e"],
-  "pettinatura": ["p e tː i n a t u r a"],
-  "pettine": ["p ɛ t i n e", "p ɛ tː i n e"],
-  "pettinessa": ["p e tː i n e sː a"],
-  "pettini": ["p ɛ tː i n i"],
-  "pettirossi": ["p e tː i r o sː i"],
-  "pettirosso": ["p e tː i r o sː o"],
-  "petto": ["p ɛ tː o"],
-  "pettobianco": ["p ɛ tː o b j a n k o"],
-  "pettola": ["p ɛ tː o l a"],
-  "pettorina": ["p e tː o r i n a"],
-  "petulante": ["p e t u l a n t e"],
-  "petulantemente": ["p e t u l a n t e m e n t e"],
-  "petulanza": ["p e t u l a n t s a"],
-  "petunia": ["p e t u n j a"],
-  "peveraccio": ["p e v e r a tː ʃ o"],
-  "pevere": ["p e v e r e"],
-  "pezza": ["p ɛ tː s a"],
-  "pezzare": ["p e tː s a r e"],
-  "pezzato": ["p e tː s a t o"],
-  "pezzente": ["p e tː s ɛ n t e"],
-  "pezzenti": ["p e tː s ɛ n t i"],
-  "pezzettino": ["p e tː s e tː i n o"],
-  "pezzetto": ["p e tː s e tː o"],
-  "pezzi": ["p ɛ tː s i"],
-  "pezzire": ["p e tː s i r e"],
-  "pezzo": ["p e tː s o", "p ɛ tː s o", "p ɛ tː s ɔ"],
-  "phi": ["p i"],
-  "phobos": ["p ɔ b o s"],
-  "phylum": ["f i l u m"],
-  "pi": ["p i"],
-  "piaccia": ["p j a tː ʃ a"],
-  "piacciamo": ["p j a tː ʃ a m o"],
-  "piacciano": ["p j a tː ʃ a n o"],
-  "piacciate": ["p j a tː ʃ a t e"],
-  "piaccicoso": ["p j a tː ʃ i k o s o", "p j a tː ʃ i k o z o"],
-  "piaccio": ["p j a tː ʃ o"],
-  "piacciono": ["p j a tː ʃ o n o"],
-  "piace": ["p j a t ʃ e"],
-  "piacemmo": ["p j a t ʃ e mː o"],
-  "piacendo": ["p j a t ʃ e n d o"],
-  "piacente": ["p j a t ʃ e n t e", "p j a t ʃ ɛ n t e"],
-  "piacenti": ["p j a t ʃ e n t i"],
-  "piacentino": ["p j a t ʃ e n t i n o"],
-  "piacenza": ["p j a t ʃ ɛ n t s a"],
-  "piacenziano": ["p j a t ʃ e n t s j a n o"],
-  "piacerà": ["p j a t ʃ e r a"],
-  "piacerai": ["p j a t ʃ e r a i"],
-  "piaceranno": ["p j a t ʃ e r a nː o"],
-  "piacere": ["p j a t ʃ e r e", "p j a t ʃ ɛ r e"],
-  "piacerebbe": ["p j a t ʃ e r e bː e"],
-  "piacerebbero": ["p j a t ʃ e r e bː e r o"],
-  "piacerei": ["p j a t ʃ e r e i"],
-  "piaceremmo": ["p j a t ʃ e r e mː o"],
-  "piaceremo": ["p j a t ʃ e r e m o"],
-  "piacereste": ["p j a t ʃ e r e s t e"],
-  "piaceresti": ["p j a t ʃ e r e s t i"],
-  "piacerete": ["p j a t ʃ e r e t e"],
-  "piaceri": ["p j a t ʃ e r i"],
-  "piacerò": ["p j a t ʃ e r o"],
-  "piacersi": ["p j a t ʃ e r s i"],
-  "piacesse": ["p j a t ʃ e sː e"],
-  "piacessero": ["p j a t ʃ e sː e r o"],
-  "piacessi": ["p j a t ʃ e sː i"],
-  "piacessimo": ["p j a t ʃ e sː i m o"],
-  "piaceste": ["p j a t ʃ e s t e"],
-  "piacesti": ["p j a t ʃ e s t i"],
-  "piacete": ["p j a t ʃ e t e"],
-  "piaceva": ["p j a t ʃ e v a"],
-  "piacevamo": ["p j a t ʃ e v a m o"],
-  "piacevano": ["p j a t ʃ e v a n o"],
-  "piacevate": ["p j a t ʃ e v a t e"],
-  "piacevi": ["p j a t ʃ e v i"],
-  "piacevo": ["p j a t ʃ e v o"],
-  "piacevole": ["p j a t ʃ e v o l e", "p j a t ʃ ɛ v ɔ l e"],
-  "piacevolezza": ["p j a t ʃ e v o l e tː s a"],
-  "piacevoli": ["p j a t ʃ e v o l i"],
-  "piacevolmente": ["p j a t ʃ e v o l m e n t e", "p j a t ʃ ɛ v ɔ l m e n t e"],
-  "piaci": ["p j a t ʃ i"],
-  "piaciuta": ["p j a t ʃ u t a"],
-  "piaciute": ["p j a t ʃ u t e"],
-  "piaciuti": ["p j a t ʃ u t i"],
-  "piaciuto": ["p j a t ʃ u t o"],
-  "piacque": ["p j a kː u e"],
-  "piacquero": ["p j a kː u e r o", "p j a kː w e r o"],
-  "piacqui": ["p j a kː u i"],
-  "piaga": ["p j a ɡ a"],
-  "piagare": ["p j a ɡ a r e"],
-  "piaggeria": ["p j a dː ʒ e r i a"],
-  "piaggia": ["p j a dː ʒ a"],
-  "piaggiante": ["p j a dː ʒ a n t e"],
-  "piaggiare": ["p j a dː ʒ a r e"],
-  "piaggiato": ["p j a dː ʒ a t o"],
-  "piagnisteo": ["p j a ɲ ɲ i s t ɛ o"],
-  "piagnucolare": ["p j a ɲ ɲ u k o l a r e"],
-  "piagnucolato": ["p j a ɲ ɲ u k o l a t o"],
-  "pialla": ["p j a lː a"],
-  "pialle": ["p j a lː e"],
-  "pialletto": ["p j a lː e tː o"],
-  "piamente": ["p i a m e n t e"],
-  "piana": ["p j a n a"],
-  "pianale": ["p j a n a l e"],
-  "piane": ["p j a n e"],
-  "pianeggiante": ["p j a n e dː ʒ a n t e"],
-  "pianella": ["p j a n ɛ lː a"],
-  "pianerottolo": ["p j a n e r ɔ tː o l o"],
-  "pianeta": ["p j a n e t a"],
-  "pianete": ["p j a n e t e"],
-  "pianeti": ["p j a n e t i"],
-  "pianetini": ["p j a n e t i n i"],
-  "pianetino": ["p j a n e t i n o"],
-  "pianga": ["p j a n ɡ a"],
-  "piangente": ["p j a n d ʒ ɛ n t e"],
-  "piangenti": ["p j a n d ʒ ɛ n t i"],
-  "piangere": ["p j a n d ʒ e r e", "p j a ɲ d ʒ e r e"],
-  "piani": ["p j a n i"],
-  "pianificabile": ["p i a n i f i k a b i l e"],
-  "pianificabili": ["p i a n i f i k a b i l i"],
-  "pianificante": ["p i a n i f i k a n t e"],
-  "pianificare": ["p i a n i f i k a r e", "p j a n i f i k a r e"],
-  "pianificata": ["p i a n i f i k a t a"],
-  "pianificate": ["p i a n i f i k a t e"],
-  "pianificati": ["p i a n i f i k a t i"],
-  "pianificato": ["p i a n i f i k a t o", "p j a n i f i k a t o"],
-  "pianificatore": ["p i a n i f i k a t o r e"],
-  "pianificatori": ["p i a n i f i k a t o r i"],
-  "pianificatrice": ["p i a n i f i k a t r i t ʃ e"],
-  "pianificatrici": ["p i a n i f i k a t r i t ʃ i"],
-  "pianificazione": ["p j a n i f i k a tː s j o n e"],
-  "pianificazioni": ["p j a n i f i k a tː s j o n i"],
-  "pianissima": ["p j a n i sː i m a"],
-  "pianissime": ["p j a n i sː i m e"],
-  "pianissimi": ["p j a n i sː i m i"],
-  "pianissimo": ["p j a n i sː i m o"],
-  "pianista": ["p i a n i s t a", "p j a n i s t a"],
-  "pianiste": ["p j a n i s t e"],
-  "pianisti": ["p j a n i s t i"],
-  "piano": ["p j a n o"],
-  "pianoforte": ["p j a n o f ɔ r t e"],
-  "pianoforti": ["p j a n o f ɔ r t i"],
-  "pianola": ["p j a n ɔ l a"],
-  "pianoro": ["p j a n ɔ r o"],
-  "pianta": ["p j a n t a"],
-  "piantaggine": ["p j a n t a dː ʒ i n e"],
-  "piantagione": ["p j a n t a d ʒ o n e"],
-  "piantagrane": ["p j a n t a ɡ r a n e"],
-  "piantamenti": ["p i a n t a m e n t i"],
-  "piantamento": ["p i a n t a m e n t o"],
-  "piantare": ["p j a n t a r e"],
-  "piantato": ["p j a n t a t o"],
-  "piantatore": ["p j a n t a t o r e"],
-  "piantatori": ["p j a n t a t o r i"],
-  "piantatrice": ["p j a n t a t r i t ʃ e"],
-  "piantatrici": ["p j a n t a t r i t ʃ i"],
-  "piantatura": ["p j a n t a t u r a"],
-  "piantature": ["p j a n t a t u r e"],
-  "piante": ["p i a n t e", "p j a n t a", "p j a n t e"],
-  "pianterreno": ["p j a n t e rː e n o", "p j a n t ɛ rː ɛ n ɔ"],
-  "pianti": ["p j a n t i"],
-  "piantina": ["p j a n t i n a"],
-  "pianto": ["p j a n t o"],
-  "piantonato": ["p j a n t o n a t o"],
-  "piantone": ["p j a n t o n e"],
-  "piantumazione": ["p i a n t u m a t s i o n e"],
-  "pianura": ["p j a n u r a"],
-  "pianure": ["p j a n u r e"],
-  "pianuzza": ["p j a n u dː z a"],
-  "piastrella": ["p j a s t r ɛ lː a"],
-  "piastrellista": ["p j a s t r e lː i s t a"],
-  "piastrelliste": ["p j a s t r e lː i s t e"],
-  "piastrellisti": ["p j a s t r e lː i s t i"],
-  "piastrina": ["p j a s t r i n a"],
-  "piastrinico": ["p j a s t r i n i k o"],
-  "piastrinopatia": ["p j a s t r i n o p a t i a"],
-  "piatta": ["p j a tː a"],
-  "piattabanda": ["p j a tː a b a n d a"],
-  "piattaforma": ["p j a tː a f o r m a"],
-  "piattaforme": ["p j a tː a f o r m e"],
-  "piattai": ["p j a tː a i"],
-  "piattaia": ["p j a tː a j a"],
-  "piattaie": ["p j a tː a j a"],
-  "piattaio": ["p j a tː a j o"],
-  "piattamente": ["p j a tː a m e n t e"],
-  "piatte": ["p j a tː e"],
-  "piattelli": ["p j a tː ɛ lː i"],
-  "piattellista": ["p j a tː e lː i s t a"],
-  "piattello": ["p j a tː ɛ lː o"],
-  "piattezza": ["p j a tː e tː s a"],
-  "piattezze": ["p j a tː e tː s e"],
-  "piatti": ["p j a tː i"],
-  "piattino": ["p i a tː i n o", "p j a tː i n o", "p j a tː i n ɔ"],
-  "piattissima": ["p j a tː i sː i m a"],
-  "piattissime": ["p j a tː i sː i m e"],
-  "piattissimi": ["p j a tː i sː i m i"],
-  "piattissimo": ["p j a tː i sː i m o"],
-  "piatto": ["p j a tː o"],
-  "piattola": ["p j a tː o l a"],
-  "piattole": ["p j a tː o l e"],
-  "piazza": ["p i a tː s a", "p j a tː s a"],
-  "piazzaforte": ["p j a tː s a f ɔ r t", "p j a tː s a f ɔ r t e"],
-  "piazzamento": ["p j a tː s a m e n t o"],
-  "piazzare": ["p j a tː s a r e"],
-  "piazzarsi": ["p j a tː s a r s i"],
-  "piazzata": ["p j a tː s a t a"],
-  "piazzato": ["p j a tː s a t o"],
-  "piazze": ["p j a tː s e"],
-  "piazzeforti": ["p j a tː s e f ɔ r t i"],
-  "piazzetta": ["p j a tː s e tː a"],
-  "piazzista": ["p j a tː s i s t a"],
-  "piazzola": ["p j a tː s ɔ l a"],
-  "pica": ["p i k a"],
-  "picador": ["p i k a d ɔ r"],
-  "picca": ["p i kː a"],
-  "piccante": ["p i kː a n t e"],
-  "piccanti": ["p i kː a n t i"],
-  "piccantissima": ["p i kː a n t i sː i m a"],
-  "piccantissime": ["p i kː a n t i sː i m e"],
-  "piccantissimi": ["p i kː a n t i sː i m i"],
-  "piccantissimo": ["p i kː a n t i sː i m o"],
-  "piccardia": ["p i kː a r d i a"],
-  "piccardo": ["p i kː a r d o"],
-  "piccare": ["p i kː a r e"],
-  "picche": ["p i kː e"],
-  "picchettare": ["p i kː e tː a r e"],
-  "picchetto": ["p i kː e tː o"],
-  "picchi": ["p i kː i"],
-  "picchiare": ["p i kː j a r e"],
-  "picchiarsi": ["p i kː j a r s i"],
-  "picchiata": ["p i kː j a t a"],
-  "picchiato": ["p i kː j a t o"],
-  "picchii": ["p i kː i i"],
-  "picchio": ["p i kː i o", "p i kː j o"],
-  "picchiotto": ["p i kː j ɔ tː o"],
-  "piccine": ["p i tː ʃ i n e"],
-  "piccino": ["p i tː ʃ i n o"],
-  "picciolo": ["p i tː ʃ ɔ l o"],
-  "piccioncino": ["p i tː ʃ o n t ʃ i n o"],
-  "piccione": ["p i tː ʃ o n e", "p i tː ʃ ɔ n e"],
-  "piccioni": ["p i tː ʃ ɔ n i"],
-  "picciotti": ["p i t ʃ ɔ tː i"],
-  "picciotto": ["p i t ʃ ɔ tː o", "p i tː ʃ ɔ tː o"],
-  "picco": ["p i kː o"],
-  "piccola": ["p i kː o l a"],
-  "piccole": ["p i kː o l e"],
-  "piccolezza": ["p i kː o l e tː s a"],
-  "piccolezze": ["p i kː o l e tː s e"],
-  "piccoli": ["p i kː o l i"],
-  "piccolina": ["p i kː o l i n a"],
-  "piccoline": ["p i kː o l i n e"],
-  "piccolini": ["p i kː o l i n i"],
-  "piccolino": ["p i kː o l i n o"],
-  "piccolissima": ["p i kː o l i sː i m a"],
-  "piccolissime": ["p i kː o l i sː i m e"],
-  "piccolissimi": ["p i kː o l i sː i m i"],
-  "piccolissimo": ["p i kː o l i sː i m o"],
-  "piccolo": ["p i kː o l o"],
-  "picide": ["p i t ʃ i d e"],
-  "picidi": ["p i t ʃ i d i"],
-  "piciforme": ["p i t ʃ i f o r m e"],
-  "piciformi": ["p i t ʃ i f o r m i"],
-  "picnic": ["p i k n i k"],
-  "picnometri": ["p i k n ɔ m e t r i"],
-  "picnometro": ["p i k n ɔ m e t r o"],
-  "picnostilo": ["p i k n ɔ s t i l o"],
-  "pico": ["p i k o"],
-  "picometro": ["p i k o m ɛ t r o"],
-  "picosecondo": ["p i k o s e k o n d o"],
-  "pidduista": ["p i dː u i s t a"],
-  "pidocchi": ["p i d ɔ kː j o"],
-  "pidocchiale": ["p i d o kː j a l e"],
-  "pidocchio": ["p i d ɔ kː j o"],
-  "pidocchioso": ["p i d o kː j o s o", "p i d o kː j o z o", "p i d ɔ kː j o z o"],
-  "piduista": ["p i dː u e"],
-  "piè": ["p j e"],
-  "piede": ["p i ɛ d e", "p j ɛ d e"],
-  "piedestalli": ["p j ɛ d e s t a lː i"],
-  "piedestallo": ["p j ɛ d e s t a lː o"],
-  "piedi": ["p j ɛ d i"],
-  "piedino": ["p j e d i n o"],
-  "piedistalli": ["p j ɛ d i s t a lː i"],
-  "piedistallo": ["p j e d i s t a lː o", "p j ɛ d i s t a lː o"],
-  "piedra": ["p j ɛ d r a"],
-  "piedritto": ["p j ɛ d r i tː o"],
-  "piega": ["p j e ɡ a", "p j ɛ ɡ a"],
-  "piegabaffi": ["p j e ɡ a b a fː i", "p j ɛ ɡ a b a fː i"],
-  "piegabile": ["p j e ɡ a b i l e"],
-  "piegabili": ["p j e ɡ a b i l i"],
-  "piegamento": ["p j e ɡ a m e n t o"],
-  "piegante": ["p j e ɡ a n t e"],
-  "piegare": ["p j e ɡ a r e"],
-  "piegarsi": ["p j e ɡ a r s i"],
-  "piegato": ["p j e ɡ a t o"],
-  "pieghevole": ["p j e ɡ e v o l e"],
-  "pieghevolezza": ["p j e ɡ e v o l e tː s a"],
-  "pieghevoli": ["p j e ɡ e v o l e", "p j e ɡ e v o l i"],
-  "piego": ["p j ɛ ɡ o"],
-  "piemonte": ["p j e m o n t e"],
-  "piemontese": ["p j e m o n t e s e", "p j e m o n t e z e"],
-  "piemontesi": ["p j e m o n t e s i"],
-  "piemontesismo": ["p j e m o n t e s i z m o"],
-  "piemontesizzare": ["p j e m o n t e s i dː z a r e"],
-  "piemontesizzazione": ["p j e m o n t e s i dː z a tː s j o n e", "p j e m o n t e z i dː z a tː s j o n e"],
-  "piemontizzazione": ["p j e m o n t i dː z a tː s j o n e"],
-  "piena": ["p j ɛ n a"],
-  "pienamente": ["p j e n a m e n t e"],
-  "piene": ["p j ɛ n e"],
-  "pieni": ["p j ɛ n i"],
-  "pienissima": ["p j ɛ n i sː i m a"],
-  "pienissime": ["p j ɛ n i sː i m e"],
-  "pienissimi": ["p j ɛ n i sː i m i"],
-  "pienissimo": ["p j ɛ n i sː i m o"],
-  "pieno": ["p i ɛ n o", "p j e n o", "p j ɛ n o", "p j ɛ n ɔ"],
-  "pienotto": ["p j e n ɔ tː o"],
-  "piercing": ["p i r s i n", "p i r s i n ɡ"],
-  "pieride": ["p i ɛ r i d e"],
-  "pieridi": ["p i ɛ r i d e"],
-  "piero": ["p j ɛ r o"],
-  "pierra": ["p j ɛ rː a"],
-  "pierre": ["p i ɛ rː e"],
-  "pieta": ["p j ɛ t a"],
-  "pietà": ["p i e t a", "p j e t a"],
-  "pietade": ["p j e t a d e"],
-  "pietanza": ["p j e t a n t s a"],
-  "pietate": ["p j e t a t e"],
-  "pietismi": ["p j e t i z m i"],
-  "pietismo": ["p j e t i z m o"],
-  "pietista": ["p j e t i s t a"],
-  "pietiste": ["p j e t i s t e"],
-  "pietisti": ["p j e t i s t i"],
-  "pietosa": ["p j e t o s a", "p j e t o z a"],
-  "pietosamente": ["p j e t o s a m e n t e"],
-  "pietose": ["p j e t o s e", "p j e t o z e"],
-  "pietosi": ["p j e t o s i", "p j e t o z i"],
-  "pietoso": ["p j e t o s o", "p j e t o z o"],
-  "pietra": ["p j ɛ t r a"],
-  "pietrificare": ["p j e t r i f i k a r e"],
-  "pietrificato": ["p j e t r i f i k a t o"],
-  "pietrisco": ["p j e t r i s k o"],
-  "pietroso": ["p j e t r o s o", "p j e t r o z o"],
-  "pievano": ["p j e v a n o"],
-  "pieve": ["p j ɛ v e"],
-  "pieveloce": ["p j e v e l o t ʃ e", "p j ɛ v e l o t ʃ e", "p j ɛ v e l ɔ t ʃ e", "p j ɛ vː e l o t ʃ e"],
-  "piezoelettricità": ["p j ɛ d z ɔ e l e tː r i t ʃ i t a", "p j ɛ dː z o e l e tː r i t ʃ i t a"],
-  "piezomagnetico": ["p j ɛ dː z o m a ɲ ɲ ɛ t i k o"],
-  "piezomagnetismo": ["p j ɛ dː z o m a ɲ ɲ e t i z m o"],
-  "piezometria": ["p j e dː z o m e t r i a"],
-  "piezometro": ["p j e dː z ɔ m e t r o"],
-  "pifferaio": ["p i fː e r a j o"],
-  "piffero": ["p i fː e r o"],
-  "pigerrima": ["p i d ʒ ɛ rː i m a"],
-  "pigerrime": ["p i d ʒ ɛ rː i m e"],
-  "pigerrimi": ["p i d ʒ ɛ rː i m i"],
-  "pigerrimo": ["p i d ʒ ɛ rː i m o"],
-  "pigiadiraspare": ["p i d ʒ a d i r a s p a r e"],
-  "pigiadiraspatrice": ["p i d ʒ a d i r a s p a t r i t ʃ e"],
-  "pigiama": ["p i d ʒ a m a"],
-  "pigiami": ["p i d ʒ a m i"],
-  "pigiare": ["p i d ʒ a r e"],
-  "pigiarsi": ["p i d ʒ a r s i"],
-  "pigiata": ["p i d ʒ a t a"],
-  "pigione": ["p i d ʒ o n e", "p i d ʒ ɔ n e"],
-  "pigioni": ["p i d ʒ ɔ n i"],
-  "pigliamosche": ["p i ʎ a m o s k e"],
-  "pigliare": ["p i ʎ a r e"],
-  "piglio": ["p i ʎ o"],
-  "pigmenti": ["p i ɡ m e n t i"],
-  "pigmento": ["p i ɡ m e n t o"],
-  "pigmeo": ["p i ɡ m ɛ o"],
-  "pigna": ["p i ɲ ɲ a"],
-  "pignatta": ["p i ɲ ɲ a tː a"],
-  "pignola": ["p i ɲ ɲ ɔ l a"],
-  "pignole": ["p i ɲ ɲ ɔ l e"],
-  "pignoleria": ["p i ɲ ɲ o l e r i a"],
-  "pignoli": ["p i ɲ ɲ ɔ l i"],
-  "pignolo": ["p i ɲ ɲ ɔ l o"],
-  "pignone": ["p i ɲ ɲ o n e"],
-  "pignoni": ["p i ɲ ɲ o n i"],
-  "pignorabile": ["p i ɲ ɲ o r a b i l e"],
-  "pignorabili": ["p i ɲ ɲ o r a b i l i"],
-  "pignoramenti": ["p i ɲ ɲ o r a m e n t i"],
-  "pignoramento": ["p i ɲ ɲ o r a m e n t o"],
-  "pignoratizio": ["p i ɲ ɲ o r a t i tː s j o"],
-  "pigolare": ["p i ɡ o l a r e"],
-  "pigoscelide": ["p i ɡ o ʃ ʃ ɛ l i d e"],
-  "pigra": ["p i ɡ r a"]
+  "pescecane": [
+    "peʃʃekane",
+    "pɛʃɛkane"
+  ],
+  "pescespada": [
+    "peʃʃespada"
+  ],
+  "pescetarianismo": [
+    "pesketarianismo"
+  ],
+  "pescetto": [
+    "peʃʃetːo"
+  ],
+  "pesche": [
+    "peske",
+    "pɛske"
+  ],
+  "pescherecce": [
+    "peskeretːʃe"
+  ],
+  "pescherecci": [
+    "peskeretːʃi",
+    "peskeretːʃo"
+  ],
+  "peschereccia": [
+    "peskeretːʃa"
+  ],
+  "peschereccio": [
+    "peskeretːʃo"
+  ],
+  "peschi": [
+    "peski",
+    "pɛski"
+  ],
+  "peschiera": [
+    "peskjɛra"
+  ],
+  "pesci": [
+    "peʃi",
+    "peʃʃi"
+  ],
+  "pescino": [
+    "peʃʃino"
+  ],
+  "pescivendola": [
+    "peʃʃivendola"
+  ],
+  "pescivendole": [
+    "peʃʃivendole"
+  ],
+  "pescivendoli": [
+    "peʃʃivendoli"
+  ],
+  "pescivéndoli": [
+    "peʃʃivendoli"
+  ],
+  "pescivendolo": [
+    "peʃʃivendolo"
+  ],
+  "pescivéndolo": [
+    "peʃʃivendolo"
+  ],
+  "pesco": [
+    "pesko",
+    "pɛsko"
+  ],
+  "pescò": [
+    "pesko"
+  ],
+  "pesconoce": [
+    "peskonotʃe"
+  ],
+  "pescosità": [
+    "peskozita"
+  ],
+  "pescoso": [
+    "peskozo"
+  ],
+  "pesi": [
+    "pesi"
+  ],
+  "peso": [
+    "peso",
+    "pezo",
+    "pɛzo",
+    "pɛzɔ"
+  ],
+  "pessimamente": [
+    "pesːimamente"
+  ],
+  "pessimismi": [
+    "pesːimizmi"
+  ],
+  "pessimismo": [
+    "pesːimizmo"
+  ],
+  "pessimista": [
+    "pesːimista"
+  ],
+  "pessimiste": [
+    "pesːimiste"
+  ],
+  "pessimisti": [
+    "pesːimisti"
+  ],
+  "pessimo": [
+    "pɛsːimo"
+  ],
+  "pesta": [
+    "pesta"
+  ],
+  "pestaggio": [
+    "pestadːʒo"
+  ],
+  "pestare": [
+    "pestare",
+    "pɛstare"
+  ],
+  "pestato": [
+    "pestato"
+  ],
+  "peste": [
+    "peste",
+    "pɛste"
+  ],
+  "pesti": [
+    "pesti",
+    "pɛsti"
+  ],
+  "pesticida": [
+    "pestitʃida"
+  ],
+  "pesticidi": [
+    "pestitʃidi"
+  ],
+  "pestifero": [
+    "pestifero"
+  ],
+  "pestilente": [
+    "pestilɛnte"
+  ],
+  "pestilenti": [
+    "pestilɛnti"
+  ],
+  "pestilenza": [
+    "pestilɛntsa"
+  ],
+  "pestilenze": [
+    "pestilɛntse"
+  ],
+  "pestilenziale": [
+    "pestilentsjale"
+  ],
+  "pestilenziali": [
+    "pestilentsjali"
+  ],
+  "pesto": [
+    "pesto"
+  ],
+  "petacchio": [
+    "petakːjo"
+  ],
+  "petaccio": [
+    "petatːʃo"
+  ],
+  "petacco": [
+    "petakːo"
+  ],
+  "petalismo": [
+    "petalizmo"
+  ],
+  "petalo": [
+    "pɛtalo"
+  ],
+  "petalosa": [
+    "petaloza"
+  ],
+  "petalose": [
+    "petaloze"
+  ],
+  "petalosi": [
+    "petalozi"
+  ],
+  "petaloso": [
+    "petaloso",
+    "petalozo",
+    "pɛtalozo"
+  ],
+  "petardo": [
+    "petardo"
+  ],
+  "petecchia": [
+    "petekːja"
+  ],
+  "petizione": [
+    "petitːsjone"
+  ],
+  "peto": [
+    "peto"
+  ],
+  "petonciano": [
+    "petontʃano"
+  ],
+  "petragnola": [
+    "petraɲɲɔla"
+  ],
+  "petraiola": [
+    "petrajɔla"
+  ],
+  "petrarca": [
+    "petrarka"
+  ],
+  "petrarcheggiare": [
+    "petrarkedːʒare"
+  ],
+  "petrarcheggio": [
+    "petrarkedːʒo"
+  ],
+  "petrarchescamente": [
+    "petrarkeskamente"
+  ],
+  "petrarchesco": [
+    "petrarkesko"
+  ],
+  "petrarchismo": [
+    "petrarkizmo"
+  ],
+  "petrarchista": [
+    "petrarkista"
+  ],
+  "petrino": [
+    "petrino"
+  ],
+  "petrochimica": [
+    "petrokimika"
+  ],
+  "petrochimiche": [
+    "petrokimike"
+  ],
+  "petrochimici": [
+    "petrokimitʃi"
+  ],
+  "petrochimico": [
+    "petrokimiko"
+  ],
+  "petrodipendente": [
+    "petrodipendɛnte"
+  ],
+  "petrodipendenti": [
+    "petrodipendɛnti"
+  ],
+  "petrolati": [
+    "petrolati"
+  ],
+  "petrolato": [
+    "petrolato"
+  ],
+  "petrolchimica": [
+    "petrolkimika",
+    "petrɔlkimika"
+  ],
+  "petrolchimiche": [
+    "petrolkimike"
+  ],
+  "petrolchimici": [
+    "petrolkimitʃi"
+  ],
+  "petrolchimico": [
+    "petrolkimiko"
+  ],
+  "petroli": [
+    "petrɔli"
+  ],
+  "petroliera": [
+    "petroljɛra"
+  ],
+  "petroliere": [
+    "petroljɛre"
+  ],
+  "petrolieri": [
+    "petroljɛri"
+  ],
+  "petroliero": [
+    "petroljɛro"
+  ],
+  "petrolifera": [
+    "petrolifera"
+  ],
+  "petrolifere": [
+    "petrolifere"
+  ],
+  "petroliferi": [
+    "petroliferi"
+  ],
+  "petrolifero": [
+    "petrolifero"
+  ],
+  "petrolio": [
+    "petrɔljo"
+  ],
+  "petrolismi": [
+    "petrolizmi"
+  ],
+  "petrolismo": [
+    "petrolizmo"
+  ],
+  "petrologa": [
+    "petroloɡa"
+  ],
+  "petrologhe": [
+    "petroloɡke"
+  ],
+  "petrologi": [
+    "petroloɡdʒi"
+  ],
+  "petrologia": [
+    "petrolodʒia"
+  ],
+  "petrologie": [
+    "petrolodʒie"
+  ],
+  "petrologo": [
+    "petroloɡo"
+  ],
+  "petronà": [
+    "petrona"
+  ],
+  "petroniana": [
+    "petronjana"
+  ],
+  "petroniane": [
+    "petronjane"
+  ],
+  "petroniani": [
+    "petronjani"
+  ],
+  "petroniano": [
+    "petronjano"
+  ],
+  "petroso": [
+    "petroso",
+    "petrozo"
+  ],
+  "pettazzurro": [
+    "pɛtːadːzurːo"
+  ],
+  "pettegola": [
+    "petːeɡola"
+  ],
+  "pettegolare": [
+    "petːeɡolare"
+  ],
+  "pettegolezzo": [
+    "petːeɡoledːzo",
+    "petːeɡoletːso",
+    "pɛtːɛɡɔlɛtːsɔ"
+  ],
+  "pettinare": [
+    "pɛtːinare"
+  ],
+  "pettinato": [
+    "petːinato"
+  ],
+  "pettinatore": [
+    "petːinatore"
+  ],
+  "pettinatura": [
+    "petːinatura"
+  ],
+  "pettine": [
+    "pɛtine",
+    "pɛtːine"
+  ],
+  "pettinessa": [
+    "petːinesːa"
+  ],
+  "pettini": [
+    "pɛtːini"
+  ],
+  "pettirossi": [
+    "petːirosːi"
+  ],
+  "pettirosso": [
+    "petːirosːo"
+  ],
+  "petto": [
+    "pɛtːo"
+  ],
+  "pettobianco": [
+    "pɛtːobjanko"
+  ],
+  "pettola": [
+    "pɛtːola"
+  ],
+  "pettorina": [
+    "petːorina"
+  ],
+  "petulante": [
+    "petulante"
+  ],
+  "petulantemente": [
+    "petulantemente"
+  ],
+  "petulanza": [
+    "petulantsa"
+  ],
+  "petunia": [
+    "petunja"
+  ],
+  "peveraccio": [
+    "peveratːʃo"
+  ],
+  "pevere": [
+    "pevere"
+  ],
+  "pezza": [
+    "pɛtːsa"
+  ],
+  "pezzare": [
+    "petːsare"
+  ],
+  "pezzato": [
+    "petːsato"
+  ],
+  "pezzente": [
+    "petːsɛnte"
+  ],
+  "pezzenti": [
+    "petːsɛnti"
+  ],
+  "pezzettino": [
+    "petːsetːino"
+  ],
+  "pezzetto": [
+    "petːsetːo"
+  ],
+  "pezzi": [
+    "pɛtːsi"
+  ],
+  "pezzire": [
+    "petːsire"
+  ],
+  "pezzo": [
+    "petːso",
+    "pɛtːso",
+    "pɛtːsɔ"
+  ],
+  "phi": [
+    "pi"
+  ],
+  "phobos": [
+    "pɔbos"
+  ],
+  "phylum": [
+    "filum"
+  ],
+  "pi": [
+    "pi"
+  ],
+  "piaccia": [
+    "pjatːʃa"
+  ],
+  "piacciamo": [
+    "pjatːʃamo"
+  ],
+  "piacciano": [
+    "pjatːʃano"
+  ],
+  "piacciate": [
+    "pjatːʃate"
+  ],
+  "piaccicoso": [
+    "pjatːʃikoso",
+    "pjatːʃikozo"
+  ],
+  "piaccio": [
+    "pjatːʃo"
+  ],
+  "piacciono": [
+    "pjatːʃono"
+  ],
+  "piace": [
+    "pjatʃe"
+  ],
+  "piacemmo": [
+    "pjatʃemːo"
+  ],
+  "piacendo": [
+    "pjatʃendo"
+  ],
+  "piacente": [
+    "pjatʃente",
+    "pjatʃɛnte"
+  ],
+  "piacenti": [
+    "pjatʃenti"
+  ],
+  "piacentino": [
+    "pjatʃentino"
+  ],
+  "piacenza": [
+    "pjatʃɛntsa"
+  ],
+  "piacenziano": [
+    "pjatʃentsjano"
+  ],
+  "piacerà": [
+    "pjatʃera"
+  ],
+  "piacerai": [
+    "pjatʃerai"
+  ],
+  "piaceranno": [
+    "pjatʃeranːo"
+  ],
+  "piacere": [
+    "pjatʃere",
+    "pjatʃɛre"
+  ],
+  "piacerebbe": [
+    "pjatʃerebːe"
+  ],
+  "piacerebbero": [
+    "pjatʃerebːero"
+  ],
+  "piacerei": [
+    "pjatʃerei"
+  ],
+  "piaceremmo": [
+    "pjatʃeremːo"
+  ],
+  "piaceremo": [
+    "pjatʃeremo"
+  ],
+  "piacereste": [
+    "pjatʃereste"
+  ],
+  "piaceresti": [
+    "pjatʃeresti"
+  ],
+  "piacerete": [
+    "pjatʃerete"
+  ],
+  "piaceri": [
+    "pjatʃeri"
+  ],
+  "piacerò": [
+    "pjatʃero"
+  ],
+  "piacersi": [
+    "pjatʃersi"
+  ],
+  "piacesse": [
+    "pjatʃesːe"
+  ],
+  "piacessero": [
+    "pjatʃesːero"
+  ],
+  "piacessi": [
+    "pjatʃesːi"
+  ],
+  "piacessimo": [
+    "pjatʃesːimo"
+  ],
+  "piaceste": [
+    "pjatʃeste"
+  ],
+  "piacesti": [
+    "pjatʃesti"
+  ],
+  "piacete": [
+    "pjatʃete"
+  ],
+  "piaceva": [
+    "pjatʃeva"
+  ],
+  "piacevamo": [
+    "pjatʃevamo"
+  ],
+  "piacevano": [
+    "pjatʃevano"
+  ],
+  "piacevate": [
+    "pjatʃevate"
+  ],
+  "piacevi": [
+    "pjatʃevi"
+  ],
+  "piacevo": [
+    "pjatʃevo"
+  ],
+  "piacevole": [
+    "pjatʃevole",
+    "pjatʃɛvɔle"
+  ],
+  "piacevolezza": [
+    "pjatʃevoletːsa"
+  ],
+  "piacevoli": [
+    "pjatʃevoli"
+  ],
+  "piacevolmente": [
+    "pjatʃevolmente",
+    "pjatʃɛvɔlmente"
+  ],
+  "piaci": [
+    "pjatʃi"
+  ],
+  "piaciuta": [
+    "pjatʃuta"
+  ],
+  "piaciute": [
+    "pjatʃute"
+  ],
+  "piaciuti": [
+    "pjatʃuti"
+  ],
+  "piaciuto": [
+    "pjatʃuto"
+  ],
+  "piacque": [
+    "pjakːue"
+  ],
+  "piacquero": [
+    "pjakːuero",
+    "pjakːwero"
+  ],
+  "piacqui": [
+    "pjakːui"
+  ],
+  "piaga": [
+    "pjaɡa"
+  ],
+  "piagare": [
+    "pjaɡare"
+  ],
+  "piaggeria": [
+    "pjadːʒeria"
+  ],
+  "piaggia": [
+    "pjadːʒa"
+  ],
+  "piaggiante": [
+    "pjadːʒante"
+  ],
+  "piaggiare": [
+    "pjadːʒare"
+  ],
+  "piaggiato": [
+    "pjadːʒato"
+  ],
+  "piagnisteo": [
+    "pjaɲɲistɛo"
+  ],
+  "piagnucolare": [
+    "pjaɲɲukolare"
+  ],
+  "piagnucolato": [
+    "pjaɲɲukolato"
+  ],
+  "pialla": [
+    "pjalːa"
+  ],
+  "pialle": [
+    "pjalːe"
+  ],
+  "pialletto": [
+    "pjalːetːo"
+  ],
+  "piamente": [
+    "piamente"
+  ],
+  "piana": [
+    "pjana"
+  ],
+  "pianale": [
+    "pjanale"
+  ],
+  "piane": [
+    "pjane"
+  ],
+  "pianeggiante": [
+    "pjanedːʒante"
+  ],
+  "pianella": [
+    "pjanɛlːa"
+  ],
+  "pianerottolo": [
+    "pjanerɔtːolo"
+  ],
+  "pianeta": [
+    "pjaneta"
+  ],
+  "pianete": [
+    "pjanete"
+  ],
+  "pianeti": [
+    "pjaneti"
+  ],
+  "pianetini": [
+    "pjanetini"
+  ],
+  "pianetino": [
+    "pjanetino"
+  ],
+  "pianga": [
+    "pjanɡa"
+  ],
+  "piangente": [
+    "pjandʒɛnte"
+  ],
+  "piangenti": [
+    "pjandʒɛnti"
+  ],
+  "piangere": [
+    "pjandʒere",
+    "pjaɲdʒere"
+  ],
+  "piani": [
+    "pjani"
+  ],
+  "pianificabile": [
+    "pianifikabile"
+  ],
+  "pianificabili": [
+    "pianifikabili"
+  ],
+  "pianificante": [
+    "pianifikante"
+  ],
+  "pianificare": [
+    "pianifikare",
+    "pjanifikare"
+  ],
+  "pianificata": [
+    "pianifikata"
+  ],
+  "pianificate": [
+    "pianifikate"
+  ],
+  "pianificati": [
+    "pianifikati"
+  ],
+  "pianificato": [
+    "pianifikato",
+    "pjanifikato"
+  ],
+  "pianificatore": [
+    "pianifikatore"
+  ],
+  "pianificatori": [
+    "pianifikatori"
+  ],
+  "pianificatrice": [
+    "pianifikatritʃe"
+  ],
+  "pianificatrici": [
+    "pianifikatritʃi"
+  ],
+  "pianificazione": [
+    "pjanifikatːsjone"
+  ],
+  "pianificazioni": [
+    "pjanifikatːsjoni"
+  ],
+  "pianissima": [
+    "pjanisːima"
+  ],
+  "pianissime": [
+    "pjanisːime"
+  ],
+  "pianissimi": [
+    "pjanisːimi"
+  ],
+  "pianissimo": [
+    "pjanisːimo"
+  ],
+  "pianista": [
+    "pianista",
+    "pjanista"
+  ],
+  "pianiste": [
+    "pjaniste"
+  ],
+  "pianisti": [
+    "pjanisti"
+  ],
+  "piano": [
+    "pjano"
+  ],
+  "pianoforte": [
+    "pjanofɔrte"
+  ],
+  "pianoforti": [
+    "pjanofɔrti"
+  ],
+  "pianola": [
+    "pjanɔla"
+  ],
+  "pianoro": [
+    "pjanɔro"
+  ],
+  "pianta": [
+    "pjanta"
+  ],
+  "piantaggine": [
+    "pjantadːʒine"
+  ],
+  "piantagione": [
+    "pjantadʒone"
+  ],
+  "piantagrane": [
+    "pjantaɡrane"
+  ],
+  "piantamenti": [
+    "piantamenti"
+  ],
+  "piantamento": [
+    "piantamento"
+  ],
+  "piantare": [
+    "pjantare"
+  ],
+  "piantato": [
+    "pjantato"
+  ],
+  "piantatore": [
+    "pjantatore"
+  ],
+  "piantatori": [
+    "pjantatori"
+  ],
+  "piantatrice": [
+    "pjantatritʃe"
+  ],
+  "piantatrici": [
+    "pjantatritʃi"
+  ],
+  "piantatura": [
+    "pjantatura"
+  ],
+  "piantature": [
+    "pjantature"
+  ],
+  "piante": [
+    "piante",
+    "pjanta",
+    "pjante"
+  ],
+  "pianterreno": [
+    "pjanterːeno",
+    "pjantɛrːɛnɔ"
+  ],
+  "pianti": [
+    "pjanti"
+  ],
+  "piantina": [
+    "pjantina"
+  ],
+  "pianto": [
+    "pjanto"
+  ],
+  "piantonato": [
+    "pjantonato"
+  ],
+  "piantone": [
+    "pjantone"
+  ],
+  "piantumazione": [
+    "piantumatsione"
+  ],
+  "pianura": [
+    "pjanura"
+  ],
+  "pianure": [
+    "pjanure"
+  ],
+  "pianuzza": [
+    "pjanudːza"
+  ],
+  "piastrella": [
+    "pjastrɛlːa"
+  ],
+  "piastrellista": [
+    "pjastrelːista"
+  ],
+  "piastrelliste": [
+    "pjastrelːiste"
+  ],
+  "piastrellisti": [
+    "pjastrelːisti"
+  ],
+  "piastrina": [
+    "pjastrina"
+  ],
+  "piastrinico": [
+    "pjastriniko"
+  ],
+  "piastrinopatia": [
+    "pjastrinopatia"
+  ],
+  "piatta": [
+    "pjatːa"
+  ],
+  "piattabanda": [
+    "pjatːabanda"
+  ],
+  "piattaforma": [
+    "pjatːaforma"
+  ],
+  "piattaforme": [
+    "pjatːaforme"
+  ],
+  "piattai": [
+    "pjatːai"
+  ],
+  "piattaia": [
+    "pjatːaja"
+  ],
+  "piattaie": [
+    "pjatːaja"
+  ],
+  "piattaio": [
+    "pjatːajo"
+  ],
+  "piattamente": [
+    "pjatːamente"
+  ],
+  "piatte": [
+    "pjatːe"
+  ],
+  "piattelli": [
+    "pjatːɛlːi"
+  ],
+  "piattellista": [
+    "pjatːelːista"
+  ],
+  "piattello": [
+    "pjatːɛlːo"
+  ],
+  "piattezza": [
+    "pjatːetːsa"
+  ],
+  "piattezze": [
+    "pjatːetːse"
+  ],
+  "piatti": [
+    "pjatːi"
+  ],
+  "piattino": [
+    "piatːino",
+    "pjatːino",
+    "pjatːinɔ"
+  ],
+  "piattissima": [
+    "pjatːisːima"
+  ],
+  "piattissime": [
+    "pjatːisːime"
+  ],
+  "piattissimi": [
+    "pjatːisːimi"
+  ],
+  "piattissimo": [
+    "pjatːisːimo"
+  ],
+  "piatto": [
+    "pjatːo"
+  ],
+  "piattola": [
+    "pjatːola"
+  ],
+  "piattole": [
+    "pjatːole"
+  ],
+  "piazza": [
+    "piatːsa",
+    "pjatːsa"
+  ],
+  "piazzaforte": [
+    "pjatːsafɔrt",
+    "pjatːsafɔrte"
+  ],
+  "piazzamento": [
+    "pjatːsamento"
+  ],
+  "piazzare": [
+    "pjatːsare"
+  ],
+  "piazzarsi": [
+    "pjatːsarsi"
+  ],
+  "piazzata": [
+    "pjatːsata"
+  ],
+  "piazzato": [
+    "pjatːsato"
+  ],
+  "piazze": [
+    "pjatːse"
+  ],
+  "piazzeforti": [
+    "pjatːsefɔrti"
+  ],
+  "piazzetta": [
+    "pjatːsetːa"
+  ],
+  "piazzista": [
+    "pjatːsista"
+  ],
+  "piazzola": [
+    "pjatːsɔla"
+  ],
+  "pica": [
+    "pika"
+  ],
+  "picador": [
+    "pikadɔr"
+  ],
+  "picca": [
+    "pikːa"
+  ],
+  "piccante": [
+    "pikːante"
+  ],
+  "piccanti": [
+    "pikːanti"
+  ],
+  "piccantissima": [
+    "pikːantisːima"
+  ],
+  "piccantissime": [
+    "pikːantisːime"
+  ],
+  "piccantissimi": [
+    "pikːantisːimi"
+  ],
+  "piccantissimo": [
+    "pikːantisːimo"
+  ],
+  "piccardia": [
+    "pikːardia"
+  ],
+  "piccardo": [
+    "pikːardo"
+  ],
+  "piccare": [
+    "pikːare"
+  ],
+  "picche": [
+    "pikːe"
+  ],
+  "picchettare": [
+    "pikːetːare"
+  ],
+  "picchetto": [
+    "pikːetːo"
+  ],
+  "picchi": [
+    "pikːi"
+  ],
+  "picchiare": [
+    "pikːjare"
+  ],
+  "picchiarsi": [
+    "pikːjarsi"
+  ],
+  "picchiata": [
+    "pikːjata"
+  ],
+  "picchiato": [
+    "pikːjato"
+  ],
+  "picchii": [
+    "pikːii"
+  ],
+  "picchio": [
+    "pikːio",
+    "pikːjo"
+  ],
+  "picchiotto": [
+    "pikːjɔtːo"
+  ],
+  "piccine": [
+    "pitːʃine"
+  ],
+  "piccino": [
+    "pitːʃino"
+  ],
+  "picciolo": [
+    "pitːʃɔlo"
+  ],
+  "piccioncino": [
+    "pitːʃontʃino"
+  ],
+  "piccione": [
+    "pitːʃone",
+    "pitːʃɔne"
+  ],
+  "piccioni": [
+    "pitːʃɔni"
+  ],
+  "picciotti": [
+    "pitʃɔtːi"
+  ],
+  "picciotto": [
+    "pitʃɔtːo",
+    "pitːʃɔtːo"
+  ],
+  "picco": [
+    "pikːo"
+  ],
+  "piccola": [
+    "pikːola"
+  ],
+  "piccole": [
+    "pikːole"
+  ],
+  "piccolezza": [
+    "pikːoletːsa"
+  ],
+  "piccolezze": [
+    "pikːoletːse"
+  ],
+  "piccoli": [
+    "pikːoli"
+  ],
+  "piccolina": [
+    "pikːolina"
+  ],
+  "piccoline": [
+    "pikːoline"
+  ],
+  "piccolini": [
+    "pikːolini"
+  ],
+  "piccolino": [
+    "pikːolino"
+  ],
+  "piccolissima": [
+    "pikːolisːima"
+  ],
+  "piccolissime": [
+    "pikːolisːime"
+  ],
+  "piccolissimi": [
+    "pikːolisːimi"
+  ],
+  "piccolissimo": [
+    "pikːolisːimo"
+  ],
+  "piccolo": [
+    "pikːolo"
+  ],
+  "picide": [
+    "pitʃide"
+  ],
+  "picidi": [
+    "pitʃidi"
+  ],
+  "piciforme": [
+    "pitʃiforme"
+  ],
+  "piciformi": [
+    "pitʃiformi"
+  ],
+  "picnic": [
+    "piknik"
+  ],
+  "picnometri": [
+    "piknɔmetri"
+  ],
+  "picnometro": [
+    "piknɔmetro"
+  ],
+  "picnostilo": [
+    "piknɔstilo"
+  ],
+  "pico": [
+    "piko"
+  ],
+  "picometro": [
+    "pikomɛtro"
+  ],
+  "picosecondo": [
+    "pikosekondo"
+  ],
+  "pidduista": [
+    "pidːuista"
+  ],
+  "pidocchi": [
+    "pidɔkːjo"
+  ],
+  "pidocchiale": [
+    "pidokːjale"
+  ],
+  "pidocchio": [
+    "pidɔkːjo"
+  ],
+  "pidocchioso": [
+    "pidokːjoso",
+    "pidokːjozo",
+    "pidɔkːjozo"
+  ],
+  "piduista": [
+    "pidːue"
+  ],
+  "piè": [
+    "pje"
+  ],
+  "piede": [
+    "piɛde",
+    "pjɛde"
+  ],
+  "piedestalli": [
+    "pjɛdestalːi"
+  ],
+  "piedestallo": [
+    "pjɛdestalːo"
+  ],
+  "piedi": [
+    "pjɛdi"
+  ],
+  "piedino": [
+    "pjedino"
+  ],
+  "piedistalli": [
+    "pjɛdistalːi"
+  ],
+  "piedistallo": [
+    "pjedistalːo",
+    "pjɛdistalːo"
+  ],
+  "piedra": [
+    "pjɛdra"
+  ],
+  "piedritto": [
+    "pjɛdritːo"
+  ],
+  "piega": [
+    "pjeɡa",
+    "pjɛɡa"
+  ],
+  "piegabaffi": [
+    "pjeɡabafːi",
+    "pjɛɡabafːi"
+  ],
+  "piegabile": [
+    "pjeɡabile"
+  ],
+  "piegabili": [
+    "pjeɡabili"
+  ],
+  "piegamento": [
+    "pjeɡamento"
+  ],
+  "piegante": [
+    "pjeɡante"
+  ],
+  "piegare": [
+    "pjeɡare"
+  ],
+  "piegarsi": [
+    "pjeɡarsi"
+  ],
+  "piegato": [
+    "pjeɡato"
+  ],
+  "pieghevole": [
+    "pjeɡevole"
+  ],
+  "pieghevolezza": [
+    "pjeɡevoletːsa"
+  ],
+  "pieghevoli": [
+    "pjeɡevole",
+    "pjeɡevoli"
+  ],
+  "piego": [
+    "pjɛɡo"
+  ],
+  "piemonte": [
+    "pjemonte"
+  ],
+  "piemontese": [
+    "pjemontese",
+    "pjemonteze"
+  ],
+  "piemontesi": [
+    "pjemontesi"
+  ],
+  "piemontesismo": [
+    "pjemontesizmo"
+  ],
+  "piemontesizzare": [
+    "pjemontesidːzare"
+  ],
+  "piemontesizzazione": [
+    "pjemontesidːzatːsjone",
+    "pjemontezidːzatːsjone"
+  ],
+  "piemontizzazione": [
+    "pjemontidːzatːsjone"
+  ],
+  "piena": [
+    "pjɛna"
+  ],
+  "pienamente": [
+    "pjenamente"
+  ],
+  "piene": [
+    "pjɛne"
+  ],
+  "pieni": [
+    "pjɛni"
+  ],
+  "pienissima": [
+    "pjɛnisːima"
+  ],
+  "pienissime": [
+    "pjɛnisːime"
+  ],
+  "pienissimi": [
+    "pjɛnisːimi"
+  ],
+  "pienissimo": [
+    "pjɛnisːimo"
+  ],
+  "pieno": [
+    "piɛno",
+    "pjeno",
+    "pjɛno",
+    "pjɛnɔ"
+  ],
+  "pienotto": [
+    "pjenɔtːo"
+  ],
+  "piercing": [
+    "pirsin",
+    "pirsinɡ"
+  ],
+  "pieride": [
+    "piɛride"
+  ],
+  "pieridi": [
+    "piɛride"
+  ],
+  "piero": [
+    "pjɛro"
+  ],
+  "pierra": [
+    "pjɛrːa"
+  ],
+  "pierre": [
+    "piɛrːe"
+  ],
+  "pieta": [
+    "pjɛta"
+  ],
+  "pietà": [
+    "pieta",
+    "pjeta"
+  ],
+  "pietade": [
+    "pjetade"
+  ],
+  "pietanza": [
+    "pjetantsa"
+  ],
+  "pietate": [
+    "pjetate"
+  ],
+  "pietismi": [
+    "pjetizmi"
+  ],
+  "pietismo": [
+    "pjetizmo"
+  ],
+  "pietista": [
+    "pjetista"
+  ],
+  "pietiste": [
+    "pjetiste"
+  ],
+  "pietisti": [
+    "pjetisti"
+  ],
+  "pietosa": [
+    "pjetosa",
+    "pjetoza"
+  ],
+  "pietosamente": [
+    "pjetosamente"
+  ],
+  "pietose": [
+    "pjetose",
+    "pjetoze"
+  ],
+  "pietosi": [
+    "pjetosi",
+    "pjetozi"
+  ],
+  "pietoso": [
+    "pjetoso",
+    "pjetozo"
+  ],
+  "pietra": [
+    "pjɛtra"
+  ],
+  "pietrificare": [
+    "pjetrifikare"
+  ],
+  "pietrificato": [
+    "pjetrifikato"
+  ],
+  "pietrisco": [
+    "pjetrisko"
+  ],
+  "pietroso": [
+    "pjetroso",
+    "pjetrozo"
+  ],
+  "pievano": [
+    "pjevano"
+  ],
+  "pieve": [
+    "pjɛve"
+  ],
+  "pieveloce": [
+    "pjevelotʃe",
+    "pjɛvelotʃe",
+    "pjɛvelɔtʃe",
+    "pjɛvːelotʃe"
+  ],
+  "piezoelettricità": [
+    "pjɛdzɔeletːritʃita",
+    "pjɛdːzoeletːritʃita"
+  ],
+  "piezomagnetico": [
+    "pjɛdːzomaɲɲɛtiko"
+  ],
+  "piezomagnetismo": [
+    "pjɛdːzomaɲɲetizmo"
+  ],
+  "piezometria": [
+    "pjedːzometria"
+  ],
+  "piezometro": [
+    "pjedːzɔmetro"
+  ],
+  "pifferaio": [
+    "pifːerajo"
+  ],
+  "piffero": [
+    "pifːero"
+  ],
+  "pigerrima": [
+    "pidʒɛrːima"
+  ],
+  "pigerrime": [
+    "pidʒɛrːime"
+  ],
+  "pigerrimi": [
+    "pidʒɛrːimi"
+  ],
+  "pigerrimo": [
+    "pidʒɛrːimo"
+  ],
+  "pigiadiraspare": [
+    "pidʒadiraspare"
+  ],
+  "pigiadiraspatrice": [
+    "pidʒadiraspatritʃe"
+  ],
+  "pigiama": [
+    "pidʒama"
+  ],
+  "pigiami": [
+    "pidʒami"
+  ],
+  "pigiare": [
+    "pidʒare"
+  ],
+  "pigiarsi": [
+    "pidʒarsi"
+  ],
+  "pigiata": [
+    "pidʒata"
+  ],
+  "pigione": [
+    "pidʒone",
+    "pidʒɔne"
+  ],
+  "pigioni": [
+    "pidʒɔni"
+  ],
+  "pigliamosche": [
+    "piʎamoske"
+  ],
+  "pigliare": [
+    "piʎare"
+  ],
+  "piglio": [
+    "piʎo"
+  ],
+  "pigmenti": [
+    "piɡmenti"
+  ],
+  "pigmento": [
+    "piɡmento"
+  ],
+  "pigmeo": [
+    "piɡmɛo"
+  ],
+  "pigna": [
+    "piɲɲa"
+  ],
+  "pignatta": [
+    "piɲɲatːa"
+  ],
+  "pignola": [
+    "piɲɲɔla"
+  ],
+  "pignole": [
+    "piɲɲɔle"
+  ],
+  "pignoleria": [
+    "piɲɲoleria"
+  ],
+  "pignoli": [
+    "piɲɲɔli"
+  ],
+  "pignolo": [
+    "piɲɲɔlo"
+  ],
+  "pignone": [
+    "piɲɲone"
+  ],
+  "pignoni": [
+    "piɲɲoni"
+  ],
+  "pignorabile": [
+    "piɲɲorabile"
+  ],
+  "pignorabili": [
+    "piɲɲorabili"
+  ],
+  "pignoramenti": [
+    "piɲɲoramenti"
+  ],
+  "pignoramento": [
+    "piɲɲoramento"
+  ],
+  "pignoratizio": [
+    "piɲɲoratitːsjo"
+  ],
+  "pigolare": [
+    "piɡolare"
+  ],
+  "pigoscelide": [
+    "piɡoʃʃɛlide"
+  ],
+  "pigra": [
+    "piɡra"
+  ]
 }

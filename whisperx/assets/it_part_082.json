@@ -1,502 +1,1527 @@
 {
-  "fiato": ["f j a t o"],
-  "fiatola": ["f j a t o l a"],
-  "fiavo": ["f j a v o"],
-  "fibbia": ["f i bː i a", "f i bː j a"],
-  "fibbiaia": ["f i bː j a j a"],
-  "fibbiaio": ["f i bː j a j o"],
-  "fibonacci": ["f i b o n a tː ʃ i"],
-  "fibra": ["f i b r a"],
-  "fibrato": ["f i b r a t o"],
-  "fibre": ["f i b r e"],
-  "fibrillare": ["f i b r i lː a r e"],
-  "fibrillazione": ["f i b r i lː a tː s j o n e"],
-  "fibroblastico": ["f i b r o b l a s t i k o"],
-  "fibroblasto": ["f i b r o b l a s t o"],
-  "fibrocartilagine": ["f i b r o k a r t i l a d ʒ i n e"],
-  "fibrocartilaginea": ["f i b r o k a r t i l a d ʒ i n e a"],
-  "fibrocartilaginee": ["f i b r o k a r t i l a d ʒ i n e e"],
-  "fibrocartilaginei": ["f i b r o k a r t i l a d ʒ i n e i"],
-  "fibrocartilagineo": ["f i b r o k a r t i l a d ʒ i n e o"],
-  "fibrocartilagini": ["f i b r o k a r t i l a d ʒ i n i"],
-  "fibrocemento": ["f i b r o t ʃ e m e n t o"],
-  "fibroelastico": ["f i b r o e l a s t i k o"],
-  "fibroma": ["f i b r ɔ m a"],
-  "fibromi": ["f i b r ɔ m i"],
-  "fibromioma": ["f i b r o m j ɔ m"],
-  "fibromiomi": ["f i b r o m j ɔ m i"],
-  "fibroplastico": ["f i b r o p l a s t i k o"],
-  "fibrosante": ["f i b r o z a n t e"],
-  "fibrosanti": ["f i b r o z a n t i"],
-  "fibrosarcoma": ["f i b r o s a r k ɔ m a"],
-  "fibrosarcomi": ["f i b r o s a r k ɔ m i"],
-  "fibroscopi": ["f i b r o s k ɔ p i"],
-  "fibroscopia": ["f i b r o s k ɔ p j a"],
-  "fibroscopie": ["f i b r o s k ɔ p j a"],
-  "fibroscopio": ["f i b r o s k ɔ p j o"],
-  "fibroso": ["f i b r o s o"],
-  "fibula": ["f i b u l a"],
-  "fica": ["f i k a"],
-  "ficaia": ["f i k a j a"],
-  "ficaio": ["f i k a j o"],
-  "ficcanasi": ["f i kː a n a z i"],
-  "ficcanaso": ["f i kː a n a z o"],
-  "ficcare": ["f i kː a r e"],
-  "fichetto": ["f i k e tː o"],
-  "fichi": ["f i k i"],
-  "fichino": ["f i k i n o"],
-  "fichtiano": ["f i k t j a n o"],
-  "fico": ["f i k o", "f i k ɔ"],
-  "ficologo": ["f i k ɔ l o ɡ o"],
-  "ficone": ["f i k o n e"],
-  "ficus": ["f i k u s"],
-  "fida": ["f i d a"],
-  "fidante": ["f i d a n t e"],
-  "fidanza": ["f i d a n t s a"],
-  "fidanzamenti": ["f i d a n t s a m e n t i"],
-  "fidanzamento": ["f i d a n t s a m e n t o"],
-  "fidanzante": ["f i d a n t s a n t e"],
-  "fidanzare": ["f i d a n t s a r e"],
-  "fidanzarsi": ["f i d a n t s a r s i"],
-  "fidanzata": ["f i d a n t s a t a"],
-  "fidanzate": ["f i d a n t s a t e"],
-  "fidanzati": ["f i d a n t s a t i"],
-  "fidanzato": ["f i d a n t s a t o"],
-  "fidanze": ["f i d a n t s e"],
-  "fidare": ["f i d a r e"],
-  "fidarsi": ["f i d a r s i"],
-  "fidatamente": ["f i d a t a m e n t e"],
-  "fidato": ["f i d a t o"],
-  "fideismo": ["f i d e i z m o"],
-  "fideista": ["f i d e i s t a"],
-  "fideisticamente": ["f i d e i s t i k a m e n t e"],
-  "fideistico": ["f i d e i s t i k o"],
-  "fideiussione": ["f i d e j u sː j o n e"],
-  "fideiussore": ["f i d e j u sː o r e"],
-  "fideiussorio": ["f i d e j u sː ɔ r j o"],
-  "fidele": ["f i d e l e"],
-  "fidelità": ["f i d e l i t a"],
-  "fidelizzante": ["f i d e l i dː z a n t e"],
-  "fidelizzare": ["f i d e l i dː z a r e"],
-  "fidelizzato": ["f i d e l i dː z a t o"],
-  "fidelizzazione": ["f i d e l i dː z a tː s j o n e"],
-  "fidente": ["f i d ɛ n t e"],
-  "fidenza": ["f i d ɛ n t s a"],
-  "fidicina": ["f i d i t ʃ i n a"],
-  "fidicine": ["f i d i t ʃ i n e"],
-  "fido": ["f i d o"],
-  "fiducia": ["f i d u t ʃ a"],
-  "fiduciante": ["f i d u t ʃ a n t e"],
-  "fiduciaria": ["f i d u t ʃ a r j a"],
-  "fiduciario": ["f i d u t ʃ a r j o"],
-  "fiducie": ["f i d u t ʃ a"],
-  "fiduciosamente": ["f i d u t ʃ o z a m e n t e"],
-  "fiducioso": ["f i d u t ʃ o z o"],
-  "fieda": ["f j ɛ d a"],
-  "fiedano": ["f j ɛ d a n o"],
-  "fiedi": ["f j ɛ d i"],
-  "fiedo": ["f j ɛ d o"],
-  "fiedono": ["f j ɛ d o n o"],
-  "fiele": ["f j e l e", "f j ɛ l e"],
-  "fienagione": ["f j e n a d ʒ o n e"],
-  "fieni": ["f j ɛ n i"],
-  "fieno": ["f i e n o", "f i ɛ n o", "f j ɛ n o", "f j ɛ n ɔ"],
-  "fiera": ["f j e r a"],
-  "fieramente": ["f j e r a m e n t e"],
-  "fiere": ["f j ɛ r e"],
-  "fieristico": ["f j e r i s t i k o"],
-  "fiero": ["f j ɛ r o"],
-  "fiesole": ["f j ɛ z o l e"],
-  "fievole": ["f j ɛ v o l e"],
-  "fifa": ["f i f a"],
-  "figa": ["f i ɡ a"],
-  "figata": ["f i ɡ a t a"],
-  "figgere": ["f i dː ʒ e r e"],
-  "fighe": ["f i ɡ e"],
-  "fighi": ["f i ɡ i"],
-  "figi": ["f i d ʒ i", "f i dː ʒ i"],
-  "figiana": ["f i d ʒ a n a"],
-  "figiane": ["f i d ʒ a n e"],
-  "figiani": ["f i d ʒ a n i"],
-  "figiano": ["f i d ʒ a n o"],
-  "figli": ["f i ʎ i"],
-  "figlia": ["f i l j a", "f i ʎ a"],
-  "figliastra": ["f i ʎ j a s t r a"],
-  "figliastre": ["f i ʎ j a s t r e"],
-  "figliastri": ["f i ʎ j a s t r i"],
-  "figliastro": ["f i ʎ a s t r o"],
-  "figlie": ["f i ʎ j e"],
-  "figlio": ["f i ʎ i", "f i ʎ o"],
-  "figliola": ["f i ʎ j ɔ l a", "f i ʎ ɔ l a"],
-  "figliolanza": ["f i ʎ o l a n t s a"],
-  "figliole": ["f i ʎ ɔ l e"],
-  "figlioli": ["f i ʎ ɔ l i"],
-  "figliolo": ["f i ʎ ɔ l o"],
-  "figliuola": ["f i ʎ j w ɔ l a"],
-  "figliuolo": ["f i ʎ u ɔ l o", "f i ʎ w ɔ l o"],
-  "figo": ["f i ɡ o"],
-  "figulinaio": ["f i ɡ u l i n a j o"],
-  "figura": ["f i ɡ u r a"],
-  "figurale": ["f i ɡ u r a l e"],
-  "figurando": ["f i ɡ u r a n d o"],
-  "figurante": ["f i ɡ u r a n t e"],
-  "figurare": ["f i ɡ u r a r e"],
-  "figurarsi": ["f i ɡ u r a r s i"],
-  "figurata": ["f i ɡ u r a t a"],
-  "figuratamente": ["f i ɡ u r a t a m e n t e"],
-  "figurate": ["f i ɡ u r a t e"],
-  "figurati": ["f i ɡ u r a t i"],
-  "figurativa": ["f i ɡ u r a t i v a"],
-  "figurativamente": ["f i ɡ u r a t i v a m e n t e"],
-  "figurative": ["f i ɡ u r a t i v e"],
-  "figurativi": ["f i ɡ u r a t i v i"],
-  "figurativismo": ["f i ɡ u r a t i v i z m o"],
-  "figurativo": ["f i ɡ u r a t i v o"],
-  "figurato": ["f i ɡ u r a t o"],
-  "figurazione": ["f i ɡ u r a t s j o n e"],
-  "figurazioni": ["f i ɡ u r a t s j o n i"],
-  "figure": ["f i ɡ u r e"],
-  "figurinista": ["f i ɡ u r i n i s t a"],
-  "figuro": ["f i ɡ u r o", "p r e f i ɡ u r o"],
-  "figurone": ["f i ɡ u r o n e"],
-  "fijana": ["f i d ʒ a n a"],
-  "fijane": ["f i d ʒ a n e"],
-  "fijani": ["f i d ʒ a n i"],
-  "fijano": ["f i d ʒ a n o"],
-  "fiji": ["f i d ʒ i"],
-  "fila": ["f i l a"],
-  "filacce": ["f i l a tː ʃ e"],
-  "filaccia": ["f i l a tː ʃ a"],
-  "filaccio": ["f i l a tː ʃ o"],
-  "filaccioso": ["f i l a tː ʃ o z o"],
-  "filamenti": ["f i l a m e n t i"],
-  "filamento": ["f i l a m e n t o"],
-  "filanca": ["f i l a n k a"],
-  "filanda": ["f i l a n d a"],
-  "filandaia": ["f i l a n d a j a"],
-  "filante": ["f i l a n t e"],
-  "filantrocapitalismi": ["f i l a n t r ɔ k a p i t a l i z m i"],
-  "filantrocapitalismo": ["f i l a n t r ɔ k a p i t a l i z m o"],
-  "filantropa": ["f i l a n t r o p a"],
-  "filantrope": ["f i l a n t r o p e"],
-  "filantropi": ["f i l a n t r o p i"],
-  "filantropia": ["f i l a n t r o p i a"],
-  "filantropico": ["f i l a n t r ɔ p i k o", "p i l a n t r o p i k"],
-  "filantropie": ["f i l a n t r o p i e"],
-  "filantropismo": ["f i l a n t r o p i z m o"],
-  "filantropo": ["f i l a n t r o p o"],
-  "filare": ["f i l a r e"],
-  "filari": ["f i l a r i"],
-  "filastrocca": ["f i l a s t r ɔ kː a"],
-  "filatelia": ["f i l a t e l i a"],
-  "filatelico": ["f i l a t ɛ l i k o"],
-  "filatelista": ["f i l a t e l i s t a"],
-  "filateliste": ["f i l a t e l i s t e"],
-  "filatelisti": ["f i l a t e l i s t i"],
-  "filato": ["f i l a t o"],
-  "filatteri": ["f i l a tː ɛ r i"],
-  "filatterio": ["f i l a tː ɛ r j o"],
-  "filatura": ["f i l a t u r a"],
-  "filature": ["f i l a t u r e"],
-  "file": ["f a i l", "f i l e"],
-  "filellenico": ["f i l e lː ɛ n i k o"],
-  "filellenismo": ["f i l e lː e n i z m o"],
-  "filelleno": ["f i l e lː ɛ n o"],
-  "filemone": ["f i l e m o n e"],
-  "filettatrice": ["f i l e tː a t r i t ʃ e"],
-  "filettatura": ["f i l e tː a t u r a"],
-  "filettature": ["f i l e tː a t u r e"],
-  "filetto": ["f i l e tː o"],
-  "fili": ["f i l i"],
-  "filiale": ["f i l j a l e"],
-  "filiali": ["f i l j a l i"],
-  "filiazione": ["f i l j a t s j o n e"],
-  "filiberto": ["f i l i b ɛ r t o"],
-  "filibustiere": ["f i l i b u s t j ɛ r e"],
-  "filice": ["f i l i t ʃ e"],
-  "filiforme": ["f i l i f o r m e"],
-  "filiformi": ["f i l i f o r m i"],
-  "filippica": ["f i l i pː i k a"],
-  "filippina": ["f i l i pː i n a"],
-  "filippine": ["f i l i pː i n e"],
-  "filippini": ["f i l i pː i n i"],
-  "filippino": ["f i l i pː i n o"],
-  "filisteo": ["f i l i s t ɛ o"],
-  "fillo": ["f i lː o"],
-  "filloderma": ["f i lː o d ɛ r m a"],
-  "fillofaga": ["f i lː ɔ f a ɡ a"],
-  "fillofaghe": ["f i lː ɔ f a ɡ e"],
-  "fillofagi": ["f i lː ɔ f a d ʒ i"],
-  "fillofago": ["f i lː ɔ f a ɡ o"],
-  "filloscopo": ["f i lː ɔ s k o p o"],
-  "fillostomide": ["f i lː o s t ɔ m i d e"],
-  "fillostomidi": ["f i lː o s t ɔ m i d i"],
-  "film": ["f i l m"],
-  "filmabile": ["f i l m a b i l e"],
-  "filmabili": ["f i l m a b i l i"],
-  "filmando": ["f i l m a n d o"],
-  "filmante": ["f i l m a n t e"],
-  "filmare": ["f i l m a r e"],
-  "filmata": ["f i l m a t a"],
-  "filmate": ["f i l m a t e"],
-  "filmati": ["f i l m a t i"],
-  "filmato": ["f i l m a t o"],
-  "filmico": ["f i l m i k o"],
-  "filmina": ["f i l m i n a"],
-  "filmino": ["f i l m i n o"],
-  "filmogena": ["f i l m o d ʒ ɛ n a"],
-  "filmogene": ["f i l m o d ʒ ɛ n e"],
-  "filmogeni": ["f i l m o d ʒ ɛ n i"],
-  "filmogeno": ["f i l m o d ʒ ɛ n o"],
-  "filmografia": ["f i l m o ɡ r a f i a"],
-  "filmografico": ["f i l m o ɡ r a f i k o"],
-  "filmoteca": ["f i l m o t ɛ k a"],
-  "filmoteche": ["f i l m o t ɛ k e"],
-  "filo": ["f i l o"],
-  "filoamericano": ["f i l o a m e r i k a n o"],
-  "filobus": ["f i l o b u s"],
-  "filocarro": ["f i l o k a rː o"],
-  "filodiffusione": ["f i l o d i fː u z j o n e"],
-  "filoellenismo": ["f i l o e lː e n i z m o"],
-  "filogenesi": ["f i l o d ʒ ɛ n e z i"],
-  "filogenetico": ["f i l o d ʒ e n ɛ t i k o"],
-  "filogovernativo": ["f i l o ɡ o v e r n a t i v o"],
-  "filologia": ["f i l o l o d ʒ i a"],
-  "filologica": ["f i l o l ɔ d ʒ i k a"],
-  "filologicamente": ["f i l o l o d ʒ i k a m e n t e", "f i l o l ɔ d ʒ i k a m e n t e"],
-  "filologico": ["f i l o l ɔ d ʒ i k o"],
-  "filologie": ["f i l o l o d ʒ i e"],
-  "filologo": ["f i l ɔ l o ɡ o"],
-  "filometore": ["f i l o m ɛ t o r e"],
-  "filometori": ["f i l o m ɛ t o r i"],
-  "filone": ["f i l o n e"],
-  "filoneismo": ["f i l o n e i z m o"],
-  "filoni": ["f i l o n i"],
-  "filopatore": ["f i l o p a t o r e"],
-  "filopatori": ["f i l o p a t o r i"],
-  "filosofa": ["f i l ɔ z o f a"],
-  "filosofale": ["f i l o z o f a l e"],
-  "filosofando": ["f i l o z o f a n d o"],
-  "filosofante": ["f i l o z o f a n t e"],
-  "filosofare": ["f i l o z o f a r e"],
-  "filosofastro": ["f i l o z o f a s t r o"],
-  "filosofato": ["f i l o z o f a t o"],
-  "filosofe": ["f i l ɔ z o f e"],
-  "filosofeggiante": ["f i l o z o f e dː ʒ a n t e"],
-  "filosofeggiare": ["f i l o z o f e dː ʒ a r e"],
-  "filosofeggiato": ["f i l o z o f e dː ʒ a t o"],
-  "filosoferia": ["f i l o z o f e r i a"],
-  "filosofesco": ["f i l o z o f e s k o"],
-  "filosofessa": ["f i l o z o f e sː a"],
-  "filosofi": ["f i l ɔ z o f i"],
-  "filosofia": ["f i l o z o f i a", "f i l o z o f j a"],
-  "filosoficamente": ["f i l o z o f i k a m e n t e"],
-  "filosofico": ["f i l o z ɔ f i k o"],
-  "filosofie": ["f i l o z o f i e"],
-  "filosofo": ["f i l ɔ z o f o"],
-  "filossera": ["f i l ɔ sː e r a"],
-  "filotto": ["f i l ɔ tː o"],
-  "filoveicolo": ["f i l o v e i k o l o"],
-  "filtrabile": ["f i l t r a b i l e"],
-  "filtrabili": ["f i l t r a b i l e i"],
-  "filtraggi": ["f i l t r a dː ʒ i"],
-  "filtraggio": ["f i l t r a dː ʒ o"],
-  "filtrando": ["f i l t r a n d o"],
-  "filtrante": ["f i l t r a n t e"],
-  "filtranti": ["f i l t r a n t i"],
-  "filtrare": ["f i l t r a r e"],
-  "filtrato": ["f i l t r a t o"],
-  "filtrazione": ["f i l t r a tː s j o n e"],
-  "filtri": ["f i l t r i"],
-  "filtro": ["f i l t r o"],
-  "filtropressa": ["f i l t r o p r e sː a"],
-  "filza": ["f i l t s a"],
-  "fimo": ["f i m o"],
-  "fimosi": ["f i m ɔ z i"],
-  "finale": ["f i n a l e"],
-  "finalismo": ["f i n a l i z m o"],
-  "finalista": ["f i n a l i s t a"],
-  "finaliste": ["f i n a l i s t e"],
-  "finalisti": ["f i n a l i s t i"],
-  "finalità": ["f i n a l i t a"],
-  "finalizzare": ["f i n a l i tː s a r e"],
-  "finalizzato": ["f i n a l i dː z a t o", "f i n a l i tː s a t o"],
-  "finalmente": ["f i n a l m e n t e", "f i n a l m ɛ n t e"],
-  "finamente": ["f i n a m e n t e"],
-  "finanche": ["f i n a n k e"],
-  "finanza": ["f i n a n t s a"],
-  "finanze": ["f i n a n t s e"],
-  "finanziabile": ["f i n a n t s j a b i l e"],
-  "finanziabili": ["f i n a n t s j a b i l i"],
-  "finanziabilità": ["f i n a n t s j a b i l i t a"],
-  "finanziamenti": ["f i n a n t s j a m e n t i"],
-  "finanziamento": ["f i n a n t s j a m e n t o"],
-  "finanziante": ["f i n a n t s j a n t e"],
-  "finanziare": ["f i n a n t s j a r e"],
-  "finanziari": ["f i n a n t s j a r i"],
-  "finanziaria": ["f i n a n t s j a r j a"],
-  "finanziariamente": ["f i n a n t s j a r j a m e n t e"],
-  "finanziarie": ["f i n a n t s j a r j e"],
-  "finanziario": ["f i n a n t s j a r j o"],
-  "finanziarizzare": ["f i n a n t s j a r i dː ʒ a r e"],
-  "finanziarizzazione": ["f i n a n t s j a r i dː ʒ a t s j o n e"],
-  "finanziarizzazioni": ["f i n a n t s j a r i dː ʒ a t s j o n i"],
-  "finanziato": ["f i n a n t s j a t o"],
-  "finanziatore": ["f i n a n t s j a t o r e"],
-  "finanziatori": ["f i n a n t s j a t o r i"],
-  "finanziatrice": ["f i n a n t s j a t r i t ʃ e"],
-  "finanziatrici": ["f i n a n t s j a t r i t ʃ i"],
-  "finanziera": ["f i n a n t s j ɛ r a"],
-  "finanziere": ["f i n a n t s j ɛ r e"],
-  "finanzieri": ["f i n a n t s j ɛ r i"],
-  "finché": ["f i ɲ k e"],
-  "fine": ["f i n e"],
-  "finemente": ["f i n e m e n t e"],
-  "finendo": ["f i n e n d o"],
-  "finente": ["f i n e n t e"],
-  "finenti": ["f i n e n t i"],
-  "finestra": ["f i n ɛ s t r a"],
-  "finestre": ["f i n ɛ s t r e"],
-  "finestrella": ["f i n e s t r ɛ lː a"],
-  "finestrina": ["f i n e s t r i n a"],
-  "finezza": ["f i n e tː s a"],
-  "fingente": ["f i ɲ d ʒ e n t e"],
-  "fingere": ["f i n d ʒ e r e", "f i ɲ d ʒ e r e"],
-  "fingersi": ["f i n d ʒ e r s i"],
-  "fini": ["f i n i"],
-  "finì": ["f i n i"],
-  "finiamo": ["f i n j a m o"],
-  "finiate": ["f i n j a t e"],
-  "finii": ["f i n i i"],
-  "finimento": ["f i n i m e n t o"],
-  "finimmo": ["f i n i mː o"],
-  "finimondo": ["f i n i m o n d o"],
-  "finirà": ["f i n i r a"],
-  "finirai": ["f i n i r a i"],
-  "finiranno": ["f i n i r a nː o"],
-  "finire": ["f i n i r e"],
-  "finirebbe": ["f i n i r e bː e"],
-  "finirebbero": ["f i n i r e bː e r o"],
-  "finirei": ["f i n i r e i"],
-  "finiremmo": ["f i n i r e mː o"],
-  "finiremo": ["f i n i r e m o"],
-  "finireste": ["f i n i r e s t e"],
-  "finiresti": ["f i n i r e s t i"],
-  "finirete": ["f i n i r e t e"],
-  "finirò": ["f i n i r o"],
-  "finirono": ["f i n i r o n o"],
-  "finisca": ["f i n i s k a"],
-  "finiscano": ["f i n i s k a n o"],
-  "finisce": ["f i n i s ʃ e", "f i n i ʃ e"],
-  "finisci": ["f i n i s ʃ i", "f i n i ʃ ʃ i"],
-  "finisco": ["f i n i s k o"],
-  "finiscono": ["f i n i s k o n o"],
-  "finissaggi": ["f i n i sː a dː ʒ i"],
-  "finissaggio": ["f i n i sː a dː ʒ o"],
-  "finisse": ["f i n i sː e"],
-  "finissero": ["f i n i sː e r o"],
-  "finissi": ["f i n i sː i"],
-  "finissimo": ["f i n i sː i m o"],
-  "finiste": ["f i n i s t e"],
-  "finisti": ["f i n i s t i"],
-  "finita": ["f i n i t a"],
-  "finite": ["f i n i t e"],
-  "finiti": ["f i n i t i"],
-  "finitimo": ["f i n i t i m o"],
-  "finito": ["f i n i t o"],
-  "finitudine": ["f i n i t u d i n e"],
-  "finitura": ["f i n i t u r a"],
-  "finiture": ["f i n i t u r e"],
-  "finiva": ["f i n i v a"],
-  "finivamo": ["f i n i v a m o"],
-  "finivano": ["f i n i v a n o"],
-  "finivate": ["f i n i v a t e"],
-  "finivi": ["f i n i v i"],
-  "finivo": ["f i n i v o"],
-  "finlandese": ["f i n l a n d e s e", "f i n l a n d e z e"],
-  "finlandia": ["f i n l a n d j a"],
-  "finna": ["f i nː a"],
-  "finne": ["f i nː e"],
-  "finni": ["f i nː i"],
-  "finnica": ["f i nː i k a"],
-  "finniche": ["f i nː i k e"],
-  "finnici": ["f i nː i t ʃ i"],
-  "finnico": ["f i nː i k o"],
-  "finno": ["f i nː o"],
-  "fino": ["f i n o"],
-  "finocchi": ["f i n ɔ kː i"],
-  "finocchio": ["f i n o kː j o", "f i n ɔ kː j o"],
-  "finocchiona": ["f i n o kː j o n a"],
-  "finora": ["f i n o r a"],
-  "finta": ["f i n t a"],
-  "fintamente": ["f i n t a m e n t e"],
-  "fintantoché": ["f i n t a n t o k e"],
-  "finto": ["f i n t o"],
-  "finzione": ["f i n t s j o n e"],
-  "finzioni": ["f i n t s j o n i"],
-  "fio": ["f i o"],
-  "fioca": ["f j ɔ k a"],
-  "fiocchetto": ["f j o kː e tː o"],
-  "fiocchi": ["f j ɔ kː i"],
-  "fiocco": ["f j ɔ kː o"],
-  "fiochi": ["f j ɔ k i"],
-  "fiocina": ["f j ɔ t ʃ i n a"],
-  "fioco": ["f j ɔ k o"],
-  "fionchetto": ["f j o n k e tː o"],
-  "fionco": ["f j o n k o"],
-  "fionda": ["f j o n d a"],
-  "fiondarsi": ["f i o n d a r s i"],
-  "fiorai": ["f j o r a i"],
-  "fioraia": ["f j o r a j a"],
-  "fioraie": ["f j o r a j e"],
-  "fioraio": ["f j o r a j o"],
-  "fiordaliso": ["f j o r d a l i z o"],
-  "fiordo": ["f j ɔ r d o"],
-  "fiore": ["f j o r e"],
-  "fiorellino": ["f j o r e lː i n o"],
-  "fiorente": ["f j o r e n t e", "f j o r ɛ n t e"],
-  "fiorenti": ["f j o r e n t i"],
-  "fiorentina": ["f j o r e n t i n a"],
-  "fiorentine": ["f j o r e n t i n e"],
-  "fiorentini": ["f j o r e n t i n i"],
-  "fiorentino": ["f j o r e n t i n o"],
-  "fiorenza": ["f j o r ɛ n t s a"],
-  "fiorenzo": ["f j o r ɛ n t s o"],
-  "fioretta": ["f j o r e tː a"],
-  "fiorettare": ["f j o r e tː a r e"],
-  "fiorettatura": ["f j o r ɛ tː a t u r a"],
-  "fiorettature": ["f j o r ɛ tː a t u r e"],
-  "fioretti": ["f j o r e tː i"],
-  "fiorettista": ["f j o r e tː i s t a"],
-  "fiorettiste": ["f j o r e tː i s t e"],
-  "fiorettisti": ["f j o r e tː i s t i"],
-  "fioretto": ["f j o r e tː o"],
-  "fiori": ["f j o r i"],
-  "fiorile": ["f j o r i l e"],
-  "fiorino": ["f j o r i n o"],
-  "fiorire": ["f j o r i r e"],
-  "fiorista": ["f j o r i s t a"],
-  "fioriste": ["f j o r i s t e"],
-  "fioristi": ["f j o r i s t i"],
-  "fiorita": ["f j o r i t a", "f j o r i t i"],
-  "fiorite": ["f j o r i t e"],
-  "fioriti": ["f j o r i t i"],
-  "fiorito": ["f j o r i t o"],
-  "fioritura": ["f j o r i t u r a"],
-  "fioriture": ["f j o r i t u r e"],
-  "fioronata": ["f j o r o n a t a"],
-  "fioronate": ["f j o r o n a t e"],
-  "fioronati": ["f j o r o n a t i"],
-  "fioronato": ["f j o r o n a t o"],
-  "fiorone": ["f j o r o n e"],
-  "fiotto": ["f j ɔ tː o"],
-  "fire": ["f i r e"],
-  "firenze": ["f i r ɛ n t s e"],
-  "firma": ["f i r m a"],
-  "firmamenti": ["f i r m a m e n t o"],
-  "firmamento": ["f i r m a m e n t o"],
-  "firmando": ["f i r m a n d o"],
-  "firmante": ["f i r m a n t e"],
-  "firmare": ["f i r m a r e"],
-  "firmatario": ["f i r m a t a r j o"]
+  "fiato": [
+    "fjato"
+  ],
+  "fiatola": [
+    "fjatola"
+  ],
+  "fiavo": [
+    "fjavo"
+  ],
+  "fibbia": [
+    "fibːia",
+    "fibːja"
+  ],
+  "fibbiaia": [
+    "fibːjaja"
+  ],
+  "fibbiaio": [
+    "fibːjajo"
+  ],
+  "fibonacci": [
+    "fibonatːʃi"
+  ],
+  "fibra": [
+    "fibra"
+  ],
+  "fibrato": [
+    "fibrato"
+  ],
+  "fibre": [
+    "fibre"
+  ],
+  "fibrillare": [
+    "fibrilːare"
+  ],
+  "fibrillazione": [
+    "fibrilːatːsjone"
+  ],
+  "fibroblastico": [
+    "fibroblastiko"
+  ],
+  "fibroblasto": [
+    "fibroblasto"
+  ],
+  "fibrocartilagine": [
+    "fibrokartiladʒine"
+  ],
+  "fibrocartilaginea": [
+    "fibrokartiladʒinea"
+  ],
+  "fibrocartilaginee": [
+    "fibrokartiladʒinee"
+  ],
+  "fibrocartilaginei": [
+    "fibrokartiladʒinei"
+  ],
+  "fibrocartilagineo": [
+    "fibrokartiladʒineo"
+  ],
+  "fibrocartilagini": [
+    "fibrokartiladʒini"
+  ],
+  "fibrocemento": [
+    "fibrotʃemento"
+  ],
+  "fibroelastico": [
+    "fibroelastiko"
+  ],
+  "fibroma": [
+    "fibrɔma"
+  ],
+  "fibromi": [
+    "fibrɔmi"
+  ],
+  "fibromioma": [
+    "fibromjɔm"
+  ],
+  "fibromiomi": [
+    "fibromjɔmi"
+  ],
+  "fibroplastico": [
+    "fibroplastiko"
+  ],
+  "fibrosante": [
+    "fibrozante"
+  ],
+  "fibrosanti": [
+    "fibrozanti"
+  ],
+  "fibrosarcoma": [
+    "fibrosarkɔma"
+  ],
+  "fibrosarcomi": [
+    "fibrosarkɔmi"
+  ],
+  "fibroscopi": [
+    "fibroskɔpi"
+  ],
+  "fibroscopia": [
+    "fibroskɔpja"
+  ],
+  "fibroscopie": [
+    "fibroskɔpja"
+  ],
+  "fibroscopio": [
+    "fibroskɔpjo"
+  ],
+  "fibroso": [
+    "fibroso"
+  ],
+  "fibula": [
+    "fibula"
+  ],
+  "fica": [
+    "fika"
+  ],
+  "ficaia": [
+    "fikaja"
+  ],
+  "ficaio": [
+    "fikajo"
+  ],
+  "ficcanasi": [
+    "fikːanazi"
+  ],
+  "ficcanaso": [
+    "fikːanazo"
+  ],
+  "ficcare": [
+    "fikːare"
+  ],
+  "fichetto": [
+    "fiketːo"
+  ],
+  "fichi": [
+    "fiki"
+  ],
+  "fichino": [
+    "fikino"
+  ],
+  "fichtiano": [
+    "fiktjano"
+  ],
+  "fico": [
+    "fiko",
+    "fikɔ"
+  ],
+  "ficologo": [
+    "fikɔloɡo"
+  ],
+  "ficone": [
+    "fikone"
+  ],
+  "ficus": [
+    "fikus"
+  ],
+  "fida": [
+    "fida"
+  ],
+  "fidante": [
+    "fidante"
+  ],
+  "fidanza": [
+    "fidantsa"
+  ],
+  "fidanzamenti": [
+    "fidantsamenti"
+  ],
+  "fidanzamento": [
+    "fidantsamento"
+  ],
+  "fidanzante": [
+    "fidantsante"
+  ],
+  "fidanzare": [
+    "fidantsare"
+  ],
+  "fidanzarsi": [
+    "fidantsarsi"
+  ],
+  "fidanzata": [
+    "fidantsata"
+  ],
+  "fidanzate": [
+    "fidantsate"
+  ],
+  "fidanzati": [
+    "fidantsati"
+  ],
+  "fidanzato": [
+    "fidantsato"
+  ],
+  "fidanze": [
+    "fidantse"
+  ],
+  "fidare": [
+    "fidare"
+  ],
+  "fidarsi": [
+    "fidarsi"
+  ],
+  "fidatamente": [
+    "fidatamente"
+  ],
+  "fidato": [
+    "fidato"
+  ],
+  "fideismo": [
+    "fideizmo"
+  ],
+  "fideista": [
+    "fideista"
+  ],
+  "fideisticamente": [
+    "fideistikamente"
+  ],
+  "fideistico": [
+    "fideistiko"
+  ],
+  "fideiussione": [
+    "fidejusːjone"
+  ],
+  "fideiussore": [
+    "fidejusːore"
+  ],
+  "fideiussorio": [
+    "fidejusːɔrjo"
+  ],
+  "fidele": [
+    "fidele"
+  ],
+  "fidelità": [
+    "fidelita"
+  ],
+  "fidelizzante": [
+    "fidelidːzante"
+  ],
+  "fidelizzare": [
+    "fidelidːzare"
+  ],
+  "fidelizzato": [
+    "fidelidːzato"
+  ],
+  "fidelizzazione": [
+    "fidelidːzatːsjone"
+  ],
+  "fidente": [
+    "fidɛnte"
+  ],
+  "fidenza": [
+    "fidɛntsa"
+  ],
+  "fidicina": [
+    "fiditʃina"
+  ],
+  "fidicine": [
+    "fiditʃine"
+  ],
+  "fido": [
+    "fido"
+  ],
+  "fiducia": [
+    "fidutʃa"
+  ],
+  "fiduciante": [
+    "fidutʃante"
+  ],
+  "fiduciaria": [
+    "fidutʃarja"
+  ],
+  "fiduciario": [
+    "fidutʃarjo"
+  ],
+  "fiducie": [
+    "fidutʃa"
+  ],
+  "fiduciosamente": [
+    "fidutʃozamente"
+  ],
+  "fiducioso": [
+    "fidutʃozo"
+  ],
+  "fieda": [
+    "fjɛda"
+  ],
+  "fiedano": [
+    "fjɛdano"
+  ],
+  "fiedi": [
+    "fjɛdi"
+  ],
+  "fiedo": [
+    "fjɛdo"
+  ],
+  "fiedono": [
+    "fjɛdono"
+  ],
+  "fiele": [
+    "fjele",
+    "fjɛle"
+  ],
+  "fienagione": [
+    "fjenadʒone"
+  ],
+  "fieni": [
+    "fjɛni"
+  ],
+  "fieno": [
+    "fieno",
+    "fiɛno",
+    "fjɛno",
+    "fjɛnɔ"
+  ],
+  "fiera": [
+    "fjera"
+  ],
+  "fieramente": [
+    "fjeramente"
+  ],
+  "fiere": [
+    "fjɛre"
+  ],
+  "fieristico": [
+    "fjeristiko"
+  ],
+  "fiero": [
+    "fjɛro"
+  ],
+  "fiesole": [
+    "fjɛzole"
+  ],
+  "fievole": [
+    "fjɛvole"
+  ],
+  "fifa": [
+    "fifa"
+  ],
+  "figa": [
+    "fiɡa"
+  ],
+  "figata": [
+    "fiɡata"
+  ],
+  "figgere": [
+    "fidːʒere"
+  ],
+  "fighe": [
+    "fiɡe"
+  ],
+  "fighi": [
+    "fiɡi"
+  ],
+  "figi": [
+    "fidʒi",
+    "fidːʒi"
+  ],
+  "figiana": [
+    "fidʒana"
+  ],
+  "figiane": [
+    "fidʒane"
+  ],
+  "figiani": [
+    "fidʒani"
+  ],
+  "figiano": [
+    "fidʒano"
+  ],
+  "figli": [
+    "fiʎi"
+  ],
+  "figlia": [
+    "filja",
+    "fiʎa"
+  ],
+  "figliastra": [
+    "fiʎjastra"
+  ],
+  "figliastre": [
+    "fiʎjastre"
+  ],
+  "figliastri": [
+    "fiʎjastri"
+  ],
+  "figliastro": [
+    "fiʎastro"
+  ],
+  "figlie": [
+    "fiʎje"
+  ],
+  "figlio": [
+    "fiʎi",
+    "fiʎo"
+  ],
+  "figliola": [
+    "fiʎjɔla",
+    "fiʎɔla"
+  ],
+  "figliolanza": [
+    "fiʎolantsa"
+  ],
+  "figliole": [
+    "fiʎɔle"
+  ],
+  "figlioli": [
+    "fiʎɔli"
+  ],
+  "figliolo": [
+    "fiʎɔlo"
+  ],
+  "figliuola": [
+    "fiʎjwɔla"
+  ],
+  "figliuolo": [
+    "fiʎuɔlo",
+    "fiʎwɔlo"
+  ],
+  "figo": [
+    "fiɡo"
+  ],
+  "figulinaio": [
+    "fiɡulinajo"
+  ],
+  "figura": [
+    "fiɡura"
+  ],
+  "figurale": [
+    "fiɡurale"
+  ],
+  "figurando": [
+    "fiɡurando"
+  ],
+  "figurante": [
+    "fiɡurante"
+  ],
+  "figurare": [
+    "fiɡurare"
+  ],
+  "figurarsi": [
+    "fiɡurarsi"
+  ],
+  "figurata": [
+    "fiɡurata"
+  ],
+  "figuratamente": [
+    "fiɡuratamente"
+  ],
+  "figurate": [
+    "fiɡurate"
+  ],
+  "figurati": [
+    "fiɡurati"
+  ],
+  "figurativa": [
+    "fiɡurativa"
+  ],
+  "figurativamente": [
+    "fiɡurativamente"
+  ],
+  "figurative": [
+    "fiɡurative"
+  ],
+  "figurativi": [
+    "fiɡurativi"
+  ],
+  "figurativismo": [
+    "fiɡurativizmo"
+  ],
+  "figurativo": [
+    "fiɡurativo"
+  ],
+  "figurato": [
+    "fiɡurato"
+  ],
+  "figurazione": [
+    "fiɡuratsjone"
+  ],
+  "figurazioni": [
+    "fiɡuratsjoni"
+  ],
+  "figure": [
+    "fiɡure"
+  ],
+  "figurinista": [
+    "fiɡurinista"
+  ],
+  "figuro": [
+    "fiɡuro",
+    "prefiɡuro"
+  ],
+  "figurone": [
+    "fiɡurone"
+  ],
+  "fijana": [
+    "fidʒana"
+  ],
+  "fijane": [
+    "fidʒane"
+  ],
+  "fijani": [
+    "fidʒani"
+  ],
+  "fijano": [
+    "fidʒano"
+  ],
+  "fiji": [
+    "fidʒi"
+  ],
+  "fila": [
+    "fila"
+  ],
+  "filacce": [
+    "filatːʃe"
+  ],
+  "filaccia": [
+    "filatːʃa"
+  ],
+  "filaccio": [
+    "filatːʃo"
+  ],
+  "filaccioso": [
+    "filatːʃozo"
+  ],
+  "filamenti": [
+    "filamenti"
+  ],
+  "filamento": [
+    "filamento"
+  ],
+  "filanca": [
+    "filanka"
+  ],
+  "filanda": [
+    "filanda"
+  ],
+  "filandaia": [
+    "filandaja"
+  ],
+  "filante": [
+    "filante"
+  ],
+  "filantrocapitalismi": [
+    "filantrɔkapitalizmi"
+  ],
+  "filantrocapitalismo": [
+    "filantrɔkapitalizmo"
+  ],
+  "filantropa": [
+    "filantropa"
+  ],
+  "filantrope": [
+    "filantrope"
+  ],
+  "filantropi": [
+    "filantropi"
+  ],
+  "filantropia": [
+    "filantropia"
+  ],
+  "filantropico": [
+    "filantrɔpiko",
+    "pilantropik"
+  ],
+  "filantropie": [
+    "filantropie"
+  ],
+  "filantropismo": [
+    "filantropizmo"
+  ],
+  "filantropo": [
+    "filantropo"
+  ],
+  "filare": [
+    "filare"
+  ],
+  "filari": [
+    "filari"
+  ],
+  "filastrocca": [
+    "filastrɔkːa"
+  ],
+  "filatelia": [
+    "filatelia"
+  ],
+  "filatelico": [
+    "filatɛliko"
+  ],
+  "filatelista": [
+    "filatelista"
+  ],
+  "filateliste": [
+    "filateliste"
+  ],
+  "filatelisti": [
+    "filatelisti"
+  ],
+  "filato": [
+    "filato"
+  ],
+  "filatteri": [
+    "filatːɛri"
+  ],
+  "filatterio": [
+    "filatːɛrjo"
+  ],
+  "filatura": [
+    "filatura"
+  ],
+  "filature": [
+    "filature"
+  ],
+  "file": [
+    "fail",
+    "file"
+  ],
+  "filellenico": [
+    "filelːɛniko"
+  ],
+  "filellenismo": [
+    "filelːenizmo"
+  ],
+  "filelleno": [
+    "filelːɛno"
+  ],
+  "filemone": [
+    "filemone"
+  ],
+  "filettatrice": [
+    "filetːatritʃe"
+  ],
+  "filettatura": [
+    "filetːatura"
+  ],
+  "filettature": [
+    "filetːature"
+  ],
+  "filetto": [
+    "filetːo"
+  ],
+  "fili": [
+    "fili"
+  ],
+  "filiale": [
+    "filjale"
+  ],
+  "filiali": [
+    "filjali"
+  ],
+  "filiazione": [
+    "filjatsjone"
+  ],
+  "filiberto": [
+    "filibɛrto"
+  ],
+  "filibustiere": [
+    "filibustjɛre"
+  ],
+  "filice": [
+    "filitʃe"
+  ],
+  "filiforme": [
+    "filiforme"
+  ],
+  "filiformi": [
+    "filiformi"
+  ],
+  "filippica": [
+    "filipːika"
+  ],
+  "filippina": [
+    "filipːina"
+  ],
+  "filippine": [
+    "filipːine"
+  ],
+  "filippini": [
+    "filipːini"
+  ],
+  "filippino": [
+    "filipːino"
+  ],
+  "filisteo": [
+    "filistɛo"
+  ],
+  "fillo": [
+    "filːo"
+  ],
+  "filloderma": [
+    "filːodɛrma"
+  ],
+  "fillofaga": [
+    "filːɔfaɡa"
+  ],
+  "fillofaghe": [
+    "filːɔfaɡe"
+  ],
+  "fillofagi": [
+    "filːɔfadʒi"
+  ],
+  "fillofago": [
+    "filːɔfaɡo"
+  ],
+  "filloscopo": [
+    "filːɔskopo"
+  ],
+  "fillostomide": [
+    "filːostɔmide"
+  ],
+  "fillostomidi": [
+    "filːostɔmidi"
+  ],
+  "film": [
+    "film"
+  ],
+  "filmabile": [
+    "filmabile"
+  ],
+  "filmabili": [
+    "filmabili"
+  ],
+  "filmando": [
+    "filmando"
+  ],
+  "filmante": [
+    "filmante"
+  ],
+  "filmare": [
+    "filmare"
+  ],
+  "filmata": [
+    "filmata"
+  ],
+  "filmate": [
+    "filmate"
+  ],
+  "filmati": [
+    "filmati"
+  ],
+  "filmato": [
+    "filmato"
+  ],
+  "filmico": [
+    "filmiko"
+  ],
+  "filmina": [
+    "filmina"
+  ],
+  "filmino": [
+    "filmino"
+  ],
+  "filmogena": [
+    "filmodʒɛna"
+  ],
+  "filmogene": [
+    "filmodʒɛne"
+  ],
+  "filmogeni": [
+    "filmodʒɛni"
+  ],
+  "filmogeno": [
+    "filmodʒɛno"
+  ],
+  "filmografia": [
+    "filmoɡrafia"
+  ],
+  "filmografico": [
+    "filmoɡrafiko"
+  ],
+  "filmoteca": [
+    "filmotɛka"
+  ],
+  "filmoteche": [
+    "filmotɛke"
+  ],
+  "filo": [
+    "filo"
+  ],
+  "filoamericano": [
+    "filoamerikano"
+  ],
+  "filobus": [
+    "filobus"
+  ],
+  "filocarro": [
+    "filokarːo"
+  ],
+  "filodiffusione": [
+    "filodifːuzjone"
+  ],
+  "filoellenismo": [
+    "filoelːenizmo"
+  ],
+  "filogenesi": [
+    "filodʒɛnezi"
+  ],
+  "filogenetico": [
+    "filodʒenɛtiko"
+  ],
+  "filogovernativo": [
+    "filoɡovernativo"
+  ],
+  "filologia": [
+    "filolodʒia"
+  ],
+  "filologica": [
+    "filolɔdʒika"
+  ],
+  "filologicamente": [
+    "filolodʒikamente",
+    "filolɔdʒikamente"
+  ],
+  "filologico": [
+    "filolɔdʒiko"
+  ],
+  "filologie": [
+    "filolodʒie"
+  ],
+  "filologo": [
+    "filɔloɡo"
+  ],
+  "filometore": [
+    "filomɛtore"
+  ],
+  "filometori": [
+    "filomɛtori"
+  ],
+  "filone": [
+    "filone"
+  ],
+  "filoneismo": [
+    "filoneizmo"
+  ],
+  "filoni": [
+    "filoni"
+  ],
+  "filopatore": [
+    "filopatore"
+  ],
+  "filopatori": [
+    "filopatori"
+  ],
+  "filosofa": [
+    "filɔzofa"
+  ],
+  "filosofale": [
+    "filozofale"
+  ],
+  "filosofando": [
+    "filozofando"
+  ],
+  "filosofante": [
+    "filozofante"
+  ],
+  "filosofare": [
+    "filozofare"
+  ],
+  "filosofastro": [
+    "filozofastro"
+  ],
+  "filosofato": [
+    "filozofato"
+  ],
+  "filosofe": [
+    "filɔzofe"
+  ],
+  "filosofeggiante": [
+    "filozofedːʒante"
+  ],
+  "filosofeggiare": [
+    "filozofedːʒare"
+  ],
+  "filosofeggiato": [
+    "filozofedːʒato"
+  ],
+  "filosoferia": [
+    "filozoferia"
+  ],
+  "filosofesco": [
+    "filozofesko"
+  ],
+  "filosofessa": [
+    "filozofesːa"
+  ],
+  "filosofi": [
+    "filɔzofi"
+  ],
+  "filosofia": [
+    "filozofia",
+    "filozofja"
+  ],
+  "filosoficamente": [
+    "filozofikamente"
+  ],
+  "filosofico": [
+    "filozɔfiko"
+  ],
+  "filosofie": [
+    "filozofie"
+  ],
+  "filosofo": [
+    "filɔzofo"
+  ],
+  "filossera": [
+    "filɔsːera"
+  ],
+  "filotto": [
+    "filɔtːo"
+  ],
+  "filoveicolo": [
+    "filoveikolo"
+  ],
+  "filtrabile": [
+    "filtrabile"
+  ],
+  "filtrabili": [
+    "filtrabilei"
+  ],
+  "filtraggi": [
+    "filtradːʒi"
+  ],
+  "filtraggio": [
+    "filtradːʒo"
+  ],
+  "filtrando": [
+    "filtrando"
+  ],
+  "filtrante": [
+    "filtrante"
+  ],
+  "filtranti": [
+    "filtranti"
+  ],
+  "filtrare": [
+    "filtrare"
+  ],
+  "filtrato": [
+    "filtrato"
+  ],
+  "filtrazione": [
+    "filtratːsjone"
+  ],
+  "filtri": [
+    "filtri"
+  ],
+  "filtro": [
+    "filtro"
+  ],
+  "filtropressa": [
+    "filtropresːa"
+  ],
+  "filza": [
+    "filtsa"
+  ],
+  "fimo": [
+    "fimo"
+  ],
+  "fimosi": [
+    "fimɔzi"
+  ],
+  "finale": [
+    "finale"
+  ],
+  "finalismo": [
+    "finalizmo"
+  ],
+  "finalista": [
+    "finalista"
+  ],
+  "finaliste": [
+    "finaliste"
+  ],
+  "finalisti": [
+    "finalisti"
+  ],
+  "finalità": [
+    "finalita"
+  ],
+  "finalizzare": [
+    "finalitːsare"
+  ],
+  "finalizzato": [
+    "finalidːzato",
+    "finalitːsato"
+  ],
+  "finalmente": [
+    "finalmente",
+    "finalmɛnte"
+  ],
+  "finamente": [
+    "finamente"
+  ],
+  "finanche": [
+    "finanke"
+  ],
+  "finanza": [
+    "finantsa"
+  ],
+  "finanze": [
+    "finantse"
+  ],
+  "finanziabile": [
+    "finantsjabile"
+  ],
+  "finanziabili": [
+    "finantsjabili"
+  ],
+  "finanziabilità": [
+    "finantsjabilita"
+  ],
+  "finanziamenti": [
+    "finantsjamenti"
+  ],
+  "finanziamento": [
+    "finantsjamento"
+  ],
+  "finanziante": [
+    "finantsjante"
+  ],
+  "finanziare": [
+    "finantsjare"
+  ],
+  "finanziari": [
+    "finantsjari"
+  ],
+  "finanziaria": [
+    "finantsjarja"
+  ],
+  "finanziariamente": [
+    "finantsjarjamente"
+  ],
+  "finanziarie": [
+    "finantsjarje"
+  ],
+  "finanziario": [
+    "finantsjarjo"
+  ],
+  "finanziarizzare": [
+    "finantsjaridːʒare"
+  ],
+  "finanziarizzazione": [
+    "finantsjaridːʒatsjone"
+  ],
+  "finanziarizzazioni": [
+    "finantsjaridːʒatsjoni"
+  ],
+  "finanziato": [
+    "finantsjato"
+  ],
+  "finanziatore": [
+    "finantsjatore"
+  ],
+  "finanziatori": [
+    "finantsjatori"
+  ],
+  "finanziatrice": [
+    "finantsjatritʃe"
+  ],
+  "finanziatrici": [
+    "finantsjatritʃi"
+  ],
+  "finanziera": [
+    "finantsjɛra"
+  ],
+  "finanziere": [
+    "finantsjɛre"
+  ],
+  "finanzieri": [
+    "finantsjɛri"
+  ],
+  "finché": [
+    "fiɲke"
+  ],
+  "fine": [
+    "fine"
+  ],
+  "finemente": [
+    "finemente"
+  ],
+  "finendo": [
+    "finendo"
+  ],
+  "finente": [
+    "finente"
+  ],
+  "finenti": [
+    "finenti"
+  ],
+  "finestra": [
+    "finɛstra"
+  ],
+  "finestre": [
+    "finɛstre"
+  ],
+  "finestrella": [
+    "finestrɛlːa"
+  ],
+  "finestrina": [
+    "finestrina"
+  ],
+  "finezza": [
+    "finetːsa"
+  ],
+  "fingente": [
+    "fiɲdʒente"
+  ],
+  "fingere": [
+    "findʒere",
+    "fiɲdʒere"
+  ],
+  "fingersi": [
+    "findʒersi"
+  ],
+  "fini": [
+    "fini"
+  ],
+  "finì": [
+    "fini"
+  ],
+  "finiamo": [
+    "finjamo"
+  ],
+  "finiate": [
+    "finjate"
+  ],
+  "finii": [
+    "finii"
+  ],
+  "finimento": [
+    "finimento"
+  ],
+  "finimmo": [
+    "finimːo"
+  ],
+  "finimondo": [
+    "finimondo"
+  ],
+  "finirà": [
+    "finira"
+  ],
+  "finirai": [
+    "finirai"
+  ],
+  "finiranno": [
+    "finiranːo"
+  ],
+  "finire": [
+    "finire"
+  ],
+  "finirebbe": [
+    "finirebːe"
+  ],
+  "finirebbero": [
+    "finirebːero"
+  ],
+  "finirei": [
+    "finirei"
+  ],
+  "finiremmo": [
+    "finiremːo"
+  ],
+  "finiremo": [
+    "finiremo"
+  ],
+  "finireste": [
+    "finireste"
+  ],
+  "finiresti": [
+    "finiresti"
+  ],
+  "finirete": [
+    "finirete"
+  ],
+  "finirò": [
+    "finiro"
+  ],
+  "finirono": [
+    "finirono"
+  ],
+  "finisca": [
+    "finiska"
+  ],
+  "finiscano": [
+    "finiskano"
+  ],
+  "finisce": [
+    "finisʃe",
+    "finiʃe"
+  ],
+  "finisci": [
+    "finisʃi",
+    "finiʃʃi"
+  ],
+  "finisco": [
+    "finisko"
+  ],
+  "finiscono": [
+    "finiskono"
+  ],
+  "finissaggi": [
+    "finisːadːʒi"
+  ],
+  "finissaggio": [
+    "finisːadːʒo"
+  ],
+  "finisse": [
+    "finisːe"
+  ],
+  "finissero": [
+    "finisːero"
+  ],
+  "finissi": [
+    "finisːi"
+  ],
+  "finissimo": [
+    "finisːimo"
+  ],
+  "finiste": [
+    "finiste"
+  ],
+  "finisti": [
+    "finisti"
+  ],
+  "finita": [
+    "finita"
+  ],
+  "finite": [
+    "finite"
+  ],
+  "finiti": [
+    "finiti"
+  ],
+  "finitimo": [
+    "finitimo"
+  ],
+  "finito": [
+    "finito"
+  ],
+  "finitudine": [
+    "finitudine"
+  ],
+  "finitura": [
+    "finitura"
+  ],
+  "finiture": [
+    "finiture"
+  ],
+  "finiva": [
+    "finiva"
+  ],
+  "finivamo": [
+    "finivamo"
+  ],
+  "finivano": [
+    "finivano"
+  ],
+  "finivate": [
+    "finivate"
+  ],
+  "finivi": [
+    "finivi"
+  ],
+  "finivo": [
+    "finivo"
+  ],
+  "finlandese": [
+    "finlandese",
+    "finlandeze"
+  ],
+  "finlandia": [
+    "finlandja"
+  ],
+  "finna": [
+    "finːa"
+  ],
+  "finne": [
+    "finːe"
+  ],
+  "finni": [
+    "finːi"
+  ],
+  "finnica": [
+    "finːika"
+  ],
+  "finniche": [
+    "finːike"
+  ],
+  "finnici": [
+    "finːitʃi"
+  ],
+  "finnico": [
+    "finːiko"
+  ],
+  "finno": [
+    "finːo"
+  ],
+  "fino": [
+    "fino"
+  ],
+  "finocchi": [
+    "finɔkːi"
+  ],
+  "finocchio": [
+    "finokːjo",
+    "finɔkːjo"
+  ],
+  "finocchiona": [
+    "finokːjona"
+  ],
+  "finora": [
+    "finora"
+  ],
+  "finta": [
+    "finta"
+  ],
+  "fintamente": [
+    "fintamente"
+  ],
+  "fintantoché": [
+    "fintantoke"
+  ],
+  "finto": [
+    "finto"
+  ],
+  "finzione": [
+    "fintsjone"
+  ],
+  "finzioni": [
+    "fintsjoni"
+  ],
+  "fio": [
+    "fio"
+  ],
+  "fioca": [
+    "fjɔka"
+  ],
+  "fiocchetto": [
+    "fjokːetːo"
+  ],
+  "fiocchi": [
+    "fjɔkːi"
+  ],
+  "fiocco": [
+    "fjɔkːo"
+  ],
+  "fiochi": [
+    "fjɔki"
+  ],
+  "fiocina": [
+    "fjɔtʃina"
+  ],
+  "fioco": [
+    "fjɔko"
+  ],
+  "fionchetto": [
+    "fjonketːo"
+  ],
+  "fionco": [
+    "fjonko"
+  ],
+  "fionda": [
+    "fjonda"
+  ],
+  "fiondarsi": [
+    "fiondarsi"
+  ],
+  "fiorai": [
+    "fjorai"
+  ],
+  "fioraia": [
+    "fjoraja"
+  ],
+  "fioraie": [
+    "fjoraje"
+  ],
+  "fioraio": [
+    "fjorajo"
+  ],
+  "fiordaliso": [
+    "fjordalizo"
+  ],
+  "fiordo": [
+    "fjɔrdo"
+  ],
+  "fiore": [
+    "fjore"
+  ],
+  "fiorellino": [
+    "fjorelːino"
+  ],
+  "fiorente": [
+    "fjorente",
+    "fjorɛnte"
+  ],
+  "fiorenti": [
+    "fjorenti"
+  ],
+  "fiorentina": [
+    "fjorentina"
+  ],
+  "fiorentine": [
+    "fjorentine"
+  ],
+  "fiorentini": [
+    "fjorentini"
+  ],
+  "fiorentino": [
+    "fjorentino"
+  ],
+  "fiorenza": [
+    "fjorɛntsa"
+  ],
+  "fiorenzo": [
+    "fjorɛntso"
+  ],
+  "fioretta": [
+    "fjoretːa"
+  ],
+  "fiorettare": [
+    "fjoretːare"
+  ],
+  "fiorettatura": [
+    "fjorɛtːatura"
+  ],
+  "fiorettature": [
+    "fjorɛtːature"
+  ],
+  "fioretti": [
+    "fjoretːi"
+  ],
+  "fiorettista": [
+    "fjoretːista"
+  ],
+  "fiorettiste": [
+    "fjoretːiste"
+  ],
+  "fiorettisti": [
+    "fjoretːisti"
+  ],
+  "fioretto": [
+    "fjoretːo"
+  ],
+  "fiori": [
+    "fjori"
+  ],
+  "fiorile": [
+    "fjorile"
+  ],
+  "fiorino": [
+    "fjorino"
+  ],
+  "fiorire": [
+    "fjorire"
+  ],
+  "fiorista": [
+    "fjorista"
+  ],
+  "fioriste": [
+    "fjoriste"
+  ],
+  "fioristi": [
+    "fjoristi"
+  ],
+  "fiorita": [
+    "fjorita",
+    "fjoriti"
+  ],
+  "fiorite": [
+    "fjorite"
+  ],
+  "fioriti": [
+    "fjoriti"
+  ],
+  "fiorito": [
+    "fjorito"
+  ],
+  "fioritura": [
+    "fjoritura"
+  ],
+  "fioriture": [
+    "fjoriture"
+  ],
+  "fioronata": [
+    "fjoronata"
+  ],
+  "fioronate": [
+    "fjoronate"
+  ],
+  "fioronati": [
+    "fjoronati"
+  ],
+  "fioronato": [
+    "fjoronato"
+  ],
+  "fiorone": [
+    "fjorone"
+  ],
+  "fiotto": [
+    "fjɔtːo"
+  ],
+  "fire": [
+    "fire"
+  ],
+  "firenze": [
+    "firɛntse"
+  ],
+  "firma": [
+    "firma"
+  ],
+  "firmamenti": [
+    "firmamento"
+  ],
+  "firmamento": [
+    "firmamento"
+  ],
+  "firmando": [
+    "firmando"
+  ],
+  "firmante": [
+    "firmante"
+  ],
+  "firmare": [
+    "firmare"
+  ],
+  "firmatario": [
+    "firmatarjo"
+  ]
 }

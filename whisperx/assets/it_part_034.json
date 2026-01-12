@@ -1,502 +1,1562 @@
 {
-  "auricoloterapia": ["a u r i k o l o t e r a p i a"],
-  "auricoloterapie": ["a u r i k o l o t e r a p i e"],
-  "aurifera": ["a u r i f e r a"],
-  "aurifere": ["a u r i f e r e"],
-  "auriferi": ["a u r i f e r i"],
-  "aurifero": ["a u r i f e r o"],
-  "auriga": ["a w r i ɡ a"],
-  "aurignaciano": ["a w r i ɲ ɲ a t ʃ a n o"],
-  "aurignaziano": ["a w r i ɲ ɲ a tː s j a n o"],
-  "aurora": ["a u r o r a", "a u r ɔ r a", "a w r ɔ r a"],
-  "ausculta": ["a u s k u l t a"],
-  "auscultai": ["a u s k u l t a i"],
-  "auscultammo": ["a u s k u l t a mː o"],
-  "auscultando": ["a u s k u l t a n d o"],
-  "auscultano": ["a u s k u l t a n o"],
-  "auscultante": ["a u s k u l t a n t e"],
-  "auscultare": ["a u s k u l t a r e"],
-  "auscultarono": ["a u s k u l t a r o n o"],
-  "auscultasse": ["a u s k u l t a sː e"],
-  "auscultassero": ["a u s k u l t a sː e r o"],
-  "auscultassi": ["a u s k u l t a sː i"],
-  "auscultassimo": ["a u s k u l t a sː i m o"],
-  "auscultaste": ["a u s k u l t a s t e"],
-  "auscultasti": ["a u s k u l t a s t i"],
-  "auscultate": ["a u s k u l t a t e"],
-  "auscultato": ["a u s k u l t a t o"],
-  "auscultava": ["a u s k u l t a v a"],
-  "auscultavamo": ["a u s k u l t a v a m o"],
-  "auscultavano": ["a u s k u l t a v a n o"],
-  "auscultavate": ["a u s k u l t a v a t e"],
-  "auscultavi": ["a u s k u l t a v i"],
-  "auscultavo": ["a u s k u l t a v o"],
-  "auscultazione": ["a u s k u l t a t s j o n e", "a w s k u l t a tː s j o n e"],
-  "auscultazioni": ["a u s k u l t a t s j o n i"],
-  "ausculterà": ["a u s k u l t e r a"],
-  "ausculterai": ["a u s k u l t e r a i"],
-  "ausculteranno": ["a u s k u l t e r a nː o"],
-  "ausculterebbe": ["a u s k u l t e r e bː e"],
-  "ausculterebbero": ["a u s k u l t e r e bː e r o"],
-  "ausculterei": ["a u s k u l t e r e i"],
-  "ausculteremmo": ["a u s k u l t e r e mː o"],
-  "ausculteremo": ["a u s k u l t e r e m o"],
-  "auscultereste": ["a u s k u l t e r e s t e"],
-  "ausculteresti": ["a u s k u l t e r e s t i"],
-  "ausculterete": ["a u s k u l t e r e t e"],
-  "ausculterò": ["a u s k u l t e r o"],
-  "ausculti": ["a u s k u l t i"],
-  "auscultiamo": ["a u s k u l t j a m o"],
-  "auscultiate": ["a u s k u l t j a t e"],
-  "auscultino": ["a u s k u l t i n o"],
-  "ausculto": ["a u s k u l t o"],
-  "auscultò": ["a u s k u l t o"],
-  "ausiliare": ["a w z i l j a r e"],
-  "ausiliari": ["a w z i l j a r i"],
-  "ausiliaria": ["a w z i l j a r j a"],
-  "ausiliarie": ["a w z i l j a r j e"],
-  "ausiliario": ["a w z i l j a r j o"],
-  "ausilio": ["a w z i l j o"],
-  "auso": ["a u z o"],
-  "auspicabile": ["a u s p i k a b i l e"],
-  "auspicare": ["a w s p i k a r e"],
-  "auspicato": ["a w s p i k a t o"],
-  "auspice": ["a w s p i t ʃ e"],
-  "auspicio": ["a w s p i t ʃ o"],
-  "austera": ["a u s t ɛ r a"],
-  "austeramente": ["a w s t e r a m e n t e"],
-  "austere": ["a u s t ɛ r e"],
-  "austeri": ["a u s t ɛ r i"],
-  "austerità": ["a u s t e r i t a"],
-  "austero": ["a u s t ɛ r o", "a w s t ɛ r o"],
-  "australe": ["a w s t r a l e"],
-  "australia": ["a u s t r a l j a", "a w s t r a l j a"],
-  "australiana": ["a w s t r a l j a n a"],
-  "australiane": ["a w s t r a l j a n e"],
-  "australiani": ["a w s t r a l j a n i"],
-  "australiano": ["a u s t r a l i a n o", "a w s t r a l j a n o"],
-  "australoide": ["a w s t r a l ɔ j d e"],
-  "australopitechi": ["a u s t r a l o p i t e k i", "a u s t r a l o p i t ɛ k i"],
-  "australopitecini": ["a w s t r a l o p i t e t ʃ i n i"],
-  "australopitecino": ["a w s t r a l o p i t e t ʃ i n o"],
-  "australopiteco": ["a u s t r a l o p i t e k o", "a w s t r a l o p i t ɛ k o"],
-  "austria": ["a u s t r i a", "a u s t r j a", "a w s t r j a"],
-  "austriaca": ["a u s t r i a k a"],
-  "austriache": ["a u s t r i a k e"],
-  "austriaci": ["a u s t r i a t ʃ i"],
-  "austriaco": ["a u s t r i a k o", "a w s t r i a k o"],
-  "austro": ["a w s t r o"],
-  "austroungarico": ["a w s t r o u n ɡ a r i k o"],
-  "autarchia": ["a u t a r k i a", "a w t a r k i a"],
-  "autarchico": ["a w t a r k i k o"],
-  "autentica": ["a u t ɛ n t i k a"],
-  "autenticamente": ["a u t ɛ n t i k a m e n t e", "a w t e n t i k a m e n t e"],
-  "autenticare": ["a w t e n t i f i k a r e"],
-  "autenticato": ["a w t e n t i k a t o"],
-  "autenticazione": ["a w t e n t i k a tː s j o n e"],
-  "autentiche": ["a u t ɛ n t i k e"],
-  "autentici": ["a u t ɛ n t i t ʃ i"],
-  "autenticità": ["a w t e n t i t ʃ i t a"],
-  "autentico": ["a u t ɛ n t i k o"],
-  "autentificare": ["a w t e n t i f i k a r e"],
-  "autismi": ["a u t i z m i"],
-  "autismo": ["a u t i z m o", "a w t i z m o"],
-  "autista": ["a u t i s t a"],
-  "autiste": ["a u t i s t e"],
-  "autisti": ["a u t i s t i"],
-  "autistica": ["a u t i s t i k a"],
-  "autistiche": ["a u t i s t i k e"],
-  "autistici": ["a u t i s t i t ʃ i"],
-  "autistico": ["a u t i s t i k o", "a w t i s t i k o"],
-  "auto": ["a u t o", "a w t o"],
-  "autoabbronzante": ["a w t o a bː r o n d z a n t e"],
-  "autoabbronzanti": ["a w t o a bː r o n d z a n t i"],
-  "autoabbronzatura": ["a w t o a bː r o n d z a t u r a"],
-  "autoaccelerazione": ["a w t o a tː ʃ e l e r a tː s j o n e"],
-  "autoaccensione": ["a w t o a tː ʃ e n s j o n e"],
-  "autoaccessori": ["a u t o a tː ʃ e sː ɔ r i"],
-  "autoaccessorio": ["a u t o a tː ʃ e sː ɔ r j o", "a w t o a tː ʃ e sː ɔ r j o"],
-  "autoaccusa": ["a w t o a kː u z a"],
-  "autoaccusarsi": ["a w t o a kː u z a r s i"],
-  "autoaccusatorio": ["a w t o a kː u z a t ɔ r j o"],
-  "autoadattante": ["a w t o a d a tː a n t e"],
-  "autoadempiersi": ["a w t o a d e m p j e r s i"],
-  "autoadescante": ["a w t o a d e s k a n t e"],
-  "autoadesivo": ["a w t o a d e z i v o"],
-  "autoaffermazione": ["a w t o a fː e r m a tː s j o n e"],
-  "autoaffondamento": ["a w t o a fː o n d a m e n t o"],
-  "autoaffondarsi": ["a w t o a fː o n d a r s i"],
-  "autoaggiornamento": ["a w t o a dː ʒ o r n a m e n t o"],
-  "autoaggiunto": ["a w t o a dː ʒ u n t o"],
-  "autoaggressivo": ["a w t o a ɡː r e sː i v o"],
-  "autoaiuto": ["a w t o a j u t o"],
-  "autoalienazione": ["a w t o a l j e n a tː s j o n e"],
-  "autoalimentarsi": ["a w t o a l i m e n t a r s i"],
-  "autoallacciante": ["a w t o a lː a tː ʃ a n t e"],
-  "autoallaccianti": ["a w t o a lː a tː ʃ a n t i"],
-  "autoallergia": ["a w t o a lː e r d ʒ i a"],
-  "autoambulanza": ["a w t o a m b u l a n t s a"],
-  "autoanalisi": ["a w t o a n a l i z i"],
-  "autoanticorpo": ["a w t o a n t i k ɔ r p o"],
-  "autoantigene": ["a w t o a n t i d ʒ e n e"],
-  "autoapprendimenti": ["a w t o a pː r e n d i m e n t i"],
-  "autoapprendimento": ["a w t o a pː r e n d i m e n t o"],
-  "autoapprovvigionamento": ["a w t o a pː r o vː i d ʒ o n a m e n t o"],
-  "autoarticolato": ["a w t o a r t i k o l a t o"],
-  "autoassemblaggio": ["a w t o a sː e m b l a dː ʒ o"],
-  "autoassicurazione": ["a u t o a sː i k u r a t s j o n e"],
-  "autoassicurazioni": ["a u t o a sː i k u r a t s j o n i"],
-  "autoassoluzione": ["a w t o a sː o l u tː s j o n e"],
-  "autoassolversi": ["a w t o a sː ɔ l v e r s i"],
-  "autoavverarsi": ["a w t o a vː e r a r s i"],
-  "autobetoniera": ["a w t o b e t o n j ɛ r a"],
-  "autobiblioteca": ["a w t o b i b l j o t ɛ k a"],
-  "autobilanciato": ["a w t o b i l a n t ʃ a t o"],
-  "autobiografia": ["a u t o b i o ɡ r a f i a", "a u t o b j o ɡ r a f i a", "a w t o b j o ɡ r a f i a"],
-  "autobiografica": ["a w t o b j o ɡ r a f i k a"],
-  "autobiograficamente": ["a u t o b j o ɡ r a f i k a m e n t e"],
-  "autobiografiche": ["a w t o b j o ɡ r a f i k e"],
-  "autobiografici": ["a w t o b j o ɡ r a f i t ʃ i"],
-  "autobiografico": ["a u t o b j o ɡ r a f i k o", "a w t o b j o ɡ r a f i k o"],
-  "autobiografie": ["b i o ɡ r a f i a"],
-  "autobiografismo": ["a w t o b i o ɡ r a f i z m o"],
-  "autobiografo": ["a w t o b i ɔ ɡ r a f o"],
-  "autoblinda": ["a w t o b l i n d a"],
-  "autoblindato": ["a w t o b l i n d a t o"],
-  "autoblindomitragliatrice": ["a w t o b l i n d o m i t r a ʎ a t r i t ʃ e"],
-  "autobloccante": ["a w t o b l o kː a n t e"],
-  "autobloccanti": ["a w t o b l o kː a n t i"],
-  "autobomba": ["a w t o b o m b a"],
-  "autobotte": ["a w t o b o tː e"],
-  "autobruco": ["a w t o b r u k o"],
-  "autobus": ["a u t o b u s"],
-  "autocalmiere": ["a w t o k a l m j ɛ r e"],
-  "autocalunnia": ["a w t o k a l u nː j a"],
-  "autocamionale": ["a w t o k a m j o n a l e"],
-  "autocampeggio": ["a w t o k a m p e dː ʒ o"],
-  "autocampionatore": ["a w t o k a m p j o n a t o r e"],
-  "autocancellazione": ["a w t o k a n t ʃ e lː a tː s j o n e"],
-  "autocandidarsi": ["a w t o k a n d i d a r s i"],
-  "autocannone": ["a u t o k a nː o n e"],
-  "autocannoni": ["a u t o k a nː o n i"],
-  "autocaravan": ["a w t o k a r a v a n"],
-  "autocaricamento": ["a w t o k a r i k a m e n t o"],
-  "autocaricatura": ["a w t o k a r i k a t u r a"],
-  "autocarri": ["a u t ɔ k a rː i"],
-  "autocarro": ["a u t o k a rː o", "a u t ɔ k a rː o", "a w t o k a rː o"],
-  "autocasa": ["a w t o k a s a", "a w t o k a z a"],
-  "autocatalisi": ["a w t o k a t a l i z i"],
-  "autocateterismo": ["a w t o k a t e t e r i z m o"],
-  "autocefalia": ["a w t o t ʃ e f a l i a"],
-  "autocefalo": ["a w t o t ʃ ɛ f a l o"],
-  "autocelebrativo": ["a w t o t ʃ e l e b r a t i v o"],
-  "autocensura": ["a w t o t ʃ e n s u r a"],
-  "autocensurarsi": ["a w t o t ʃ e n s u r a r s i"],
-  "autocentrante": ["a w t o t ʃ e n t r a n t e"],
-  "autocentro": ["a w t o t ʃ ɛ n t r o"],
-  "autocercante": ["a w t o t ʃ e r k a n t e"],
-  "autocertificare": ["a w t o t ʃ e r t i f i k a r e"],
-  "autocertificativo": ["a w t o t ʃ e r t i f i k a t i v o"],
-  "autocertificato": ["a w t o t ʃ e r t i f i k a t o"],
-  "autocertificazione": ["a w t o t ʃ e r t i f i k a tː s j o n e"],
-  "autocestello": ["a w t o t ʃ e s t ɛ lː o"],
-  "autochiusura": ["a w t o k j u s u r a", "a w t o k j u z u r a"],
-  "autocinema": ["a w t o t ʃ i n e m a"],
-  "autocingolato": ["a w t o t ʃ i n ɡ o l a t o"],
-  "autocisterna": ["a w t o t ʃ i s t ɛ r n a"],
-  "autocitarsi": ["a w t o t ʃ i t a r s i"],
-  "autocitazione": ["a w t o t ʃ i t a tː s j o n e"],
-  "autocivetta": ["a w t o t ʃ i v e tː a"],
-  "autoclasi": ["a w t o k l a z i"],
-  "autoclastico": ["a w t o k l a s t i k o"],
-  "autoclave": ["a u t o k l a v e"],
-  "autoclavi": ["a u t o k l a v i"],
-  "autocolonna": ["a w t o k o l o nː a"],
-  "autocomando": ["a w t o k o m a n d o"],
-  "autocombustione": ["a w t o k o m b u s t j o n e"],
-  "autocommento": ["a w t o k o mː e n t o"],
-  "autocommiserarsi": ["a w t o k o mː i z e r a r s i"],
-  "autocommiserazione": ["a w t o k o mː i z e r a tː s j o n e"],
-  "autocommutatore": ["a w t o k o mː u t a t o r e"],
-  "autocompattatore": ["a w t o k o m p a tː a t o r e"],
-  "autocompiacimento": ["a w t o k o m p j a t ʃ i m e n t o"],
-  "autocompiaciuto": ["a w t o k o m p j a t ʃ u t o"],
-  "autocompletamenti": ["a w t o k o m p l e t a m e n t i"],
-  "autocompletamento": ["a w t o k o m p l e t a m e n t o"],
-  "autoconcessionaria": ["a w t o k o n t ʃ e sː j o n a r j a"],
-  "autoconcessionario": ["a w t o k o n t ʃ e sː j o n a r j o"],
-  "autocondanna": ["a w t o k o n d a nː a"],
-  "autoconoscenza": ["a w t o k o n o ʃ ʃ ɛ n t s a"],
-  "autoconsapevolezza": ["a w t o k o n s a p e v o l e tː s a"],
-  "autoconservazione": ["a u t o k o n s e r v a t s j o n e", "a w t o k o n s e r v a tː s j o n e"],
-  "autoconservazioni": ["a u t o k o n s e r v a t s j o n i"],
-  "autoconsistente": ["a w t o k o n s i s t ɛ n t e"],
-  "autoconsistenza": ["a w t o k o n s i s t ɛ n t s a"],
-  "autoconsumo": ["a w t o k o n s u m o"],
-  "autocontemplativo": ["a w t o k o n t e m p l a t i v o"],
-  "autocontemplazione": ["a w t o k o n t e m p l a tː s j o n e"],
-  "autocontrarre": ["a w t o k o n t r a rː e"],
-  "autocontrarsi": ["a w t o k o n t r a r s i"],
-  "autocontratto": ["a u t o k o n t r ɔ lː o", "a w t o k o n t r a tː o"],
-  "autocontrollo": ["a u t o k o n t r ɔ lː o", "a w t o k o n t r ɔ lː o"],
-  "autoconvincersi": ["a w t o k o n v i n t ʃ e r s i"],
-  "autoconvincimento": ["a w t o k o n v i n t ʃ i m e n t o"],
-  "autoconvinzione": ["a w t o k o n v i n t s j o n e"],
-  "autoconvoglio": ["a w t o k o n v ɔ ʎ o"],
-  "autocopiante": ["a w t o k o p j a n t e"],
-  "autocoria": ["a w t o k o r i a"],
-  "autocoro": ["a w t o k ɔ r o"],
-  "autocorrela": ["a u t o k o rː ɛ l a"],
-  "autocorrelare": ["a w t o k o rː e l a r e"],
-  "autocorrelazione": ["a w t o k o rː e l a tː s j o n e"],
-  "autocorrezione": ["a w t o k o rː e tː s j o n e"],
-  "autocorriera": ["a w t o k o rː j ɛ r a"],
-  "autocosciente": ["a w t o k o ʃ ʃ e n t e", "a w t o k o ʃ ʃ ɛ n t e"],
-  "autocoscienti": ["a w t o k o ʃ ʃ e n t i"],
-  "autocoscienza": ["a w t o k o ʃ ʃ ɛ n t s a"],
-  "autocostruzione": ["a u t o k ɔ s t r u t ʃ j ɔ n e", "a w t o k o s t r u tː s j o n e"],
-  "autocostruzioni": ["a u t o k ɔ s t r u t ʃ j ɔ n i"],
-  "autocrate": ["a w t o k r a t e", "a w t ɔ k r a t e"],
-  "autocrati": ["a w t o k r a t i"],
-  "autocratica": ["a u t o k r a t i k a"],
-  "autocraticamente": ["a u t o k r a t i k a m e n t e"],
-  "autocratiche": ["a u t o k r a t i k e"],
-  "autocratici": ["a u t o k r a t i t ʃ i"],
-  "autocratico": ["a u t o k r a t i k o", "a w t o k r a t i k o"],
-  "autocrazia": ["a u t o k r a tː s i a", "a w t o k r a tː s i a"],
-  "autocrazie": ["a u t o k r a tː s i e"],
-  "autocritica": ["a w t o k r i t i k a"],
-  "autocritico": ["a w t o k r i t i k o"],
-  "autocromia": ["a w t ɔ k r o m i a"],
-  "autocromie": ["a w t ɔ k r o m i a"],
-  "autocross": ["a w t o k r ɔ s"],
-  "autoctona": ["a u t ɔ k t o n a"],
-  "autoctone": ["a u t ɔ k t o n e"],
-  "autoctoni": ["a u t ɔ k t o n i"],
-  "autoctonia": ["a w t o k t o n i a"],
-  "autoctono": ["a u t ɔ k t o n o"],
-  "autocura": ["a w t o k u r a"],
-  "autodafé": ["a w t o d a f e"],
-  "autodecisione": ["a w t o d e t ʃ i z j o n e"],
-  "autodefinizione": ["a w t o d e f i n i tː s j o n e"],
-  "autodemolitore": ["a w t o d e m o l i t o r e"],
-  "autodemolizione": ["a w t o d e m o l i tː s j o n e"],
-  "autodenuncia": ["a w t o d e n u n t ʃ a"],
-  "autodenunciarsi": ["a w t o d e n u n t ʃ a r s i"],
-  "autodeterminato": ["a w t o d e t e r m i n a t o"],
-  "autodeterminazione": ["a w t o d e t e r m i n a tː s j o n e"],
-  "autodiagnosi": ["a w t o d i a ɲ ɲ o z i", "a w t o d j a ɲ ɲ o z i"],
-  "autodiagnostica": ["a w t o d i a ɲ ɲ ɔ s t i k a", "a w t o d j a ɲ ɲ ɔ s t i k a"],
-  "autodichia": ["a w t o d i k i a"],
-  "autodichiarare": ["a w t o d i k j a r a r e"],
-  "autodichiararsi": ["a w t o d i k j a r a r s i"],
-  "autodichiarato": ["a w t o d i k j a r a t o"],
-  "autodichiarazione": ["a w t o d i k j a r a tː s j o n e"],
-  "autodidatta": ["a u t o d i d a tː a", "a w t o d i d a tː a"],
-  "autodidattico": ["a w t o d i d a tː i k o"],
-  "autodidattismo": ["a w t o d i d a tː i z m o"],
-  "autodifesa": ["a w t o d i f e z a"],
-  "autodigestione": ["a w t o d i d ʒ e s t j o n e"],
-  "autodina": ["a w t o d i n a"],
-  "autodirezionale": ["a w t o d i r e tː s j o n a l e"],
-  "autodisciplina": ["a w t o d i ʃ ʃ i p l i n a"],
-  "autodistribuito": ["a w t o d i s t r i b u i t o", "a w t o d i s t r i b w i t o"],
-  "autodistruggersi": ["a w t o d i s t r u dː ʒ e r s i"],
-  "autodistruzione": ["a w t o d i s t r u tː s j o n e"],
-  "autodonazione": ["a w t o d o n a tː s j o n e"],
-  "autodromi": ["a u t ɔ d r o m i"],
-  "autodromo": ["a u t ɔ d r o m o", "a w t ɔ d r o m o"],
-  "autoeccitante": ["a w t o e tː ʃ i t a n t e"],
-  "autoeccitarsi": ["a w t o e tː ʃ i t a r s i"],
-  "autoeccitazione": ["a w t o e tː ʃ i t a tː s j o n e"],
-  "autoecologia": ["a w t o e k o l o d ʒ i a"],
-  "autoeditore": ["a w t o e d i t o r e"],
-  "autoeditoria": ["a w t o e d i t o r i a"],
-  "autoeducazione": ["a w t o e d u k a tː s j o n e"],
-  "autoefficacia": ["a w t o e fː i k a t ʃ a"],
-  "autoemarginazione": ["a w t o e m a r d ʒ i n a tː s j o n e"],
-  "autoemoteca": ["a w t o e m o t ɛ k a"],
-  "autoemoteche": ["a u t o e m o t ɛ k e"],
-  "autoemoterapia": ["a w t o e m o t e r a p i a"],
-  "autoemotrasfusione": ["a w t o e m o t r a s f u z j o n e"],
-  "autoerotico": ["a w t o e r ɔ t i k o"],
-  "autoerotismo": ["a w t o e r o t i z m o"],
-  "autoesaltazione": ["a w t o e z a l t a tː s j o n e"],
-  "autoesame": ["a w t o e z a m e"],
-  "autoescludersi": ["a w t o e s k l u d e r s i"],
-  "autoestinguente": ["a w t o e s t i n ɡ w ɛ n t e"],
-  "autoeterodina": ["a w t o e t e r o d i n a"],
-  "autofaga": ["a u t ɔ f a ɡ a"],
-  "autofaghe": ["a u t ɔ f a ɡ e"],
-  "autofagi": ["a u t ɔ f a d ʒ i"],
-  "autofagia": ["a w t o f a d ʒ i a"],
-  "autofago": ["a u t ɔ f a ɡ o", "a w t ɔ f a ɡ o"],
-  "autofagocitosi": ["a w t o f a ɡ o t ʃ i t ɔ z i"],
-  "autofagosoma": ["a w t o f a ɡ o s ɔ m a"],
-  "autofattura": ["a w t o f a tː u r a"],
-  "autofecondante": ["a w t o f e k o n d a n t e"],
-  "autofecondanti": ["a w t o f e k o n d a n t i"],
-  "autofecondazione": ["a w t o f e k o n d a tː s j o n e"],
-  "autoferrotranviario": ["a w t o f ɛ rː o t r a n v i a r j o", "a w t o f ɛ rː o t r a n v j a r j o"],
-  "autoferrotranviere": ["a w t o f ɛ rː o t r a n v j ɛ r e"],
-  "autofertile": ["a w t o f ɛ r t i l e"],
-  "autofertilizzante": ["a w t o f e r t i l i dː z a n t e"],
-  "autofertilizzazione": ["a u t o f e r t i l i dː z a t s j o n e"],
-  "autofertilizzazioni": ["a u t o f e r t i l i dː z a t s j o n i"],
-  "autofficina": ["a w t o fː i t ʃ i n a"],
-  "autofilettante": ["a w t o f i l e tː a n t e"],
-  "autofilotranviario": ["a w t o f i l o t r a n v i a r j o", "a w t o f i l o t r a n v j a r j o"],
-  "autofinanziamenti": ["a u t o f i n a n t s j a m e n t i"],
-  "autofinanziamento": ["a u t o f i n a n t s j a m e n t o", "a w t o f i n a n t s j a m e n t o"],
-  "autofinanziare": ["a u t o f i n a n t s j a r e"],
-  "autofinanziarsi": ["a u t o f i n a n t s j a r s i", "a w t o f i n a n t s j a r s i"],
-  "autoflagellazione": ["a w t o f l a d ʒ e lː a tː s j o n e"],
-  "autofocus": ["a w t o f ɔ k u s"],
-  "autoformazione": ["a w t o f o r m a t s j o n e", "a w t o f o r m a tː s j o n e"],
-  "autoformazioni": ["a w t o f o r m a t s j o n i"],
-  "autofrenante": ["a w t o f r e n a n t e"],
-  "autofunebre": ["a w t o f u n e b r e"],
-  "autofunzione": ["a u t o f u n t s j o n e"],
-  "autofurgone": ["a w t o f u r ɡ o n e"],
-  "autogamia": ["a w t o ɡ a m i a"],
-  "autogenesi": ["a w t o d ʒ ɛ n e z i"],
-  "autogeno": ["a u t ɔ d ʒ e n o"],
-  "autogestione": ["a u t o d ʒ e s t j o n e", "a w t o d ʒ e s t j o n e"],
-  "autogestioni": ["a u t o d ʒ e s t j o n i"],
-  "autogestire": ["a w t o d ʒ e s t i r e"],
-  "autogiro": ["a w t o d ʒ i r o"],
-  "autogoal": ["a u t o ɡ ɔ l", "a w t o ɡ ɔ l"],
-  "autogol": ["a w t o ɡ ɔ l"],
-  "autogonfiabile": ["a w t o ɡ o n f j a b i l e"],
-  "autogonfiabili": ["a w t o ɡ o n f j a b i l i"],
-  "autogonfiante": ["a w t o ɡ o n f j a n t e"],
-  "autogonfianti": ["a w t o ɡ o n f j a n t i"],
-  "autogovernarsi": ["a w t o ɡ o v e r n a r s i"],
-  "autogovernato": ["a w t o ɡ o v e r n a t o"],
-  "autogoverno": ["a w t o ɡ o v ɛ r n o"],
-  "autografa": ["a w t ɔ ɡ r a f a"],
-  "autografare": ["a w t o ɡ r a f a r e"],
-  "autografe": ["a w t ɔ ɡ r a f e"],
-  "autografi": ["a w t ɔ ɡ r a f i"],
-  "autografo": ["a w t ɔ ɡ r a f o"],
-  "autogrill": ["a u t o ɡ r i lː"],
-  "autogrù": ["a w t o ɡ r u"],
-  "autogruista": ["a u t o ɡ r u i s t a"],
-  "autogruiste": ["a u t o ɡ r u i s t e"],
-  "autogruisti": ["a u t o ɡ r u i s t i"],
-  "autoguida": ["a w t o ɡ w i d a"],
-  "autoimmune": ["a w t o j mː u n e"],
-  "autoimmunizzazione": ["a u t o i mː u n i dː z a tː s j o n e"],
-  "autoimmunizzazioni": ["a u t o i mː u n i dː z a tː s j o n i"],
-  "autoimpollinazione": ["a u t o i m p o lː i n a t s j o n e"],
-  "autoimpollinazioni": ["a u t o i m p o lː i n a t s j o n i"],
-  "autoincompatibile": ["a w t o i n k o m p a t i b i l e"],
-  "autoincompatibili": ["a w t o i n k o m p a t i b i l i"],
-  "autoindotto": ["a w t o j n d o tː o"],
-  "autoinoculabile": ["a w t o i n o k u l a b i l e"],
-  "autoinoculabili": ["a w t o i n o k u l a b i l i"],
-  "autointrospezione": ["a w t o i n t r o s p e tː s j o n e"],
-  "autoironia": ["a w t o i r o n i a"],
-  "autoirradiante": ["a w t o i rː a d j a n t e"],
-  "autoistoradiografia": ["a w t o i s t o r a d j o ɡ r a f i a"],
-  "autolavaggi": ["a w t o l a v a dː ʒ i"],
-  "autolavaggio": ["a w t o l a v a dː ʒ o"],
-  "autolesionismo": ["a w t o l e z j o n i z m o"],
-  "autolesionista": ["a w t o l e z j o n i s t a"],
-  "autolesioniste": ["a w t o l e z j o n i s t e"],
-  "autolesionisti": ["a w t o l e z j o n i s t i"],
-  "autolivellante": ["a w t o l i v e lː a n t e"],
-  "autolivellanti": ["a w t o l i v e lː a n t i"],
-  "autologica": ["a w t o l ɔ d ʒ i k a"],
-  "autologiche": ["a w t o l ɔ d ʒ i k e"],
-  "autologici": ["a w t o l ɔ d ʒ i t ʃ i"],
-  "autologico": ["a w t o l ɔ d ʒ i k o"],
-  "autolubrificante": ["a w t o l u b r i f i k a n t e"],
-  "autolubrificanti": ["a w t o l u b r i f i k a n t i"],
-  "automa": ["a w t ɔ m a"],
-  "automatica": ["a u t o m a t i k a", "a w t o m a t i k a"],
-  "automaticamente": ["a w t o m a t i k a m e n t e"],
-  "automatiche": ["a u t o m a t i k e", "a w t o m a t i k e"],
-  "automatici": ["a u t o m a t i t ʃ i", "a w t o m a t i t ʃ i"],
-  "automaticizzare": ["a w t o m a t i t ʃ i dː z a r e"],
-  "automatico": ["a u t o m a t i k o", "a w t o m a t i k o"],
-  "automatismo": ["a w t o m a t i z m o"],
-  "automatizzabile": ["a w t o m a t i dː z a b i l e"],
-  "automatizzabili": ["a w t o m a t i dː z a b i l i"],
-  "automatizzare": ["a w t o m a t i dː z a r e"],
-  "automatizzazione": ["a w t o m a t i dː z a tː s j o n e"],
-  "automato": ["a w t o m a t o"],
-  "automazione": ["a u t o m a t s j o n e"],
-  "automedicazione": ["a w t o m e d i k a tː s j o n e"],
-  "automedonte": ["a w t o m e d o n t e"],
-  "automezzo": ["a u t o m ɛ d z o", "a w t o m ɛ dː z o"],
-  "automi": ["a w t ɔ m i"],
-  "automobile": ["a u t o m ɔ b i l e", "a w t o m ɔ b i l e"],
-  "automobilismi": ["a u t o m o b i l i z m i"],
-  "automobilismo": ["a u t o m o b i l i z m o"],
-  "automobilista": ["a u t o m o b i l i s t a", "a w t o m o b i l i s t a"],
-  "automobiliste": ["a u t o m o b i l i s t e"],
-  "automobilisti": ["a u t o m o b i l i s t i"],
-  "automobilistica": ["a u t o m o b i l i s t i k a"],
-  "automobilistiche": ["a u t o m o b i l i s t i k e"],
-  "automobilistici": ["a u t o m o b i l i s t i t ʃ i"],
-  "automobilistico": ["a u t o m o b i l i s t i k o"],
-  "automorfismo": ["a w t o m o r f i z m o"],
-  "automunita": ["a u t o m u n i t a"],
-  "automunite": ["a u t o m u n i t e"],
-  "automuniti": ["a u t o m u n i t i"],
-  "automunito": ["a u t o m u n i t o"],
-  "autonica": ["a w t ɔ n i k a"],
-  "autonoleggio": ["a w t o n o l e dː ʒ o"],
-  "autonolo": ["a w t o n ɔ l o"],
-  "autonoma": ["a u t ɔ n o m a"],
-  "autonomamente": ["a w t o n o m a m e n t e"],
-  "autonome": ["a u t ɔ n o m e"],
-  "autonomi": ["a u t ɔ n o m i"],
-  "autonomia": ["a u t o n o m i a"],
-  "autonomie": ["a u t o n o m i e"],
-  "autonomismi": ["a u t o n o m i z m i"],
-  "autonomismo": ["a u t o n o m i z m o", "a w t o n o m i z m o"],
-  "autonomista": ["a u t o n o m i s t a"],
-  "autonomiste": ["a u t o n o m i s t e"],
-  "autonomisti": ["a u t o n o m i s t i"],
-  "autonomistica": ["a u t o n o m i z t i k a"],
-  "autonomistiche": ["a u t o n o m i z t i k e"],
-  "autonomistici": ["a u t o n o m i z t i t ʃ i"],
-  "autonomistico": ["a u t o n o m i z t i k o", "a w t o n o m i s t i k o"],
-  "autonomo": ["a u t o n o m", "a u t ɔ n o m o", "a w t ɔ n o m o"],
-  "autoparcheggi": ["a u t o p a r k e dː ʒ i"],
-  "autoparcheggio": ["a u t o p a r k e dː ʒ o"],
-  "autoparchi": ["a u t o p a r k i"],
-  "autoparco": ["a u t o p a r k o", "a w t o p a r k o"],
-  "autopiano": ["a w t o p j a n o"],
-  "autopilota": ["a w t o p i l ɔ t a"],
-  "autopista": ["a w t o p i s t a"],
-  "autoplastica": ["a w t o p l a s t i k a"],
-  "autoplastico": ["a w t o p l a s t i k o"],
-  "autopoiesi": ["a w t o p o j ɛ z i"],
-  "autopompa": ["a u t o p o m p a"],
-  "autoportante": ["a w t o p o r t a n t e"],
-  "autoportanti": ["a w t o p o r t a n t i"],
-  "autoporto": ["a w t o p ɔ r t o"],
-  "autopropulsione": ["a w t o p r o p u l s j o n e"],
-  "autopsia": ["a u t o p s i a", "a w t o p s i a"],
-  "autopsie": ["a w t o p s i e"],
-  "autoptico": ["a w t ɔ p t i k o"],
-  "autopubblica": ["a w t o p u bː l i k a"],
-  "autopulente": ["a w t o p u l e n t e"],
-  "autopulenti": ["a w t o p u l e n t i"],
-  "autopunizione": ["a w t o p u n i tː s j o n e"],
-  "autoradio": ["a w t o r a d j o"],
-  "autoraduno": ["a w t o r a d u n o"],
-  "autore": ["a u t o r e", "a w t o r e"],
-  "autoreattore": ["a w t o r e a tː o r e"],
-  "autoreggente": ["a w t o r e dː ʒ e n t e", "a w t o r e dː ʒ ɛ n t e"],
-  "autoreggenti": ["a w t o r e dː ʒ e n t i"],
-  "autoregolazione": ["a u t o r e ɡ o l a t s j o n e"],
-  "autoregolazioni": ["a u t o r e ɡ o l a t s j o n i"],
-  "autoreparto": ["a w t o r e p a r t o"],
-  "autoreplicazione": ["a u t o r e p l i k a t s j o n e"],
-  "autorespiratore": ["a w t o r e s p i r a t o r e"],
-  "autorete": ["a w t o r e t e"]
+  "auricoloterapia": [
+    "aurikoloterapia"
+  ],
+  "auricoloterapie": [
+    "aurikoloterapie"
+  ],
+  "aurifera": [
+    "aurifera"
+  ],
+  "aurifere": [
+    "aurifere"
+  ],
+  "auriferi": [
+    "auriferi"
+  ],
+  "aurifero": [
+    "aurifero"
+  ],
+  "auriga": [
+    "awriɡa"
+  ],
+  "aurignaciano": [
+    "awriɲɲatʃano"
+  ],
+  "aurignaziano": [
+    "awriɲɲatːsjano"
+  ],
+  "aurora": [
+    "aurora",
+    "aurɔra",
+    "awrɔra"
+  ],
+  "ausculta": [
+    "auskulta"
+  ],
+  "auscultai": [
+    "auskultai"
+  ],
+  "auscultammo": [
+    "auskultamːo"
+  ],
+  "auscultando": [
+    "auskultando"
+  ],
+  "auscultano": [
+    "auskultano"
+  ],
+  "auscultante": [
+    "auskultante"
+  ],
+  "auscultare": [
+    "auskultare"
+  ],
+  "auscultarono": [
+    "auskultarono"
+  ],
+  "auscultasse": [
+    "auskultasːe"
+  ],
+  "auscultassero": [
+    "auskultasːero"
+  ],
+  "auscultassi": [
+    "auskultasːi"
+  ],
+  "auscultassimo": [
+    "auskultasːimo"
+  ],
+  "auscultaste": [
+    "auskultaste"
+  ],
+  "auscultasti": [
+    "auskultasti"
+  ],
+  "auscultate": [
+    "auskultate"
+  ],
+  "auscultato": [
+    "auskultato"
+  ],
+  "auscultava": [
+    "auskultava"
+  ],
+  "auscultavamo": [
+    "auskultavamo"
+  ],
+  "auscultavano": [
+    "auskultavano"
+  ],
+  "auscultavate": [
+    "auskultavate"
+  ],
+  "auscultavi": [
+    "auskultavi"
+  ],
+  "auscultavo": [
+    "auskultavo"
+  ],
+  "auscultazione": [
+    "auskultatsjone",
+    "awskultatːsjone"
+  ],
+  "auscultazioni": [
+    "auskultatsjoni"
+  ],
+  "ausculterà": [
+    "auskultera"
+  ],
+  "ausculterai": [
+    "auskulterai"
+  ],
+  "ausculteranno": [
+    "auskulteranːo"
+  ],
+  "ausculterebbe": [
+    "auskulterebːe"
+  ],
+  "ausculterebbero": [
+    "auskulterebːero"
+  ],
+  "ausculterei": [
+    "auskulterei"
+  ],
+  "ausculteremmo": [
+    "auskulteremːo"
+  ],
+  "ausculteremo": [
+    "auskulteremo"
+  ],
+  "auscultereste": [
+    "auskultereste"
+  ],
+  "ausculteresti": [
+    "auskulteresti"
+  ],
+  "ausculterete": [
+    "auskulterete"
+  ],
+  "ausculterò": [
+    "auskultero"
+  ],
+  "ausculti": [
+    "auskulti"
+  ],
+  "auscultiamo": [
+    "auskultjamo"
+  ],
+  "auscultiate": [
+    "auskultjate"
+  ],
+  "auscultino": [
+    "auskultino"
+  ],
+  "ausculto": [
+    "auskulto"
+  ],
+  "auscultò": [
+    "auskulto"
+  ],
+  "ausiliare": [
+    "awziljare"
+  ],
+  "ausiliari": [
+    "awziljari"
+  ],
+  "ausiliaria": [
+    "awziljarja"
+  ],
+  "ausiliarie": [
+    "awziljarje"
+  ],
+  "ausiliario": [
+    "awziljarjo"
+  ],
+  "ausilio": [
+    "awziljo"
+  ],
+  "auso": [
+    "auzo"
+  ],
+  "auspicabile": [
+    "auspikabile"
+  ],
+  "auspicare": [
+    "awspikare"
+  ],
+  "auspicato": [
+    "awspikato"
+  ],
+  "auspice": [
+    "awspitʃe"
+  ],
+  "auspicio": [
+    "awspitʃo"
+  ],
+  "austera": [
+    "austɛra"
+  ],
+  "austeramente": [
+    "awsteramente"
+  ],
+  "austere": [
+    "austɛre"
+  ],
+  "austeri": [
+    "austɛri"
+  ],
+  "austerità": [
+    "austerita"
+  ],
+  "austero": [
+    "austɛro",
+    "awstɛro"
+  ],
+  "australe": [
+    "awstrale"
+  ],
+  "australia": [
+    "australja",
+    "awstralja"
+  ],
+  "australiana": [
+    "awstraljana"
+  ],
+  "australiane": [
+    "awstraljane"
+  ],
+  "australiani": [
+    "awstraljani"
+  ],
+  "australiano": [
+    "australiano",
+    "awstraljano"
+  ],
+  "australoide": [
+    "awstralɔjde"
+  ],
+  "australopitechi": [
+    "australopiteki",
+    "australopitɛki"
+  ],
+  "australopitecini": [
+    "awstralopitetʃini"
+  ],
+  "australopitecino": [
+    "awstralopitetʃino"
+  ],
+  "australopiteco": [
+    "australopiteko",
+    "awstralopitɛko"
+  ],
+  "austria": [
+    "austria",
+    "austrja",
+    "awstrja"
+  ],
+  "austriaca": [
+    "austriaka"
+  ],
+  "austriache": [
+    "austriake"
+  ],
+  "austriaci": [
+    "austriatʃi"
+  ],
+  "austriaco": [
+    "austriako",
+    "awstriako"
+  ],
+  "austro": [
+    "awstro"
+  ],
+  "austroungarico": [
+    "awstrounɡariko"
+  ],
+  "autarchia": [
+    "autarkia",
+    "awtarkia"
+  ],
+  "autarchico": [
+    "awtarkiko"
+  ],
+  "autentica": [
+    "autɛntika"
+  ],
+  "autenticamente": [
+    "autɛntikamente",
+    "awtentikamente"
+  ],
+  "autenticare": [
+    "awtentifikare"
+  ],
+  "autenticato": [
+    "awtentikato"
+  ],
+  "autenticazione": [
+    "awtentikatːsjone"
+  ],
+  "autentiche": [
+    "autɛntike"
+  ],
+  "autentici": [
+    "autɛntitʃi"
+  ],
+  "autenticità": [
+    "awtentitʃita"
+  ],
+  "autentico": [
+    "autɛntiko"
+  ],
+  "autentificare": [
+    "awtentifikare"
+  ],
+  "autismi": [
+    "autizmi"
+  ],
+  "autismo": [
+    "autizmo",
+    "awtizmo"
+  ],
+  "autista": [
+    "autista"
+  ],
+  "autiste": [
+    "autiste"
+  ],
+  "autisti": [
+    "autisti"
+  ],
+  "autistica": [
+    "autistika"
+  ],
+  "autistiche": [
+    "autistike"
+  ],
+  "autistici": [
+    "autistitʃi"
+  ],
+  "autistico": [
+    "autistiko",
+    "awtistiko"
+  ],
+  "auto": [
+    "auto",
+    "awto"
+  ],
+  "autoabbronzante": [
+    "awtoabːrondzante"
+  ],
+  "autoabbronzanti": [
+    "awtoabːrondzanti"
+  ],
+  "autoabbronzatura": [
+    "awtoabːrondzatura"
+  ],
+  "autoaccelerazione": [
+    "awtoatːʃeleratːsjone"
+  ],
+  "autoaccensione": [
+    "awtoatːʃensjone"
+  ],
+  "autoaccessori": [
+    "autoatːʃesːɔri"
+  ],
+  "autoaccessorio": [
+    "autoatːʃesːɔrjo",
+    "awtoatːʃesːɔrjo"
+  ],
+  "autoaccusa": [
+    "awtoakːuza"
+  ],
+  "autoaccusarsi": [
+    "awtoakːuzarsi"
+  ],
+  "autoaccusatorio": [
+    "awtoakːuzatɔrjo"
+  ],
+  "autoadattante": [
+    "awtoadatːante"
+  ],
+  "autoadempiersi": [
+    "awtoadempjersi"
+  ],
+  "autoadescante": [
+    "awtoadeskante"
+  ],
+  "autoadesivo": [
+    "awtoadezivo"
+  ],
+  "autoaffermazione": [
+    "awtoafːermatːsjone"
+  ],
+  "autoaffondamento": [
+    "awtoafːondamento"
+  ],
+  "autoaffondarsi": [
+    "awtoafːondarsi"
+  ],
+  "autoaggiornamento": [
+    "awtoadːʒornamento"
+  ],
+  "autoaggiunto": [
+    "awtoadːʒunto"
+  ],
+  "autoaggressivo": [
+    "awtoaɡːresːivo"
+  ],
+  "autoaiuto": [
+    "awtoajuto"
+  ],
+  "autoalienazione": [
+    "awtoaljenatːsjone"
+  ],
+  "autoalimentarsi": [
+    "awtoalimentarsi"
+  ],
+  "autoallacciante": [
+    "awtoalːatːʃante"
+  ],
+  "autoallaccianti": [
+    "awtoalːatːʃanti"
+  ],
+  "autoallergia": [
+    "awtoalːerdʒia"
+  ],
+  "autoambulanza": [
+    "awtoambulantsa"
+  ],
+  "autoanalisi": [
+    "awtoanalizi"
+  ],
+  "autoanticorpo": [
+    "awtoantikɔrpo"
+  ],
+  "autoantigene": [
+    "awtoantidʒene"
+  ],
+  "autoapprendimenti": [
+    "awtoapːrendimenti"
+  ],
+  "autoapprendimento": [
+    "awtoapːrendimento"
+  ],
+  "autoapprovvigionamento": [
+    "awtoapːrovːidʒonamento"
+  ],
+  "autoarticolato": [
+    "awtoartikolato"
+  ],
+  "autoassemblaggio": [
+    "awtoasːembladːʒo"
+  ],
+  "autoassicurazione": [
+    "autoasːikuratsjone"
+  ],
+  "autoassicurazioni": [
+    "autoasːikuratsjoni"
+  ],
+  "autoassoluzione": [
+    "awtoasːolutːsjone"
+  ],
+  "autoassolversi": [
+    "awtoasːɔlversi"
+  ],
+  "autoavverarsi": [
+    "awtoavːerarsi"
+  ],
+  "autobetoniera": [
+    "awtobetonjɛra"
+  ],
+  "autobiblioteca": [
+    "awtobibljotɛka"
+  ],
+  "autobilanciato": [
+    "awtobilantʃato"
+  ],
+  "autobiografia": [
+    "autobioɡrafia",
+    "autobjoɡrafia",
+    "awtobjoɡrafia"
+  ],
+  "autobiografica": [
+    "awtobjoɡrafika"
+  ],
+  "autobiograficamente": [
+    "autobjoɡrafikamente"
+  ],
+  "autobiografiche": [
+    "awtobjoɡrafike"
+  ],
+  "autobiografici": [
+    "awtobjoɡrafitʃi"
+  ],
+  "autobiografico": [
+    "autobjoɡrafiko",
+    "awtobjoɡrafiko"
+  ],
+  "autobiografie": [
+    "bioɡrafia"
+  ],
+  "autobiografismo": [
+    "awtobioɡrafizmo"
+  ],
+  "autobiografo": [
+    "awtobiɔɡrafo"
+  ],
+  "autoblinda": [
+    "awtoblinda"
+  ],
+  "autoblindato": [
+    "awtoblindato"
+  ],
+  "autoblindomitragliatrice": [
+    "awtoblindomitraʎatritʃe"
+  ],
+  "autobloccante": [
+    "awtoblokːante"
+  ],
+  "autobloccanti": [
+    "awtoblokːanti"
+  ],
+  "autobomba": [
+    "awtobomba"
+  ],
+  "autobotte": [
+    "awtobotːe"
+  ],
+  "autobruco": [
+    "awtobruko"
+  ],
+  "autobus": [
+    "autobus"
+  ],
+  "autocalmiere": [
+    "awtokalmjɛre"
+  ],
+  "autocalunnia": [
+    "awtokalunːja"
+  ],
+  "autocamionale": [
+    "awtokamjonale"
+  ],
+  "autocampeggio": [
+    "awtokampedːʒo"
+  ],
+  "autocampionatore": [
+    "awtokampjonatore"
+  ],
+  "autocancellazione": [
+    "awtokantʃelːatːsjone"
+  ],
+  "autocandidarsi": [
+    "awtokandidarsi"
+  ],
+  "autocannone": [
+    "autokanːone"
+  ],
+  "autocannoni": [
+    "autokanːoni"
+  ],
+  "autocaravan": [
+    "awtokaravan"
+  ],
+  "autocaricamento": [
+    "awtokarikamento"
+  ],
+  "autocaricatura": [
+    "awtokarikatura"
+  ],
+  "autocarri": [
+    "autɔkarːi"
+  ],
+  "autocarro": [
+    "autokarːo",
+    "autɔkarːo",
+    "awtokarːo"
+  ],
+  "autocasa": [
+    "awtokasa",
+    "awtokaza"
+  ],
+  "autocatalisi": [
+    "awtokatalizi"
+  ],
+  "autocateterismo": [
+    "awtokateterizmo"
+  ],
+  "autocefalia": [
+    "awtotʃefalia"
+  ],
+  "autocefalo": [
+    "awtotʃɛfalo"
+  ],
+  "autocelebrativo": [
+    "awtotʃelebrativo"
+  ],
+  "autocensura": [
+    "awtotʃensura"
+  ],
+  "autocensurarsi": [
+    "awtotʃensurarsi"
+  ],
+  "autocentrante": [
+    "awtotʃentrante"
+  ],
+  "autocentro": [
+    "awtotʃɛntro"
+  ],
+  "autocercante": [
+    "awtotʃerkante"
+  ],
+  "autocertificare": [
+    "awtotʃertifikare"
+  ],
+  "autocertificativo": [
+    "awtotʃertifikativo"
+  ],
+  "autocertificato": [
+    "awtotʃertifikato"
+  ],
+  "autocertificazione": [
+    "awtotʃertifikatːsjone"
+  ],
+  "autocestello": [
+    "awtotʃestɛlːo"
+  ],
+  "autochiusura": [
+    "awtokjusura",
+    "awtokjuzura"
+  ],
+  "autocinema": [
+    "awtotʃinema"
+  ],
+  "autocingolato": [
+    "awtotʃinɡolato"
+  ],
+  "autocisterna": [
+    "awtotʃistɛrna"
+  ],
+  "autocitarsi": [
+    "awtotʃitarsi"
+  ],
+  "autocitazione": [
+    "awtotʃitatːsjone"
+  ],
+  "autocivetta": [
+    "awtotʃivetːa"
+  ],
+  "autoclasi": [
+    "awtoklazi"
+  ],
+  "autoclastico": [
+    "awtoklastiko"
+  ],
+  "autoclave": [
+    "autoklave"
+  ],
+  "autoclavi": [
+    "autoklavi"
+  ],
+  "autocolonna": [
+    "awtokolonːa"
+  ],
+  "autocomando": [
+    "awtokomando"
+  ],
+  "autocombustione": [
+    "awtokombustjone"
+  ],
+  "autocommento": [
+    "awtokomːento"
+  ],
+  "autocommiserarsi": [
+    "awtokomːizerarsi"
+  ],
+  "autocommiserazione": [
+    "awtokomːizeratːsjone"
+  ],
+  "autocommutatore": [
+    "awtokomːutatore"
+  ],
+  "autocompattatore": [
+    "awtokompatːatore"
+  ],
+  "autocompiacimento": [
+    "awtokompjatʃimento"
+  ],
+  "autocompiaciuto": [
+    "awtokompjatʃuto"
+  ],
+  "autocompletamenti": [
+    "awtokompletamenti"
+  ],
+  "autocompletamento": [
+    "awtokompletamento"
+  ],
+  "autoconcessionaria": [
+    "awtokontʃesːjonarja"
+  ],
+  "autoconcessionario": [
+    "awtokontʃesːjonarjo"
+  ],
+  "autocondanna": [
+    "awtokondanːa"
+  ],
+  "autoconoscenza": [
+    "awtokonoʃʃɛntsa"
+  ],
+  "autoconsapevolezza": [
+    "awtokonsapevoletːsa"
+  ],
+  "autoconservazione": [
+    "autokonservatsjone",
+    "awtokonservatːsjone"
+  ],
+  "autoconservazioni": [
+    "autokonservatsjoni"
+  ],
+  "autoconsistente": [
+    "awtokonsistɛnte"
+  ],
+  "autoconsistenza": [
+    "awtokonsistɛntsa"
+  ],
+  "autoconsumo": [
+    "awtokonsumo"
+  ],
+  "autocontemplativo": [
+    "awtokontemplativo"
+  ],
+  "autocontemplazione": [
+    "awtokontemplatːsjone"
+  ],
+  "autocontrarre": [
+    "awtokontrarːe"
+  ],
+  "autocontrarsi": [
+    "awtokontrarsi"
+  ],
+  "autocontratto": [
+    "autokontrɔlːo",
+    "awtokontratːo"
+  ],
+  "autocontrollo": [
+    "autokontrɔlːo",
+    "awtokontrɔlːo"
+  ],
+  "autoconvincersi": [
+    "awtokonvintʃersi"
+  ],
+  "autoconvincimento": [
+    "awtokonvintʃimento"
+  ],
+  "autoconvinzione": [
+    "awtokonvintsjone"
+  ],
+  "autoconvoglio": [
+    "awtokonvɔʎo"
+  ],
+  "autocopiante": [
+    "awtokopjante"
+  ],
+  "autocoria": [
+    "awtokoria"
+  ],
+  "autocoro": [
+    "awtokɔro"
+  ],
+  "autocorrela": [
+    "autokorːɛla"
+  ],
+  "autocorrelare": [
+    "awtokorːelare"
+  ],
+  "autocorrelazione": [
+    "awtokorːelatːsjone"
+  ],
+  "autocorrezione": [
+    "awtokorːetːsjone"
+  ],
+  "autocorriera": [
+    "awtokorːjɛra"
+  ],
+  "autocosciente": [
+    "awtokoʃʃente",
+    "awtokoʃʃɛnte"
+  ],
+  "autocoscienti": [
+    "awtokoʃʃenti"
+  ],
+  "autocoscienza": [
+    "awtokoʃʃɛntsa"
+  ],
+  "autocostruzione": [
+    "autokɔstrutʃjɔne",
+    "awtokostrutːsjone"
+  ],
+  "autocostruzioni": [
+    "autokɔstrutʃjɔni"
+  ],
+  "autocrate": [
+    "awtokrate",
+    "awtɔkrate"
+  ],
+  "autocrati": [
+    "awtokrati"
+  ],
+  "autocratica": [
+    "autokratika"
+  ],
+  "autocraticamente": [
+    "autokratikamente"
+  ],
+  "autocratiche": [
+    "autokratike"
+  ],
+  "autocratici": [
+    "autokratitʃi"
+  ],
+  "autocratico": [
+    "autokratiko",
+    "awtokratiko"
+  ],
+  "autocrazia": [
+    "autokratːsia",
+    "awtokratːsia"
+  ],
+  "autocrazie": [
+    "autokratːsie"
+  ],
+  "autocritica": [
+    "awtokritika"
+  ],
+  "autocritico": [
+    "awtokritiko"
+  ],
+  "autocromia": [
+    "awtɔkromia"
+  ],
+  "autocromie": [
+    "awtɔkromia"
+  ],
+  "autocross": [
+    "awtokrɔs"
+  ],
+  "autoctona": [
+    "autɔktona"
+  ],
+  "autoctone": [
+    "autɔktone"
+  ],
+  "autoctoni": [
+    "autɔktoni"
+  ],
+  "autoctonia": [
+    "awtoktonia"
+  ],
+  "autoctono": [
+    "autɔktono"
+  ],
+  "autocura": [
+    "awtokura"
+  ],
+  "autodafé": [
+    "awtodafe"
+  ],
+  "autodecisione": [
+    "awtodetʃizjone"
+  ],
+  "autodefinizione": [
+    "awtodefinitːsjone"
+  ],
+  "autodemolitore": [
+    "awtodemolitore"
+  ],
+  "autodemolizione": [
+    "awtodemolitːsjone"
+  ],
+  "autodenuncia": [
+    "awtodenuntʃa"
+  ],
+  "autodenunciarsi": [
+    "awtodenuntʃarsi"
+  ],
+  "autodeterminato": [
+    "awtodeterminato"
+  ],
+  "autodeterminazione": [
+    "awtodeterminatːsjone"
+  ],
+  "autodiagnosi": [
+    "awtodiaɲɲozi",
+    "awtodjaɲɲozi"
+  ],
+  "autodiagnostica": [
+    "awtodiaɲɲɔstika",
+    "awtodjaɲɲɔstika"
+  ],
+  "autodichia": [
+    "awtodikia"
+  ],
+  "autodichiarare": [
+    "awtodikjarare"
+  ],
+  "autodichiararsi": [
+    "awtodikjararsi"
+  ],
+  "autodichiarato": [
+    "awtodikjarato"
+  ],
+  "autodichiarazione": [
+    "awtodikjaratːsjone"
+  ],
+  "autodidatta": [
+    "autodidatːa",
+    "awtodidatːa"
+  ],
+  "autodidattico": [
+    "awtodidatːiko"
+  ],
+  "autodidattismo": [
+    "awtodidatːizmo"
+  ],
+  "autodifesa": [
+    "awtodifeza"
+  ],
+  "autodigestione": [
+    "awtodidʒestjone"
+  ],
+  "autodina": [
+    "awtodina"
+  ],
+  "autodirezionale": [
+    "awtodiretːsjonale"
+  ],
+  "autodisciplina": [
+    "awtodiʃʃiplina"
+  ],
+  "autodistribuito": [
+    "awtodistribuito",
+    "awtodistribwito"
+  ],
+  "autodistruggersi": [
+    "awtodistrudːʒersi"
+  ],
+  "autodistruzione": [
+    "awtodistrutːsjone"
+  ],
+  "autodonazione": [
+    "awtodonatːsjone"
+  ],
+  "autodromi": [
+    "autɔdromi"
+  ],
+  "autodromo": [
+    "autɔdromo",
+    "awtɔdromo"
+  ],
+  "autoeccitante": [
+    "awtoetːʃitante"
+  ],
+  "autoeccitarsi": [
+    "awtoetːʃitarsi"
+  ],
+  "autoeccitazione": [
+    "awtoetːʃitatːsjone"
+  ],
+  "autoecologia": [
+    "awtoekolodʒia"
+  ],
+  "autoeditore": [
+    "awtoeditore"
+  ],
+  "autoeditoria": [
+    "awtoeditoria"
+  ],
+  "autoeducazione": [
+    "awtoedukatːsjone"
+  ],
+  "autoefficacia": [
+    "awtoefːikatʃa"
+  ],
+  "autoemarginazione": [
+    "awtoemardʒinatːsjone"
+  ],
+  "autoemoteca": [
+    "awtoemotɛka"
+  ],
+  "autoemoteche": [
+    "autoemotɛke"
+  ],
+  "autoemoterapia": [
+    "awtoemoterapia"
+  ],
+  "autoemotrasfusione": [
+    "awtoemotrasfuzjone"
+  ],
+  "autoerotico": [
+    "awtoerɔtiko"
+  ],
+  "autoerotismo": [
+    "awtoerotizmo"
+  ],
+  "autoesaltazione": [
+    "awtoezaltatːsjone"
+  ],
+  "autoesame": [
+    "awtoezame"
+  ],
+  "autoescludersi": [
+    "awtoeskludersi"
+  ],
+  "autoestinguente": [
+    "awtoestinɡwɛnte"
+  ],
+  "autoeterodina": [
+    "awtoeterodina"
+  ],
+  "autofaga": [
+    "autɔfaɡa"
+  ],
+  "autofaghe": [
+    "autɔfaɡe"
+  ],
+  "autofagi": [
+    "autɔfadʒi"
+  ],
+  "autofagia": [
+    "awtofadʒia"
+  ],
+  "autofago": [
+    "autɔfaɡo",
+    "awtɔfaɡo"
+  ],
+  "autofagocitosi": [
+    "awtofaɡotʃitɔzi"
+  ],
+  "autofagosoma": [
+    "awtofaɡosɔma"
+  ],
+  "autofattura": [
+    "awtofatːura"
+  ],
+  "autofecondante": [
+    "awtofekondante"
+  ],
+  "autofecondanti": [
+    "awtofekondanti"
+  ],
+  "autofecondazione": [
+    "awtofekondatːsjone"
+  ],
+  "autoferrotranviario": [
+    "awtofɛrːotranviarjo",
+    "awtofɛrːotranvjarjo"
+  ],
+  "autoferrotranviere": [
+    "awtofɛrːotranvjɛre"
+  ],
+  "autofertile": [
+    "awtofɛrtile"
+  ],
+  "autofertilizzante": [
+    "awtofertilidːzante"
+  ],
+  "autofertilizzazione": [
+    "autofertilidːzatsjone"
+  ],
+  "autofertilizzazioni": [
+    "autofertilidːzatsjoni"
+  ],
+  "autofficina": [
+    "awtofːitʃina"
+  ],
+  "autofilettante": [
+    "awtofiletːante"
+  ],
+  "autofilotranviario": [
+    "awtofilotranviarjo",
+    "awtofilotranvjarjo"
+  ],
+  "autofinanziamenti": [
+    "autofinantsjamenti"
+  ],
+  "autofinanziamento": [
+    "autofinantsjamento",
+    "awtofinantsjamento"
+  ],
+  "autofinanziare": [
+    "autofinantsjare"
+  ],
+  "autofinanziarsi": [
+    "autofinantsjarsi",
+    "awtofinantsjarsi"
+  ],
+  "autoflagellazione": [
+    "awtofladʒelːatːsjone"
+  ],
+  "autofocus": [
+    "awtofɔkus"
+  ],
+  "autoformazione": [
+    "awtoformatsjone",
+    "awtoformatːsjone"
+  ],
+  "autoformazioni": [
+    "awtoformatsjoni"
+  ],
+  "autofrenante": [
+    "awtofrenante"
+  ],
+  "autofunebre": [
+    "awtofunebre"
+  ],
+  "autofunzione": [
+    "autofuntsjone"
+  ],
+  "autofurgone": [
+    "awtofurɡone"
+  ],
+  "autogamia": [
+    "awtoɡamia"
+  ],
+  "autogenesi": [
+    "awtodʒɛnezi"
+  ],
+  "autogeno": [
+    "autɔdʒeno"
+  ],
+  "autogestione": [
+    "autodʒestjone",
+    "awtodʒestjone"
+  ],
+  "autogestioni": [
+    "autodʒestjoni"
+  ],
+  "autogestire": [
+    "awtodʒestire"
+  ],
+  "autogiro": [
+    "awtodʒiro"
+  ],
+  "autogoal": [
+    "autoɡɔl",
+    "awtoɡɔl"
+  ],
+  "autogol": [
+    "awtoɡɔl"
+  ],
+  "autogonfiabile": [
+    "awtoɡonfjabile"
+  ],
+  "autogonfiabili": [
+    "awtoɡonfjabili"
+  ],
+  "autogonfiante": [
+    "awtoɡonfjante"
+  ],
+  "autogonfianti": [
+    "awtoɡonfjanti"
+  ],
+  "autogovernarsi": [
+    "awtoɡovernarsi"
+  ],
+  "autogovernato": [
+    "awtoɡovernato"
+  ],
+  "autogoverno": [
+    "awtoɡovɛrno"
+  ],
+  "autografa": [
+    "awtɔɡrafa"
+  ],
+  "autografare": [
+    "awtoɡrafare"
+  ],
+  "autografe": [
+    "awtɔɡrafe"
+  ],
+  "autografi": [
+    "awtɔɡrafi"
+  ],
+  "autografo": [
+    "awtɔɡrafo"
+  ],
+  "autogrill": [
+    "autoɡrilː"
+  ],
+  "autogrù": [
+    "awtoɡru"
+  ],
+  "autogruista": [
+    "autoɡruista"
+  ],
+  "autogruiste": [
+    "autoɡruiste"
+  ],
+  "autogruisti": [
+    "autoɡruisti"
+  ],
+  "autoguida": [
+    "awtoɡwida"
+  ],
+  "autoimmune": [
+    "awtojmːune"
+  ],
+  "autoimmunizzazione": [
+    "autoimːunidːzatːsjone"
+  ],
+  "autoimmunizzazioni": [
+    "autoimːunidːzatːsjoni"
+  ],
+  "autoimpollinazione": [
+    "autoimpolːinatsjone"
+  ],
+  "autoimpollinazioni": [
+    "autoimpolːinatsjoni"
+  ],
+  "autoincompatibile": [
+    "awtoinkompatibile"
+  ],
+  "autoincompatibili": [
+    "awtoinkompatibili"
+  ],
+  "autoindotto": [
+    "awtojndotːo"
+  ],
+  "autoinoculabile": [
+    "awtoinokulabile"
+  ],
+  "autoinoculabili": [
+    "awtoinokulabili"
+  ],
+  "autointrospezione": [
+    "awtointrospetːsjone"
+  ],
+  "autoironia": [
+    "awtoironia"
+  ],
+  "autoirradiante": [
+    "awtoirːadjante"
+  ],
+  "autoistoradiografia": [
+    "awtoistoradjoɡrafia"
+  ],
+  "autolavaggi": [
+    "awtolavadːʒi"
+  ],
+  "autolavaggio": [
+    "awtolavadːʒo"
+  ],
+  "autolesionismo": [
+    "awtolezjonizmo"
+  ],
+  "autolesionista": [
+    "awtolezjonista"
+  ],
+  "autolesioniste": [
+    "awtolezjoniste"
+  ],
+  "autolesionisti": [
+    "awtolezjonisti"
+  ],
+  "autolivellante": [
+    "awtolivelːante"
+  ],
+  "autolivellanti": [
+    "awtolivelːanti"
+  ],
+  "autologica": [
+    "awtolɔdʒika"
+  ],
+  "autologiche": [
+    "awtolɔdʒike"
+  ],
+  "autologici": [
+    "awtolɔdʒitʃi"
+  ],
+  "autologico": [
+    "awtolɔdʒiko"
+  ],
+  "autolubrificante": [
+    "awtolubrifikante"
+  ],
+  "autolubrificanti": [
+    "awtolubrifikanti"
+  ],
+  "automa": [
+    "awtɔma"
+  ],
+  "automatica": [
+    "automatika",
+    "awtomatika"
+  ],
+  "automaticamente": [
+    "awtomatikamente"
+  ],
+  "automatiche": [
+    "automatike",
+    "awtomatike"
+  ],
+  "automatici": [
+    "automatitʃi",
+    "awtomatitʃi"
+  ],
+  "automaticizzare": [
+    "awtomatitʃidːzare"
+  ],
+  "automatico": [
+    "automatiko",
+    "awtomatiko"
+  ],
+  "automatismo": [
+    "awtomatizmo"
+  ],
+  "automatizzabile": [
+    "awtomatidːzabile"
+  ],
+  "automatizzabili": [
+    "awtomatidːzabili"
+  ],
+  "automatizzare": [
+    "awtomatidːzare"
+  ],
+  "automatizzazione": [
+    "awtomatidːzatːsjone"
+  ],
+  "automato": [
+    "awtomato"
+  ],
+  "automazione": [
+    "automatsjone"
+  ],
+  "automedicazione": [
+    "awtomedikatːsjone"
+  ],
+  "automedonte": [
+    "awtomedonte"
+  ],
+  "automezzo": [
+    "automɛdzo",
+    "awtomɛdːzo"
+  ],
+  "automi": [
+    "awtɔmi"
+  ],
+  "automobile": [
+    "automɔbile",
+    "awtomɔbile"
+  ],
+  "automobilismi": [
+    "automobilizmi"
+  ],
+  "automobilismo": [
+    "automobilizmo"
+  ],
+  "automobilista": [
+    "automobilista",
+    "awtomobilista"
+  ],
+  "automobiliste": [
+    "automobiliste"
+  ],
+  "automobilisti": [
+    "automobilisti"
+  ],
+  "automobilistica": [
+    "automobilistika"
+  ],
+  "automobilistiche": [
+    "automobilistike"
+  ],
+  "automobilistici": [
+    "automobilistitʃi"
+  ],
+  "automobilistico": [
+    "automobilistiko"
+  ],
+  "automorfismo": [
+    "awtomorfizmo"
+  ],
+  "automunita": [
+    "automunita"
+  ],
+  "automunite": [
+    "automunite"
+  ],
+  "automuniti": [
+    "automuniti"
+  ],
+  "automunito": [
+    "automunito"
+  ],
+  "autonica": [
+    "awtɔnika"
+  ],
+  "autonoleggio": [
+    "awtonoledːʒo"
+  ],
+  "autonolo": [
+    "awtonɔlo"
+  ],
+  "autonoma": [
+    "autɔnoma"
+  ],
+  "autonomamente": [
+    "awtonomamente"
+  ],
+  "autonome": [
+    "autɔnome"
+  ],
+  "autonomi": [
+    "autɔnomi"
+  ],
+  "autonomia": [
+    "autonomia"
+  ],
+  "autonomie": [
+    "autonomie"
+  ],
+  "autonomismi": [
+    "autonomizmi"
+  ],
+  "autonomismo": [
+    "autonomizmo",
+    "awtonomizmo"
+  ],
+  "autonomista": [
+    "autonomista"
+  ],
+  "autonomiste": [
+    "autonomiste"
+  ],
+  "autonomisti": [
+    "autonomisti"
+  ],
+  "autonomistica": [
+    "autonomiztika"
+  ],
+  "autonomistiche": [
+    "autonomiztike"
+  ],
+  "autonomistici": [
+    "autonomiztitʃi"
+  ],
+  "autonomistico": [
+    "autonomiztiko",
+    "awtonomistiko"
+  ],
+  "autonomo": [
+    "autonom",
+    "autɔnomo",
+    "awtɔnomo"
+  ],
+  "autoparcheggi": [
+    "autoparkedːʒi"
+  ],
+  "autoparcheggio": [
+    "autoparkedːʒo"
+  ],
+  "autoparchi": [
+    "autoparki"
+  ],
+  "autoparco": [
+    "autoparko",
+    "awtoparko"
+  ],
+  "autopiano": [
+    "awtopjano"
+  ],
+  "autopilota": [
+    "awtopilɔta"
+  ],
+  "autopista": [
+    "awtopista"
+  ],
+  "autoplastica": [
+    "awtoplastika"
+  ],
+  "autoplastico": [
+    "awtoplastiko"
+  ],
+  "autopoiesi": [
+    "awtopojɛzi"
+  ],
+  "autopompa": [
+    "autopompa"
+  ],
+  "autoportante": [
+    "awtoportante"
+  ],
+  "autoportanti": [
+    "awtoportanti"
+  ],
+  "autoporto": [
+    "awtopɔrto"
+  ],
+  "autopropulsione": [
+    "awtopropulsjone"
+  ],
+  "autopsia": [
+    "autopsia",
+    "awtopsia"
+  ],
+  "autopsie": [
+    "awtopsie"
+  ],
+  "autoptico": [
+    "awtɔptiko"
+  ],
+  "autopubblica": [
+    "awtopubːlika"
+  ],
+  "autopulente": [
+    "awtopulente"
+  ],
+  "autopulenti": [
+    "awtopulenti"
+  ],
+  "autopunizione": [
+    "awtopunitːsjone"
+  ],
+  "autoradio": [
+    "awtoradjo"
+  ],
+  "autoraduno": [
+    "awtoraduno"
+  ],
+  "autore": [
+    "autore",
+    "awtore"
+  ],
+  "autoreattore": [
+    "awtoreatːore"
+  ],
+  "autoreggente": [
+    "awtoredːʒente",
+    "awtoredːʒɛnte"
+  ],
+  "autoreggenti": [
+    "awtoredːʒenti"
+  ],
+  "autoregolazione": [
+    "autoreɡolatsjone"
+  ],
+  "autoregolazioni": [
+    "autoreɡolatsjoni"
+  ],
+  "autoreparto": [
+    "awtoreparto"
+  ],
+  "autoreplicazione": [
+    "autoreplikatsjone"
+  ],
+  "autorespiratore": [
+    "awtorespiratore"
+  ],
+  "autorete": [
+    "awtorete"
+  ]
 }

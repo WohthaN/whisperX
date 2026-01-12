@@ -1,502 +1,1560 @@
 {
-  "premierato": ["p r e m j e r a t o"],
-  "preminente": ["p r e m i n ɛ n t e"],
-  "preminentemente": ["p r e m e n e n t e m e n t e", "p r e m i n e n t e m e n t e"],
-  "preminenti": ["p r e m i n ɛ n t i"],
-  "preminenza": ["p r e m i n ɛ n t s a"],
-  "premio": ["p r ɛ m j o"],
-  "premolare": ["p r e m o l a r e"],
-  "premonastico": ["p r e m o n a s t i k o"],
-  "premonda": ["p r e m o n d a"],
-  "premonire": ["p r e m o n i r e"],
-  "premonitore": ["p r e m o n i t o r e"],
-  "premonitorio": ["p r e m o n i t ɔ r j o"],
-  "premonizione": ["p r e m o n i tː s j o n e"],
-  "premonizioni": ["p r e m o n i tː s j o n i"],
-  "premunire": ["p r e m u n i r e"],
-  "premunirsi": ["p r e m u n i r s i"],
-  "premunito": ["p r e m u n i t o"],
-  "premura": ["p r e m u r a"],
-  "premurosamente": ["p r e m u r o s a m e n t e"],
-  "premuroso": ["p r e m u r o s o", "p r e m u r o z o"],
-  "premusteriano": ["p r e m u s t e r j a n o"],
-  "premuto": ["p r e m u t o"],
-  "prenascere": ["p r e n a ʃ ʃ e r e"],
-  "prenatale": ["p r e n a t a l e"],
-  "prenatali": ["p r e n a t a l i"],
-  "prenato": ["p r e n a t o"],
-  "prenda": ["p r ɛ n d a"],
-  "prendano": ["p r ɛ n d a n o"],
-  "prende": ["p r ɛ n d e"],
-  "prendemmo": ["p r ɛ n d e mː o"],
-  "prendendo": ["p r ɛ n d e n d o"],
-  "prendente": ["p r ɛ n d e n t e"],
-  "prenderà": ["p r ɛ n d e r a"],
-  "prenderai": ["p r ɛ n d e r a i"],
-  "prenderanno": ["p r ɛ n d e r a nː o"],
-  "prendere": ["p r ɛ n d e r e"],
-  "prenderebbe": ["p r ɛ n d e r e bː e"],
-  "prenderebbero": ["p r ɛ n d e r e bː e r o"],
-  "prenderei": ["p r ɛ n d e r e i"],
-  "prenderemmo": ["p r ɛ n d e r e mː o"],
-  "prenderemo": ["p r ɛ n d e r e m o"],
-  "prendereste": ["p r ɛ n d e r e s t e"],
-  "prenderesti": ["p r ɛ n d e r e s t i"],
-  "prenderete": ["p r ɛ n d e r e t e"],
-  "prenderò": ["p r ɛ n d e r o"],
-  "prendersela": ["p r ɛ n d e r s e l a"],
-  "prendesse": ["p r ɛ n d e sː e"],
-  "prendessero": ["p r ɛ n d e sː e r o"],
-  "prendessi": ["p r ɛ n d e sː i"],
-  "prendessimo": ["p r ɛ n d e sː i m o"],
-  "prendeste": ["p r ɛ n d e s t e"],
-  "prendesti": ["p r ɛ n d e s t i"],
-  "prendete": ["p r ɛ n d e t e"],
-  "prendeva": ["p r ɛ n d e v a"],
-  "prendevamo": ["p r ɛ n d e v a m o"],
-  "prendevano": ["p r ɛ n d e v a n o"],
-  "prendevate": ["p r ɛ n d e v a t e"],
-  "prendevi": ["p r ɛ n d e v i"],
-  "prendevo": ["p r ɛ n d e v o"],
-  "prendiamo": ["p r ɛ n d j a m o"],
-  "prendiate": ["p r ɛ n d j a t e"],
-  "prendisole": ["p r ɛ n d i s o l e", "p r ɛ n d i s ɔ l e"],
-  "prendisoli": ["p r ɛ n d i s ɔ l i"],
-  "prendo": ["p r ɛ n d o"],
-  "prendono": ["p r ɛ n d o n o"],
-  "prenome": ["p r e n o m e", "p r e n ɔ m e"],
-  "prenomi": ["p r e n ɔ m i"],
-  "prenotare": ["p r e n o t a r e"],
-  "prenotazione": ["p r e n o t a tː s j o n e"],
-  "prensile": ["p r ɛ n s i l e"],
-  "prensilità": ["p r e n s i l i t a"],
-  "prensione": ["p r e n s j o n e"],
-  "preoccupante": ["p r e o kː u p a n t e"],
-  "preoccupanti": ["p r e o kː u p a n t i"],
-  "preoccupare": ["p r e o kː u p a r e"],
-  "preoccuparsi": ["p r e o kː u p a r s i"],
-  "preoccupato": ["p r e o kː u p a t o"],
-  "preoccupazione": ["p r e o kː u p a t s j o n e", "p r e o kː u p a tː s j o n e"],
-  "preoccupazioni": ["p r e o kː u p a t s j o n i"],
-  "preolimpionico": ["p r e o l i m p j ɔ n i k o"],
-  "preoperatori": ["p r e o p e r a t ɔ r i"],
-  "preoperatoria": ["p r e o p e r a t ɔ r j a"],
-  "preoperatorie": ["p r e o p e r a t ɔ r j e"],
-  "preoperatorio": ["p r e o p e r a t ɔ r j o"],
-  "preopinante": ["p r e o p i n a n t e"],
-  "preordinato": ["p r e o r d i n a t o"],
-  "preorganizzare": ["p r e o r ɡ a n i dː z a r e"],
-  "preorganizzazione": ["p r e o r ɡ a n i dː z a t s j o n e"],
-  "preorganizzazioni": ["p r e o r ɡ a n i dː z a t s j o n i"],
-  "prepagamenti": ["p r e p a ɡ a m e n t i"],
-  "prepagamento": ["p r e p a ɡ a m e n t o"],
-  "prepagare": ["p r e p a ɡ a r e"],
-  "prepagato": ["p r e p a ɡ a t o"],
-  "preparabile": ["p r e p a r a b i l e"],
-  "preparabili": ["p r e p a r a b i l i"],
-  "preparare": ["p r e p a r a r e", "p r ɛ p a r a r e"],
-  "preparativo": ["p r e p a r a t i v o"],
-  "preparato": ["p r e p a r a t o", "p r ɛ p a r a t o"],
-  "preparatorio": ["p r e p a r a t ɔ r j o"],
-  "preparazione": ["p r e p a r a t s j o n e"],
-  "preparazioni": ["p r e p a r a t s j o n i"],
-  "prepensionamento": ["p r e p e n s j o n a m e n t o"],
-  "preplatonico": ["p r e p l a t ɔ n i k o"],
-  "preponderante": ["p r e p o n d e r a n t e"],
-  "preponderanti": ["p r e p o n d e r a n t i"],
-  "preponderanza": ["p r e p o n d e r a n t s a"],
-  "prepone": ["p r e p o n e"],
-  "preponemmo": ["p r e p o n e mː o"],
-  "preponendo": ["p r e p o n e n d o"],
-  "preponente": ["p r e p o n e n t e"],
-  "preponenti": ["p r e p o n e n t i"],
-  "preponesse": ["p r e p o n e sː e"],
-  "preponessero": ["p r e p o n e sː e r o"],
-  "preponessi": ["p r e p o n e sː i"],
-  "preponessimo": ["p r e p o n e sː i m o"],
-  "preponeste": ["p r e p o nː e s t e"],
-  "preponesti": ["p r e p o n e s t i"],
-  "preponete": ["p r e p o n e t e"],
-  "preponeva": ["p r e p o n e v a"],
-  "preponevamo": ["p r e p o n e v a m o"],
-  "preponevano": ["p r e p o n e v a n o"],
-  "preponevate": ["p r e p o n e v a t e"],
-  "preponevi": ["p r e p o n e v i"],
-  "preponevo": ["p r e p o n e v o"],
-  "preponga": ["p r e p o n ɡ a"],
-  "prepongano": ["p r e p o n ɡ a n o"],
-  "prepongo": ["p r e p o n ɡ o"],
-  "prepongono": ["p r e p o n ɡ o n o"],
-  "preponi": ["p r e p o n i"],
-  "preponiamo": ["p r e p o n j a m o"],
-  "preponiate": ["p r e p o n j a t e"],
-  "preporrà": ["p o rː a"],
-  "preporrai": ["p r e p o rː a i"],
-  "preporranno": ["p r e p o rː a nː o"],
-  "preporre": ["p r e p o rː e"],
-  "preporrebbe": ["p r e p o rː e bː e"],
-  "preporrebbero": ["p r e p o rː e bː e r o"],
-  "preporrei": ["p r e p o rː e i"],
-  "preporremmo": ["p r e p o rː e m o"],
-  "preporremo": ["p r e p o rː e m o"],
-  "preporreste": ["p r e p o rː e s t e"],
-  "preporresti": ["p r e p o rː e s t i"],
-  "preporrete": ["p r e p o rː e t e"],
-  "preporrò": ["p r e p o rː o"],
-  "prepose": ["p r e p o s e"],
-  "preposero": ["p r e p o s e r o"],
-  "preposi": ["p r e p o s i"],
-  "prepositiva": ["p r e p o z i t i v a"],
-  "prepositive": ["p r e p o z i t i v e"],
-  "prepositivi": ["p r e p o z i t i v i"],
-  "prepositivo": ["p r e p o z i t i v o"],
-  "preposito": ["p r e p ɔ z i t o"],
-  "preposizionale": ["p r e p o z i t s j o n a l e"],
-  "preposizionali": ["p r e p o z i t s j o n a l i"],
-  "preposizione": ["p r e p o z i t s j o n e", "p r e p o z i tː s j o n e"],
-  "preposizioni": ["p r e p o z i t s j o n e"],
-  "preposta": ["p r e p o s t a"],
-  "preposte": ["p r e p o s t e"],
-  "prepostero": ["p r e p ɔ s t e r o"],
-  "preposti": ["p r e p o s t i"],
-  "preposto": ["p r e p o s t o"],
-  "prepotente": ["p r e p o t ɛ n t e"],
-  "prepotentemente": ["p r e p o t e n t e m e n t e"],
-  "prepotenza": ["p r e p o t e n t s a"],
-  "prepotenze": ["p r e p o t e n t s e"],
-  "prepotere": ["p r e p o t e r e"],
-  "preprocessore": ["p r e p r o t ʃ e sː o r e"],
-  "preprocessori": ["p r e p r o t ʃ e sː o r i"],
-  "prepubere": ["p r e p u b e r e"],
-  "prepubertà": ["p r e p u b e r t a"],
-  "prepuzi": ["p r e p u tː s i"],
-  "prepuzio": ["p r e p u tː s j o"],
-  "preraffaellismi": ["p r e r a fː a e lː i z m i"],
-  "preraffaellismo": ["p r e r a fː a e lː i z m o"],
-  "preraffaellita": ["p r e r a fː a e lː i t a"],
-  "preraffaellite": ["p r e r a fː a e lː i t e"],
-  "preraffaelliti": ["p r e r a fː a e lː i t i"],
-  "preregistrato": ["p r e r e d ʒ i s t r a t o"],
-  "prerequisito": ["p r e r e k w i z i t o"],
-  "prerinascimentale": ["p r e r i n a ʃ ʃ i m e n t a l e"],
-  "prerivoluzionari": ["p r e r i v o l u t s j o n a r i"],
-  "prerivoluzionaria": ["p r e r i v o l u t s j o n a r j a"],
-  "prerivoluzionarie": ["p r e r i v o l u t s j o n a r j e"],
-  "prerivoluzionario": ["p r e r i v o l u t s j o n a r j o"],
-  "prerogativa": ["p r e r o ɡ a t i v a"],
-  "preromantica": ["p r e r o m a n t i k a"],
-  "preromantiche": ["p r e r o m a n t i k e"],
-  "preromantici": ["p r e r o m a n t i t ʃ i"],
-  "preromantico": ["p r e r o m a n t i k o"],
-  "presa": ["p r e s a", "p r e z a"],
-  "presagi": ["p r e z a d ʒ i"],
-  "presagio": ["p r e z a d ʒ o"],
-  "presagire": ["p r e z a d ʒ i r e"],
-  "presagito": ["p r e z a d ʒ i t o"],
-  "presago": ["p r e z a ɡ o"],
-  "presalario": ["p r e s a l a r j o"],
-  "presapere": ["p r e s a p e r e"],
-  "presbiopia": ["p r e z b j o p i a"],
-  "presbiopie": ["p r e z b j o p i e"],
-  "presbite": ["p r ɛ z b i t e"],
-  "presbiterale": ["p r e z b i t e r a l e"],
-  "presbiterio": ["p r e z b i t ɛ r j o"],
-  "presbiti": ["p r ɛ z b i t i"],
-  "prescegliere": ["p r e ʃ ʃ e ʎ e r e"],
-  "prescelto": ["p r e ʃ ʃ e l t o"],
-  "prescia": ["p r ɛ ʃ ʃ a"],
-  "prescindere": ["p r e ʃ i n d e r e", "p r e ʃ ʃ i n d e r e"],
-  "prescindibile": ["p r e ʃ ʃ i n d i b i l e"],
-  "prescritto": ["p r e s k r i tː o"],
-  "prescrivere": ["p r e s k r i v e r e"],
-  "prescrizione": ["p r e s k r i tː s j o n e"],
-  "prescrizioni": ["p r e s k r i tː s j o n i"],
-  "prese": ["p r e s e", "p r e z e"],
-  "presedere": ["p r e s e d e r e"],
-  "preselezione": ["p r e s e l e tː s j o n e"],
-  "preselezioni": ["p r e s e l e tː s j o n i"],
-  "presenta": ["p r e s ɛ n t a", "p r e z ɛ n t a"],
-  "presentabile": ["p r e z e n t a b i l e"],
-  "presentabili": ["p r e z e n t a b i l i"],
-  "presentando": ["p r ɛ z ɛ n t a n d o"],
-  "presentano": ["p r e s ɛ n t a n o", "p r e z ɛ n t a n o"],
-  "presentante": ["p r ɛ z ɛ n t a n t e"],
-  "presentare": ["p r e z e n t a r e", "p r ɛ z ɛ n t a r e"],
-  "presentarsi": ["p r e z e n t a r s i"],
-  "presentata": ["p r ɛ z ɛ n t a t a"],
-  "presentate": ["p r ɛ z ɛ n t a t e"],
-  "presentati": ["p r ɛ z ɛ n t a t i"],
-  "presentato": ["p r e z e n t a t o", "p r ɛ z ɛ n t a t o"],
-  "presentatore": ["p r e z e n t a t o r e"],
-  "presentatori": ["p r e z e n t a t o r i"],
-  "presentatrice": ["p r e z e n t a t r i t ʃ e"],
-  "presentatrici": ["p r e z e n t a t r i t ʃ i"],
-  "presentazione": ["p r e z e n t a t s j o n e", "p r e z e n t a tː s i o n e"],
-  "presente": ["p r e s ɛ n t e", "p r e z ɛ n t e"],
-  "presentemente": ["p r e z e n t e m e n t e"],
-  "presenti": ["p r e s ɛ n t i", "p r e z ɛ n t e", "p r e z ɛ n t i"],
-  "presentiamo": ["p r e s e n t j a m o", "p r e z e n t j a m o"],
-  "presentimenti": ["p r e s e n t i m e n t i"],
-  "presentimento": ["p r e s e n t i m e n t o"],
-  "presentire": ["p r e s e n t i r e"],
-  "presento": ["p r e s ɛ n t o", "p r e z ɛ n t o"],
-  "presenza": ["p r e z ɛ n t s a", "p r ɛ z ɛ n t s a"],
-  "presenze": ["p r ɛ z ɛ n t s e"],
-  "presenzialismo": ["p r e z e n t s j a l i z m o"],
-  "presenziare": ["p r e z e n t s j a r e"],
-  "presepe": ["p r e s e p e", "p r e z ɛ p e"],
-  "presepi": ["p r e s e p i", "p r e z ɛ p j"],
-  "presepio": ["p r e z ɛ p i o", "p r e z ɛ p j o"],
-  "presero": ["p r e s e r o"],
-  "preservando": ["p r e z e r v a n d o"],
-  "preservante": ["p r e z e r v a n t e"],
-  "preservare": ["p r e s e r v a r e", "p r e z e r v a r e"],
-  "preservata": ["p r e z e r v a t a"],
-  "preservate": ["p r e z e r v a t e"],
-  "preservati": ["p r e z e r v a t i"],
-  "preservativa": ["p r e s e r v a t i v a"],
-  "preservative": ["p r e s e r v a t i v e"],
-  "preservativi": ["p r e s e r v a t i v i"],
-  "preservativo": ["p r e s e r v a t i v o"],
-  "preservato": ["p r e s e r v a t o", "p r e z e r v a t o"],
-  "preservatore": ["p r e z e r v a t o r e"],
-  "preservatori": ["p r e z e r v a t o r i"],
-  "preservatrice": ["p r e z e r v a t r i t ʃ e"],
-  "preservatrici": ["p r e z e r v a t r i t ʃ i"],
-  "preservazione": ["p r e z e r v a t s j o n e"],
-  "preservazioni": ["p r e z e r v a t s j o n i"],
-  "preservazionismi": ["p r e z e r v a t s j o n i z m i"],
-  "preservazionismo": ["p r e z e r v a t s j o n i z m o"],
-  "presi": ["p r e s i", "p r e z i"],
-  "preside": ["p r ɛ s i d e"],
-  "presidente": ["p r e s i d ɛ n t e"],
-  "presidentessa": ["p r e s i d e n t e sː a", "p r e z i d e n t e sː a"],
-  "presidentesse": ["p r e s i d e n t e sː e"],
-  "presidenti": ["p r e s i d ɛ n t i"],
-  "presidenza": ["p r e z i d ɛ n t s a"],
-  "presidenziabile": ["p r e z i d e n t s j a b i l e"],
-  "presidenziabili": ["p r e z i d e n t s j a b i l i"],
-  "presidenziale": ["p r e z i d e n t s j a l e"],
-  "presidiare": ["p r e z i d j a r e"],
-  "presidiato": ["p r e s i d j a t o"],
-  "presidio": ["p r e z i d j o"],
-  "presiedere": ["p r e s j e d e r e", "p r e s j ɛ d e r e"],
-  "presinaptico": ["p r e s i n a p t i k o"],
-  "preso": ["p r e s o", "p r e z o"],
-  "pressa": ["p r e sː a", "p r ɛ sː a"],
-  "pressante": ["p r e sː a n t e"],
-  "pressapochismi": ["p r ɛ sː a p o k i s m i"],
-  "pressapochismo": ["p r e sː a p o k i z m o", "p r ɛ sː a p o k i s m o"],
-  "pressappochismi": ["p r ɛ sː a p o k i s m i"],
-  "pressappochismo": ["p r e sː a pː o k i z m o", "p r ɛ sː a p o k i s m o"],
-  "pressappoco": ["p r e sː a pː ɔ k o", "p r ɛ sː a pː ɔ k o"],
-  "pressare": ["p r e sː a r e"],
-  "pressato": ["p r e sː a t o"],
-  "pressatura": ["p r e sː a t u r a"],
-  "presse": ["p r e sː e"],
-  "pressi": ["p r ɛ sː i"],
-  "pressione": ["p r e sː j o n e", "p r ɛ s j ɔ n e"],
-  "presso": ["p r ɛ sː o"],
-  "pressoché": ["p r e sː o k e", "p r e sː o kː e"],
-  "pressorio": ["p r e sː ɔ r j o"],
-  "pressurizzabile": ["p r e sː u r i dː z a b i l e"],
-  "pressurizzabili": ["p r e sː u r i dː z a b i l i"],
-  "presta": ["p r e s t a", "p r ɛ s t a"],
-  "prestabilire": ["p r e s t a b i l i r e"],
-  "prestabilito": ["p r e s t a b i l i t o"],
-  "prestai": ["p r e s t a j"],
-  "prestamente": ["p r e s t a m e n t e"],
-  "prestando": ["p r e s t a n d o"],
-  "prestanome": ["p r ɛ s t a n o m e"],
-  "prestante": ["p r e s t a n t e"],
-  "prestantino": ["p r e s t a n t i n o"],
-  "prestanza": ["p r e s t a n t s a"],
-  "prestare": ["p r e s t a r e"],
-  "prestarsi": ["p r e s t a r s i"],
-  "prestasse": ["p r e s t a sː e"],
-  "prestaste": ["p r e s t a s t e"],
-  "prestato": ["p r e s t a t o"],
-  "prestatore": ["p r e s t a t o r e"],
-  "prestatori": ["p r e s t a t o r i"],
-  "prestava": ["p r e s t a v a"],
-  "prestazione": ["p r e s t a tː s j o n e"],
-  "preste": ["p r ɛ s t e"],
-  "prestezza": ["p r e s t e tː s a"],
-  "prestezze": ["p r e s t e tː s e"],
-  "presti": ["p r ɛ s t i"],
-  "prestidigitatore": ["p r e s t i d ʒ i t a t o r e"],
-  "prestidigitatori": ["p r e s t i d ʒ i t a t o r i"],
-  "prestidigitatrice": ["p r e s t i d ʒ i t a t r i t ʃ e"],
-  "prestidigitatrici": ["p r e s t i d ʒ i t a t r i t ʃ i"],
-  "prestidigitazione": ["p r e s t i d ʒ i t a t s j o n e"],
-  "prestidigitazioni": ["p r e s t i d ʒ i t a t s j o n i"],
-  "prestigi": ["p r e s t i d ʒ i"],
-  "prestigiatore": ["p r e s t i d ʒ a t o r e"],
-  "prestigiatori": ["p r e s t i d ʒ a t o r i"],
-  "prestigiatrice": ["p r e s t i d ʒ a t r i t ʃ e"],
-  "prestigiatrici": ["p r e s t i d ʒ a t r i t ʃ i"],
-  "prestigiazione": ["p r e s t i d ʒ a t s j o n e"],
-  "prestigiazioni": ["p r e s t i d ʒ a t s j o n i"],
-  "prestigio": ["p r e s t i d ʒ o"],
-  "prestigiosa": ["p r e s t i d ʒ o z a"],
-  "prestigiosamente": ["p r e s t i d ʒ o s a m e n t e"],
-  "prestigiose": ["p r e s t i d ʒ o s e", "p r e s t i d ʒ o z e"],
-  "prestigiosi": ["p r e s t i d ʒ o z i"],
-  "prestigioso": ["p r e s t i d ʒ o z o"],
-  "prestina": ["p r e s t i n a"],
-  "prestinaia": ["p r e s t i n a j a"],
-  "prestinaio": ["p r e s t i n a j o"],
-  "prestissima": ["p r ɛ s t i sː i m a"],
-  "prestissime": ["p r ɛ s t i sː i m e"],
-  "prestissimi": ["p r ɛ s t i sː i m i"],
-  "prestissimo": ["p r e s t i sː i m o", "p r ɛ s t i sː i m o"],
-  "prestiti": ["p r ɛ s t i t i"],
-  "prestito": ["p r ɛ s t i t o"],
-  "presto": ["p r ɛ s t o", "p r ɛ s t ɔ"],
-  "presumibile": ["p r e s u m i b i l e", "p r e z u m i b i l e"],
-  "presumibili": ["p r e z u m i b i l i"],
-  "presumibilmente": ["p r e s u m i b i l m e n t e", "p r e z u m i b i l m e n t e"],
-  "presuntuoso": ["p r e s u n t u o s o", "p r e s z u n t w o s o", "p r e z u n t u o s o", "p r e z u n t u o z o", "p r e z u n t w o s o"],
-  "presunzione": ["p r e s u n t s j o n e"],
-  "presunzioni": ["p r e s u n t s j o n i"],
-  "presuppone": ["p r e s u pː o n j a m o"],
-  "presupponemmo": ["p r e s u pː o n e mː o"],
-  "presupponendo": ["p r e s u pː o n e n d o"],
-  "presupponente": ["p r e s u pː o n e n t e"],
-  "presupponesse": ["p r e s u pː o n e sː e"],
-  "presupponessero": ["p r e s u pː o n e sː e r o"],
-  "presupponessi": ["p r e s u pː o n e sː i"],
-  "presupponessimo": ["p r e s u pː o n e sː i m o"],
-  "presupponeste": ["p r e s u pː o nː e s t e"],
-  "presupponesti": ["p r e s u pː o s e"],
-  "presupponete": ["p r e s u pː o n ɡ o n o"],
-  "presupponeva": ["p r e s u pː o n e v a m o"],
-  "presupponevamo": ["p r e s u pː o n e v a t e"],
-  "presupponevano": ["p r e s u pː o s i"],
-  "presupponevate": ["p r e s u pː o n e v a n o"],
-  "presupponevi": ["p r e s u pː o n e v a"],
-  "presupponevo": ["p r e s u pː o n e v i"],
-  "presupponga": ["p r e s u pː o n ɡ a"],
-  "presuppongano": ["p r e s u pː o n ɡ a n o"],
-  "presuppongo": ["p r e s u pː o n ɡ o"],
-  "presuppongono": ["p r e s u pː o n e v o"],
-  "presupponi": ["p r e s u pː o n i"],
-  "presupponiamo": ["p r e s u pː o n e t e"],
-  "presupponiate": ["p r e s u pː o n j a t e"],
-  "presupporrà": ["p o rː a"],
-  "presupporrai": ["p r e s u pː o rː a i"],
-  "presupporranno": ["p r e s u pː o rː a nː o"],
-  "presupporre": ["p r e s u pː o rː e", "p r e z u pː o rː e"],
-  "presupporrebbe": ["p r e s u pː o rː e bː e"],
-  "presupporrebbero": ["p r e s u pː o rː e bː e r o"],
-  "presupporrei": ["p r e s u pː o rː e i"],
-  "presupporremmo": ["p r e s u pː o rː e m o"],
-  "presupporremo": ["p r e s u pː o rː e m o"],
-  "presupporreste": ["p r e s u pː o rː e s t e"],
-  "presupporresti": ["p r e s u pː o rː e s t i"],
-  "presupporrete": ["p r e s u pː o rː e t e"],
-  "presupporrò": ["p r e s u pː o rː o"],
-  "presuppose": ["p r e s u pː o n e mː o"],
-  "presupposero": ["p r e s u pː o s e r o"],
-  "presupposi": ["p r e s u pː o n e s t i"],
-  "presupposizione": ["p r e z u pː o z i t s j o n e"],
-  "presupposizioni": ["p r e z u pː o z i t s j o n i"],
-  "presupposta": ["p r e s u pː o s t a"],
-  "presupposte": ["p r e s u pː o s t a", "p r e s u pː o s t e"],
-  "presupposti": ["p r e s u pː o s t i"],
-  "presupposto": ["p r e s u pː o s t o", "p r e z u pː o s t o"],
-  "prete": ["p r ɛ t e"],
-  "pretendente": ["p r e t e n d ɛ n t e"],
-  "pretendere": ["p r e t ɛ n d e r e"],
-  "pretensione": ["p r e t e n s j o n e"],
-  "pretenzione": ["p r e t e n t s j o n e"],
-  "pretenziosamente": ["p r e t e n t s j o s a m e n t e", "p r e t e n t s j o z a m e n t e"],
-  "pretenzioso": ["p r e t e n t s j o z o", "p r e t e n z i o s o"],
-  "preterintenzionale": ["p r e t e r i n t e n t s j o n a l e"],
-  "preterintenzionalmente": ["p r e t e r i n t e n t s j o n a l m e n t e"],
-  "preterito": ["p r e t ɛ r i t o"],
-  "pretermine": ["p r e t ɛ r m i n e"],
-  "preternaturale": ["r e t e r n a t u r a l e"],
-  "pretesa": ["p r e t e s a", "p r e t e z a"],
-  "pretestare": ["p r e t e s t a r e"],
-  "pretestazione": ["p r e t e s t a tː s j o n e"],
-  "pretesti": ["p r e t ɛ s t i"],
-  "pretesto": ["p r e t ɛ s t o"],
-  "pretestuoso": ["p r e t e s t u o s o", "p r e t e s t u o z o", "p r e t e s t w o s o"],
-  "preti": ["p r ɛ t i"],
-  "pretibiale": ["p r e t i b j a l e"],
-  "pretibiali": ["p r e t i b j a l i"],
-  "pretonica": ["p r e t ɔ n i k a"],
-  "pretoniche": ["p r e t ɔ n i k e"],
-  "pretonici": ["p r e t ɔ n i t ʃ i"],
-  "pretonico": ["p r e t ɔ n i k o"],
-  "pretora": ["p r e t o r a"],
-  "pretore": ["p r e t o r e"],
-  "pretori": ["p r e t o r i"],
-  "pretoriano": ["p r e t o r j a n o"],
-  "pretrattamenti": ["p r e t r a tː a m e n t i"],
-  "pretrattamento": ["p r e t r a tː a m e n t o"],
-  "prettamente": ["p r e tː a m e n t e"],
-  "pretura": ["p r e t u r a"],
-  "preumano": ["p r e u m a n o"],
-  "preunitario": ["p r e u n i t a r j o"],
-  "preuniversitari": ["p r e u n i v e r s i t a r i"],
-  "preuniversitaria": ["p r e u n i v e r s i t a r j a"],
-  "preuniversitarie": ["p r e u n i v e r s i t a r j e"],
-  "preuniversitario": ["p r e u n i v e r s i t a r j o"],
-  "prevalentemente": ["p r e v a l e n t e m e n t e"],
-  "prevalenza": ["p r e v a l ɛ n t s a"],
-  "prevalere": ["p r e v a l e r e"],
-  "prevaricare": ["p r e v a r i k a r e"],
-  "prevaricatore": ["p r e v a r i k a t o r e"],
-  "prevaricatori": ["p r e v a r i k a t o r i"],
-  "prevaricatrice": ["p r e v a r i k a t r i t ʃ e"],
-  "prevaricatrici": ["p r e v a r i k a t r i t ʃ i"],
-  "prevaricazione": ["p r e v a r i k a tː s j o n e"],
-  "prevedere": ["p r e v e d e r e"],
-  "prevedibile": ["p r e v e d i b i l e"],
-  "prevedibili": ["p r e v e d i b i l i"],
-  "prevedibilmente": ["p r e v e d i b i l m e n t e"],
-  "preveggente": ["p r e v e dː ʒ ɛ n t e"],
-  "prevelare": ["p r e v e l a r e"],
-  "prevenire": ["p r e v e n i r e"],
-  "preventiva": ["p r e v e n t i v a"],
-  "preventivamente": ["p r e v e n t i v a m e n t e"],
-  "preventivare": ["p r e v e n t i v a r e"],
-  "preventive": ["p r e v e n t i v e"],
-  "preventivi": ["p r e v e n t i v i"],
-  "preventivo": ["p r e v e n t i v o"],
-  "prevenzione": ["p r e v e n t s j o n e"],
-  "prevenzioni": ["p r e v e n t s j o n e"],
-  "preverbale": ["p r e v e r b a l e"],
-  "preverbo": ["p r e v ɛ r b o"],
-  "previdente": ["p r e v i d ɛ n t e"],
-  "previdenza": ["p r e v i d ɛ n t s a"],
-  "previo": ["p r ɛ v j o"],
-  "previsionale": ["p r e v i z j o n a l e"],
-  "previsione": ["p r e v i z j o n e"],
-  "previsioni": ["p r e v i z j o n i"],
-  "prevista": ["p r e v i s t a"],
-  "previste": ["p r e v i s t e"],
-  "previsti": ["p r e v i s t i"],
-  "previsto": ["p r e v i s t o"],
-  "prevosto": ["p r e v ɔ s t o"],
-  "preziosamente": ["p r e t s j o s a m e n t e"],
-  "prezioso": ["p r e t s j o z o"],
-  "prezzare": ["p r e tː s a r e"],
-  "prezzari": ["p r e tː s a r i"],
-  "prezzario": ["p r e tː s a r j o"],
-  "prezzemoli": ["p r ɛ tː s ɛ m ɔ l i"],
-  "prezzemolo": ["p r e tː s e m o l o", "p r ɛ tː s ɛ m ɔ l ɔ"],
-  "prezzi": ["p r ɛ tː s i"],
-  "prezzo": ["p r ɛ tː s o", "p r ɛ tː s ɔ"],
-  "prezzolato": ["p r e tː s o l a t o"],
-  "prezzomoli": ["p r ɛ tː s o m ɔ l i"],
-  "prezzomolo": ["p r ɛ tː s o m ɔ l"],
-  "pria": ["p r i a"],
-  "priapismi": ["p r i a p i z m i"],
-  "priapismo": ["p r i a p i z m o"],
-  "prigione": ["p r i d ʒ o n e", "p r i d ʒ ɔ n e"],
-  "prigioni": ["p r i d ʒ ɔ n i"],
-  "prigionia": ["p r i d ʒ o n i a"]
+  "premierato": [
+    "premjerato"
+  ],
+  "preminente": [
+    "preminɛnte"
+  ],
+  "preminentemente": [
+    "premenentemente",
+    "preminentemente"
+  ],
+  "preminenti": [
+    "preminɛnti"
+  ],
+  "preminenza": [
+    "preminɛntsa"
+  ],
+  "premio": [
+    "prɛmjo"
+  ],
+  "premolare": [
+    "premolare"
+  ],
+  "premonastico": [
+    "premonastiko"
+  ],
+  "premonda": [
+    "premonda"
+  ],
+  "premonire": [
+    "premonire"
+  ],
+  "premonitore": [
+    "premonitore"
+  ],
+  "premonitorio": [
+    "premonitɔrjo"
+  ],
+  "premonizione": [
+    "premonitːsjone"
+  ],
+  "premonizioni": [
+    "premonitːsjoni"
+  ],
+  "premunire": [
+    "premunire"
+  ],
+  "premunirsi": [
+    "premunirsi"
+  ],
+  "premunito": [
+    "premunito"
+  ],
+  "premura": [
+    "premura"
+  ],
+  "premurosamente": [
+    "premurosamente"
+  ],
+  "premuroso": [
+    "premuroso",
+    "premurozo"
+  ],
+  "premusteriano": [
+    "premusterjano"
+  ],
+  "premuto": [
+    "premuto"
+  ],
+  "prenascere": [
+    "prenaʃʃere"
+  ],
+  "prenatale": [
+    "prenatale"
+  ],
+  "prenatali": [
+    "prenatali"
+  ],
+  "prenato": [
+    "prenato"
+  ],
+  "prenda": [
+    "prɛnda"
+  ],
+  "prendano": [
+    "prɛndano"
+  ],
+  "prende": [
+    "prɛnde"
+  ],
+  "prendemmo": [
+    "prɛndemːo"
+  ],
+  "prendendo": [
+    "prɛndendo"
+  ],
+  "prendente": [
+    "prɛndente"
+  ],
+  "prenderà": [
+    "prɛndera"
+  ],
+  "prenderai": [
+    "prɛnderai"
+  ],
+  "prenderanno": [
+    "prɛnderanːo"
+  ],
+  "prendere": [
+    "prɛndere"
+  ],
+  "prenderebbe": [
+    "prɛnderebːe"
+  ],
+  "prenderebbero": [
+    "prɛnderebːero"
+  ],
+  "prenderei": [
+    "prɛnderei"
+  ],
+  "prenderemmo": [
+    "prɛnderemːo"
+  ],
+  "prenderemo": [
+    "prɛnderemo"
+  ],
+  "prendereste": [
+    "prɛndereste"
+  ],
+  "prenderesti": [
+    "prɛnderesti"
+  ],
+  "prenderete": [
+    "prɛnderete"
+  ],
+  "prenderò": [
+    "prɛndero"
+  ],
+  "prendersela": [
+    "prɛndersela"
+  ],
+  "prendesse": [
+    "prɛndesːe"
+  ],
+  "prendessero": [
+    "prɛndesːero"
+  ],
+  "prendessi": [
+    "prɛndesːi"
+  ],
+  "prendessimo": [
+    "prɛndesːimo"
+  ],
+  "prendeste": [
+    "prɛndeste"
+  ],
+  "prendesti": [
+    "prɛndesti"
+  ],
+  "prendete": [
+    "prɛndete"
+  ],
+  "prendeva": [
+    "prɛndeva"
+  ],
+  "prendevamo": [
+    "prɛndevamo"
+  ],
+  "prendevano": [
+    "prɛndevano"
+  ],
+  "prendevate": [
+    "prɛndevate"
+  ],
+  "prendevi": [
+    "prɛndevi"
+  ],
+  "prendevo": [
+    "prɛndevo"
+  ],
+  "prendiamo": [
+    "prɛndjamo"
+  ],
+  "prendiate": [
+    "prɛndjate"
+  ],
+  "prendisole": [
+    "prɛndisole",
+    "prɛndisɔle"
+  ],
+  "prendisoli": [
+    "prɛndisɔli"
+  ],
+  "prendo": [
+    "prɛndo"
+  ],
+  "prendono": [
+    "prɛndono"
+  ],
+  "prenome": [
+    "prenome",
+    "prenɔme"
+  ],
+  "prenomi": [
+    "prenɔmi"
+  ],
+  "prenotare": [
+    "prenotare"
+  ],
+  "prenotazione": [
+    "prenotatːsjone"
+  ],
+  "prensile": [
+    "prɛnsile"
+  ],
+  "prensilità": [
+    "prensilita"
+  ],
+  "prensione": [
+    "prensjone"
+  ],
+  "preoccupante": [
+    "preokːupante"
+  ],
+  "preoccupanti": [
+    "preokːupanti"
+  ],
+  "preoccupare": [
+    "preokːupare"
+  ],
+  "preoccuparsi": [
+    "preokːuparsi"
+  ],
+  "preoccupato": [
+    "preokːupato"
+  ],
+  "preoccupazione": [
+    "preokːupatsjone",
+    "preokːupatːsjone"
+  ],
+  "preoccupazioni": [
+    "preokːupatsjoni"
+  ],
+  "preolimpionico": [
+    "preolimpjɔniko"
+  ],
+  "preoperatori": [
+    "preoperatɔri"
+  ],
+  "preoperatoria": [
+    "preoperatɔrja"
+  ],
+  "preoperatorie": [
+    "preoperatɔrje"
+  ],
+  "preoperatorio": [
+    "preoperatɔrjo"
+  ],
+  "preopinante": [
+    "preopinante"
+  ],
+  "preordinato": [
+    "preordinato"
+  ],
+  "preorganizzare": [
+    "preorɡanidːzare"
+  ],
+  "preorganizzazione": [
+    "preorɡanidːzatsjone"
+  ],
+  "preorganizzazioni": [
+    "preorɡanidːzatsjoni"
+  ],
+  "prepagamenti": [
+    "prepaɡamenti"
+  ],
+  "prepagamento": [
+    "prepaɡamento"
+  ],
+  "prepagare": [
+    "prepaɡare"
+  ],
+  "prepagato": [
+    "prepaɡato"
+  ],
+  "preparabile": [
+    "preparabile"
+  ],
+  "preparabili": [
+    "preparabili"
+  ],
+  "preparare": [
+    "preparare",
+    "prɛparare"
+  ],
+  "preparativo": [
+    "preparativo"
+  ],
+  "preparato": [
+    "preparato",
+    "prɛparato"
+  ],
+  "preparatorio": [
+    "preparatɔrjo"
+  ],
+  "preparazione": [
+    "preparatsjone"
+  ],
+  "preparazioni": [
+    "preparatsjoni"
+  ],
+  "prepensionamento": [
+    "prepensjonamento"
+  ],
+  "preplatonico": [
+    "preplatɔniko"
+  ],
+  "preponderante": [
+    "preponderante"
+  ],
+  "preponderanti": [
+    "preponderanti"
+  ],
+  "preponderanza": [
+    "preponderantsa"
+  ],
+  "prepone": [
+    "prepone"
+  ],
+  "preponemmo": [
+    "preponemːo"
+  ],
+  "preponendo": [
+    "preponendo"
+  ],
+  "preponente": [
+    "preponente"
+  ],
+  "preponenti": [
+    "preponenti"
+  ],
+  "preponesse": [
+    "preponesːe"
+  ],
+  "preponessero": [
+    "preponesːero"
+  ],
+  "preponessi": [
+    "preponesːi"
+  ],
+  "preponessimo": [
+    "preponesːimo"
+  ],
+  "preponeste": [
+    "preponːeste"
+  ],
+  "preponesti": [
+    "preponesti"
+  ],
+  "preponete": [
+    "preponete"
+  ],
+  "preponeva": [
+    "preponeva"
+  ],
+  "preponevamo": [
+    "preponevamo"
+  ],
+  "preponevano": [
+    "preponevano"
+  ],
+  "preponevate": [
+    "preponevate"
+  ],
+  "preponevi": [
+    "preponevi"
+  ],
+  "preponevo": [
+    "preponevo"
+  ],
+  "preponga": [
+    "preponɡa"
+  ],
+  "prepongano": [
+    "preponɡano"
+  ],
+  "prepongo": [
+    "preponɡo"
+  ],
+  "prepongono": [
+    "preponɡono"
+  ],
+  "preponi": [
+    "preponi"
+  ],
+  "preponiamo": [
+    "preponjamo"
+  ],
+  "preponiate": [
+    "preponjate"
+  ],
+  "preporrà": [
+    "porːa"
+  ],
+  "preporrai": [
+    "preporːai"
+  ],
+  "preporranno": [
+    "preporːanːo"
+  ],
+  "preporre": [
+    "preporːe"
+  ],
+  "preporrebbe": [
+    "preporːebːe"
+  ],
+  "preporrebbero": [
+    "preporːebːero"
+  ],
+  "preporrei": [
+    "preporːei"
+  ],
+  "preporremmo": [
+    "preporːemo"
+  ],
+  "preporremo": [
+    "preporːemo"
+  ],
+  "preporreste": [
+    "preporːeste"
+  ],
+  "preporresti": [
+    "preporːesti"
+  ],
+  "preporrete": [
+    "preporːete"
+  ],
+  "preporrò": [
+    "preporːo"
+  ],
+  "prepose": [
+    "prepose"
+  ],
+  "preposero": [
+    "preposero"
+  ],
+  "preposi": [
+    "preposi"
+  ],
+  "prepositiva": [
+    "prepozitiva"
+  ],
+  "prepositive": [
+    "prepozitive"
+  ],
+  "prepositivi": [
+    "prepozitivi"
+  ],
+  "prepositivo": [
+    "prepozitivo"
+  ],
+  "preposito": [
+    "prepɔzito"
+  ],
+  "preposizionale": [
+    "prepozitsjonale"
+  ],
+  "preposizionali": [
+    "prepozitsjonali"
+  ],
+  "preposizione": [
+    "prepozitsjone",
+    "prepozitːsjone"
+  ],
+  "preposizioni": [
+    "prepozitsjone"
+  ],
+  "preposta": [
+    "preposta"
+  ],
+  "preposte": [
+    "preposte"
+  ],
+  "prepostero": [
+    "prepɔstero"
+  ],
+  "preposti": [
+    "preposti"
+  ],
+  "preposto": [
+    "preposto"
+  ],
+  "prepotente": [
+    "prepotɛnte"
+  ],
+  "prepotentemente": [
+    "prepotentemente"
+  ],
+  "prepotenza": [
+    "prepotentsa"
+  ],
+  "prepotenze": [
+    "prepotentse"
+  ],
+  "prepotere": [
+    "prepotere"
+  ],
+  "preprocessore": [
+    "preprotʃesːore"
+  ],
+  "preprocessori": [
+    "preprotʃesːori"
+  ],
+  "prepubere": [
+    "prepubere"
+  ],
+  "prepubertà": [
+    "prepuberta"
+  ],
+  "prepuzi": [
+    "preputːsi"
+  ],
+  "prepuzio": [
+    "preputːsjo"
+  ],
+  "preraffaellismi": [
+    "prerafːaelːizmi"
+  ],
+  "preraffaellismo": [
+    "prerafːaelːizmo"
+  ],
+  "preraffaellita": [
+    "prerafːaelːita"
+  ],
+  "preraffaellite": [
+    "prerafːaelːite"
+  ],
+  "preraffaelliti": [
+    "prerafːaelːiti"
+  ],
+  "preregistrato": [
+    "preredʒistrato"
+  ],
+  "prerequisito": [
+    "prerekwizito"
+  ],
+  "prerinascimentale": [
+    "prerinaʃʃimentale"
+  ],
+  "prerivoluzionari": [
+    "prerivolutsjonari"
+  ],
+  "prerivoluzionaria": [
+    "prerivolutsjonarja"
+  ],
+  "prerivoluzionarie": [
+    "prerivolutsjonarje"
+  ],
+  "prerivoluzionario": [
+    "prerivolutsjonarjo"
+  ],
+  "prerogativa": [
+    "preroɡativa"
+  ],
+  "preromantica": [
+    "preromantika"
+  ],
+  "preromantiche": [
+    "preromantike"
+  ],
+  "preromantici": [
+    "preromantitʃi"
+  ],
+  "preromantico": [
+    "preromantiko"
+  ],
+  "presa": [
+    "presa",
+    "preza"
+  ],
+  "presagi": [
+    "prezadʒi"
+  ],
+  "presagio": [
+    "prezadʒo"
+  ],
+  "presagire": [
+    "prezadʒire"
+  ],
+  "presagito": [
+    "prezadʒito"
+  ],
+  "presago": [
+    "prezaɡo"
+  ],
+  "presalario": [
+    "presalarjo"
+  ],
+  "presapere": [
+    "presapere"
+  ],
+  "presbiopia": [
+    "prezbjopia"
+  ],
+  "presbiopie": [
+    "prezbjopie"
+  ],
+  "presbite": [
+    "prɛzbite"
+  ],
+  "presbiterale": [
+    "prezbiterale"
+  ],
+  "presbiterio": [
+    "prezbitɛrjo"
+  ],
+  "presbiti": [
+    "prɛzbiti"
+  ],
+  "prescegliere": [
+    "preʃʃeʎere"
+  ],
+  "prescelto": [
+    "preʃʃelto"
+  ],
+  "prescia": [
+    "prɛʃʃa"
+  ],
+  "prescindere": [
+    "preʃindere",
+    "preʃʃindere"
+  ],
+  "prescindibile": [
+    "preʃʃindibile"
+  ],
+  "prescritto": [
+    "preskritːo"
+  ],
+  "prescrivere": [
+    "preskrivere"
+  ],
+  "prescrizione": [
+    "preskritːsjone"
+  ],
+  "prescrizioni": [
+    "preskritːsjoni"
+  ],
+  "prese": [
+    "prese",
+    "preze"
+  ],
+  "presedere": [
+    "presedere"
+  ],
+  "preselezione": [
+    "preseletːsjone"
+  ],
+  "preselezioni": [
+    "preseletːsjoni"
+  ],
+  "presenta": [
+    "presɛnta",
+    "prezɛnta"
+  ],
+  "presentabile": [
+    "prezentabile"
+  ],
+  "presentabili": [
+    "prezentabili"
+  ],
+  "presentando": [
+    "prɛzɛntando"
+  ],
+  "presentano": [
+    "presɛntano",
+    "prezɛntano"
+  ],
+  "presentante": [
+    "prɛzɛntante"
+  ],
+  "presentare": [
+    "prezentare",
+    "prɛzɛntare"
+  ],
+  "presentarsi": [
+    "prezentarsi"
+  ],
+  "presentata": [
+    "prɛzɛntata"
+  ],
+  "presentate": [
+    "prɛzɛntate"
+  ],
+  "presentati": [
+    "prɛzɛntati"
+  ],
+  "presentato": [
+    "prezentato",
+    "prɛzɛntato"
+  ],
+  "presentatore": [
+    "prezentatore"
+  ],
+  "presentatori": [
+    "prezentatori"
+  ],
+  "presentatrice": [
+    "prezentatritʃe"
+  ],
+  "presentatrici": [
+    "prezentatritʃi"
+  ],
+  "presentazione": [
+    "prezentatsjone",
+    "prezentatːsione"
+  ],
+  "presente": [
+    "presɛnte",
+    "prezɛnte"
+  ],
+  "presentemente": [
+    "prezentemente"
+  ],
+  "presenti": [
+    "presɛnti",
+    "prezɛnte",
+    "prezɛnti"
+  ],
+  "presentiamo": [
+    "presentjamo",
+    "prezentjamo"
+  ],
+  "presentimenti": [
+    "presentimenti"
+  ],
+  "presentimento": [
+    "presentimento"
+  ],
+  "presentire": [
+    "presentire"
+  ],
+  "presento": [
+    "presɛnto",
+    "prezɛnto"
+  ],
+  "presenza": [
+    "prezɛntsa",
+    "prɛzɛntsa"
+  ],
+  "presenze": [
+    "prɛzɛntse"
+  ],
+  "presenzialismo": [
+    "prezentsjalizmo"
+  ],
+  "presenziare": [
+    "prezentsjare"
+  ],
+  "presepe": [
+    "presepe",
+    "prezɛpe"
+  ],
+  "presepi": [
+    "presepi",
+    "prezɛpj"
+  ],
+  "presepio": [
+    "prezɛpio",
+    "prezɛpjo"
+  ],
+  "presero": [
+    "presero"
+  ],
+  "preservando": [
+    "prezervando"
+  ],
+  "preservante": [
+    "prezervante"
+  ],
+  "preservare": [
+    "preservare",
+    "prezervare"
+  ],
+  "preservata": [
+    "prezervata"
+  ],
+  "preservate": [
+    "prezervate"
+  ],
+  "preservati": [
+    "prezervati"
+  ],
+  "preservativa": [
+    "preservativa"
+  ],
+  "preservative": [
+    "preservative"
+  ],
+  "preservativi": [
+    "preservativi"
+  ],
+  "preservativo": [
+    "preservativo"
+  ],
+  "preservato": [
+    "preservato",
+    "prezervato"
+  ],
+  "preservatore": [
+    "prezervatore"
+  ],
+  "preservatori": [
+    "prezervatori"
+  ],
+  "preservatrice": [
+    "prezervatritʃe"
+  ],
+  "preservatrici": [
+    "prezervatritʃi"
+  ],
+  "preservazione": [
+    "prezervatsjone"
+  ],
+  "preservazioni": [
+    "prezervatsjoni"
+  ],
+  "preservazionismi": [
+    "prezervatsjonizmi"
+  ],
+  "preservazionismo": [
+    "prezervatsjonizmo"
+  ],
+  "presi": [
+    "presi",
+    "prezi"
+  ],
+  "preside": [
+    "prɛside"
+  ],
+  "presidente": [
+    "presidɛnte"
+  ],
+  "presidentessa": [
+    "presidentesːa",
+    "prezidentesːa"
+  ],
+  "presidentesse": [
+    "presidentesːe"
+  ],
+  "presidenti": [
+    "presidɛnti"
+  ],
+  "presidenza": [
+    "prezidɛntsa"
+  ],
+  "presidenziabile": [
+    "prezidentsjabile"
+  ],
+  "presidenziabili": [
+    "prezidentsjabili"
+  ],
+  "presidenziale": [
+    "prezidentsjale"
+  ],
+  "presidiare": [
+    "prezidjare"
+  ],
+  "presidiato": [
+    "presidjato"
+  ],
+  "presidio": [
+    "prezidjo"
+  ],
+  "presiedere": [
+    "presjedere",
+    "presjɛdere"
+  ],
+  "presinaptico": [
+    "presinaptiko"
+  ],
+  "preso": [
+    "preso",
+    "prezo"
+  ],
+  "pressa": [
+    "presːa",
+    "prɛsːa"
+  ],
+  "pressante": [
+    "presːante"
+  ],
+  "pressapochismi": [
+    "prɛsːapokismi"
+  ],
+  "pressapochismo": [
+    "presːapokizmo",
+    "prɛsːapokismo"
+  ],
+  "pressappochismi": [
+    "prɛsːapokismi"
+  ],
+  "pressappochismo": [
+    "presːapːokizmo",
+    "prɛsːapokismo"
+  ],
+  "pressappoco": [
+    "presːapːɔko",
+    "prɛsːapːɔko"
+  ],
+  "pressare": [
+    "presːare"
+  ],
+  "pressato": [
+    "presːato"
+  ],
+  "pressatura": [
+    "presːatura"
+  ],
+  "presse": [
+    "presːe"
+  ],
+  "pressi": [
+    "prɛsːi"
+  ],
+  "pressione": [
+    "presːjone",
+    "prɛsjɔne"
+  ],
+  "presso": [
+    "prɛsːo"
+  ],
+  "pressoché": [
+    "presːoke",
+    "presːokːe"
+  ],
+  "pressorio": [
+    "presːɔrjo"
+  ],
+  "pressurizzabile": [
+    "presːuridːzabile"
+  ],
+  "pressurizzabili": [
+    "presːuridːzabili"
+  ],
+  "presta": [
+    "presta",
+    "prɛsta"
+  ],
+  "prestabilire": [
+    "prestabilire"
+  ],
+  "prestabilito": [
+    "prestabilito"
+  ],
+  "prestai": [
+    "prestaj"
+  ],
+  "prestamente": [
+    "prestamente"
+  ],
+  "prestando": [
+    "prestando"
+  ],
+  "prestanome": [
+    "prɛstanome"
+  ],
+  "prestante": [
+    "prestante"
+  ],
+  "prestantino": [
+    "prestantino"
+  ],
+  "prestanza": [
+    "prestantsa"
+  ],
+  "prestare": [
+    "prestare"
+  ],
+  "prestarsi": [
+    "prestarsi"
+  ],
+  "prestasse": [
+    "prestasːe"
+  ],
+  "prestaste": [
+    "prestaste"
+  ],
+  "prestato": [
+    "prestato"
+  ],
+  "prestatore": [
+    "prestatore"
+  ],
+  "prestatori": [
+    "prestatori"
+  ],
+  "prestava": [
+    "prestava"
+  ],
+  "prestazione": [
+    "prestatːsjone"
+  ],
+  "preste": [
+    "prɛste"
+  ],
+  "prestezza": [
+    "prestetːsa"
+  ],
+  "prestezze": [
+    "prestetːse"
+  ],
+  "presti": [
+    "prɛsti"
+  ],
+  "prestidigitatore": [
+    "prestidʒitatore"
+  ],
+  "prestidigitatori": [
+    "prestidʒitatori"
+  ],
+  "prestidigitatrice": [
+    "prestidʒitatritʃe"
+  ],
+  "prestidigitatrici": [
+    "prestidʒitatritʃi"
+  ],
+  "prestidigitazione": [
+    "prestidʒitatsjone"
+  ],
+  "prestidigitazioni": [
+    "prestidʒitatsjoni"
+  ],
+  "prestigi": [
+    "prestidʒi"
+  ],
+  "prestigiatore": [
+    "prestidʒatore"
+  ],
+  "prestigiatori": [
+    "prestidʒatori"
+  ],
+  "prestigiatrice": [
+    "prestidʒatritʃe"
+  ],
+  "prestigiatrici": [
+    "prestidʒatritʃi"
+  ],
+  "prestigiazione": [
+    "prestidʒatsjone"
+  ],
+  "prestigiazioni": [
+    "prestidʒatsjoni"
+  ],
+  "prestigio": [
+    "prestidʒo"
+  ],
+  "prestigiosa": [
+    "prestidʒoza"
+  ],
+  "prestigiosamente": [
+    "prestidʒosamente"
+  ],
+  "prestigiose": [
+    "prestidʒose",
+    "prestidʒoze"
+  ],
+  "prestigiosi": [
+    "prestidʒozi"
+  ],
+  "prestigioso": [
+    "prestidʒozo"
+  ],
+  "prestina": [
+    "prestina"
+  ],
+  "prestinaia": [
+    "prestinaja"
+  ],
+  "prestinaio": [
+    "prestinajo"
+  ],
+  "prestissima": [
+    "prɛstisːima"
+  ],
+  "prestissime": [
+    "prɛstisːime"
+  ],
+  "prestissimi": [
+    "prɛstisːimi"
+  ],
+  "prestissimo": [
+    "prestisːimo",
+    "prɛstisːimo"
+  ],
+  "prestiti": [
+    "prɛstiti"
+  ],
+  "prestito": [
+    "prɛstito"
+  ],
+  "presto": [
+    "prɛsto",
+    "prɛstɔ"
+  ],
+  "presumibile": [
+    "presumibile",
+    "prezumibile"
+  ],
+  "presumibili": [
+    "prezumibili"
+  ],
+  "presumibilmente": [
+    "presumibilmente",
+    "prezumibilmente"
+  ],
+  "presuntuoso": [
+    "presuntuoso",
+    "preszuntwoso",
+    "prezuntuoso",
+    "prezuntuozo",
+    "prezuntwoso"
+  ],
+  "presunzione": [
+    "presuntsjone"
+  ],
+  "presunzioni": [
+    "presuntsjoni"
+  ],
+  "presuppone": [
+    "presupːonjamo"
+  ],
+  "presupponemmo": [
+    "presupːonemːo"
+  ],
+  "presupponendo": [
+    "presupːonendo"
+  ],
+  "presupponente": [
+    "presupːonente"
+  ],
+  "presupponesse": [
+    "presupːonesːe"
+  ],
+  "presupponessero": [
+    "presupːonesːero"
+  ],
+  "presupponessi": [
+    "presupːonesːi"
+  ],
+  "presupponessimo": [
+    "presupːonesːimo"
+  ],
+  "presupponeste": [
+    "presupːonːeste"
+  ],
+  "presupponesti": [
+    "presupːose"
+  ],
+  "presupponete": [
+    "presupːonɡono"
+  ],
+  "presupponeva": [
+    "presupːonevamo"
+  ],
+  "presupponevamo": [
+    "presupːonevate"
+  ],
+  "presupponevano": [
+    "presupːosi"
+  ],
+  "presupponevate": [
+    "presupːonevano"
+  ],
+  "presupponevi": [
+    "presupːoneva"
+  ],
+  "presupponevo": [
+    "presupːonevi"
+  ],
+  "presupponga": [
+    "presupːonɡa"
+  ],
+  "presuppongano": [
+    "presupːonɡano"
+  ],
+  "presuppongo": [
+    "presupːonɡo"
+  ],
+  "presuppongono": [
+    "presupːonevo"
+  ],
+  "presupponi": [
+    "presupːoni"
+  ],
+  "presupponiamo": [
+    "presupːonete"
+  ],
+  "presupponiate": [
+    "presupːonjate"
+  ],
+  "presupporrà": [
+    "porːa"
+  ],
+  "presupporrai": [
+    "presupːorːai"
+  ],
+  "presupporranno": [
+    "presupːorːanːo"
+  ],
+  "presupporre": [
+    "presupːorːe",
+    "prezupːorːe"
+  ],
+  "presupporrebbe": [
+    "presupːorːebːe"
+  ],
+  "presupporrebbero": [
+    "presupːorːebːero"
+  ],
+  "presupporrei": [
+    "presupːorːei"
+  ],
+  "presupporremmo": [
+    "presupːorːemo"
+  ],
+  "presupporremo": [
+    "presupːorːemo"
+  ],
+  "presupporreste": [
+    "presupːorːeste"
+  ],
+  "presupporresti": [
+    "presupːorːesti"
+  ],
+  "presupporrete": [
+    "presupːorːete"
+  ],
+  "presupporrò": [
+    "presupːorːo"
+  ],
+  "presuppose": [
+    "presupːonemːo"
+  ],
+  "presupposero": [
+    "presupːosero"
+  ],
+  "presupposi": [
+    "presupːonesti"
+  ],
+  "presupposizione": [
+    "prezupːozitsjone"
+  ],
+  "presupposizioni": [
+    "prezupːozitsjoni"
+  ],
+  "presupposta": [
+    "presupːosta"
+  ],
+  "presupposte": [
+    "presupːosta",
+    "presupːoste"
+  ],
+  "presupposti": [
+    "presupːosti"
+  ],
+  "presupposto": [
+    "presupːosto",
+    "prezupːosto"
+  ],
+  "prete": [
+    "prɛte"
+  ],
+  "pretendente": [
+    "pretendɛnte"
+  ],
+  "pretendere": [
+    "pretɛndere"
+  ],
+  "pretensione": [
+    "pretensjone"
+  ],
+  "pretenzione": [
+    "pretentsjone"
+  ],
+  "pretenziosamente": [
+    "pretentsjosamente",
+    "pretentsjozamente"
+  ],
+  "pretenzioso": [
+    "pretentsjozo",
+    "pretenzioso"
+  ],
+  "preterintenzionale": [
+    "preterintentsjonale"
+  ],
+  "preterintenzionalmente": [
+    "preterintentsjonalmente"
+  ],
+  "preterito": [
+    "pretɛrito"
+  ],
+  "pretermine": [
+    "pretɛrmine"
+  ],
+  "preternaturale": [
+    "reternaturale"
+  ],
+  "pretesa": [
+    "pretesa",
+    "preteza"
+  ],
+  "pretestare": [
+    "pretestare"
+  ],
+  "pretestazione": [
+    "pretestatːsjone"
+  ],
+  "pretesti": [
+    "pretɛsti"
+  ],
+  "pretesto": [
+    "pretɛsto"
+  ],
+  "pretestuoso": [
+    "pretestuoso",
+    "pretestuozo",
+    "pretestwoso"
+  ],
+  "preti": [
+    "prɛti"
+  ],
+  "pretibiale": [
+    "pretibjale"
+  ],
+  "pretibiali": [
+    "pretibjali"
+  ],
+  "pretonica": [
+    "pretɔnika"
+  ],
+  "pretoniche": [
+    "pretɔnike"
+  ],
+  "pretonici": [
+    "pretɔnitʃi"
+  ],
+  "pretonico": [
+    "pretɔniko"
+  ],
+  "pretora": [
+    "pretora"
+  ],
+  "pretore": [
+    "pretore"
+  ],
+  "pretori": [
+    "pretori"
+  ],
+  "pretoriano": [
+    "pretorjano"
+  ],
+  "pretrattamenti": [
+    "pretratːamenti"
+  ],
+  "pretrattamento": [
+    "pretratːamento"
+  ],
+  "prettamente": [
+    "pretːamente"
+  ],
+  "pretura": [
+    "pretura"
+  ],
+  "preumano": [
+    "preumano"
+  ],
+  "preunitario": [
+    "preunitarjo"
+  ],
+  "preuniversitari": [
+    "preuniversitari"
+  ],
+  "preuniversitaria": [
+    "preuniversitarja"
+  ],
+  "preuniversitarie": [
+    "preuniversitarje"
+  ],
+  "preuniversitario": [
+    "preuniversitarjo"
+  ],
+  "prevalentemente": [
+    "prevalentemente"
+  ],
+  "prevalenza": [
+    "prevalɛntsa"
+  ],
+  "prevalere": [
+    "prevalere"
+  ],
+  "prevaricare": [
+    "prevarikare"
+  ],
+  "prevaricatore": [
+    "prevarikatore"
+  ],
+  "prevaricatori": [
+    "prevarikatori"
+  ],
+  "prevaricatrice": [
+    "prevarikatritʃe"
+  ],
+  "prevaricatrici": [
+    "prevarikatritʃi"
+  ],
+  "prevaricazione": [
+    "prevarikatːsjone"
+  ],
+  "prevedere": [
+    "prevedere"
+  ],
+  "prevedibile": [
+    "prevedibile"
+  ],
+  "prevedibili": [
+    "prevedibili"
+  ],
+  "prevedibilmente": [
+    "prevedibilmente"
+  ],
+  "preveggente": [
+    "prevedːʒɛnte"
+  ],
+  "prevelare": [
+    "prevelare"
+  ],
+  "prevenire": [
+    "prevenire"
+  ],
+  "preventiva": [
+    "preventiva"
+  ],
+  "preventivamente": [
+    "preventivamente"
+  ],
+  "preventivare": [
+    "preventivare"
+  ],
+  "preventive": [
+    "preventive"
+  ],
+  "preventivi": [
+    "preventivi"
+  ],
+  "preventivo": [
+    "preventivo"
+  ],
+  "prevenzione": [
+    "preventsjone"
+  ],
+  "prevenzioni": [
+    "preventsjone"
+  ],
+  "preverbale": [
+    "preverbale"
+  ],
+  "preverbo": [
+    "prevɛrbo"
+  ],
+  "previdente": [
+    "previdɛnte"
+  ],
+  "previdenza": [
+    "previdɛntsa"
+  ],
+  "previo": [
+    "prɛvjo"
+  ],
+  "previsionale": [
+    "previzjonale"
+  ],
+  "previsione": [
+    "previzjone"
+  ],
+  "previsioni": [
+    "previzjoni"
+  ],
+  "prevista": [
+    "prevista"
+  ],
+  "previste": [
+    "previste"
+  ],
+  "previsti": [
+    "previsti"
+  ],
+  "previsto": [
+    "previsto"
+  ],
+  "prevosto": [
+    "prevɔsto"
+  ],
+  "preziosamente": [
+    "pretsjosamente"
+  ],
+  "prezioso": [
+    "pretsjozo"
+  ],
+  "prezzare": [
+    "pretːsare"
+  ],
+  "prezzari": [
+    "pretːsari"
+  ],
+  "prezzario": [
+    "pretːsarjo"
+  ],
+  "prezzemoli": [
+    "prɛtːsɛmɔli"
+  ],
+  "prezzemolo": [
+    "pretːsemolo",
+    "prɛtːsɛmɔlɔ"
+  ],
+  "prezzi": [
+    "prɛtːsi"
+  ],
+  "prezzo": [
+    "prɛtːso",
+    "prɛtːsɔ"
+  ],
+  "prezzolato": [
+    "pretːsolato"
+  ],
+  "prezzomoli": [
+    "prɛtːsomɔli"
+  ],
+  "prezzomolo": [
+    "prɛtːsomɔl"
+  ],
+  "pria": [
+    "pria"
+  ],
+  "priapismi": [
+    "priapizmi"
+  ],
+  "priapismo": [
+    "priapizmo"
+  ],
+  "prigione": [
+    "pridʒone",
+    "pridʒɔne"
+  ],
+  "prigioni": [
+    "pridʒɔni"
+  ],
+  "prigionia": [
+    "pridʒonia"
+  ]
 }

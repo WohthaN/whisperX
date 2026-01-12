@@ -1,502 +1,1535 @@
 {
-  "attenta": ["a tː e n t a", "a tː ɛ n t a"],
-  "attentai": ["a tː ɛ n t a i"],
-  "attentamente": ["a tː e n t a m e n t e"],
-  "attentammo": ["a tː ɛ n t a mː o"],
-  "attentando": ["a tː ɛ n t a n d o"],
-  "attentano": ["a tː ɛ n t a n o"],
-  "attentante": ["a tː ɛ n t a n t e"],
-  "attentare": ["a tː e n t a r e", "a tː ɛ n t a r e"],
-  "attentarono": ["a tː ɛ n t a r o n o"],
-  "attentarsi": ["a tː e n t a r s i"],
-  "attentasse": ["a tː ɛ n t a sː e"],
-  "attentassero": ["a tː ɛ n t a sː e r o"],
-  "attentassi": ["a tː ɛ n t a sː i"],
-  "attentassimo": ["a tː ɛ n t a sː i m o"],
-  "attentaste": ["a tː ɛ n t a s t e"],
-  "attentasti": ["a tː ɛ n t a s t i"],
-  "attentate": ["a tː ɛ n t a t e"],
-  "attentati": ["a tː ɛ n t a t i"],
-  "attentato": ["a tː e n t a t o", "a tː ɛ n t a t o", "a tː ɛ n t a t ɔ"],
-  "attentatore": ["a tː e n t a t o r e", "a tː ɛ n t a t o r e"],
-  "attentatori": ["a tː ɛ n t a t o r i"],
-  "attentatrice": ["a tː ɛ n t a t r i t ʃ e"],
-  "attentatrici": ["a tː ɛ n t a t r i t ʃ i"],
-  "attentava": ["a tː ɛ n t a v a"],
-  "attentavamo": ["a tː ɛ n t a v a m o"],
-  "attentavano": ["a tː ɛ n t a v a n o"],
-  "attentavate": ["a tː ɛ n t a v a t e"],
-  "attentavi": ["a tː ɛ n t a v i"],
-  "attentavo": ["a tː ɛ n t a v o"],
-  "attente": ["a tː e n t e", "a tː ɛ n t e"],
-  "attenterà": ["a tː ɛ n t e r a"],
-  "attenterai": ["a tː ɛ n t e r a i"],
-  "attenteranno": ["a tː ɛ n t e r a nː o"],
-  "attenterebbe": ["a tː ɛ n t e r e bː e"],
-  "attenterebbero": ["a tː ɛ n t e r e bː e r o"],
-  "attenterei": ["a tː ɛ n t e r e i"],
-  "attenteremmo": ["a tː ɛ n t e r e mː o"],
-  "attenteremo": ["a tː ɛ n t e r e m o"],
-  "attentereste": ["a tː ɛ n t e r e s t e"],
-  "attenteresti": ["a tː ɛ n t e r e s t i"],
-  "attenterete": ["a tː ɛ n t e r e t e"],
-  "attenterò": ["a tː ɛ n t e r o"],
-  "attenti": ["a t e n t i", "a tː ɛ n t i"],
-  "attentiamo": ["a tː ɛ n t j a m o"],
-  "attentiate": ["a tː ɛ n t j a t e"],
-  "attentino": ["a tː ɛ n t i n o"],
-  "attento": ["a tː e n t o", "a tː ɛ n t o"],
-  "attentò": ["a tː ɛ n t o"],
-  "attenuante": ["a tː e n u a n t e", "a tː e n w a n t e"],
-  "attenuanti": ["a tː e n w a n t i"],
-  "attenuare": ["a tː e n w a r e"],
-  "attenuato": ["a tː e n u a t o", "a tː e n w a t o"],
-  "attenuatore": ["a tː e n u a t o r e"],
-  "attenuazione": ["a tː e n u a tː s j o n e"],
-  "attenuazioni": ["a tː e n u a tː s j o n i"],
-  "attenzionare": ["a tː e n t s j o n a r e"],
-  "attenzionato": ["a tː e n t s j o n a t o"],
-  "attenzione": ["a tː e n t s j o n e"],
-  "attenzioni": ["a tː e n t s j o n i"],
-  "attergare": ["a tː e r ɡ a r e"],
-  "atteri": ["a tː e r i"],
-  "atterige": ["a tː ɛ r i d ʒ e"],
-  "atterigi": ["a tː ɛ r i d ʒ i"],
-  "atterigide": ["a tː e r i d ʒ i d e"],
-  "atterigidi": ["a tː e r i d ʒ i d i"],
-  "atterigiforme": ["a tː e r i d ʒ i f o r m e"],
-  "atterigiformi": ["a tː e r i d ʒ i f o r m i"],
-  "atterigote": ["a tː e r i ɡ ɔ t e"],
-  "atterigoti": ["a tː e r i ɡ ɔ t i"],
-  "attero": ["a tː e r o"],
-  "atterraggi": ["a tː e rː a dː ʒ i"],
-  "atterraggio": ["a tː e rː a dː ʒ o"],
-  "atterrare": ["a tː e rː a r e", "a tː ɛ rː a r e"],
-  "atterrato": ["a tː e rː a t o", "a tː ɛ rː a t o"],
-  "atterrigoti": ["a tː e r i ɡ ɔ t i"],
-  "atterrire": ["a tː e rː i r e"],
-  "atterrirsi": ["a tː e rː i r s i"],
-  "atterrito": ["a tː e rː i t o"],
-  "atterzare": ["a tː e r t s a r e"],
-  "atterzato": ["a tː e r t s a t o"],
-  "attesa": ["a tː e s a", "a tː e z a"],
-  "attese": ["a tː e s e"],
-  "attesi": ["a tː e s i"],
-  "attesismi": ["a tː e s i z m i"],
-  "attesismo": ["a tː e s i z m o"],
-  "attesissima": ["a tː e s i sː i m a"],
-  "attesissime": ["a tː e s i sː i m e"],
-  "attesissimi": ["a tː e s i sː i m i"],
-  "attesissimo": ["a tː e s i sː i m o"],
-  "attesista": ["a tː e s i s t a"],
-  "attesiste": ["a tː e s i s t e"],
-  "attesisti": ["a tː e s i s t i"],
-  "atteso": ["a tː e s o", "a tː e z o"],
-  "attestabile": ["a tː e s t a b i l e"],
-  "attestabili": ["a tː e s t a b i l i"],
-  "attestante": ["a tː e s t a n t e"],
-  "attestare": ["a tː e s t a r e"],
-  "attestata": ["a tː e s t a t a"],
-  "attestate": ["a tː e s t a t e"],
-  "attestati": ["a tː e s t a t i"],
-  "attestato": ["a tː e s t a t o"],
-  "attestazione": ["a tː e s t a tː s i o n e", "a tː e s t a tː s j o n e"],
-  "attestazioni": ["a tː e s t a tː s i o n i", "a tː e s t a tː s j o n i"],
-  "atticciato": ["a tː i tː ʃ a t o"],
-  "attico": ["a tː i k o"],
-  "attiguità": ["a tː i ɡ u i t a"],
-  "attiguo": ["a tː i ɡ w o"],
-  "attillare": ["a tː i lː a r e"],
-  "attillatezza": ["a tː i lː a t e tː s a"],
-  "attillato": ["a tː i lː a t o"],
-  "attillatura": ["a tː i lː a t u r a"],
-  "attimi": ["a tː i m i"],
-  "attimo": ["a tː i m o"],
-  "attinente": ["a tː i n ɛ n t e"],
-  "attinenza": ["a tː i n ɛ n t s a"],
-  "attingere": ["a tː i n d ʒ e r e"],
-  "attinia": ["a tː i n j a"],
-  "attinica": ["a tː i n i k a"],
-  "attiniche": ["a tː i n i k e"],
-  "attinico": ["a tː i n i k o"],
-  "attinide": ["a tː i n i d e"],
-  "attinie": ["a tː i n j e"],
-  "attinio": ["a tː i n j o"],
-  "attinto": ["a tː i n t o"],
-  "attira": ["a tː i r a"],
-  "attirai": ["a tː i r a i"],
-  "attirammo": ["a tː i r a mː o"],
-  "attirando": ["a tː i r a n d o"],
-  "attirano": ["a tː i r a n o"],
-  "attirante": ["a tː i r a n t e"],
-  "attiranti": ["a tː i r a n t i"],
-  "attirare": ["a tː i r a r e"],
-  "attirarono": ["a tː i r a r o n o"],
-  "attirasse": ["a tː i r a sː e"],
-  "attirassero": ["a tː i r a sː e r o"],
-  "attirassi": ["a tː i r a sː i"],
-  "attirassimo": ["a tː i r a sː i m o"],
-  "attiraste": ["a tː i r a s t e"],
-  "attirasti": ["a tː i r a s t i"],
-  "attirata": ["a tː i r a t a"],
-  "attirate": ["a tː i r a t e"],
-  "attirati": ["a tː i r a t i"],
-  "attirato": ["a tː i r a t o"],
-  "attirava": ["a tː i r a v a"],
-  "attiravamo": ["a tː i r a v a m o"],
-  "attiravano": ["a tː i r a v a n o"],
-  "attiravate": ["a tː i r a v a t e"],
-  "attiravi": ["a tː i r a v i"],
-  "attiravo": ["a tː i r a v o"],
-  "attirerà": ["a tː i r e r a"],
-  "attirerai": ["a tː i r e r a i"],
-  "attireranno": ["a tː i r e r a nː o"],
-  "attirerebbe": ["a tː i r e r e bː e"],
-  "attirerebbero": ["a tː i r e r e bː e r o"],
-  "attirerei": ["a tː i r e r e i"],
-  "attireremmo": ["a tː i r e r e mː o"],
-  "attireremo": ["a tː i r e r e m o"],
-  "attirereste": ["a tː i r e r e s t e"],
-  "attireresti": ["a tː i r e r e s t i"],
-  "attirerete": ["a tː i r e r e t e"],
-  "attirerò": ["a tː i r e r o"],
-  "attiri": ["a tː i r i"],
-  "attiriamo": ["a tː i r j a m o"],
-  "attiriate": ["a tː i r j a t e"],
-  "attirino": ["a tː i r i n o"],
-  "attiro": ["a tː i r o"],
-  "attirò": ["a tː i r o"],
-  "attitudinale": ["a tː i t u d i n a l e"],
-  "attitudine": ["a tː i t u d i n e"],
-  "attiva": ["a tː i v a"],
-  "attivabile": ["a tː i v a b i l e"],
-  "attivabili": ["a tː i v a b i l i"],
-  "attivamente": ["a tː i v a m e n t e"],
-  "attivante": ["a tː i v a n t e"],
-  "attivanti": ["a tː i v a n t i"],
-  "attivare": ["a tː i v a r e"],
-  "attivarsi": ["a tː i v a r s i"],
-  "attivato": ["a tː i v a t o"],
-  "attivatore": ["a tː i v a t o r e"],
-  "attivatori": ["a tː i v a t o r i"],
-  "attivatrice": ["a tː i v a t r i t ʃ e"],
-  "attivatrici": ["a tː i v a t r i t ʃ i"],
-  "attivazione": ["a tː i v a t s j o n e", "r a d j o a tː i v a tː s j o n e"],
-  "attivazioni": ["a tː i v a t s j o n i"],
-  "attive": ["a tː i v e"],
-  "attivi": ["a tː i v i"],
-  "attivismi": ["a tː i v i z m i"],
-  "attivismo": ["a tː i v i z m o"],
-  "attivista": ["a tː i v i s t a"],
-  "attiviste": ["a tː i v i s t e"],
-  "attivisti": ["a tː i v i s t i"],
-  "attivistica": ["a tː i v i s t i k a"],
-  "attivistiche": ["a tː i v i s t i k e"],
-  "attivistici": ["a tː i v i s t i t ʃ i"],
-  "attivistico": ["a tː i v i s t i k o"],
-  "attività": ["a tː i v i t a"],
-  "attivo": ["a tː i v o"],
-  "attizzare": ["a tː i dː z a r e", "a tː i t s a r e"],
-  "attizzatoio": ["a tː i tː s a t o j o"],
-  "atto": ["a tː o"],
-  "attollere": ["a tː ɔ lː e r e"],
-  "attonitamente": ["a tː o n i t a m e n t e"],
-  "attonito": ["a tː ɔ n i t o"],
-  "attorcere": ["a tː ɔ r t ʃ e r e"],
-  "attorcigliare": ["a tː o r t ʃ i ʎ a r e"],
-  "attorcigliarsi": ["a tː o r t ʃ i ʎ a r s i"],
-  "attorcigliato": ["a tː o r t ʃ i ʎ a t o"],
-  "attore": ["a tː o r e"],
-  "attori": ["a tː o r i"],
-  "attorniare": ["a tː o r n j a r e"],
-  "attorno": ["a tː o r n o"],
-  "attosecondo": ["a tː o s e k o n d o"],
-  "attovagliarsi": ["a tː o v a ʎ a r s i"],
-  "attraccare": ["a tː r a kː a r e"],
-  "attracchi": ["a tː r a kː i"],
-  "attracco": ["a tː r a kː o"],
-  "attrae": ["a tː r a e"],
-  "attraemmo": ["a tː r a e mː o"],
-  "attraendo": ["a tː r a e n d o"],
-  "attraente": ["a tː r a e n t e", "a tː r a ɛ n t e"],
-  "attraenti": ["a tː r a ɛ n t i"],
-  "attraentissima": ["a tː r a ɛ n t i sː i m a"],
-  "attraentissime": ["a tː r a ɛ n t i sː i m e"],
-  "attraentissimi": ["a tː r a ɛ n t i sː i m i"],
-  "attraentissimo": ["a tː r a ɛ n t i sː i m o"],
-  "attraesse": ["a tː r a e sː e"],
-  "attraessero": ["a tː r a e sː e r o"],
-  "attraessi": ["a tː r a e sː i"],
-  "attraessimo": ["a tː r a e sː i m o"],
-  "attraeste": ["a tː r a e s t e"],
-  "attraesti": ["a tː r a e s t i"],
-  "attraete": ["a tː r a e t e"],
-  "attraeva": ["a tː r a e v a"],
-  "attraevamo": ["a tː r a e v a m o"],
-  "attraevano": ["a tː r a e v a n o"],
-  "attraevate": ["a tː r a e v a t e"],
-  "attraevi": ["a tː r a e v i"],
-  "attraevo": ["a tː r a e v o"],
-  "attragga": ["a tː r a ɡː a"],
-  "attraggano": ["a tː r a ɡː a n o"],
-  "attraggo": ["a tː r a ɡː o"],
-  "attraggono": ["a tː r a ɡː o n o"],
-  "attrai": ["a tː r a i"],
-  "attraiamo": ["a tː r a j a m o"],
-  "attraiate": ["a tː r a j a t e"],
-  "attrappare": ["a tː r a pː a r e"],
-  "attrapparsi": ["a tː r a pː a r s i"],
-  "attrarrà": ["a tː r a rː a"],
-  "attrarrai": ["a tː r a rː a i"],
-  "attrarranno": ["a tː r a rː a nː o"],
-  "attrarre": ["a tː r a rː e"],
-  "attrarrebbe": ["a tː r a rː e bː e"],
-  "attrarrebbero": ["a tː r a rː e bː e r o"],
-  "attrarrei": ["a tː r a rː e i"],
-  "attrarremmo": ["a tː r a rː e m o"],
-  "attrarremo": ["a tː r a rː e m o"],
-  "attrarreste": ["a tː r a rː e s t e"],
-  "attrarresti": ["a tː r a rː e s t i"],
-  "attrarrete": ["a tː r a rː e t e"],
-  "attrarrò": ["a tː r a rː o"],
-  "attrarsi": ["a tː r a r s i"],
-  "attrasse": ["a tː r a sː e"],
-  "attrassero": ["a tː r a sː e r o"],
-  "attrassi": ["a tː r a sː i"],
-  "attratta": ["a tː r a tː a"],
-  "attratte": ["a tː r a tː e"],
-  "attratti": ["a tː r a tː i"],
-  "attrattiva": ["a tː r a tː i v a"],
-  "attrattivamente": ["a tː r a tː i v a m e n t e"],
-  "attrattive": ["a tː r a tː i v e"],
-  "attrattivi": ["a tː r a tː i v i"],
-  "attrattività": ["a tː r a tː i v i t a"],
-  "attrattivo": ["a tː r a tː i v o"],
-  "attratto": ["a tː r a tː o"],
-  "attraversabile": ["a tː r a v e r s a b i l e"],
-  "attraversabili": ["a tː r a v e r s a b i l i"],
-  "attraversamento": ["a tː r a v e r s a m e n t o"],
-  "attraversante": ["a tː r a v ɛ r s a n t e"],
-  "attraversare": ["a tː r a v e r s a r e", "a tː r a v ɛ r s a r e"],
-  "attraversato": ["a tː r a v ɛ r s a t o"],
-  "attraverserò": ["a tː r a v e r s e r ɔ"],
-  "attraverso": ["a tː r a v ɛ r s ɔ"],
-  "attrazione": ["a tː r a t s j o n e"],
-  "attrazzo": ["a tː r a tː s o"],
-  "attrezzante": ["a tː r e tː z a n t e"],
-  "attrezzare": ["a tː r e tː s a r e", "a tː r e tː z a r e"],
-  "attrezzarsi": ["a tː r e tː s a r s i"],
-  "attrezzata": ["a tː r e tː s a t a", "a tː r e tː s a t o"],
-  "attrezzate": ["a tː r e tː s a t e"],
-  "attrezzati": ["a tː r e tː s a t i"],
-  "attrezzato": ["a tː r e tː s a t o"],
-  "attrezzatura": ["a tː r e tː s a t u r a"],
-  "attrezzature": ["a tː r e tː s a t u r e"],
-  "attrezzi": ["a tː r e tː s i"],
-  "attrezzista": ["a tː r e tː s i s t a", "a tː r e z z i s t a"],
-  "attrezziste": ["a tː r e z z i s t e"],
-  "attrezzisti": ["a tː r e z z i s t i"],
-  "attrezzo": ["a tː r e tː s o"],
-  "attribuente": ["a tː r i b u e n t e"],
-  "attribuibile": ["a tː r i b u i b i l e"],
-  "attribuibili": ["a tː r i b u i b i l i"],
-  "attribuire": ["a tː r i b u i r e"],
-  "attribuirsi": ["a tː r i b u i r s i"],
-  "attribuito": ["a tː r i b u i t o"],
-  "attributi": ["a tː r i b u t o"],
-  "attributiva": ["a tː r i b u t i v a"],
-  "attributive": ["a tː r i b u t i v e"],
-  "attributivi": ["a tː r i b u t i v i"],
-  "attributivo": ["a tː r i b u t i v o"],
-  "attributo": ["a tː r i b u t o"],
-  "attribuzione": ["a tː r i b u t s j o n e"],
-  "attribuzioni": ["a tː r i b u t s j o n i"],
-  "attrice": ["a tː r i t ʃ e"],
-  "attricetta": ["a tː r i t ʃ e tː a"],
-  "attrici": ["a tː r i t ʃ i"],
-  "attriti": ["a tː r i t i"],
-  "attrito": ["a tː r i t o"],
-  "attroncare": ["a tː r o n k a r e"],
-  "attuabile": ["a tː u a b i l e"],
-  "attuale": ["a tː u a l e", "a tː w a l e"],
-  "attuali": ["a tː u a l i"],
-  "attualismi": ["a tː u a l i z m i"],
-  "attualismo": ["a tː u a l i z m o"],
-  "attualità": ["a tː u a l i t a", "a tː w a l i t a"],
-  "attualizzante": ["a tː w a l i dː ʒ a n t e"],
-  "attualizzare": ["a tː u a l i dː z a r e", "a tː w a l i dː z a r e", "a tː w a l i dː ʒ a r e"],
-  "attualizzata": ["a tː w a l i dː ʒ a t a"],
-  "attualizzate": ["a tː w a l i dː ʒ a t e"],
-  "attualizzati": ["a tː w a l i dː ʒ a t i"],
-  "attualizzato": ["a tː w a l i dː ʒ a t o"],
-  "attualmente": ["a tː u a l m e n t e"],
-  "attuare": ["a tː w a r e"],
-  "attuariale": ["a tː u a r j a l e"],
-  "attuario": ["a tː u a r j o"],
-  "attuato": ["a tː u a t o"],
-  "attuazione": ["a tː u a tː s j o n e"],
-  "attuffare": ["a tː u fː a r e"],
-  "attutire": ["a tː u t i r e"],
-  "attutito": ["a tː u t i t o"],
-  "aucuba": ["a w k u b a"],
-  "audace": ["a w d a t ʃ e"],
-  "audacemente": ["a w d a t ʃ e m e n t e"],
-  "audaci": ["a w d a t ʃ i"],
-  "audacia": ["a w d a t ʃ a"],
-  "audacie": ["a w d a t ʃ e"],
-  "audacissima": ["a w d a t ʃ i sː i m a"],
-  "audacissime": ["a w d a t ʃ i sː i m e"],
-  "audacissimi": ["a w d a t ʃ i sː i m i"],
-  "audacissimo": ["a w d a t ʃ i sː i m o"],
-  "audience": ["ɔ d j e n s"],
-  "audio": ["a u d j o"],
-  "audiocassetta": ["a w d j o k a sː e tː a"],
-  "audioleso": ["a w d j o l e z o"],
-  "audiolibri": ["a w d j o l i b r i"],
-  "audiolibro": ["a w d j o l i b r o"],
-  "audiologia": ["a w d j o l o d ʒ i a"],
-  "audiologica": ["a w d j o l ɔ d ʒ i k a"],
-  "audiologiche": ["a w d j o l ɔ d ʒ i k e"],
-  "audiologici": ["a w d j o l ɔ d ʒ i t ʃ i"],
-  "audiologico": ["a w d j o l ɔ d ʒ i k o"],
-  "audiometria": ["a w d j o m e t r i a"],
-  "audiometrista": ["a w d j o m e t r i s t a"],
-  "audiometriste": ["a w d j o m e t r i s t e"],
-  "audiometristi": ["a w d j o m e t r i s t i"],
-  "audiometro": ["a w d j ɔ m e t r o"],
-  "audiopatia": ["a w d j o p a t i a"],
-  "audioprotesista": ["a u d j o p r ɔ t e z i s t a"],
-  "audioprotesiste": ["a u d j o p r ɔ t e z i s t e"],
-  "audioprotesisti": ["a u d j o p r ɔ t e z i s t i"],
-  "audiovisivo": ["a w d j o v i z i v o"],
-  "audit": ["a w d i t"],
-  "auditive": ["a u d i t i v e"],
-  "auditore": ["a w d i t o r e"],
-  "auditorio": ["a w d i t ɔ r j o"],
-  "auditorium": ["a w d i t ɔ r j u m"],
-  "audizione": ["a u d i t s j o n e", "a w d i tː s j o n e"],
-  "audizioni": ["a u d i t s j o n e"],
-  "auffa": ["a u fː a"],
-  "auge": ["a w d ʒ e"],
-  "augello": ["a w d ʒ ɛ lː o"],
-  "augi": ["a w d ʒ i"],
-  "augura": ["a u ɡ u r a"],
-  "augurabile": ["a w ɡ u r a b i l e"],
-  "augurabili": ["a w ɡ u r a b i l i"],
-  "augurai": ["a u ɡ u r a i"],
-  "augurammo": ["a u ɡ u r a mː o"],
-  "augurando": ["a u ɡ u r a n d o"],
-  "augurano": ["a u ɡ u r a n o"],
-  "augurante": ["a u ɡ u r a n t e"],
-  "augurare": ["a u ɡ u r a r e", "a w ɡ u r a r e"],
-  "augurarono": ["a u ɡ u r a r o n o"],
-  "augurarsi": ["a w ɡ u r a r s"],
-  "augurassero": ["a u ɡ u r a sː e r o"],
-  "augurassi": ["a u ɡ u r a sː i"],
-  "augurassimo": ["a u ɡ u r a sː e"],
-  "auguraste": ["a u ɡ u r a s t e"],
-  "augurasti": ["a u ɡ u r a s t i"],
-  "augurata": ["a u ɡ u r a t a"],
-  "augurate": ["a u ɡ u r a t e"],
-  "augurati": ["a u ɡ u r a t i"],
-  "augurato": ["a u ɡ u r a t o"],
-  "augurava": ["a u ɡ u r a v a"],
-  "auguravamo": ["a u ɡ u r a v a m o"],
-  "auguravano": ["a u ɡ u r a v a n o"],
-  "auguravate": ["a u ɡ u r a v a t e"],
-  "auguravi": ["a u ɡ u r a v i"],
-  "auguravo": ["a u ɡ u r a v o"],
-  "augure": ["a u ɡ u r e", "a w ɡ u r e"],
-  "augurerà": ["a u ɡ u r e r a"],
-  "augurerai": ["a u ɡ u r e r a i"],
-  "augureranno": ["a u ɡ u r e r a nː o"],
-  "augurerebbe": ["a u ɡ u r e r e bː e"],
-  "augurerebbero": ["a u ɡ u r e r e bː e r o"],
-  "augurerei": ["a u ɡ u r e r e i"],
-  "augureremmo": ["a u ɡ u r e r e mː o"],
-  "augureremo": ["a u ɡ u r e r e m o"],
-  "augurereste": ["a u ɡ u r e r e s t e"],
-  "augureresti": ["a u ɡ u r e r e s t i"],
-  "augurerete": ["a u ɡ u r e r e t e"],
-  "augurerò": ["a u ɡ u r e r o"],
-  "auguri": ["a u ɡ u r i"],
-  "auguriamo": ["a u ɡ u r j a m o"],
-  "auguriate": ["a u ɡ u r j a t e"],
-  "augurino": ["a u ɡ u r i n o"],
-  "augurio": ["a u ɡ u r j o"],
-  "auguro": ["a u ɡ u r o"],
-  "augurò": ["a u ɡ u r o"],
-  "augusta": ["a u ɡ u s t a"],
-  "auguste": ["a u ɡ u s t e"],
-  "augusteo": ["a w ɡ u s t ɛ o"],
-  "augusti": ["a u ɡ u s t i"],
-  "augusto": ["a u ɡ u s t o", "a w ɡ u s t o"],
-  "aula": ["a u l a"],
-  "auledo": ["a w l ɛ d o"],
-  "aulente": ["a w l ɛ n t e"],
-  "aulentissimo": ["a u l e n t i sː i m o"],
-  "aulete": ["a u l ɛ t e", "a w l ɛ t e"],
-  "auleti": ["a u l ɛ t i"],
-  "auletride": ["a u l ɛ t r i d e"],
-  "auletridi": ["a u l ɛ t r i d i"],
-  "aulico": ["a w l i k o"],
-  "aulire": ["a w l i r e"],
-  "aulore": ["a w l o r e"],
-  "auloroso": ["a w l o r o z o"],
-  "aulos": ["a w l o s"],
-  "aumenta": ["a u m e n t a"],
-  "aumentai": ["a u m e n t a i"],
-  "aumentammo": ["a u m e n t a mː o"],
-  "aumentando": ["a u m e n t a n d o"],
-  "aumentano": ["a u m e n t a n o"],
-  "aumentante": ["a u m e n t a n t e"],
-  "aumentare": ["a u m e n t a r e"],
-  "aumentarono": ["a u m e n t a r o n o"],
-  "aumentasse": ["a u m e n t a sː e"],
-  "aumentassero": ["a u m e n t a sː e r o"],
-  "aumentassi": ["a u m e n t a sː i"],
-  "aumentassimo": ["a u m e n t a sː i m o"],
-  "aumentaste": ["a u m e n t a s t e"],
-  "aumentasti": ["a u m e n t a s t i"],
-  "aumentate": ["a u m e n t a t e"],
-  "aumentato": ["a u m e n t a t o"],
-  "aumentava": ["a u m e n t a v a"],
-  "aumentavamo": ["a u m e n t a v a m o"],
-  "aumentavano": ["a u m e n t a v a n o"],
-  "aumentavate": ["a u m e n t a v a t e"],
-  "aumentavi": ["a u m e n t a v i"],
-  "aumentavo": ["a u m e n t a v o"],
-  "aumenterà": ["a u m e n t e r a"],
-  "aumenterai": ["a u m e n t e r a i"],
-  "aumenteranno": ["a u m e n t e r a nː o"],
-  "aumenterebbe": ["a u m e n t e r e bː e"],
-  "aumenterebbero": ["a u m e n t e r e bː e r o"],
-  "aumenterei": ["a u m e n t e r e i"],
-  "aumenteremmo": ["a u m e n t e r e mː o"],
-  "aumenteremo": ["a u m e n t e r e m o"],
-  "aumentereste": ["a u m e n t e r e s t e"],
-  "aumenteresti": ["a u m e n t e r e s t i"],
-  "aumenterete": ["a u m e n t e r e t e"],
-  "aumenterò": ["a u m e n t e r o"],
-  "aumenti": ["a u m e n t i"],
-  "aumentiamo": ["a u m e n t j a m o"],
-  "aumentiate": ["a u m e n t j a t e"],
-  "aumentino": ["a u m e n t i n o"],
-  "aumento": ["a u m e n t o"],
-  "aumentò": ["a u m e n t o"],
-  "aumiliare": ["a u m i l j a r e"],
-  "aura": ["a u r a"],
-  "aurale": ["a w r a l e"],
-  "auraticità": ["a u r a t i t ʃ i t a"],
-  "auratico": ["a u r a t i k o"],
-  "aure": ["a u r e"],
-  "aurelio": ["a w r ɛ l j o"],
-  "aureo": ["a w r e o"],
-  "aureola": ["a u r ɛ o l a", "a w r ɛ o l a"],
-  "aureole": ["a u r ɛ o l e"],
-  "aurica": ["a u r i k a"],
-  "auriche": ["a u r i k e"],
-  "aurici": ["a u r i t ʃ i"],
-  "aurico": ["a u r i k o"],
-  "auricolare": ["a w r i k o l a r e"]
+  "attenta": [
+    "atːenta",
+    "atːɛnta"
+  ],
+  "attentai": [
+    "atːɛntai"
+  ],
+  "attentamente": [
+    "atːentamente"
+  ],
+  "attentammo": [
+    "atːɛntamːo"
+  ],
+  "attentando": [
+    "atːɛntando"
+  ],
+  "attentano": [
+    "atːɛntano"
+  ],
+  "attentante": [
+    "atːɛntante"
+  ],
+  "attentare": [
+    "atːentare",
+    "atːɛntare"
+  ],
+  "attentarono": [
+    "atːɛntarono"
+  ],
+  "attentarsi": [
+    "atːentarsi"
+  ],
+  "attentasse": [
+    "atːɛntasːe"
+  ],
+  "attentassero": [
+    "atːɛntasːero"
+  ],
+  "attentassi": [
+    "atːɛntasːi"
+  ],
+  "attentassimo": [
+    "atːɛntasːimo"
+  ],
+  "attentaste": [
+    "atːɛntaste"
+  ],
+  "attentasti": [
+    "atːɛntasti"
+  ],
+  "attentate": [
+    "atːɛntate"
+  ],
+  "attentati": [
+    "atːɛntati"
+  ],
+  "attentato": [
+    "atːentato",
+    "atːɛntato",
+    "atːɛntatɔ"
+  ],
+  "attentatore": [
+    "atːentatore",
+    "atːɛntatore"
+  ],
+  "attentatori": [
+    "atːɛntatori"
+  ],
+  "attentatrice": [
+    "atːɛntatritʃe"
+  ],
+  "attentatrici": [
+    "atːɛntatritʃi"
+  ],
+  "attentava": [
+    "atːɛntava"
+  ],
+  "attentavamo": [
+    "atːɛntavamo"
+  ],
+  "attentavano": [
+    "atːɛntavano"
+  ],
+  "attentavate": [
+    "atːɛntavate"
+  ],
+  "attentavi": [
+    "atːɛntavi"
+  ],
+  "attentavo": [
+    "atːɛntavo"
+  ],
+  "attente": [
+    "atːente",
+    "atːɛnte"
+  ],
+  "attenterà": [
+    "atːɛntera"
+  ],
+  "attenterai": [
+    "atːɛnterai"
+  ],
+  "attenteranno": [
+    "atːɛnteranːo"
+  ],
+  "attenterebbe": [
+    "atːɛnterebːe"
+  ],
+  "attenterebbero": [
+    "atːɛnterebːero"
+  ],
+  "attenterei": [
+    "atːɛnterei"
+  ],
+  "attenteremmo": [
+    "atːɛnteremːo"
+  ],
+  "attenteremo": [
+    "atːɛnteremo"
+  ],
+  "attentereste": [
+    "atːɛntereste"
+  ],
+  "attenteresti": [
+    "atːɛnteresti"
+  ],
+  "attenterete": [
+    "atːɛnterete"
+  ],
+  "attenterò": [
+    "atːɛntero"
+  ],
+  "attenti": [
+    "atenti",
+    "atːɛnti"
+  ],
+  "attentiamo": [
+    "atːɛntjamo"
+  ],
+  "attentiate": [
+    "atːɛntjate"
+  ],
+  "attentino": [
+    "atːɛntino"
+  ],
+  "attento": [
+    "atːento",
+    "atːɛnto"
+  ],
+  "attentò": [
+    "atːɛnto"
+  ],
+  "attenuante": [
+    "atːenuante",
+    "atːenwante"
+  ],
+  "attenuanti": [
+    "atːenwanti"
+  ],
+  "attenuare": [
+    "atːenware"
+  ],
+  "attenuato": [
+    "atːenuato",
+    "atːenwato"
+  ],
+  "attenuatore": [
+    "atːenuatore"
+  ],
+  "attenuazione": [
+    "atːenuatːsjone"
+  ],
+  "attenuazioni": [
+    "atːenuatːsjoni"
+  ],
+  "attenzionare": [
+    "atːentsjonare"
+  ],
+  "attenzionato": [
+    "atːentsjonato"
+  ],
+  "attenzione": [
+    "atːentsjone"
+  ],
+  "attenzioni": [
+    "atːentsjoni"
+  ],
+  "attergare": [
+    "atːerɡare"
+  ],
+  "atteri": [
+    "atːeri"
+  ],
+  "atterige": [
+    "atːɛridʒe"
+  ],
+  "atterigi": [
+    "atːɛridʒi"
+  ],
+  "atterigide": [
+    "atːeridʒide"
+  ],
+  "atterigidi": [
+    "atːeridʒidi"
+  ],
+  "atterigiforme": [
+    "atːeridʒiforme"
+  ],
+  "atterigiformi": [
+    "atːeridʒiformi"
+  ],
+  "atterigote": [
+    "atːeriɡɔte"
+  ],
+  "atterigoti": [
+    "atːeriɡɔti"
+  ],
+  "attero": [
+    "atːero"
+  ],
+  "atterraggi": [
+    "atːerːadːʒi"
+  ],
+  "atterraggio": [
+    "atːerːadːʒo"
+  ],
+  "atterrare": [
+    "atːerːare",
+    "atːɛrːare"
+  ],
+  "atterrato": [
+    "atːerːato",
+    "atːɛrːato"
+  ],
+  "atterrigoti": [
+    "atːeriɡɔti"
+  ],
+  "atterrire": [
+    "atːerːire"
+  ],
+  "atterrirsi": [
+    "atːerːirsi"
+  ],
+  "atterrito": [
+    "atːerːito"
+  ],
+  "atterzare": [
+    "atːertsare"
+  ],
+  "atterzato": [
+    "atːertsato"
+  ],
+  "attesa": [
+    "atːesa",
+    "atːeza"
+  ],
+  "attese": [
+    "atːese"
+  ],
+  "attesi": [
+    "atːesi"
+  ],
+  "attesismi": [
+    "atːesizmi"
+  ],
+  "attesismo": [
+    "atːesizmo"
+  ],
+  "attesissima": [
+    "atːesisːima"
+  ],
+  "attesissime": [
+    "atːesisːime"
+  ],
+  "attesissimi": [
+    "atːesisːimi"
+  ],
+  "attesissimo": [
+    "atːesisːimo"
+  ],
+  "attesista": [
+    "atːesista"
+  ],
+  "attesiste": [
+    "atːesiste"
+  ],
+  "attesisti": [
+    "atːesisti"
+  ],
+  "atteso": [
+    "atːeso",
+    "atːezo"
+  ],
+  "attestabile": [
+    "atːestabile"
+  ],
+  "attestabili": [
+    "atːestabili"
+  ],
+  "attestante": [
+    "atːestante"
+  ],
+  "attestare": [
+    "atːestare"
+  ],
+  "attestata": [
+    "atːestata"
+  ],
+  "attestate": [
+    "atːestate"
+  ],
+  "attestati": [
+    "atːestati"
+  ],
+  "attestato": [
+    "atːestato"
+  ],
+  "attestazione": [
+    "atːestatːsione",
+    "atːestatːsjone"
+  ],
+  "attestazioni": [
+    "atːestatːsioni",
+    "atːestatːsjoni"
+  ],
+  "atticciato": [
+    "atːitːʃato"
+  ],
+  "attico": [
+    "atːiko"
+  ],
+  "attiguità": [
+    "atːiɡuita"
+  ],
+  "attiguo": [
+    "atːiɡwo"
+  ],
+  "attillare": [
+    "atːilːare"
+  ],
+  "attillatezza": [
+    "atːilːatetːsa"
+  ],
+  "attillato": [
+    "atːilːato"
+  ],
+  "attillatura": [
+    "atːilːatura"
+  ],
+  "attimi": [
+    "atːimi"
+  ],
+  "attimo": [
+    "atːimo"
+  ],
+  "attinente": [
+    "atːinɛnte"
+  ],
+  "attinenza": [
+    "atːinɛntsa"
+  ],
+  "attingere": [
+    "atːindʒere"
+  ],
+  "attinia": [
+    "atːinja"
+  ],
+  "attinica": [
+    "atːinika"
+  ],
+  "attiniche": [
+    "atːinike"
+  ],
+  "attinico": [
+    "atːiniko"
+  ],
+  "attinide": [
+    "atːinide"
+  ],
+  "attinie": [
+    "atːinje"
+  ],
+  "attinio": [
+    "atːinjo"
+  ],
+  "attinto": [
+    "atːinto"
+  ],
+  "attira": [
+    "atːira"
+  ],
+  "attirai": [
+    "atːirai"
+  ],
+  "attirammo": [
+    "atːiramːo"
+  ],
+  "attirando": [
+    "atːirando"
+  ],
+  "attirano": [
+    "atːirano"
+  ],
+  "attirante": [
+    "atːirante"
+  ],
+  "attiranti": [
+    "atːiranti"
+  ],
+  "attirare": [
+    "atːirare"
+  ],
+  "attirarono": [
+    "atːirarono"
+  ],
+  "attirasse": [
+    "atːirasːe"
+  ],
+  "attirassero": [
+    "atːirasːero"
+  ],
+  "attirassi": [
+    "atːirasːi"
+  ],
+  "attirassimo": [
+    "atːirasːimo"
+  ],
+  "attiraste": [
+    "atːiraste"
+  ],
+  "attirasti": [
+    "atːirasti"
+  ],
+  "attirata": [
+    "atːirata"
+  ],
+  "attirate": [
+    "atːirate"
+  ],
+  "attirati": [
+    "atːirati"
+  ],
+  "attirato": [
+    "atːirato"
+  ],
+  "attirava": [
+    "atːirava"
+  ],
+  "attiravamo": [
+    "atːiravamo"
+  ],
+  "attiravano": [
+    "atːiravano"
+  ],
+  "attiravate": [
+    "atːiravate"
+  ],
+  "attiravi": [
+    "atːiravi"
+  ],
+  "attiravo": [
+    "atːiravo"
+  ],
+  "attirerà": [
+    "atːirera"
+  ],
+  "attirerai": [
+    "atːirerai"
+  ],
+  "attireranno": [
+    "atːireranːo"
+  ],
+  "attirerebbe": [
+    "atːirerebːe"
+  ],
+  "attirerebbero": [
+    "atːirerebːero"
+  ],
+  "attirerei": [
+    "atːirerei"
+  ],
+  "attireremmo": [
+    "atːireremːo"
+  ],
+  "attireremo": [
+    "atːireremo"
+  ],
+  "attirereste": [
+    "atːirereste"
+  ],
+  "attireresti": [
+    "atːireresti"
+  ],
+  "attirerete": [
+    "atːirerete"
+  ],
+  "attirerò": [
+    "atːirero"
+  ],
+  "attiri": [
+    "atːiri"
+  ],
+  "attiriamo": [
+    "atːirjamo"
+  ],
+  "attiriate": [
+    "atːirjate"
+  ],
+  "attirino": [
+    "atːirino"
+  ],
+  "attiro": [
+    "atːiro"
+  ],
+  "attirò": [
+    "atːiro"
+  ],
+  "attitudinale": [
+    "atːitudinale"
+  ],
+  "attitudine": [
+    "atːitudine"
+  ],
+  "attiva": [
+    "atːiva"
+  ],
+  "attivabile": [
+    "atːivabile"
+  ],
+  "attivabili": [
+    "atːivabili"
+  ],
+  "attivamente": [
+    "atːivamente"
+  ],
+  "attivante": [
+    "atːivante"
+  ],
+  "attivanti": [
+    "atːivanti"
+  ],
+  "attivare": [
+    "atːivare"
+  ],
+  "attivarsi": [
+    "atːivarsi"
+  ],
+  "attivato": [
+    "atːivato"
+  ],
+  "attivatore": [
+    "atːivatore"
+  ],
+  "attivatori": [
+    "atːivatori"
+  ],
+  "attivatrice": [
+    "atːivatritʃe"
+  ],
+  "attivatrici": [
+    "atːivatritʃi"
+  ],
+  "attivazione": [
+    "atːivatsjone",
+    "radjoatːivatːsjone"
+  ],
+  "attivazioni": [
+    "atːivatsjoni"
+  ],
+  "attive": [
+    "atːive"
+  ],
+  "attivi": [
+    "atːivi"
+  ],
+  "attivismi": [
+    "atːivizmi"
+  ],
+  "attivismo": [
+    "atːivizmo"
+  ],
+  "attivista": [
+    "atːivista"
+  ],
+  "attiviste": [
+    "atːiviste"
+  ],
+  "attivisti": [
+    "atːivisti"
+  ],
+  "attivistica": [
+    "atːivistika"
+  ],
+  "attivistiche": [
+    "atːivistike"
+  ],
+  "attivistici": [
+    "atːivistitʃi"
+  ],
+  "attivistico": [
+    "atːivistiko"
+  ],
+  "attività": [
+    "atːivita"
+  ],
+  "attivo": [
+    "atːivo"
+  ],
+  "attizzare": [
+    "atːidːzare",
+    "atːitsare"
+  ],
+  "attizzatoio": [
+    "atːitːsatojo"
+  ],
+  "atto": [
+    "atːo"
+  ],
+  "attollere": [
+    "atːɔlːere"
+  ],
+  "attonitamente": [
+    "atːonitamente"
+  ],
+  "attonito": [
+    "atːɔnito"
+  ],
+  "attorcere": [
+    "atːɔrtʃere"
+  ],
+  "attorcigliare": [
+    "atːortʃiʎare"
+  ],
+  "attorcigliarsi": [
+    "atːortʃiʎarsi"
+  ],
+  "attorcigliato": [
+    "atːortʃiʎato"
+  ],
+  "attore": [
+    "atːore"
+  ],
+  "attori": [
+    "atːori"
+  ],
+  "attorniare": [
+    "atːornjare"
+  ],
+  "attorno": [
+    "atːorno"
+  ],
+  "attosecondo": [
+    "atːosekondo"
+  ],
+  "attovagliarsi": [
+    "atːovaʎarsi"
+  ],
+  "attraccare": [
+    "atːrakːare"
+  ],
+  "attracchi": [
+    "atːrakːi"
+  ],
+  "attracco": [
+    "atːrakːo"
+  ],
+  "attrae": [
+    "atːrae"
+  ],
+  "attraemmo": [
+    "atːraemːo"
+  ],
+  "attraendo": [
+    "atːraendo"
+  ],
+  "attraente": [
+    "atːraente",
+    "atːraɛnte"
+  ],
+  "attraenti": [
+    "atːraɛnti"
+  ],
+  "attraentissima": [
+    "atːraɛntisːima"
+  ],
+  "attraentissime": [
+    "atːraɛntisːime"
+  ],
+  "attraentissimi": [
+    "atːraɛntisːimi"
+  ],
+  "attraentissimo": [
+    "atːraɛntisːimo"
+  ],
+  "attraesse": [
+    "atːraesːe"
+  ],
+  "attraessero": [
+    "atːraesːero"
+  ],
+  "attraessi": [
+    "atːraesːi"
+  ],
+  "attraessimo": [
+    "atːraesːimo"
+  ],
+  "attraeste": [
+    "atːraeste"
+  ],
+  "attraesti": [
+    "atːraesti"
+  ],
+  "attraete": [
+    "atːraete"
+  ],
+  "attraeva": [
+    "atːraeva"
+  ],
+  "attraevamo": [
+    "atːraevamo"
+  ],
+  "attraevano": [
+    "atːraevano"
+  ],
+  "attraevate": [
+    "atːraevate"
+  ],
+  "attraevi": [
+    "atːraevi"
+  ],
+  "attraevo": [
+    "atːraevo"
+  ],
+  "attragga": [
+    "atːraɡːa"
+  ],
+  "attraggano": [
+    "atːraɡːano"
+  ],
+  "attraggo": [
+    "atːraɡːo"
+  ],
+  "attraggono": [
+    "atːraɡːono"
+  ],
+  "attrai": [
+    "atːrai"
+  ],
+  "attraiamo": [
+    "atːrajamo"
+  ],
+  "attraiate": [
+    "atːrajate"
+  ],
+  "attrappare": [
+    "atːrapːare"
+  ],
+  "attrapparsi": [
+    "atːrapːarsi"
+  ],
+  "attrarrà": [
+    "atːrarːa"
+  ],
+  "attrarrai": [
+    "atːrarːai"
+  ],
+  "attrarranno": [
+    "atːrarːanːo"
+  ],
+  "attrarre": [
+    "atːrarːe"
+  ],
+  "attrarrebbe": [
+    "atːrarːebːe"
+  ],
+  "attrarrebbero": [
+    "atːrarːebːero"
+  ],
+  "attrarrei": [
+    "atːrarːei"
+  ],
+  "attrarremmo": [
+    "atːrarːemo"
+  ],
+  "attrarremo": [
+    "atːrarːemo"
+  ],
+  "attrarreste": [
+    "atːrarːeste"
+  ],
+  "attrarresti": [
+    "atːrarːesti"
+  ],
+  "attrarrete": [
+    "atːrarːete"
+  ],
+  "attrarrò": [
+    "atːrarːo"
+  ],
+  "attrarsi": [
+    "atːrarsi"
+  ],
+  "attrasse": [
+    "atːrasːe"
+  ],
+  "attrassero": [
+    "atːrasːero"
+  ],
+  "attrassi": [
+    "atːrasːi"
+  ],
+  "attratta": [
+    "atːratːa"
+  ],
+  "attratte": [
+    "atːratːe"
+  ],
+  "attratti": [
+    "atːratːi"
+  ],
+  "attrattiva": [
+    "atːratːiva"
+  ],
+  "attrattivamente": [
+    "atːratːivamente"
+  ],
+  "attrattive": [
+    "atːratːive"
+  ],
+  "attrattivi": [
+    "atːratːivi"
+  ],
+  "attrattività": [
+    "atːratːivita"
+  ],
+  "attrattivo": [
+    "atːratːivo"
+  ],
+  "attratto": [
+    "atːratːo"
+  ],
+  "attraversabile": [
+    "atːraversabile"
+  ],
+  "attraversabili": [
+    "atːraversabili"
+  ],
+  "attraversamento": [
+    "atːraversamento"
+  ],
+  "attraversante": [
+    "atːravɛrsante"
+  ],
+  "attraversare": [
+    "atːraversare",
+    "atːravɛrsare"
+  ],
+  "attraversato": [
+    "atːravɛrsato"
+  ],
+  "attraverserò": [
+    "atːraverserɔ"
+  ],
+  "attraverso": [
+    "atːravɛrsɔ"
+  ],
+  "attrazione": [
+    "atːratsjone"
+  ],
+  "attrazzo": [
+    "atːratːso"
+  ],
+  "attrezzante": [
+    "atːretːzante"
+  ],
+  "attrezzare": [
+    "atːretːsare",
+    "atːretːzare"
+  ],
+  "attrezzarsi": [
+    "atːretːsarsi"
+  ],
+  "attrezzata": [
+    "atːretːsata",
+    "atːretːsato"
+  ],
+  "attrezzate": [
+    "atːretːsate"
+  ],
+  "attrezzati": [
+    "atːretːsati"
+  ],
+  "attrezzato": [
+    "atːretːsato"
+  ],
+  "attrezzatura": [
+    "atːretːsatura"
+  ],
+  "attrezzature": [
+    "atːretːsature"
+  ],
+  "attrezzi": [
+    "atːretːsi"
+  ],
+  "attrezzista": [
+    "atːretːsista",
+    "atːrezzista"
+  ],
+  "attrezziste": [
+    "atːrezziste"
+  ],
+  "attrezzisti": [
+    "atːrezzisti"
+  ],
+  "attrezzo": [
+    "atːretːso"
+  ],
+  "attribuente": [
+    "atːribuente"
+  ],
+  "attribuibile": [
+    "atːribuibile"
+  ],
+  "attribuibili": [
+    "atːribuibili"
+  ],
+  "attribuire": [
+    "atːribuire"
+  ],
+  "attribuirsi": [
+    "atːribuirsi"
+  ],
+  "attribuito": [
+    "atːribuito"
+  ],
+  "attributi": [
+    "atːributo"
+  ],
+  "attributiva": [
+    "atːributiva"
+  ],
+  "attributive": [
+    "atːributive"
+  ],
+  "attributivi": [
+    "atːributivi"
+  ],
+  "attributivo": [
+    "atːributivo"
+  ],
+  "attributo": [
+    "atːributo"
+  ],
+  "attribuzione": [
+    "atːributsjone"
+  ],
+  "attribuzioni": [
+    "atːributsjoni"
+  ],
+  "attrice": [
+    "atːritʃe"
+  ],
+  "attricetta": [
+    "atːritʃetːa"
+  ],
+  "attrici": [
+    "atːritʃi"
+  ],
+  "attriti": [
+    "atːriti"
+  ],
+  "attrito": [
+    "atːrito"
+  ],
+  "attroncare": [
+    "atːronkare"
+  ],
+  "attuabile": [
+    "atːuabile"
+  ],
+  "attuale": [
+    "atːuale",
+    "atːwale"
+  ],
+  "attuali": [
+    "atːuali"
+  ],
+  "attualismi": [
+    "atːualizmi"
+  ],
+  "attualismo": [
+    "atːualizmo"
+  ],
+  "attualità": [
+    "atːualita",
+    "atːwalita"
+  ],
+  "attualizzante": [
+    "atːwalidːʒante"
+  ],
+  "attualizzare": [
+    "atːualidːzare",
+    "atːwalidːzare",
+    "atːwalidːʒare"
+  ],
+  "attualizzata": [
+    "atːwalidːʒata"
+  ],
+  "attualizzate": [
+    "atːwalidːʒate"
+  ],
+  "attualizzati": [
+    "atːwalidːʒati"
+  ],
+  "attualizzato": [
+    "atːwalidːʒato"
+  ],
+  "attualmente": [
+    "atːualmente"
+  ],
+  "attuare": [
+    "atːware"
+  ],
+  "attuariale": [
+    "atːuarjale"
+  ],
+  "attuario": [
+    "atːuarjo"
+  ],
+  "attuato": [
+    "atːuato"
+  ],
+  "attuazione": [
+    "atːuatːsjone"
+  ],
+  "attuffare": [
+    "atːufːare"
+  ],
+  "attutire": [
+    "atːutire"
+  ],
+  "attutito": [
+    "atːutito"
+  ],
+  "aucuba": [
+    "awkuba"
+  ],
+  "audace": [
+    "awdatʃe"
+  ],
+  "audacemente": [
+    "awdatʃemente"
+  ],
+  "audaci": [
+    "awdatʃi"
+  ],
+  "audacia": [
+    "awdatʃa"
+  ],
+  "audacie": [
+    "awdatʃe"
+  ],
+  "audacissima": [
+    "awdatʃisːima"
+  ],
+  "audacissime": [
+    "awdatʃisːime"
+  ],
+  "audacissimi": [
+    "awdatʃisːimi"
+  ],
+  "audacissimo": [
+    "awdatʃisːimo"
+  ],
+  "audience": [
+    "ɔdjens"
+  ],
+  "audio": [
+    "audjo"
+  ],
+  "audiocassetta": [
+    "awdjokasːetːa"
+  ],
+  "audioleso": [
+    "awdjolezo"
+  ],
+  "audiolibri": [
+    "awdjolibri"
+  ],
+  "audiolibro": [
+    "awdjolibro"
+  ],
+  "audiologia": [
+    "awdjolodʒia"
+  ],
+  "audiologica": [
+    "awdjolɔdʒika"
+  ],
+  "audiologiche": [
+    "awdjolɔdʒike"
+  ],
+  "audiologici": [
+    "awdjolɔdʒitʃi"
+  ],
+  "audiologico": [
+    "awdjolɔdʒiko"
+  ],
+  "audiometria": [
+    "awdjometria"
+  ],
+  "audiometrista": [
+    "awdjometrista"
+  ],
+  "audiometriste": [
+    "awdjometriste"
+  ],
+  "audiometristi": [
+    "awdjometristi"
+  ],
+  "audiometro": [
+    "awdjɔmetro"
+  ],
+  "audiopatia": [
+    "awdjopatia"
+  ],
+  "audioprotesista": [
+    "audjoprɔtezista"
+  ],
+  "audioprotesiste": [
+    "audjoprɔteziste"
+  ],
+  "audioprotesisti": [
+    "audjoprɔtezisti"
+  ],
+  "audiovisivo": [
+    "awdjovizivo"
+  ],
+  "audit": [
+    "awdit"
+  ],
+  "auditive": [
+    "auditive"
+  ],
+  "auditore": [
+    "awditore"
+  ],
+  "auditorio": [
+    "awditɔrjo"
+  ],
+  "auditorium": [
+    "awditɔrjum"
+  ],
+  "audizione": [
+    "auditsjone",
+    "awditːsjone"
+  ],
+  "audizioni": [
+    "auditsjone"
+  ],
+  "auffa": [
+    "aufːa"
+  ],
+  "auge": [
+    "awdʒe"
+  ],
+  "augello": [
+    "awdʒɛlːo"
+  ],
+  "augi": [
+    "awdʒi"
+  ],
+  "augura": [
+    "auɡura"
+  ],
+  "augurabile": [
+    "awɡurabile"
+  ],
+  "augurabili": [
+    "awɡurabili"
+  ],
+  "augurai": [
+    "auɡurai"
+  ],
+  "augurammo": [
+    "auɡuramːo"
+  ],
+  "augurando": [
+    "auɡurando"
+  ],
+  "augurano": [
+    "auɡurano"
+  ],
+  "augurante": [
+    "auɡurante"
+  ],
+  "augurare": [
+    "auɡurare",
+    "awɡurare"
+  ],
+  "augurarono": [
+    "auɡurarono"
+  ],
+  "augurarsi": [
+    "awɡurars"
+  ],
+  "augurassero": [
+    "auɡurasːero"
+  ],
+  "augurassi": [
+    "auɡurasːi"
+  ],
+  "augurassimo": [
+    "auɡurasːe"
+  ],
+  "auguraste": [
+    "auɡuraste"
+  ],
+  "augurasti": [
+    "auɡurasti"
+  ],
+  "augurata": [
+    "auɡurata"
+  ],
+  "augurate": [
+    "auɡurate"
+  ],
+  "augurati": [
+    "auɡurati"
+  ],
+  "augurato": [
+    "auɡurato"
+  ],
+  "augurava": [
+    "auɡurava"
+  ],
+  "auguravamo": [
+    "auɡuravamo"
+  ],
+  "auguravano": [
+    "auɡuravano"
+  ],
+  "auguravate": [
+    "auɡuravate"
+  ],
+  "auguravi": [
+    "auɡuravi"
+  ],
+  "auguravo": [
+    "auɡuravo"
+  ],
+  "augure": [
+    "auɡure",
+    "awɡure"
+  ],
+  "augurerà": [
+    "auɡurera"
+  ],
+  "augurerai": [
+    "auɡurerai"
+  ],
+  "augureranno": [
+    "auɡureranːo"
+  ],
+  "augurerebbe": [
+    "auɡurerebːe"
+  ],
+  "augurerebbero": [
+    "auɡurerebːero"
+  ],
+  "augurerei": [
+    "auɡurerei"
+  ],
+  "augureremmo": [
+    "auɡureremːo"
+  ],
+  "augureremo": [
+    "auɡureremo"
+  ],
+  "augurereste": [
+    "auɡurereste"
+  ],
+  "augureresti": [
+    "auɡureresti"
+  ],
+  "augurerete": [
+    "auɡurerete"
+  ],
+  "augurerò": [
+    "auɡurero"
+  ],
+  "auguri": [
+    "auɡuri"
+  ],
+  "auguriamo": [
+    "auɡurjamo"
+  ],
+  "auguriate": [
+    "auɡurjate"
+  ],
+  "augurino": [
+    "auɡurino"
+  ],
+  "augurio": [
+    "auɡurjo"
+  ],
+  "auguro": [
+    "auɡuro"
+  ],
+  "augurò": [
+    "auɡuro"
+  ],
+  "augusta": [
+    "auɡusta"
+  ],
+  "auguste": [
+    "auɡuste"
+  ],
+  "augusteo": [
+    "awɡustɛo"
+  ],
+  "augusti": [
+    "auɡusti"
+  ],
+  "augusto": [
+    "auɡusto",
+    "awɡusto"
+  ],
+  "aula": [
+    "aula"
+  ],
+  "auledo": [
+    "awlɛdo"
+  ],
+  "aulente": [
+    "awlɛnte"
+  ],
+  "aulentissimo": [
+    "aulentisːimo"
+  ],
+  "aulete": [
+    "aulɛte",
+    "awlɛte"
+  ],
+  "auleti": [
+    "aulɛti"
+  ],
+  "auletride": [
+    "aulɛtride"
+  ],
+  "auletridi": [
+    "aulɛtridi"
+  ],
+  "aulico": [
+    "awliko"
+  ],
+  "aulire": [
+    "awlire"
+  ],
+  "aulore": [
+    "awlore"
+  ],
+  "auloroso": [
+    "awlorozo"
+  ],
+  "aulos": [
+    "awlos"
+  ],
+  "aumenta": [
+    "aumenta"
+  ],
+  "aumentai": [
+    "aumentai"
+  ],
+  "aumentammo": [
+    "aumentamːo"
+  ],
+  "aumentando": [
+    "aumentando"
+  ],
+  "aumentano": [
+    "aumentano"
+  ],
+  "aumentante": [
+    "aumentante"
+  ],
+  "aumentare": [
+    "aumentare"
+  ],
+  "aumentarono": [
+    "aumentarono"
+  ],
+  "aumentasse": [
+    "aumentasːe"
+  ],
+  "aumentassero": [
+    "aumentasːero"
+  ],
+  "aumentassi": [
+    "aumentasːi"
+  ],
+  "aumentassimo": [
+    "aumentasːimo"
+  ],
+  "aumentaste": [
+    "aumentaste"
+  ],
+  "aumentasti": [
+    "aumentasti"
+  ],
+  "aumentate": [
+    "aumentate"
+  ],
+  "aumentato": [
+    "aumentato"
+  ],
+  "aumentava": [
+    "aumentava"
+  ],
+  "aumentavamo": [
+    "aumentavamo"
+  ],
+  "aumentavano": [
+    "aumentavano"
+  ],
+  "aumentavate": [
+    "aumentavate"
+  ],
+  "aumentavi": [
+    "aumentavi"
+  ],
+  "aumentavo": [
+    "aumentavo"
+  ],
+  "aumenterà": [
+    "aumentera"
+  ],
+  "aumenterai": [
+    "aumenterai"
+  ],
+  "aumenteranno": [
+    "aumenteranːo"
+  ],
+  "aumenterebbe": [
+    "aumenterebːe"
+  ],
+  "aumenterebbero": [
+    "aumenterebːero"
+  ],
+  "aumenterei": [
+    "aumenterei"
+  ],
+  "aumenteremmo": [
+    "aumenteremːo"
+  ],
+  "aumenteremo": [
+    "aumenteremo"
+  ],
+  "aumentereste": [
+    "aumentereste"
+  ],
+  "aumenteresti": [
+    "aumenteresti"
+  ],
+  "aumenterete": [
+    "aumenterete"
+  ],
+  "aumenterò": [
+    "aumentero"
+  ],
+  "aumenti": [
+    "aumenti"
+  ],
+  "aumentiamo": [
+    "aumentjamo"
+  ],
+  "aumentiate": [
+    "aumentjate"
+  ],
+  "aumentino": [
+    "aumentino"
+  ],
+  "aumento": [
+    "aumento"
+  ],
+  "aumentò": [
+    "aumento"
+  ],
+  "aumiliare": [
+    "aumiljare"
+  ],
+  "aura": [
+    "aura"
+  ],
+  "aurale": [
+    "awrale"
+  ],
+  "auraticità": [
+    "auratitʃita"
+  ],
+  "auratico": [
+    "auratiko"
+  ],
+  "aure": [
+    "aure"
+  ],
+  "aurelio": [
+    "awrɛljo"
+  ],
+  "aureo": [
+    "awreo"
+  ],
+  "aureola": [
+    "aurɛola",
+    "awrɛola"
+  ],
+  "aureole": [
+    "aurɛole"
+  ],
+  "aurica": [
+    "aurika"
+  ],
+  "auriche": [
+    "aurike"
+  ],
+  "aurici": [
+    "auritʃi"
+  ],
+  "aurico": [
+    "auriko"
+  ],
+  "auricolare": [
+    "awrikolare"
+  ]
 }
