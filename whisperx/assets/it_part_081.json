@@ -1,1541 +1,541 @@
 {
-  "fazzoletto": [
-    "fatːsoletːo"
-  ],
-  "febbraio": [
-    "febːraio",
-    "febːrajo"
-  ],
-  "febbre": [
-    "fɛbːre"
-  ],
-  "febbri": [
-    "fɛbːri"
-  ],
-  "febbricola": [
-    "febːrikola"
-  ],
-  "febbrifuga": [
-    "febːrifuɡa"
-  ],
-  "febbrifughe": [
-    "febːrifuɡe"
-  ],
-  "febbrifughi": [
-    "febːrifuɡi"
-  ],
-  "febbrifugo": [
-    "febːrifuɡo"
-  ],
-  "febbrile": [
-    "febːrile"
-  ],
-  "febbrilmente": [
-    "febːrilmente"
-  ],
-  "febo": [
-    "fɛbo"
-  ],
-  "fecaio": [
-    "fekajo"
-  ],
-  "fecale": [
-    "fekale"
-  ],
-  "feccia": [
-    "fetːʃa",
-    "fɛtːʃa"
-  ],
-  "fece": [
-    "fetʃe"
-  ],
-  "fecero": [
-    "fetʃero"
-  ],
-  "feci": [
-    "fetʃi",
-    "fɛtʃi"
-  ],
-  "feconda": [
-    "fɛkɔnda"
-  ],
-  "fecondabile": [
-    "fekondabile"
-  ],
-  "fecondabili": [
-    "fekondabili"
-  ],
-  "fecondante": [
-    "fekɔndante"
-  ],
-  "fecondanti": [
-    "fekɔndanti"
-  ],
-  "fecondare": [
-    "fekondare",
-    "fekɔndare"
-  ],
-  "fecondativo": [
-    "fekondativo"
-  ],
-  "fecondato": [
-    "fekondato",
-    "fekɔndato"
-  ],
-  "fecondatore": [
-    "fekondatore"
-  ],
-  "fecondatori": [
-    "fekondatori"
-  ],
-  "fecondatrice": [
-    "fekondatritʃi"
-  ],
-  "fecondatrici": [
-    "fekondatritʃi"
-  ],
-  "fecondazione": [
-    "fekondatsjone",
-    "fekondatːsjone"
-  ],
-  "fecondazioni": [
-    "fekondatsjoni"
-  ],
-  "feconde": [
-    "fɛkɔnde"
-  ],
-  "fecondi": [
-    "fɛkɔndi"
-  ],
-  "fecondità": [
-    "fekondita"
-  ],
-  "fecondo": [
-    "fekondo",
-    "fɛkɔndo",
-    "fɛkɔndɔ"
-  ],
-  "feda": [
-    "fɛda"
-  ],
-  "fedai": [
-    "fedai"
-  ],
-  "fedammo": [
-    "fedamːo"
-  ],
-  "fedano": [
-    "fɛdano"
-  ],
-  "fedare": [
-    "fedare"
-  ],
-  "fedarono": [
-    "fedarono"
-  ],
-  "fedasse": [
-    "fedasːe"
-  ],
-  "fedassero": [
-    "fedasːero"
-  ],
-  "fedassi": [
-    "fedasːi"
-  ],
-  "fedassimo": [
-    "fedasːimo"
-  ],
-  "fedaste": [
-    "fedaste"
-  ],
-  "fedasti": [
-    "fedasti"
-  ],
-  "fedate": [
-    "fedate"
-  ],
-  "fedava": [
-    "fedava"
-  ],
-  "fedavamo": [
-    "fedavamo"
-  ],
-  "fedavano": [
-    "fedavano"
-  ],
-  "fedavate": [
-    "fedavate"
-  ],
-  "fedavi": [
-    "fedavi"
-  ],
-  "fedavo": [
-    "fedavo"
-  ],
-  "fede": [
-    "fede",
-    "fɛde"
-  ],
-  "fedecommessi": [
-    "fedekomːesːi"
-  ],
-  "fedecommesso": [
-    "fedekomːesːo"
-  ],
-  "fededegno": [
-    "fededeɲɲo"
-  ],
-  "fedele": [
-    "fedele",
-    "fɛdɛle"
-  ],
-  "fedeli": [
-    "fɛdɛle"
-  ],
-  "fedelmente": [
-    "fedelmente"
-  ],
-  "fedeltà": [
-    "fedelta"
-  ],
-  "federa": [
-    "fɛdera"
-  ],
-  "federà": [
-    "federa"
-  ],
-  "federai": [
-    "federai"
-  ],
-  "federale": [
-    "federale"
-  ],
-  "federali": [
-    "federali"
-  ],
-  "federalismi": [
-    "federalizmi"
-  ],
-  "federalismo": [
-    "federalizmo"
-  ],
-  "federalista": [
-    "federalista"
-  ],
-  "federaliste": [
-    "federaliste"
-  ],
-  "federalisti": [
-    "federalisti"
-  ],
-  "federalistico": [
-    "federalistiko"
-  ],
-  "federalmente": [
-    "federalmente"
-  ],
-  "federanno": [
-    "federanːo"
-  ],
-  "federante": [
-    "federante"
-  ],
-  "federare": [
-    "federare"
-  ],
-  "federarsi": [
-    "federarsi"
-  ],
-  "federate": [
-    "federate",
-    "federati"
-  ],
-  "federati": [
-    "federati"
-  ],
-  "federativo": [
-    "federativo"
-  ],
-  "federato": [
-    "federato"
-  ],
-  "federazione": [
-    "federatːsjone"
-  ],
-  "federebbe": [
-    "federebːe"
-  ],
-  "federebbero": [
-    "federebːero"
-  ],
-  "federei": [
-    "federɛi"
-  ],
-  "federemmo": [
-    "federemːo"
-  ],
-  "federemo": [
-    "federemo"
-  ],
-  "federeste": [
-    "federeste"
-  ],
-  "federesti": [
-    "federesti"
-  ],
-  "federete": [
-    "federete"
-  ],
-  "federiciano": [
-    "federitʃano"
-  ],
-  "federico": [
-    "federiko"
-  ],
-  "federigo": [
-    "federiɡo"
-  ],
-  "federò": [
-    "federɔ"
-  ],
-  "fedi": [
-    "fedi",
-    "fɛdi"
-  ],
-  "fediamo": [
-    "fedjamo"
-  ],
-  "fediate": [
-    "fedjate"
-  ],
-  "fedifrago": [
-    "fedifraɡo"
-  ],
-  "fedino": [
-    "fɛdino"
-  ],
-  "fedire": [
-    "fedire"
-  ],
-  "fedisci": [
-    "fediʃʃi"
-  ],
-  "fedisco": [
-    "fedisko"
-  ],
-  "fedo": [
-    "fɛdo"
-  ],
-  "fedò": [
-    "fedɔ"
-  ],
-  "fedrico": [
-    "fedriko"
-  ],
-  "fedro": [
-    "fɛdro"
-  ],
-  "feeling": [
-    "filinɡ",
-    "filiɲ"
-  ],
-  "fegati": [
-    "fɛɡati"
-  ],
-  "fegatino": [
-    "feɡatino"
-  ],
-  "fegato": [
-    "feɡato",
-    "fɛɡatɔ"
-  ],
-  "felce": [
-    "feltʃe"
-  ],
-  "feldispati": [
-    "feldispati"
-  ],
-  "feldispato": [
-    "feldispato"
-  ],
-  "feldmaresciallo": [
-    "fɛldmareʃʃalːo"
-  ],
-  "feldspati": [
-    "feldspati"
-  ],
-  "feldspato": [
-    "feldspato"
-  ],
-  "felice": [
-    "felitʃe"
-  ],
-  "felicemente": [
-    "felitʃemente"
-  ],
-  "felici": [
-    "felitʃi"
-  ],
-  "felicissima": [
-    "felitʃisːima"
-  ],
-  "felicissime": [
-    "felitʃisːime"
-  ],
-  "felicissimi": [
-    "felitʃisːimi"
-  ],
-  "felicissimo": [
-    "felitʃisːimo"
-  ],
-  "felicita": [
-    "felitʃita"
-  ],
-  "felicità": [
-    "felitʃita"
-  ],
-  "felicitante": [
-    "fɛlitʃitante"
-  ],
-  "felicitare": [
-    "fɛlitʃitare"
-  ],
-  "felicitarsi": [
-    "fɛlitʃitarsi"
-  ],
-  "felicitato": [
-    "fɛlitʃitato"
-  ],
-  "felide": [
-    "fɛlide"
-  ],
-  "felidi": [
-    "fɛlidi"
-  ],
-  "felina": [
-    "felina"
-  ],
-  "felini": [
-    "felini"
-  ],
-  "felino": [
-    "felino"
-  ],
-  "fellah": [
-    "felːa"
-  ],
-  "fellatio": [
-    "felːatːsjo"
-  ],
-  "fellazione": [
-    "felːatːsjone"
-  ],
-  "felliniano": [
-    "felːinjano"
-  ],
-  "fellone": [
-    "felːone"
-  ],
-  "fellonesco": [
-    "felːonesko"
-  ],
-  "fellonia": [
-    "felːonia"
-  ],
-  "felpa": [
-    "felpa"
-  ],
-  "felpato": [
-    "felpato"
-  ],
-  "felsineo": [
-    "felsineo"
-  ],
-  "feluca": [
-    "feluka"
-  ],
-  "feluche": [
-    "feluke"
-  ],
-  "femmicidio": [
-    "femːitʃidjo"
-  ],
-  "femmina": [
-    "femːina"
-  ],
-  "femminicidio": [
-    "femːinitʃidjo",
-    "femːinitʃidjɔ"
-  ],
-  "femminile": [
-    "femːinile"
-  ],
-  "femminili": [
-    "femːinili"
-  ],
-  "femminilità": [
-    "femːinilita"
-  ],
-  "femminilizzare": [
-    "femːinilidːzare"
-  ],
-  "femminilizzazione": [
-    "femːinilidːzatːsjone"
-  ],
-  "femminino": [
-    "femːinino"
-  ],
-  "femminismo": [
-    "femːinizmo"
-  ],
-  "femminista": [
-    "femːinista"
-  ],
-  "femministe": [
-    "femːiniste"
-  ],
-  "femministi": [
-    "femːinisti"
-  ],
-  "femminuccia": [
-    "femːinutːʃa"
-  ],
-  "femorale": [
-    "femorale"
-  ],
-  "femore": [
-    "fɛmore"
-  ],
-  "fendere": [
-    "fɛndere",
-    "fɛndɛre"
-  ],
-  "fendersi": [
-    "fɛndersi"
-  ],
-  "fenditura": [
-    "fenditura"
-  ],
-  "fenditure": [
-    "fenditure"
-  ],
-  "fenestrazione": [
-    "fenestratːjone"
-  ],
-  "fenestrazioni": [
-    "fenestratːjoni"
-  ],
-  "fengofobia": [
-    "fenɡofobia"
-  ],
-  "fenice": [
-    "fenitʃe"
-  ],
-  "fenici": [
-    "fenitʃi"
-  ],
-  "fenicio": [
-    "fenitʃo"
-  ],
-  "fenicotteri": [
-    "fenikɔtːeri"
-  ],
-  "fenicotteride": [
-    "fenikotːɛride"
-  ],
-  "fenicotteridi": [
-    "fenikotːɛridi"
-  ],
-  "fenicottero": [
-    "fenikɔtːero"
-  ],
-  "feniculide": [
-    "fenikulide"
-  ],
-  "feniculidi": [
-    "fenikulidi"
-  ],
-  "fenilalanina": [
-    "fenilalanina"
-  ],
-  "fenilammina": [
-    "fenileamːina"
-  ],
-  "fenolftaleina": [
-    "fenolftaleina"
-  ],
-  "fenolizzazione": [
-    "fenolidːzatːsjone"
-  ],
-  "fenolizzazioni": [
-    "fenolidːzatːsjoni"
-  ],
-  "fenolo": [
-    "fenɔlo"
-  ],
-  "fenologia": [
-    "fenolodʒia"
-  ],
-  "fenologica": [
-    "fenolɔdʒika"
-  ],
-  "fenologiche": [
-    "fenolɔdʒike"
-  ],
-  "fenologici": [
-    "fenolɔdʒitʃi"
-  ],
-  "fenologico": [
-    "fenolɔdʒiko"
-  ],
-  "fenomenale": [
-    "fenomenale"
-  ],
-  "fenomeni": [
-    "fenɔmeni"
-  ],
-  "fenomenico": [
-    "fenomɛniko"
-  ],
-  "fenomenismo": [
-    "fenomenizmo"
-  ],
-  "fenomenista": [
-    "fenomenista"
-  ],
-  "fenomeno": [
-    "fenɔmeno"
-  ],
-  "fenomenologia": [
-    "fenomenolodʒia"
-  ],
-  "fenomenologica": [
-    "fenomenolɔdʒia"
-  ],
-  "fenomenologiche": [
-    "fenomenolɔdʒie"
-  ],
-  "fenomenologici": [
-    "fenomenolɔdʒitʃi"
-  ],
-  "fenomenologico": [
-    "fenomenolɔdʒiko"
-  ],
-  "fenoplasto": [
-    "fenoplasto"
-  ],
-  "fenopolimorfismo": [
-    "fɛnopolimorfizmo"
-  ],
-  "fenotipico": [
-    "fenotipiko"
-  ],
-  "fenotipo": [
-    "fenotipo",
-    "fenɔtipo"
-  ],
-  "ferace": [
-    "feratʃe"
-  ],
-  "feracità": [
-    "feratʃita"
-  ],
-  "ferale": [
-    "ferale"
-  ],
-  "ferali": [
-    "ferali"
-  ],
-  "feramatore": [
-    "feramatore"
-  ],
-  "feramatori": [
-    "feramatori"
-  ],
-  "feramatrice": [
-    "feramatritʃe"
-  ],
-  "feramatrici": [
-    "feramatritʃi"
-  ],
-  "fercolo": [
-    "fɛrkolo"
-  ],
-  "ferendo": [
-    "ferendo"
-  ],
-  "ferente": [
-    "ferente",
-    "ferɛnte"
-  ],
-  "feretro": [
-    "fɛretro"
-  ],
-  "feriente": [
-    "ferjɛnte"
-  ],
-  "ferino": [
-    "ferino"
-  ],
-  "ferire": [
-    "ferire",
-    "fɛrire"
-  ],
-  "ferita": [
-    "ferita"
-  ],
-  "ferite": [
-    "ferite"
-  ],
-  "ferito": [
-    "ferito"
-  ],
-  "feritoie": [
-    "feritoje"
-  ],
-  "ferma": [
-    "ferma"
-  ],
-  "fermacarte": [
-    "fermakarte"
-  ],
-  "fermaglio": [
-    "fermaʎo"
-  ],
-  "fermai": [
-    "fermai"
-  ],
-  "fermamente": [
-    "fermamente"
-  ],
-  "fermanello": [
-    "fermanɛlːo"
-  ],
-  "fermano": [
-    "fermano"
-  ],
-  "fermaporta": [
-    "fermapɔrta"
-  ],
-  "fermare": [
-    "fermare",
-    "fɛrmare"
-  ],
-  "fermarsi": [
-    "fermarsi",
-    "fɛrmarsi"
-  ],
-  "fermasse": [
-    "fermasːe"
-  ],
-  "fermata": [
-    "fermata"
-  ],
-  "fermate": [
-    "fermate"
-  ],
-  "fermato": [
-    "fermato",
-    "fɛrmato"
-  ],
-  "fermauscio": [
-    "fermauʃʃo"
-  ],
-  "ferme": [
-    "ferme"
-  ],
-  "fermenta": [
-    "fermenta"
-  ],
-  "fermentai": [
-    "fermentaj"
-  ],
-  "fermentando": [
-    "fermentando"
-  ],
-  "fermentante": [
-    "fermentante"
-  ],
-  "fermentanti": [
-    "fermentanti"
-  ],
-  "fermentare": [
-    "fermentare"
-  ],
-  "fermentasse": [
-    "fermentasːe"
-  ],
-  "fermentaste": [
-    "fermentaste"
-  ],
-  "fermentativo": [
-    "fermentativo"
-  ],
-  "fermentava": [
-    "fermentava"
-  ],
-  "fermentazione": [
-    "fermentatsjone",
-    "fermentatːsjone"
-  ],
-  "fermento": [
-    "fermento"
-  ],
-  "fermerai": [
-    "fermerai"
-  ],
-  "fermezza": [
-    "fermetːsa"
-  ],
-  "fermezze": [
-    "fermetːse"
-  ],
-  "fermi": [
-    "fermi"
-  ],
-  "fermio": [
-    "fermjo"
-  ],
-  "fermione": [
-    "fermjone"
-  ],
-  "fermo": [
-    "fermo",
-    "fɛrmɔ"
-  ],
-  "fernet": [
-    "fernɛt",
-    "fɛrnet"
-  ],
-  "fero": [
-    "fɛro"
-  ],
-  "feroce": [
-    "ferotʃe"
-  ],
-  "ferocemente": [
-    "ferotʃemente"
-  ],
-  "ferocia": [
-    "ferɔtʃa"
-  ],
-  "ferocissimo": [
-    "ferotʃisːimo"
-  ],
-  "ferodo": [
-    "ferɔdo"
-  ],
-  "feroese": [
-    "feroeze"
-  ],
-  "feroico": [
-    "ferɔjko"
-  ],
-  "feromone": [
-    "feromone"
-  ],
-  "ferpetta": [
-    "fɛrpɛtːa"
-  ],
-  "ferpette": [
-    "fɛrpɛtːe"
-  ],
-  "ferpetti": [
-    "fɛrpɛtːi"
-  ],
-  "ferpetto": [
-    "fɛrpɛtːo"
-  ],
-  "ferraglia": [
-    "ferːaʎa"
-  ],
-  "ferragosto": [
-    "ferːaɡosto"
-  ],
-  "ferrai": [
-    "ferːai"
-  ],
-  "ferraia": [
-    "ferːaja"
-  ],
-  "ferraie": [
-    "ferːaje"
-  ],
-  "ferraio": [
-    "ferːajo"
-  ],
-  "ferramenta": [
-    "ferːamenta"
-  ],
-  "ferramenti": [
-    "ferːamenti"
-  ],
-  "ferrara": [
-    "ferːara"
-  ],
-  "ferrare": [
-    "ferːare"
-  ],
-  "ferrarese": [
-    "ferːarese",
-    "ferːareze"
-  ],
-  "ferraresi": [
-    "ferːaresi"
-  ],
-  "ferrarista": [
-    "ferːarist"
-  ],
-  "ferrariste": [
-    "ferːariste"
-  ],
-  "ferraristi": [
-    "ferːaristi"
-  ],
-  "ferrato": [
-    "ferːato"
-  ],
-  "ferratura": [
-    "ferːatura"
-  ],
-  "ferrea": [
-    "fɛrːea"
-  ],
-  "ferreo": [
-    "fɛrːeo"
-  ],
-  "ferri": [
-    "ferːi",
-    "fɛrːi"
-  ],
-  "ferrico": [
-    "fɛrːiko"
-  ],
-  "ferriera": [
-    "ferːjɛra"
-  ],
-  "ferrifero": [
-    "ferːifero"
-  ],
-  "ferrigno": [
-    "ferːiɲɲo"
-  ],
-  "ferrimagnetica": [
-    "ferːimaɲɲɛtika"
-  ],
-  "ferrimagnetiche": [
-    "ferːimaɲɲɛtike"
-  ],
-  "ferrimagnetici": [
-    "ferːimaɲɲɛtitʃi"
-  ],
-  "ferrimagnetico": [
-    "ferːimaɲɲɛtiko"
-  ],
-  "ferrista": [
-    "ferːista"
-  ],
-  "ferriste": [
-    "ferːiste"
-  ],
-  "ferristi": [
-    "ferːisti"
-  ],
-  "ferritina": [
-    "ferːitina"
-  ],
-  "ferritinemia": [
-    "ferːitinemia"
-  ],
-  "ferro": [
-    "fɛrːo"
-  ],
-  "ferrobatterio": [
-    "ferːobatːɛrjo"
-  ],
-  "ferrocianuro": [
-    "fɛrːotʃanuro"
-  ],
-  "ferroelettricità": [
-    "fɛrːoeletːritʃita"
-  ],
-  "ferrolega": [
-    "ferːoleɡa"
-  ],
-  "ferromagnesiaco": [
-    "fɛrːomaɲɲeziako"
-  ],
-  "ferromagnete": [
-    "fɛrːomaɲɲɛte"
-  ],
-  "ferromagnetica": [
-    "ferːomaɲɲɛtika"
-  ],
-  "ferromagnetiche": [
-    "ferːomaɲɲɛtike"
-  ],
-  "ferromagnetici": [
-    "ferːomaɲɲɛtitʃi"
-  ],
-  "ferromagnetico": [
-    "ferːomaɲɲɛtiko"
-  ],
-  "ferromagnetismo": [
-    "fɛrːomaɲɲetizmo"
-  ],
-  "ferromodellismo": [
-    "fɛrːomodelːizmo"
-  ],
-  "ferroproteina": [
-    "fɛrːoproteina"
-  ],
-  "ferroso": [
-    "ferːoso",
-    "ferːozo"
-  ],
-  "ferrotipi": [
-    "ferːotipi"
-  ],
-  "ferrotipia": [
-    "ferːotipia"
-  ],
-  "ferrotipie": [
-    "ferːotipie"
-  ],
-  "ferrotipo": [
-    "ferːotipo"
-  ],
-  "ferrovecchio": [
-    "ferːovɛkːjo",
-    "fɛrːovɛkːjo"
-  ],
-  "ferrovia": [
-    "ferːovia",
-    "fɛrːɔvja"
-  ],
-  "ferrovie": [
-    "ferːovie",
-    "fɛrːɔvje"
-  ],
-  "ferroviere": [
-    "ferːovjɛre"
-  ],
-  "ferrozirconio": [
-    "fɛrːodːzirkɔnjo"
-  ],
-  "ferrugigno": [
-    "ferːudʒiɲɲo"
-  ],
-  "fertile": [
-    "fɛrtile"
-  ],
-  "fertili": [
-    "fɛrtili"
-  ],
-  "fertilità": [
-    "fertilita"
-  ],
-  "fertilizzabile": [
-    "fertilidːzabile"
-  ],
-  "fertilizzabili": [
-    "fertilidːzabili"
-  ],
-  "fertilizzante": [
-    "fertilidːzant",
-    "fertilidːzante"
-  ],
-  "fertilizzanti": [
-    "fertilidːzanti"
-  ],
-  "fertilizzare": [
-    "fertilidːzare"
-  ],
-  "fertilizzato": [
-    "fertilidːzato"
-  ],
-  "fertilizzazione": [
-    "fertilidːzatsjone"
-  ],
-  "fertilizzazioni": [
-    "fertilidːzatsjoni"
-  ],
-  "fervente": [
-    "fervɛnte"
-  ],
-  "ferventi": [
-    "fervɛnti"
-  ],
-  "ferventissima": [
-    "fervɛntisːima"
-  ],
-  "ferventissime": [
-    "fervɛntisːime"
-  ],
-  "ferventissimi": [
-    "fervɛntisːimi"
-  ],
-  "ferventissimo": [
-    "fervɛntisːimo"
-  ],
-  "fervere": [
-    "fɛrvere"
-  ],
-  "fervetro": [
-    "fervetro"
-  ],
-  "fervida": [
-    "fervida"
-  ],
-  "fervidamente": [
-    "fervidamente"
-  ],
-  "fervide": [
-    "fervide"
-  ],
-  "fervidi": [
-    "fervidi"
-  ],
-  "fervido": [
-    "fervido",
-    "fɛrvido"
-  ],
-  "fervore": [
-    "fervore"
-  ],
-  "fervorino": [
-    "fervorino"
-  ],
-  "fes": [
-    "fɛs"
-  ],
-  "fesa": [
-    "feza"
-  ],
-  "fescennino": [
-    "feʃʃenːino"
-  ],
-  "fessa": [
-    "fesːa"
-  ],
-  "fessacchiotto": [
-    "fesːakːjɔtːo"
-  ],
-  "fesse": [
-    "fesːe"
-  ],
-  "fessi": [
-    "fesːi"
-  ],
-  "fesso": [
-    "fesːo"
-  ],
-  "fessura": [
-    "fesːura"
-  ],
-  "fessure": [
-    "fesːure"
-  ],
-  "festa": [
-    "fɛsta"
-  ],
-  "festaiolo": [
-    "festajɔlo"
-  ],
-  "festante": [
-    "festante"
-  ],
-  "feste": [
-    "fɛste"
-  ],
-  "festeggerà": [
-    "festedːʒera"
-  ],
-  "festeggerai": [
-    "festedːʒerai"
-  ],
-  "festeggeranno": [
-    "festedːʒeranːo"
-  ],
-  "festeggerebbe": [
-    "festedːʒerebːe"
-  ],
-  "festeggerebbero": [
-    "festedːʒerebːero"
-  ],
-  "festeggerei": [
-    "festedːʒerei"
-  ],
-  "festeggeremmo": [
-    "festedːʒeremːo"
-  ],
-  "festeggeremo": [
-    "festedːʒeremo"
-  ],
-  "festeggereste": [
-    "festedːʒereste"
-  ],
-  "festeggeresti": [
-    "festedːʒeresti"
-  ],
-  "festeggerete": [
-    "festedːʒerete"
-  ],
-  "festeggerò": [
-    "festedːʒero"
-  ],
-  "festeggi": [
-    "festedːʒi"
-  ],
-  "festeggia": [
-    "festedːʒa"
-  ],
-  "festeggiai": [
-    "festedːʒai"
-  ],
-  "festeggiammo": [
-    "festedːʒamːo"
-  ],
-  "festeggiamo": [
-    "festedːʒamo"
-  ],
-  "festeggiando": [
-    "festedːʒando"
-  ],
-  "festeggiano": [
-    "festedːʒano"
-  ],
-  "festeggiante": [
-    "festedːʒante"
-  ],
-  "festeggiare": [
-    "festedːʒare"
-  ],
-  "festeggiarono": [
-    "festedːʒarono"
-  ],
-  "festeggiasse": [
-    "festedːʒasːe"
-  ],
-  "festeggiassero": [
-    "festedːʒasːero"
-  ],
-  "festeggiassi": [
-    "festedːʒasːi"
-  ],
-  "festeggiassimo": [
-    "festedːʒasːimo"
-  ],
-  "festeggiaste": [
-    "festedːʒaste"
-  ],
-  "festeggiasti": [
-    "festedːʒasti"
-  ],
-  "festeggiata": [
-    "festedːʒata"
-  ],
-  "festeggiate": [
-    "festedːʒata",
-    "festedːʒate"
-  ],
-  "festeggiati": [
-    "festedːʒati"
-  ],
-  "festeggiato": [
-    "festedːʒato"
-  ],
-  "festeggiava": [
-    "festedːʒava"
-  ],
-  "festeggiavamo": [
-    "festedːʒavamo"
-  ],
-  "festeggiavano": [
-    "festedːʒavano"
-  ],
-  "festeggiavate": [
-    "festedːʒavate"
-  ],
-  "festeggiavi": [
-    "festedːʒavi"
-  ],
-  "festeggiavo": [
-    "festedːʒavo"
-  ],
-  "festeggino": [
-    "festedːʒino"
-  ],
-  "festeggio": [
-    "festedːʒo"
-  ],
-  "festeggiò": [
-    "festedːʒo"
-  ],
-  "festival": [
-    "festival",
-    "fɛstival"
-  ],
-  "festivaliero": [
-    "festivaljɛro"
-  ],
-  "festività": [
-    "festivita"
-  ],
-  "festivo": [
-    "festivo"
-  ],
-  "festone": [
-    "festone"
-  ],
-  "festosamente": [
-    "festosamente"
-  ],
-  "festoso": [
-    "festoso"
-  ],
-  "festuca": [
-    "festuka"
-  ],
-  "fetale": [
-    "fetale"
-  ],
-  "fetente": [
-    "fetɛnte"
-  ],
-  "feti": [
-    "fɛti"
-  ],
-  "feticcio": [
-    "fetitːʃo"
-  ],
-  "feticismi": [
-    "fetitʃizmi"
-  ],
-  "feticismo": [
-    "fetitʃizmo"
-  ],
-  "feticista": [
-    "fetitʃista"
-  ],
-  "feticiste": [
-    "fetitʃiste"
-  ],
-  "feticisti": [
-    "fetitʃisti"
-  ],
-  "feticistico": [
-    "fetitʃistiko"
-  ],
-  "fetido": [
-    "fɛtido"
-  ],
-  "feto": [
-    "fɛto"
-  ],
-  "fetologo": [
-    "fetɔloɡo"
-  ],
-  "fetonte": [
-    "fetonte"
-  ],
-  "fetontide": [
-    "fetontide"
-  ],
-  "fetontidi": [
-    "fetontidi"
-  ],
-  "fetore": [
-    "fetore"
-  ],
-  "fetori": [
-    "fetori"
-  ],
-  "fetta": [
-    "fetːa"
-  ],
-  "fettuccia": [
-    "fetːutːʃa"
-  ],
-  "fettuccina": [
-    "fetːutːʃina"
-  ],
-  "fettunta": [
-    "fetːunta"
-  ],
-  "feudale": [
-    "fewdale"
-  ],
-  "feudalesimo": [
-    "fewdalezimo"
-  ],
-  "feudalismo": [
-    "fewdalizmo"
-  ],
-  "feudatari": [
-    "fewdatari"
-  ],
-  "feudatario": [
-    "fewdatarjo"
-  ],
-  "feudi": [
-    "fɛwdi"
-  ],
-  "feudo": [
-    "fɛwdo"
-  ],
-  "feuilleton": [
-    "fejton"
-  ],
-  "fez": [
-    "fɛs"
-  ],
-  "fiaba": [
-    "fjaba"
-  ],
-  "fiabe": [
-    "fjabe"
-  ],
-  "fiabesco": [
-    "fjabesko"
-  ],
-  "fiacca": [
-    "fjakːa"
-  ],
-  "fiaccacollo": [
-    "fjakːakɔlːo"
-  ],
-  "fiaccamente": [
-    "fjakːamente"
-  ],
-  "fiaccare": [
-    "fjakːare"
-  ],
-  "fiaccarsi": [
-    "fjakːarsi"
-  ],
-  "fiaccato": [
-    "fjakːato"
-  ],
-  "fiacchezza": [
-    "fjakːetːsa"
-  ],
-  "fiacco": [
-    "fjakːo"
-  ],
-  "fiaccola": [
-    "fjakːola"
-  ],
-  "fiaccolata": [
-    "fjakːolata"
-  ],
-  "fiaccole": [
-    "fjakːole"
-  ],
-  "fiale": [
-    "fjale"
-  ],
-  "fiamma": [
-    "fjamːa"
-  ],
-  "fiammante": [
-    "fjamːante"
-  ],
-  "fiammanti": [
-    "fjamːanti"
-  ],
-  "fiammare": [
-    "fjamːare"
-  ],
-  "fiammata": [
-    "fjamːata"
-  ],
-  "fiammatura": [
-    "fjamːatura"
-  ],
-  "fiamme": [
-    "fjamːe"
-  ],
-  "fiammeggiante": [
-    "fjamːedːʒante",
-    "fjamːidːʒante"
-  ],
-  "fiammeggianti": [
-    "fjamːidːʒanti"
-  ],
-  "fiammelle": [
-    "fjamːɛlːe"
-  ],
-  "fiammeo": [
-    "fjamːeo"
-  ],
-  "fiammiferi": [
-    "fjamːiferi"
-  ],
-  "fiammifero": [
-    "fjamːifero"
-  ],
-  "fiamminga": [
-    "fjamːinɡa"
-  ],
-  "fiamminghe": [
-    "fjamːinɡe"
-  ],
-  "fiamminghi": [
-    "fjamːinɡi"
-  ],
-  "fiammingo": [
-    "fjamːinɡo"
-  ],
-  "fiammista": [
-    "fjamːista"
-  ],
-  "fiancheggiare": [
-    "fjankedːʒare"
-  ],
-  "fiancheggiato": [
-    "fjankedːʒato"
-  ],
-  "fiancheggiatore": [
-    "fjankedːʒatore"
-  ],
-  "fianchetto": [
-    "fjankɛtːo"
-  ],
-  "fianchi": [
-    "fjanki"
-  ],
-  "fianco": [
-    "fjanko",
-    "fjankɔ",
-    "fjaɲko"
-  ],
-  "fiandre": [
-    "fjandre"
-  ],
-  "fiano": [
-    "fiano",
-    "fjano"
-  ],
-  "fiaschetta": [
-    "fjasketːa"
-  ],
-  "fiaschetteria": [
-    "fjasketːeria"
-  ],
-  "fiaschetto": [
-    "fjasketːo"
-  ],
-  "fiaschi": [
-    "fjaski"
-  ],
-  "fiasco": [
-    "fjasko"
-  ],
-  "fiata": [
-    "fjata"
-  ],
-  "fiatare": [
-    "fjatare"
-  ]
+  "fazzoletto": "fatːsoletːo",
+  "febbraio": "febːraio",
+  "febbraio_2": "febːrajo",
+  "febbre": "fɛbːre",
+  "febbri": "fɛbːri",
+  "febbricola": "febːrikola",
+  "febbrifuga": "febːrifuɡa",
+  "febbrifughe": "febːrifuɡe",
+  "febbrifughi": "febːrifuɡi",
+  "febbrifugo": "febːrifuɡo",
+  "febbrile": "febːrile",
+  "febbrilmente": "febːrilmente",
+  "febo": "fɛbo",
+  "fecaio": "fekajo",
+  "fecale": "fekale",
+  "feccia": "fetːʃa",
+  "feccia_2": "fɛtːʃa",
+  "fece": "fetʃe",
+  "fecero": "fetʃero",
+  "feci": "fetʃi",
+  "feci_2": "fɛtʃi",
+  "feconda": "fɛkɔnda",
+  "fecondabile": "fekondabile",
+  "fecondabili": "fekondabili",
+  "fecondante": "fekɔndante",
+  "fecondanti": "fekɔndanti",
+  "fecondare": "fekondare",
+  "fecondare_2": "fekɔndare",
+  "fecondativo": "fekondativo",
+  "fecondato": "fekondato",
+  "fecondato_2": "fekɔndato",
+  "fecondatore": "fekondatore",
+  "fecondatori": "fekondatori",
+  "fecondatrice": "fekondatritʃi",
+  "fecondatrici": "fekondatritʃi",
+  "fecondazione": "fekondatsjone",
+  "fecondazione_2": "fekondatːsjone",
+  "fecondazioni": "fekondatsjoni",
+  "feconde": "fɛkɔnde",
+  "fecondi": "fɛkɔndi",
+  "fecondità": "fekondita",
+  "fecondo": "fekondo",
+  "fecondo_2": "fɛkɔndo",
+  "fecondo_3": "fɛkɔndɔ",
+  "feda": "fɛda",
+  "fedai": "fedai",
+  "fedammo": "fedamːo",
+  "fedano": "fɛdano",
+  "fedare": "fedare",
+  "fedarono": "fedarono",
+  "fedasse": "fedasːe",
+  "fedassero": "fedasːero",
+  "fedassi": "fedasːi",
+  "fedassimo": "fedasːimo",
+  "fedaste": "fedaste",
+  "fedasti": "fedasti",
+  "fedate": "fedate",
+  "fedava": "fedava",
+  "fedavamo": "fedavamo",
+  "fedavano": "fedavano",
+  "fedavate": "fedavate",
+  "fedavi": "fedavi",
+  "fedavo": "fedavo",
+  "fede": "fede",
+  "fede_2": "fɛde",
+  "fedecommessi": "fedekomːesːi",
+  "fedecommesso": "fedekomːesːo",
+  "fededegno": "fededeɲɲo",
+  "fedele": "fedele",
+  "fedele_2": "fɛdɛle",
+  "fedeli": "fɛdɛle",
+  "fedelmente": "fedelmente",
+  "fedeltà": "fedelta",
+  "federa": "fɛdera",
+  "federà": "federa",
+  "federai": "federai",
+  "federale": "federale",
+  "federali": "federali",
+  "federalismi": "federalizmi",
+  "federalismo": "federalizmo",
+  "federalista": "federalista",
+  "federaliste": "federaliste",
+  "federalisti": "federalisti",
+  "federalistico": "federalistiko",
+  "federalmente": "federalmente",
+  "federanno": "federanːo",
+  "federante": "federante",
+  "federare": "federare",
+  "federarsi": "federarsi",
+  "federate": "federate",
+  "federate_2": "federati",
+  "federati": "federati",
+  "federativo": "federativo",
+  "federato": "federato",
+  "federazione": "federatːsjone",
+  "federebbe": "federebːe",
+  "federebbero": "federebːero",
+  "federei": "federɛi",
+  "federemmo": "federemːo",
+  "federemo": "federemo",
+  "federeste": "federeste",
+  "federesti": "federesti",
+  "federete": "federete",
+  "federiciano": "federitʃano",
+  "federico": "federiko",
+  "federigo": "federiɡo",
+  "federò": "federɔ",
+  "fedi": "fedi",
+  "fedi_2": "fɛdi",
+  "fediamo": "fedjamo",
+  "fediate": "fedjate",
+  "fedifrago": "fedifraɡo",
+  "fedino": "fɛdino",
+  "fedire": "fedire",
+  "fedisci": "fediʃʃi",
+  "fedisco": "fedisko",
+  "fedo": "fɛdo",
+  "fedò": "fedɔ",
+  "fedrico": "fedriko",
+  "fedro": "fɛdro",
+  "feeling": "filinɡ",
+  "feeling_2": "filiɲ",
+  "fegati": "fɛɡati",
+  "fegatino": "feɡatino",
+  "fegato": "feɡato",
+  "fegato_2": "fɛɡatɔ",
+  "felce": "feltʃe",
+  "feldispati": "feldispati",
+  "feldispato": "feldispato",
+  "feldmaresciallo": "fɛldmareʃʃalːo",
+  "feldspati": "feldspati",
+  "feldspato": "feldspato",
+  "felice": "felitʃe",
+  "felicemente": "felitʃemente",
+  "felici": "felitʃi",
+  "felicissima": "felitʃisːima",
+  "felicissime": "felitʃisːime",
+  "felicissimi": "felitʃisːimi",
+  "felicissimo": "felitʃisːimo",
+  "felicita": "felitʃita",
+  "felicità": "felitʃita",
+  "felicitante": "fɛlitʃitante",
+  "felicitare": "fɛlitʃitare",
+  "felicitarsi": "fɛlitʃitarsi",
+  "felicitato": "fɛlitʃitato",
+  "felide": "fɛlide",
+  "felidi": "fɛlidi",
+  "felina": "felina",
+  "felini": "felini",
+  "felino": "felino",
+  "fellah": "felːa",
+  "fellatio": "felːatːsjo",
+  "fellazione": "felːatːsjone",
+  "felliniano": "felːinjano",
+  "fellone": "felːone",
+  "fellonesco": "felːonesko",
+  "fellonia": "felːonia",
+  "felpa": "felpa",
+  "felpato": "felpato",
+  "felsineo": "felsineo",
+  "feluca": "feluka",
+  "feluche": "feluke",
+  "femmicidio": "femːitʃidjo",
+  "femmina": "femːina",
+  "femminicidio": "femːinitʃidjo",
+  "femminicidio_2": "femːinitʃidjɔ",
+  "femminile": "femːinile",
+  "femminili": "femːinili",
+  "femminilità": "femːinilita",
+  "femminilizzare": "femːinilidːzare",
+  "femminilizzazione": "femːinilidːzatːsjone",
+  "femminino": "femːinino",
+  "femminismo": "femːinizmo",
+  "femminista": "femːinista",
+  "femministe": "femːiniste",
+  "femministi": "femːinisti",
+  "femminuccia": "femːinutːʃa",
+  "femorale": "femorale",
+  "femore": "fɛmore",
+  "fendere": "fɛndere",
+  "fendere_2": "fɛndɛre",
+  "fendersi": "fɛndersi",
+  "fenditura": "fenditura",
+  "fenditure": "fenditure",
+  "fenestrazione": "fenestratːjone",
+  "fenestrazioni": "fenestratːjoni",
+  "fengofobia": "fenɡofobia",
+  "fenice": "fenitʃe",
+  "fenici": "fenitʃi",
+  "fenicio": "fenitʃo",
+  "fenicotteri": "fenikɔtːeri",
+  "fenicotteride": "fenikotːɛride",
+  "fenicotteridi": "fenikotːɛridi",
+  "fenicottero": "fenikɔtːero",
+  "feniculide": "fenikulide",
+  "feniculidi": "fenikulidi",
+  "fenilalanina": "fenilalanina",
+  "fenilammina": "fenileamːina",
+  "fenolftaleina": "fenolftaleina",
+  "fenolizzazione": "fenolidːzatːsjone",
+  "fenolizzazioni": "fenolidːzatːsjoni",
+  "fenolo": "fenɔlo",
+  "fenologia": "fenolodʒia",
+  "fenologica": "fenolɔdʒika",
+  "fenologiche": "fenolɔdʒike",
+  "fenologici": "fenolɔdʒitʃi",
+  "fenologico": "fenolɔdʒiko",
+  "fenomenale": "fenomenale",
+  "fenomeni": "fenɔmeni",
+  "fenomenico": "fenomɛniko",
+  "fenomenismo": "fenomenizmo",
+  "fenomenista": "fenomenista",
+  "fenomeno": "fenɔmeno",
+  "fenomenologia": "fenomenolodʒia",
+  "fenomenologica": "fenomenolɔdʒia",
+  "fenomenologiche": "fenomenolɔdʒie",
+  "fenomenologici": "fenomenolɔdʒitʃi",
+  "fenomenologico": "fenomenolɔdʒiko",
+  "fenoplasto": "fenoplasto",
+  "fenopolimorfismo": "fɛnopolimorfizmo",
+  "fenotipico": "fenotipiko",
+  "fenotipo": "fenotipo",
+  "fenotipo_2": "fenɔtipo",
+  "ferace": "feratʃe",
+  "feracità": "feratʃita",
+  "ferale": "ferale",
+  "ferali": "ferali",
+  "feramatore": "feramatore",
+  "feramatori": "feramatori",
+  "feramatrice": "feramatritʃe",
+  "feramatrici": "feramatritʃi",
+  "fercolo": "fɛrkolo",
+  "ferendo": "ferendo",
+  "ferente": "ferente",
+  "ferente_2": "ferɛnte",
+  "feretro": "fɛretro",
+  "feriente": "ferjɛnte",
+  "ferino": "ferino",
+  "ferire": "ferire",
+  "ferire_2": "fɛrire",
+  "ferita": "ferita",
+  "ferite": "ferite",
+  "ferito": "ferito",
+  "feritoie": "feritoje",
+  "ferma": "ferma",
+  "fermacarte": "fermakarte",
+  "fermaglio": "fermaʎo",
+  "fermai": "fermai",
+  "fermamente": "fermamente",
+  "fermanello": "fermanɛlːo",
+  "fermano": "fermano",
+  "fermaporta": "fermapɔrta",
+  "fermare": "fermare",
+  "fermare_2": "fɛrmare",
+  "fermarsi": "fermarsi",
+  "fermarsi_2": "fɛrmarsi",
+  "fermasse": "fermasːe",
+  "fermata": "fermata",
+  "fermate": "fermate",
+  "fermato": "fermato",
+  "fermato_2": "fɛrmato",
+  "fermauscio": "fermauʃʃo",
+  "ferme": "ferme",
+  "fermenta": "fermenta",
+  "fermentai": "fermentaj",
+  "fermentando": "fermentando",
+  "fermentante": "fermentante",
+  "fermentanti": "fermentanti",
+  "fermentare": "fermentare",
+  "fermentasse": "fermentasːe",
+  "fermentaste": "fermentaste",
+  "fermentativo": "fermentativo",
+  "fermentava": "fermentava",
+  "fermentazione": "fermentatsjone",
+  "fermentazione_2": "fermentatːsjone",
+  "fermento": "fermento",
+  "fermerai": "fermerai",
+  "fermezza": "fermetːsa",
+  "fermezze": "fermetːse",
+  "fermi": "fermi",
+  "fermio": "fermjo",
+  "fermione": "fermjone",
+  "fermo": "fermo",
+  "fermo_2": "fɛrmɔ",
+  "fernet": "fernɛt",
+  "fernet_2": "fɛrnet",
+  "fero": "fɛro",
+  "feroce": "ferotʃe",
+  "ferocemente": "ferotʃemente",
+  "ferocia": "ferɔtʃa",
+  "ferocissimo": "ferotʃisːimo",
+  "ferodo": "ferɔdo",
+  "feroese": "feroeze",
+  "feroico": "ferɔjko",
+  "feromone": "feromone",
+  "ferpetta": "fɛrpɛtːa",
+  "ferpette": "fɛrpɛtːe",
+  "ferpetti": "fɛrpɛtːi",
+  "ferpetto": "fɛrpɛtːo",
+  "ferraglia": "ferːaʎa",
+  "ferragosto": "ferːaɡosto",
+  "ferrai": "ferːai",
+  "ferraia": "ferːaja",
+  "ferraie": "ferːaje",
+  "ferraio": "ferːajo",
+  "ferramenta": "ferːamenta",
+  "ferramenti": "ferːamenti",
+  "ferrara": "ferːara",
+  "ferrare": "ferːare",
+  "ferrarese": "ferːarese",
+  "ferrarese_2": "ferːareze",
+  "ferraresi": "ferːaresi",
+  "ferrarista": "ferːarist",
+  "ferrariste": "ferːariste",
+  "ferraristi": "ferːaristi",
+  "ferrato": "ferːato",
+  "ferratura": "ferːatura",
+  "ferrea": "fɛrːea",
+  "ferreo": "fɛrːeo",
+  "ferri": "ferːi",
+  "ferri_2": "fɛrːi",
+  "ferrico": "fɛrːiko",
+  "ferriera": "ferːjɛra",
+  "ferrifero": "ferːifero",
+  "ferrigno": "ferːiɲɲo",
+  "ferrimagnetica": "ferːimaɲɲɛtika",
+  "ferrimagnetiche": "ferːimaɲɲɛtike",
+  "ferrimagnetici": "ferːimaɲɲɛtitʃi",
+  "ferrimagnetico": "ferːimaɲɲɛtiko",
+  "ferrista": "ferːista",
+  "ferriste": "ferːiste",
+  "ferristi": "ferːisti",
+  "ferritina": "ferːitina",
+  "ferritinemia": "ferːitinemia",
+  "ferro": "fɛrːo",
+  "ferrobatterio": "ferːobatːɛrjo",
+  "ferrocianuro": "fɛrːotʃanuro",
+  "ferroelettricità": "fɛrːoeletːritʃita",
+  "ferrolega": "ferːoleɡa",
+  "ferromagnesiaco": "fɛrːomaɲɲeziako",
+  "ferromagnete": "fɛrːomaɲɲɛte",
+  "ferromagnetica": "ferːomaɲɲɛtika",
+  "ferromagnetiche": "ferːomaɲɲɛtike",
+  "ferromagnetici": "ferːomaɲɲɛtitʃi",
+  "ferromagnetico": "ferːomaɲɲɛtiko",
+  "ferromagnetismo": "fɛrːomaɲɲetizmo",
+  "ferromodellismo": "fɛrːomodelːizmo",
+  "ferroproteina": "fɛrːoproteina",
+  "ferroso": "ferːoso",
+  "ferroso_2": "ferːozo",
+  "ferrotipi": "ferːotipi",
+  "ferrotipia": "ferːotipia",
+  "ferrotipie": "ferːotipie",
+  "ferrotipo": "ferːotipo",
+  "ferrovecchio": "ferːovɛkːjo",
+  "ferrovecchio_2": "fɛrːovɛkːjo",
+  "ferrovia": "ferːovia",
+  "ferrovia_2": "fɛrːɔvja",
+  "ferrovie": "ferːovie",
+  "ferrovie_2": "fɛrːɔvje",
+  "ferroviere": "ferːovjɛre",
+  "ferrozirconio": "fɛrːodːzirkɔnjo",
+  "ferrugigno": "ferːudʒiɲɲo",
+  "fertile": "fɛrtile",
+  "fertili": "fɛrtili",
+  "fertilità": "fertilita",
+  "fertilizzabile": "fertilidːzabile",
+  "fertilizzabili": "fertilidːzabili",
+  "fertilizzante": "fertilidːzant",
+  "fertilizzante_2": "fertilidːzante",
+  "fertilizzanti": "fertilidːzanti",
+  "fertilizzare": "fertilidːzare",
+  "fertilizzato": "fertilidːzato",
+  "fertilizzazione": "fertilidːzatsjone",
+  "fertilizzazioni": "fertilidːzatsjoni",
+  "fervente": "fervɛnte",
+  "ferventi": "fervɛnti",
+  "ferventissima": "fervɛntisːima",
+  "ferventissime": "fervɛntisːime",
+  "ferventissimi": "fervɛntisːimi",
+  "ferventissimo": "fervɛntisːimo",
+  "fervere": "fɛrvere",
+  "fervetro": "fervetro",
+  "fervida": "fervida",
+  "fervidamente": "fervidamente",
+  "fervide": "fervide",
+  "fervidi": "fervidi",
+  "fervido": "fervido",
+  "fervido_2": "fɛrvido",
+  "fervore": "fervore",
+  "fervorino": "fervorino",
+  "fes": "fɛs",
+  "fesa": "feza",
+  "fescennino": "feʃʃenːino",
+  "fessa": "fesːa",
+  "fessacchiotto": "fesːakːjɔtːo",
+  "fesse": "fesːe",
+  "fessi": "fesːi",
+  "fesso": "fesːo",
+  "fessura": "fesːura",
+  "fessure": "fesːure",
+  "festa": "fɛsta",
+  "festaiolo": "festajɔlo",
+  "festante": "festante",
+  "feste": "fɛste",
+  "festeggerà": "festedːʒera",
+  "festeggerai": "festedːʒerai",
+  "festeggeranno": "festedːʒeranːo",
+  "festeggerebbe": "festedːʒerebːe",
+  "festeggerebbero": "festedːʒerebːero",
+  "festeggerei": "festedːʒerei",
+  "festeggeremmo": "festedːʒeremːo",
+  "festeggeremo": "festedːʒeremo",
+  "festeggereste": "festedːʒereste",
+  "festeggeresti": "festedːʒeresti",
+  "festeggerete": "festedːʒerete",
+  "festeggerò": "festedːʒero",
+  "festeggi": "festedːʒi",
+  "festeggia": "festedːʒa",
+  "festeggiai": "festedːʒai",
+  "festeggiammo": "festedːʒamːo",
+  "festeggiamo": "festedːʒamo",
+  "festeggiando": "festedːʒando",
+  "festeggiano": "festedːʒano",
+  "festeggiante": "festedːʒante",
+  "festeggiare": "festedːʒare",
+  "festeggiarono": "festedːʒarono",
+  "festeggiasse": "festedːʒasːe",
+  "festeggiassero": "festedːʒasːero",
+  "festeggiassi": "festedːʒasːi",
+  "festeggiassimo": "festedːʒasːimo",
+  "festeggiaste": "festedːʒaste",
+  "festeggiasti": "festedːʒasti",
+  "festeggiata": "festedːʒata",
+  "festeggiate": "festedːʒata",
+  "festeggiate_2": "festedːʒate",
+  "festeggiati": "festedːʒati",
+  "festeggiato": "festedːʒato",
+  "festeggiava": "festedːʒava",
+  "festeggiavamo": "festedːʒavamo",
+  "festeggiavano": "festedːʒavano",
+  "festeggiavate": "festedːʒavate",
+  "festeggiavi": "festedːʒavi",
+  "festeggiavo": "festedːʒavo",
+  "festeggino": "festedːʒino",
+  "festeggio": "festedːʒo",
+  "festeggiò": "festedːʒo",
+  "festival": "festival",
+  "festival_2": "fɛstival",
+  "festivaliero": "festivaljɛro",
+  "festività": "festivita",
+  "festivo": "festivo",
+  "festone": "festone",
+  "festosamente": "festosamente",
+  "festoso": "festoso",
+  "festuca": "festuka",
+  "fetale": "fetale",
+  "fetente": "fetɛnte",
+  "feti": "fɛti",
+  "feticcio": "fetitːʃo",
+  "feticismi": "fetitʃizmi",
+  "feticismo": "fetitʃizmo",
+  "feticista": "fetitʃista",
+  "feticiste": "fetitʃiste",
+  "feticisti": "fetitʃisti",
+  "feticistico": "fetitʃistiko",
+  "fetido": "fɛtido",
+  "feto": "fɛto",
+  "fetologo": "fetɔloɡo",
+  "fetonte": "fetonte",
+  "fetontide": "fetontide",
+  "fetontidi": "fetontidi",
+  "fetore": "fetore",
+  "fetori": "fetori",
+  "fetta": "fetːa",
+  "fettuccia": "fetːutːʃa",
+  "fettuccina": "fetːutːʃina",
+  "fettunta": "fetːunta",
+  "feudale": "fewdale",
+  "feudalesimo": "fewdalezimo",
+  "feudalismo": "fewdalizmo",
+  "feudatari": "fewdatari",
+  "feudatario": "fewdatarjo",
+  "feudi": "fɛwdi",
+  "feudo": "fɛwdo",
+  "feuilleton": "fejton",
+  "fez": "fɛs",
+  "fiaba": "fjaba",
+  "fiabe": "fjabe",
+  "fiabesco": "fjabesko",
+  "fiacca": "fjakːa",
+  "fiaccacollo": "fjakːakɔlːo",
+  "fiaccamente": "fjakːamente",
+  "fiaccare": "fjakːare",
+  "fiaccarsi": "fjakːarsi",
+  "fiaccato": "fjakːato",
+  "fiacchezza": "fjakːetːsa",
+  "fiacco": "fjakːo",
+  "fiaccola": "fjakːola",
+  "fiaccolata": "fjakːolata",
+  "fiaccole": "fjakːole",
+  "fiale": "fjale",
+  "fiamma": "fjamːa",
+  "fiammante": "fjamːante",
+  "fiammanti": "fjamːanti",
+  "fiammare": "fjamːare",
+  "fiammata": "fjamːata",
+  "fiammatura": "fjamːatura",
+  "fiamme": "fjamːe",
+  "fiammeggiante": "fjamːedːʒante",
+  "fiammeggiante_2": "fjamːidːʒante",
+  "fiammeggianti": "fjamːidːʒanti",
+  "fiammelle": "fjamːɛlːe",
+  "fiammeo": "fjamːeo",
+  "fiammiferi": "fjamːiferi",
+  "fiammifero": "fjamːifero",
+  "fiamminga": "fjamːinɡa",
+  "fiamminghe": "fjamːinɡe",
+  "fiamminghi": "fjamːinɡi",
+  "fiammingo": "fjamːinɡo",
+  "fiammista": "fjamːista",
+  "fiancheggiare": "fjankedːʒare",
+  "fiancheggiato": "fjankedːʒato",
+  "fiancheggiatore": "fjankedːʒatore",
+  "fianchetto": "fjankɛtːo",
+  "fianchi": "fjanki",
+  "fianco": "fjanko",
+  "fianco_2": "fjankɔ",
+  "fianco_3": "fjaɲko",
+  "fiandre": "fjandre",
+  "fiano": "fiano",
+  "fiano_2": "fjano",
+  "fiaschetta": "fjasketːa",
+  "fiaschetteria": "fjasketːeria",
+  "fiaschetto": "fjasketːo",
+  "fiaschi": "fjaski",
+  "fiasco": "fjasko",
+  "fiata": "fjata",
+  "fiatare": "fjatare"
 }

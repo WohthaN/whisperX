@@ -1,1555 +1,555 @@
 {
-  "infermieri": [
-    "infermjɛri"
-  ],
-  "infermità": [
-    "infermita",
-    "iɲfermita"
-  ],
-  "infernale": [
-    "infernale"
-  ],
-  "infernali": [
-    "infernali"
-  ],
-  "inferno": [
-    "infɛrno"
-  ],
-  "infero": [
-    "infero"
-  ],
-  "inferocire": [
-    "inferotʃire"
-  ],
-  "inferocito": [
-    "inferotʃito",
-    "iɲferotʃito"
-  ],
-  "inferriata": [
-    "iɲferːjata"
-  ],
-  "inferto": [
-    "infɛrto"
-  ],
-  "infervorare": [
-    "infervorare"
-  ],
-  "infervorato": [
-    "infervorato"
-  ],
-  "infestante": [
-    "infestante"
-  ],
-  "infestare": [
-    "iɲfestare"
-  ],
-  "infettante": [
-    "infɛtːante"
-  ],
-  "infettanti": [
-    "infɛtːanti"
-  ],
-  "infettare": [
-    "infɛtːare"
-  ],
-  "infettata": [
-    "infɛtːata"
-  ],
-  "infettate": [
-    "infɛtːate"
-  ],
-  "infettati": [
-    "infɛtːati"
-  ],
-  "infettato": [
-    "infetːato",
-    "infɛtːato"
-  ],
-  "infettività": [
-    "infetːivita"
-  ],
-  "infettivo": [
-    "infetːivo"
-  ],
-  "infettivologa": [
-    "infetːivɔloɡa"
-  ],
-  "infettivologo": [
-    "infetːivɔloɡo"
-  ],
-  "infeudare": [
-    "infewdare"
-  ],
-  "infezione": [
-    "infetːsjone",
-    "iɲfetsjone"
-  ],
-  "infezioni": [
-    "infetːsjoni"
-  ],
-  "infiacchire": [
-    "imfjakːire"
-  ],
-  "infiacchito": [
-    "infjakːito"
-  ],
-  "infiammabile": [
-    "infjamːabile",
-    "iɲfjamːabile"
-  ],
-  "infiammabili": [
-    "iɲfjamːabili"
-  ],
-  "infiammabilità": [
-    "infjamːabilita",
-    "iɲfjamːabilita"
-  ],
-  "infiammare": [
-    "infjamːare"
-  ],
-  "infiammato": [
-    "infjamːato"
-  ],
-  "infiammatori": [
-    "iɲfjamːatɔri"
-  ],
-  "infiammatoria": [
-    "iɲfjamːatɔrja"
-  ],
-  "infiammatorie": [
-    "iɲfjamːatɔrje"
-  ],
-  "infiammatorio": [
-    "iɲfjamːatɔrjo"
-  ],
-  "infiammazione": [
-    "infjamːatːsjone"
-  ],
-  "infibulazione": [
-    "infibulatsjone",
-    "infibulatːsjone"
-  ],
-  "infibulazioni": [
-    "infibulatsjoni"
-  ],
-  "inficiare": [
-    "iɲfitʃare"
-  ],
-  "inficiato": [
-    "infitʃato"
-  ],
-  "infidamente": [
-    "infidamente"
-  ],
-  "infido": [
-    "infido"
-  ],
-  "infierire": [
-    "infjerire"
-  ],
-  "infiggere": [
-    "infidːʒere"
-  ],
-  "infilaaghi": [
-    "infilaaɡi"
-  ],
-  "infilare": [
-    "infilare"
-  ],
-  "infilarsi": [
-    "infilarsi"
-  ],
-  "infilato": [
-    "nfilato"
-  ],
-  "infiltrato": [
-    "infiltrato"
-  ],
-  "infilzato": [
-    "infiltsato"
-  ],
-  "infimo": [
-    "infimo"
-  ],
-  "infine": [
-    "infine"
-  ],
-  "infingardaggine": [
-    "infinɡardadːʒine"
-  ],
-  "infingardo": [
-    "infinɡardo",
-    "iɲfinɡardo"
-  ],
-  "infingere": [
-    "infindʒere"
-  ],
-  "infingimento": [
-    "infindʒimento"
-  ],
-  "infinita": [
-    "infinita"
-  ],
-  "infinità": [
-    "infinita"
-  ],
-  "infinitamente": [
-    "infinitamente"
-  ],
-  "infinite": [
-    "infinite"
-  ],
-  "infinitesimale": [
-    "iɲfinitezimale"
-  ],
-  "infinitesimali": [
-    "iɲfinitezimali"
-  ],
-  "infinitesimo": [
-    "infinitɛzimo"
-  ],
-  "infinitezza": [
-    "infinitetːsa"
-  ],
-  "infiniti": [
-    "infiniti"
-  ],
-  "infinitivo": [
-    "infinitivo"
-  ],
-  "infinito": [
-    "infinito"
-  ],
-  "infinocchiare": [
-    "infinokːjare"
-  ],
-  "infinocchiato": [
-    "infinokːjato"
-  ],
-  "infiorare": [
-    "iɲfjorare"
-  ],
-  "infiorata": [
-    "infjorata"
-  ],
-  "infiorescenza": [
-    "infjoreʃʃɛntsa"
-  ],
-  "infirmato": [
-    "infirmato"
-  ],
-  "infisso": [
-    "imfisːo",
-    "infisːo"
-  ],
-  "inflazionare": [
-    "inflatːsjonare"
-  ],
-  "inflazione": [
-    "inflatːsjone"
-  ],
-  "inflazioni": [
-    "inflatːsjoni"
-  ],
-  "inflazionista": [
-    "inflatsjonista"
-  ],
-  "inflazioniste": [
-    "inflatsjoniste"
-  ],
-  "inflazionisti": [
-    "inflatsjonisti"
-  ],
-  "inflessibile": [
-    "inflesːibile",
-    "iɲflesːibile"
-  ],
-  "inflessibili": [
-    "inflesːibili"
-  ],
-  "inflessione": [
-    "inflesːjone"
-  ],
-  "infliggere": [
-    "inflidːʒere"
-  ],
-  "inflitto": [
-    "inflitːo"
-  ],
-  "influente": [
-    "influɛnte"
-  ],
-  "influenti": [
-    "influɛnti"
-  ],
-  "influentissima": [
-    "influɛntisːima"
-  ],
-  "influentissime": [
-    "influɛntisːime"
-  ],
-  "influentissimi": [
-    "influɛntisːimi"
-  ],
-  "influentissimo": [
-    "influɛntisːimo"
-  ],
-  "influenza": [
-    "imfluɛntsa",
-    "influɛntsa",
-    "iɲfluɛntsa"
-  ],
-  "influenzabile": [
-    "influentsabile"
-  ],
-  "influenzabili": [
-    "influentsabili"
-  ],
-  "influenzale": [
-    "influentsale"
-  ],
-  "influenzare": [
-    "nfluentsare"
-  ],
-  "influenzato": [
-    "influentsato"
-  ],
-  "influenze": [
-    "iɲfluɛntse"
-  ],
-  "influire": [
-    "influire"
-  ],
-  "influito": [
-    "influito"
-  ],
-  "influsso": [
-    "influsːo"
-  ],
-  "infocato": [
-    "infokato"
-  ],
-  "infodemia": [
-    "infodemia"
-  ],
-  "infodemie": [
-    "infodemie"
-  ],
-  "infografica": [
-    "infoɡrafika"
-  ],
-  "infoiato": [
-    "infojato"
-  ],
-  "infoibare": [
-    "infojbare"
-  ],
-  "infondatezza": [
-    "infondatetːsa"
-  ],
-  "infondato": [
-    "infondato"
-  ],
-  "infondere": [
-    "infondere"
-  ],
-  "inforabile": [
-    "inforabile"
-  ],
-  "inforabili": [
-    "inforabili"
-  ],
-  "inforcare": [
-    "inforkare"
-  ],
-  "inforforare": [
-    "inforforare"
-  ],
-  "inforforarsi": [
-    "infosforarsi"
-  ],
-  "informale": [
-    "informale"
-  ],
-  "informalmente": [
-    "informalmente"
-  ],
-  "informando": [
-    "informando"
-  ],
-  "informante": [
-    "informante"
-  ],
-  "informare": [
-    "informare",
-    "infɔrmare",
-    "iɲformare"
-  ],
-  "informarsi": [
-    "informarsi"
-  ],
-  "informatica": [
-    "informatika",
-    "iɲformatika"
-  ],
-  "informatiche": [
-    "iɲformatike"
-  ],
-  "informatichese": [
-    "informatikese",
-    "informatikeze"
-  ],
-  "informatici": [
-    "iɲformatitʃi"
-  ],
-  "informatico": [
-    "informatiko",
-    "iɲformatiko"
-  ],
-  "informativo": [
-    "iɲformativo"
-  ],
-  "informatizzare": [
-    "informatidːzare"
-  ],
-  "informato": [
-    "informato",
-    "iɲformato"
-  ],
-  "informatore": [
-    "informatore",
-    "iɲformatore"
-  ],
-  "informatori": [
-    "informatori"
-  ],
-  "informatrice": [
-    "informatritʃe"
-  ],
-  "informatrici": [
-    "informatritʃi"
-  ],
-  "informazione": [
-    "informatːsjone",
-    "iɲformatsjone"
-  ],
-  "informe": [
-    "informe"
-  ],
-  "informicolata": [
-    "informikolata"
-  ],
-  "informicolate": [
-    "informikolate"
-  ],
-  "informicolati": [
-    "informikolati"
-  ],
-  "informicolato": [
-    "informikolato"
-  ],
-  "informicolirsi": [
-    "informikolirsi"
-  ],
-  "informicolito": [
-    "informikolito"
-  ],
-  "infornare": [
-    "iɲfornare"
-  ],
-  "infortunato": [
-    "iɲfortunato"
-  ],
-  "infortuni": [
-    "iɲfortuni"
-  ],
-  "infortunio": [
-    "infortunjo",
-    "iɲfortunjo"
-  ],
-  "infossare": [
-    "infosːare"
-  ],
-  "infradito": [
-    "infradito"
-  ],
-  "inframmezzare": [
-    "inframːedːzare"
-  ],
-  "inframmischiare": [
-    "inframːiskjare"
-  ],
-  "infrancesare": [
-    "infrantʃezare"
-  ],
-  "infranciosare": [
-    "infrantʃozare"
-  ],
-  "infrangere": [
-    "infrandʒere"
-  ],
-  "infrangibile": [
-    "iɲfrandʒibile"
-  ],
-  "infranto": [
-    "infranto"
-  ],
-  "infraordine": [
-    "infraordine"
-  ],
-  "infrappone": [
-    "infrapːone"
-  ],
-  "infrapponemmo": [
-    "infrapːonemːo"
-  ],
-  "infrapponendo": [
-    "infrapːonendo"
-  ],
-  "infrapponente": [
-    "infrapːonente"
-  ],
-  "infrapponesse": [
-    "infrapːonesːe"
-  ],
-  "infrapponessero": [
-    "infrapːonesːero"
-  ],
-  "infrapponessi": [
-    "infrapːonesːi"
-  ],
-  "infrapponessimo": [
-    "infrapːonesːimo"
-  ],
-  "infrapponeste": [
-    "infrapːonːeste"
-  ],
-  "infrapponesti": [
-    "infrapːonesti"
-  ],
-  "infrapponete": [
-    "infrapːonete"
-  ],
-  "infrapponeva": [
-    "infrapːoneva"
-  ],
-  "infrapponevamo": [
-    "infrapːonevamo"
-  ],
-  "infrapponevano": [
-    "infrapːonevano"
-  ],
-  "infrapponevate": [
-    "infrapːonevate"
-  ],
-  "infrapponevi": [
-    "infrapːonevi"
-  ],
-  "infrapponevo": [
-    "infrapːonevo"
-  ],
-  "infrapponga": [
-    "infrapːonɡa"
-  ],
-  "infrappongano": [
-    "infrapːonɡano"
-  ],
-  "infrappongo": [
-    "infrapːonɡo"
-  ],
-  "infrappongono": [
-    "infrapːonɡono"
-  ],
-  "infrapponi": [
-    "infrapːoni"
-  ],
-  "infrapponiamo": [
-    "infrapːonjamo"
-  ],
-  "infrapponiate": [
-    "infrapːonjate"
-  ],
-  "infrapporrà": [
-    "porːa"
-  ],
-  "infrapporrai": [
-    "infrapːorːai"
-  ],
-  "infrapporranno": [
-    "infrapːorːanːo"
-  ],
-  "infrapporre": [
-    "infrapːorːe"
-  ],
-  "infrapporrebbe": [
-    "infrapːorːebːe"
-  ],
-  "infrapporrebbero": [
-    "infrapːorːebːero"
-  ],
-  "infrapporrei": [
-    "infrapːorːei"
-  ],
-  "infrapporremmo": [
-    "infrapːorːemo"
-  ],
-  "infrapporremo": [
-    "infrapːorːemo"
-  ],
-  "infrapporreste": [
-    "infrapːorːeste"
-  ],
-  "infrapporresti": [
-    "infrapːorːesti"
-  ],
-  "infrapporrete": [
-    "infrapːorːete"
-  ],
-  "infrapporrò": [
-    "infrapːorːo"
-  ],
-  "infrappose": [
-    "infrapːose"
-  ],
-  "infrapposero": [
-    "infrapːosero"
-  ],
-  "infrapposi": [
-    "infrapːosi"
-  ],
-  "infrapposta": [
-    "infrapːosta"
-  ],
-  "infrapposte": [
-    "infrapːoste"
-  ],
-  "infrapposti": [
-    "infrapːosti"
-  ],
-  "infrapposto": [
-    "infrapːosto"
-  ],
-  "infrarossa": [
-    "infrarosːa"
-  ],
-  "infrarosse": [
-    "infrarosːe"
-  ],
-  "infrarossi": [
-    "infrarosːi"
-  ],
-  "infrarosso": [
-    "infrarosːo"
-  ],
-  "infrasonoro": [
-    "infrasonɔro"
-  ],
-  "infrastruttura": [
-    "infrastrutːura"
-  ],
-  "infrastrutturale": [
-    "infrastrutːurale"
-  ],
-  "infrastrutturali": [
-    "infrastrutːurali"
-  ],
-  "infrastrutture": [
-    "infrastrutːure"
-  ],
-  "infrasuono": [
-    "infraswɔno"
-  ],
-  "infrazione": [
-    "infratːsjone"
-  ],
-  "infreddolito": [
-    "infredːolito"
-  ],
-  "infrequentabile": [
-    "infrekwentabile"
-  ],
-  "infrequentabili": [
-    "infrekwentabili"
-  ],
-  "infrequente": [
-    "infrekwɛnte"
-  ],
-  "infrequenti": [
-    "infrekwɛnti"
-  ],
-  "infrollire": [
-    "infrolːire"
-  ],
-  "infruttescenza": [
-    "infrutːeʃʃɛntsa"
-  ],
-  "infruttifero": [
-    "iɲfrutːifero"
-  ],
-  "infruttuosamente": [
-    "infrutːuosamente"
-  ],
-  "infruttuosità": [
-    "infrutːuosita"
-  ],
-  "infruttuoso": [
-    "iɲfrutːuozo"
-  ],
-  "infundibolo": [
-    "infundibolo"
-  ],
-  "infuocare": [
-    "infwokare"
-  ],
-  "infuocato": [
-    "infwokato"
-  ],
-  "infuori": [
-    "infwɔri"
-  ],
-  "infurbire": [
-    "iɲfurbire"
-  ],
-  "infurbito": [
-    "infurbito"
-  ],
-  "infuriare": [
-    "infurjare"
-  ],
-  "infuriarsi": [
-    "infurjarsi"
-  ],
-  "infuriato": [
-    "infurjato"
-  ],
-  "infusibile": [
-    "infuzibile"
-  ],
-  "infusibili": [
-    "infuzibili"
-  ],
-  "infusione": [
-    "infuzjone"
-  ],
-  "infuso": [
-    "infuzo"
-  ],
-  "ingaggi": [
-    "inɡadːʒi"
-  ],
-  "ingaggiare": [
-    "inɡadːʒare",
-    "inɡaɡdʒare"
-  ],
-  "ingaggiato": [
-    "inɡadːʒato"
-  ],
-  "ingaggio": [
-    "inɡadːʒo"
-  ],
-  "ingannante": [
-    "inɡanːante"
-  ],
-  "ingannare": [
-    "inɡanːare",
-    "iɲɡanːare"
-  ],
-  "ingannato": [
-    "inɡanːato"
-  ],
-  "ingannatore": [
-    "inɡanːatore"
-  ],
-  "ingannatori": [
-    "inɡanːatori"
-  ],
-  "ingannatrice": [
-    "inɡanːatritʃ",
-    "inɡanːatritʃe"
-  ],
-  "ingannatrici": [
-    "inɡanːatori",
-    "inɡanːatritʃi"
-  ],
-  "ingannevole": [
-    "inɡanːevole"
-  ],
-  "ingannevoli": [
-    "inɡanːevoli"
-  ],
-  "inganni": [
-    "inɡanːi",
-    "iɲɡanːi"
-  ],
-  "inganno": [
-    "inɡanːo",
-    "iɲɡanːo"
-  ],
-  "ingarbugliato": [
-    "inɡarbuʎato"
-  ],
-  "ingegnere": [
-    "indʒeɲɲɛre",
-    "iɲdʒeɲɲɛre"
-  ],
-  "ingegneria": [
-    "indʒeɲɲeria",
-    "iɲdʒeɲɲeria"
-  ],
-  "ingegnerie": [
-    "indʒeɲɲerie"
-  ],
-  "ingegneristico": [
-    "indʒeɲɲeristiko"
-  ],
-  "ingegni": [
-    "indʒeɲɲi"
-  ],
-  "ingegno": [
-    "indʒeɲɲo"
-  ],
-  "ingegnosamente": [
-    "indʒeɲɲosamente",
-    "indʒeɲɲozamente"
-  ],
-  "ingegnosità": [
-    "indʒeɲɲozita",
-    "iɲdʒeɲɲozita"
-  ],
-  "ingegnoso": [
-    "indʒeɲɲoso",
-    "indʒeɲɲozo"
-  ],
-  "ingelosito": [
-    "indʒelosito"
-  ],
-  "ingenerabile": [
-    "indʒenerabile"
-  ],
-  "ingenerare": [
-    "indʒenerare"
-  ],
-  "ingenerato": [
-    "indʒenerato"
-  ],
-  "ingente": [
-    "indʒɛnte"
-  ],
-  "ingenti": [
-    "indʒɛnti"
-  ],
-  "ingentilito": [
-    "indʒentilito"
-  ],
-  "ingenuamente": [
-    "indʒenuamente"
-  ],
-  "ingenuità": [
-    "indʒenuita"
-  ],
-  "ingenuo": [
-    "indʒɛnwo"
-  ],
-  "ingerenza": [
-    "iɲdʒerɛntsa"
-  ],
-  "ingerire": [
-    "indʒerire"
-  ],
-  "ingerito": [
-    "indʒerito"
-  ],
-  "ingessante": [
-    "indʒɛsːante"
-  ],
-  "ingessare": [
-    "indʒɛsːare"
-  ],
-  "ingessato": [
-    "indʒesːato",
-    "indʒɛsːato"
-  ],
-  "ingessatura": [
-    "indʒesːatura"
-  ],
-  "ingestione": [
-    "indʒestjone"
-  ],
-  "inghebbiare": [
-    "inɡebːjare"
-  ],
-  "inghilterra": [
-    "inɡiltɛrːa"
-  ],
-  "inghiottire": [
-    "iɲɡjotːire"
-  ],
-  "inghiottito": [
-    "inɡjotːito"
-  ],
-  "inghiottitoio": [
-    "inɡjotːitojo"
-  ],
-  "inghippi": [
-    "inɡipːi"
-  ],
-  "inghippo": [
-    "inɡipːo"
-  ],
-  "ingiallito": [
-    "indʒalːito"
-  ],
-  "ingigantire": [
-    "indʒiɡantire"
-  ],
-  "ingigantito": [
-    "indʒiɡantito"
-  ],
-  "inginocchiare": [
-    "iɲdʒinokːjare"
-  ],
-  "inginocchiarsi": [
-    "indʒinokːjarsi",
-    "iɲdʒinokːjarsi"
-  ],
-  "inginocchiato": [
-    "indʒinokːjato"
-  ],
-  "inginocchiatoi": [
-    "iɲdʒinokːjatoji"
-  ],
-  "inginocchiatoio": [
-    "indʒinokːjatojo",
-    "iɲdʒinokːjatojo"
-  ],
-  "inginocchiatori": [
-    "iɲdʒinokːjatori"
-  ],
-  "inginocchiatorio": [
-    "iɲdʒinokːjatorjo"
-  ],
-  "ingiocabile": [
-    "indʒokabile"
-  ],
-  "ingiocabili": [
-    "indʒokabili"
-  ],
-  "ingioiellato": [
-    "indʒojelːato"
-  ],
-  "ingiù": [
-    "indʒu"
-  ],
-  "ingiudicato": [
-    "indʒudikato"
-  ],
-  "ingiulebba": [
-    "indʒulɛbːa"
-  ],
-  "ingiulebbano": [
-    "indʒulɛbːano"
-  ],
-  "ingiulebbare": [
-    "indʒulebːare"
-  ],
-  "ingiulebbi": [
-    "indʒulɛbːi"
-  ],
-  "ingiulebbino": [
-    "indʒulɛbːino"
-  ],
-  "ingiulebbo": [
-    "indʒulɛbːo"
-  ],
-  "ingiungere": [
-    "indʒundʒere"
-  ],
-  "ingiunzione": [
-    "indʒuntsjone"
-  ],
-  "ingiuria": [
-    "indʒurja"
-  ],
-  "ingiuriante": [
-    "indʒurjante"
-  ],
-  "ingiuriare": [
-    "indʒurjare",
-    "inɡiuriare"
-  ],
-  "ingiuriato": [
-    "indʒurjato"
-  ],
-  "ingiuriatore": [
-    "indʒurjatore"
-  ],
-  "ingiuriatrice": [
-    "indʒurjatritʃe"
-  ],
-  "ingiurie": [
-    "indʒurje"
-  ],
-  "ingiuriosamente": [
-    "indʒurjozamente"
-  ],
-  "ingiurioso": [
-    "indʒurjoso",
-    "indʒurjozo"
-  ],
-  "ingiustamente": [
-    "indʒustamente"
-  ],
-  "ingiustificabile": [
-    "indʒustifikabile"
-  ],
-  "ingiustificabili": [
-    "indʒustifikabile"
-  ],
-  "ingiustificabilità": [
-    "indʒustifikabilita"
-  ],
-  "ingiustificabilmente": [
-    "indʒustifikabilmente"
-  ],
-  "ingiustificata": [
-    "indʒustifikata"
-  ],
-  "ingiustificatamente": [
-    "indʒustifikatamente"
-  ],
-  "ingiustificate": [
-    "indʒustifikate"
-  ],
-  "ingiustificati": [
-    "indʒustifikati"
-  ],
-  "ingiustificato": [
-    "indʒustifikato",
-    "iɲdʒustifikato"
-  ],
-  "ingiustizia": [
-    "indʒustitːsja"
-  ],
-  "ingiustizie": [
-    "indʒustitːsje"
-  ],
-  "ingiusto": [
-    "indʒusto"
-  ],
-  "inglese": [
-    "inɡlese",
-    "inɡleze",
-    "iɲɡleze"
-  ],
-  "inglesi": [
-    "inɡlezi"
-  ],
-  "inglesismo": [
-    "inɡlesizmo",
-    "inɡlezizmo"
-  ],
-  "inglesizzare": [
-    "inɡlesidːzare",
-    "inɡlezidːzare"
-  ],
-  "inglesizzarsi": [
-    "inɡlesidːzarsi"
-  ],
-  "inglobante": [
-    "inɡlobante"
-  ],
-  "inglobanti": [
-    "inɡlobanti"
-  ],
-  "inglobare": [
-    "inɡlobare"
-  ],
-  "inglobato": [
-    "inɡlobato"
-  ],
-  "ingobbiare": [
-    "inɡobːjare"
-  ],
-  "ingobbio": [
-    "inɡobːjo",
-    "inɡɔbːjo"
-  ],
-  "ingobbito": [
-    "inɡobːito"
-  ],
-  "ingoiare": [
-    "iɲɡojare"
-  ],
-  "ingombrante": [
-    "inɡombrante",
-    "iɲɡombrante"
-  ],
-  "ingombranti": [
-    "iɲɡombranti"
-  ],
-  "ingombrare": [
-    "iɲɡombrare"
-  ],
-  "ingombrato": [
-    "iɲɡombrato"
-  ],
-  "ingordigia": [
-    "iɲɡordidʒa"
-  ],
-  "ingordo": [
-    "inɡordo"
-  ],
-  "ingorgare": [
-    "inɡorɡare"
-  ],
-  "ingorgo": [
-    "inɡorɡo"
-  ],
-  "ingottito": [
-    "inɡotːito"
-  ],
-  "ingovernabile": [
-    "inɡovernabile"
-  ],
-  "ingovernabili": [
-    "inɡovernabili"
-  ],
-  "ingozzare": [
-    "inɡotːsare"
-  ],
-  "ingranaggio": [
-    "iɲɡranadːʒo"
-  ],
-  "ingranare": [
-    "inɡranare"
-  ],
-  "ingrandente": [
-    "inɡrandente"
-  ],
-  "ingrandenti": [
-    "inɡrandenti"
-  ],
-  "ingrandibile": [
-    "inɡrandibile"
-  ],
-  "ingrandibili": [
-    "inɡrandibili"
-  ],
-  "ingrandimento": [
-    "inɡrandimento"
-  ],
-  "ingrandire": [
-    "inɡrandire",
-    "iɲɡrandire"
-  ],
-  "ingrandita": [
-    "inɡrandita"
-  ],
-  "ingrandite": [
-    "inɡrandite"
-  ],
-  "ingranditi": [
-    "inɡranditi"
-  ],
-  "ingrandito": [
-    "inɡrandito"
-  ],
-  "ingrassabue": [
-    "inɡrasːabue"
-  ],
-  "ingrassaggi": [
-    "inɡrasːadːʒi"
-  ],
-  "ingrassaggio": [
-    "inɡrasːadːʒo"
-  ],
-  "ingrassante": [
-    "inɡrasːante"
-  ],
-  "ingrassare": [
-    "inɡrasːare"
-  ],
-  "ingrassarsi": [
-    "inɡrasːarsi"
-  ],
-  "ingrassato": [
-    "inɡrasːato"
-  ],
-  "ingrasso": [
-    "inɡrasːo"
-  ],
-  "ingrata": [
-    "inɡrata"
-  ],
-  "ingrate": [
-    "inɡrate"
-  ],
-  "ingrati": [
-    "inɡrati"
-  ],
-  "ingratitudine": [
-    "inɡratitudine"
-  ],
-  "ingratitudini": [
-    "inɡratitudini"
-  ],
-  "ingrato": [
-    "inɡrato",
-    "inɡratɔ"
-  ],
-  "ingraziare": [
-    "inɡratːsjare"
-  ],
-  "ingrediente": [
-    "inɡredjɛnte",
-    "iɲɡrediɛnte"
-  ],
-  "ingredienti": [
-    "inɡredjɛnti"
-  ],
-  "ingressi": [
-    "iɲɡrɛsːi"
-  ],
-  "ingresso": [
-    "iɲɡrɛsːo"
-  ],
-  "ingrifarsi": [
-    "inɡrifarsi"
-  ],
-  "ingroppare": [
-    "inɡropːare"
-  ],
-  "ingropparsi": [
-    "inɡropːarsi"
-  ],
-  "ingrossamento": [
-    "inɡrosːamento"
-  ],
-  "ingrossare": [
-    "inɡrosːare"
-  ],
-  "ingrossato": [
-    "inɡrosːato"
-  ],
-  "ingrugnare": [
-    "inɡruɲɲare"
-  ],
-  "inguaiato": [
-    "inɡwajato"
-  ],
-  "inguantato": [
-    "inɡwantato"
-  ],
-  "inguardabile": [
-    "inɡwadabile"
-  ],
-  "inguardabili": [
-    "inɡwadabili"
-  ],
-  "inguaribile": [
-    "inɡwaribile",
-    "iɲɡwaribile"
-  ],
-  "inguaribili": [
-    "inɡwaribili"
-  ],
-  "ingubbiare": [
-    "inɡubːjare"
-  ],
-  "inguinale": [
-    "inɡwinale"
-  ],
-  "inguine": [
-    "inɡwine"
-  ],
-  "inguini": [
-    "inɡwinii"
-  ],
-  "ingurgitare": [
-    "inɡurdʒitare",
-    "iɲɡurdʒitare"
-  ],
-  "inguscezia": [
-    "inɡuʃʃɛtːsja"
-  ],
-  "inguscia": [
-    "inɡuʃʃa"
-  ],
-  "inguscio": [
-    "inɡuʃʃo"
-  ],
-  "inia": [
-    "inja"
-  ],
-  "inibire": [
-    "inibire"
-  ],
-  "inibiti": [
-    "inibiti"
-  ],
-  "inibito": [
-    "inibito"
-  ],
-  "inibizione": [
-    "inibitsjone"
-  ],
-  "inidentificabile": [
-    "inidentifikabile"
-  ],
-  "inidentificabili": [
-    "inidentifikabili"
-  ],
-  "inidoneo": [
-    "inidɔneo"
-  ],
-  "iniettabile": [
-    "injetːabile"
-  ],
-  "iniettabili": [
-    "injetːabili"
-  ],
-  "iniettare": [
-    "injetːare"
-  ],
-  "iniettore": [
-    "injetːore"
-  ],
-  "iniezione": [
-    "injetːsjone"
-  ],
-  "iniezioni": [
-    "injetːsjoni"
-  ],
-  "inimicato": [
-    "inimikato"
-  ],
-  "inimicizia": [
-    "inimitʃitsja"
-  ],
-  "inimitabile": [
-    "inimitabile"
-  ],
-  "inimitabili": [
-    "inimitabili"
-  ],
-  "inimitabilità": [
-    "inimitabilita"
-  ],
-  "inimmaginabile": [
-    "inimːadʒinabile"
-  ],
-  "inimmaginabili": [
-    "inimːadʒinabili"
-  ],
-  "ininfiammabile": [
-    "iniɲfjamːabile"
-  ],
-  "ininfiammabili": [
-    "iniɲfjamːabili"
-  ],
-  "ininfiammabilità": [
-    "iniɲfjamːabilita"
-  ],
-  "inintellegibile": [
-    "inintelːedʒibile"
-  ],
-  "inintellegibili": [
-    "inintelːedʒibili"
-  ],
-  "inintelligente": [
-    "inintelːidʒɛnte"
-  ],
-  "inintelligentemente": [
-    "inintelːidʒentemente"
-  ],
-  "inintelligenza": [
-    "inintelːidʒɛntsa"
-  ],
-  "inintelligibile": [
-    "inintelːidʒibile"
-  ],
-  "inintelligibili": [
-    "inintelːidʒibili"
-  ],
-  "inintelligibilità": [
-    "inintelːidʒibilita"
-  ],
-  "inintelligibilmente": [
-    "inintelːidʒentemente"
-  ],
-  "ininterrotta": [
-    "ininterːotːa"
-  ],
-  "ininterrottamente": [
-    "ininterːotːamente"
-  ],
-  "ininterrotte": [
-    "ininterːotːe"
-  ],
-  "ininterrotti": [
-    "ininterːotːi"
-  ],
-  "ininterrotto": [
-    "ininterːotːo"
-  ],
-  "iniquamente": [
-    "inikwamente"
-  ],
-  "inique": [
-    "inikwe"
-  ],
-  "iniquità": [
-    "inikwita"
-  ],
-  "iniquitanza": [
-    "inikwitantsa"
-  ],
-  "iniquitoso": [
-    "inikwitozo"
-  ],
-  "iniquo": [
-    "inikwo"
-  ],
-  "inizi": [
-    "initːsi"
-  ],
-  "iniziale": [
-    "initːsjale"
-  ],
-  "inizializzare": [
-    "initsialidːzare"
-  ],
-  "inizialmente": [
-    "initːsjalmente"
-  ],
-  "inizianda": [
-    "initːsjanda"
-  ],
-  "iniziando": [
-    "initːsjando"
-  ],
-  "iniziante": [
-    "initːsjante"
-  ],
-  "iniziare": [
-    "initːsjare"
-  ],
-  "iniziata": [
-    "initːsjata"
-  ],
-  "iniziate": [
-    "initːsjate"
-  ],
-  "iniziati": [
-    "initːsjati"
-  ],
-  "iniziatico": [
-    "initːsjatiko"
-  ],
-  "iniziativa": [
-    "initsjativa"
-  ],
-  "iniziative": [
-    "initsjative"
-  ],
-  "iniziato": [
-    "initsjato",
-    "initːsjato"
-  ],
-  "iniziatore": [
-    "initsjatore",
-    "initːsjatore"
-  ],
-  "iniziatori": [
-    "initsjatori"
-  ],
-  "iniziatrice": [
-    "initsjatritʃe"
-  ],
-  "iniziatrici": [
-    "initsjatritʃi"
-  ],
-  "iniziazione": [
-    "initsjatsjone"
-  ],
-  "inizio": [
-    "initsjo",
-    "initːsio",
-    "initːsjo"
-  ],
-  "inleiarsi": [
-    "inlejarsi"
-  ],
-  "inluiarsi": [
-    "inlujarsi"
-  ],
-  "inmiarsi": [
-    "inmiarsi"
-  ],
-  "innaffiabile": [
-    "inːafːjabile"
-  ],
-  "innaffiabili": [
-    "inːafːjabili"
-  ],
-  "innaffiante": [
-    "inːafːjante"
-  ],
-  "innaffiare": [
-    "inːafːjare"
-  ],
-  "innaffiata": [
-    "inːafːjata"
-  ],
-  "innaffiato": [
-    "inːafːjato"
-  ],
-  "innaffiatoi": [
-    "inːafːjatoi"
-  ],
-  "innaffiatoio": [
-    "inːafːjatojo"
-  ],
-  "innalzamento": [
-    "inːaltsamento"
-  ],
-  "innalzare": [
-    "inːaltsare"
-  ],
-  "innalzarsi": [
-    "inːaltsarsi"
-  ],
-  "innalzato": [
-    "inːaltsato"
-  ],
-  "innamoramenti": [
-    "inːamoramenti"
-  ],
-  "innamoramento": [
-    "inːamoramento"
-  ],
-  "innamorante": [
-    "inːamorante"
-  ],
-  "innamorare": [
-    "inːamorare"
-  ],
-  "innamorarsi": [
-    "inːamorarsi"
-  ],
-  "innamorata": [
-    "inːamorata"
-  ],
-  "innamorate": [
-    "inːamorate"
-  ],
-  "innamorati": [
-    "inːamorati"
-  ],
-  "innamorato": [
-    "inːamorato"
-  ],
-  "innanzi": [
-    "inːantsi"
-  ]
+  "infermieri": "infermjɛri",
+  "infermità": "infermita",
+  "infermità_2": "iɲfermita",
+  "infernale": "infernale",
+  "infernali": "infernali",
+  "inferno": "infɛrno",
+  "infero": "infero",
+  "inferocire": "inferotʃire",
+  "inferocito": "inferotʃito",
+  "inferocito_2": "iɲferotʃito",
+  "inferriata": "iɲferːjata",
+  "inferto": "infɛrto",
+  "infervorare": "infervorare",
+  "infervorato": "infervorato",
+  "infestante": "infestante",
+  "infestare": "iɲfestare",
+  "infettante": "infɛtːante",
+  "infettanti": "infɛtːanti",
+  "infettare": "infɛtːare",
+  "infettata": "infɛtːata",
+  "infettate": "infɛtːate",
+  "infettati": "infɛtːati",
+  "infettato": "infetːato",
+  "infettato_2": "infɛtːato",
+  "infettività": "infetːivita",
+  "infettivo": "infetːivo",
+  "infettivologa": "infetːivɔloɡa",
+  "infettivologo": "infetːivɔloɡo",
+  "infeudare": "infewdare",
+  "infezione": "infetːsjone",
+  "infezione_2": "iɲfetsjone",
+  "infezioni": "infetːsjoni",
+  "infiacchire": "imfjakːire",
+  "infiacchito": "infjakːito",
+  "infiammabile": "infjamːabile",
+  "infiammabile_2": "iɲfjamːabile",
+  "infiammabili": "iɲfjamːabili",
+  "infiammabilità": "infjamːabilita",
+  "infiammabilità_2": "iɲfjamːabilita",
+  "infiammare": "infjamːare",
+  "infiammato": "infjamːato",
+  "infiammatori": "iɲfjamːatɔri",
+  "infiammatoria": "iɲfjamːatɔrja",
+  "infiammatorie": "iɲfjamːatɔrje",
+  "infiammatorio": "iɲfjamːatɔrjo",
+  "infiammazione": "infjamːatːsjone",
+  "infibulazione": "infibulatsjone",
+  "infibulazione_2": "infibulatːsjone",
+  "infibulazioni": "infibulatsjoni",
+  "inficiare": "iɲfitʃare",
+  "inficiato": "infitʃato",
+  "infidamente": "infidamente",
+  "infido": "infido",
+  "infierire": "infjerire",
+  "infiggere": "infidːʒere",
+  "infilaaghi": "infilaaɡi",
+  "infilare": "infilare",
+  "infilarsi": "infilarsi",
+  "infilato": "nfilato",
+  "infiltrato": "infiltrato",
+  "infilzato": "infiltsato",
+  "infimo": "infimo",
+  "infine": "infine",
+  "infingardaggine": "infinɡardadːʒine",
+  "infingardo": "infinɡardo",
+  "infingardo_2": "iɲfinɡardo",
+  "infingere": "infindʒere",
+  "infingimento": "infindʒimento",
+  "infinita": "infinita",
+  "infinità": "infinita",
+  "infinitamente": "infinitamente",
+  "infinite": "infinite",
+  "infinitesimale": "iɲfinitezimale",
+  "infinitesimali": "iɲfinitezimali",
+  "infinitesimo": "infinitɛzimo",
+  "infinitezza": "infinitetːsa",
+  "infiniti": "infiniti",
+  "infinitivo": "infinitivo",
+  "infinito": "infinito",
+  "infinocchiare": "infinokːjare",
+  "infinocchiato": "infinokːjato",
+  "infiorare": "iɲfjorare",
+  "infiorata": "infjorata",
+  "infiorescenza": "infjoreʃʃɛntsa",
+  "infirmato": "infirmato",
+  "infisso": "imfisːo",
+  "infisso_2": "infisːo",
+  "inflazionare": "inflatːsjonare",
+  "inflazione": "inflatːsjone",
+  "inflazioni": "inflatːsjoni",
+  "inflazionista": "inflatsjonista",
+  "inflazioniste": "inflatsjoniste",
+  "inflazionisti": "inflatsjonisti",
+  "inflessibile": "inflesːibile",
+  "inflessibile_2": "iɲflesːibile",
+  "inflessibili": "inflesːibili",
+  "inflessione": "inflesːjone",
+  "infliggere": "inflidːʒere",
+  "inflitto": "inflitːo",
+  "influente": "influɛnte",
+  "influenti": "influɛnti",
+  "influentissima": "influɛntisːima",
+  "influentissime": "influɛntisːime",
+  "influentissimi": "influɛntisːimi",
+  "influentissimo": "influɛntisːimo",
+  "influenza": "imfluɛntsa",
+  "influenza_2": "influɛntsa",
+  "influenza_3": "iɲfluɛntsa",
+  "influenzabile": "influentsabile",
+  "influenzabili": "influentsabili",
+  "influenzale": "influentsale",
+  "influenzare": "nfluentsare",
+  "influenzato": "influentsato",
+  "influenze": "iɲfluɛntse",
+  "influire": "influire",
+  "influito": "influito",
+  "influsso": "influsːo",
+  "infocato": "infokato",
+  "infodemia": "infodemia",
+  "infodemie": "infodemie",
+  "infografica": "infoɡrafika",
+  "infoiato": "infojato",
+  "infoibare": "infojbare",
+  "infondatezza": "infondatetːsa",
+  "infondato": "infondato",
+  "infondere": "infondere",
+  "inforabile": "inforabile",
+  "inforabili": "inforabili",
+  "inforcare": "inforkare",
+  "inforforare": "inforforare",
+  "inforforarsi": "infosforarsi",
+  "informale": "informale",
+  "informalmente": "informalmente",
+  "informando": "informando",
+  "informante": "informante",
+  "informare": "informare",
+  "informare_2": "infɔrmare",
+  "informare_3": "iɲformare",
+  "informarsi": "informarsi",
+  "informatica": "informatika",
+  "informatica_2": "iɲformatika",
+  "informatiche": "iɲformatike",
+  "informatichese": "informatikese",
+  "informatichese_2": "informatikeze",
+  "informatici": "iɲformatitʃi",
+  "informatico": "informatiko",
+  "informatico_2": "iɲformatiko",
+  "informativo": "iɲformativo",
+  "informatizzare": "informatidːzare",
+  "informato": "informato",
+  "informato_2": "iɲformato",
+  "informatore": "informatore",
+  "informatore_2": "iɲformatore",
+  "informatori": "informatori",
+  "informatrice": "informatritʃe",
+  "informatrici": "informatritʃi",
+  "informazione": "informatːsjone",
+  "informazione_2": "iɲformatsjone",
+  "informe": "informe",
+  "informicolata": "informikolata",
+  "informicolate": "informikolate",
+  "informicolati": "informikolati",
+  "informicolato": "informikolato",
+  "informicolirsi": "informikolirsi",
+  "informicolito": "informikolito",
+  "infornare": "iɲfornare",
+  "infortunato": "iɲfortunato",
+  "infortuni": "iɲfortuni",
+  "infortunio": "infortunjo",
+  "infortunio_2": "iɲfortunjo",
+  "infossare": "infosːare",
+  "infradito": "infradito",
+  "inframmezzare": "inframːedːzare",
+  "inframmischiare": "inframːiskjare",
+  "infrancesare": "infrantʃezare",
+  "infranciosare": "infrantʃozare",
+  "infrangere": "infrandʒere",
+  "infrangibile": "iɲfrandʒibile",
+  "infranto": "infranto",
+  "infraordine": "infraordine",
+  "infrappone": "infrapːone",
+  "infrapponemmo": "infrapːonemːo",
+  "infrapponendo": "infrapːonendo",
+  "infrapponente": "infrapːonente",
+  "infrapponesse": "infrapːonesːe",
+  "infrapponessero": "infrapːonesːero",
+  "infrapponessi": "infrapːonesːi",
+  "infrapponessimo": "infrapːonesːimo",
+  "infrapponeste": "infrapːonːeste",
+  "infrapponesti": "infrapːonesti",
+  "infrapponete": "infrapːonete",
+  "infrapponeva": "infrapːoneva",
+  "infrapponevamo": "infrapːonevamo",
+  "infrapponevano": "infrapːonevano",
+  "infrapponevate": "infrapːonevate",
+  "infrapponevi": "infrapːonevi",
+  "infrapponevo": "infrapːonevo",
+  "infrapponga": "infrapːonɡa",
+  "infrappongano": "infrapːonɡano",
+  "infrappongo": "infrapːonɡo",
+  "infrappongono": "infrapːonɡono",
+  "infrapponi": "infrapːoni",
+  "infrapponiamo": "infrapːonjamo",
+  "infrapponiate": "infrapːonjate",
+  "infrapporrà": "porːa",
+  "infrapporrai": "infrapːorːai",
+  "infrapporranno": "infrapːorːanːo",
+  "infrapporre": "infrapːorːe",
+  "infrapporrebbe": "infrapːorːebːe",
+  "infrapporrebbero": "infrapːorːebːero",
+  "infrapporrei": "infrapːorːei",
+  "infrapporremmo": "infrapːorːemo",
+  "infrapporremo": "infrapːorːemo",
+  "infrapporreste": "infrapːorːeste",
+  "infrapporresti": "infrapːorːesti",
+  "infrapporrete": "infrapːorːete",
+  "infrapporrò": "infrapːorːo",
+  "infrappose": "infrapːose",
+  "infrapposero": "infrapːosero",
+  "infrapposi": "infrapːosi",
+  "infrapposta": "infrapːosta",
+  "infrapposte": "infrapːoste",
+  "infrapposti": "infrapːosti",
+  "infrapposto": "infrapːosto",
+  "infrarossa": "infrarosːa",
+  "infrarosse": "infrarosːe",
+  "infrarossi": "infrarosːi",
+  "infrarosso": "infrarosːo",
+  "infrasonoro": "infrasonɔro",
+  "infrastruttura": "infrastrutːura",
+  "infrastrutturale": "infrastrutːurale",
+  "infrastrutturali": "infrastrutːurali",
+  "infrastrutture": "infrastrutːure",
+  "infrasuono": "infraswɔno",
+  "infrazione": "infratːsjone",
+  "infreddolito": "infredːolito",
+  "infrequentabile": "infrekwentabile",
+  "infrequentabili": "infrekwentabili",
+  "infrequente": "infrekwɛnte",
+  "infrequenti": "infrekwɛnti",
+  "infrollire": "infrolːire",
+  "infruttescenza": "infrutːeʃʃɛntsa",
+  "infruttifero": "iɲfrutːifero",
+  "infruttuosamente": "infrutːuosamente",
+  "infruttuosità": "infrutːuosita",
+  "infruttuoso": "iɲfrutːuozo",
+  "infundibolo": "infundibolo",
+  "infuocare": "infwokare",
+  "infuocato": "infwokato",
+  "infuori": "infwɔri",
+  "infurbire": "iɲfurbire",
+  "infurbito": "infurbito",
+  "infuriare": "infurjare",
+  "infuriarsi": "infurjarsi",
+  "infuriato": "infurjato",
+  "infusibile": "infuzibile",
+  "infusibili": "infuzibili",
+  "infusione": "infuzjone",
+  "infuso": "infuzo",
+  "ingaggi": "inɡadːʒi",
+  "ingaggiare": "inɡadːʒare",
+  "ingaggiare_2": "inɡaɡdʒare",
+  "ingaggiato": "inɡadːʒato",
+  "ingaggio": "inɡadːʒo",
+  "ingannante": "inɡanːante",
+  "ingannare": "inɡanːare",
+  "ingannare_2": "iɲɡanːare",
+  "ingannato": "inɡanːato",
+  "ingannatore": "inɡanːatore",
+  "ingannatori": "inɡanːatori",
+  "ingannatrice": "inɡanːatritʃ",
+  "ingannatrice_2": "inɡanːatritʃe",
+  "ingannatrici": "inɡanːatori",
+  "ingannatrici_2": "inɡanːatritʃi",
+  "ingannevole": "inɡanːevole",
+  "ingannevoli": "inɡanːevoli",
+  "inganni": "inɡanːi",
+  "inganni_2": "iɲɡanːi",
+  "inganno": "inɡanːo",
+  "inganno_2": "iɲɡanːo",
+  "ingarbugliato": "inɡarbuʎato",
+  "ingegnere": "indʒeɲɲɛre",
+  "ingegnere_2": "iɲdʒeɲɲɛre",
+  "ingegneria": "indʒeɲɲeria",
+  "ingegneria_2": "iɲdʒeɲɲeria",
+  "ingegnerie": "indʒeɲɲerie",
+  "ingegneristico": "indʒeɲɲeristiko",
+  "ingegni": "indʒeɲɲi",
+  "ingegno": "indʒeɲɲo",
+  "ingegnosamente": "indʒeɲɲosamente",
+  "ingegnosamente_2": "indʒeɲɲozamente",
+  "ingegnosità": "indʒeɲɲozita",
+  "ingegnosità_2": "iɲdʒeɲɲozita",
+  "ingegnoso": "indʒeɲɲoso",
+  "ingegnoso_2": "indʒeɲɲozo",
+  "ingelosito": "indʒelosito",
+  "ingenerabile": "indʒenerabile",
+  "ingenerare": "indʒenerare",
+  "ingenerato": "indʒenerato",
+  "ingente": "indʒɛnte",
+  "ingenti": "indʒɛnti",
+  "ingentilito": "indʒentilito",
+  "ingenuamente": "indʒenuamente",
+  "ingenuità": "indʒenuita",
+  "ingenuo": "indʒɛnwo",
+  "ingerenza": "iɲdʒerɛntsa",
+  "ingerire": "indʒerire",
+  "ingerito": "indʒerito",
+  "ingessante": "indʒɛsːante",
+  "ingessare": "indʒɛsːare",
+  "ingessato": "indʒesːato",
+  "ingessato_2": "indʒɛsːato",
+  "ingessatura": "indʒesːatura",
+  "ingestione": "indʒestjone",
+  "inghebbiare": "inɡebːjare",
+  "inghilterra": "inɡiltɛrːa",
+  "inghiottire": "iɲɡjotːire",
+  "inghiottito": "inɡjotːito",
+  "inghiottitoio": "inɡjotːitojo",
+  "inghippi": "inɡipːi",
+  "inghippo": "inɡipːo",
+  "ingiallito": "indʒalːito",
+  "ingigantire": "indʒiɡantire",
+  "ingigantito": "indʒiɡantito",
+  "inginocchiare": "iɲdʒinokːjare",
+  "inginocchiarsi": "indʒinokːjarsi",
+  "inginocchiarsi_2": "iɲdʒinokːjarsi",
+  "inginocchiato": "indʒinokːjato",
+  "inginocchiatoi": "iɲdʒinokːjatoji",
+  "inginocchiatoio": "indʒinokːjatojo",
+  "inginocchiatoio_2": "iɲdʒinokːjatojo",
+  "inginocchiatori": "iɲdʒinokːjatori",
+  "inginocchiatorio": "iɲdʒinokːjatorjo",
+  "ingiocabile": "indʒokabile",
+  "ingiocabili": "indʒokabili",
+  "ingioiellato": "indʒojelːato",
+  "ingiù": "indʒu",
+  "ingiudicato": "indʒudikato",
+  "ingiulebba": "indʒulɛbːa",
+  "ingiulebbano": "indʒulɛbːano",
+  "ingiulebbare": "indʒulebːare",
+  "ingiulebbi": "indʒulɛbːi",
+  "ingiulebbino": "indʒulɛbːino",
+  "ingiulebbo": "indʒulɛbːo",
+  "ingiungere": "indʒundʒere",
+  "ingiunzione": "indʒuntsjone",
+  "ingiuria": "indʒurja",
+  "ingiuriante": "indʒurjante",
+  "ingiuriare": "indʒurjare",
+  "ingiuriare_2": "inɡiuriare",
+  "ingiuriato": "indʒurjato",
+  "ingiuriatore": "indʒurjatore",
+  "ingiuriatrice": "indʒurjatritʃe",
+  "ingiurie": "indʒurje",
+  "ingiuriosamente": "indʒurjozamente",
+  "ingiurioso": "indʒurjoso",
+  "ingiurioso_2": "indʒurjozo",
+  "ingiustamente": "indʒustamente",
+  "ingiustificabile": "indʒustifikabile",
+  "ingiustificabili": "indʒustifikabile",
+  "ingiustificabilità": "indʒustifikabilita",
+  "ingiustificabilmente": "indʒustifikabilmente",
+  "ingiustificata": "indʒustifikata",
+  "ingiustificatamente": "indʒustifikatamente",
+  "ingiustificate": "indʒustifikate",
+  "ingiustificati": "indʒustifikati",
+  "ingiustificato": "indʒustifikato",
+  "ingiustificato_2": "iɲdʒustifikato",
+  "ingiustizia": "indʒustitːsja",
+  "ingiustizie": "indʒustitːsje",
+  "ingiusto": "indʒusto",
+  "inglese": "inɡlese",
+  "inglese_2": "inɡleze",
+  "inglese_3": "iɲɡleze",
+  "inglesi": "inɡlezi",
+  "inglesismo": "inɡlesizmo",
+  "inglesismo_2": "inɡlezizmo",
+  "inglesizzare": "inɡlesidːzare",
+  "inglesizzare_2": "inɡlezidːzare",
+  "inglesizzarsi": "inɡlesidːzarsi",
+  "inglobante": "inɡlobante",
+  "inglobanti": "inɡlobanti",
+  "inglobare": "inɡlobare",
+  "inglobato": "inɡlobato",
+  "ingobbiare": "inɡobːjare",
+  "ingobbio": "inɡobːjo",
+  "ingobbio_2": "inɡɔbːjo",
+  "ingobbito": "inɡobːito",
+  "ingoiare": "iɲɡojare",
+  "ingombrante": "inɡombrante",
+  "ingombrante_2": "iɲɡombrante",
+  "ingombranti": "iɲɡombranti",
+  "ingombrare": "iɲɡombrare",
+  "ingombrato": "iɲɡombrato",
+  "ingordigia": "iɲɡordidʒa",
+  "ingordo": "inɡordo",
+  "ingorgare": "inɡorɡare",
+  "ingorgo": "inɡorɡo",
+  "ingottito": "inɡotːito",
+  "ingovernabile": "inɡovernabile",
+  "ingovernabili": "inɡovernabili",
+  "ingozzare": "inɡotːsare",
+  "ingranaggio": "iɲɡranadːʒo",
+  "ingranare": "inɡranare",
+  "ingrandente": "inɡrandente",
+  "ingrandenti": "inɡrandenti",
+  "ingrandibile": "inɡrandibile",
+  "ingrandibili": "inɡrandibili",
+  "ingrandimento": "inɡrandimento",
+  "ingrandire": "inɡrandire",
+  "ingrandire_2": "iɲɡrandire",
+  "ingrandita": "inɡrandita",
+  "ingrandite": "inɡrandite",
+  "ingranditi": "inɡranditi",
+  "ingrandito": "inɡrandito",
+  "ingrassabue": "inɡrasːabue",
+  "ingrassaggi": "inɡrasːadːʒi",
+  "ingrassaggio": "inɡrasːadːʒo",
+  "ingrassante": "inɡrasːante",
+  "ingrassare": "inɡrasːare",
+  "ingrassarsi": "inɡrasːarsi",
+  "ingrassato": "inɡrasːato",
+  "ingrasso": "inɡrasːo",
+  "ingrata": "inɡrata",
+  "ingrate": "inɡrate",
+  "ingrati": "inɡrati",
+  "ingratitudine": "inɡratitudine",
+  "ingratitudini": "inɡratitudini",
+  "ingrato": "inɡrato",
+  "ingrato_2": "inɡratɔ",
+  "ingraziare": "inɡratːsjare",
+  "ingrediente": "inɡredjɛnte",
+  "ingrediente_2": "iɲɡrediɛnte",
+  "ingredienti": "inɡredjɛnti",
+  "ingressi": "iɲɡrɛsːi",
+  "ingresso": "iɲɡrɛsːo",
+  "ingrifarsi": "inɡrifarsi",
+  "ingroppare": "inɡropːare",
+  "ingropparsi": "inɡropːarsi",
+  "ingrossamento": "inɡrosːamento",
+  "ingrossare": "inɡrosːare",
+  "ingrossato": "inɡrosːato",
+  "ingrugnare": "inɡruɲɲare",
+  "inguaiato": "inɡwajato",
+  "inguantato": "inɡwantato",
+  "inguardabile": "inɡwadabile",
+  "inguardabili": "inɡwadabili",
+  "inguaribile": "inɡwaribile",
+  "inguaribile_2": "iɲɡwaribile",
+  "inguaribili": "inɡwaribili",
+  "ingubbiare": "inɡubːjare",
+  "inguinale": "inɡwinale",
+  "inguine": "inɡwine",
+  "inguini": "inɡwinii",
+  "ingurgitare": "inɡurdʒitare",
+  "ingurgitare_2": "iɲɡurdʒitare",
+  "inguscezia": "inɡuʃʃɛtːsja",
+  "inguscia": "inɡuʃʃa",
+  "inguscio": "inɡuʃʃo",
+  "inia": "inja",
+  "inibire": "inibire",
+  "inibiti": "inibiti",
+  "inibito": "inibito",
+  "inibizione": "inibitsjone",
+  "inidentificabile": "inidentifikabile",
+  "inidentificabili": "inidentifikabili",
+  "inidoneo": "inidɔneo",
+  "iniettabile": "injetːabile",
+  "iniettabili": "injetːabili",
+  "iniettare": "injetːare",
+  "iniettore": "injetːore",
+  "iniezione": "injetːsjone",
+  "iniezioni": "injetːsjoni",
+  "inimicato": "inimikato",
+  "inimicizia": "inimitʃitsja",
+  "inimitabile": "inimitabile",
+  "inimitabili": "inimitabili",
+  "inimitabilità": "inimitabilita",
+  "inimmaginabile": "inimːadʒinabile",
+  "inimmaginabili": "inimːadʒinabili",
+  "ininfiammabile": "iniɲfjamːabile",
+  "ininfiammabili": "iniɲfjamːabili",
+  "ininfiammabilità": "iniɲfjamːabilita",
+  "inintellegibile": "inintelːedʒibile",
+  "inintellegibili": "inintelːedʒibili",
+  "inintelligente": "inintelːidʒɛnte",
+  "inintelligentemente": "inintelːidʒentemente",
+  "inintelligenza": "inintelːidʒɛntsa",
+  "inintelligibile": "inintelːidʒibile",
+  "inintelligibili": "inintelːidʒibili",
+  "inintelligibilità": "inintelːidʒibilita",
+  "inintelligibilmente": "inintelːidʒentemente",
+  "ininterrotta": "ininterːotːa",
+  "ininterrottamente": "ininterːotːamente",
+  "ininterrotte": "ininterːotːe",
+  "ininterrotti": "ininterːotːi",
+  "ininterrotto": "ininterːotːo",
+  "iniquamente": "inikwamente",
+  "inique": "inikwe",
+  "iniquità": "inikwita",
+  "iniquitanza": "inikwitantsa",
+  "iniquitoso": "inikwitozo",
+  "iniquo": "inikwo",
+  "inizi": "initːsi",
+  "iniziale": "initːsjale",
+  "inizializzare": "initsialidːzare",
+  "inizialmente": "initːsjalmente",
+  "inizianda": "initːsjanda",
+  "iniziando": "initːsjando",
+  "iniziante": "initːsjante",
+  "iniziare": "initːsjare",
+  "iniziata": "initːsjata",
+  "iniziate": "initːsjate",
+  "iniziati": "initːsjati",
+  "iniziatico": "initːsjatiko",
+  "iniziativa": "initsjativa",
+  "iniziative": "initsjative",
+  "iniziato": "initsjato",
+  "iniziato_2": "initːsjato",
+  "iniziatore": "initsjatore",
+  "iniziatore_2": "initːsjatore",
+  "iniziatori": "initsjatori",
+  "iniziatrice": "initsjatritʃe",
+  "iniziatrici": "initsjatritʃi",
+  "iniziazione": "initsjatsjone",
+  "inizio": "initsjo",
+  "inizio_2": "initːsio",
+  "inizio_3": "initːsjo",
+  "inleiarsi": "inlejarsi",
+  "inluiarsi": "inlujarsi",
+  "inmiarsi": "inmiarsi",
+  "innaffiabile": "inːafːjabile",
+  "innaffiabili": "inːafːjabili",
+  "innaffiante": "inːafːjante",
+  "innaffiare": "inːafːjare",
+  "innaffiata": "inːafːjata",
+  "innaffiato": "inːafːjato",
+  "innaffiatoi": "inːafːjatoi",
+  "innaffiatoio": "inːafːjatojo",
+  "innalzamento": "inːaltsamento",
+  "innalzare": "inːaltsare",
+  "innalzarsi": "inːaltsarsi",
+  "innalzato": "inːaltsato",
+  "innamoramenti": "inːamoramenti",
+  "innamoramento": "inːamoramento",
+  "innamorante": "inːamorante",
+  "innamorare": "inːamorare",
+  "innamorarsi": "inːamorarsi",
+  "innamorata": "inːamorata",
+  "innamorate": "inːamorate",
+  "innamorati": "inːamorati",
+  "innamorato": "inːamorato",
+  "innanzi": "inːantsi"
 }

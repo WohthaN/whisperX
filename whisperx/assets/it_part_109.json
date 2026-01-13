@@ -1,1549 +1,549 @@
 {
-  "malapena": [
-    "malapena"
-  ],
-  "malapianta": [
-    "malapianta"
-  ],
-  "malaria": [
-    "malarja"
-  ],
-  "malarico": [
-    "malariko"
-  ],
-  "malassorbimenti": [
-    "malasːorbimenti"
-  ],
-  "malassorbimento": [
-    "malasːorbimento"
-  ],
-  "malata": [
-    "malata"
-  ],
-  "malate": [
-    "malate"
-  ],
-  "malatestiano": [
-    "malatestjano"
-  ],
-  "malati": [
-    "malati"
-  ],
-  "malaticcio": [
-    "malatitːʃo"
-  ],
-  "malato": [
-    "malato",
-    "malatɔ"
-  ],
-  "malattia": [
-    "malatːia",
-    "malatːja"
-  ],
-  "malattie": [
-    "malatːie",
-    "malatːje"
-  ],
-  "malaugurata": [
-    "malauɡurata"
-  ],
-  "malaugurate": [
-    "malauɡurate"
-  ],
-  "malaugurati": [
-    "malauɡurati"
-  ],
-  "malaugurato": [
-    "malauɡurato"
-  ],
-  "malavita": [
-    "malavita"
-  ],
-  "malavoglia": [
-    "malavɔʎa"
-  ],
-  "malawi": [
-    "malawi"
-  ],
-  "malawiana": [
-    "malawjana"
-  ],
-  "malawiane": [
-    "malawjane"
-  ],
-  "malawiani": [
-    "malawjani"
-  ],
-  "malawiano": [
-    "malawjano"
-  ],
-  "malcaduco": [
-    "malkaduko"
-  ],
-  "malcapitato": [
-    "malkapitato"
-  ],
-  "malcerto": [
-    "maltʃɛrto"
-  ],
-  "malcontento": [
-    "malkontɛnto"
-  ],
-  "maldentati": [
-    "maldentati"
-  ],
-  "maldentato": [
-    "maldentato"
-  ],
-  "maldestramente": [
-    "maldestramente"
-  ],
-  "maldestro": [
-    "maldɛstro"
-  ],
-  "maldicente": [
-    "malditʃɛnte"
-  ],
-  "maldicenza": [
-    "malditʃɛntsa"
-  ],
-  "maldicenze": [
-    "malditʃɛntse"
-  ],
-  "maldisposto": [
-    "maldisposto"
-  ],
-  "maldive": [
-    "maldive"
-  ],
-  "maldiviana": [
-    "maldivjana"
-  ],
-  "maldiviane": [
-    "maldivjane"
-  ],
-  "maldiviani": [
-    "maldivjani"
-  ],
-  "maldiviano": [
-    "maldivjano"
-  ],
-  "male": [
-    "male"
-  ],
-  "maledetta": [
-    "maledetːa"
-  ],
-  "maledettamente": [
-    "maledetːamente"
-  ],
-  "maledette": [
-    "maledetːe"
-  ],
-  "maledetti": [
-    "maledetːi"
-  ],
-  "maledetto": [
-    "maledetːo"
-  ],
-  "maledica": [
-    "maledika",
-    "malɛdika"
-  ],
-  "maledici": [
-    "maleditʃi",
-    "malɛditʃi"
-  ],
-  "maledico": [
-    "malediko",
-    "malɛdiko"
-  ],
-  "maledire": [
-    "maledire"
-  ],
-  "maledizione": [
-    "maleditsjone",
-    "maleditːsione"
-  ],
-  "maledizioni": [
-    "maleditsjoni"
-  ],
-  "maleducata": [
-    "maledukata"
-  ],
-  "maleducatamente": [
-    "maledukatamente"
-  ],
-  "maleducate": [
-    "maledukate"
-  ],
-  "maleducati": [
-    "maledukati"
-  ],
-  "maleducato": [
-    "maledukato"
-  ],
-  "maleducazione": [
-    "maledukatːsjone"
-  ],
-  "malefatta": [
-    "malefatːa"
-  ],
-  "maleficio": [
-    "malefitʃo"
-  ],
-  "malefico": [
-    "malɛfiko"
-  ],
-  "maleodorante": [
-    "maleodorante"
-  ],
-  "maleodoranti": [
-    "maleodoranti"
-  ],
-  "maleppeggi": [
-    "malepːedːʒi"
-  ],
-  "maleppeggio": [
-    "malepːedːʒo"
-  ],
-  "malescio": [
-    "malɛʃʃo"
-  ],
-  "malese": [
-    "malese",
-    "maleze"
-  ],
-  "malessere": [
-    "malɛsːere"
-  ],
-  "malestro": [
-    "malɛstro"
-  ],
-  "malestruo": [
-    "malestruo"
-  ],
-  "malevola": [
-    "malɛvola"
-  ],
-  "malevolenza": [
-    "malevolɛntsa"
-  ],
-  "malevolenze": [
-    "malevolɛntse"
-  ],
-  "malevolmente": [
-    "malevolmente"
-  ],
-  "malevolo": [
-    "malɛvolo"
-  ],
-  "malfamato": [
-    "malfamato"
-  ],
-  "malfatto": [
-    "malfatːo"
-  ],
-  "malfattore": [
-    "malfatːore"
-  ],
-  "malfattrice": [
-    "malfatːritʃe"
-  ],
-  "malfattrici": [
-    "malfatːritʃi"
-  ],
-  "malfermo": [
-    "malfermo"
-  ],
-  "malformazione": [
-    "malformatːsjone"
-  ],
-  "malfunzionamento": [
-    "malfuntsjonamento"
-  ],
-  "malfusso": [
-    "malfusːo"
-  ],
-  "malga": [
-    "malɡa"
-  ],
-  "malgasce": [
-    "malɡaʃʃe"
-  ],
-  "malgasci": [
-    "malɡaʃʃi"
-  ],
-  "malgascia": [
-    "malɡaʃʃa"
-  ],
-  "malgascio": [
-    "malɡaʃʃo"
-  ],
-  "malgoverno": [
-    "malɡovɛrno"
-  ],
-  "malgrado": [
-    "malɡrado"
-  ],
-  "mali": [
-    "mali"
-  ],
-  "malia": [
-    "malia"
-  ],
-  "maliana": [
-    "maljana"
-  ],
-  "maliane": [
-    "maljane"
-  ],
-  "maliani": [
-    "maljani"
-  ],
-  "maliano": [
-    "maljano"
-  ],
-  "maliarda": [
-    "maliarda",
-    "maljarda"
-  ],
-  "maliardo": [
-    "maliardo",
-    "maljardo"
-  ],
-  "malignità": [
-    "maliɲɲita"
-  ],
-  "maligno": [
-    "maliɲɲo"
-  ],
-  "malimbo": [
-    "malimbo"
-  ],
-  "malinconia": [
-    "malinkonia",
-    "maliɲkonia"
-  ],
-  "malinconica": [
-    "malinkɔnika"
-  ],
-  "malinconicamente": [
-    "malinkonikamente"
-  ],
-  "malinconiche": [
-    "malinkɔnike"
-  ],
-  "malinconici": [
-    "malinkɔnitʃi"
-  ],
-  "malinconico": [
-    "malinkɔniko"
-  ],
-  "malinconie": [
-    "malinkonie"
-  ],
-  "malinformato": [
-    "malinformato"
-  ],
-  "malintenzionato": [
-    "malintentsjonato"
-  ],
-  "malintesi": [
-    "malintesi"
-  ],
-  "malinteso": [
-    "malinteso",
-    "malintezo"
-  ],
-  "malissimo": [
-    "malisːimo"
-  ],
-  "malizia": [
-    "malitsja",
-    "malitːsia"
-  ],
-  "malizie": [
-    "malitsje"
-  ],
-  "maliziosa": [
-    "malitsjoza"
-  ],
-  "maliziosamente": [
-    "malitsjozamente",
-    "malitːsjosamente"
-  ],
-  "maliziose": [
-    "malitsjoze"
-  ],
-  "maliziosi": [
-    "malitsjozi"
-  ],
-  "malizioso": [
-    "malitsjozo",
-    "malitːsjoso",
-    "malitːsjozo"
-  ],
-  "malleabile": [
-    "malːeabile"
-  ],
-  "malleabili": [
-    "malːeabili"
-  ],
-  "malleabilità": [
-    "malːeabilita"
-  ],
-  "malleolo": [
-    "malːɛolo"
-  ],
-  "mallevadore": [
-    "malːevadore"
-  ],
-  "mallevadori": [
-    "malːevadori"
-  ],
-  "malleveria": [
-    "malːeveria"
-  ],
-  "malliarismo": [
-    "malːjarizmo"
-  ],
-  "mallo": [
-    "malːo"
-  ],
-  "mallofagi": [
-    "malːɔfaɡi"
-  ],
-  "mallofago": [
-    "malːɔfaɡo"
-  ],
-  "malloppo": [
-    "malːɔpːo"
-  ],
-  "malmenare": [
-    "malmenare"
-  ],
-  "malmenato": [
-    "malmenato"
-  ],
-  "malmesso": [
-    "malmesːo"
-  ],
-  "malnutrizione": [
-    "malnutritsjone",
-    "malnutritːsjone"
-  ],
-  "malnutrizioni": [
-    "malnutritsjoni"
-  ],
-  "malo": [
-    "malo"
-  ],
-  "malocchi": [
-    "malɔkːi"
-  ],
-  "malocchio": [
-    "malɔkːjo"
-  ],
-  "malore": [
-    "malore"
-  ],
-  "malridotto": [
-    "malridotːo"
-  ],
-  "malriuscito": [
-    "malriuʃʃito"
-  ],
-  "malsana": [
-    "malsano"
-  ],
-  "malsano": [
-    "malsano"
-  ],
-  "malsecco": [
-    "malsekːo"
-  ],
-  "malsicuro": [
-    "malsikuro"
-  ],
-  "malta": [
-    "malta"
-  ],
-  "maltaggi": [
-    "maltadːʒi"
-  ],
-  "maltaggio": [
-    "maltadːʒo"
-  ],
-  "maltatore": [
-    "maltatore"
-  ],
-  "maltatori": [
-    "maltatori"
-  ],
-  "maltatrice": [
-    "maltatritʃe"
-  ],
-  "maltatrici": [
-    "maltatritʃi"
-  ],
-  "maltempo": [
-    "maltɛmpo"
-  ],
-  "maltese": [
-    "maltese",
-    "malteze"
-  ],
-  "maltesi": [
-    "maltese"
-  ],
-  "malthusianamente": [
-    "maltuzjanamente"
-  ],
-  "malthusianesimo": [
-    "maltuzjanezimo"
-  ],
-  "malthusianismo": [
-    "maltuzjanizmo"
-  ],
-  "malti": [
-    "malti"
-  ],
-  "maltodestrina": [
-    "maltodestrina"
-  ],
-  "maltolto": [
-    "maltɔlto"
-  ],
-  "maltosi": [
-    "maltɔzj"
-  ],
-  "maltosio": [
-    "maltɔzjo"
-  ],
-  "maltrattamenti": [
-    "maltratːamenti"
-  ],
-  "maltrattamento": [
-    "maltratːamento"
-  ],
-  "maltrattante": [
-    "maltratante"
-  ],
-  "maltrattare": [
-    "maltratare",
-    "maltratːare"
-  ],
-  "maltrattato": [
-    "maltratato",
-    "maltratːato"
-  ],
-  "malumore": [
-    "malumore",
-    "malumɔre"
-  ],
-  "malva": [
-    "malva"
-  ],
-  "malvaccione": [
-    "malvatːʃone"
-  ],
-  "malvacea": [
-    "malvatʃea"
-  ],
-  "malvacee": [
-    "malvatʃee"
-  ],
-  "malvagia": [
-    "malvadʒa",
-    "malvadʒia"
-  ],
-  "malvagio": [
-    "malvadʒo"
-  ],
-  "malvagità": [
-    "malvadʒita"
-  ],
-  "malvasia": [
-    "malvazia"
-  ],
-  "malvavischio": [
-    "malvaviskjo"
-  ],
-  "malve": [
-    "malve"
-  ],
-  "malvedere": [
-    "malvedere"
-  ],
-  "malversatore": [
-    "malversatore"
-  ],
-  "malversatori": [
-    "malversatori"
-  ],
-  "malversatrice": [
-    "malversatritʃe"
-  ],
-  "malversatrici": [
-    "malversatritʃi"
-  ],
-  "malversazione": [
-    "malversatsjone"
-  ],
-  "malvezzo": [
-    "malvetso"
-  ],
-  "malvisto": [
-    "malvisto"
-  ],
-  "malvolentieri": [
-    "malvolentjɛri"
-  ],
-  "malvolere": [
-    "malvolere"
-  ],
-  "mamelucchi": [
-    "mamelukːi"
-  ],
-  "mamelucco": [
-    "mamelukːo"
-  ],
-  "mamma": [
-    "mama",
-    "mamːa"
-  ],
-  "mammalogia": [
-    "mamːalodʒia"
-  ],
-  "mammalucco": [
-    "mamːalukːo"
-  ],
-  "mammella": [
-    "mamːɛlːa"
-  ],
-  "mammelle": [
-    "mamːɛlːe"
-  ],
-  "mammelucchi": [
-    "mamːelukːi"
-  ],
-  "mammelucco": [
-    "mamːelukːo"
-  ],
-  "mammiferi": [
-    "mamːiferi"
-  ],
-  "mammifero": [
-    "mamːifero"
-  ],
-  "mammo": [
-    "mamːo"
-  ],
-  "mammografia": [
-    "mamːoɡrafia"
-  ],
-  "mammola": [
-    "mamːola"
-  ],
-  "mammoletta": [
-    "mamːoletːa"
-  ],
-  "mammologo": [
-    "mamːɔloɡo"
-  ],
-  "mammone": [
-    "mamːone"
-  ],
-  "mammoni": [
-    "mamːoni"
-  ],
-  "mammoplastica": [
-    "mamːoplastika"
-  ],
-  "mammoplastiche": [
-    "mamːoplastike"
-  ],
-  "mammut": [
-    "mamːut"
-  ],
-  "mamo": [
-    "mamo"
-  ],
-  "manager": [
-    "manadʒer"
-  ],
-  "manato": [
-    "manato"
-  ],
-  "manca": [
-    "manka",
-    "maɲka"
-  ],
-  "mancamento": [
-    "maɲkamento"
-  ],
-  "mancando": [
-    "mankando"
-  ],
-  "mancante": [
-    "mankante"
-  ],
-  "mancanza": [
-    "mankantsa",
-    "maɲkantsa"
-  ],
-  "mancanze": [
-    "mankantse"
-  ],
-  "mancare": [
-    "mankare",
-    "maɲkare"
-  ],
-  "mancata": [
-    "mankata"
-  ],
-  "mancate": [
-    "mankate"
-  ],
-  "mancati": [
-    "mankati"
-  ],
-  "mancato": [
-    "mankato",
-    "maɲkato"
-  ],
-  "mancavi": [
-    "maɲkavi"
-  ],
-  "mance": [
-    "mantʃe"
-  ],
-  "mancega": [
-    "mantʃɛɡa"
-  ],
-  "mancego": [
-    "mantʃɛɡo"
-  ],
-  "mancese": [
-    "mantʃese",
-    "mantʃeze"
-  ],
-  "manche": [
-    "manke",
-    "maɲke"
-  ],
-  "manchester": [
-    "mantʃester"
-  ],
-  "manchesteriana": [
-    "mantʃesterjana"
-  ],
-  "manchesteriane": [
-    "mantʃesterjane"
-  ],
-  "manchesteriani": [
-    "mantʃesterjani"
-  ],
-  "manchesteriano": [
-    "mantʃesterjano"
-  ],
-  "manchevole": [
-    "maɲkevole"
-  ],
-  "manchevolezza": [
-    "maɲkevolɛtːsa"
-  ],
-  "mancia": [
-    "mantʃa"
-  ],
-  "manciata": [
-    "mantʃata"
-  ],
-  "mancina": [
-    "mantʃina"
-  ],
-  "mancini": [
-    "mantʃini"
-  ],
-  "mancinismo": [
-    "mantʃinizmo"
-  ],
-  "mancino": [
-    "mantʃino"
-  ],
-  "mancipazione": [
-    "mantʃipatːsjone"
-  ],
-  "mancipazioni": [
-    "mantʃipatːsjoni"
-  ],
-  "manciù": [
-    "mantʃu"
-  ],
-  "manciuria": [
-    "mantʃurja"
-  ],
-  "manco": [
-    "manko",
-    "maɲko"
-  ],
-  "mancolista": [
-    "maɲkolista"
-  ],
-  "mancuniana": [
-    "mankunjana"
-  ],
-  "mancuniane": [
-    "mankunjane"
-  ],
-  "mancuniani": [
-    "mankunjani"
-  ],
-  "mancuniano": [
-    "mankunjano"
-  ],
-  "mandamentale": [
-    "mandamentale"
-  ],
-  "mandamento": [
-    "mandamento"
-  ],
-  "mandando": [
-    "mandando"
-  ],
-  "mandante": [
-    "mandante"
-  ],
-  "mandarancio": [
-    "mandarantʃo"
-  ],
-  "mandare": [
-    "mandare"
-  ],
-  "mandarina": [
-    "mandarina"
-  ],
-  "mandarine": [
-    "mandarine"
-  ],
-  "mandarini": [
-    "mandarini"
-  ],
-  "mandarino": [
-    "mandarino"
-  ],
-  "mandarsi": [
-    "mandarsi"
-  ],
-  "mandata": [
-    "mandata"
-  ],
-  "mandatari": [
-    "mandatari"
-  ],
-  "mandataria": [
-    "mandatarja"
-  ],
-  "mandatarie": [
-    "mandatarje"
-  ],
-  "mandatario": [
-    "mandatarjo"
-  ],
-  "mandati": [
-    "mandati"
-  ],
-  "mandato": [
-    "mandato",
-    "mandatɔ"
-  ],
-  "mandatori": [
-    "mandatori"
-  ],
-  "mandatoria": [
-    "mandatorja"
-  ],
-  "mandatorie": [
-    "mandatorje"
-  ],
-  "mandatorio": [
-    "mandatɔrjo"
-  ],
-  "mandibola": [
-    "mandibola"
-  ],
-  "mandibolare": [
-    "mandibolare"
-  ],
-  "mando": [
-    "mando"
-  ],
-  "mandolini": [
-    "mandolini"
-  ],
-  "mandolinista": [
-    "mandolinista"
-  ],
-  "mandoliniste": [
-    "mandoliniste"
-  ],
-  "mandolinisti": [
-    "mandolinisti"
-  ],
-  "mandolino": [
-    "mandolino"
-  ],
-  "mandorla": [
-    "mandorla"
-  ],
-  "mandorlato": [
-    "mandorlato"
-  ],
-  "mandorli": [
-    "mandɔrli"
-  ],
-  "mandorlo": [
-    "mandorlo",
-    "mandɔrlɔ"
-  ],
-  "mandragola": [
-    "mandraɡola"
-  ],
-  "mandria": [
-    "mandrja"
-  ],
-  "mandriano": [
-    "mandriano"
-  ],
-  "mandrillo": [
-    "mandrilːo"
-  ],
-  "mandrini": [
-    "mandrini"
-  ],
-  "mandrino": [
-    "mandrino"
-  ],
-  "manducare": [
-    "mandukare"
-  ],
-  "manducazione": [
-    "mandukatːsjone"
-  ],
-  "manducazioni": [
-    "mandukatːsjoni"
-  ],
-  "maneggebile": [
-    "manedːʒebile"
-  ],
-  "maneggebili": [
-    "manedːʒebili"
-  ],
-  "maneggevole": [
-    "manedːʒevole"
-  ],
-  "maneggi": [
-    "manedːʒi"
-  ],
-  "maneggiabile": [
-    "manedːʒabile"
-  ],
-  "maneggiabili": [
-    "manedːʒabili"
-  ],
-  "maneggiare": [
-    "manedːʒare"
-  ],
-  "maneggio": [
-    "manedːʒo"
-  ],
-  "maneggione": [
-    "manedːʒone"
-  ],
-  "manetta": [
-    "manetːa"
-  ],
-  "manette": [
-    "manetːe"
-  ],
-  "manforte": [
-    "manfɔrte"
-  ],
-  "manfrina": [
-    "manfrina"
-  ],
-  "manga": [
-    "manɡa"
-  ],
-  "manganella": [
-    "maɲɡanɛlːa"
-  ],
-  "manganelle": [
-    "maɲɡanɛlːe"
-  ],
-  "manganelli": [
-    "maɲɡanɛlːi"
-  ],
-  "manganello": [
-    "maɲɡanɛlːo"
-  ],
-  "manganese": [
-    "manɡanese",
-    "manɡaneze",
-    "maɲɡanese",
-    "maɲɡaneze"
-  ],
-  "mangani": [
-    "maɲɡani"
-  ],
-  "mangano": [
-    "manɡano",
-    "maɲɡano"
-  ],
-  "manganoso": [
-    "manɡanoso",
-    "manɡanozo"
-  ],
-  "mangerà": [
-    "mandʒera"
-  ],
-  "mangerai": [
-    "mandʒerai"
-  ],
-  "mangeranno": [
-    "mandʒeranːo"
-  ],
-  "mangerebbe": [
-    "mandʒerebːe"
-  ],
-  "mangerebbero": [
-    "mandʒerebːero"
-  ],
-  "mangerei": [
-    "mandʒerei"
-  ],
-  "mangeremmo": [
-    "mandʒeremːo"
-  ],
-  "mangeremo": [
-    "mandʒeremo"
-  ],
-  "mangereste": [
-    "mandʒereste"
-  ],
-  "mangeresti": [
-    "mandʒeresti"
-  ],
-  "mangerete": [
-    "mandʒerete"
-  ],
-  "mangeria": [
-    "mandʒeria"
-  ],
-  "mangerò": [
-    "mandʒero"
-  ],
-  "mangi": [
-    "mandʒi"
-  ],
-  "mangia": [
-    "mandʒa"
-  ],
-  "mangiaapi": [
-    "mandʒaapi"
-  ],
-  "mangiabile": [
-    "mandʒabile"
-  ],
-  "mangiabili": [
-    "mandʒabili"
-  ],
-  "mangiadischi": [
-    "mandʒadiski"
-  ],
-  "mangiafumo": [
-    "mandʒafumo"
-  ],
-  "mangiafuoco": [
-    "mandʒafwɔko"
-  ],
-  "mangiai": [
-    "mandʒai"
-  ],
-  "mangiammo": [
-    "mandʒamːo"
-  ],
-  "mangiamo": [
-    "mandʒjamo"
-  ],
-  "mangiando": [
-    "mandʒando"
-  ],
-  "mangiano": [
-    "mandʒano"
-  ],
-  "mangiante": [
-    "mandʒante"
-  ],
-  "mangiapatate": [
-    "mandʒapatate"
-  ],
-  "mangiapolenta": [
-    "mandʒapolɛnta"
-  ],
-  "mangiarane": [
-    "mandʒarane"
-  ],
-  "mangiare": [
-    "mandʒare"
-  ],
-  "mangiarono": [
-    "mandʒarono"
-  ],
-  "mangiasse": [
-    "mandʒasːe"
-  ],
-  "mangiassero": [
-    "mandʒasːero"
-  ],
-  "mangiassi": [
-    "mandʒasːi"
-  ],
-  "mangiassimo": [
-    "mandʒasːimo"
-  ],
-  "mangiaste": [
-    "mandʒaste"
-  ],
-  "mangiasti": [
-    "mandʒasti"
-  ],
-  "mangiata": [
-    "mandʒata"
-  ],
-  "mangiate": [
-    "mandʒate"
-  ],
-  "mangiati": [
-    "mandʒati"
-  ],
-  "mangiato": [
-    "mandʒato"
-  ],
-  "mangiatoia": [
-    "maɲdʒatoja"
-  ],
-  "mangiatore": [
-    "mandʒatore"
-  ],
-  "mangiatori": [
-    "mandʒatori"
-  ],
-  "mangiatrice": [
-    "mandʒatritʃe"
-  ],
-  "mangiatrici": [
-    "mandʒatritʃi"
-  ],
-  "mangiava": [
-    "mandʒava"
-  ],
-  "mangiavamo": [
-    "mandʒavamo"
-  ],
-  "mangiavano": [
-    "mandʒavano"
-  ],
-  "mangiavate": [
-    "mandʒavate"
-  ],
-  "mangiavi": [
-    "mandʒavi"
-  ],
-  "mangiavo": [
-    "mandʒavo"
-  ],
-  "mangime": [
-    "mandʒime"
-  ],
-  "mangino": [
-    "mandʒino"
-  ],
-  "mangio": [
-    "mandʒo"
-  ],
-  "mangiò": [
-    "mandʒo"
-  ],
-  "mangione": [
-    "mandʒone"
-  ],
-  "mangiucchiare": [
-    "mandʒukːjare"
-  ],
-  "mango": [
-    "manɡo"
-  ],
-  "mangosta": [
-    "manɡosta"
-  ],
-  "mangusta": [
-    "manɡusta"
-  ],
-  "manguste": [
-    "manɡuste"
-  ],
-  "mani": [
-    "mani"
-  ],
-  "mania": [
-    "mania",
-    "manja"
-  ],
-  "maniaca": [
-    "maniaka"
-  ],
-  "maniache": [
-    "maniake"
-  ],
-  "maniaci": [
-    "maniatʃi"
-  ],
-  "maniaco": [
-    "maniako"
-  ],
-  "maniatamente": [
-    "manjatamente"
-  ],
-  "maniato": [
-    "manjato"
-  ],
-  "manica": [
-    "manika"
-  ],
-  "manicaio": [
-    "manikajo"
-  ],
-  "manicare": [
-    "manikare"
-  ],
-  "manicaretto": [
-    "manikaretːo"
-  ],
-  "maniche": [
-    "manikːe"
-  ],
-  "manicheismi": [
-    "manikeizmi"
-  ],
-  "manicheismo": [
-    "manikeizmo"
-  ],
-  "manicheo": [
-    "manikɛo"
-  ],
-  "manichini": [
-    "manikini"
-  ],
-  "manichino": [
-    "manikino"
-  ],
-  "manico": [
-    "maniko"
-  ],
-  "manicomiale": [
-    "manikomjale"
-  ],
-  "manicomio": [
-    "manikɔmjo"
-  ],
-  "manicotti": [
-    "manikɔtːi"
-  ],
-  "manicotto": [
-    "manikɔtːo"
-  ],
-  "manicure": [
-    "manikure"
-  ],
-  "manie": [
-    "manie"
-  ],
-  "maniera": [
-    "manjɛra"
-  ],
-  "manierato": [
-    "manjerato"
-  ],
-  "manierismi": [
-    "manjerizmi"
-  ],
-  "manierismo": [
-    "manjerizmo"
-  ],
-  "manierista": [
-    "manjerista"
-  ],
-  "manieriste": [
-    "manjeriste"
-  ],
-  "manieristi": [
-    "manjeristi"
-  ],
-  "maniero": [
-    "manjɛro"
-  ],
-  "manifattura": [
-    "manifatːura"
-  ],
-  "manifatture": [
-    "manifatːure"
-  ],
-  "manifatturiero": [
-    "manifatːurjɛro"
-  ],
-  "manifestamente": [
-    "manifestamente"
-  ],
-  "manifestante": [
-    "manifestante"
-  ],
-  "manifestanti": [
-    "manifestanti"
-  ],
-  "manifestare": [
-    "manifestare",
-    "manifɛstare"
-  ],
-  "manifestarsi": [
-    "manifestarsi",
-    "manifɛstarsi"
-  ],
-  "manifestato": [
-    "manifestato",
-    "manifɛstato"
-  ],
-  "manifestazione": [
-    "manifestatsjone",
-    "manifestatːsjone",
-    "manifɛstatsjɔne"
-  ],
-  "manifestino": [
-    "manifestino"
-  ],
-  "manifesto": [
-    "manifɛsto"
-  ],
-  "maniglia": [
-    "maniʎa"
-  ],
-  "maniglie": [
-    "maniʎe"
-  ],
-  "manigoldo": [
-    "maniɡoldo"
-  ],
-  "manina": [
-    "manina"
-  ],
-  "manipolabile": [
-    "manipolabile"
-  ],
-  "manipolabili": [
-    "manipolabili"
-  ],
-  "manipolare": [
-    "manipolare"
-  ],
-  "manipolato": [
-    "manipolato"
-  ],
-  "manipolatore": [
-    "manipolatore"
-  ],
-  "manipolatori": [
-    "manipolatori"
-  ],
-  "manipolatrice": [
-    "manipolatritʃe"
-  ],
-  "manipolatrici": [
-    "manipolatritʃi"
-  ],
-  "manipolazione": [
-    "manipolatːsjone"
-  ],
-  "manipolo": [
-    "manipolo"
-  ],
-  "maniscalchi": [
-    "maniskalki"
-  ],
-  "maniscalco": [
-    "maniskalko"
-  ],
-  "manitù": [
-    "manitu"
-  ],
-  "manleva": [
-    "manlɛva"
-  ],
-  "manna": [
-    "manːa"
-  ],
-  "mannaggia": [
-    "manːadʒa",
-    "manːadːʒa"
-  ],
-  "mannaia": [
-    "manːaja"
-  ],
-  "mannaro": [
-    "manːaro"
-  ],
-  "mannello": [
-    "manːɛlːo"
-  ],
-  "mannequin": [
-    "mankɛn"
-  ],
-  "mannese": [
-    "manːese"
-  ],
-  "mannite": [
-    "manːite"
-  ],
-  "mano": [
-    "mano",
-    "manɔ"
-  ],
-  "manodopera": [
-    "manodɔpera"
-  ],
-  "manomesso": [
-    "manomesːo"
-  ],
-  "manometri": [
-    "manɔmetri"
-  ],
-  "manometria": [
-    "manometria"
-  ],
-  "manometro": [
-    "manɔmetro"
-  ],
-  "manomissione": [
-    "manomisːjone"
-  ],
-  "manomorta": [
-    "manomɔrta"
-  ],
-  "manopola": [
-    "manɔpola"
-  ],
-  "manoscritta": [
-    "manoskritːa"
-  ],
-  "manoscritte": [
-    "manoskritːe"
-  ],
-  "manoscritti": [
-    "manoskritːi"
-  ],
-  "manoscritto": [
-    "manoskritːo"
-  ],
-  "manoscrivere": [
-    "manoskrivere"
-  ],
-  "manovella": [
-    "manovɛlːa"
-  ],
-  "manovelle": [
-    "manovɛlːe"
-  ],
-  "manovellismo": [
-    "manovelːizmo"
-  ],
-  "manovra": [
-    "manɔvra"
-  ],
-  "manovrabile": [
-    "manovrabile"
-  ],
-  "manovrabili": [
-    "manovrabili"
-  ],
-  "manovrante": [
-    "manovrante"
-  ],
-  "manovrare": [
-    "manovrare"
-  ],
-  "manovrato": [
-    "manovrato"
-  ],
-  "manovratore": [
-    "manovratore"
-  ],
-  "manrovescio": [
-    "manrovɛʃʃo"
-  ],
-  "mansarda": [
-    "mansarda"
-  ],
-  "mansarde": [
-    "mansarde"
-  ],
-  "mansione": [
-    "mansjone"
-  ],
-  "mansioni": [
-    "mansjoni"
-  ],
-  "manso": [
-    "manso"
-  ],
-  "mansuescere": [
-    "mansuɛʃʃere",
-    "manswɛʃʃere"
-  ],
-  "mansueta": [
-    "mansuɛta"
-  ],
-  "mansuete": [
-    "mansuɛte"
-  ],
-  "mansueti": [
-    "mansuɛti"
-  ],
-  "mansueto": [
-    "mansuɛto"
-  ],
-  "mansuetudine": [
-    "mansuetudine",
-    "manswetudine"
-  ],
-  "manta": [
-    "manta"
-  ],
-  "manteca": [
-    "mantɛka"
-  ],
-  "mantecare": [
-    "mantekare"
-  ],
-  "mantecato": [
-    "mantekato"
-  ],
-  "mantella": [
-    "mantɛlːa"
-  ],
-  "mantellato": [
-    "mantelːato"
-  ],
-  "mantelletta": [
-    "mantelːetːa"
-  ]
+  "malapena": "malapena",
+  "malapianta": "malapianta",
+  "malaria": "malarja",
+  "malarico": "malariko",
+  "malassorbimenti": "malasːorbimenti",
+  "malassorbimento": "malasːorbimento",
+  "malata": "malata",
+  "malate": "malate",
+  "malatestiano": "malatestjano",
+  "malati": "malati",
+  "malaticcio": "malatitːʃo",
+  "malato": "malato",
+  "malato_2": "malatɔ",
+  "malattia": "malatːia",
+  "malattia_2": "malatːja",
+  "malattie": "malatːie",
+  "malattie_2": "malatːje",
+  "malaugurata": "malauɡurata",
+  "malaugurate": "malauɡurate",
+  "malaugurati": "malauɡurati",
+  "malaugurato": "malauɡurato",
+  "malavita": "malavita",
+  "malavoglia": "malavɔʎa",
+  "malawi": "malawi",
+  "malawiana": "malawjana",
+  "malawiane": "malawjane",
+  "malawiani": "malawjani",
+  "malawiano": "malawjano",
+  "malcaduco": "malkaduko",
+  "malcapitato": "malkapitato",
+  "malcerto": "maltʃɛrto",
+  "malcontento": "malkontɛnto",
+  "maldentati": "maldentati",
+  "maldentato": "maldentato",
+  "maldestramente": "maldestramente",
+  "maldestro": "maldɛstro",
+  "maldicente": "malditʃɛnte",
+  "maldicenza": "malditʃɛntsa",
+  "maldicenze": "malditʃɛntse",
+  "maldisposto": "maldisposto",
+  "maldive": "maldive",
+  "maldiviana": "maldivjana",
+  "maldiviane": "maldivjane",
+  "maldiviani": "maldivjani",
+  "maldiviano": "maldivjano",
+  "male": "male",
+  "maledetta": "maledetːa",
+  "maledettamente": "maledetːamente",
+  "maledette": "maledetːe",
+  "maledetti": "maledetːi",
+  "maledetto": "maledetːo",
+  "maledica": "maledika",
+  "maledica_2": "malɛdika",
+  "maledici": "maleditʃi",
+  "maledici_2": "malɛditʃi",
+  "maledico": "malediko",
+  "maledico_2": "malɛdiko",
+  "maledire": "maledire",
+  "maledizione": "maleditsjone",
+  "maledizione_2": "maleditːsione",
+  "maledizioni": "maleditsjoni",
+  "maleducata": "maledukata",
+  "maleducatamente": "maledukatamente",
+  "maleducate": "maledukate",
+  "maleducati": "maledukati",
+  "maleducato": "maledukato",
+  "maleducazione": "maledukatːsjone",
+  "malefatta": "malefatːa",
+  "maleficio": "malefitʃo",
+  "malefico": "malɛfiko",
+  "maleodorante": "maleodorante",
+  "maleodoranti": "maleodoranti",
+  "maleppeggi": "malepːedːʒi",
+  "maleppeggio": "malepːedːʒo",
+  "malescio": "malɛʃʃo",
+  "malese": "malese",
+  "malese_2": "maleze",
+  "malessere": "malɛsːere",
+  "malestro": "malɛstro",
+  "malestruo": "malestruo",
+  "malevola": "malɛvola",
+  "malevolenza": "malevolɛntsa",
+  "malevolenze": "malevolɛntse",
+  "malevolmente": "malevolmente",
+  "malevolo": "malɛvolo",
+  "malfamato": "malfamato",
+  "malfatto": "malfatːo",
+  "malfattore": "malfatːore",
+  "malfattrice": "malfatːritʃe",
+  "malfattrici": "malfatːritʃi",
+  "malfermo": "malfermo",
+  "malformazione": "malformatːsjone",
+  "malfunzionamento": "malfuntsjonamento",
+  "malfusso": "malfusːo",
+  "malga": "malɡa",
+  "malgasce": "malɡaʃʃe",
+  "malgasci": "malɡaʃʃi",
+  "malgascia": "malɡaʃʃa",
+  "malgascio": "malɡaʃʃo",
+  "malgoverno": "malɡovɛrno",
+  "malgrado": "malɡrado",
+  "mali": "mali",
+  "malia": "malia",
+  "maliana": "maljana",
+  "maliane": "maljane",
+  "maliani": "maljani",
+  "maliano": "maljano",
+  "maliarda": "maliarda",
+  "maliarda_2": "maljarda",
+  "maliardo": "maliardo",
+  "maliardo_2": "maljardo",
+  "malignità": "maliɲɲita",
+  "maligno": "maliɲɲo",
+  "malimbo": "malimbo",
+  "malinconia": "malinkonia",
+  "malinconia_2": "maliɲkonia",
+  "malinconica": "malinkɔnika",
+  "malinconicamente": "malinkonikamente",
+  "malinconiche": "malinkɔnike",
+  "malinconici": "malinkɔnitʃi",
+  "malinconico": "malinkɔniko",
+  "malinconie": "malinkonie",
+  "malinformato": "malinformato",
+  "malintenzionato": "malintentsjonato",
+  "malintesi": "malintesi",
+  "malinteso": "malinteso",
+  "malinteso_2": "malintezo",
+  "malissimo": "malisːimo",
+  "malizia": "malitsja",
+  "malizia_2": "malitːsia",
+  "malizie": "malitsje",
+  "maliziosa": "malitsjoza",
+  "maliziosamente": "malitsjozamente",
+  "maliziosamente_2": "malitːsjosamente",
+  "maliziose": "malitsjoze",
+  "maliziosi": "malitsjozi",
+  "malizioso": "malitsjozo",
+  "malizioso_2": "malitːsjoso",
+  "malizioso_3": "malitːsjozo",
+  "malleabile": "malːeabile",
+  "malleabili": "malːeabili",
+  "malleabilità": "malːeabilita",
+  "malleolo": "malːɛolo",
+  "mallevadore": "malːevadore",
+  "mallevadori": "malːevadori",
+  "malleveria": "malːeveria",
+  "malliarismo": "malːjarizmo",
+  "mallo": "malːo",
+  "mallofagi": "malːɔfaɡi",
+  "mallofago": "malːɔfaɡo",
+  "malloppo": "malːɔpːo",
+  "malmenare": "malmenare",
+  "malmenato": "malmenato",
+  "malmesso": "malmesːo",
+  "malnutrizione": "malnutritsjone",
+  "malnutrizione_2": "malnutritːsjone",
+  "malnutrizioni": "malnutritsjoni",
+  "malo": "malo",
+  "malocchi": "malɔkːi",
+  "malocchio": "malɔkːjo",
+  "malore": "malore",
+  "malridotto": "malridotːo",
+  "malriuscito": "malriuʃʃito",
+  "malsana": "malsano",
+  "malsano": "malsano",
+  "malsecco": "malsekːo",
+  "malsicuro": "malsikuro",
+  "malta": "malta",
+  "maltaggi": "maltadːʒi",
+  "maltaggio": "maltadːʒo",
+  "maltatore": "maltatore",
+  "maltatori": "maltatori",
+  "maltatrice": "maltatritʃe",
+  "maltatrici": "maltatritʃi",
+  "maltempo": "maltɛmpo",
+  "maltese": "maltese",
+  "maltese_2": "malteze",
+  "maltesi": "maltese",
+  "malthusianamente": "maltuzjanamente",
+  "malthusianesimo": "maltuzjanezimo",
+  "malthusianismo": "maltuzjanizmo",
+  "malti": "malti",
+  "maltodestrina": "maltodestrina",
+  "maltolto": "maltɔlto",
+  "maltosi": "maltɔzj",
+  "maltosio": "maltɔzjo",
+  "maltrattamenti": "maltratːamenti",
+  "maltrattamento": "maltratːamento",
+  "maltrattante": "maltratante",
+  "maltrattare": "maltratare",
+  "maltrattare_2": "maltratːare",
+  "maltrattato": "maltratato",
+  "maltrattato_2": "maltratːato",
+  "malumore": "malumore",
+  "malumore_2": "malumɔre",
+  "malva": "malva",
+  "malvaccione": "malvatːʃone",
+  "malvacea": "malvatʃea",
+  "malvacee": "malvatʃee",
+  "malvagia": "malvadʒa",
+  "malvagia_2": "malvadʒia",
+  "malvagio": "malvadʒo",
+  "malvagità": "malvadʒita",
+  "malvasia": "malvazia",
+  "malvavischio": "malvaviskjo",
+  "malve": "malve",
+  "malvedere": "malvedere",
+  "malversatore": "malversatore",
+  "malversatori": "malversatori",
+  "malversatrice": "malversatritʃe",
+  "malversatrici": "malversatritʃi",
+  "malversazione": "malversatsjone",
+  "malvezzo": "malvetso",
+  "malvisto": "malvisto",
+  "malvolentieri": "malvolentjɛri",
+  "malvolere": "malvolere",
+  "mamelucchi": "mamelukːi",
+  "mamelucco": "mamelukːo",
+  "mamma": "mama",
+  "mamma_2": "mamːa",
+  "mammalogia": "mamːalodʒia",
+  "mammalucco": "mamːalukːo",
+  "mammella": "mamːɛlːa",
+  "mammelle": "mamːɛlːe",
+  "mammelucchi": "mamːelukːi",
+  "mammelucco": "mamːelukːo",
+  "mammiferi": "mamːiferi",
+  "mammifero": "mamːifero",
+  "mammo": "mamːo",
+  "mammografia": "mamːoɡrafia",
+  "mammola": "mamːola",
+  "mammoletta": "mamːoletːa",
+  "mammologo": "mamːɔloɡo",
+  "mammone": "mamːone",
+  "mammoni": "mamːoni",
+  "mammoplastica": "mamːoplastika",
+  "mammoplastiche": "mamːoplastike",
+  "mammut": "mamːut",
+  "mamo": "mamo",
+  "manager": "manadʒer",
+  "manato": "manato",
+  "manca": "manka",
+  "manca_2": "maɲka",
+  "mancamento": "maɲkamento",
+  "mancando": "mankando",
+  "mancante": "mankante",
+  "mancanza": "mankantsa",
+  "mancanza_2": "maɲkantsa",
+  "mancanze": "mankantse",
+  "mancare": "mankare",
+  "mancare_2": "maɲkare",
+  "mancata": "mankata",
+  "mancate": "mankate",
+  "mancati": "mankati",
+  "mancato": "mankato",
+  "mancato_2": "maɲkato",
+  "mancavi": "maɲkavi",
+  "mance": "mantʃe",
+  "mancega": "mantʃɛɡa",
+  "mancego": "mantʃɛɡo",
+  "mancese": "mantʃese",
+  "mancese_2": "mantʃeze",
+  "manche": "manke",
+  "manche_2": "maɲke",
+  "manchester": "mantʃester",
+  "manchesteriana": "mantʃesterjana",
+  "manchesteriane": "mantʃesterjane",
+  "manchesteriani": "mantʃesterjani",
+  "manchesteriano": "mantʃesterjano",
+  "manchevole": "maɲkevole",
+  "manchevolezza": "maɲkevolɛtːsa",
+  "mancia": "mantʃa",
+  "manciata": "mantʃata",
+  "mancina": "mantʃina",
+  "mancini": "mantʃini",
+  "mancinismo": "mantʃinizmo",
+  "mancino": "mantʃino",
+  "mancipazione": "mantʃipatːsjone",
+  "mancipazioni": "mantʃipatːsjoni",
+  "manciù": "mantʃu",
+  "manciuria": "mantʃurja",
+  "manco": "manko",
+  "manco_2": "maɲko",
+  "mancolista": "maɲkolista",
+  "mancuniana": "mankunjana",
+  "mancuniane": "mankunjane",
+  "mancuniani": "mankunjani",
+  "mancuniano": "mankunjano",
+  "mandamentale": "mandamentale",
+  "mandamento": "mandamento",
+  "mandando": "mandando",
+  "mandante": "mandante",
+  "mandarancio": "mandarantʃo",
+  "mandare": "mandare",
+  "mandarina": "mandarina",
+  "mandarine": "mandarine",
+  "mandarini": "mandarini",
+  "mandarino": "mandarino",
+  "mandarsi": "mandarsi",
+  "mandata": "mandata",
+  "mandatari": "mandatari",
+  "mandataria": "mandatarja",
+  "mandatarie": "mandatarje",
+  "mandatario": "mandatarjo",
+  "mandati": "mandati",
+  "mandato": "mandato",
+  "mandato_2": "mandatɔ",
+  "mandatori": "mandatori",
+  "mandatoria": "mandatorja",
+  "mandatorie": "mandatorje",
+  "mandatorio": "mandatɔrjo",
+  "mandibola": "mandibola",
+  "mandibolare": "mandibolare",
+  "mando": "mando",
+  "mandolini": "mandolini",
+  "mandolinista": "mandolinista",
+  "mandoliniste": "mandoliniste",
+  "mandolinisti": "mandolinisti",
+  "mandolino": "mandolino",
+  "mandorla": "mandorla",
+  "mandorlato": "mandorlato",
+  "mandorli": "mandɔrli",
+  "mandorlo": "mandorlo",
+  "mandorlo_2": "mandɔrlɔ",
+  "mandragola": "mandraɡola",
+  "mandria": "mandrja",
+  "mandriano": "mandriano",
+  "mandrillo": "mandrilːo",
+  "mandrini": "mandrini",
+  "mandrino": "mandrino",
+  "manducare": "mandukare",
+  "manducazione": "mandukatːsjone",
+  "manducazioni": "mandukatːsjoni",
+  "maneggebile": "manedːʒebile",
+  "maneggebili": "manedːʒebili",
+  "maneggevole": "manedːʒevole",
+  "maneggi": "manedːʒi",
+  "maneggiabile": "manedːʒabile",
+  "maneggiabili": "manedːʒabili",
+  "maneggiare": "manedːʒare",
+  "maneggio": "manedːʒo",
+  "maneggione": "manedːʒone",
+  "manetta": "manetːa",
+  "manette": "manetːe",
+  "manforte": "manfɔrte",
+  "manfrina": "manfrina",
+  "manga": "manɡa",
+  "manganella": "maɲɡanɛlːa",
+  "manganelle": "maɲɡanɛlːe",
+  "manganelli": "maɲɡanɛlːi",
+  "manganello": "maɲɡanɛlːo",
+  "manganese": "manɡanese",
+  "manganese_2": "manɡaneze",
+  "manganese_3": "maɲɡanese",
+  "manganese_4": "maɲɡaneze",
+  "mangani": "maɲɡani",
+  "mangano": "manɡano",
+  "mangano_2": "maɲɡano",
+  "manganoso": "manɡanoso",
+  "manganoso_2": "manɡanozo",
+  "mangerà": "mandʒera",
+  "mangerai": "mandʒerai",
+  "mangeranno": "mandʒeranːo",
+  "mangerebbe": "mandʒerebːe",
+  "mangerebbero": "mandʒerebːero",
+  "mangerei": "mandʒerei",
+  "mangeremmo": "mandʒeremːo",
+  "mangeremo": "mandʒeremo",
+  "mangereste": "mandʒereste",
+  "mangeresti": "mandʒeresti",
+  "mangerete": "mandʒerete",
+  "mangeria": "mandʒeria",
+  "mangerò": "mandʒero",
+  "mangi": "mandʒi",
+  "mangia": "mandʒa",
+  "mangiaapi": "mandʒaapi",
+  "mangiabile": "mandʒabile",
+  "mangiabili": "mandʒabili",
+  "mangiadischi": "mandʒadiski",
+  "mangiafumo": "mandʒafumo",
+  "mangiafuoco": "mandʒafwɔko",
+  "mangiai": "mandʒai",
+  "mangiammo": "mandʒamːo",
+  "mangiamo": "mandʒjamo",
+  "mangiando": "mandʒando",
+  "mangiano": "mandʒano",
+  "mangiante": "mandʒante",
+  "mangiapatate": "mandʒapatate",
+  "mangiapolenta": "mandʒapolɛnta",
+  "mangiarane": "mandʒarane",
+  "mangiare": "mandʒare",
+  "mangiarono": "mandʒarono",
+  "mangiasse": "mandʒasːe",
+  "mangiassero": "mandʒasːero",
+  "mangiassi": "mandʒasːi",
+  "mangiassimo": "mandʒasːimo",
+  "mangiaste": "mandʒaste",
+  "mangiasti": "mandʒasti",
+  "mangiata": "mandʒata",
+  "mangiate": "mandʒate",
+  "mangiati": "mandʒati",
+  "mangiato": "mandʒato",
+  "mangiatoia": "maɲdʒatoja",
+  "mangiatore": "mandʒatore",
+  "mangiatori": "mandʒatori",
+  "mangiatrice": "mandʒatritʃe",
+  "mangiatrici": "mandʒatritʃi",
+  "mangiava": "mandʒava",
+  "mangiavamo": "mandʒavamo",
+  "mangiavano": "mandʒavano",
+  "mangiavate": "mandʒavate",
+  "mangiavi": "mandʒavi",
+  "mangiavo": "mandʒavo",
+  "mangime": "mandʒime",
+  "mangino": "mandʒino",
+  "mangio": "mandʒo",
+  "mangiò": "mandʒo",
+  "mangione": "mandʒone",
+  "mangiucchiare": "mandʒukːjare",
+  "mango": "manɡo",
+  "mangosta": "manɡosta",
+  "mangusta": "manɡusta",
+  "manguste": "manɡuste",
+  "mani": "mani",
+  "mania": "mania",
+  "mania_2": "manja",
+  "maniaca": "maniaka",
+  "maniache": "maniake",
+  "maniaci": "maniatʃi",
+  "maniaco": "maniako",
+  "maniatamente": "manjatamente",
+  "maniato": "manjato",
+  "manica": "manika",
+  "manicaio": "manikajo",
+  "manicare": "manikare",
+  "manicaretto": "manikaretːo",
+  "maniche": "manikːe",
+  "manicheismi": "manikeizmi",
+  "manicheismo": "manikeizmo",
+  "manicheo": "manikɛo",
+  "manichini": "manikini",
+  "manichino": "manikino",
+  "manico": "maniko",
+  "manicomiale": "manikomjale",
+  "manicomio": "manikɔmjo",
+  "manicotti": "manikɔtːi",
+  "manicotto": "manikɔtːo",
+  "manicure": "manikure",
+  "manie": "manie",
+  "maniera": "manjɛra",
+  "manierato": "manjerato",
+  "manierismi": "manjerizmi",
+  "manierismo": "manjerizmo",
+  "manierista": "manjerista",
+  "manieriste": "manjeriste",
+  "manieristi": "manjeristi",
+  "maniero": "manjɛro",
+  "manifattura": "manifatːura",
+  "manifatture": "manifatːure",
+  "manifatturiero": "manifatːurjɛro",
+  "manifestamente": "manifestamente",
+  "manifestante": "manifestante",
+  "manifestanti": "manifestanti",
+  "manifestare": "manifestare",
+  "manifestare_2": "manifɛstare",
+  "manifestarsi": "manifestarsi",
+  "manifestarsi_2": "manifɛstarsi",
+  "manifestato": "manifestato",
+  "manifestato_2": "manifɛstato",
+  "manifestazione": "manifestatsjone",
+  "manifestazione_2": "manifestatːsjone",
+  "manifestazione_3": "manifɛstatsjɔne",
+  "manifestino": "manifestino",
+  "manifesto": "manifɛsto",
+  "maniglia": "maniʎa",
+  "maniglie": "maniʎe",
+  "manigoldo": "maniɡoldo",
+  "manina": "manina",
+  "manipolabile": "manipolabile",
+  "manipolabili": "manipolabili",
+  "manipolare": "manipolare",
+  "manipolato": "manipolato",
+  "manipolatore": "manipolatore",
+  "manipolatori": "manipolatori",
+  "manipolatrice": "manipolatritʃe",
+  "manipolatrici": "manipolatritʃi",
+  "manipolazione": "manipolatːsjone",
+  "manipolo": "manipolo",
+  "maniscalchi": "maniskalki",
+  "maniscalco": "maniskalko",
+  "manitù": "manitu",
+  "manleva": "manlɛva",
+  "manna": "manːa",
+  "mannaggia": "manːadʒa",
+  "mannaggia_2": "manːadːʒa",
+  "mannaia": "manːaja",
+  "mannaro": "manːaro",
+  "mannello": "manːɛlːo",
+  "mannequin": "mankɛn",
+  "mannese": "manːese",
+  "mannite": "manːite",
+  "mano": "mano",
+  "mano_2": "manɔ",
+  "manodopera": "manodɔpera",
+  "manomesso": "manomesːo",
+  "manometri": "manɔmetri",
+  "manometria": "manometria",
+  "manometro": "manɔmetro",
+  "manomissione": "manomisːjone",
+  "manomorta": "manomɔrta",
+  "manopola": "manɔpola",
+  "manoscritta": "manoskritːa",
+  "manoscritte": "manoskritːe",
+  "manoscritti": "manoskritːi",
+  "manoscritto": "manoskritːo",
+  "manoscrivere": "manoskrivere",
+  "manovella": "manovɛlːa",
+  "manovelle": "manovɛlːe",
+  "manovellismo": "manovelːizmo",
+  "manovra": "manɔvra",
+  "manovrabile": "manovrabile",
+  "manovrabili": "manovrabili",
+  "manovrante": "manovrante",
+  "manovrare": "manovrare",
+  "manovrato": "manovrato",
+  "manovratore": "manovratore",
+  "manrovescio": "manrovɛʃʃo",
+  "mansarda": "mansarda",
+  "mansarde": "mansarde",
+  "mansione": "mansjone",
+  "mansioni": "mansjoni",
+  "manso": "manso",
+  "mansuescere": "mansuɛʃʃere",
+  "mansuescere_2": "manswɛʃʃere",
+  "mansueta": "mansuɛta",
+  "mansuete": "mansuɛte",
+  "mansueti": "mansuɛti",
+  "mansueto": "mansuɛto",
+  "mansuetudine": "mansuetudine",
+  "mansuetudine_2": "manswetudine",
+  "manta": "manta",
+  "manteca": "mantɛka",
+  "mantecare": "mantekare",
+  "mantecato": "mantekato",
+  "mantella": "mantɛlːa",
+  "mantellato": "mantelːato",
+  "mantelletta": "mantelːetːa"
 }

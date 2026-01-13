@@ -1,1518 +1,518 @@
 {
-  "imbalsamato": [
-    "imbalsamato"
-  ],
-  "imbalsamazione": [
-    "imbalsamatsjone"
-  ],
-  "imbambolare": [
-    "imbambolare"
-  ],
-  "imbandierare": [
-    "imbandjerare"
-  ],
-  "imbarazzante": [
-    "imbaratːsante"
-  ],
-  "imbarazzanti": [
-    "imbaratːsanti"
-  ],
-  "imbarazzare": [
-    "imbaratːsare"
-  ],
-  "imbarazzarsi": [
-    "imbaratːsarsi"
-  ],
-  "imbarazzata": [
-    "imbaratːsata"
-  ],
-  "imbarazzate": [
-    "imbaratːsate"
-  ],
-  "imbarazzati": [
-    "imbaratːsati"
-  ],
-  "imbarazzato": [
-    "imbaratːsato"
-  ],
-  "imbarazzi": [
-    "imbaratːso"
-  ],
-  "imbarazzo": [
-    "imbaratːso"
-  ],
-  "imbarbarito": [
-    "imbarbarito"
-  ],
-  "imbarcadero": [
-    "imbarkadɛro"
-  ],
-  "imbarcare": [
-    "imbarkare"
-  ],
-  "imbarcato": [
-    "imbarkato"
-  ],
-  "imbarcazione": [
-    "imbarkatsjone",
-    "imbarkatːsjone"
-  ],
-  "imbarcazioni": [
-    "imbarkatsjoni"
-  ],
-  "imbarchi": [
-    "imbarki"
-  ],
-  "imbarco": [
-    "imbarko"
-  ],
-  "imbarocchire": [
-    "imbarokːire"
-  ],
-  "imbastardire": [
-    "imbastardire"
-  ],
-  "imbastardito": [
-    "imbastardito"
-  ],
-  "imbastire": [
-    "imbastire"
-  ],
-  "imbattersi": [
-    "imbatːersi"
-  ],
-  "imbattezzabile": [
-    "imbatːedːzabile"
-  ],
-  "imbattibile": [
-    "imbatːibile"
-  ],
-  "imbattibili": [
-    "imbatːibili"
-  ],
-  "imbattuto": [
-    "imbatːuto"
-  ],
-  "imbavagliare": [
-    "imbavaʎare"
-  ],
-  "imbavagliato": [
-    "imbavaʎato"
-  ],
-  "imbavare": [
-    "imbavare"
-  ],
-  "imbecille": [
-    "imbetʃilːe"
-  ],
-  "imbecilli": [
-    "imbetʃilːi"
-  ],
-  "imbecillismi": [
-    "imbetʃilːizmi"
-  ],
-  "imbecillismo": [
-    "imbetʃilːizmo"
-  ],
-  "imbecillissima": [
-    "imbetʃilːisima"
-  ],
-  "imbecillissime": [
-    "imbetʃilːisime"
-  ],
-  "imbecillissimi": [
-    "imbetʃilːisimi"
-  ],
-  "imbecillissimo": [
-    "imbetʃilːisimo"
-  ],
-  "imbecillità": [
-    "imbetʃilːita"
-  ],
-  "imbelle": [
-    "imbɛlːe"
-  ],
-  "imbellettarsi": [
-    "imbelːetːarsi"
-  ],
-  "imbelli": [
-    "imbɛlːi"
-  ],
-  "imberbe": [
-    "imbɛrbe"
-  ],
-  "imbevere": [
-    "imbevere"
-  ],
-  "imbevibile": [
-    "imbevibile"
-  ],
-  "imbevibili": [
-    "imbevibili"
-  ],
-  "imbevuto": [
-    "imbevuto"
-  ],
-  "imbiancare": [
-    "imbjankare"
-  ],
-  "imbiancato": [
-    "imbjankato"
-  ],
-  "imbiancatura": [
-    "imbjankatura"
-  ],
-  "imbianchino": [
-    "imbjankino",
-    "imbjaɲkino"
-  ],
-  "imbibire": [
-    "imbibire"
-  ],
-  "imbibizione": [
-    "imbibitːsjone"
-  ],
-  "imbibizioni": [
-    "imbibitːsjoni"
-  ],
-  "imboccare": [
-    "imbokare"
-  ],
-  "imboccatura": [
-    "imbokːatura",
-    "imbɔkːatura"
-  ],
-  "imboccature": [
-    "imbokːature"
-  ],
-  "imbocco": [
-    "imbokːo"
-  ],
-  "imbolsito": [
-    "imbolsito"
-  ],
-  "imbonire": [
-    "imbonire"
-  ],
-  "imbonito": [
-    "imbonito"
-  ],
-  "imbonitore": [
-    "imbonitore"
-  ],
-  "imborghesimento": [
-    "imborɡesimento",
-    "imborɡezimento"
-  ],
-  "imboscare": [
-    "imboskare"
-  ],
-  "imboscarsi": [
-    "imboskarsi"
-  ],
-  "imboscata": [
-    "imboskata"
-  ],
-  "imboscate": [
-    "imboskate"
-  ],
-  "imboscato": [
-    "imboskato"
-  ],
-  "imbottatoi": [
-    "imbotːatoi"
-  ],
-  "imbottatoia": [
-    "imbotːatoja"
-  ],
-  "imbottatoie": [
-    "imbotːatoje"
-  ],
-  "imbottatoio": [
-    "imbotːatojo"
-  ],
-  "imbottavino": [
-    "imbotːavino"
-  ],
-  "imbottigliamenti": [
-    "imbotːiʎamenti"
-  ],
-  "imbottigliamento": [
-    "imbotːiʎamento"
-  ],
-  "imbottigliante": [
-    "imbotːiʎante"
-  ],
-  "imbottigliare": [
-    "imbotːiʎare"
-  ],
-  "imbottigliarsi": [
-    "imbotːiʎarsi"
-  ],
-  "imbottigliato": [
-    "imbotːiʎato"
-  ],
-  "imbottigliatore": [
-    "imbotːiʎatore"
-  ],
-  "imbottigliatori": [
-    "imbotːiʎatore"
-  ],
-  "imbottigliatrice": [
-    "imbotːiʎatritʃe"
-  ],
-  "imbottigliatrici": [
-    "imbotːiʎatritʃi"
-  ],
-  "imbottire": [
-    "imbotːire"
-  ],
-  "imbottiti": [
-    "imbotːiti"
-  ],
-  "imbottito": [
-    "imbotːito"
-  ],
-  "imbracare": [
-    "imbrakare"
-  ],
-  "imbracatura": [
-    "imbrakatura"
-  ],
-  "imbracature": [
-    "imbrakature"
-  ],
-  "imbragatura": [
-    "imbraɡatura"
-  ],
-  "imbragature": [
-    "imbraɡature"
-  ],
-  "imbranata": [
-    "imbranata"
-  ],
-  "imbranate": [
-    "imbranate"
-  ],
-  "imbranati": [
-    "imbranati"
-  ],
-  "imbranato": [
-    "imbranato"
-  ],
-  "imbrattacarte": [
-    "imbratːakarte"
-  ],
-  "imbrattamento": [
-    "imbratːamento"
-  ],
-  "imbrattare": [
-    "imbratːare"
-  ],
-  "imbrattatele": [
-    "imbratːatele"
-  ],
-  "imbrattatore": [
-    "imbratːatore"
-  ],
-  "imbreviare": [
-    "imbrevjare"
-  ],
-  "imbriaco": [
-    "imbriako"
-  ],
-  "imbrifera": [
-    "imbrifera"
-  ],
-  "imbrifere": [
-    "imbrifere"
-  ],
-  "imbriferi": [
-    "imbriferi"
-  ],
-  "imbrifero": [
-    "imbrifero"
-  ],
-  "imbrigliare": [
-    "imbriʎare"
-  ],
-  "imbrogli": [
-    "imbrɔʎi"
-  ],
-  "imbrogliare": [
-    "imbroʎare",
-    "imbrɔʎare",
-    "imbrɔʎjare"
-  ],
-  "imbrogliarsi": [
-    "imbroʎarsi"
-  ],
-  "imbrogliato": [
-    "imbroʎato"
-  ],
-  "imbroglio": [
-    "imbrɔʎo"
-  ],
-  "imbrogliona": [
-    "imbroʎona"
-  ],
-  "imbroglione": [
-    "imbroʎone"
-  ],
-  "imbroglioni": [
-    "imbroʎoni"
-  ],
-  "imbroncare": [
-    "imbronkare"
-  ],
-  "imbronciato": [
-    "imbrontʃato"
-  ],
-  "imbrunire": [
-    "imbrunire"
-  ],
-  "imbruttire": [
-    "mbrutːire"
-  ],
-  "imbucato": [
-    "imbukato"
-  ],
-  "imbufalito": [
-    "imbufalito"
-  ],
-  "imbullonare": [
-    "imbulːonare"
-  ],
-  "imburrare": [
-    "imburːare"
-  ],
-  "imburrata": [
-    "imburːata"
-  ],
-  "imburrate": [
-    "imburːate"
-  ],
-  "imburrati": [
-    "imburːati"
-  ],
-  "imburrato": [
-    "imburːato"
-  ],
-  "imbusto": [
-    "imbusto"
-  ],
-  "imbuti": [
-    "imbuti"
-  ],
-  "imbuto": [
-    "imbuto"
-  ],
-  "imene": [
-    "imɛne"
-  ],
-  "imeneo": [
-    "imenɛo"
-  ],
-  "imenotteri": [
-    "imenɔtːeri"
-  ],
-  "imenottero": [
-    "imenɔtːero"
-  ],
-  "imidazolo": [
-    "imidadːzɔlo"
-  ],
-  "imitabile": [
-    "imitabile"
-  ],
-  "imitabili": [
-    "imitabili"
-  ],
-  "imitando": [
-    "imitando"
-  ],
-  "imitante": [
-    "imitante"
-  ],
-  "imitare": [
-    "imitare"
-  ],
-  "imitate": [
-    "imitate"
-  ],
-  "imitativa": [
-    "imitativa"
-  ],
-  "imitativo": [
-    "imitativo"
-  ],
-  "imitato": [
-    "imitato"
-  ],
-  "imitatore": [
-    "imitatore"
-  ],
-  "imitatori": [
-    "imitatori"
-  ],
-  "imitatrice": [
-    "imitatritʃe"
-  ],
-  "imitatrici": [
-    "imitatritʃi"
-  ],
-  "imitazione": [
-    "imitatsjone",
-    "imitatːsjone"
-  ],
-  "imitazioni": [
-    "imitatsjone"
-  ],
-  "immacolatamente": [
-    "imːakolatamente"
-  ],
-  "immacolato": [
-    "imːakolato"
-  ],
-  "immagazzinabile": [
-    "imːaɡadːzabile"
-  ],
-  "immagazzinabili": [
-    "imːaɡadːzabili"
-  ],
-  "immagazzinaggi": [
-    "imːaɡadːzinadːʒi"
-  ],
-  "immagazzinaggio": [
-    "imːaɡadːzinadːʒo"
-  ],
-  "immagazzinamenti": [
-    "imːaɡadːzinamenti"
-  ],
-  "immagazzinamento": [
-    "imːaɡadːzinamento"
-  ],
-  "immagazzinante": [
-    "imːaɡadːzinante"
-  ],
-  "immagazzinare": [
-    "imːaɡadːzinare"
-  ],
-  "immagazzinato": [
-    "imːaɡadːzinato"
-  ],
-  "immaginabile": [
-    "imːadʒinabile"
-  ],
-  "immaginabili": [
-    "imːadʒinabili"
-  ],
-  "immaginare": [
-    "imːadʒinare"
-  ],
-  "immaginari": [
-    "imːadʒinari"
-  ],
-  "immaginaria": [
-    "imːadʒinarja"
-  ],
-  "immaginarie": [
-    "imːadʒinarje"
-  ],
-  "immaginario": [
-    "imːadʒinarjo"
-  ],
-  "immaginativa": [
-    "imːadʒinativa"
-  ],
-  "immaginativo": [
-    "imːadʒinativo"
-  ],
-  "immaginato": [
-    "imːadʒinato"
-  ],
-  "immaginazione": [
-    "imːadʒinatːsione",
-    "imːadʒinatːsjone"
-  ],
-  "immaginazioni": [
-    "imːadʒinatːsjoni"
-  ],
-  "immagine": [
-    "imːadʒine"
-  ],
-  "immaginetta": [
-    "imːadʒinetːa"
-  ],
-  "immagini": [
-    "imːadʒini"
-  ],
-  "immaginoso": [
-    "imːadʒinoso",
-    "imːadʒinozo"
-  ],
-  "immago": [
-    "imːaɡo"
-  ],
-  "immalinconito": [
-    "imːalinkonito"
-  ],
-  "immancabile": [
-    "imːankabile"
-  ],
-  "immancabili": [
-    "imːankabili"
-  ],
-  "immancabilmente": [
-    "imːankabilmente"
-  ],
-  "immane": [
-    "imːane"
-  ],
-  "immanente": [
-    "imːanɛnte"
-  ],
-  "immanenti": [
-    "imːanɛnti"
-  ],
-  "immanentismo": [
-    "imːanentizmo"
-  ],
-  "immangiabile": [
-    "imːandʒabile"
-  ],
-  "immangiabili": [
-    "imːandʒabili"
-  ],
-  "immangiabilità": [
-    "imːandʒabilita"
-  ],
-  "immanicato": [
-    "imːanikato"
-  ],
-  "immanovrabile": [
-    "imːanovrabile"
-  ],
-  "immanovrabili": [
-    "imːanovrabili"
-  ],
-  "immantenente": [
-    "imːantenɛnte"
-  ],
-  "immantinente": [
-    "imːantinɛnte"
-  ],
-  "immarcescibile": [
-    "imːartʃeʃibile"
-  ],
-  "immarcescibili": [
-    "imːartʃeʃibili"
-  ],
-  "immatricolare": [
-    "imːatrikolare"
-  ],
-  "immatricolarsi": [
-    "imːatrikolarsi"
-  ],
-  "immatricolata": [
-    "imːatrikolata"
-  ],
-  "immatricolate": [
-    "imːatrikolate"
-  ],
-  "immatricolati": [
-    "imːatrikolati"
-  ],
-  "immatricolato": [
-    "imːatrikolato"
-  ],
-  "immatricolazione": [
-    "imːatrikolatːsjone"
-  ],
-  "immatricolazioni": [
-    "imːatrikolatːsjoni"
-  ],
-  "immaturamente": [
-    "imːaturamente"
-  ],
-  "immaturità": [
-    "imːaturita"
-  ],
-  "immaturo": [
-    "imːaturo"
-  ],
-  "immedesimare": [
-    "imːedezimare"
-  ],
-  "immedesimarsi": [
-    "imːedezimarsi"
-  ],
-  "immedesimazione": [
-    "imːedezimatːsjone"
-  ],
-  "immediatamente": [
-    "imːediatamente"
-  ],
-  "immediate": [
-    "imːedjato"
-  ],
-  "immediatezza": [
-    "imːedjatetːsa"
-  ],
-  "immediato": [
-    "imːedjato"
-  ],
-  "immedicabile": [
-    "imːedikabile"
-  ],
-  "immemorabile": [
-    "imːemorabile"
-  ],
-  "immemorabili": [
-    "imːemorabili"
-  ],
-  "immemore": [
-    "imːɛmore"
-  ],
-  "immensa": [
-    "imːɛnsa"
-  ],
-  "immensamente": [
-    "imːensamente",
-    "smisuratamenteinfinitamentel"
-  ],
-  "immense": [
-    "imːɛnse"
-  ],
-  "immensi": [
-    "imːɛnsi"
-  ],
-  "immensissima": [
-    "imːɛnsisːima"
-  ],
-  "immensissimamente": [
-    "imːensisːimamente"
-  ],
-  "immensissime": [
-    "imːɛnsisːime"
-  ],
-  "immensissimi": [
-    "imːɛnsisːimi"
-  ],
-  "immensissimo": [
-    "imːɛnsisːimo"
-  ],
-  "immensità": [
-    "imːensita"
-  ],
-  "immenso": [
-    "imːɛnso"
-  ],
-  "immensurabile": [
-    "imːensurabile"
-  ],
-  "immensurabili": [
-    "imːensurabili"
-  ],
-  "immergente": [
-    "imːɛrdʒente"
-  ],
-  "immergere": [
-    "imːɛrdʒere"
-  ],
-  "immergersi": [
-    "imːɛrdʒersi"
-  ],
-  "immergibile": [
-    "imːerdʒibile"
-  ],
-  "immeritato": [
-    "imːeritato"
-  ],
-  "immeritevole": [
-    "imːeritevole"
-  ],
-  "immersione": [
-    "imːersjone"
-  ],
-  "immerso": [
-    "imːɛrso"
-  ],
-  "immessa": [
-    "imːesːa"
-  ],
-  "immesse": [
-    "imːesːe"
-  ],
-  "immessi": [
-    "imːesːi"
-  ],
-  "immesso": [
-    "imːesːo"
-  ],
-  "immetta": [
-    "imːetːa"
-  ],
-  "immettano": [
-    "imːetːano"
-  ],
-  "immette": [
-    "imːetːe"
-  ],
-  "immettemmo": [
-    "imːetːemːo"
-  ],
-  "immettendo": [
-    "imːetːendo"
-  ],
-  "immettente": [
-    "imːetːente"
-  ],
-  "immetterà": [
-    "imːetːera"
-  ],
-  "immetterai": [
-    "imːetːerai"
-  ],
-  "immetteranno": [
-    "imːetːeranːo"
-  ],
-  "immetterebbe": [
-    "imːetːerebːe"
-  ],
-  "immetterebbero": [
-    "imːetːerebːero"
-  ],
-  "immetterei": [
-    "imːetːerei"
-  ],
-  "immetteremmo": [
-    "imːetːeremːo"
-  ],
-  "immetteremo": [
-    "imːetːeremo"
-  ],
-  "immettereste": [
-    "imːetːereste"
-  ],
-  "immetteresti": [
-    "imːetːeresti"
-  ],
-  "immetterete": [
-    "imːetːerete"
-  ],
-  "immetterò": [
-    "imːetːero"
-  ],
-  "immettesse": [
-    "imːetːesːe"
-  ],
-  "immettessero": [
-    "imːetːesːero"
-  ],
-  "immettessi": [
-    "imːetːesːi"
-  ],
-  "immettessimo": [
-    "imːetːesːimo"
-  ],
-  "immetteste": [
-    "imːetːeste"
-  ],
-  "immettesti": [
-    "imːetːesti"
-  ],
-  "immettete": [
-    "imːetːete"
-  ],
-  "immetteva": [
-    "imːetːeva"
-  ],
-  "immettevamo": [
-    "imːetːevamo"
-  ],
-  "immettevano": [
-    "imːetːevano"
-  ],
-  "immettevate": [
-    "imːetːevate"
-  ],
-  "immettevi": [
-    "imːetːevi"
-  ],
-  "immettevo": [
-    "imːetːevo"
-  ],
-  "immetti": [
-    "imːetːi"
-  ],
-  "immettiamo": [
-    "imːetːjamo"
-  ],
-  "immettiate": [
-    "imːetːjate"
-  ],
-  "immetto": [
-    "imːetːo"
-  ],
-  "immettono": [
-    "imːetːono"
-  ],
-  "immide": [
-    "imːide"
-  ],
-  "immigrante": [
-    "imːiɡrante"
-  ],
-  "immigranti": [
-    "imːiɡranti"
-  ],
-  "immigrare": [
-    "imːiɡrare"
-  ],
-  "immigrata": [
-    "imːiɡrata"
-  ],
-  "immigrate": [
-    "imːiɡrate"
-  ],
-  "immigrati": [
-    "imːiɡrati"
-  ],
-  "immigrato": [
-    "imːiɡrato"
-  ],
-  "immigratori": [
-    "imːiɡratori"
-  ],
-  "immigratoria": [
-    "imːiɡratoria"
-  ],
-  "immigratorie": [
-    "imːiɡratorie"
-  ],
-  "immigratorio": [
-    "imːiɡratorjo"
-  ],
-  "immigrazione": [
-    "imːiɡratsjone"
-  ],
-  "immigrazioni": [
-    "imːiɡratsjoni"
-  ],
-  "immillare": [
-    "imːilːare"
-  ],
-  "immillarsi": [
-    "imːilːarsi"
-  ],
-  "immina": [
-    "imːina"
-  ],
-  "imminente": [
-    "imːinɛnte"
-  ],
-  "imminenti": [
-    "imːinɛnti"
-  ],
-  "imminenza": [
-    "imːinɛntsa"
-  ],
-  "immischiare": [
-    "imːiskjare"
-  ],
-  "immischiarsi": [
-    "imːiskjarsi"
-  ],
-  "immiscibile": [
-    "mːiʃʃibile"
-  ],
-  "immiscibili": [
-    "imːiʃʃibili"
-  ],
-  "immise": [
-    "imːize"
-  ],
-  "immisero": [
-    "imːizero"
-  ],
-  "immisi": [
-    "imːizi"
-  ],
-  "immissario": [
-    "imːisːarjo"
-  ],
-  "immisurabile": [
-    "imːizurabile"
-  ],
-  "immisurabili": [
-    "imːizurabili"
-  ],
-  "immobile": [
-    "imːɔbile"
-  ],
-  "immobili": [
-    "imːɔbili"
-  ],
-  "immobiliare": [
-    "imːobiljare"
-  ],
-  "immobiliarista": [
-    "imːobiljarista"
-  ],
-  "immobilismi": [
-    "imːobilizmi"
-  ],
-  "immobilismo": [
-    "imːobilizmo"
-  ],
-  "immobilista": [
-    "imːobilista"
-  ],
-  "immobiliste": [
-    "imːobiliste"
-  ],
-  "immobilisti": [
-    "imːobilisti"
-  ],
-  "immobilistico": [
-    "imːobilistiko"
-  ],
-  "immobilità": [
-    "imːobilita"
-  ],
-  "immobilizzante": [
-    "imːobilidːʒante"
-  ],
-  "immobilizzanti": [
-    "imːobilidːʒanti"
-  ],
-  "immobilizzare": [
-    "imːobilidːzare",
-    "imːobilidːʒare"
-  ],
-  "immobilizzarsi": [
-    "imːobilidːʒarsi"
-  ],
-  "immobilizzata": [
-    "imːobilidːʒata"
-  ],
-  "immobilizzate": [
-    "imːobilidːʒate"
-  ],
-  "immobilizzati": [
-    "imːobilidːʒati"
-  ],
-  "immobilizzato": [
-    "imːobilidːzato",
-    "imːobilidːʒato"
-  ],
-  "immobilizzazione": [
-    "imːobilidːzatsjone"
-  ],
-  "immobilizzazioni": [
-    "imːobilidːzatsjoni"
-  ],
-  "immoderatamente": [
-    "imːoderatamente"
-  ],
-  "immoderatezza": [
-    "imːoderatetːsa"
-  ],
-  "immodesta": [
-    "imːodɛsta"
-  ],
-  "immodestamente": [
-    "imːodestamente"
-  ],
-  "immodeste": [
-    "imːodɛste"
-  ],
-  "immodesti": [
-    "imːodɛsti"
-  ],
-  "immodesto": [
-    "imːodɛst",
-    "imːodɛsto"
-  ],
-  "immodificabile": [
-    "imːodifikabile"
-  ],
-  "immodificabili": [
-    "imːodifikabili"
-  ],
-  "immolate": [
-    "imːolate"
-  ],
-  "immolazione": [
-    "imːolatːsjone"
-  ],
-  "immolazioni": [
-    "imːolatːsjoni"
-  ],
-  "immondezza": [
-    "imːondetːsa"
-  ],
-  "immondizia": [
-    "imːonditsja"
-  ],
-  "immondo": [
-    "imːondo"
-  ],
-  "immorale": [
-    "imːorale"
-  ],
-  "immorali": [
-    "imːorali"
-  ],
-  "immoralità": [
-    "imːoralita"
-  ],
-  "immortalare": [
-    "imːortalare"
-  ],
-  "immortalato": [
-    "imːortalato"
-  ],
-  "immortale": [
-    "imːortale"
-  ],
-  "immortalità": [
-    "imːortalita"
-  ],
-  "immotivato": [
-    "imːotivato"
-  ],
-  "immoto": [
-    "imːɔto"
-  ],
-  "immune": [
-    "imːune"
-  ],
-  "immunità": [
-    "imːunita"
-  ],
-  "immunitari": [
-    "imːunitari"
-  ],
-  "immunitaria": [
-    "imːunitarja"
-  ],
-  "immunitarie": [
-    "imːunitarje"
-  ],
-  "immunitario": [
-    "imːunitarjo"
-  ],
-  "immunizzante": [
-    "imunidːzante",
-    "imːunidːzante"
-  ],
-  "immunizzanti": [
-    "imunidːzanti"
-  ],
-  "immunizzare": [
-    "imːunidːzare"
-  ],
-  "immunizzato": [
-    "imːunidːzato"
-  ],
-  "immunizzazione": [
-    "imːunidːzatːsjone"
-  ],
-  "immunizzazioni": [
-    "imːunidːzatːsjoni"
-  ],
-  "immunoblasto": [
-    "imːunoblasto"
-  ],
-  "immunochimica": [
-    "imːunokimika"
-  ],
-  "immunochimico": [
-    "imːunokimiko"
-  ],
-  "immunocompetente": [
-    "imːunokompetɛnte"
-  ],
-  "immunocompetenza": [
-    "imːunokompetɛntsa"
-  ],
-  "immunocomplesso": [
-    "imːunokomplɛsːo"
-  ],
-  "immunodeficiente": [
-    "imːunodefitʃɛnte"
-  ],
-  "immunodeficienti": [
-    "imːunodefitʃɛnti"
-  ],
-  "immunodeficienza": [
-    "imːunodefitʃɛntsa"
-  ],
-  "immunodeficienze": [
-    "imːunodefitʃɛntse"
-  ],
-  "immunoemopatia": [
-    "imːunoemopatia"
-  ],
-  "immunoenzimatica": [
-    "imːunoendzimatika"
-  ],
-  "immunoenzimatiche": [
-    "imːunoendzimatike"
-  ],
-  "immunoenzimatici": [
-    "imːunoendzimatitʃi"
-  ],
-  "immunoenzimatico": [
-    "imːunoendzimatiko"
-  ],
-  "immunofarmacologia": [
-    "imːunofarmakolodʒia"
-  ],
-  "immunofarmacologie": [
-    "imːunofarmakolodʒie"
-  ],
-  "immunofluorescenza": [
-    "imːunoflworeʃʃɛntsa"
-  ],
-  "immunofluorescenze": [
-    "imːunoflworeʃʃɛntse"
-  ],
-  "immunologia": [
-    "imːunolodʒia"
-  ],
-  "immunologica": [
-    "imːunolɔdʒika"
-  ],
-  "immunologiche": [
-    "imːunolɔdʒike"
-  ],
-  "immunologici": [
-    "imːunolɔdʒitʃi"
-  ],
-  "immunologico": [
-    "imːunolɔdʒiko"
-  ],
-  "immunologo": [
-    "imːunɔloɡo"
-  ],
-  "immunopatologica": [
-    "imːunopatolɔdʒika"
-  ],
-  "immunopatologiche": [
-    "imːunopatolɔdʒike"
-  ],
-  "immunopatologici": [
-    "imːunopatolɔdʒitʃi"
-  ],
-  "immunopatologico": [
-    "imːunopatolɔdʒiko"
-  ],
-  "immunoplasmopatia": [
-    "imːunoplazmopatia"
-  ],
-  "immunopoietico": [
-    "imːunopojɛtiko"
-  ],
-  "immunoproliferativo": [
-    "imːunoproliferativo"
-  ],
-  "immunoproliferazione": [
-    "imːunoproliferatːsjone"
-  ],
-  "immunoproteina": [
-    "imːunoproteina"
-  ],
-  "immunosorveglianza": [
-    "imːunosorveʎantsa"
-  ],
-  "immunotossina": [
-    "imːunotosːina"
-  ],
-  "immunotrombocitopatia": [
-    "imːunotrombotʃitopatia"
-  ],
-  "immusonirsi": [
-    "imːuzonirsi"
-  ],
-  "immusonito": [
-    "imːuzonito"
-  ],
-  "immutabile": [
-    "imːutabile"
-  ],
-  "immutabili": [
-    "imːutabili"
-  ],
-  "immutabilità": [
-    "imːutabilita"
-  ],
-  "immutabilmente": [
-    "imːutabilmente"
-  ],
-  "immutato": [
-    "imːutato"
-  ],
-  "imola": [
-    "imola"
-  ],
-  "imolese": [
-    "imolese"
-  ],
-  "imolesi": [
-    "imolesi"
-  ],
-  "impaccare": [
-    "impakːare"
-  ],
-  "impacchettare": [
-    "impakːetːare"
-  ],
-  "impacciare": [
-    "impatːʃare"
-  ],
-  "impacciato": [
-    "impatːʃato"
-  ],
-  "impaccio": [
-    "impatːʃo"
-  ],
-  "impacco": [
-    "impakːo"
-  ],
-  "impadronirsi": [
-    "impadronirsi"
-  ],
-  "impadronito": [
-    "impadronito"
-  ],
-  "impagabile": [
-    "impaɡabile"
-  ],
-  "impagabili": [
-    "impaɡabili"
-  ],
-  "impaginare": [
-    "impadʒinare"
-  ],
-  "impaginato": [
-    "impadʒinato"
-  ],
-  "impagliare": [
-    "impaʎare"
-  ],
-  "impalamenti": [
-    "impalamenti"
-  ],
-  "impalamento": [
-    "impalamento"
-  ],
-  "impalato": [
-    "impalato"
-  ],
-  "impalcatura": [
-    "impalkatura"
-  ],
-  "impallidare": [
-    "impalːidare"
-  ],
-  "impallidire": [
-    "impalːidire"
-  ],
-  "impalpabile": [
-    "impalpabile"
-  ],
-  "impalpabili": [
-    "impalpabili"
-  ],
-  "impanare": [
-    "impanare"
-  ],
-  "impaniare": [
-    "impanjare"
-  ],
-  "impaniato": [
-    "impanjato"
-  ],
-  "impanierò": [
-    "impanjerɔ"
-  ],
-  "impantanato": [
-    "impantanato"
-  ],
-  "impaperarsi": [
-    "impaperarsi"
-  ],
-  "imparabile": [
-    "imparabile"
-  ],
-  "imparabili": [
-    "imparabili"
-  ],
-  "imparante": [
-    "imparante"
-  ],
-  "imparare": [
-    "imparare"
-  ],
-  "imparato": [
-    "imparato"
-  ],
-  "impareggiabile": [
-    "imparedːʒabile"
-  ],
-  "impareggiabili": [
-    "imparedːʒabili"
-  ],
-  "imparentare": [
-    "imparentare"
-  ],
-  "imparentato": [
-    "imparentato",
-    "imparɛntatɔ"
-  ],
-  "impari": [
-    "impari"
-  ],
-  "imparità": [
-    "imparita"
-  ],
-  "imparruccare": [
-    "imparːukːare"
-  ],
-  "impartente": [
-    "impartente"
-  ],
-  "impartire": [
-    "impartire"
-  ],
-  "impartito": [
-    "impartito"
-  ],
-  "imparziale": [
-    "impartsjale"
-  ],
-  "imparzialità": [
-    "impartsjalita"
-  ],
-  "imparzialmente": [
-    "impartsjalmente"
-  ],
-  "impasse": [
-    "impasːe"
-  ],
-  "impassibile": [
-    "impasːibile"
-  ],
-  "impassibili": [
-    "impasːibili"
-  ],
-  "impassibilità": [
-    "impasːibilita"
-  ],
-  "impassibilmente": [
-    "impasːibilmente"
-  ],
-  "impastare": [
-    "impastare"
-  ],
-  "impastato": [
-    "impastato"
-  ],
-  "impastatore": [
-    "impastatore"
-  ],
-  "impastatrice": [
-    "impastatritʃe"
-  ],
-  "impasticcarsi": [
-    "impastikːarsi"
-  ],
-  "impasticcato": [
-    "impastikːato"
-  ],
-  "impasto": [
-    "impasto"
-  ],
-  "impastoiare": [
-    "impastojare"
-  ],
-  "impattante": [
-    "impatːante"
-  ],
-  "impattanti": [
-    "impatːanti"
-  ],
-  "impattato": [
-    "impatːato"
-  ],
-  "impatto": [
-    "impatːo"
-  ],
-  "impaurire": [
-    "impaurire"
-  ],
-  "impaurito": [
-    "impaurito"
-  ],
-  "impavido": [
-    "impavido"
-  ],
-  "impaziente": [
-    "impatːsjɛnte"
-  ],
-  "impazientemente": [
-    "impatsjentemente"
-  ],
-  "impazienti": [
-    "impatːsjɛnti"
-  ],
-  "impazientissima": [
-    "impatːsjɛntisːima"
-  ],
-  "impazientissime": [
-    "impatːsjɛntisːime"
-  ],
-  "impazientissimi": [
-    "impatːsjɛntisːimi"
-  ],
-  "impazientissimo": [
-    "impatːsjɛntisːimo"
-  ],
-  "impazienza": [
-    "impatːsjɛntsa",
-    "inpatsjɛntsa"
-  ],
-  "impazienze": [
-    "inpatsjɛntse"
-  ],
-  "impazzire": [
-    "impatːsire"
-  ],
-  "impazzito": [
-    "impatːsito"
-  ],
-  "impeccabile": [
-    "impekːabile"
-  ],
-  "impeccabili": [
-    "impekːabili"
-  ],
-  "impeccabilmente": [
-    "impekːabilmente"
-  ],
-  "impedantire": [
-    "impedantire"
-  ],
-  "impedenza": [
-    "impedɛntsa"
-  ],
-  "impedenze": [
-    "impedɛntse"
-  ],
-  "impedimenti": [
-    "impedimenti"
-  ]
+  "imbalsamato": "imbalsamato",
+  "imbalsamazione": "imbalsamatsjone",
+  "imbambolare": "imbambolare",
+  "imbandierare": "imbandjerare",
+  "imbarazzante": "imbaratːsante",
+  "imbarazzanti": "imbaratːsanti",
+  "imbarazzare": "imbaratːsare",
+  "imbarazzarsi": "imbaratːsarsi",
+  "imbarazzata": "imbaratːsata",
+  "imbarazzate": "imbaratːsate",
+  "imbarazzati": "imbaratːsati",
+  "imbarazzato": "imbaratːsato",
+  "imbarazzi": "imbaratːso",
+  "imbarazzo": "imbaratːso",
+  "imbarbarito": "imbarbarito",
+  "imbarcadero": "imbarkadɛro",
+  "imbarcare": "imbarkare",
+  "imbarcato": "imbarkato",
+  "imbarcazione": "imbarkatsjone",
+  "imbarcazione_2": "imbarkatːsjone",
+  "imbarcazioni": "imbarkatsjoni",
+  "imbarchi": "imbarki",
+  "imbarco": "imbarko",
+  "imbarocchire": "imbarokːire",
+  "imbastardire": "imbastardire",
+  "imbastardito": "imbastardito",
+  "imbastire": "imbastire",
+  "imbattersi": "imbatːersi",
+  "imbattezzabile": "imbatːedːzabile",
+  "imbattibile": "imbatːibile",
+  "imbattibili": "imbatːibili",
+  "imbattuto": "imbatːuto",
+  "imbavagliare": "imbavaʎare",
+  "imbavagliato": "imbavaʎato",
+  "imbavare": "imbavare",
+  "imbecille": "imbetʃilːe",
+  "imbecilli": "imbetʃilːi",
+  "imbecillismi": "imbetʃilːizmi",
+  "imbecillismo": "imbetʃilːizmo",
+  "imbecillissima": "imbetʃilːisima",
+  "imbecillissime": "imbetʃilːisime",
+  "imbecillissimi": "imbetʃilːisimi",
+  "imbecillissimo": "imbetʃilːisimo",
+  "imbecillità": "imbetʃilːita",
+  "imbelle": "imbɛlːe",
+  "imbellettarsi": "imbelːetːarsi",
+  "imbelli": "imbɛlːi",
+  "imberbe": "imbɛrbe",
+  "imbevere": "imbevere",
+  "imbevibile": "imbevibile",
+  "imbevibili": "imbevibili",
+  "imbevuto": "imbevuto",
+  "imbiancare": "imbjankare",
+  "imbiancato": "imbjankato",
+  "imbiancatura": "imbjankatura",
+  "imbianchino": "imbjankino",
+  "imbianchino_2": "imbjaɲkino",
+  "imbibire": "imbibire",
+  "imbibizione": "imbibitːsjone",
+  "imbibizioni": "imbibitːsjoni",
+  "imboccare": "imbokare",
+  "imboccatura": "imbokːatura",
+  "imboccatura_2": "imbɔkːatura",
+  "imboccature": "imbokːature",
+  "imbocco": "imbokːo",
+  "imbolsito": "imbolsito",
+  "imbonire": "imbonire",
+  "imbonito": "imbonito",
+  "imbonitore": "imbonitore",
+  "imborghesimento": "imborɡesimento",
+  "imborghesimento_2": "imborɡezimento",
+  "imboscare": "imboskare",
+  "imboscarsi": "imboskarsi",
+  "imboscata": "imboskata",
+  "imboscate": "imboskate",
+  "imboscato": "imboskato",
+  "imbottatoi": "imbotːatoi",
+  "imbottatoia": "imbotːatoja",
+  "imbottatoie": "imbotːatoje",
+  "imbottatoio": "imbotːatojo",
+  "imbottavino": "imbotːavino",
+  "imbottigliamenti": "imbotːiʎamenti",
+  "imbottigliamento": "imbotːiʎamento",
+  "imbottigliante": "imbotːiʎante",
+  "imbottigliare": "imbotːiʎare",
+  "imbottigliarsi": "imbotːiʎarsi",
+  "imbottigliato": "imbotːiʎato",
+  "imbottigliatore": "imbotːiʎatore",
+  "imbottigliatori": "imbotːiʎatore",
+  "imbottigliatrice": "imbotːiʎatritʃe",
+  "imbottigliatrici": "imbotːiʎatritʃi",
+  "imbottire": "imbotːire",
+  "imbottiti": "imbotːiti",
+  "imbottito": "imbotːito",
+  "imbracare": "imbrakare",
+  "imbracatura": "imbrakatura",
+  "imbracature": "imbrakature",
+  "imbragatura": "imbraɡatura",
+  "imbragature": "imbraɡature",
+  "imbranata": "imbranata",
+  "imbranate": "imbranate",
+  "imbranati": "imbranati",
+  "imbranato": "imbranato",
+  "imbrattacarte": "imbratːakarte",
+  "imbrattamento": "imbratːamento",
+  "imbrattare": "imbratːare",
+  "imbrattatele": "imbratːatele",
+  "imbrattatore": "imbratːatore",
+  "imbreviare": "imbrevjare",
+  "imbriaco": "imbriako",
+  "imbrifera": "imbrifera",
+  "imbrifere": "imbrifere",
+  "imbriferi": "imbriferi",
+  "imbrifero": "imbrifero",
+  "imbrigliare": "imbriʎare",
+  "imbrogli": "imbrɔʎi",
+  "imbrogliare": "imbroʎare",
+  "imbrogliare_2": "imbrɔʎare",
+  "imbrogliare_3": "imbrɔʎjare",
+  "imbrogliarsi": "imbroʎarsi",
+  "imbrogliato": "imbroʎato",
+  "imbroglio": "imbrɔʎo",
+  "imbrogliona": "imbroʎona",
+  "imbroglione": "imbroʎone",
+  "imbroglioni": "imbroʎoni",
+  "imbroncare": "imbronkare",
+  "imbronciato": "imbrontʃato",
+  "imbrunire": "imbrunire",
+  "imbruttire": "mbrutːire",
+  "imbucato": "imbukato",
+  "imbufalito": "imbufalito",
+  "imbullonare": "imbulːonare",
+  "imburrare": "imburːare",
+  "imburrata": "imburːata",
+  "imburrate": "imburːate",
+  "imburrati": "imburːati",
+  "imburrato": "imburːato",
+  "imbusto": "imbusto",
+  "imbuti": "imbuti",
+  "imbuto": "imbuto",
+  "imene": "imɛne",
+  "imeneo": "imenɛo",
+  "imenotteri": "imenɔtːeri",
+  "imenottero": "imenɔtːero",
+  "imidazolo": "imidadːzɔlo",
+  "imitabile": "imitabile",
+  "imitabili": "imitabili",
+  "imitando": "imitando",
+  "imitante": "imitante",
+  "imitare": "imitare",
+  "imitate": "imitate",
+  "imitativa": "imitativa",
+  "imitativo": "imitativo",
+  "imitato": "imitato",
+  "imitatore": "imitatore",
+  "imitatori": "imitatori",
+  "imitatrice": "imitatritʃe",
+  "imitatrici": "imitatritʃi",
+  "imitazione": "imitatsjone",
+  "imitazione_2": "imitatːsjone",
+  "imitazioni": "imitatsjone",
+  "immacolatamente": "imːakolatamente",
+  "immacolato": "imːakolato",
+  "immagazzinabile": "imːaɡadːzabile",
+  "immagazzinabili": "imːaɡadːzabili",
+  "immagazzinaggi": "imːaɡadːzinadːʒi",
+  "immagazzinaggio": "imːaɡadːzinadːʒo",
+  "immagazzinamenti": "imːaɡadːzinamenti",
+  "immagazzinamento": "imːaɡadːzinamento",
+  "immagazzinante": "imːaɡadːzinante",
+  "immagazzinare": "imːaɡadːzinare",
+  "immagazzinato": "imːaɡadːzinato",
+  "immaginabile": "imːadʒinabile",
+  "immaginabili": "imːadʒinabili",
+  "immaginare": "imːadʒinare",
+  "immaginari": "imːadʒinari",
+  "immaginaria": "imːadʒinarja",
+  "immaginarie": "imːadʒinarje",
+  "immaginario": "imːadʒinarjo",
+  "immaginativa": "imːadʒinativa",
+  "immaginativo": "imːadʒinativo",
+  "immaginato": "imːadʒinato",
+  "immaginazione": "imːadʒinatːsione",
+  "immaginazione_2": "imːadʒinatːsjone",
+  "immaginazioni": "imːadʒinatːsjoni",
+  "immagine": "imːadʒine",
+  "immaginetta": "imːadʒinetːa",
+  "immagini": "imːadʒini",
+  "immaginoso": "imːadʒinoso",
+  "immaginoso_2": "imːadʒinozo",
+  "immago": "imːaɡo",
+  "immalinconito": "imːalinkonito",
+  "immancabile": "imːankabile",
+  "immancabili": "imːankabili",
+  "immancabilmente": "imːankabilmente",
+  "immane": "imːane",
+  "immanente": "imːanɛnte",
+  "immanenti": "imːanɛnti",
+  "immanentismo": "imːanentizmo",
+  "immangiabile": "imːandʒabile",
+  "immangiabili": "imːandʒabili",
+  "immangiabilità": "imːandʒabilita",
+  "immanicato": "imːanikato",
+  "immanovrabile": "imːanovrabile",
+  "immanovrabili": "imːanovrabili",
+  "immantenente": "imːantenɛnte",
+  "immantinente": "imːantinɛnte",
+  "immarcescibile": "imːartʃeʃibile",
+  "immarcescibili": "imːartʃeʃibili",
+  "immatricolare": "imːatrikolare",
+  "immatricolarsi": "imːatrikolarsi",
+  "immatricolata": "imːatrikolata",
+  "immatricolate": "imːatrikolate",
+  "immatricolati": "imːatrikolati",
+  "immatricolato": "imːatrikolato",
+  "immatricolazione": "imːatrikolatːsjone",
+  "immatricolazioni": "imːatrikolatːsjoni",
+  "immaturamente": "imːaturamente",
+  "immaturità": "imːaturita",
+  "immaturo": "imːaturo",
+  "immedesimare": "imːedezimare",
+  "immedesimarsi": "imːedezimarsi",
+  "immedesimazione": "imːedezimatːsjone",
+  "immediatamente": "imːediatamente",
+  "immediate": "imːedjato",
+  "immediatezza": "imːedjatetːsa",
+  "immediato": "imːedjato",
+  "immedicabile": "imːedikabile",
+  "immemorabile": "imːemorabile",
+  "immemorabili": "imːemorabili",
+  "immemore": "imːɛmore",
+  "immensa": "imːɛnsa",
+  "immensamente": "imːensamente",
+  "immensamente_2": "smisuratamenteinfinitamentel",
+  "immense": "imːɛnse",
+  "immensi": "imːɛnsi",
+  "immensissima": "imːɛnsisːima",
+  "immensissimamente": "imːensisːimamente",
+  "immensissime": "imːɛnsisːime",
+  "immensissimi": "imːɛnsisːimi",
+  "immensissimo": "imːɛnsisːimo",
+  "immensità": "imːensita",
+  "immenso": "imːɛnso",
+  "immensurabile": "imːensurabile",
+  "immensurabili": "imːensurabili",
+  "immergente": "imːɛrdʒente",
+  "immergere": "imːɛrdʒere",
+  "immergersi": "imːɛrdʒersi",
+  "immergibile": "imːerdʒibile",
+  "immeritato": "imːeritato",
+  "immeritevole": "imːeritevole",
+  "immersione": "imːersjone",
+  "immerso": "imːɛrso",
+  "immessa": "imːesːa",
+  "immesse": "imːesːe",
+  "immessi": "imːesːi",
+  "immesso": "imːesːo",
+  "immetta": "imːetːa",
+  "immettano": "imːetːano",
+  "immette": "imːetːe",
+  "immettemmo": "imːetːemːo",
+  "immettendo": "imːetːendo",
+  "immettente": "imːetːente",
+  "immetterà": "imːetːera",
+  "immetterai": "imːetːerai",
+  "immetteranno": "imːetːeranːo",
+  "immetterebbe": "imːetːerebːe",
+  "immetterebbero": "imːetːerebːero",
+  "immetterei": "imːetːerei",
+  "immetteremmo": "imːetːeremːo",
+  "immetteremo": "imːetːeremo",
+  "immettereste": "imːetːereste",
+  "immetteresti": "imːetːeresti",
+  "immetterete": "imːetːerete",
+  "immetterò": "imːetːero",
+  "immettesse": "imːetːesːe",
+  "immettessero": "imːetːesːero",
+  "immettessi": "imːetːesːi",
+  "immettessimo": "imːetːesːimo",
+  "immetteste": "imːetːeste",
+  "immettesti": "imːetːesti",
+  "immettete": "imːetːete",
+  "immetteva": "imːetːeva",
+  "immettevamo": "imːetːevamo",
+  "immettevano": "imːetːevano",
+  "immettevate": "imːetːevate",
+  "immettevi": "imːetːevi",
+  "immettevo": "imːetːevo",
+  "immetti": "imːetːi",
+  "immettiamo": "imːetːjamo",
+  "immettiate": "imːetːjate",
+  "immetto": "imːetːo",
+  "immettono": "imːetːono",
+  "immide": "imːide",
+  "immigrante": "imːiɡrante",
+  "immigranti": "imːiɡranti",
+  "immigrare": "imːiɡrare",
+  "immigrata": "imːiɡrata",
+  "immigrate": "imːiɡrate",
+  "immigrati": "imːiɡrati",
+  "immigrato": "imːiɡrato",
+  "immigratori": "imːiɡratori",
+  "immigratoria": "imːiɡratoria",
+  "immigratorie": "imːiɡratorie",
+  "immigratorio": "imːiɡratorjo",
+  "immigrazione": "imːiɡratsjone",
+  "immigrazioni": "imːiɡratsjoni",
+  "immillare": "imːilːare",
+  "immillarsi": "imːilːarsi",
+  "immina": "imːina",
+  "imminente": "imːinɛnte",
+  "imminenti": "imːinɛnti",
+  "imminenza": "imːinɛntsa",
+  "immischiare": "imːiskjare",
+  "immischiarsi": "imːiskjarsi",
+  "immiscibile": "mːiʃʃibile",
+  "immiscibili": "imːiʃʃibili",
+  "immise": "imːize",
+  "immisero": "imːizero",
+  "immisi": "imːizi",
+  "immissario": "imːisːarjo",
+  "immisurabile": "imːizurabile",
+  "immisurabili": "imːizurabili",
+  "immobile": "imːɔbile",
+  "immobili": "imːɔbili",
+  "immobiliare": "imːobiljare",
+  "immobiliarista": "imːobiljarista",
+  "immobilismi": "imːobilizmi",
+  "immobilismo": "imːobilizmo",
+  "immobilista": "imːobilista",
+  "immobiliste": "imːobiliste",
+  "immobilisti": "imːobilisti",
+  "immobilistico": "imːobilistiko",
+  "immobilità": "imːobilita",
+  "immobilizzante": "imːobilidːʒante",
+  "immobilizzanti": "imːobilidːʒanti",
+  "immobilizzare": "imːobilidːzare",
+  "immobilizzare_2": "imːobilidːʒare",
+  "immobilizzarsi": "imːobilidːʒarsi",
+  "immobilizzata": "imːobilidːʒata",
+  "immobilizzate": "imːobilidːʒate",
+  "immobilizzati": "imːobilidːʒati",
+  "immobilizzato": "imːobilidːzato",
+  "immobilizzato_2": "imːobilidːʒato",
+  "immobilizzazione": "imːobilidːzatsjone",
+  "immobilizzazioni": "imːobilidːzatsjoni",
+  "immoderatamente": "imːoderatamente",
+  "immoderatezza": "imːoderatetːsa",
+  "immodesta": "imːodɛsta",
+  "immodestamente": "imːodestamente",
+  "immodeste": "imːodɛste",
+  "immodesti": "imːodɛsti",
+  "immodesto": "imːodɛst",
+  "immodesto_2": "imːodɛsto",
+  "immodificabile": "imːodifikabile",
+  "immodificabili": "imːodifikabili",
+  "immolate": "imːolate",
+  "immolazione": "imːolatːsjone",
+  "immolazioni": "imːolatːsjoni",
+  "immondezza": "imːondetːsa",
+  "immondizia": "imːonditsja",
+  "immondo": "imːondo",
+  "immorale": "imːorale",
+  "immorali": "imːorali",
+  "immoralità": "imːoralita",
+  "immortalare": "imːortalare",
+  "immortalato": "imːortalato",
+  "immortale": "imːortale",
+  "immortalità": "imːortalita",
+  "immotivato": "imːotivato",
+  "immoto": "imːɔto",
+  "immune": "imːune",
+  "immunità": "imːunita",
+  "immunitari": "imːunitari",
+  "immunitaria": "imːunitarja",
+  "immunitarie": "imːunitarje",
+  "immunitario": "imːunitarjo",
+  "immunizzante": "imunidːzante",
+  "immunizzante_2": "imːunidːzante",
+  "immunizzanti": "imunidːzanti",
+  "immunizzare": "imːunidːzare",
+  "immunizzato": "imːunidːzato",
+  "immunizzazione": "imːunidːzatːsjone",
+  "immunizzazioni": "imːunidːzatːsjoni",
+  "immunoblasto": "imːunoblasto",
+  "immunochimica": "imːunokimika",
+  "immunochimico": "imːunokimiko",
+  "immunocompetente": "imːunokompetɛnte",
+  "immunocompetenza": "imːunokompetɛntsa",
+  "immunocomplesso": "imːunokomplɛsːo",
+  "immunodeficiente": "imːunodefitʃɛnte",
+  "immunodeficienti": "imːunodefitʃɛnti",
+  "immunodeficienza": "imːunodefitʃɛntsa",
+  "immunodeficienze": "imːunodefitʃɛntse",
+  "immunoemopatia": "imːunoemopatia",
+  "immunoenzimatica": "imːunoendzimatika",
+  "immunoenzimatiche": "imːunoendzimatike",
+  "immunoenzimatici": "imːunoendzimatitʃi",
+  "immunoenzimatico": "imːunoendzimatiko",
+  "immunofarmacologia": "imːunofarmakolodʒia",
+  "immunofarmacologie": "imːunofarmakolodʒie",
+  "immunofluorescenza": "imːunoflworeʃʃɛntsa",
+  "immunofluorescenze": "imːunoflworeʃʃɛntse",
+  "immunologia": "imːunolodʒia",
+  "immunologica": "imːunolɔdʒika",
+  "immunologiche": "imːunolɔdʒike",
+  "immunologici": "imːunolɔdʒitʃi",
+  "immunologico": "imːunolɔdʒiko",
+  "immunologo": "imːunɔloɡo",
+  "immunopatologica": "imːunopatolɔdʒika",
+  "immunopatologiche": "imːunopatolɔdʒike",
+  "immunopatologici": "imːunopatolɔdʒitʃi",
+  "immunopatologico": "imːunopatolɔdʒiko",
+  "immunoplasmopatia": "imːunoplazmopatia",
+  "immunopoietico": "imːunopojɛtiko",
+  "immunoproliferativo": "imːunoproliferativo",
+  "immunoproliferazione": "imːunoproliferatːsjone",
+  "immunoproteina": "imːunoproteina",
+  "immunosorveglianza": "imːunosorveʎantsa",
+  "immunotossina": "imːunotosːina",
+  "immunotrombocitopatia": "imːunotrombotʃitopatia",
+  "immusonirsi": "imːuzonirsi",
+  "immusonito": "imːuzonito",
+  "immutabile": "imːutabile",
+  "immutabili": "imːutabili",
+  "immutabilità": "imːutabilita",
+  "immutabilmente": "imːutabilmente",
+  "immutato": "imːutato",
+  "imola": "imola",
+  "imolese": "imolese",
+  "imolesi": "imolesi",
+  "impaccare": "impakːare",
+  "impacchettare": "impakːetːare",
+  "impacciare": "impatːʃare",
+  "impacciato": "impatːʃato",
+  "impaccio": "impatːʃo",
+  "impacco": "impakːo",
+  "impadronirsi": "impadronirsi",
+  "impadronito": "impadronito",
+  "impagabile": "impaɡabile",
+  "impagabili": "impaɡabili",
+  "impaginare": "impadʒinare",
+  "impaginato": "impadʒinato",
+  "impagliare": "impaʎare",
+  "impalamenti": "impalamenti",
+  "impalamento": "impalamento",
+  "impalato": "impalato",
+  "impalcatura": "impalkatura",
+  "impallidare": "impalːidare",
+  "impallidire": "impalːidire",
+  "impalpabile": "impalpabile",
+  "impalpabili": "impalpabili",
+  "impanare": "impanare",
+  "impaniare": "impanjare",
+  "impaniato": "impanjato",
+  "impanierò": "impanjerɔ",
+  "impantanato": "impantanato",
+  "impaperarsi": "impaperarsi",
+  "imparabile": "imparabile",
+  "imparabili": "imparabili",
+  "imparante": "imparante",
+  "imparare": "imparare",
+  "imparato": "imparato",
+  "impareggiabile": "imparedːʒabile",
+  "impareggiabili": "imparedːʒabili",
+  "imparentare": "imparentare",
+  "imparentato": "imparentato",
+  "imparentato_2": "imparɛntatɔ",
+  "impari": "impari",
+  "imparità": "imparita",
+  "imparruccare": "imparːukːare",
+  "impartente": "impartente",
+  "impartire": "impartire",
+  "impartito": "impartito",
+  "imparziale": "impartsjale",
+  "imparzialità": "impartsjalita",
+  "imparzialmente": "impartsjalmente",
+  "impasse": "impasːe",
+  "impassibile": "impasːibile",
+  "impassibili": "impasːibili",
+  "impassibilità": "impasːibilita",
+  "impassibilmente": "impasːibilmente",
+  "impastare": "impastare",
+  "impastato": "impastato",
+  "impastatore": "impastatore",
+  "impastatrice": "impastatritʃe",
+  "impasticcarsi": "impastikːarsi",
+  "impasticcato": "impastikːato",
+  "impasto": "impasto",
+  "impastoiare": "impastojare",
+  "impattante": "impatːante",
+  "impattanti": "impatːanti",
+  "impattato": "impatːato",
+  "impatto": "impatːo",
+  "impaurire": "impaurire",
+  "impaurito": "impaurito",
+  "impavido": "impavido",
+  "impaziente": "impatːsjɛnte",
+  "impazientemente": "impatsjentemente",
+  "impazienti": "impatːsjɛnti",
+  "impazientissima": "impatːsjɛntisːima",
+  "impazientissime": "impatːsjɛntisːime",
+  "impazientissimi": "impatːsjɛntisːimi",
+  "impazientissimo": "impatːsjɛntisːimo",
+  "impazienza": "impatːsjɛntsa",
+  "impazienza_2": "inpatsjɛntsa",
+  "impazienze": "inpatsjɛntse",
+  "impazzire": "impatːsire",
+  "impazzito": "impatːsito",
+  "impeccabile": "impekːabile",
+  "impeccabili": "impekːabili",
+  "impeccabilmente": "impekːabilmente",
+  "impedantire": "impedantire",
+  "impedenza": "impedɛntsa",
+  "impedenze": "impedɛntse",
+  "impedimenti": "impedimenti"
 }

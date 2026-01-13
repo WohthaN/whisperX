@@ -1,1528 +1,528 @@
 {
-  "campionatrice": [
-    "kampjonatritʃe"
-  ],
-  "campionatrici": [
-    "kampjonatritʃi"
-  ],
-  "campionatura": [
-    "kampjonatura"
-  ],
-  "campionature": [
-    "kampjonature"
-  ],
-  "campione": [
-    "kampjone"
-  ],
-  "campioneranno": [
-    "kampjoneranːo"
-  ],
-  "campionessa": [
-    "kampjonesːa"
-  ],
-  "campionesse": [
-    "kampjonesːe"
-  ],
-  "campioni": [
-    "kampjoni"
-  ],
-  "campisanti": [
-    "kampizanti"
-  ],
-  "campitura": [
-    "kampitura"
-  ],
-  "campo": [
-    "kampo",
-    "kampɔ"
-  ],
-  "camposanti": [
-    "kampozantoi"
-  ],
-  "camposanto": [
-    "kamposanto",
-    "kampozanto"
-  ],
-  "camptocormia": [
-    "kamptokormja"
-  ],
-  "camptocormie": [
-    "kamptokormje"
-  ],
-  "campus": [
-    "kampus"
-  ],
-  "camuffamenti": [
-    "kamufːamenti"
-  ],
-  "camuffamento": [
-    "kamufːamento"
-  ],
-  "camuffare": [
-    "kamufːare"
-  ],
-  "camuffarsi": [
-    "kamufːarsi"
-  ],
-  "camuffato": [
-    "kamufːato"
-  ],
-  "camuna": [
-    "kamuna"
-  ],
-  "camuno": [
-    "kamuno"
-  ],
-  "camuso": [
-    "kamuzo"
-  ],
-  "can": [
-    "kan"
-  ],
-  "cana": [
-    "kana"
-  ],
-  "canada": [
-    "kanada"
-  ],
-  "canadese": [
-    "kanadese",
-    "kanadeze"
-  ],
-  "canadesi": [
-    "kanadesi"
-  ],
-  "canaglia": [
-    "kanaʎa"
-  ],
-  "canale": [
-    "kanale"
-  ],
-  "canaletto": [
-    "kanaletːo"
-  ],
-  "canalicolo": [
-    "kanalikolo"
-  ],
-  "canalizzante": [
-    "kanalidːzante"
-  ],
-  "canalizzare": [
-    "kanalidːzare"
-  ],
-  "canalizzarsi": [
-    "kanalidːzarsi"
-  ],
-  "canalizzata": [
-    "kanalidːzata"
-  ],
-  "canalizzate": [
-    "kanalidːzate"
-  ],
-  "canalizzati": [
-    "kanalidːzati"
-  ],
-  "canalizzato": [
-    "kanalidːzato"
-  ],
-  "cananeo": [
-    "kananɛo"
-  ],
-  "canapa": [
-    "kanapa"
-  ],
-  "canapacciaia": [
-    "kanapatːʃaja"
-  ],
-  "canapacciara": [
-    "kanapatːʃara"
-  ],
-  "canapaccio": [
-    "kanapatːʃo"
-  ],
-  "canape": [
-    "kanape"
-  ],
-  "canapicoltore": [
-    "kanapikoltore"
-  ],
-  "canapicoltori": [
-    "kanapikoltori"
-  ],
-  "canapicoltrice": [
-    "kanapikoltritʃe"
-  ],
-  "canapicoltrici": [
-    "kanapikoltritʃi"
-  ],
-  "canapiero": [
-    "kanapjɛro"
-  ],
-  "canapiglia": [
-    "kanapiʎa"
-  ],
-  "canapo": [
-    "kanapo"
-  ],
-  "canapone": [
-    "kanapone"
-  ],
-  "canapuccia": [
-    "kanaputːʃa"
-  ],
-  "canard": [
-    "kanar"
-  ],
-  "canari": [
-    "kanari"
-  ],
-  "canaria": [
-    "kanarja",
-    "kanarje"
-  ],
-  "canaricoltura": [
-    "kanarikoltura"
-  ],
-  "canaricolture": [
-    "kanarikolture"
-  ],
-  "canarie": [
-    "kanarje"
-  ],
-  "canarini": [
-    "kanarini"
-  ],
-  "canarino": [
-    "kanarino"
-  ],
-  "canario": [
-    "kanarjo"
-  ],
-  "canavacci": [
-    "kanavatːʃi"
-  ],
-  "canavaccio": [
-    "kanavatːʃo"
-  ],
-  "canavesano": [
-    "kanavesano"
-  ],
-  "cancellabile": [
-    "kantʃelːabile"
-  ],
-  "cancellabili": [
-    "kantʃelːabili"
-  ],
-  "cancellante": [
-    "kantʃelːante"
-  ],
-  "cancellare": [
-    "kantʃelːare"
-  ],
-  "cancellarsi": [
-    "kantʃelːarsi"
-  ],
-  "cancellata": [
-    "kantʃelːata"
-  ],
-  "cancellato": [
-    "kantʃelːato"
-  ],
-  "cancellatura": [
-    "kantʃelːatura"
-  ],
-  "cancellature": [
-    "kantʃelːature"
-  ],
-  "cancellazione": [
-    "kantʃelːatsiɔne",
-    "kantʃelːatːsjone",
-    "kantʃelːatːsjɔne"
-  ],
-  "cancellazioni": [
-    "kantʃelːatːsjɔni"
-  ],
-  "cancelletto": [
-    "kantʃelːetːo"
-  ],
-  "cancelli": [
-    "kantʃɛlːi"
-  ],
-  "cancelliera": [
-    "kantʃelːjɛra"
-  ],
-  "cancelliere": [
-    "kantʃelːjɛre"
-  ],
-  "cancellieri": [
-    "kantʃelːjɛri"
-  ],
-  "cancello": [
-    "kantʃelːo",
-    "kantʃɛlːo"
-  ],
-  "cancerizzare": [
-    "kantʃeridːzare"
-  ],
-  "cancerizzazione": [
-    "kantʃeridːzatːsjone",
-    "kantʃeridːzatːsjɔne"
-  ],
-  "cancerizzazioni": [
-    "kantʃeridːzatːsjɔni"
-  ],
-  "cancerogeno": [
-    "kantʃerɔdʒeno"
-  ],
-  "canceroso": [
-    "kantʃerozo"
-  ],
-  "cancrena": [
-    "kankrɛna"
-  ],
-  "cancrene": [
-    "kankrɛne"
-  ],
-  "cancrenoso": [
-    "kankrenoso",
-    "kankrenozo"
-  ],
-  "cancro": [
-    "kankro",
-    "kaɲkro"
-  ],
-  "candaria": [
-    "kandaria"
-  ],
-  "candeggiare": [
-    "kandedːʒare"
-  ],
-  "candeggina": [
-    "kandedːʒina"
-  ],
-  "candela": [
-    "kandela"
-  ],
-  "candelabri": [
-    "kandelabri"
-  ],
-  "candelabro": [
-    "kandelabro"
-  ],
-  "candele": [
-    "kandele"
-  ],
-  "candeletta": [
-    "kandeletːa"
-  ],
-  "candeliere": [
-    "kandeljɛre"
-  ],
-  "candelieri": [
-    "kandeljɛri"
-  ],
-  "candelina": [
-    "kandelina"
-  ],
-  "candelora": [
-    "kandelɔra"
-  ],
-  "candelotti": [
-    "kandelotːi"
-  ],
-  "candelotto": [
-    "kandelotːo",
-    "kandelɔtːo"
-  ],
-  "candi": [
-    "kandi"
-  ],
-  "candia": [
-    "kandja"
-  ],
-  "candida": [
-    "kandida"
-  ],
-  "candidabilità": [
-    "kandidabilita"
-  ],
-  "candidamente": [
-    "kandidamente"
-  ],
-  "candidante": [
-    "kandidante"
-  ],
-  "candidare": [
-    "kandidare"
-  ],
-  "candidarsi": [
-    "kandidarsi"
-  ],
-  "candidata": [
-    "kandidata"
-  ],
-  "candidate": [
-    "kandidate"
-  ],
-  "candidati": [
-    "kandidati"
-  ],
-  "candidato": [
-    "kandidato"
-  ],
-  "candidatura": [
-    "kandidatura"
-  ],
-  "candide": [
-    "kandide"
-  ],
-  "candidi": [
-    "kandidi"
-  ],
-  "candido": [
-    "kandido"
-  ],
-  "candire": [
-    "kandire"
-  ],
-  "candita": [
-    "kandita"
-  ],
-  "candite": [
-    "kandite"
-  ],
-  "canditi": [
-    "kanditi"
-  ],
-  "candito": [
-    "kandito"
-  ],
-  "candore": [
-    "kandore"
-  ],
-  "candori": [
-    "kandori"
-  ],
-  "cane": [
-    "kane"
-  ],
-  "canederli": [
-    "kanɛderli"
-  ],
-  "canederlo": [
-    "kanederlo",
-    "kanɛderlo"
-  ],
-  "canefora": [
-    "kanɛfora"
-  ],
-  "canestra": [
-    "kanɛstra"
-  ],
-  "canestre": [
-    "kanɛstre"
-  ],
-  "canestri": [
-    "kanɛstri"
-  ],
-  "canestrino": [
-    "kanestrino"
-  ],
-  "canestro": [
-    "kanɛstro"
-  ],
-  "canevacci": [
-    "kanevatːʃi"
-  ],
-  "canevaccio": [
-    "kanevatːʃo"
-  ],
-  "canfora": [
-    "kanfora"
-  ],
-  "canforo": [
-    "kanforo"
-  ],
-  "cangia": [
-    "kandʒa"
-  ],
-  "cangiante": [
-    "kandʒante"
-  ],
-  "cangiare": [
-    "kandʒare"
-  ],
-  "canguri": [
-    "kanɡuri"
-  ],
-  "canguro": [
-    "kanɡuro",
-    "kaɲɡuro"
-  ],
-  "canicola": [
-    "kanikola"
-  ],
-  "canicolare": [
-    "kanikolare"
-  ],
-  "canicolari": [
-    "kanikolari"
-  ],
-  "canicole": [
-    "kanikole"
-  ],
-  "canide": [
-    "kanide"
-  ],
-  "canidi": [
-    "kanidi"
-  ],
-  "caniforme": [
-    "kaniforme"
-  ],
-  "caniformi": [
-    "kaniformi"
-  ],
-  "canile": [
-    "kanile"
-  ],
-  "canili": [
-    "kanili"
-  ],
-  "canina": [
-    "kanina"
-  ],
-  "canine": [
-    "kanine"
-  ],
-  "canini": [
-    "kanini"
-  ],
-  "canino": [
-    "kanino"
-  ],
-  "canizie": [
-    "kanitːsje"
-  ],
-  "canna": [
-    "kanːa"
-  ],
-  "cannabilizzato": [
-    "kanːibalidːzato"
-  ],
-  "cannabis": [
-    "kanːabis"
-  ],
-  "cannabismo": [
-    "kanːabizmo"
-  ],
-  "cannaio": [
-    "kanːajo"
-  ],
-  "cannare": [
-    "kanːare"
-  ],
-  "cannato": [
-    "kanːato"
-  ],
-  "canne": [
-    "kanːe"
-  ],
-  "canneggiare": [
-    "kanːedːʒare"
-  ],
-  "cannella": [
-    "kanɛlːa",
-    "kanːɛlːa",
-    "nativetownːativevilːaɡe"
-  ],
-  "cannelle": [
-    "kanːɛlːe"
-  ],
-  "cannellone": [
-    "kanːelːone"
-  ],
-  "canneti": [
-    "kanːeti"
-  ],
-  "canneto": [
-    "kanːeto"
-  ],
-  "cannetta": [
-    "kanːetːa"
-  ],
-  "cannibale": [
-    "kanːibale"
-  ],
-  "cannibalescamente": [
-    "kanːibaleskamente"
-  ],
-  "cannibalesco": [
-    "kanːibalesko"
-  ],
-  "cannibali": [
-    "kanːibali"
-  ],
-  "cannibalismi": [
-    "kanːibalizmi"
-  ],
-  "cannibalismo": [
-    "kanːibalizmo"
-  ],
-  "cannibalizzare": [
-    "kanːibalidːzare"
-  ],
-  "cannibalizzazione": [
-    "kanːibalidːzatːsjone"
-  ],
-  "cannizzaro": [
-    "kanːitːsaro"
-  ],
-  "cannocchiale": [
-    "kanːokːjale"
-  ],
-  "cannocchiali": [
-    "kanːokːjali"
-  ],
-  "cannolicchi": [
-    "kanːolikːi"
-  ],
-  "cannolicchio": [
-    "kanːolikːjo"
-  ],
-  "cannolo": [
-    "kanːɔlo"
-  ],
-  "cannonare": [
-    "kanːonare"
-  ],
-  "cannonata": [
-    "kanːonata"
-  ],
-  "cannoncino": [
-    "kanːontʃino"
-  ],
-  "cannone": [
-    "kanːone"
-  ],
-  "cannoneggiamento": [
-    "kanːonedːʒamento"
-  ],
-  "cannoneggiante": [
-    "kanːonedːʒante"
-  ],
-  "cannoneggiare": [
-    "kanːonedːʒare"
-  ],
-  "cannoneggiato": [
-    "kanːonedːʒato"
-  ],
-  "cannoni": [
-    "kanːoni"
-  ],
-  "cannoniera": [
-    "kanːonjɛra"
-  ],
-  "cannoniere": [
-    "kanːonjɛre"
-  ],
-  "cannoniero": [
-    "kanːonjɛro"
-  ],
-  "cannoso": [
-    "kanːoso",
-    "kanːozo"
-  ],
-  "cannuccia": [
-    "kanːutːʃa"
-  ],
-  "cano": [
-    "kano"
-  ],
-  "canoa": [
-    "kanɔa"
-  ],
-  "canocchia": [
-    "kanɔkːja"
-  ],
-  "canoista": [
-    "kanoista"
-  ],
-  "canoiste": [
-    "kanoiste"
-  ],
-  "canoisti": [
-    "kanoisti"
-  ],
-  "canone": [
-    "kanone"
-  ],
-  "canoni": [
-    "kanoni"
-  ],
-  "canonica": [
-    "kanɔnika"
-  ],
-  "canonicale": [
-    "kanonikale"
-  ],
-  "canonicali": [
-    "kanonikali"
-  ],
-  "canonicamente": [
-    "kanonikamente"
-  ],
-  "canonicati": [
-    "kanonikati"
-  ],
-  "canonicato": [
-    "kanonikato"
-  ],
-  "canoniche": [
-    "kanɔnike"
-  ],
-  "canonichessa": [
-    "kanonikesːa"
-  ],
-  "canonichesse": [
-    "kanonikesːe"
-  ],
-  "canonici": [
-    "kanɔnitʃi"
-  ],
-  "canonico": [
-    "kanɔniko"
-  ],
-  "canonista": [
-    "kanonista"
-  ],
-  "canonizzare": [
-    "kanonidzare",
-    "kanonidːzare"
-  ],
-  "canonizzazione": [
-    "kanonidːzatsjone"
-  ],
-  "canonizzazioni": [
-    "kanonidːzatsjoni"
-  ],
-  "canopo": [
-    "kanɔpo"
-  ],
-  "canoro": [
-    "kanɔro"
-  ],
-  "canottaggi": [
-    "kanotːadːʒi"
-  ],
-  "canottaggio": [
-    "kanotːadːʒo"
-  ],
-  "canotti": [
-    "kanɔtːi"
-  ],
-  "canottiera": [
-    "kanotːjɛra"
-  ],
-  "canottiere": [
-    "kanotːjɛra",
-    "kanotːjɛre"
-  ],
-  "canottieri": [
-    "kanotːjɛri"
-  ],
-  "canotto": [
-    "kanɔtːo"
-  ],
-  "canova": [
-    "kanova"
-  ],
-  "canovacci": [
-    "kanovatːʃi"
-  ],
-  "canovaccio": [
-    "kanovatːʃo"
-  ],
-  "cansare": [
-    "kansare"
-  ],
-  "canta": [
-    "kanta"
-  ],
-  "cantabile": [
-    "kantabile"
-  ],
-  "cantabili": [
-    "kantabili"
-  ],
-  "cantafavola": [
-    "kantafavola"
-  ],
-  "cantai": [
-    "kantai"
-  ],
-  "cantante": [
-    "kantante"
-  ],
-  "cantantessa": [
-    "kantantesːa"
-  ],
-  "cantare": [
-    "kantare"
-  ],
-  "cantari": [
-    "kantari"
-  ],
-  "cantaride": [
-    "kantaride"
-  ],
-  "cantasse": [
-    "kantasːe"
-  ],
-  "cantaste": [
-    "kantaste"
-  ],
-  "cantastorie": [
-    "kantastɔrje"
-  ],
-  "cantata": [
-    "kantata"
-  ],
-  "cantate": [
-    "kantate"
-  ],
-  "cantato": [
-    "kantato"
-  ],
-  "cantautore": [
-    "kantautore",
-    "kantawtore"
-  ],
-  "cantautori": [
-    "kantautori"
-  ],
-  "cantautoriale": [
-    "kantawtorjale"
-  ],
-  "cantautrice": [
-    "kantautritʃe",
-    "kantawtritʃe"
-  ],
-  "cantautrici": [
-    "kantautritʃi"
-  ],
-  "cantavi": [
-    "kantavi"
-  ],
-  "canterai": [
-    "kanterai"
-  ],
-  "canterbury": [
-    "kanterburi",
-    "kantɛrburi"
-  ],
-  "canterellare": [
-    "kanterelːare"
-  ],
-  "cantero": [
-    "kantero"
-  ],
-  "canti": [
-    "kanti"
-  ],
-  "cantica": [
-    "kantika"
-  ],
-  "canticchiare": [
-    "kantikːjare"
-  ],
-  "cantiere": [
-    "kantjɛre"
-  ],
-  "cantieri": [
-    "kantjɛri"
-  ],
-  "cantilena": [
-    "kantilɛna"
-  ],
-  "cantilenare": [
-    "kantilenare"
-  ],
-  "cantillare": [
-    "kantilːare"
-  ],
-  "cantillazione": [
-    "kantilːatːsjone",
-    "kantilːatːsjɔne"
-  ],
-  "cantillazioni": [
-    "kantilːatːsjɔni"
-  ],
-  "cantina": [
-    "kantina"
-  ],
-  "cantiniere": [
-    "kantinjɛre"
-  ],
-  "canto": [
-    "kanto"
-  ],
-  "canton": [
-    "kantɔn"
-  ],
-  "cantonale": [
-    "kantonale"
-  ],
-  "cantone": [
-    "kantone"
-  ],
-  "cantonese": [
-    "kantonese",
-    "kantoneze"
-  ],
-  "cantoniere": [
-    "kantonjɛre"
-  ],
-  "cantore": [
-    "kantore"
-  ],
-  "cantori": [
-    "kantori"
-  ],
-  "cantra": [
-    "kantra"
-  ],
-  "cantrice": [
-    "kantritʃe"
-  ],
-  "cantrici": [
-    "kantritʃi"
-  ],
-  "cantuccino": [
-    "kantutːʃino"
-  ],
-  "cantuccio": [
-    "kantutːʃo"
-  ],
-  "canuto": [
-    "kanuto"
-  ],
-  "canutola": [
-    "kanutola"
-  ],
-  "canyon": [
-    "kɛnjon"
-  ],
-  "canzio": [
-    "kantsjo"
-  ],
-  "canzonare": [
-    "kantsonare"
-  ],
-  "canzonatore": [
-    "kantsonatore"
-  ],
-  "canzonatorio": [
-    "kantsonatɔrjo"
-  ],
-  "canzonatura": [
-    "kantsonatura"
-  ],
-  "canzoncina": [
-    "kantsontʃina"
-  ],
-  "canzone": [
-    "kantsone"
-  ],
-  "canzonetta": [
-    "kantsonetːa"
-  ],
-  "canzoni": [
-    "kantsoni"
-  ],
-  "canzoniere": [
-    "kantsonjɛre"
-  ],
-  "cao": [
-    "kao"
-  ],
-  "caos": [
-    "kaos"
-  ],
-  "caosse": [
-    "kaɔsːe"
-  ],
-  "caotica": [
-    "kaɔtika"
-  ],
-  "caoticamente": [
-    "kaotikamente"
-  ],
-  "caotiche": [
-    "kaɔtike"
-  ],
-  "caotici": [
-    "kaɔtitʃi"
-  ],
-  "caotico": [
-    "kaɔtiko"
-  ],
-  "capace": [
-    "kapatʃe"
-  ],
-  "capacemente": [
-    "kapatʃemente"
-  ],
-  "capaci": [
-    "kapatʃi"
-  ],
-  "capacità": [
-    "kapatʃita"
-  ],
-  "capacitanza": [
-    "kapatʃitantsa"
-  ],
-  "capacitare": [
-    "kapatʃitare"
-  ],
-  "capacitarsi": [
-    "kapatʃitarsi"
-  ],
-  "capacitivo": [
-    "kapatʃitivo"
-  ],
-  "capacitore": [
-    "kapatʃitore"
-  ],
-  "capanna": [
-    "kapanːa"
-  ],
-  "capanne": [
-    "kapanːe"
-  ],
-  "capanno": [
-    "kapanːo"
-  ],
-  "capannone": [
-    "kapanːone"
-  ],
-  "capannucce": [
-    "kapanːutːʃe"
-  ],
-  "capannuccia": [
-    "kapanːutːʃa"
-  ],
-  "caparbi": [
-    "kaparbi"
-  ],
-  "caparbia": [
-    "kaparbja"
-  ],
-  "caparbiamente": [
-    "kaparbjamente"
-  ],
-  "caparbie": [
-    "kaparbje"
-  ],
-  "caparbietà": [
-    "kaparbjeta"
-  ],
-  "caparbio": [
-    "kaparbjo"
-  ],
-  "caparra": [
-    "kaparːa"
-  ],
-  "caparre": [
-    "kaparːe"
-  ],
-  "capata": [
-    "kapata"
-  ],
-  "capecchio": [
-    "kapekːjo"
-  ],
-  "capegno": [
-    "kapeɲɲo"
-  ],
-  "capelli": [
-    "kapelːi"
-  ],
-  "capello": [
-    "kapelːo",
-    "kapɛlːo"
-  ],
-  "capellone": [
-    "apelːone"
-  ],
-  "capelluto": [
-    "kapelːuto"
-  ],
-  "capelvenere": [
-    "kapelvɛnere"
-  ],
-  "capendo": [
-    "kapendo"
-  ],
-  "capente": [
-    "kapente"
-  ],
-  "capestro": [
-    "kapɛstro"
-  ],
-  "capetto": [
-    "kapetːo"
-  ],
-  "capezzale": [
-    "kapetːsale"
-  ],
-  "capezzo": [
-    "kapetːso"
-  ],
-  "capezzoli": [
-    "kapetːsoli"
-  ],
-  "capezzolo": [
-    "kapetːsolo"
-  ],
-  "capi": [
-    "kapi"
-  ],
-  "capì": [
-    "kapi"
-  ],
-  "capiamo": [
-    "kapjamo"
-  ],
-  "capiate": [
-    "kapjate"
-  ],
-  "capibanda": [
-    "kapibanda"
-  ],
-  "capibara": [
-    "kapibara"
-  ],
-  "capibari": [
-    "kapibari"
-  ],
-  "capicuochi": [
-    "kapikwɔki"
-  ],
-  "capiente": [
-    "kapjɛnte"
-  ],
-  "capienza": [
-    "kapjɛntsa"
-  ],
-  "capifamiglia": [
-    "kapifamiʎa"
-  ],
-  "capigliatura": [
-    "kapiʎatura"
-  ],
-  "capigliature": [
-    "kapiʎature"
-  ],
-  "capii": [
-    "kapii"
-  ],
-  "capilinea": [
-    "kapolinea"
-  ],
-  "capillare": [
-    "kapilːare"
-  ],
-  "capillarità": [
-    "kapilːarita"
-  ],
-  "capillarmente": [
-    "kapilːarmente"
-  ],
-  "capiluoghi": [
-    "kapilwɔɡi"
-  ],
-  "capimmo": [
-    "kapimːo"
-  ],
-  "capinera": [
-    "kapinera"
-  ],
-  "capinere": [
-    "kapinere"
-  ],
-  "capirà": [
-    "kapira"
-  ],
-  "capirai": [
-    "kapirai"
-  ],
-  "capiranno": [
-    "kapiranːo"
-  ],
-  "capirazza": [
-    "kapiratːsa"
-  ],
-  "capire": [
-    "kapire"
-  ],
-  "capirebbe": [
-    "kapirebːe"
-  ],
-  "capirebbero": [
-    "kapirebːero"
-  ],
-  "capirei": [
-    "kapirei"
-  ],
-  "capiremmo": [
-    "kapiremːo"
-  ],
-  "capiremo": [
-    "kapiremo"
-  ],
-  "capireste": [
-    "kapireste"
-  ],
-  "capiresti": [
-    "kapiresti"
-  ],
-  "capirete": [
-    "kapirete"
-  ],
-  "capirò": [
-    "kapiro"
-  ],
-  "capirono": [
-    "kapirono"
-  ],
-  "capirossa": [
-    "kapirosːa"
-  ],
-  "capirsi": [
-    "kapirsi"
-  ],
-  "capisca": [
-    "kapiska"
-  ],
-  "capiscano": [
-    "kapiskano"
-  ],
-  "capisce": [
-    "kapisʃe",
-    "kapiʃʃe"
-  ],
-  "capisci": [
-    "kapisʃi"
-  ],
-  "capisco": [
-    "kapisko"
-  ],
-  "capiscono": [
-    "kapiskono"
-  ],
-  "capiservizio": [
-    "kapiservitːsjo"
-  ],
-  "capisse": [
-    "kapisːe"
-  ],
-  "capissero": [
-    "kapisːero"
-  ],
-  "capissi": [
-    "kapisːi"
-  ],
-  "capissimo": [
-    "kapisːimo"
-  ],
-  "capistazione": [
-    "kapistatsjoni"
-  ],
-  "capiste": [
-    "kapiste"
-  ],
-  "capisti": [
-    "kapisti"
-  ],
-  "capita": [
-    "kapita"
-  ],
-  "capitai": [
-    "kapitai"
-  ],
-  "capitale": [
-    "kapitale"
-  ],
-  "capitali": [
-    "kapitali"
-  ],
-  "capitalismi": [
-    "kapitalizmi"
-  ],
-  "capitalismo": [
-    "kapitalizmo"
-  ],
-  "capitalista": [
-    "kapitalista"
-  ],
-  "capitaliste": [
-    "kapitaliste"
-  ],
-  "capitalisti": [
-    "kapitalisti"
-  ],
-  "capitalistica": [
-    "kapitalistika"
-  ],
-  "capitalisticamente": [
-    "kapitalistikamente"
-  ],
-  "capitalistiche": [
-    "kapitalistike"
-  ],
-  "capitalistici": [
-    "kapitalistitʃi"
-  ],
-  "capitalistico": [
-    "kapitalistiko"
-  ],
-  "capitalizzabile": [
-    "kapitalidːzabile"
-  ],
-  "capitalizzabili": [
-    "kapitalidːzabili"
-  ],
-  "capitalizzato": [
-    "kapitalidːzato"
-  ],
-  "capitalmente": [
-    "kapitalmente"
-  ],
-  "capitammo": [
-    "kapitamːo"
-  ],
-  "capitana": [
-    "kapitana"
-  ],
-  "capitanante": [
-    "kapitanante"
-  ],
-  "capitanare": [
-    "kapitanare"
-  ],
-  "capitanato": [
-    "kapitanato"
-  ],
-  "capitando": [
-    "kapitando"
-  ],
-  "capitaneggiare": [
-    "kapitanedːʒare"
-  ],
-  "capitani": [
-    "kapitani"
-  ],
-  "capitano": [
-    "kapitano"
-  ],
-  "capitante": [
-    "kapitante"
-  ],
-  "capitare": [
-    "kapitare"
-  ],
-  "capitarono": [
-    "kapitarono"
-  ],
-  "capitasse": [
-    "kapitasːe"
-  ],
-  "capitassero": [
-    "kapitasːero"
-  ],
-  "capitassi": [
-    "kapitasːi"
-  ],
-  "capitassimo": [
-    "kapitasːimo"
-  ],
-  "capitaste": [
-    "kapitaste"
-  ],
-  "capitasti": [
-    "kapitasti"
-  ],
-  "capitata": [
-    "kapitata"
-  ],
-  "capitate": [
-    "kapitate"
-  ],
-  "capitati": [
-    "kapitati"
-  ],
-  "capitato": [
-    "kapitato"
-  ],
-  "capitava": [
-    "kapitava"
-  ],
-  "capitavamo": [
-    "kapitavamo"
-  ],
-  "capitavano": [
-    "kapitavano"
-  ],
-  "capitavate": [
-    "kapitavate"
-  ],
-  "capitavi": [
-    "kapitavi"
-  ],
-  "capitavo": [
-    "kapitavo"
-  ],
-  "capitazione": [
-    "kapitatːsjone"
-  ],
-  "capite": [
-    "kapite"
-  ],
-  "capitello": [
-    "kapitɛlːo"
-  ],
-  "capiterà": [
-    "kapitera"
-  ],
-  "capiterai": [
-    "kapiterai"
-  ],
-  "capiteranno": [
-    "kapiteranːo"
-  ],
-  "capiterebbe": [
-    "kapiterebːe"
-  ],
-  "capiterebbero": [
-    "kapiterebːero"
-  ],
-  "capiterei": [
-    "kapiterei"
-  ],
-  "capiteremmo": [
-    "kapiteremːo"
-  ],
-  "capiteremo": [
-    "kapiteremo"
-  ],
-  "capitereste": [
-    "kapitereste"
-  ],
-  "capiteresti": [
-    "kapiteresti"
-  ],
-  "capiterete": [
-    "kapiterete"
-  ],
-  "capitergio": [
-    "kapitɛrdʒo"
-  ],
-  "capiterò": [
-    "kapitero"
-  ],
-  "capiti": [
-    "kapiti"
-  ],
-  "capitiamo": [
-    "kapitjamo"
-  ],
-  "capitiate": [
-    "kapitjate"
-  ],
-  "capitino": [
-    "kapitino"
-  ],
-  "capito": [
-    "kapito"
-  ],
-  "capitò": [
-    "kapito"
-  ],
-  "capitolante": [
-    "kapitolante"
-  ],
-  "capitolare": [
-    "kapitolare"
-  ],
-  "capitolari": [
-    "kapitolare"
-  ],
-  "capitolato": [
-    "kapitolato"
-  ],
-  "capitolazione": [
-    "kapitolatsjone",
-    "kapitolatːsjone"
-  ],
-  "capitolazioni": [
-    "kapitolatsjoni"
-  ],
-  "capitoletto": [
-    "kapitoletːo"
-  ],
-  "capitoli": [
-    "kapitoli"
-  ],
-  "capitolino": [
-    "kapitolino"
-  ],
-  "capitolo": [
-    "kapitolo"
-  ],
-  "capitombolare": [
-    "kapitombolare"
-  ],
-  "capitombolo": [
-    "kapitombolo"
-  ],
-  "capitozzare": [
-    "kapitotːsare"
-  ],
-  "capiva": [
-    "kapiva"
-  ],
-  "capivamo": [
-    "kapivamo"
-  ],
-  "capivano": [
-    "kapivano"
-  ],
-  "capivate": [
-    "kapivate"
-  ],
-  "capivi": [
-    "kapivi"
-  ],
-  "capivo": [
-    "kapivo"
-  ],
-  "capivoltare": [
-    "kapivoltare"
-  ],
-  "capo": [
-    "kapo"
-  ],
-  "capobanda": [
-    "kapobanda"
-  ],
-  "capocchia": [
-    "kapɔkːja"
-  ],
-  "capocchie": [
-    "kapɔkːjɛ"
-  ],
-  "capocchietta": [
-    "kapɔkːjetːa"
-  ]
+  "campionatrice": "kampjonatritʃe",
+  "campionatrici": "kampjonatritʃi",
+  "campionatura": "kampjonatura",
+  "campionature": "kampjonature",
+  "campione": "kampjone",
+  "campioneranno": "kampjoneranːo",
+  "campionessa": "kampjonesːa",
+  "campionesse": "kampjonesːe",
+  "campioni": "kampjoni",
+  "campisanti": "kampizanti",
+  "campitura": "kampitura",
+  "campo": "kampo",
+  "campo_2": "kampɔ",
+  "camposanti": "kampozantoi",
+  "camposanto": "kamposanto",
+  "camposanto_2": "kampozanto",
+  "camptocormia": "kamptokormja",
+  "camptocormie": "kamptokormje",
+  "campus": "kampus",
+  "camuffamenti": "kamufːamenti",
+  "camuffamento": "kamufːamento",
+  "camuffare": "kamufːare",
+  "camuffarsi": "kamufːarsi",
+  "camuffato": "kamufːato",
+  "camuna": "kamuna",
+  "camuno": "kamuno",
+  "camuso": "kamuzo",
+  "can": "kan",
+  "cana": "kana",
+  "canada": "kanada",
+  "canadese": "kanadese",
+  "canadese_2": "kanadeze",
+  "canadesi": "kanadesi",
+  "canaglia": "kanaʎa",
+  "canale": "kanale",
+  "canaletto": "kanaletːo",
+  "canalicolo": "kanalikolo",
+  "canalizzante": "kanalidːzante",
+  "canalizzare": "kanalidːzare",
+  "canalizzarsi": "kanalidːzarsi",
+  "canalizzata": "kanalidːzata",
+  "canalizzate": "kanalidːzate",
+  "canalizzati": "kanalidːzati",
+  "canalizzato": "kanalidːzato",
+  "cananeo": "kananɛo",
+  "canapa": "kanapa",
+  "canapacciaia": "kanapatːʃaja",
+  "canapacciara": "kanapatːʃara",
+  "canapaccio": "kanapatːʃo",
+  "canape": "kanape",
+  "canapicoltore": "kanapikoltore",
+  "canapicoltori": "kanapikoltori",
+  "canapicoltrice": "kanapikoltritʃe",
+  "canapicoltrici": "kanapikoltritʃi",
+  "canapiero": "kanapjɛro",
+  "canapiglia": "kanapiʎa",
+  "canapo": "kanapo",
+  "canapone": "kanapone",
+  "canapuccia": "kanaputːʃa",
+  "canard": "kanar",
+  "canari": "kanari",
+  "canaria": "kanarja",
+  "canaria_2": "kanarje",
+  "canaricoltura": "kanarikoltura",
+  "canaricolture": "kanarikolture",
+  "canarie": "kanarje",
+  "canarini": "kanarini",
+  "canarino": "kanarino",
+  "canario": "kanarjo",
+  "canavacci": "kanavatːʃi",
+  "canavaccio": "kanavatːʃo",
+  "canavesano": "kanavesano",
+  "cancellabile": "kantʃelːabile",
+  "cancellabili": "kantʃelːabili",
+  "cancellante": "kantʃelːante",
+  "cancellare": "kantʃelːare",
+  "cancellarsi": "kantʃelːarsi",
+  "cancellata": "kantʃelːata",
+  "cancellato": "kantʃelːato",
+  "cancellatura": "kantʃelːatura",
+  "cancellature": "kantʃelːature",
+  "cancellazione": "kantʃelːatsiɔne",
+  "cancellazione_2": "kantʃelːatːsjone",
+  "cancellazione_3": "kantʃelːatːsjɔne",
+  "cancellazioni": "kantʃelːatːsjɔni",
+  "cancelletto": "kantʃelːetːo",
+  "cancelli": "kantʃɛlːi",
+  "cancelliera": "kantʃelːjɛra",
+  "cancelliere": "kantʃelːjɛre",
+  "cancellieri": "kantʃelːjɛri",
+  "cancello": "kantʃelːo",
+  "cancello_2": "kantʃɛlːo",
+  "cancerizzare": "kantʃeridːzare",
+  "cancerizzazione": "kantʃeridːzatːsjone",
+  "cancerizzazione_2": "kantʃeridːzatːsjɔne",
+  "cancerizzazioni": "kantʃeridːzatːsjɔni",
+  "cancerogeno": "kantʃerɔdʒeno",
+  "canceroso": "kantʃerozo",
+  "cancrena": "kankrɛna",
+  "cancrene": "kankrɛne",
+  "cancrenoso": "kankrenoso",
+  "cancrenoso_2": "kankrenozo",
+  "cancro": "kankro",
+  "cancro_2": "kaɲkro",
+  "candaria": "kandaria",
+  "candeggiare": "kandedːʒare",
+  "candeggina": "kandedːʒina",
+  "candela": "kandela",
+  "candelabri": "kandelabri",
+  "candelabro": "kandelabro",
+  "candele": "kandele",
+  "candeletta": "kandeletːa",
+  "candeliere": "kandeljɛre",
+  "candelieri": "kandeljɛri",
+  "candelina": "kandelina",
+  "candelora": "kandelɔra",
+  "candelotti": "kandelotːi",
+  "candelotto": "kandelotːo",
+  "candelotto_2": "kandelɔtːo",
+  "candi": "kandi",
+  "candia": "kandja",
+  "candida": "kandida",
+  "candidabilità": "kandidabilita",
+  "candidamente": "kandidamente",
+  "candidante": "kandidante",
+  "candidare": "kandidare",
+  "candidarsi": "kandidarsi",
+  "candidata": "kandidata",
+  "candidate": "kandidate",
+  "candidati": "kandidati",
+  "candidato": "kandidato",
+  "candidatura": "kandidatura",
+  "candide": "kandide",
+  "candidi": "kandidi",
+  "candido": "kandido",
+  "candire": "kandire",
+  "candita": "kandita",
+  "candite": "kandite",
+  "canditi": "kanditi",
+  "candito": "kandito",
+  "candore": "kandore",
+  "candori": "kandori",
+  "cane": "kane",
+  "canederli": "kanɛderli",
+  "canederlo": "kanederlo",
+  "canederlo_2": "kanɛderlo",
+  "canefora": "kanɛfora",
+  "canestra": "kanɛstra",
+  "canestre": "kanɛstre",
+  "canestri": "kanɛstri",
+  "canestrino": "kanestrino",
+  "canestro": "kanɛstro",
+  "canevacci": "kanevatːʃi",
+  "canevaccio": "kanevatːʃo",
+  "canfora": "kanfora",
+  "canforo": "kanforo",
+  "cangia": "kandʒa",
+  "cangiante": "kandʒante",
+  "cangiare": "kandʒare",
+  "canguri": "kanɡuri",
+  "canguro": "kanɡuro",
+  "canguro_2": "kaɲɡuro",
+  "canicola": "kanikola",
+  "canicolare": "kanikolare",
+  "canicolari": "kanikolari",
+  "canicole": "kanikole",
+  "canide": "kanide",
+  "canidi": "kanidi",
+  "caniforme": "kaniforme",
+  "caniformi": "kaniformi",
+  "canile": "kanile",
+  "canili": "kanili",
+  "canina": "kanina",
+  "canine": "kanine",
+  "canini": "kanini",
+  "canino": "kanino",
+  "canizie": "kanitːsje",
+  "canna": "kanːa",
+  "cannabilizzato": "kanːibalidːzato",
+  "cannabis": "kanːabis",
+  "cannabismo": "kanːabizmo",
+  "cannaio": "kanːajo",
+  "cannare": "kanːare",
+  "cannato": "kanːato",
+  "canne": "kanːe",
+  "canneggiare": "kanːedːʒare",
+  "cannella": "kanɛlːa",
+  "cannella_2": "kanːɛlːa",
+  "cannella_3": "nativetownːativevilːaɡe",
+  "cannelle": "kanːɛlːe",
+  "cannellone": "kanːelːone",
+  "canneti": "kanːeti",
+  "canneto": "kanːeto",
+  "cannetta": "kanːetːa",
+  "cannibale": "kanːibale",
+  "cannibalescamente": "kanːibaleskamente",
+  "cannibalesco": "kanːibalesko",
+  "cannibali": "kanːibali",
+  "cannibalismi": "kanːibalizmi",
+  "cannibalismo": "kanːibalizmo",
+  "cannibalizzare": "kanːibalidːzare",
+  "cannibalizzazione": "kanːibalidːzatːsjone",
+  "cannizzaro": "kanːitːsaro",
+  "cannocchiale": "kanːokːjale",
+  "cannocchiali": "kanːokːjali",
+  "cannolicchi": "kanːolikːi",
+  "cannolicchio": "kanːolikːjo",
+  "cannolo": "kanːɔlo",
+  "cannonare": "kanːonare",
+  "cannonata": "kanːonata",
+  "cannoncino": "kanːontʃino",
+  "cannone": "kanːone",
+  "cannoneggiamento": "kanːonedːʒamento",
+  "cannoneggiante": "kanːonedːʒante",
+  "cannoneggiare": "kanːonedːʒare",
+  "cannoneggiato": "kanːonedːʒato",
+  "cannoni": "kanːoni",
+  "cannoniera": "kanːonjɛra",
+  "cannoniere": "kanːonjɛre",
+  "cannoniero": "kanːonjɛro",
+  "cannoso": "kanːoso",
+  "cannoso_2": "kanːozo",
+  "cannuccia": "kanːutːʃa",
+  "cano": "kano",
+  "canoa": "kanɔa",
+  "canocchia": "kanɔkːja",
+  "canoista": "kanoista",
+  "canoiste": "kanoiste",
+  "canoisti": "kanoisti",
+  "canone": "kanone",
+  "canoni": "kanoni",
+  "canonica": "kanɔnika",
+  "canonicale": "kanonikale",
+  "canonicali": "kanonikali",
+  "canonicamente": "kanonikamente",
+  "canonicati": "kanonikati",
+  "canonicato": "kanonikato",
+  "canoniche": "kanɔnike",
+  "canonichessa": "kanonikesːa",
+  "canonichesse": "kanonikesːe",
+  "canonici": "kanɔnitʃi",
+  "canonico": "kanɔniko",
+  "canonista": "kanonista",
+  "canonizzare": "kanonidzare",
+  "canonizzare_2": "kanonidːzare",
+  "canonizzazione": "kanonidːzatsjone",
+  "canonizzazioni": "kanonidːzatsjoni",
+  "canopo": "kanɔpo",
+  "canoro": "kanɔro",
+  "canottaggi": "kanotːadːʒi",
+  "canottaggio": "kanotːadːʒo",
+  "canotti": "kanɔtːi",
+  "canottiera": "kanotːjɛra",
+  "canottiere": "kanotːjɛra",
+  "canottiere_2": "kanotːjɛre",
+  "canottieri": "kanotːjɛri",
+  "canotto": "kanɔtːo",
+  "canova": "kanova",
+  "canovacci": "kanovatːʃi",
+  "canovaccio": "kanovatːʃo",
+  "cansare": "kansare",
+  "canta": "kanta",
+  "cantabile": "kantabile",
+  "cantabili": "kantabili",
+  "cantafavola": "kantafavola",
+  "cantai": "kantai",
+  "cantante": "kantante",
+  "cantantessa": "kantantesːa",
+  "cantare": "kantare",
+  "cantari": "kantari",
+  "cantaride": "kantaride",
+  "cantasse": "kantasːe",
+  "cantaste": "kantaste",
+  "cantastorie": "kantastɔrje",
+  "cantata": "kantata",
+  "cantate": "kantate",
+  "cantato": "kantato",
+  "cantautore": "kantautore",
+  "cantautore_2": "kantawtore",
+  "cantautori": "kantautori",
+  "cantautoriale": "kantawtorjale",
+  "cantautrice": "kantautritʃe",
+  "cantautrice_2": "kantawtritʃe",
+  "cantautrici": "kantautritʃi",
+  "cantavi": "kantavi",
+  "canterai": "kanterai",
+  "canterbury": "kanterburi",
+  "canterbury_2": "kantɛrburi",
+  "canterellare": "kanterelːare",
+  "cantero": "kantero",
+  "canti": "kanti",
+  "cantica": "kantika",
+  "canticchiare": "kantikːjare",
+  "cantiere": "kantjɛre",
+  "cantieri": "kantjɛri",
+  "cantilena": "kantilɛna",
+  "cantilenare": "kantilenare",
+  "cantillare": "kantilːare",
+  "cantillazione": "kantilːatːsjone",
+  "cantillazione_2": "kantilːatːsjɔne",
+  "cantillazioni": "kantilːatːsjɔni",
+  "cantina": "kantina",
+  "cantiniere": "kantinjɛre",
+  "canto": "kanto",
+  "canton": "kantɔn",
+  "cantonale": "kantonale",
+  "cantone": "kantone",
+  "cantonese": "kantonese",
+  "cantonese_2": "kantoneze",
+  "cantoniere": "kantonjɛre",
+  "cantore": "kantore",
+  "cantori": "kantori",
+  "cantra": "kantra",
+  "cantrice": "kantritʃe",
+  "cantrici": "kantritʃi",
+  "cantuccino": "kantutːʃino",
+  "cantuccio": "kantutːʃo",
+  "canuto": "kanuto",
+  "canutola": "kanutola",
+  "canyon": "kɛnjon",
+  "canzio": "kantsjo",
+  "canzonare": "kantsonare",
+  "canzonatore": "kantsonatore",
+  "canzonatorio": "kantsonatɔrjo",
+  "canzonatura": "kantsonatura",
+  "canzoncina": "kantsontʃina",
+  "canzone": "kantsone",
+  "canzonetta": "kantsonetːa",
+  "canzoni": "kantsoni",
+  "canzoniere": "kantsonjɛre",
+  "cao": "kao",
+  "caos": "kaos",
+  "caosse": "kaɔsːe",
+  "caotica": "kaɔtika",
+  "caoticamente": "kaotikamente",
+  "caotiche": "kaɔtike",
+  "caotici": "kaɔtitʃi",
+  "caotico": "kaɔtiko",
+  "capace": "kapatʃe",
+  "capacemente": "kapatʃemente",
+  "capaci": "kapatʃi",
+  "capacità": "kapatʃita",
+  "capacitanza": "kapatʃitantsa",
+  "capacitare": "kapatʃitare",
+  "capacitarsi": "kapatʃitarsi",
+  "capacitivo": "kapatʃitivo",
+  "capacitore": "kapatʃitore",
+  "capanna": "kapanːa",
+  "capanne": "kapanːe",
+  "capanno": "kapanːo",
+  "capannone": "kapanːone",
+  "capannucce": "kapanːutːʃe",
+  "capannuccia": "kapanːutːʃa",
+  "caparbi": "kaparbi",
+  "caparbia": "kaparbja",
+  "caparbiamente": "kaparbjamente",
+  "caparbie": "kaparbje",
+  "caparbietà": "kaparbjeta",
+  "caparbio": "kaparbjo",
+  "caparra": "kaparːa",
+  "caparre": "kaparːe",
+  "capata": "kapata",
+  "capecchio": "kapekːjo",
+  "capegno": "kapeɲɲo",
+  "capelli": "kapelːi",
+  "capello": "kapelːo",
+  "capello_2": "kapɛlːo",
+  "capellone": "apelːone",
+  "capelluto": "kapelːuto",
+  "capelvenere": "kapelvɛnere",
+  "capendo": "kapendo",
+  "capente": "kapente",
+  "capestro": "kapɛstro",
+  "capetto": "kapetːo",
+  "capezzale": "kapetːsale",
+  "capezzo": "kapetːso",
+  "capezzoli": "kapetːsoli",
+  "capezzolo": "kapetːsolo",
+  "capi": "kapi",
+  "capì": "kapi",
+  "capiamo": "kapjamo",
+  "capiate": "kapjate",
+  "capibanda": "kapibanda",
+  "capibara": "kapibara",
+  "capibari": "kapibari",
+  "capicuochi": "kapikwɔki",
+  "capiente": "kapjɛnte",
+  "capienza": "kapjɛntsa",
+  "capifamiglia": "kapifamiʎa",
+  "capigliatura": "kapiʎatura",
+  "capigliature": "kapiʎature",
+  "capii": "kapii",
+  "capilinea": "kapolinea",
+  "capillare": "kapilːare",
+  "capillarità": "kapilːarita",
+  "capillarmente": "kapilːarmente",
+  "capiluoghi": "kapilwɔɡi",
+  "capimmo": "kapimːo",
+  "capinera": "kapinera",
+  "capinere": "kapinere",
+  "capirà": "kapira",
+  "capirai": "kapirai",
+  "capiranno": "kapiranːo",
+  "capirazza": "kapiratːsa",
+  "capire": "kapire",
+  "capirebbe": "kapirebːe",
+  "capirebbero": "kapirebːero",
+  "capirei": "kapirei",
+  "capiremmo": "kapiremːo",
+  "capiremo": "kapiremo",
+  "capireste": "kapireste",
+  "capiresti": "kapiresti",
+  "capirete": "kapirete",
+  "capirò": "kapiro",
+  "capirono": "kapirono",
+  "capirossa": "kapirosːa",
+  "capirsi": "kapirsi",
+  "capisca": "kapiska",
+  "capiscano": "kapiskano",
+  "capisce": "kapisʃe",
+  "capisce_2": "kapiʃʃe",
+  "capisci": "kapisʃi",
+  "capisco": "kapisko",
+  "capiscono": "kapiskono",
+  "capiservizio": "kapiservitːsjo",
+  "capisse": "kapisːe",
+  "capissero": "kapisːero",
+  "capissi": "kapisːi",
+  "capissimo": "kapisːimo",
+  "capistazione": "kapistatsjoni",
+  "capiste": "kapiste",
+  "capisti": "kapisti",
+  "capita": "kapita",
+  "capitai": "kapitai",
+  "capitale": "kapitale",
+  "capitali": "kapitali",
+  "capitalismi": "kapitalizmi",
+  "capitalismo": "kapitalizmo",
+  "capitalista": "kapitalista",
+  "capitaliste": "kapitaliste",
+  "capitalisti": "kapitalisti",
+  "capitalistica": "kapitalistika",
+  "capitalisticamente": "kapitalistikamente",
+  "capitalistiche": "kapitalistike",
+  "capitalistici": "kapitalistitʃi",
+  "capitalistico": "kapitalistiko",
+  "capitalizzabile": "kapitalidːzabile",
+  "capitalizzabili": "kapitalidːzabili",
+  "capitalizzato": "kapitalidːzato",
+  "capitalmente": "kapitalmente",
+  "capitammo": "kapitamːo",
+  "capitana": "kapitana",
+  "capitanante": "kapitanante",
+  "capitanare": "kapitanare",
+  "capitanato": "kapitanato",
+  "capitando": "kapitando",
+  "capitaneggiare": "kapitanedːʒare",
+  "capitani": "kapitani",
+  "capitano": "kapitano",
+  "capitante": "kapitante",
+  "capitare": "kapitare",
+  "capitarono": "kapitarono",
+  "capitasse": "kapitasːe",
+  "capitassero": "kapitasːero",
+  "capitassi": "kapitasːi",
+  "capitassimo": "kapitasːimo",
+  "capitaste": "kapitaste",
+  "capitasti": "kapitasti",
+  "capitata": "kapitata",
+  "capitate": "kapitate",
+  "capitati": "kapitati",
+  "capitato": "kapitato",
+  "capitava": "kapitava",
+  "capitavamo": "kapitavamo",
+  "capitavano": "kapitavano",
+  "capitavate": "kapitavate",
+  "capitavi": "kapitavi",
+  "capitavo": "kapitavo",
+  "capitazione": "kapitatːsjone",
+  "capite": "kapite",
+  "capitello": "kapitɛlːo",
+  "capiterà": "kapitera",
+  "capiterai": "kapiterai",
+  "capiteranno": "kapiteranːo",
+  "capiterebbe": "kapiterebːe",
+  "capiterebbero": "kapiterebːero",
+  "capiterei": "kapiterei",
+  "capiteremmo": "kapiteremːo",
+  "capiteremo": "kapiteremo",
+  "capitereste": "kapitereste",
+  "capiteresti": "kapiteresti",
+  "capiterete": "kapiterete",
+  "capitergio": "kapitɛrdʒo",
+  "capiterò": "kapitero",
+  "capiti": "kapiti",
+  "capitiamo": "kapitjamo",
+  "capitiate": "kapitjate",
+  "capitino": "kapitino",
+  "capito": "kapito",
+  "capitò": "kapito",
+  "capitolante": "kapitolante",
+  "capitolare": "kapitolare",
+  "capitolari": "kapitolare",
+  "capitolato": "kapitolato",
+  "capitolazione": "kapitolatsjone",
+  "capitolazione_2": "kapitolatːsjone",
+  "capitolazioni": "kapitolatsjoni",
+  "capitoletto": "kapitoletːo",
+  "capitoli": "kapitoli",
+  "capitolino": "kapitolino",
+  "capitolo": "kapitolo",
+  "capitombolare": "kapitombolare",
+  "capitombolo": "kapitombolo",
+  "capitozzare": "kapitotːsare",
+  "capiva": "kapiva",
+  "capivamo": "kapivamo",
+  "capivano": "kapivano",
+  "capivate": "kapivate",
+  "capivi": "kapivi",
+  "capivo": "kapivo",
+  "capivoltare": "kapivoltare",
+  "capo": "kapo",
+  "capobanda": "kapobanda",
+  "capocchia": "kapɔkːja",
+  "capocchie": "kapɔkːjɛ",
+  "capocchietta": "kapɔkːjetːa"
 }

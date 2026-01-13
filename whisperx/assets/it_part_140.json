@@ -1,1540 +1,540 @@
 {
-  "pupo": [
-    "pupo"
-  ],
-  "puppa": [
-    "pupːa"
-  ],
-  "puppola": [
-    "pupːola"
-  ],
-  "pupù": [
-    "pupu"
-  ],
-  "pur": [
-    "pur"
-  ],
-  "puramente": [
-    "puramente"
-  ],
-  "purché": [
-    "purke"
-  ],
-  "purchessia": [
-    "purkesːia"
-  ],
-  "pure": [
-    "pure"
-  ],
-  "purè": [
-    "pure",
-    "purɛ"
-  ],
-  "purezza": [
-    "puretːsa"
-  ],
-  "purga": [
-    "purɡa"
-  ],
-  "purgante": [
-    "purɡante"
-  ],
-  "purganti": [
-    "purɡanti"
-  ],
-  "purgare": [
-    "purɡare"
-  ],
-  "purgatezza": [
-    "purɡatetːsa"
-  ],
-  "purgato": [
-    "purɡato"
-  ],
-  "purgatori": [
-    "purɡatɔri"
-  ],
-  "purgatorio": [
-    "purɡatɔrjo"
-  ],
-  "puri": [
-    "puri"
-  ],
-  "purificante": [
-    "purifikante"
-  ],
-  "purificanti": [
-    "purifikanti"
-  ],
-  "purificare": [
-    "purifikare"
-  ],
-  "purificato": [
-    "purifikato"
-  ],
-  "purificatore": [
-    "purifikatore"
-  ],
-  "purificatori": [
-    "purifikatori"
-  ],
-  "purificatrice": [
-    "purifikatritʃe"
-  ],
-  "purificatrici": [
-    "purifikatritʃi"
-  ],
-  "purismi": [
-    "purizmi"
-  ],
-  "purismo": [
-    "purizmo"
-  ],
-  "purista": [
-    "purista"
-  ],
-  "puriste": [
-    "puriste"
-  ],
-  "puristi": [
-    "puristi"
-  ],
-  "purità": [
-    "purita"
-  ],
-  "puritanismo": [
-    "puritanizmo"
-  ],
-  "puritano": [
-    "puritano"
-  ],
-  "puro": [
-    "puro",
-    "purɔ"
-  ],
-  "purosangue": [
-    "purozanɡwe",
-    "purozaɲɡwe"
-  ],
-  "purpurea": [
-    "purpurea"
-  ],
-  "purpuree": [
-    "purpuree"
-  ],
-  "purpurei": [
-    "purpurei"
-  ],
-  "purpureo": [
-    "purpureo"
-  ],
-  "purtroppo": [
-    "purtrɔpːo"
-  ],
-  "purulento": [
-    "purulɛnto"
-  ],
-  "pus": [
-    "pus"
-  ],
-  "pusillanime": [
-    "puzilːanime"
-  ],
-  "pusillanimi": [
-    "puzilːanimi"
-  ],
-  "pusillanimità": [
-    "puzilːanimita"
-  ],
-  "pusillanimo": [
-    "puzilːanimo"
-  ],
-  "pusta": [
-    "pusta"
-  ],
-  "pusterla": [
-    "pustɛrla"
-  ],
-  "pustola": [
-    "pustola"
-  ],
-  "pustole": [
-    "pustole"
-  ],
-  "pustoloso": [
-    "pustoloso",
-    "pustolozo"
-  ],
-  "putacaso": [
-    "putakazo"
-  ],
-  "putare": [
-    "putare"
-  ],
-  "putativo": [
-    "putativo"
-  ],
-  "puteale": [
-    "puteale"
-  ],
-  "putente": [
-    "putɛnte"
-  ],
-  "putiferio": [
-    "putifɛrjo"
-  ],
-  "putire": [
-    "putire"
-  ],
-  "putore": [
-    "putore"
-  ],
-  "putredine": [
-    "putrɛdine"
-  ],
-  "putrefatto": [
-    "putrefatːo"
-  ],
-  "putrefazione": [
-    "putrefatːsjone"
-  ],
-  "putrella": [
-    "putrɛlːa"
-  ],
-  "putresceina": [
-    "putreʃʃeina"
-  ],
-  "putrescente": [
-    "putreʃʃɛnte"
-  ],
-  "putrescenti": [
-    "putreʃʃɛnti"
-  ],
-  "putrescina": [
-    "putreʃʃina"
-  ],
-  "putrido": [
-    "putrido"
-  ],
-  "puttana": [
-    "putana",
-    "putːana"
-  ],
-  "puttanata": [
-    "putːanata"
-  ],
-  "puttane": [
-    "putane"
-  ],
-  "puttanesca": [
-    "putːaneska"
-  ],
-  "puttanesco": [
-    "putːanesko"
-  ],
-  "puttanesimo": [
-    "putːanesimo"
-  ],
-  "putti": [
-    "putːi"
-  ],
-  "putto": [
-    "putːo"
-  ],
-  "puzza": [
-    "putːsa"
-  ],
-  "puzzare": [
-    "putːsare"
-  ],
-  "puzzato": [
-    "putːsato"
-  ],
-  "puzze": [
-    "putːse"
-  ],
-  "puzzetta": [
-    "putːsetːa"
-  ],
-  "puzzi": [
-    "putːsi"
-  ],
-  "puzzicchiare": [
-    "putːsikːjare"
-  ],
-  "puzzle": [
-    "pazol"
-  ],
-  "puzzo": [
-    "putːso"
-  ],
-  "puzzola": [
-    "putːsola"
-  ],
-  "puzzole": [
-    "putːsole"
-  ],
-  "puzzolente": [
-    "putːsolɛnte"
-  ],
-  "puzzore": [
-    "putːsore"
-  ],
-  "puzzoso": [
-    "putːsoso",
-    "putːsozo"
-  ],
-  "q": [
-    "ku",
-    "kw"
-  ],
-  "qafiz": [
-    "kafiz"
-  ],
-  "qatar": [
-    "katar"
-  ],
-  "qatariota": [
-    "katarjota"
-  ],
-  "qatariote": [
-    "katarjote"
-  ],
-  "qatarioti": [
-    "katarjoti"
-  ],
-  "qua": [
-    "kwa"
-  ],
-  "quacchera": [
-    "kwakːera"
-  ],
-  "quacchero": [
-    "kwakːero"
-  ],
-  "quacquarare": [
-    "kwakːwarare"
-  ],
-  "quacquera": [
-    "kwakːwera"
-  ],
-  "quacquerare": [
-    "kwakːwerare"
-  ],
-  "quacquerismo": [
-    "kwakːwerizmo"
-  ],
-  "quacquero": [
-    "kwakːwero"
-  ],
-  "quadernetto": [
-    "kwadernetːo"
-  ],
-  "quaderni": [
-    "kwadɛrni"
-  ],
-  "quaderno": [
-    "kwadɛrno"
-  ],
-  "quadrangolare": [
-    "kwadraɲɡolare"
-  ],
-  "quadrangolari": [
-    "kwadraɲɡolari"
-  ],
-  "quadrangolo": [
-    "kwadranɡolo"
-  ],
-  "quadrante": [
-    "kwadrante"
-  ],
-  "quadranti": [
-    "kwadranti"
-  ],
-  "quadrare": [
-    "kwadrare"
-  ],
-  "quadrata": [
-    "kwadrata"
-  ],
-  "quadrate": [
-    "kwadrate"
-  ],
-  "quadrati": [
-    "kwadrati"
-  ],
-  "quadratica": [
-    "kwadratika"
-  ],
-  "quadratiche": [
-    "kwadratike"
-  ],
-  "quadratici": [
-    "kwadratitʃi"
-  ],
-  "quadratico": [
-    "kwadratiko"
-  ],
-  "quadratino": [
-    "kwadratino"
-  ],
-  "quadratissima": [
-    "kwadratisːima"
-  ],
-  "quadratissime": [
-    "kwadratisːime"
-  ],
-  "quadratissimi": [
-    "kwadratisːimi"
-  ],
-  "quadrato": [
-    "kwadrato"
-  ],
-  "quadratura": [
-    "kwadratura"
-  ],
-  "quadrature": [
-    "kwadrature"
-  ],
-  "quadraturista": [
-    "kwadraturista"
-  ],
-  "quadraturiste": [
-    "kwadraturiste"
-  ],
-  "quadraturisti": [
-    "kwadraturisti"
-  ],
-  "quadrello": [
-    "kwadrɛlːo"
-  ],
-  "quadrettatura": [
-    "kwadretːura"
-  ],
-  "quadrettature": [
-    "kwadretːure"
-  ],
-  "quadretto": [
-    "kwadretːo"
-  ],
-  "quadri": [
-    "kwadri"
-  ],
-  "quadrica": [
-    "kwadrika"
-  ],
-  "quadriciclica": [
-    "kwadritʃiklika"
-  ],
-  "quadricicliche": [
-    "kwadritʃiklike"
-  ],
-  "quadriciclici": [
-    "kwadritʃiklitʃi"
-  ],
-  "quadriciclico": [
-    "kwadritʃikliko"
-  ],
-  "quadricotteri": [
-    "kwadrikɔtːeri"
-  ],
-  "quadricottero": [
-    "kwadrikɔtːero"
-  ],
-  "quadricromia": [
-    "kwadrikromia"
-  ],
-  "quadricromie": [
-    "kwadrikromie"
-  ],
-  "quadridimensionale": [
-    "kwadridimensjonale"
-  ],
-  "quadridimensionali": [
-    "kwadridimensjonali"
-  ],
-  "quadridimensionalmente": [
-    "kwadridimensjonalmente"
-  ],
-  "quadrifogli": [
-    "kwadrifɔʎi"
-  ],
-  "quadrifoglio": [
-    "kwadrifɔʎo"
-  ],
-  "quadrifora": [
-    "kwadrifora"
-  ],
-  "quadriforme": [
-    "kwadriforme"
-  ],
-  "quadriga": [
-    "kwadriɡa"
-  ],
-  "quadrigato": [
-    "kwadriɡato"
-  ],
-  "quadrigemino": [
-    "kwadridʒɛmino"
-  ],
-  "quadrigetto": [
-    "kwadridʒɛtːo"
-  ],
-  "quadrilatera": [
-    "kwadrilatera"
-  ],
-  "quadrilatere": [
-    "kwadrilatere"
-  ],
-  "quadrilateri": [
-    "kwadrilateri"
-  ],
-  "quadrilatero": [
-    "kwadrilatero"
-  ],
-  "quadrilobo": [
-    "kwadrilobo"
-  ],
-  "quadrimensionale": [
-    "kwadrimensjonale"
-  ],
-  "quadrimestre": [
-    "kwadrimɛstre"
-  ],
-  "quadrimolecolare": [
-    "kwadrimolekolare"
-  ],
-  "quadrimotore": [
-    "kwadrimotore"
-  ],
-  "quadrimotori": [
-    "kwadrimotori"
-  ],
-  "quadrinomio": [
-    "kwadrinɔmjo"
-  ],
-  "quadriplani": [
-    "kwadriplani"
-  ],
-  "quadriplano": [
-    "kwadriplano"
-  ],
-  "quadriplegia": [
-    "kwadripledʒia"
-  ],
-  "quadriplegica": [
-    "kwadriplɛdʒika"
-  ],
-  "quadriplegiche": [
-    "kwadriplɛdʒike"
-  ],
-  "quadriplegici": [
-    "kwadriplɛdʒitʃi"
-  ],
-  "quadriplegico": [
-    "kwadriplɛdʒiko"
-  ],
-  "quadriplegie": [
-    "kwadripledʒie"
-  ],
-  "quadripolo": [
-    "kwadripɔlo"
-  ],
-  "quadriposto": [
-    "kwadripɔsto"
-  ],
-  "quadrireattore": [
-    "kwadrireatːore"
-  ],
-  "quadrireattori": [
-    "kwadrireatːori"
-  ],
-  "quadrireme": [
-    "kwadrirɛme"
-  ],
-  "quadriremi": [
-    "kwadrirɛmi"
-  ],
-  "quadrisdrucciolo": [
-    "kwadrizdrutːʃolo"
-  ],
-  "quadrittongo": [
-    "kwadritːɔnɡo"
-  ],
-  "quadrivalente": [
-    "kwadrivalɛnte"
-  ],
-  "quadrivalenti": [
-    "kwadrivalɛnti"
-  ],
-  "quadrivio": [
-    "kwadrivjo"
-  ],
-  "quadro": [
-    "kuadro",
-    "kwadro"
-  ],
-  "quadrumane": [
-    "kwadrumane"
-  ],
-  "quadrupede": [
-    "kwadrupede"
-  ],
-  "quadruplicare": [
-    "kwadruplikare"
-  ],
-  "quadruplo": [
-    "kwadruplo"
-  ],
-  "quagga": [
-    "kwaɡːa"
-  ],
-  "quaggiù": [
-    "kwadːʒu"
-  ],
-  "quaglia": [
-    "kwalʎa",
-    "kwaʎa"
-  ],
-  "quaglie": [
-    "kwalʎe"
-  ],
-  "quagliere": [
-    "kwaʎɛre"
-  ],
-  "qualche": [
-    "kualke",
-    "kwalke"
-  ],
-  "qualcosa": [
-    "kualkɔsa",
-    "kwalkɔsa",
-    "kwalkɔza"
-  ],
-  "qualcuna": [
-    "kwalkuna"
-  ],
-  "qualcuno": [
-    "kwalkuno"
-  ],
-  "quale": [
-    "kuale",
-    "kwale"
-  ],
-  "quali": [
-    "kwali"
-  ],
-  "qualifica": [
-    "kwalifika"
-  ],
-  "qualificabile": [
-    "kwalifikabile"
-  ],
-  "qualificabili": [
-    "kwalifikabili"
-  ],
-  "qualificante": [
-    "kwalifikante"
-  ],
-  "qualificanti": [
-    "kwalifikanti"
-  ],
-  "qualificare": [
-    "kwalifikare"
-  ],
-  "qualificato": [
-    "kwalifikato"
-  ],
-  "qualificazione": [
-    "kwalifikatsjone"
-  ],
-  "qualità": [
-    "kwalita"
-  ],
-  "qualitativa": [
-    "kwalitativa"
-  ],
-  "qualitativamente": [
-    "kwalitativamente"
-  ],
-  "qualitative": [
-    "kwalitative"
-  ],
-  "qualitativi": [
-    "kwalitativi"
-  ],
-  "qualitativo": [
-    "kwalitativo"
-  ],
-  "qualora": [
-    "kwalora"
-  ],
-  "qualsiasi": [
-    "kualsiasi",
-    "kwalsiasi"
-  ],
-  "qualsivoglia": [
-    "kwalsivɔʎa"
-  ],
-  "qualunche": [
-    "kwalunke"
-  ],
-  "qualunque": [
-    "kualuɲkue",
-    "kwalunkwe",
-    "kwaluɲkwe"
-  ],
-  "qualunquismo": [
-    "kwalunkwizmo"
-  ],
-  "qualvolta": [
-    "kwalvɔlta"
-  ],
-  "quando": [
-    "kwando"
-  ],
-  "quandunque": [
-    "kwandunkwe"
-  ],
-  "quanta": [
-    "kwanta"
-  ],
-  "quante": [
-    "kwante"
-  ],
-  "quanti": [
-    "kwanti"
-  ],
-  "quantico": [
-    "kwantiko"
-  ],
-  "quantificabile": [
-    "kwantifikabile"
-  ],
-  "quantificabili": [
-    "kwantifikabili"
-  ],
-  "quantificare": [
-    "kwantifikare"
-  ],
-  "quantificato": [
-    "kwantifikato"
-  ],
-  "quantificatore": [
-    "kwantifikatore"
-  ],
-  "quantificatori": [
-    "kwantifikatori"
-  ],
-  "quantificazione": [
-    "kwantifikatsjone"
-  ],
-  "quantificazioni": [
-    "kwantifikatsjoni"
-  ],
-  "quantisticamente": [
-    "kwantistikamente"
-  ],
-  "quantistico": [
-    "kwantistiko"
-  ],
-  "quantità": [
-    "kwantita"
-  ],
-  "quantitativa": [
-    "kwantitativa"
-  ],
-  "quantitativamente": [
-    "kwantitativamente"
-  ],
-  "quantitative": [
-    "kwantitative"
-  ],
-  "quantitativi": [
-    "kwantitativi"
-  ],
-  "quantitativo": [
-    "kwantitativo"
-  ],
-  "quanto": [
-    "kwanto"
-  ],
-  "quantomeccanico": [
-    "kwantomekːaniko"
-  ],
-  "quantomeno": [
-    "kuantomeno",
-    "kwantomeno"
-  ],
-  "quantunque": [
-    "kwantunkwe",
-    "kwantuɲkwe"
-  ],
-  "quaranta": [
-    "kwaranta"
-  ],
-  "quarantacinque": [
-    "kwarantatʃinkwe"
-  ],
-  "quarantadue": [
-    "kwarantadue"
-  ],
-  "quarantamila": [
-    "kwarantamila"
-  ],
-  "quarantanove": [
-    "kwarantanɔve"
-  ],
-  "quarantena": [
-    "kwarantɛna"
-  ],
-  "quarantene": [
-    "kwarantɛne"
-  ],
-  "quarantenne": [
-    "kwarantɛnːe"
-  ],
-  "quarantesimo": [
-    "kwarantɛzimo"
-  ],
-  "quarantina": [
-    "kwarantina"
-  ],
-  "quarantore": [
-    "kwarantore"
-  ],
-  "quarantotto": [
-    "kwarantɔtːo"
-  ],
-  "quarantottore": [
-    "kwarantotːore"
-  ],
-  "quarantuno": [
-    "kwarantuno"
-  ],
-  "quaresima": [
-    "kwarezima"
-  ],
-  "quark": [
-    "kwark"
-  ],
-  "quarkonio": [
-    "kwarkɔnjo"
-  ],
-  "quarta": [
-    "kwarta"
-  ],
-  "quartabuono": [
-    "kwartabwɔno"
-  ],
-  "quartarolo": [
-    "kwartarɔlo"
-  ],
-  "quartettista": [
-    "kwartetːista"
-  ],
-  "quartettiste": [
-    "kwartetːiste"
-  ],
-  "quartettisti": [
-    "kwartetːisti"
-  ],
-  "quartetto": [
-    "kwartetːo"
-  ],
-  "quartiere": [
-    "kwartjɛre"
-  ],
-  "quartirolo": [
-    "kwartirɔlo"
-  ],
-  "quarto": [
-    "kuarto",
-    "kwarto"
-  ],
-  "quartultimo": [
-    "kwartultimo"
-  ],
-  "quarzo": [
-    "kwartso"
-  ],
-  "quasi": [
-    "kwazi"
-  ],
-  "quasigruppo": [
-    "kwaziɡrupːo"
-  ],
-  "quasiparticella": [
-    "kwazipartitʃɛlːa"
-  ],
-  "quasiparticelle": [
-    "kwazipartitʃɛlːe"
-  ],
-  "quassare": [
-    "kwasːare"
-  ],
-  "quassù": [
-    "kwasːu"
-  ],
-  "quaterna": [
-    "kwatɛrna"
-  ],
-  "quaternario": [
-    "kwaternarjo"
-  ],
-  "quatto": [
-    "kwatːo"
-  ],
-  "quattordicenne": [
-    "kwatːorditʃɛnːe"
-  ],
-  "quattordicesima": [
-    "kwatːorditʃɛzima"
-  ],
-  "quattordicesimo": [
-    "kwatːorditʃɛzimo"
-  ],
-  "quattordici": [
-    "kwatːorditʃi"
-  ],
-  "quattrenne": [
-    "kwatːrenːe"
-  ],
-  "quattrino": [
-    "kwatːrino"
-  ],
-  "quattro": [
-    "kwatːro"
-  ],
-  "quattrocchi": [
-    "kwatːrɔkːi"
-  ],
-  "quattrocento": [
-    "kuatːrotʃɛnto",
-    "kwatːrotʃɛnto"
-  ],
-  "quattrocentoventi": [
-    "kwatːrotʃɛntoventi"
-  ],
-  "quebecchese": [
-    "kebekːeze"
-  ],
-  "quebracho": [
-    "kebratʃo"
-  ],
-  "quebraco": [
-    "kebrako"
-  ],
-  "quebracolo": [
-    "kebrakɔlo"
-  ],
-  "quegli": [
-    "kweʎi"
-  ],
-  "quella": [
-    "kwelːa"
-  ],
-  "quelle": [
-    "kwelːe"
-  ],
-  "quelli": [
-    "kwelːi"
-  ],
-  "quello": [
-    "kuelːo",
-    "kwelːo"
-  ],
-  "querce": [
-    "kwɛrtʃe"
-  ],
-  "querceto": [
-    "kwertʃeto"
-  ],
-  "quercia": [
-    "kwɛrtʃa"
-  ],
-  "querciola": [
-    "kwertʃola"
-  ],
-  "querciolo": [
-    "kwertʃolo"
-  ],
-  "querela": [
-    "kwerɛla"
-  ],
-  "querelare": [
-    "kwerelare"
-  ],
-  "querelato": [
-    "kuerelato",
-    "kwerelato"
-  ],
-  "querele": [
-    "kwerɛle"
-  ],
-  "querulo": [
-    "kwɛrulo"
-  ],
-  "quesito": [
-    "kuezito",
-    "kwezito"
-  ],
-  "questa": [
-    "kwesta"
-  ],
-  "queste": [
-    "kweste"
-  ],
-  "questi": [
-    "kwesti"
-  ],
-  "questionario": [
-    "kwestjonarjo"
-  ],
-  "questione": [
-    "kwestjone"
-  ],
-  "questo": [
-    "kesto",
-    "kuesto",
-    "kwesto"
-  ],
-  "questora": [
-    "kwestora"
-  ],
-  "questore": [
-    "kwestore"
-  ],
-  "questua": [
-    "kwɛstua"
-  ],
-  "questuante": [
-    "kwestuante"
-  ],
-  "questura": [
-    "kwestura"
-  ],
-  "quetanza": [
-    "kwetantsa"
-  ],
-  "quetazione": [
-    "kwetatːsjone"
-  ],
-  "quetzal": [
-    "ketːsal"
-  ],
-  "qui": [
-    "kwi"
-  ],
-  "quiescente": [
-    "kwieʃʃente",
-    "kwjeʃʃɛnte"
-  ],
-  "quiescenti": [
-    "kwieʃʃenti"
-  ],
-  "quiescenza": [
-    "kwjeʃʃɛntsa"
-  ],
-  "quieta": [
-    "kwjɛta"
-  ],
-  "quietamente": [
-    "kwjetamente"
-  ],
-  "quietamento": [
-    "kwjetamento"
-  ],
-  "quietanza": [
-    "kwjetantsa"
-  ],
-  "quietanzare": [
-    "kwjetantsare"
-  ],
-  "quietanzatore": [
-    "kwjetantsatore"
-  ],
-  "quietanzatrice": [
-    "kwjetantsatritʃe"
-  ],
-  "quietare": [
-    "kwjetare"
-  ],
-  "quietazione": [
-    "kwjetatːsjone"
-  ],
-  "quiete": [
-    "kwiete",
-    "kwjɛte"
-  ],
-  "quietezza": [
-    "kwjetetːsa"
-  ],
-  "quieti": [
-    "kwjɛti"
-  ],
-  "quietismo": [
-    "kwjetizmo"
-  ],
-  "quietista": [
-    "kwjetista"
-  ],
-  "quietiste": [
-    "kwjetiste"
-  ],
-  "quietisti": [
-    "kwjetisti"
-  ],
-  "quietistico": [
-    "kwjetistiko"
-  ],
-  "quietitudine": [
-    "kwjetitudine"
-  ],
-  "quieto": [
-    "kuiɛto",
-    "kwjɛto"
-  ],
-  "quietudine": [
-    "kwjetudine"
-  ],
-  "quincentro": [
-    "kwintʃentro"
-  ],
-  "quinci": [
-    "kwintʃi"
-  ],
-  "quinconce": [
-    "kwinkontʃe"
-  ],
-  "quindeci": [
-    "kwindetʃi"
-  ],
-  "quindi": [
-    "kuindi",
-    "kwindi"
-  ],
-  "quindicenne": [
-    "kwinditʃenːe",
-    "kwinditʃɛnːe"
-  ],
-  "quindici": [
-    "kwinditʃi"
-  ],
-  "quindicina": [
-    "kwinditʃina"
-  ],
-  "quindicinali": [
-    "kwinditʃinali"
-  ],
-  "quinoa": [
-    "kinɔa"
-  ],
-  "quinquenne": [
-    "kwinkwɛnːe"
-  ],
-  "quinquennio": [
-    "kuiɲkuɛnːio",
-    "kwiɲkwɛnːjo"
-  ],
-  "quinta": [
-    "kwinta"
-  ],
-  "quintale": [
-    "kwintale"
-  ],
-  "quintana": [
-    "kwintana"
-  ],
-  "quinte": [
-    "kwɛt"
-  ],
-  "quinterno": [
-    "kwintɛrno"
-  ],
-  "quintessenza": [
-    "kuintesːentsa",
-    "kwintesːɛntsa"
-  ],
-  "quintetto": [
-    "kwintetːo"
-  ],
-  "quinto": [
-    "kwinto"
-  ],
-  "quintultimo": [
-    "kwintultimo"
-  ],
-  "quintuplo": [
-    "kuintuplo"
-  ],
-  "quirina": [
-    "kwirina"
-  ],
-  "quirinale": [
-    "kwirinale"
-  ],
-  "quirinali": [
-    "kwirinali"
-  ],
-  "quirinalie": [
-    "kwirinalje"
-  ],
-  "quirinalismo": [
-    "kwirinalizmo"
-  ],
-  "quirinalista": [
-    "kwirinalista"
-  ],
-  "quirinalizio": [
-    "kwirinalitːsjo"
-  ],
-  "quirino": [
-    "kwirino"
-  ],
-  "quisquiglia": [
-    "kwiskwiʎa"
-  ],
-  "quisquilia": [
-    "kwiskwilja"
-  ],
-  "quistione": [
-    "kwistjone"
-  ],
-  "quitanza": [
-    "kwitantsa"
-  ],
-  "quitazione": [
-    "kwitatːsjone"
-  ],
-  "quittanza": [
-    "kwitːantsa"
-  ],
-  "quivi": [
-    "kwivi"
-  ],
-  "quodlibet": [
-    "kwɔdlibet"
-  ],
-  "quokka": [
-    "kwɔkːa"
-  ],
-  "quorum": [
-    "kwɔrum"
-  ],
-  "quota": [
-    "kwota",
-    "kwɔta"
-  ],
-  "quotatura": [
-    "kwotatura"
-  ],
-  "quotature": [
-    "kwotature"
-  ],
-  "quotazione": [
-    "kwotatːsjone"
-  ],
-  "quote": [
-    "kwote"
-  ],
-  "quotidiana": [
-    "kwotidjana"
-  ],
-  "quotidianamente": [
-    "kwotidjanamente"
-  ],
-  "quotidiane": [
-    "kwotidjane"
-  ],
-  "quotidiani": [
-    "kwotidjani"
-  ],
-  "quotidianità": [
-    "kwotidjanita"
-  ],
-  "quotidiano": [
-    "kuotidiano",
-    "kwotidjano"
-  ],
-  "quoto": [
-    "kwɔto"
-  ],
-  "quoziente": [
-    "kwotsjɛnte"
-  ],
-  "quozienti": [
-    "kwotsjɛnti"
-  ],
-  "r": [
-    "ɛrːe",
-    "r"
-  ],
-  "raba": [
-    "raba"
-  ],
-  "rabarbari": [
-    "rabarbari"
-  ],
-  "rabarbaro": [
-    "rabarbaro"
-  ],
-  "rabat": [
-    "rabat"
-  ],
-  "rabaton": [
-    "rabaton",
-    "rabatɔn"
-  ],
-  "rabberciante": [
-    "rabːertʃante"
-  ],
-  "rabberciare": [
-    "rabːertʃare"
-  ],
-  "rabberciato": [
-    "rabːertʃato"
-  ],
-  "rabberciatura": [
-    "rabːertʃatura"
-  ],
-  "rabbi": [
-    "rabːi"
-  ],
-  "rabbia": [
-    "rabːja"
-  ],
-  "rabbino": [
-    "rabːino"
-  ],
-  "rabbiosamente": [
-    "rabːjosamente",
-    "rabːjozamente"
-  ],
-  "rabbioso": [
-    "rabːjoso",
-    "rabːjozo"
-  ],
-  "rabboccato": [
-    "rabːokːato"
-  ],
-  "rabbonaccerà": [
-    "rabːonatːʃera"
-  ],
-  "rabbonaccerai": [
-    "rabːonatːʃerai"
-  ],
-  "rabbonacceranno": [
-    "rabːonatːʃeranːo"
-  ],
-  "rabbonaccerebbe": [
-    "rabːonatːʃerebːe"
-  ],
-  "rabbonaccerebbero": [
-    "rabːonatːʃerebːero"
-  ],
-  "rabbonaccerei": [
-    "rabːonatːʃerei"
-  ],
-  "rabbonacceremmo": [
-    "rabːonatːʃeremːo"
-  ],
-  "rabbonacceremo": [
-    "rabːonatːʃeremo"
-  ],
-  "rabbonaccereste": [
-    "rabːonatːʃereste"
-  ],
-  "rabbonacceresti": [
-    "rabːonatːʃeresti"
-  ],
-  "rabbonaccerete": [
-    "rabːonatːʃerete"
-  ],
-  "rabbonaccerò": [
-    "rabːonatːʃero"
-  ],
-  "rabbonacci": [
-    "rabːonatːʃi"
-  ],
-  "rabbonaccia": [
-    "rabːonatːʃa"
-  ],
-  "rabbonacciai": [
-    "rabːonatːʃai"
-  ],
-  "rabbonacciammo": [
-    "rabːonatːʃamːo"
-  ],
-  "rabbonacciamo": [
-    "rabːonatːʃjamo"
-  ],
-  "rabbonacciando": [
-    "rabːonatːʃando"
-  ],
-  "rabbonacciano": [
-    "rabːonatːʃano"
-  ],
-  "rabbonacciante": [
-    "rabːonatːʃante"
-  ],
-  "rabbonacciarono": [
-    "rabːonatːʃarono"
-  ],
-  "rabbonacciasse": [
-    "rabːonatːʃasːe"
-  ],
-  "rabbonacciassero": [
-    "rabːonatːʃasːero"
-  ],
-  "rabbonacciassi": [
-    "rabːonatːʃasːi"
-  ],
-  "rabbonacciassimo": [
-    "rabːonatːʃasːimo"
-  ],
-  "rabbonacciaste": [
-    "rabːonatːʃaste"
-  ],
-  "rabbonacciasti": [
-    "rabːonatːʃasti"
-  ],
-  "rabbonacciata": [
-    "rabːonatːʃata"
-  ],
-  "rabbonacciate": [
-    "rabːonatːʃate"
-  ],
-  "rabbonacciati": [
-    "rabːonatːʃati"
-  ],
-  "rabbonacciato": [
-    "rabːonatːʃato"
-  ],
-  "rabbonacciava": [
-    "rabːonatːʃava"
-  ],
-  "rabbonacciavamo": [
-    "rabːonatːʃavamo"
-  ],
-  "rabbonacciavano": [
-    "rabːonatːʃavano"
-  ],
-  "rabbonacciavate": [
-    "rabːonatːʃavate"
-  ],
-  "rabbonacciavi": [
-    "rabːonatːʃavi"
-  ],
-  "rabbonacciavo": [
-    "rabːonatːʃavo"
-  ],
-  "rabbonaccino": [
-    "rabːonatːʃino"
-  ],
-  "rabbonaccio": [
-    "rabːonatːʃo"
-  ],
-  "rabbonacciò": [
-    "rabːonatːʃo"
-  ],
-  "rabbonire": [
-    "rabːonirsi"
-  ],
-  "rabbonirsi": [
-    "rabːonirsi"
-  ],
-  "rabbonito": [
-    "rabːonito"
-  ],
-  "rabbrividente": [
-    "rabːrividɛnte"
-  ],
-  "rabbrividire": [
-    "rabːrividire"
-  ],
-  "rabbuiato": [
-    "rabːujato"
-  ],
-  "rabdomante": [
-    "rabdomante"
-  ],
-  "rabdomanti": [
-    "rabdomanti"
-  ],
-  "rabdomanzia": [
-    "rabdomantsia"
-  ],
-  "rabdomioblastico": [
-    "rabdomjoblastiko"
-  ],
-  "rabdomioblasto": [
-    "rabdomjoblasto"
-  ],
-  "rabdomioma": [
-    "rabdomjɔma"
-  ],
-  "rabdomiomi": [
-    "rabdomjomi"
-  ],
-  "rabido": [
-    "rabido"
-  ],
-  "raboso": [
-    "rabozo"
-  ],
-  "rabula": [
-    "rabula"
-  ],
-  "raccapezzare": [
-    "rakːapetːsare"
-  ],
-  "raccapricciante": [
-    "rakːapritːʃante"
-  ],
-  "raccapriccio": [
-    "rakːapritːʃo"
-  ],
-  "raccatta": [
-    "rakːatːa"
-  ],
-  "raccattai": [
-    "rakːatːai"
-  ],
-  "raccattammo": [
-    "rakːatːamːo"
-  ],
-  "raccattando": [
-    "rakːatːando"
-  ],
-  "raccattano": [
-    "rakːatːano"
-  ],
-  "raccattante": [
-    "rakːatːante"
-  ],
-  "raccattarono": [
-    "rakːatːarono"
-  ],
-  "raccattasse": [
-    "rakːatːasːe"
-  ],
-  "raccattassero": [
-    "rakːatːasːero"
-  ],
-  "raccattassi": [
-    "rakːatːasːi"
-  ],
-  "raccattassimo": [
-    "rakːatːasːimo"
-  ],
-  "raccattaste": [
-    "rakːatːaste"
-  ],
-  "raccattasti": [
-    "rakːatːasti"
-  ],
-  "raccattata": [
-    "rakːatːata"
-  ]
+  "pupo": "pupo",
+  "puppa": "pupːa",
+  "puppola": "pupːola",
+  "pupù": "pupu",
+  "pur": "pur",
+  "puramente": "puramente",
+  "purché": "purke",
+  "purchessia": "purkesːia",
+  "pure": "pure",
+  "purè": "pure",
+  "purè_2": "purɛ",
+  "purezza": "puretːsa",
+  "purga": "purɡa",
+  "purgante": "purɡante",
+  "purganti": "purɡanti",
+  "purgare": "purɡare",
+  "purgatezza": "purɡatetːsa",
+  "purgato": "purɡato",
+  "purgatori": "purɡatɔri",
+  "purgatorio": "purɡatɔrjo",
+  "puri": "puri",
+  "purificante": "purifikante",
+  "purificanti": "purifikanti",
+  "purificare": "purifikare",
+  "purificato": "purifikato",
+  "purificatore": "purifikatore",
+  "purificatori": "purifikatori",
+  "purificatrice": "purifikatritʃe",
+  "purificatrici": "purifikatritʃi",
+  "purismi": "purizmi",
+  "purismo": "purizmo",
+  "purista": "purista",
+  "puriste": "puriste",
+  "puristi": "puristi",
+  "purità": "purita",
+  "puritanismo": "puritanizmo",
+  "puritano": "puritano",
+  "puro": "puro",
+  "puro_2": "purɔ",
+  "purosangue": "purozanɡwe",
+  "purosangue_2": "purozaɲɡwe",
+  "purpurea": "purpurea",
+  "purpuree": "purpuree",
+  "purpurei": "purpurei",
+  "purpureo": "purpureo",
+  "purtroppo": "purtrɔpːo",
+  "purulento": "purulɛnto",
+  "pus": "pus",
+  "pusillanime": "puzilːanime",
+  "pusillanimi": "puzilːanimi",
+  "pusillanimità": "puzilːanimita",
+  "pusillanimo": "puzilːanimo",
+  "pusta": "pusta",
+  "pusterla": "pustɛrla",
+  "pustola": "pustola",
+  "pustole": "pustole",
+  "pustoloso": "pustoloso",
+  "pustoloso_2": "pustolozo",
+  "putacaso": "putakazo",
+  "putare": "putare",
+  "putativo": "putativo",
+  "puteale": "puteale",
+  "putente": "putɛnte",
+  "putiferio": "putifɛrjo",
+  "putire": "putire",
+  "putore": "putore",
+  "putredine": "putrɛdine",
+  "putrefatto": "putrefatːo",
+  "putrefazione": "putrefatːsjone",
+  "putrella": "putrɛlːa",
+  "putresceina": "putreʃʃeina",
+  "putrescente": "putreʃʃɛnte",
+  "putrescenti": "putreʃʃɛnti",
+  "putrescina": "putreʃʃina",
+  "putrido": "putrido",
+  "puttana": "putana",
+  "puttana_2": "putːana",
+  "puttanata": "putːanata",
+  "puttane": "putane",
+  "puttanesca": "putːaneska",
+  "puttanesco": "putːanesko",
+  "puttanesimo": "putːanesimo",
+  "putti": "putːi",
+  "putto": "putːo",
+  "puzza": "putːsa",
+  "puzzare": "putːsare",
+  "puzzato": "putːsato",
+  "puzze": "putːse",
+  "puzzetta": "putːsetːa",
+  "puzzi": "putːsi",
+  "puzzicchiare": "putːsikːjare",
+  "puzzle": "pazol",
+  "puzzo": "putːso",
+  "puzzola": "putːsola",
+  "puzzole": "putːsole",
+  "puzzolente": "putːsolɛnte",
+  "puzzore": "putːsore",
+  "puzzoso": "putːsoso",
+  "puzzoso_2": "putːsozo",
+  "q": "ku",
+  "q_2": "kw",
+  "qafiz": "kafiz",
+  "qatar": "katar",
+  "qatariota": "katarjota",
+  "qatariote": "katarjote",
+  "qatarioti": "katarjoti",
+  "qua": "kwa",
+  "quacchera": "kwakːera",
+  "quacchero": "kwakːero",
+  "quacquarare": "kwakːwarare",
+  "quacquera": "kwakːwera",
+  "quacquerare": "kwakːwerare",
+  "quacquerismo": "kwakːwerizmo",
+  "quacquero": "kwakːwero",
+  "quadernetto": "kwadernetːo",
+  "quaderni": "kwadɛrni",
+  "quaderno": "kwadɛrno",
+  "quadrangolare": "kwadraɲɡolare",
+  "quadrangolari": "kwadraɲɡolari",
+  "quadrangolo": "kwadranɡolo",
+  "quadrante": "kwadrante",
+  "quadranti": "kwadranti",
+  "quadrare": "kwadrare",
+  "quadrata": "kwadrata",
+  "quadrate": "kwadrate",
+  "quadrati": "kwadrati",
+  "quadratica": "kwadratika",
+  "quadratiche": "kwadratike",
+  "quadratici": "kwadratitʃi",
+  "quadratico": "kwadratiko",
+  "quadratino": "kwadratino",
+  "quadratissima": "kwadratisːima",
+  "quadratissime": "kwadratisːime",
+  "quadratissimi": "kwadratisːimi",
+  "quadrato": "kwadrato",
+  "quadratura": "kwadratura",
+  "quadrature": "kwadrature",
+  "quadraturista": "kwadraturista",
+  "quadraturiste": "kwadraturiste",
+  "quadraturisti": "kwadraturisti",
+  "quadrello": "kwadrɛlːo",
+  "quadrettatura": "kwadretːura",
+  "quadrettature": "kwadretːure",
+  "quadretto": "kwadretːo",
+  "quadri": "kwadri",
+  "quadrica": "kwadrika",
+  "quadriciclica": "kwadritʃiklika",
+  "quadricicliche": "kwadritʃiklike",
+  "quadriciclici": "kwadritʃiklitʃi",
+  "quadriciclico": "kwadritʃikliko",
+  "quadricotteri": "kwadrikɔtːeri",
+  "quadricottero": "kwadrikɔtːero",
+  "quadricromia": "kwadrikromia",
+  "quadricromie": "kwadrikromie",
+  "quadridimensionale": "kwadridimensjonale",
+  "quadridimensionali": "kwadridimensjonali",
+  "quadridimensionalmente": "kwadridimensjonalmente",
+  "quadrifogli": "kwadrifɔʎi",
+  "quadrifoglio": "kwadrifɔʎo",
+  "quadrifora": "kwadrifora",
+  "quadriforme": "kwadriforme",
+  "quadriga": "kwadriɡa",
+  "quadrigato": "kwadriɡato",
+  "quadrigemino": "kwadridʒɛmino",
+  "quadrigetto": "kwadridʒɛtːo",
+  "quadrilatera": "kwadrilatera",
+  "quadrilatere": "kwadrilatere",
+  "quadrilateri": "kwadrilateri",
+  "quadrilatero": "kwadrilatero",
+  "quadrilobo": "kwadrilobo",
+  "quadrimensionale": "kwadrimensjonale",
+  "quadrimestre": "kwadrimɛstre",
+  "quadrimolecolare": "kwadrimolekolare",
+  "quadrimotore": "kwadrimotore",
+  "quadrimotori": "kwadrimotori",
+  "quadrinomio": "kwadrinɔmjo",
+  "quadriplani": "kwadriplani",
+  "quadriplano": "kwadriplano",
+  "quadriplegia": "kwadripledʒia",
+  "quadriplegica": "kwadriplɛdʒika",
+  "quadriplegiche": "kwadriplɛdʒike",
+  "quadriplegici": "kwadriplɛdʒitʃi",
+  "quadriplegico": "kwadriplɛdʒiko",
+  "quadriplegie": "kwadripledʒie",
+  "quadripolo": "kwadripɔlo",
+  "quadriposto": "kwadripɔsto",
+  "quadrireattore": "kwadrireatːore",
+  "quadrireattori": "kwadrireatːori",
+  "quadrireme": "kwadrirɛme",
+  "quadriremi": "kwadrirɛmi",
+  "quadrisdrucciolo": "kwadrizdrutːʃolo",
+  "quadrittongo": "kwadritːɔnɡo",
+  "quadrivalente": "kwadrivalɛnte",
+  "quadrivalenti": "kwadrivalɛnti",
+  "quadrivio": "kwadrivjo",
+  "quadro": "kuadro",
+  "quadro_2": "kwadro",
+  "quadrumane": "kwadrumane",
+  "quadrupede": "kwadrupede",
+  "quadruplicare": "kwadruplikare",
+  "quadruplo": "kwadruplo",
+  "quagga": "kwaɡːa",
+  "quaggiù": "kwadːʒu",
+  "quaglia": "kwalʎa",
+  "quaglia_2": "kwaʎa",
+  "quaglie": "kwalʎe",
+  "quagliere": "kwaʎɛre",
+  "qualche": "kualke",
+  "qualche_2": "kwalke",
+  "qualcosa": "kualkɔsa",
+  "qualcosa_2": "kwalkɔsa",
+  "qualcosa_3": "kwalkɔza",
+  "qualcuna": "kwalkuna",
+  "qualcuno": "kwalkuno",
+  "quale": "kuale",
+  "quale_2": "kwale",
+  "quali": "kwali",
+  "qualifica": "kwalifika",
+  "qualificabile": "kwalifikabile",
+  "qualificabili": "kwalifikabili",
+  "qualificante": "kwalifikante",
+  "qualificanti": "kwalifikanti",
+  "qualificare": "kwalifikare",
+  "qualificato": "kwalifikato",
+  "qualificazione": "kwalifikatsjone",
+  "qualità": "kwalita",
+  "qualitativa": "kwalitativa",
+  "qualitativamente": "kwalitativamente",
+  "qualitative": "kwalitative",
+  "qualitativi": "kwalitativi",
+  "qualitativo": "kwalitativo",
+  "qualora": "kwalora",
+  "qualsiasi": "kualsiasi",
+  "qualsiasi_2": "kwalsiasi",
+  "qualsivoglia": "kwalsivɔʎa",
+  "qualunche": "kwalunke",
+  "qualunque": "kualuɲkue",
+  "qualunque_2": "kwalunkwe",
+  "qualunque_3": "kwaluɲkwe",
+  "qualunquismo": "kwalunkwizmo",
+  "qualvolta": "kwalvɔlta",
+  "quando": "kwando",
+  "quandunque": "kwandunkwe",
+  "quanta": "kwanta",
+  "quante": "kwante",
+  "quanti": "kwanti",
+  "quantico": "kwantiko",
+  "quantificabile": "kwantifikabile",
+  "quantificabili": "kwantifikabili",
+  "quantificare": "kwantifikare",
+  "quantificato": "kwantifikato",
+  "quantificatore": "kwantifikatore",
+  "quantificatori": "kwantifikatori",
+  "quantificazione": "kwantifikatsjone",
+  "quantificazioni": "kwantifikatsjoni",
+  "quantisticamente": "kwantistikamente",
+  "quantistico": "kwantistiko",
+  "quantità": "kwantita",
+  "quantitativa": "kwantitativa",
+  "quantitativamente": "kwantitativamente",
+  "quantitative": "kwantitative",
+  "quantitativi": "kwantitativi",
+  "quantitativo": "kwantitativo",
+  "quanto": "kwanto",
+  "quantomeccanico": "kwantomekːaniko",
+  "quantomeno": "kuantomeno",
+  "quantomeno_2": "kwantomeno",
+  "quantunque": "kwantunkwe",
+  "quantunque_2": "kwantuɲkwe",
+  "quaranta": "kwaranta",
+  "quarantacinque": "kwarantatʃinkwe",
+  "quarantadue": "kwarantadue",
+  "quarantamila": "kwarantamila",
+  "quarantanove": "kwarantanɔve",
+  "quarantena": "kwarantɛna",
+  "quarantene": "kwarantɛne",
+  "quarantenne": "kwarantɛnːe",
+  "quarantesimo": "kwarantɛzimo",
+  "quarantina": "kwarantina",
+  "quarantore": "kwarantore",
+  "quarantotto": "kwarantɔtːo",
+  "quarantottore": "kwarantotːore",
+  "quarantuno": "kwarantuno",
+  "quaresima": "kwarezima",
+  "quark": "kwark",
+  "quarkonio": "kwarkɔnjo",
+  "quarta": "kwarta",
+  "quartabuono": "kwartabwɔno",
+  "quartarolo": "kwartarɔlo",
+  "quartettista": "kwartetːista",
+  "quartettiste": "kwartetːiste",
+  "quartettisti": "kwartetːisti",
+  "quartetto": "kwartetːo",
+  "quartiere": "kwartjɛre",
+  "quartirolo": "kwartirɔlo",
+  "quarto": "kuarto",
+  "quarto_2": "kwarto",
+  "quartultimo": "kwartultimo",
+  "quarzo": "kwartso",
+  "quasi": "kwazi",
+  "quasigruppo": "kwaziɡrupːo",
+  "quasiparticella": "kwazipartitʃɛlːa",
+  "quasiparticelle": "kwazipartitʃɛlːe",
+  "quassare": "kwasːare",
+  "quassù": "kwasːu",
+  "quaterna": "kwatɛrna",
+  "quaternario": "kwaternarjo",
+  "quatto": "kwatːo",
+  "quattordicenne": "kwatːorditʃɛnːe",
+  "quattordicesima": "kwatːorditʃɛzima",
+  "quattordicesimo": "kwatːorditʃɛzimo",
+  "quattordici": "kwatːorditʃi",
+  "quattrenne": "kwatːrenːe",
+  "quattrino": "kwatːrino",
+  "quattro": "kwatːro",
+  "quattrocchi": "kwatːrɔkːi",
+  "quattrocento": "kuatːrotʃɛnto",
+  "quattrocento_2": "kwatːrotʃɛnto",
+  "quattrocentoventi": "kwatːrotʃɛntoventi",
+  "quebecchese": "kebekːeze",
+  "quebracho": "kebratʃo",
+  "quebraco": "kebrako",
+  "quebracolo": "kebrakɔlo",
+  "quegli": "kweʎi",
+  "quella": "kwelːa",
+  "quelle": "kwelːe",
+  "quelli": "kwelːi",
+  "quello": "kuelːo",
+  "quello_2": "kwelːo",
+  "querce": "kwɛrtʃe",
+  "querceto": "kwertʃeto",
+  "quercia": "kwɛrtʃa",
+  "querciola": "kwertʃola",
+  "querciolo": "kwertʃolo",
+  "querela": "kwerɛla",
+  "querelare": "kwerelare",
+  "querelato": "kuerelato",
+  "querelato_2": "kwerelato",
+  "querele": "kwerɛle",
+  "querulo": "kwɛrulo",
+  "quesito": "kuezito",
+  "quesito_2": "kwezito",
+  "questa": "kwesta",
+  "queste": "kweste",
+  "questi": "kwesti",
+  "questionario": "kwestjonarjo",
+  "questione": "kwestjone",
+  "questo": "kesto",
+  "questo_2": "kuesto",
+  "questo_3": "kwesto",
+  "questora": "kwestora",
+  "questore": "kwestore",
+  "questua": "kwɛstua",
+  "questuante": "kwestuante",
+  "questura": "kwestura",
+  "quetanza": "kwetantsa",
+  "quetazione": "kwetatːsjone",
+  "quetzal": "ketːsal",
+  "qui": "kwi",
+  "quiescente": "kwieʃʃente",
+  "quiescente_2": "kwjeʃʃɛnte",
+  "quiescenti": "kwieʃʃenti",
+  "quiescenza": "kwjeʃʃɛntsa",
+  "quieta": "kwjɛta",
+  "quietamente": "kwjetamente",
+  "quietamento": "kwjetamento",
+  "quietanza": "kwjetantsa",
+  "quietanzare": "kwjetantsare",
+  "quietanzatore": "kwjetantsatore",
+  "quietanzatrice": "kwjetantsatritʃe",
+  "quietare": "kwjetare",
+  "quietazione": "kwjetatːsjone",
+  "quiete": "kwiete",
+  "quiete_2": "kwjɛte",
+  "quietezza": "kwjetetːsa",
+  "quieti": "kwjɛti",
+  "quietismo": "kwjetizmo",
+  "quietista": "kwjetista",
+  "quietiste": "kwjetiste",
+  "quietisti": "kwjetisti",
+  "quietistico": "kwjetistiko",
+  "quietitudine": "kwjetitudine",
+  "quieto": "kuiɛto",
+  "quieto_2": "kwjɛto",
+  "quietudine": "kwjetudine",
+  "quincentro": "kwintʃentro",
+  "quinci": "kwintʃi",
+  "quinconce": "kwinkontʃe",
+  "quindeci": "kwindetʃi",
+  "quindi": "kuindi",
+  "quindi_2": "kwindi",
+  "quindicenne": "kwinditʃenːe",
+  "quindicenne_2": "kwinditʃɛnːe",
+  "quindici": "kwinditʃi",
+  "quindicina": "kwinditʃina",
+  "quindicinali": "kwinditʃinali",
+  "quinoa": "kinɔa",
+  "quinquenne": "kwinkwɛnːe",
+  "quinquennio": "kuiɲkuɛnːio",
+  "quinquennio_2": "kwiɲkwɛnːjo",
+  "quinta": "kwinta",
+  "quintale": "kwintale",
+  "quintana": "kwintana",
+  "quinte": "kwɛt",
+  "quinterno": "kwintɛrno",
+  "quintessenza": "kuintesːentsa",
+  "quintessenza_2": "kwintesːɛntsa",
+  "quintetto": "kwintetːo",
+  "quinto": "kwinto",
+  "quintultimo": "kwintultimo",
+  "quintuplo": "kuintuplo",
+  "quirina": "kwirina",
+  "quirinale": "kwirinale",
+  "quirinali": "kwirinali",
+  "quirinalie": "kwirinalje",
+  "quirinalismo": "kwirinalizmo",
+  "quirinalista": "kwirinalista",
+  "quirinalizio": "kwirinalitːsjo",
+  "quirino": "kwirino",
+  "quisquiglia": "kwiskwiʎa",
+  "quisquilia": "kwiskwilja",
+  "quistione": "kwistjone",
+  "quitanza": "kwitantsa",
+  "quitazione": "kwitatːsjone",
+  "quittanza": "kwitːantsa",
+  "quivi": "kwivi",
+  "quodlibet": "kwɔdlibet",
+  "quokka": "kwɔkːa",
+  "quorum": "kwɔrum",
+  "quota": "kwota",
+  "quota_2": "kwɔta",
+  "quotatura": "kwotatura",
+  "quotature": "kwotature",
+  "quotazione": "kwotatːsjone",
+  "quote": "kwote",
+  "quotidiana": "kwotidjana",
+  "quotidianamente": "kwotidjanamente",
+  "quotidiane": "kwotidjane",
+  "quotidiani": "kwotidjani",
+  "quotidianità": "kwotidjanita",
+  "quotidiano": "kuotidiano",
+  "quotidiano_2": "kwotidjano",
+  "quoto": "kwɔto",
+  "quoziente": "kwotsjɛnte",
+  "quozienti": "kwotsjɛnti",
+  "r": "ɛrːe",
+  "r_2": "r",
+  "raba": "raba",
+  "rabarbari": "rabarbari",
+  "rabarbaro": "rabarbaro",
+  "rabat": "rabat",
+  "rabaton": "rabaton",
+  "rabaton_2": "rabatɔn",
+  "rabberciante": "rabːertʃante",
+  "rabberciare": "rabːertʃare",
+  "rabberciato": "rabːertʃato",
+  "rabberciatura": "rabːertʃatura",
+  "rabbi": "rabːi",
+  "rabbia": "rabːja",
+  "rabbino": "rabːino",
+  "rabbiosamente": "rabːjosamente",
+  "rabbiosamente_2": "rabːjozamente",
+  "rabbioso": "rabːjoso",
+  "rabbioso_2": "rabːjozo",
+  "rabboccato": "rabːokːato",
+  "rabbonaccerà": "rabːonatːʃera",
+  "rabbonaccerai": "rabːonatːʃerai",
+  "rabbonacceranno": "rabːonatːʃeranːo",
+  "rabbonaccerebbe": "rabːonatːʃerebːe",
+  "rabbonaccerebbero": "rabːonatːʃerebːero",
+  "rabbonaccerei": "rabːonatːʃerei",
+  "rabbonacceremmo": "rabːonatːʃeremːo",
+  "rabbonacceremo": "rabːonatːʃeremo",
+  "rabbonaccereste": "rabːonatːʃereste",
+  "rabbonacceresti": "rabːonatːʃeresti",
+  "rabbonaccerete": "rabːonatːʃerete",
+  "rabbonaccerò": "rabːonatːʃero",
+  "rabbonacci": "rabːonatːʃi",
+  "rabbonaccia": "rabːonatːʃa",
+  "rabbonacciai": "rabːonatːʃai",
+  "rabbonacciammo": "rabːonatːʃamːo",
+  "rabbonacciamo": "rabːonatːʃjamo",
+  "rabbonacciando": "rabːonatːʃando",
+  "rabbonacciano": "rabːonatːʃano",
+  "rabbonacciante": "rabːonatːʃante",
+  "rabbonacciarono": "rabːonatːʃarono",
+  "rabbonacciasse": "rabːonatːʃasːe",
+  "rabbonacciassero": "rabːonatːʃasːero",
+  "rabbonacciassi": "rabːonatːʃasːi",
+  "rabbonacciassimo": "rabːonatːʃasːimo",
+  "rabbonacciaste": "rabːonatːʃaste",
+  "rabbonacciasti": "rabːonatːʃasti",
+  "rabbonacciata": "rabːonatːʃata",
+  "rabbonacciate": "rabːonatːʃate",
+  "rabbonacciati": "rabːonatːʃati",
+  "rabbonacciato": "rabːonatːʃato",
+  "rabbonacciava": "rabːonatːʃava",
+  "rabbonacciavamo": "rabːonatːʃavamo",
+  "rabbonacciavano": "rabːonatːʃavano",
+  "rabbonacciavate": "rabːonatːʃavate",
+  "rabbonacciavi": "rabːonatːʃavi",
+  "rabbonacciavo": "rabːonatːʃavo",
+  "rabbonaccino": "rabːonatːʃino",
+  "rabbonaccio": "rabːonatːʃo",
+  "rabbonacciò": "rabːonatːʃo",
+  "rabbonire": "rabːonirsi",
+  "rabbonirsi": "rabːonirsi",
+  "rabbonito": "rabːonito",
+  "rabbrividente": "rabːrividɛnte",
+  "rabbrividire": "rabːrividire",
+  "rabbuiato": "rabːujato",
+  "rabdomante": "rabdomante",
+  "rabdomanti": "rabdomanti",
+  "rabdomanzia": "rabdomantsia",
+  "rabdomioblastico": "rabdomjoblastiko",
+  "rabdomioblasto": "rabdomjoblasto",
+  "rabdomioma": "rabdomjɔma",
+  "rabdomiomi": "rabdomjomi",
+  "rabido": "rabido",
+  "raboso": "rabozo",
+  "rabula": "rabula",
+  "raccapezzare": "rakːapetːsare",
+  "raccapricciante": "rakːapritːʃante",
+  "raccapriccio": "rakːapritːʃo",
+  "raccatta": "rakːatːa",
+  "raccattai": "rakːatːai",
+  "raccattammo": "rakːatːamːo",
+  "raccattando": "rakːatːando",
+  "raccattano": "rakːatːano",
+  "raccattante": "rakːatːante",
+  "raccattarono": "rakːatːarono",
+  "raccattasse": "rakːatːasːe",
+  "raccattassero": "rakːatːasːero",
+  "raccattassi": "rakːatːasːi",
+  "raccattassimo": "rakːatːasːimo",
+  "raccattaste": "rakːatːaste",
+  "raccattasti": "rakːatːasti",
+  "raccattata": "rakːatːata"
 }

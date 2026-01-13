@@ -1,1528 +1,528 @@
 {
-  "craniotomia": [
-    "kranjotomia"
-  ],
-  "crapula": [
-    "krapula"
-  ],
-  "crapulare": [
-    "krapulare"
-  ],
-  "crapuloso": [
-    "krapulozo"
-  ],
-  "crasi": [
-    "krazi"
-  ],
-  "crasso": [
-    "krasːo"
-  ],
-  "cratere": [
-    "kratɛre"
-  ],
-  "crateri": [
-    "kratɛri"
-  ],
-  "crauti": [
-    "krawti"
-  ],
-  "cravatta": [
-    "kravatːa"
-  ],
-  "cravattai": [
-    "kravatːai"
-  ],
-  "cravattaia": [
-    "kavatːaja"
-  ],
-  "cravattaie": [
-    "kavatːaje"
-  ],
-  "cravattaio": [
-    "kravatːajo"
-  ],
-  "cravattaro": [
-    "kravatːaro"
-  ],
-  "cravatte": [
-    "kravatːe"
-  ],
-  "craxi": [
-    "kraksi",
-    "kraʃʃi"
-  ],
-  "craxiano": [
-    "kraksjano"
-  ],
-  "craxismo": [
-    "kraksizmo"
-  ],
-  "creando": [
-    "kreando"
-  ],
-  "creante": [
-    "kreante"
-  ],
-  "creanza": [
-    "kreantsa"
-  ],
-  "creanze": [
-    "kreantse"
-  ],
-  "creare": [
-    "kreare"
-  ],
-  "crearsi": [
-    "krearsi"
-  ],
-  "creatina": [
-    "kreatina"
-  ],
-  "creatinfosfato": [
-    "kreatinfosfato"
-  ],
-  "creatinina": [
-    "kreatinina"
-  ],
-  "creatività": [
-    "kreativita"
-  ],
-  "creativo": [
-    "kreativo"
-  ],
-  "creato": [
-    "kreato"
-  ],
-  "creatore": [
-    "kreatore"
-  ],
-  "creatori": [
-    "kreatori"
-  ],
-  "creatrice": [
-    "kreatritʃe"
-  ],
-  "creatrici": [
-    "kreatritʃi"
-  ],
-  "creatura": [
-    "kreatura"
-  ],
-  "creature": [
-    "kreature"
-  ],
-  "creazione": [
-    "kreatsjone",
-    "kreatːsjone"
-  ],
-  "creazioni": [
-    "kreatsjoni"
-  ],
-  "creazionismi": [
-    "kreatːsjonizmi"
-  ],
-  "creazionismo": [
-    "kreatːsjonizmo"
-  ],
-  "creazionista": [
-    "kreatsjonista"
-  ],
-  "creazioniste": [
-    "kreatsjoniste"
-  ],
-  "creazionisti": [
-    "kreatsjonisti"
-  ],
-  "creda": [
-    "kreda"
-  ],
-  "crede": [
-    "krɛde"
-  ],
-  "credendo": [
-    "kredɛndo"
-  ],
-  "credente": [
-    "kredente",
-    "kredɛnte"
-  ],
-  "credenti": [
-    "kredɛnti"
-  ],
-  "credenza": [
-    "kredɛntsa"
-  ],
-  "credenze": [
-    "kredɛntse"
-  ],
-  "credenziale": [
-    "kredentsjale"
-  ],
-  "credere": [
-    "kredere"
-  ],
-  "crederò": [
-    "krederɔ"
-  ],
-  "credi": [
-    "kredi",
-    "krɛdi"
-  ],
-  "credibile": [
-    "kredibile"
-  ],
-  "credibili": [
-    "kredibili"
-  ],
-  "credibilità": [
-    "kredibilita"
-  ],
-  "credibilmente": [
-    "kredibilmente"
-  ],
-  "crediti": [
-    "krediti",
-    "krɛditi"
-  ],
-  "creditizio": [
-    "kredititːsjo"
-  ],
-  "credito": [
-    "kredito"
-  ],
-  "creditore": [
-    "kreditore"
-  ],
-  "creditori": [
-    "kreditori"
-  ],
-  "creditrici": [
-    "kreditritʃi"
-  ],
-  "credo": [
-    "kredo",
-    "krɛdo"
-  ],
-  "credulità": [
-    "kredulita"
-  ],
-  "credulo": [
-    "krɛdulo"
-  ],
-  "credulone": [
-    "kredulone"
-  ],
-  "creduto": [
-    "kreduto"
-  ],
-  "creerà": [
-    "kreera"
-  ],
-  "crei": [
-    "krɛi"
-  ],
-  "crema": [
-    "krɛma"
-  ],
-  "cremagliera": [
-    "kremaʎɛra"
-  ],
-  "cremare": [
-    "kremare"
-  ],
-  "cremasca": [
-    "kremaska"
-  ],
-  "cremasche": [
-    "kremaske"
-  ],
-  "cremaschi": [
-    "kremaski"
-  ],
-  "cremasco": [
-    "kremasko"
-  ],
-  "crematistico": [
-    "krematistiko"
-  ],
-  "crematorio": [
-    "krematɔrjo"
-  ],
-  "cremazione": [
-    "krematsjone"
-  ],
-  "cremazioni": [
-    "krematsjoni"
-  ],
-  "creme": [
-    "krɛme"
-  ],
-  "cremisi": [
-    "krɛmizi"
-  ],
-  "cremnlinologo": [
-    "kremlinɔloɡo"
-  ],
-  "cremona": [
-    "kremona"
-  ],
-  "cremonese": [
-    "kremonese"
-  ],
-  "cremonesi": [
-    "kremonesi"
-  ],
-  "cren": [
-    "krɛn"
-  ],
-  "crenatura": [
-    "krenatura"
-  ],
-  "crenature": [
-    "krenature"
-  ],
-  "crene": [
-    "krene"
-  ],
-  "creo": [
-    "kreo",
-    "krɛo"
-  ],
-  "creola": [
-    "krɛola"
-  ],
-  "creole": [
-    "krɛole"
-  ],
-  "creoli": [
-    "krɛoli"
-  ],
-  "creolina": [
-    "kreolina"
-  ],
-  "creolizzazione": [
-    "kreolidːzatsjone"
-  ],
-  "creolizzazioni": [
-    "kreolidːzatsjone"
-  ],
-  "creolo": [
-    "krɛolo"
-  ],
-  "crepa": [
-    "krɛpa"
-  ],
-  "crepacci": [
-    "krepatːʃi"
-  ],
-  "crepaccio": [
-    "krepatːʃo"
-  ],
-  "crepante": [
-    "krepante"
-  ],
-  "crepare": [
-    "krepare"
-  ],
-  "creparsi": [
-    "kreparsi"
-  ],
-  "crepato": [
-    "krepato"
-  ],
-  "crepitare": [
-    "krepitare"
-  ],
-  "crepitio": [
-    "krepitio"
-  ],
-  "crepito": [
-    "krɛpito"
-  ],
-  "crepo": [
-    "krepo"
-  ],
-  "crepuscolare": [
-    "krepuskolare"
-  ],
-  "crepuscolarismo": [
-    "krepuskolarizmo"
-  ],
-  "crepuscoli": [
-    "krɛpuskɔli"
-  ],
-  "crepuscolo": [
-    "krepuskolo",
-    "krɛpuskɔlɔ"
-  ],
-  "crescendo": [
-    "kreʃʃendo",
-    "kreʃʃɛndo"
-  ],
-  "crescente": [
-    "kreʃʃente"
-  ],
-  "crescenti": [
-    "kreʃʃenti"
-  ],
-  "crescenza": [
-    "kreʃʃɛntsa"
-  ],
-  "crescere": [
-    "kreʃʃere"
-  ],
-  "crescimenti": [
-    "kreʃʃimenti"
-  ],
-  "crescimento": [
-    "kreʃʃimento"
-  ],
-  "crescione": [
-    "kreʃʃone"
-  ],
-  "crescioni": [
-    "kreʃʃoni"
-  ],
-  "crescita": [
-    "kreʃʃita"
-  ],
-  "crescite": [
-    "kreʃʃite"
-  ],
-  "cresciuto": [
-    "kreʃʃuto"
-  ],
-  "cresco": [
-    "kresko"
-  ],
-  "cresima": [
-    "krezima",
-    "krɛzima"
-  ],
-  "cresimanda": [
-    "krezimanda"
-  ],
-  "cresimando": [
-    "krezimando"
-  ],
-  "cresimare": [
-    "krezimare"
-  ],
-  "cresimato": [
-    "krezimato"
-  ],
-  "creso": [
-    "krezo",
-    "krɛzo"
-  ],
-  "crespa": [
-    "krespa"
-  ],
-  "crespare": [
-    "krespare"
-  ],
-  "crespella": [
-    "krespɛlːa"
-  ],
-  "crespigno": [
-    "krespiɲɲo"
-  ],
-  "crespino": [
-    "krespino"
-  ],
-  "crespo": [
-    "krespo"
-  ],
-  "cresta": [
-    "kresta",
-    "krɛsta"
-  ],
-  "creste": [
-    "krɛsta"
-  ],
-  "crestina": [
-    "krestina"
-  ],
-  "creta": [
-    "kreta",
-    "krɛta"
-  ],
-  "cretaceo": [
-    "kretatʃeo"
-  ],
-  "cretacico": [
-    "kretatʃiko"
-  ],
-  "cretina": [
-    "kretina"
-  ],
-  "cretinata": [
-    "kretinata"
-  ],
-  "cretine": [
-    "kretine"
-  ],
-  "cretini": [
-    "kretini"
-  ],
-  "cretinismi": [
-    "kretinizmi"
-  ],
-  "cretinismo": [
-    "kretinizmo"
-  ],
-  "cretino": [
-    "kretino"
-  ],
-  "crettare": [
-    "kretːare"
-  ],
-  "crettarsi": [
-    "kretːarsi"
-  ],
-  "crettatura": [
-    "kretːatura"
-  ],
-  "cretto": [
-    "krɛtːo"
-  ],
-  "cribbio": [
-    "kribːjo"
-  ],
-  "cribriforme": [
-    "kribriforme"
-  ],
-  "cric": [
-    "krik"
-  ],
-  "cricca": [
-    "krikːa"
-  ],
-  "cricco": [
-    "krikːo"
-  ],
-  "criceti": [
-    "kritʃɛti"
-  ],
-  "cricetide": [
-    "kritʃɛtide"
-  ],
-  "cricetidi": [
-    "kritʃɛtidi"
-  ],
-  "criceto": [
-    "kritʃeto",
-    "kritʃɛto"
-  ],
-  "cricket": [
-    "kriket",
-    "krikit"
-  ],
-  "crickettista": [
-    "krikːetːista"
-  ],
-  "crickettiste": [
-    "krikːetːiste"
-  ],
-  "crickettisti": [
-    "krikːetːisti"
-  ],
-  "crime": [
-    "krime"
-  ],
-  "criminale": [
-    "kriminale"
-  ],
-  "criminali": [
-    "kriminali"
-  ],
-  "criminalista": [
-    "kriminalista"
-  ],
-  "criminaliste": [
-    "kriminaliste"
-  ],
-  "criminalisti": [
-    "kriminalisti"
-  ],
-  "criminalistica": [
-    "kriminalistika"
-  ],
-  "criminalistiche": [
-    "kriminalistike"
-  ],
-  "criminalistico": [
-    "kriminalistiko"
-  ],
-  "criminalità": [
-    "kriminalita"
-  ],
-  "criminalizzabile": [
-    "kriminalidːzabile"
-  ],
-  "criminalizzabili": [
-    "kriminalidːzabili"
-  ],
-  "criminalizzante": [
-    "kriminalidːʒante"
-  ],
-  "criminalizzare": [
-    "kriminalidːzare",
-    "kriminalidːʒare"
-  ],
-  "criminalizzato": [
-    "kriminalidːʒato"
-  ],
-  "criminalizzazione": [
-    "kriminalidːzatsjone"
-  ],
-  "criminalizzazioni": [
-    "kriminalidːzatsjoni"
-  ],
-  "criminalmente": [
-    "kriminalemente"
-  ],
-  "crimine": [
-    "krimine"
-  ],
-  "crimini": [
-    "krimini"
-  ],
-  "criminogena": [
-    "kriminodʒena"
-  ],
-  "criminogene": [
-    "kriminodʒene"
-  ],
-  "criminogeni": [
-    "kriminodʒeni"
-  ],
-  "criminogeno": [
-    "kriminodʒeno",
-    "kriminɔdʒeno"
-  ],
-  "criminologa": [
-    "kriminoloɡa"
-  ],
-  "criminologhe": [
-    "kriminoloɡe"
-  ],
-  "criminologhi": [
-    "kriminoloɡi"
-  ],
-  "criminologi": [
-    "kriminolodʒi"
-  ],
-  "criminologia": [
-    "kriminolodʒia"
-  ],
-  "criminologica": [
-    "kriminolɔdʒika"
-  ],
-  "criminologiche": [
-    "kriminolɔdʒike"
-  ],
-  "criminologici": [
-    "kriminolɔdʒitʃi"
-  ],
-  "criminologico": [
-    "kriminolɔdʒiko"
-  ],
-  "criminologo": [
-    "kriminoloɡo"
-  ],
-  "criminosa": [
-    "kriminoza"
-  ],
-  "criminosamente": [
-    "kriminozamente"
-  ],
-  "criminose": [
-    "kriminoze"
-  ],
-  "criminosi": [
-    "kriminozi"
-  ],
-  "criminoso": [
-    "kriminoso",
-    "kriminozo"
-  ],
-  "crimpatura": [
-    "krimpatura"
-  ],
-  "crimpature": [
-    "krimpature"
-  ],
-  "crinale": [
-    "krinale"
-  ],
-  "crine": [
-    "krine"
-  ],
-  "crini": [
-    "krini"
-  ],
-  "criniera": [
-    "krinjɛra"
-  ],
-  "criniere": [
-    "krinjɛre"
-  ],
-  "crinito": [
-    "krinito"
-  ],
-  "criobiologia": [
-    "kriobiolodʒia"
-  ],
-  "criobiologica": [
-    "kriobiolɔdʒika"
-  ],
-  "criobiologiche": [
-    "kriobiolɔdʒike"
-  ],
-  "criobiologici": [
-    "kriobiolɔdʒitʃi"
-  ],
-  "criobiologico": [
-    "kriobiolɔdʒiko"
-  ],
-  "criobiologie": [
-    "kriobiolodʒie"
-  ],
-  "criochirurgia": [
-    "kriokirurdʒia"
-  ],
-  "crioconservazione": [
-    "krjokonservatsjone"
-  ],
-  "crioconservazioni": [
-    "krjokonservatsjoni"
-  ],
-  "criogenia": [
-    "kriodʒenia"
-  ],
-  "criopreservazione": [
-    "krjoprezervatsjone"
-  ],
-  "criopreservazioni": [
-    "krjoprezervatsjoni"
-  ],
-  "crioscopi": [
-    "krioskɔpi"
-  ],
-  "crioscopia": [
-    "krioskɔpja"
-  ],
-  "crioscopica": [
-    "krioskɔpika"
-  ],
-  "crioscopiche": [
-    "krioskɔpike"
-  ],
-  "crioscopici": [
-    "krioskɔpitʃi"
-  ],
-  "crioscopico": [
-    "krioskɔpiko"
-  ],
-  "crioscopie": [
-    "krioskɔpje"
-  ],
-  "crioscopio": [
-    "krioskɔpjo"
-  ],
-  "criosfera": [
-    "kriosfera"
-  ],
-  "criosfere": [
-    "kriosfere"
-  ],
-  "cripta": [
-    "kripta"
-  ],
-  "criptare": [
-    "kriptare"
-  ],
-  "cripticità": [
-    "kriptitʃita"
-  ],
-  "criptico": [
-    "kriptiko"
-  ],
-  "cripto": [
-    "kripto"
-  ],
-  "criptococchi": [
-    "i"
-  ],
-  "criptococco": [
-    "kriptokɔkːo"
-  ],
-  "criptococcosi": [
-    "kriptokokːɔzi"
-  ],
-  "criptografico": [
-    "kriptoɡrafiko"
-  ],
-  "criptonimi": [
-    "kriptonimi"
-  ],
-  "criptonimo": [
-    "kriptonimo",
-    "kriptɔnimo"
-  ],
-  "criptoorchidismo": [
-    "kriptoorkidizmo"
-  ],
-  "criptoportico": [
-    "kriptopɔrtiko"
-  ],
-  "criptorchide": [
-    "kriptɔrkide"
-  ],
-  "criptorchidismo": [
-    "kriptorkidizmo"
-  ],
-  "criptozoologia": [
-    "kriptodzoolodʒia"
-  ],
-  "criptozoologica": [
-    "kriptodzoolɔdʒika"
-  ],
-  "criptozoologiche": [
-    "kriptodzoolɔdʒike"
-  ],
-  "criptozoologici": [
-    "kriptodzoolɔdʒitʃi"
-  ],
-  "criptozoologico": [
-    "kriptodzoolɔdʒiko"
-  ],
-  "criptozoologie": [
-    "kriptodzoolodʒie"
-  ],
-  "crisalide": [
-    "krizalide"
-  ],
-  "crisantemi": [
-    "krizantɛmi"
-  ],
-  "crisantemo": [
-    "krizantɛmo"
-  ],
-  "criselefantina": [
-    "krizelefantina"
-  ],
-  "criselefantine": [
-    "krizelefantine"
-  ],
-  "criselefantini": [
-    "krizelefantini"
-  ],
-  "criselefantino": [
-    "krizelefantino"
-  ],
-  "crisi": [
-    "krizi"
-  ],
-  "crisma": [
-    "krizma"
-  ],
-  "crisocalco": [
-    "krizokalko"
-  ],
-  "crisoelefantino": [
-    "krizoelefantino"
-  ],
-  "crisomelidi": [
-    "krizomɛlidi"
-  ],
-  "crispino": [
-    "krispino"
-  ],
-  "cristadelfiano": [
-    "kristadelfiano"
-  ],
-  "cristalli": [
-    "kristalːi"
-  ],
-  "cristallinità": [
-    "kristalːinita"
-  ],
-  "cristallino": [
-    "kristalːino"
-  ],
-  "cristallizzabile": [
-    "kristalːidːzabile"
-  ],
-  "cristallizzabili": [
-    "kristalːidːzabili"
-  ],
-  "cristallizzante": [
-    "kristalːidːzante"
-  ],
-  "cristallizzanti": [
-    "kristalːidːzanti"
-  ],
-  "cristallizzare": [
-    "kristalːidːzare"
-  ],
-  "cristallizzato": [
-    "kristalːidːzato"
-  ],
-  "cristallizzazione": [
-    "kristalːidːzatsjone"
-  ],
-  "cristallo": [
-    "kristalːo"
-  ],
-  "cristalloblastico": [
-    "kristalːoblastiko"
-  ],
-  "cristalloblasto": [
-    "kristalːoblasto"
-  ],
-  "cristalloclastico": [
-    "kristalːoklastiko"
-  ],
-  "cristallografia": [
-    "kristalːoɡrafia",
-    "kristalːoɡrafja"
-  ],
-  "cristallografica": [
-    "kristalːoɡrafika"
-  ],
-  "cristallografiche": [
-    "kristalːoɡrafike"
-  ],
-  "cristallografici": [
-    "kristalːoɡrafitʃi"
-  ],
-  "cristallografo": [
-    "kristalːɔɡrafo"
-  ],
-  "cristalloidi": [
-    "kristalːoidi"
-  ],
-  "cristalloterapia": [
-    "kristalːoterapia"
-  ],
-  "cristianesimo": [
-    "kristjanezimo"
-  ],
-  "cristianizzare": [
-    "kristjanidːzare"
-  ],
-  "cristianizzato": [
-    "kristjanidːzato"
-  ],
-  "cristianizzazione": [
-    "kristjanidːzatːsjone"
-  ],
-  "cristiano": [
-    "kristiano",
-    "kristjano"
-  ],
-  "cristo": [
-    "kristo"
-  ],
-  "cristocentrismo": [
-    "kristotʃentrizmo"
-  ],
-  "cristologia": [
-    "kristolodʒia"
-  ],
-  "cristologica": [
-    "kristolɔdʒika"
-  ],
-  "cristologiche": [
-    "kristolɔdʒike"
-  ],
-  "cristologici": [
-    "kristolɔdʒitʃi"
-  ],
-  "cristologico": [
-    "kristolɔdʒiko"
-  ],
-  "cristologie": [
-    "kristolodʒie"
-  ],
-  "criterio": [
-    "kritɛrjo"
-  ],
-  "critica": [
-    "kritika"
-  ],
-  "criticabile": [
-    "kritikabile"
-  ],
-  "criticabili": [
-    "kritikabili"
-  ],
-  "criticamente": [
-    "kritikamente"
-  ],
-  "criticare": [
-    "kritikare"
-  ],
-  "criticato": [
-    "kritikato"
-  ],
-  "critiche": [
-    "kritike"
-  ],
-  "critici": [
-    "krititʃi"
-  ],
-  "criticismi": [
-    "krititʃizmi"
-  ],
-  "criticismo": [
-    "krititʃizmo"
-  ],
-  "critico": [
-    "kritiko"
-  ],
-  "crittanalista": [
-    "kritːanalista"
-  ],
-  "crittanaliste": [
-    "kritːanaliste"
-  ],
-  "crittanalisti": [
-    "kritːanalisti"
-  ],
-  "crittare": [
-    "kritːare"
-  ],
-  "crittoanalista": [
-    "kritːoanalista"
-  ],
-  "crittoanaliste": [
-    "kritːoanaliste"
-  ],
-  "crittoanalisti": [
-    "kritːoanalisti"
-  ],
-  "crittografia": [
-    "kritːoɡrafia"
-  ],
-  "crittograficamente": [
-    "kritːoɡrafikamente"
-  ],
-  "crittografico": [
-    "kritːoɡrafiko"
-  ],
-  "crittografie": [
-    "kritːoɡrafie"
-  ],
-  "crittologica": [
-    "kritːolɔdʒika"
-  ],
-  "crittologiche": [
-    "kritːolɔdʒike"
-  ],
-  "crittologici": [
-    "kritːolɔdʒitʃi"
-  ],
-  "crittologico": [
-    "kritːolɔdʒiko"
-  ],
-  "crivello": [
-    "rivɛlːo"
-  ],
-  "croata": [
-    "kroata"
-  ],
-  "croate": [
-    "kroate"
-  ],
-  "croati": [
-    "kroati"
-  ],
-  "croato": [
-    "kroato"
-  ],
-  "croazia": [
-    "kroatsja",
-    "kroatːsja",
-    "krɔatːsia"
-  ],
-  "crobilo": [
-    "krɔbilo"
-  ],
-  "croccante": [
-    "krokːante"
-  ],
-  "croccanti": [
-    "krokːanti"
-  ],
-  "crocchetta": [
-    "krokːetːa"
-  ],
-  "crocchette": [
-    "krokːetːe"
-  ],
-  "crocchia": [
-    "krɔkːja"
-  ],
-  "crocchio": [
-    "krɔkːjo"
-  ],
-  "croccolone": [
-    "krokːolone"
-  ],
-  "croce": [
-    "krotʃe",
-    "krɔtʃe"
-  ],
-  "crocefiggere": [
-    "krotʃefidːʒere"
-  ],
-  "crocefissione": [
-    "krotʃefisːjone"
-  ],
-  "crocerista": [
-    "krotʃerista"
-  ],
-  "croceriste": [
-    "krotʃeriste"
-  ],
-  "croceristi": [
-    "krotʃeristi"
-  ],
-  "crocerossina": [
-    "krotʃerosːina"
-  ],
-  "crocesegnare": [
-    "krotʃeseɲɲare"
-  ],
-  "crocesignare": [
-    "krotʃesiɲɲare"
-  ],
-  "crocetta": [
-    "krotʃetːa"
-  ],
-  "crocevia": [
-    "krotʃevia"
-  ],
-  "crociata": [
-    "krotʃata"
-  ],
-  "crociate": [
-    "krotʃate"
-  ],
-  "crociati": [
-    "krotʃati"
-  ],
-  "crociato": [
-    "krotʃato"
-  ],
-  "crocicchi": [
-    "krotʃikːi"
-  ],
-  "crocicchio": [
-    "krotʃikːjo"
-  ],
-  "crociera": [
-    "krotʃera",
-    "krotʃɛra"
-  ],
-  "crociere": [
-    "krotʃere"
-  ],
-  "crocifero": [
-    "krotʃifero"
-  ],
-  "crocifiggere": [
-    "krotʃifidːʒere"
-  ],
-  "crocifissione": [
-    "krotʃifisːjone"
-  ],
-  "crocifisso": [
-    "krotʃifisːo"
-  ],
-  "crociforme": [
-    "krotʃiforme"
-  ],
-  "crociformi": [
-    "krotʃiformi"
-  ],
-  "crocigera": [
-    "krotʃidʒera"
-  ],
-  "crocigere": [
-    "krotʃidʒere"
-  ],
-  "crocigeri": [
-    "krotʃidʒeri"
-  ],
-  "crocigero": [
-    "krotʃidʒero"
-  ],
-  "croco": [
-    "krɔko"
-  ],
-  "crocodili": [
-    "krokodili"
-  ],
-  "crocodilide": [
-    "krokodilide"
-  ],
-  "crocodilidi": [
-    "krokodilidi"
-  ],
-  "crocodilio": [
-    "krokodiljo"
-  ],
-  "crogiolarsi": [
-    "krodʒolarsi"
-  ],
-  "crogiolo": [
-    "krodʒɔlo"
-  ],
-  "croio": [
-    "krɔjo"
-  ],
-  "croissant": [
-    "krwasːan"
-  ],
-  "crollante": [
-    "krolːante"
-  ],
-  "crollare": [
-    "krolːare"
-  ],
-  "crollarsi": [
-    "krolːarsi"
-  ],
-  "crollato": [
-    "krolːato"
-  ],
-  "crollo": [
-    "krɔlːo"
-  ],
-  "croma": [
-    "kroma"
-  ],
-  "cromagnoniano": [
-    "kromaɲɲonjano"
-  ],
-  "cromare": [
-    "kromare"
-  ],
-  "cromatica": [
-    "kromatika"
-  ],
-  "cromatiche": [
-    "kromatike"
-  ],
-  "cromatici": [
-    "kromatitʃi"
-  ],
-  "cromaticità": [
-    "kromatitʃita"
-  ],
-  "cromatico": [
-    "kromatiko"
-  ],
-  "cromatidi": [
-    "kromatidi"
-  ],
-  "cromatidio": [
-    "kromatidjo"
-  ],
-  "cromatina": [
-    "kromatina"
-  ],
-  "cromato": [
-    "kromato"
-  ],
-  "cromatografi": [
-    "kromatoɡrafi"
-  ],
-  "cromatografia": [
-    "kromatoɡrafia"
-  ],
-  "cromatografie": [
-    "kromatoɡrafie"
-  ],
-  "cromatografo": [
-    "kromatoɡrafo"
-  ],
-  "cromatoscopi": [
-    "kromatoskɔpi"
-  ],
-  "cromatoscopia": [
-    "kromatoskɔpja"
-  ],
-  "cromatoscopie": [
-    "kromatoskɔpje"
-  ],
-  "cromatoscopio": [
-    "kromatoskɔpjo"
-  ],
-  "crome": [
-    "krome"
-  ],
-  "cromi": [
-    "krɔmi"
-  ],
-  "cromica": [
-    "krɔmika"
-  ],
-  "cromiche": [
-    "krɔmike"
-  ],
-  "cromici": [
-    "krɔmitʃi"
-  ],
-  "cromico": [
-    "krɔmiko"
-  ],
-  "cromifera": [
-    "kromifera"
-  ],
-  "cromifere": [
-    "kromifere"
-  ],
-  "cromiferi": [
-    "kromiferi"
-  ],
-  "cromifero": [
-    "kromifero"
-  ],
-  "crominanza": [
-    "krɔminantsa"
-  ],
-  "crominanze": [
-    "krɔminantse"
-  ],
-  "cromo": [
-    "krɔmo"
-  ],
-  "cromoargentici": [
-    "kromoardʒɛntitʃi"
-  ],
-  "cromoargentico": [
-    "kromoardʒɛntiko"
-  ],
-  "cromoblasto": [
-    "kromoblasto"
-  ],
-  "cromofotografia": [
-    "kromofɔtoɡrafja"
-  ],
-  "cromofotografie": [
-    "kromofɔtoɡrafje"
-  ],
-  "cromolitografia": [
-    "kromolitoɡrafia"
-  ],
-  "cromolitografie": [
-    "kromolitoɡrafie"
-  ],
-  "cromonimi": [
-    "kromɔnimi"
-  ],
-  "cromonimo": [
-    "kromɔnimo"
-  ],
-  "cromoplasto": [
-    "kromoplasto"
-  ],
-  "cromoproteina": [
-    "krɔmoproteina"
-  ],
-  "cromosfera": [
-    "kromosfɛra"
-  ],
-  "cromosfere": [
-    "kromosfɛre"
-  ],
-  "cromosferica": [
-    "kromosferika"
-  ],
-  "cromosferiche": [
-    "kromosferike"
-  ],
-  "cromosferici": [
-    "kromosferitʃi"
-  ],
-  "cromosferico": [
-    "kromosferiko"
-  ],
-  "cromosoma": [
-    "kromozɔma"
-  ],
-  "cromosomi": [
-    "kromozɔmi"
-  ],
-  "cromosomica": [
-    "kromozɔmika"
-  ],
-  "cromosomiche": [
-    "kromozɔmike"
-  ],
-  "cromosomici": [
-    "kromozɔmitʃi"
-  ],
-  "cromosomico": [
-    "kromosɔmiko",
-    "kromozɔmiko"
-  ],
-  "cromotipia": [
-    "kromotipia"
-  ],
-  "cromotipie": [
-    "kromotipie"
-  ],
-  "cronaca": [
-    "kronaka"
-  ],
-  "cronache": [
-    "kronake"
-  ],
-  "cronachistico": [
-    "kronakistiko"
-  ],
-  "cronica": [
-    "krɔnika"
-  ],
-  "cronicamente": [
-    "krɔnikamente"
-  ],
-  "cronicario": [
-    "kronikarjo"
-  ],
-  "croniche": [
-    "krɔnike"
-  ],
-  "cronici": [
-    "krɔnitʃi"
-  ],
-  "cronicismo": [
-    "kronitʃizmo"
-  ],
-  "cronico": [
-    "krɔniko"
-  ],
-  "cronista": [
-    "kronista"
-  ],
-  "croniste": [
-    "kroniste"
-  ],
-  "cronisti": [
-    "kronisti"
-  ],
-  "cronobiologia": [
-    "krɔnobiolodʒia"
-  ],
-  "cronobiologica": [
-    "krɔnobiolɔdʒika"
-  ],
-  "cronobiologiche": [
-    "krɔnobiolɔdʒike"
-  ],
-  "cronobiologici": [
-    "krɔnobiolɔdʒitʃi"
-  ],
-  "cronobiologico": [
-    "krɔnobiolɔdʒiko"
-  ],
-  "cronobiologie": [
-    "krɔnobiolodʒie"
-  ],
-  "cronofotografia": [
-    "krɔnofotoɡrafia"
-  ],
-  "cronologia": [
-    "kronolodʒia"
-  ],
-  "cronologica": [
-    "kronolɔdʒika"
-  ],
-  "cronologicamente": [
-    "kronolɔdʒikamente"
-  ],
-  "cronologiche": [
-    "kronolɔdʒike"
-  ],
-  "cronologici": [
-    "kronolɔdʒitʃi"
-  ],
-  "cronologico": [
-    "kronolɔdʒiko"
-  ],
-  "cronologie": [
-    "kronolodʒia"
-  ],
-  "cronologista": [
-    "kronolodʒista"
-  ],
-  "cronologiste": [
-    "kronolodʒiste"
-  ],
-  "cronologisti": [
-    "kronolodʒisti"
-  ],
-  "cronometraggi": [
-    "kronometradːʒi"
-  ],
-  "cronometraggio": [
-    "kronometradːʒo"
-  ],
-  "cronometrare": [
-    "kronometrare"
-  ],
-  "cronometri": [
-    "kronɔmetri"
-  ],
-  "cronometria": [
-    "kronometria"
-  ],
-  "cronometrico": [
-    "kronomɛtriko"
-  ],
-  "cronometrista": [
-    "kronometrista"
-  ],
-  "cronometriste": [
-    "kronometriste"
-  ],
-  "cronometristi": [
-    "kronometristi"
-  ],
-  "cronometro": [
-    "kronɔmetro"
-  ],
-  "cronoscopi": [
-    "kronoskɔpi"
-  ],
-  "cronoscopio": [
-    "kronoskɔpjo"
-  ],
-  "cronosecante": [
-    "kronosekante"
-  ],
-  "cronosecanti": [
-    "kronosekanti"
-  ],
-  "cronostratigrafica": [
-    "kronostratiɡrafika"
-  ],
-  "cronostratigrafiche": [
-    "kronostratiɡrafike"
-  ],
-  "cronostratigrafici": [
-    "kronostratiɡrafitʃi"
-  ],
-  "cronostratigrafico": [
-    "kronostratiɡrafiko"
-  ],
-  "cronotassi": [
-    "krɔnotasːi"
-  ]
+  "craniotomia": "kranjotomia",
+  "crapula": "krapula",
+  "crapulare": "krapulare",
+  "crapuloso": "krapulozo",
+  "crasi": "krazi",
+  "crasso": "krasːo",
+  "cratere": "kratɛre",
+  "crateri": "kratɛri",
+  "crauti": "krawti",
+  "cravatta": "kravatːa",
+  "cravattai": "kravatːai",
+  "cravattaia": "kavatːaja",
+  "cravattaie": "kavatːaje",
+  "cravattaio": "kravatːajo",
+  "cravattaro": "kravatːaro",
+  "cravatte": "kravatːe",
+  "craxi": "kraksi",
+  "craxi_2": "kraʃʃi",
+  "craxiano": "kraksjano",
+  "craxismo": "kraksizmo",
+  "creando": "kreando",
+  "creante": "kreante",
+  "creanza": "kreantsa",
+  "creanze": "kreantse",
+  "creare": "kreare",
+  "crearsi": "krearsi",
+  "creatina": "kreatina",
+  "creatinfosfato": "kreatinfosfato",
+  "creatinina": "kreatinina",
+  "creatività": "kreativita",
+  "creativo": "kreativo",
+  "creato": "kreato",
+  "creatore": "kreatore",
+  "creatori": "kreatori",
+  "creatrice": "kreatritʃe",
+  "creatrici": "kreatritʃi",
+  "creatura": "kreatura",
+  "creature": "kreature",
+  "creazione": "kreatsjone",
+  "creazione_2": "kreatːsjone",
+  "creazioni": "kreatsjoni",
+  "creazionismi": "kreatːsjonizmi",
+  "creazionismo": "kreatːsjonizmo",
+  "creazionista": "kreatsjonista",
+  "creazioniste": "kreatsjoniste",
+  "creazionisti": "kreatsjonisti",
+  "creda": "kreda",
+  "crede": "krɛde",
+  "credendo": "kredɛndo",
+  "credente": "kredente",
+  "credente_2": "kredɛnte",
+  "credenti": "kredɛnti",
+  "credenza": "kredɛntsa",
+  "credenze": "kredɛntse",
+  "credenziale": "kredentsjale",
+  "credere": "kredere",
+  "crederò": "krederɔ",
+  "credi": "kredi",
+  "credi_2": "krɛdi",
+  "credibile": "kredibile",
+  "credibili": "kredibili",
+  "credibilità": "kredibilita",
+  "credibilmente": "kredibilmente",
+  "crediti": "krediti",
+  "crediti_2": "krɛditi",
+  "creditizio": "kredititːsjo",
+  "credito": "kredito",
+  "creditore": "kreditore",
+  "creditori": "kreditori",
+  "creditrici": "kreditritʃi",
+  "credo": "kredo",
+  "credo_2": "krɛdo",
+  "credulità": "kredulita",
+  "credulo": "krɛdulo",
+  "credulone": "kredulone",
+  "creduto": "kreduto",
+  "creerà": "kreera",
+  "crei": "krɛi",
+  "crema": "krɛma",
+  "cremagliera": "kremaʎɛra",
+  "cremare": "kremare",
+  "cremasca": "kremaska",
+  "cremasche": "kremaske",
+  "cremaschi": "kremaski",
+  "cremasco": "kremasko",
+  "crematistico": "krematistiko",
+  "crematorio": "krematɔrjo",
+  "cremazione": "krematsjone",
+  "cremazioni": "krematsjoni",
+  "creme": "krɛme",
+  "cremisi": "krɛmizi",
+  "cremnlinologo": "kremlinɔloɡo",
+  "cremona": "kremona",
+  "cremonese": "kremonese",
+  "cremonesi": "kremonesi",
+  "cren": "krɛn",
+  "crenatura": "krenatura",
+  "crenature": "krenature",
+  "crene": "krene",
+  "creo": "kreo",
+  "creo_2": "krɛo",
+  "creola": "krɛola",
+  "creole": "krɛole",
+  "creoli": "krɛoli",
+  "creolina": "kreolina",
+  "creolizzazione": "kreolidːzatsjone",
+  "creolizzazioni": "kreolidːzatsjone",
+  "creolo": "krɛolo",
+  "crepa": "krɛpa",
+  "crepacci": "krepatːʃi",
+  "crepaccio": "krepatːʃo",
+  "crepante": "krepante",
+  "crepare": "krepare",
+  "creparsi": "kreparsi",
+  "crepato": "krepato",
+  "crepitare": "krepitare",
+  "crepitio": "krepitio",
+  "crepito": "krɛpito",
+  "crepo": "krepo",
+  "crepuscolare": "krepuskolare",
+  "crepuscolarismo": "krepuskolarizmo",
+  "crepuscoli": "krɛpuskɔli",
+  "crepuscolo": "krepuskolo",
+  "crepuscolo_2": "krɛpuskɔlɔ",
+  "crescendo": "kreʃʃendo",
+  "crescendo_2": "kreʃʃɛndo",
+  "crescente": "kreʃʃente",
+  "crescenti": "kreʃʃenti",
+  "crescenza": "kreʃʃɛntsa",
+  "crescere": "kreʃʃere",
+  "crescimenti": "kreʃʃimenti",
+  "crescimento": "kreʃʃimento",
+  "crescione": "kreʃʃone",
+  "crescioni": "kreʃʃoni",
+  "crescita": "kreʃʃita",
+  "crescite": "kreʃʃite",
+  "cresciuto": "kreʃʃuto",
+  "cresco": "kresko",
+  "cresima": "krezima",
+  "cresima_2": "krɛzima",
+  "cresimanda": "krezimanda",
+  "cresimando": "krezimando",
+  "cresimare": "krezimare",
+  "cresimato": "krezimato",
+  "creso": "krezo",
+  "creso_2": "krɛzo",
+  "crespa": "krespa",
+  "crespare": "krespare",
+  "crespella": "krespɛlːa",
+  "crespigno": "krespiɲɲo",
+  "crespino": "krespino",
+  "crespo": "krespo",
+  "cresta": "kresta",
+  "cresta_2": "krɛsta",
+  "creste": "krɛsta",
+  "crestina": "krestina",
+  "creta": "kreta",
+  "creta_2": "krɛta",
+  "cretaceo": "kretatʃeo",
+  "cretacico": "kretatʃiko",
+  "cretina": "kretina",
+  "cretinata": "kretinata",
+  "cretine": "kretine",
+  "cretini": "kretini",
+  "cretinismi": "kretinizmi",
+  "cretinismo": "kretinizmo",
+  "cretino": "kretino",
+  "crettare": "kretːare",
+  "crettarsi": "kretːarsi",
+  "crettatura": "kretːatura",
+  "cretto": "krɛtːo",
+  "cribbio": "kribːjo",
+  "cribriforme": "kribriforme",
+  "cric": "krik",
+  "cricca": "krikːa",
+  "cricco": "krikːo",
+  "criceti": "kritʃɛti",
+  "cricetide": "kritʃɛtide",
+  "cricetidi": "kritʃɛtidi",
+  "criceto": "kritʃeto",
+  "criceto_2": "kritʃɛto",
+  "cricket": "kriket",
+  "cricket_2": "krikit",
+  "crickettista": "krikːetːista",
+  "crickettiste": "krikːetːiste",
+  "crickettisti": "krikːetːisti",
+  "crime": "krime",
+  "criminale": "kriminale",
+  "criminali": "kriminali",
+  "criminalista": "kriminalista",
+  "criminaliste": "kriminaliste",
+  "criminalisti": "kriminalisti",
+  "criminalistica": "kriminalistika",
+  "criminalistiche": "kriminalistike",
+  "criminalistico": "kriminalistiko",
+  "criminalità": "kriminalita",
+  "criminalizzabile": "kriminalidːzabile",
+  "criminalizzabili": "kriminalidːzabili",
+  "criminalizzante": "kriminalidːʒante",
+  "criminalizzare": "kriminalidːzare",
+  "criminalizzare_2": "kriminalidːʒare",
+  "criminalizzato": "kriminalidːʒato",
+  "criminalizzazione": "kriminalidːzatsjone",
+  "criminalizzazioni": "kriminalidːzatsjoni",
+  "criminalmente": "kriminalemente",
+  "crimine": "krimine",
+  "crimini": "krimini",
+  "criminogena": "kriminodʒena",
+  "criminogene": "kriminodʒene",
+  "criminogeni": "kriminodʒeni",
+  "criminogeno": "kriminodʒeno",
+  "criminogeno_2": "kriminɔdʒeno",
+  "criminologa": "kriminoloɡa",
+  "criminologhe": "kriminoloɡe",
+  "criminologhi": "kriminoloɡi",
+  "criminologi": "kriminolodʒi",
+  "criminologia": "kriminolodʒia",
+  "criminologica": "kriminolɔdʒika",
+  "criminologiche": "kriminolɔdʒike",
+  "criminologici": "kriminolɔdʒitʃi",
+  "criminologico": "kriminolɔdʒiko",
+  "criminologo": "kriminoloɡo",
+  "criminosa": "kriminoza",
+  "criminosamente": "kriminozamente",
+  "criminose": "kriminoze",
+  "criminosi": "kriminozi",
+  "criminoso": "kriminoso",
+  "criminoso_2": "kriminozo",
+  "crimpatura": "krimpatura",
+  "crimpature": "krimpature",
+  "crinale": "krinale",
+  "crine": "krine",
+  "crini": "krini",
+  "criniera": "krinjɛra",
+  "criniere": "krinjɛre",
+  "crinito": "krinito",
+  "criobiologia": "kriobiolodʒia",
+  "criobiologica": "kriobiolɔdʒika",
+  "criobiologiche": "kriobiolɔdʒike",
+  "criobiologici": "kriobiolɔdʒitʃi",
+  "criobiologico": "kriobiolɔdʒiko",
+  "criobiologie": "kriobiolodʒie",
+  "criochirurgia": "kriokirurdʒia",
+  "crioconservazione": "krjokonservatsjone",
+  "crioconservazioni": "krjokonservatsjoni",
+  "criogenia": "kriodʒenia",
+  "criopreservazione": "krjoprezervatsjone",
+  "criopreservazioni": "krjoprezervatsjoni",
+  "crioscopi": "krioskɔpi",
+  "crioscopia": "krioskɔpja",
+  "crioscopica": "krioskɔpika",
+  "crioscopiche": "krioskɔpike",
+  "crioscopici": "krioskɔpitʃi",
+  "crioscopico": "krioskɔpiko",
+  "crioscopie": "krioskɔpje",
+  "crioscopio": "krioskɔpjo",
+  "criosfera": "kriosfera",
+  "criosfere": "kriosfere",
+  "cripta": "kripta",
+  "criptare": "kriptare",
+  "cripticità": "kriptitʃita",
+  "criptico": "kriptiko",
+  "cripto": "kripto",
+  "criptococchi": "i",
+  "criptococco": "kriptokɔkːo",
+  "criptococcosi": "kriptokokːɔzi",
+  "criptografico": "kriptoɡrafiko",
+  "criptonimi": "kriptonimi",
+  "criptonimo": "kriptonimo",
+  "criptonimo_2": "kriptɔnimo",
+  "criptoorchidismo": "kriptoorkidizmo",
+  "criptoportico": "kriptopɔrtiko",
+  "criptorchide": "kriptɔrkide",
+  "criptorchidismo": "kriptorkidizmo",
+  "criptozoologia": "kriptodzoolodʒia",
+  "criptozoologica": "kriptodzoolɔdʒika",
+  "criptozoologiche": "kriptodzoolɔdʒike",
+  "criptozoologici": "kriptodzoolɔdʒitʃi",
+  "criptozoologico": "kriptodzoolɔdʒiko",
+  "criptozoologie": "kriptodzoolodʒie",
+  "crisalide": "krizalide",
+  "crisantemi": "krizantɛmi",
+  "crisantemo": "krizantɛmo",
+  "criselefantina": "krizelefantina",
+  "criselefantine": "krizelefantine",
+  "criselefantini": "krizelefantini",
+  "criselefantino": "krizelefantino",
+  "crisi": "krizi",
+  "crisma": "krizma",
+  "crisocalco": "krizokalko",
+  "crisoelefantino": "krizoelefantino",
+  "crisomelidi": "krizomɛlidi",
+  "crispino": "krispino",
+  "cristadelfiano": "kristadelfiano",
+  "cristalli": "kristalːi",
+  "cristallinità": "kristalːinita",
+  "cristallino": "kristalːino",
+  "cristallizzabile": "kristalːidːzabile",
+  "cristallizzabili": "kristalːidːzabili",
+  "cristallizzante": "kristalːidːzante",
+  "cristallizzanti": "kristalːidːzanti",
+  "cristallizzare": "kristalːidːzare",
+  "cristallizzato": "kristalːidːzato",
+  "cristallizzazione": "kristalːidːzatsjone",
+  "cristallo": "kristalːo",
+  "cristalloblastico": "kristalːoblastiko",
+  "cristalloblasto": "kristalːoblasto",
+  "cristalloclastico": "kristalːoklastiko",
+  "cristallografia": "kristalːoɡrafia",
+  "cristallografia_2": "kristalːoɡrafja",
+  "cristallografica": "kristalːoɡrafika",
+  "cristallografiche": "kristalːoɡrafike",
+  "cristallografici": "kristalːoɡrafitʃi",
+  "cristallografo": "kristalːɔɡrafo",
+  "cristalloidi": "kristalːoidi",
+  "cristalloterapia": "kristalːoterapia",
+  "cristianesimo": "kristjanezimo",
+  "cristianizzare": "kristjanidːzare",
+  "cristianizzato": "kristjanidːzato",
+  "cristianizzazione": "kristjanidːzatːsjone",
+  "cristiano": "kristiano",
+  "cristiano_2": "kristjano",
+  "cristo": "kristo",
+  "cristocentrismo": "kristotʃentrizmo",
+  "cristologia": "kristolodʒia",
+  "cristologica": "kristolɔdʒika",
+  "cristologiche": "kristolɔdʒike",
+  "cristologici": "kristolɔdʒitʃi",
+  "cristologico": "kristolɔdʒiko",
+  "cristologie": "kristolodʒie",
+  "criterio": "kritɛrjo",
+  "critica": "kritika",
+  "criticabile": "kritikabile",
+  "criticabili": "kritikabili",
+  "criticamente": "kritikamente",
+  "criticare": "kritikare",
+  "criticato": "kritikato",
+  "critiche": "kritike",
+  "critici": "krititʃi",
+  "criticismi": "krititʃizmi",
+  "criticismo": "krititʃizmo",
+  "critico": "kritiko",
+  "crittanalista": "kritːanalista",
+  "crittanaliste": "kritːanaliste",
+  "crittanalisti": "kritːanalisti",
+  "crittare": "kritːare",
+  "crittoanalista": "kritːoanalista",
+  "crittoanaliste": "kritːoanaliste",
+  "crittoanalisti": "kritːoanalisti",
+  "crittografia": "kritːoɡrafia",
+  "crittograficamente": "kritːoɡrafikamente",
+  "crittografico": "kritːoɡrafiko",
+  "crittografie": "kritːoɡrafie",
+  "crittologica": "kritːolɔdʒika",
+  "crittologiche": "kritːolɔdʒike",
+  "crittologici": "kritːolɔdʒitʃi",
+  "crittologico": "kritːolɔdʒiko",
+  "crivello": "rivɛlːo",
+  "croata": "kroata",
+  "croate": "kroate",
+  "croati": "kroati",
+  "croato": "kroato",
+  "croazia": "kroatsja",
+  "croazia_2": "kroatːsja",
+  "croazia_3": "krɔatːsia",
+  "crobilo": "krɔbilo",
+  "croccante": "krokːante",
+  "croccanti": "krokːanti",
+  "crocchetta": "krokːetːa",
+  "crocchette": "krokːetːe",
+  "crocchia": "krɔkːja",
+  "crocchio": "krɔkːjo",
+  "croccolone": "krokːolone",
+  "croce": "krotʃe",
+  "croce_2": "krɔtʃe",
+  "crocefiggere": "krotʃefidːʒere",
+  "crocefissione": "krotʃefisːjone",
+  "crocerista": "krotʃerista",
+  "croceriste": "krotʃeriste",
+  "croceristi": "krotʃeristi",
+  "crocerossina": "krotʃerosːina",
+  "crocesegnare": "krotʃeseɲɲare",
+  "crocesignare": "krotʃesiɲɲare",
+  "crocetta": "krotʃetːa",
+  "crocevia": "krotʃevia",
+  "crociata": "krotʃata",
+  "crociate": "krotʃate",
+  "crociati": "krotʃati",
+  "crociato": "krotʃato",
+  "crocicchi": "krotʃikːi",
+  "crocicchio": "krotʃikːjo",
+  "crociera": "krotʃera",
+  "crociera_2": "krotʃɛra",
+  "crociere": "krotʃere",
+  "crocifero": "krotʃifero",
+  "crocifiggere": "krotʃifidːʒere",
+  "crocifissione": "krotʃifisːjone",
+  "crocifisso": "krotʃifisːo",
+  "crociforme": "krotʃiforme",
+  "crociformi": "krotʃiformi",
+  "crocigera": "krotʃidʒera",
+  "crocigere": "krotʃidʒere",
+  "crocigeri": "krotʃidʒeri",
+  "crocigero": "krotʃidʒero",
+  "croco": "krɔko",
+  "crocodili": "krokodili",
+  "crocodilide": "krokodilide",
+  "crocodilidi": "krokodilidi",
+  "crocodilio": "krokodiljo",
+  "crogiolarsi": "krodʒolarsi",
+  "crogiolo": "krodʒɔlo",
+  "croio": "krɔjo",
+  "croissant": "krwasːan",
+  "crollante": "krolːante",
+  "crollare": "krolːare",
+  "crollarsi": "krolːarsi",
+  "crollato": "krolːato",
+  "crollo": "krɔlːo",
+  "croma": "kroma",
+  "cromagnoniano": "kromaɲɲonjano",
+  "cromare": "kromare",
+  "cromatica": "kromatika",
+  "cromatiche": "kromatike",
+  "cromatici": "kromatitʃi",
+  "cromaticità": "kromatitʃita",
+  "cromatico": "kromatiko",
+  "cromatidi": "kromatidi",
+  "cromatidio": "kromatidjo",
+  "cromatina": "kromatina",
+  "cromato": "kromato",
+  "cromatografi": "kromatoɡrafi",
+  "cromatografia": "kromatoɡrafia",
+  "cromatografie": "kromatoɡrafie",
+  "cromatografo": "kromatoɡrafo",
+  "cromatoscopi": "kromatoskɔpi",
+  "cromatoscopia": "kromatoskɔpja",
+  "cromatoscopie": "kromatoskɔpje",
+  "cromatoscopio": "kromatoskɔpjo",
+  "crome": "krome",
+  "cromi": "krɔmi",
+  "cromica": "krɔmika",
+  "cromiche": "krɔmike",
+  "cromici": "krɔmitʃi",
+  "cromico": "krɔmiko",
+  "cromifera": "kromifera",
+  "cromifere": "kromifere",
+  "cromiferi": "kromiferi",
+  "cromifero": "kromifero",
+  "crominanza": "krɔminantsa",
+  "crominanze": "krɔminantse",
+  "cromo": "krɔmo",
+  "cromoargentici": "kromoardʒɛntitʃi",
+  "cromoargentico": "kromoardʒɛntiko",
+  "cromoblasto": "kromoblasto",
+  "cromofotografia": "kromofɔtoɡrafja",
+  "cromofotografie": "kromofɔtoɡrafje",
+  "cromolitografia": "kromolitoɡrafia",
+  "cromolitografie": "kromolitoɡrafie",
+  "cromonimi": "kromɔnimi",
+  "cromonimo": "kromɔnimo",
+  "cromoplasto": "kromoplasto",
+  "cromoproteina": "krɔmoproteina",
+  "cromosfera": "kromosfɛra",
+  "cromosfere": "kromosfɛre",
+  "cromosferica": "kromosferika",
+  "cromosferiche": "kromosferike",
+  "cromosferici": "kromosferitʃi",
+  "cromosferico": "kromosferiko",
+  "cromosoma": "kromozɔma",
+  "cromosomi": "kromozɔmi",
+  "cromosomica": "kromozɔmika",
+  "cromosomiche": "kromozɔmike",
+  "cromosomici": "kromozɔmitʃi",
+  "cromosomico": "kromosɔmiko",
+  "cromosomico_2": "kromozɔmiko",
+  "cromotipia": "kromotipia",
+  "cromotipie": "kromotipie",
+  "cronaca": "kronaka",
+  "cronache": "kronake",
+  "cronachistico": "kronakistiko",
+  "cronica": "krɔnika",
+  "cronicamente": "krɔnikamente",
+  "cronicario": "kronikarjo",
+  "croniche": "krɔnike",
+  "cronici": "krɔnitʃi",
+  "cronicismo": "kronitʃizmo",
+  "cronico": "krɔniko",
+  "cronista": "kronista",
+  "croniste": "kroniste",
+  "cronisti": "kronisti",
+  "cronobiologia": "krɔnobiolodʒia",
+  "cronobiologica": "krɔnobiolɔdʒika",
+  "cronobiologiche": "krɔnobiolɔdʒike",
+  "cronobiologici": "krɔnobiolɔdʒitʃi",
+  "cronobiologico": "krɔnobiolɔdʒiko",
+  "cronobiologie": "krɔnobiolodʒie",
+  "cronofotografia": "krɔnofotoɡrafia",
+  "cronologia": "kronolodʒia",
+  "cronologica": "kronolɔdʒika",
+  "cronologicamente": "kronolɔdʒikamente",
+  "cronologiche": "kronolɔdʒike",
+  "cronologici": "kronolɔdʒitʃi",
+  "cronologico": "kronolɔdʒiko",
+  "cronologie": "kronolodʒia",
+  "cronologista": "kronolodʒista",
+  "cronologiste": "kronolodʒiste",
+  "cronologisti": "kronolodʒisti",
+  "cronometraggi": "kronometradːʒi",
+  "cronometraggio": "kronometradːʒo",
+  "cronometrare": "kronometrare",
+  "cronometri": "kronɔmetri",
+  "cronometria": "kronometria",
+  "cronometrico": "kronomɛtriko",
+  "cronometrista": "kronometrista",
+  "cronometriste": "kronometriste",
+  "cronometristi": "kronometristi",
+  "cronometro": "kronɔmetro",
+  "cronoscopi": "kronoskɔpi",
+  "cronoscopio": "kronoskɔpjo",
+  "cronosecante": "kronosekante",
+  "cronosecanti": "kronosekanti",
+  "cronostratigrafica": "kronostratiɡrafika",
+  "cronostratigrafiche": "kronostratiɡrafike",
+  "cronostratigrafici": "kronostratiɡrafitʃi",
+  "cronostratigrafico": "kronostratiɡrafiko",
+  "cronotassi": "krɔnotasːi"
 }

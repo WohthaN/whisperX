@@ -1,1541 +1,541 @@
 {
-  "vanghe": [
-    "vanɡe"
-  ],
-  "vania": [
-    "vanja"
-  ],
-  "vanificare": [
-    "vanifikare"
-  ],
-  "vaniglia": [
-    "vaniʎa"
-  ],
-  "vaniloquio": [
-    "vanilɔkwjo"
-  ],
-  "vanità": [
-    "vanita"
-  ],
-  "vanitosa": [
-    "vanitosa"
-  ],
-  "vanitosamente": [
-    "vanitosamente"
-  ],
-  "vanitose": [
-    "vanitose"
-  ],
-  "vanitosi": [
-    "vanitosi"
-  ],
-  "vanitoso": [
-    "vanitoso",
-    "vanitozo",
-    "vanitɔzɔ"
-  ],
-  "vanni": [
-    "vanːi"
-  ],
-  "vanno": [
-    "vanːo"
-  ],
-  "vano": [
-    "vano"
-  ],
-  "vantaggi": [
-    "vantadːʒi"
-  ],
-  "vantaggio": [
-    "vantadːʒo"
-  ],
-  "vantaggiosa": [
-    "vantadːʒosa"
-  ],
-  "vantaggiosamente": [
-    "vantadːʒosamente"
-  ],
-  "vantaggiose": [
-    "vantadːʒose"
-  ],
-  "vantaggiosi": [
-    "vantadːʒosi"
-  ],
-  "vantaggioso": [
-    "vantadːʒoso",
-    "vantadːʒozo"
-  ],
-  "vantante": [
-    "vantante"
-  ],
-  "vantare": [
-    "vantare"
-  ],
-  "vantarsi": [
-    "vantarsi"
-  ],
-  "vantato": [
-    "vantato"
-  ],
-  "vanteria": [
-    "vanteria"
-  ],
-  "vanti": [
-    "vanti"
-  ],
-  "vanto": [
-    "vanto"
-  ],
-  "vanuatu": [
-    "vanuatu"
-  ],
-  "vanuatuana": [
-    "vanuatuana"
-  ],
-  "vanuatuane": [
-    "vanuatuane"
-  ],
-  "vanuatuani": [
-    "vanuatuani"
-  ],
-  "vanuatuano": [
-    "vanuatuano"
-  ],
-  "vanvitelli": [
-    "vanvitɛlːi"
-  ],
-  "vaporare": [
-    "vaporare"
-  ],
-  "vapore": [
-    "vapore"
-  ],
-  "vaporetto": [
-    "vaporetːo"
-  ],
-  "vapori": [
-    "vapori"
-  ],
-  "vaporizzabile": [
-    "vaporidːzabile"
-  ],
-  "vaporizzabili": [
-    "vaporidːzabili"
-  ],
-  "vaporizzante": [
-    "vaporidːʒante"
-  ],
-  "vaporizzare": [
-    "vaporidːzare"
-  ],
-  "vaporizzarsi": [
-    "vaporidːzarsi"
-  ],
-  "vaporizzato": [
-    "vaporidːʒato"
-  ],
-  "vaporizzatore": [
-    "vaporidːzatore"
-  ],
-  "vaporizzatori": [
-    "vaporidːzatori"
-  ],
-  "vaporizzazione": [
-    "vaporidːzatsjone"
-  ],
-  "vaporizzazioni": [
-    "vaporidːzatsjone"
-  ],
-  "vaporoso": [
-    "vaporoso",
-    "vaporozo"
-  ],
-  "vara": [
-    "vara"
-  ],
-  "varanide": [
-    "varanide"
-  ],
-  "varanidi": [
-    "varanidi"
-  ],
-  "varano": [
-    "varano"
-  ],
-  "varare": [
-    "varare"
-  ],
-  "varato": [
-    "varato"
-  ],
-  "varcare": [
-    "varkare"
-  ],
-  "varco": [
-    "varko"
-  ],
-  "varesino": [
-    "varesino"
-  ],
-  "varesotto": [
-    "varezɔtːo"
-  ],
-  "vari": [
-    "vari"
-  ],
-  "varia": [
-    "varja"
-  ],
-  "variabile": [
-    "varjabile"
-  ],
-  "variabili": [
-    "varjabili"
-  ],
-  "variabilissima": [
-    "varjabilisːima"
-  ],
-  "variabilissimamente": [
-    "varjabilisːimamente"
-  ],
-  "variabilissime": [
-    "varjabilisːime"
-  ],
-  "variabilissimi": [
-    "varjabilisːimi"
-  ],
-  "variabilissimo": [
-    "varjabilisːimo"
-  ],
-  "variabilità": [
-    "varjabilita"
-  ],
-  "variabilmente": [
-    "varjabilmente"
-  ],
-  "variamente": [
-    "varjamente"
-  ],
-  "variante": [
-    "varjante"
-  ],
-  "varianza": [
-    "varjantsa"
-  ],
-  "varianze": [
-    "varjantse"
-  ],
-  "variare": [
-    "varjare"
-  ],
-  "variato": [
-    "varjato"
-  ],
-  "variatore": [
-    "varjatore"
-  ],
-  "variatori": [
-    "varjatori"
-  ],
-  "variazione": [
-    "varjatsjone"
-  ],
-  "varice": [
-    "varitʃe"
-  ],
-  "varicella": [
-    "varitʃɛlːa"
-  ],
-  "varicelle": [
-    "varitʃɛlːe"
-  ],
-  "varici": [
-    "varitʃi"
-  ],
-  "varicocele": [
-    "varikotʃele"
-  ],
-  "varicoceli": [
-    "varikotʃeli"
-  ],
-  "varicosa": [
-    "varikosa"
-  ],
-  "varicose": [
-    "varikose"
-  ],
-  "varicosi": [
-    "varikosi"
-  ],
-  "varicoso": [
-    "varikoso"
-  ],
-  "variegato": [
-    "varjeɡato"
-  ],
-  "varietà": [
-    "varjeta"
-  ],
-  "vario": [
-    "varjo"
-  ],
-  "variolizzazione": [
-    "varjolidːzatːsjone"
-  ],
-  "variometro": [
-    "varjɔmetro"
-  ],
-  "variopinto": [
-    "varjopinto"
-  ],
-  "varo": [
-    "varo"
-  ],
-  "varsavia": [
-    "varsavja"
-  ],
-  "vasai": [
-    "vazai"
-  ],
-  "vasaia": [
-    "vazaja"
-  ],
-  "vasaie": [
-    "vazaje"
-  ],
-  "vasaio": [
-    "vazajo"
-  ],
-  "vasca": [
-    "vaska"
-  ],
-  "vascelli": [
-    "vaʃʃɛlːi"
-  ],
-  "vascello": [
-    "vaʃʃɛlːo"
-  ],
-  "vascolare": [
-    "vaskolare"
-  ],
-  "vascolari": [
-    "vaskolari"
-  ],
-  "vascolarizzare": [
-    "vaskolidːzare"
-  ],
-  "vascolarizzarsi": [
-    "vaskolidːzarsi"
-  ],
-  "vascolarizzazione": [
-    "vaskolidːzatːsjone"
-  ],
-  "vascolo": [
-    "vaskolo"
-  ],
-  "vaselina": [
-    "vazelina"
-  ],
-  "vasellame": [
-    "vazelːame"
-  ],
-  "vasello": [
-    "vazɛlːo"
-  ],
-  "vasetto": [
-    "vazetːo"
-  ],
-  "vaso": [
-    "vazo"
-  ],
-  "vasocostrizione": [
-    "vazokostritːsjone"
-  ],
-  "vasocostrizioni": [
-    "vazokostritːsjoni"
-  ],
-  "vasodilatatore": [
-    "vasodilatatore",
-    "vazodilatatore"
-  ],
-  "vasodilatazione": [
-    "vasodilatatsione",
-    "vazodilatatsione",
-    "vazodilatatːsjone"
-  ],
-  "vasodilatazioni": [
-    "vazodilatatːsjoni"
-  ],
-  "vassallaggio": [
-    "vasːalːadːʒo"
-  ],
-  "vassalli": [
-    "vasːalːi"
-  ],
-  "vassallo": [
-    "vasːalːo"
-  ],
-  "vasso": [
-    "vasːo"
-  ],
-  "vassoio": [
-    "vasːojo"
-  ],
-  "vasta": [
-    "vasta"
-  ],
-  "vaste": [
-    "vaste"
-  ],
-  "vasti": [
-    "vasti"
-  ],
-  "vastissimo": [
-    "vastisːimo"
-  ],
-  "vastità": [
-    "vastita"
-  ],
-  "vasto": [
-    "vasto"
-  ],
-  "vate": [
-    "vate"
-  ],
-  "vaticana": [
-    "vatikana"
-  ],
-  "vaticane": [
-    "vatikane"
-  ],
-  "vaticani": [
-    "vatikani"
-  ],
-  "vaticano": [
-    "vatikano"
-  ],
-  "vaticinare": [
-    "vatitʃinare"
-  ],
-  "vaticinatore": [
-    "vatitʃinatore"
-  ],
-  "vaticinio": [
-    "vatitʃinjo"
-  ],
-  "vau": [
-    "vau"
-  ],
-  "ve": [
-    "ve"
-  ],
-  "vecce": [
-    "vetːʃe"
-  ],
-  "vecchi": [
-    "vekːi",
-    "vɛkːi"
-  ],
-  "vecchia": [
-    "vekːja",
-    "vɛkːja"
-  ],
-  "vecchiaccia": [
-    "vekːjatːʃa"
-  ],
-  "vecchiaccio": [
-    "vekːjatːʃo"
-  ],
-  "vecchiaia": [
-    "vekːjaja"
-  ],
-  "vecchiarda": [
-    "vekːjarda"
-  ],
-  "vecchiarde": [
-    "vekːjarde"
-  ],
-  "vecchiardi": [
-    "vekːjardi"
-  ],
-  "vecchiardo": [
-    "vekːjardo"
-  ],
-  "vecchie": [
-    "vekːje"
-  ],
-  "vecchierella": [
-    "vekːjerɛlːa"
-  ],
-  "vecchierello": [
-    "vekːjerɛlːo"
-  ],
-  "vecchietta": [
-    "vekːjetːa"
-  ],
-  "vecchietto": [
-    "vekːjetːo"
-  ],
-  "vecchiezza": [
-    "vekːjetːsa"
-  ],
-  "vecchiezze": [
-    "vekːjetːse"
-  ],
-  "vecchio": [
-    "vekːjo",
-    "vɛkːjo"
-  ],
-  "vecchiona": [
-    "vekːjona"
-  ],
-  "vecchione": [
-    "vekːjone"
-  ],
-  "vecchiotta": [
-    "vekːjotːa"
-  ],
-  "vecchiotte": [
-    "vekːjotːa",
-    "vekːjotːe"
-  ],
-  "vecchiotti": [
-    "vekːjotːi"
-  ],
-  "vecchiotto": [
-    "vekːjotːo",
-    "vekːjɔtːo"
-  ],
-  "vecchissima": [
-    "vekːisːima"
-  ],
-  "vecchissime": [
-    "vekːisːime"
-  ],
-  "vecchissimi": [
-    "vekːisːimi"
-  ],
-  "vecchissimo": [
-    "vekːisːimo"
-  ],
-  "vecchiume": [
-    "vekːjume"
-  ],
-  "vecchiumi": [
-    "vekːjumi"
-  ],
-  "veccia": [
-    "vetːʃa"
-  ],
-  "vece": [
-    "vetʃe"
-  ],
-  "veda": [
-    "veda"
-  ],
-  "vedano": [
-    "vedano"
-  ],
-  "vedda": [
-    "vɛdːa"
-  ],
-  "vede": [
-    "vede"
-  ],
-  "vedemmo": [
-    "vedemːo"
-  ],
-  "vedendo": [
-    "vedendo"
-  ],
-  "vedente": [
-    "vedente",
-    "vedɛnte"
-  ],
-  "vedenti": [
-    "vedenti"
-  ],
-  "vedere": [
-    "vedere"
-  ],
-  "vedersi": [
-    "vedersi"
-  ],
-  "vedesse": [
-    "vedesːe"
-  ],
-  "vedessero": [
-    "vedesːero"
-  ],
-  "vedessi": [
-    "vedesːi"
-  ],
-  "vedessimo": [
-    "vedesːimo"
-  ],
-  "vedeste": [
-    "vedeste"
-  ],
-  "vedesti": [
-    "vedesti"
-  ],
-  "vedete": [
-    "vedete"
-  ],
-  "vedetta": [
-    "vedetːa"
-  ],
-  "vedeva": [
-    "vedeva"
-  ],
-  "vedevamo": [
-    "vedevamo"
-  ],
-  "vedevano": [
-    "vedevano"
-  ],
-  "vedevate": [
-    "vedevate"
-  ],
-  "vedevi": [
-    "vedevi"
-  ],
-  "vedevo": [
-    "vedevo"
-  ],
-  "vedi": [
-    "vedi"
-  ],
-  "vediamo": [
-    "vedjamo"
-  ],
-  "vediate": [
-    "vedjate"
-  ],
-  "vedibile": [
-    "vedibile"
-  ],
-  "vedibili": [
-    "vedibili"
-  ],
-  "vedimento": [
-    "vedimento"
-  ],
-  "vedo": [
-    "vedo"
-  ],
-  "vedono": [
-    "vedono"
-  ],
-  "vedova": [
-    "vedova"
-  ],
-  "vedovaggio": [
-    "vedovadːʒo"
-  ],
-  "vedovanza": [
-    "vedovantsa"
-  ],
-  "vedovanze": [
-    "vedovantse"
-  ],
-  "vedovo": [
-    "vedovo"
-  ],
-  "vedrà": [
-    "vedra"
-  ],
-  "vedrai": [
-    "vedrai"
-  ],
-  "vedranno": [
-    "vedranːo"
-  ],
-  "vedrebbe": [
-    "vedrebːe"
-  ],
-  "vedrebbero": [
-    "vedrebːero"
-  ],
-  "vedrei": [
-    "vedrei"
-  ],
-  "vedremmo": [
-    "vedremːo"
-  ],
-  "vedremo": [
-    "vedremo"
-  ],
-  "vedreste": [
-    "vedreste"
-  ],
-  "vedresti": [
-    "vedresti"
-  ],
-  "vedrete": [
-    "vedrete"
-  ],
-  "vedrò": [
-    "vedro"
-  ],
-  "veduta": [
-    "veduta"
-  ],
-  "vedute": [
-    "vedute"
-  ],
-  "veduti": [
-    "veduti"
-  ],
-  "vedutista": [
-    "vedutista"
-  ],
-  "vedutiste": [
-    "vedutiste"
-  ],
-  "vedutisti": [
-    "vedutisti"
-  ],
-  "veduto": [
-    "radjo",
-    "veduto"
-  ],
-  "veemente": [
-    "veemɛnte"
-  ],
-  "veementemente": [
-    "veementemente"
-  ],
-  "veemenza": [
-    "veemɛntsa"
-  ],
-  "vega": [
-    "vɛɡa"
-  ],
-  "veganismi": [
-    "veɡanizmi"
-  ],
-  "veganismo": [
-    "veɡanizmo"
-  ],
-  "vegano": [
-    "veɡano"
-  ],
-  "vegetabile": [
-    "vedʒetabile"
-  ],
-  "vegetale": [
-    "vedʒetale"
-  ],
-  "vegetali": [
-    "vedʒetali"
-  ],
-  "vegetare": [
-    "vedʒetare"
-  ],
-  "vegetarianismi": [
-    "vedʒetarjanizmi"
-  ],
-  "vegetarianismo": [
-    "vedʒetarjanizmo"
-  ],
-  "vegetariano": [
-    "vedʒetarjano"
-  ],
-  "vegetativa": [
-    "vedʒetativa"
-  ],
-  "vegetative": [
-    "vedʒetative"
-  ],
-  "vegetativi": [
-    "vedʒetativi"
-  ],
-  "vegetativizzazione": [
-    "vedʒetatividːzatːsjone"
-  ],
-  "vegetativo": [
-    "vedʒetativo"
-  ],
-  "vegetato": [
-    "vedʒetato"
-  ],
-  "vegetazione": [
-    "vedʒetatsjone",
-    "vedʒetatːsjone"
-  ],
-  "vegeto": [
-    "vɛdʒeto"
-  ],
-  "vegga": [
-    "veɡːa"
-  ],
-  "veggano": [
-    "veɡːano"
-  ],
-  "veggendo": [
-    "vedːʒendo"
-  ],
-  "veggente": [
-    "vedːʒɛnte"
-  ],
-  "veggenti": [
-    "vedːʒɛnti"
-  ],
-  "vegghiare": [
-    "veɡːjare"
-  ],
-  "veggia": [
-    "vedːʒa"
-  ],
-  "veggiamo": [
-    "vedːʒjamo"
-  ],
-  "veggiano": [
-    "vedːʒano"
-  ],
-  "veggiate": [
-    "vedjate"
-  ],
-  "veggio": [
-    "vedːʒo"
-  ],
-  "veggiono": [
-    "vedːʒono"
-  ],
-  "veggo": [
-    "veɡːo"
-  ],
-  "veggono": [
-    "veɡːono"
-  ],
-  "vegli": [
-    "veʎi",
-    "vɛʎi"
-  ],
-  "veglia": [
-    "veʎa"
-  ],
-  "vegliarda": [
-    "veʎarda"
-  ],
-  "vegliarde": [
-    "veʎarde"
-  ],
-  "vegliardi": [
-    "veʎardo"
-  ],
-  "vegliardo": [
-    "veʎardo"
-  ],
-  "vegliare": [
-    "veʎare"
-  ],
-  "veglie": [
-    "veʎe"
-  ],
-  "veglio": [
-    "veʎo",
-    "vɛʎo"
-  ],
-  "veglione": [
-    "veʎone"
-  ],
-  "veicolare": [
-    "veikolare",
-    "vejkolare"
-  ],
-  "veicolazione": [
-    "veikolatːsjone"
-  ],
-  "veicolazioni": [
-    "veikolatːsjoni"
-  ],
-  "veicoli": [
-    "veikoli"
-  ],
-  "veicolo": [
-    "veikolo"
-  ],
-  "vela": [
-    "vela",
-    "vɛla"
-  ],
-  "velaccio": [
-    "velatːʃo"
-  ],
-  "velame": [
-    "velame"
-  ],
-  "velando": [
-    "velando"
-  ],
-  "velante": [
-    "velante"
-  ],
-  "velare": [
-    "velare"
-  ],
-  "velari": [
-    "velari"
-  ],
-  "velario": [
-    "velarjo"
-  ],
-  "velarizzazione": [
-    "velaridːzatːsjone"
-  ],
-  "velarizzazioni": [
-    "velaridːzatːsjoni"
-  ],
-  "velarsi": [
-    "velarsi"
-  ],
-  "velatamente": [
-    "velatamente"
-  ],
-  "velato": [
-    "velato"
-  ],
-  "velatura": [
-    "velatura"
-  ],
-  "vele": [
-    "vele",
-    "vɛle"
-  ],
-  "veleni": [
-    "veleni"
-  ],
-  "veleno": [
-    "veleno"
-  ],
-  "velenoso": [
-    "velenoso",
-    "velenozo",
-    "vɛlɛnɔzɔ"
-  ],
-  "velia": [
-    "vɛlja"
-  ],
-  "velico": [
-    "vɛliko"
-  ],
-  "veliero": [
-    "veljɛro"
-  ],
-  "velista": [
-    "velista"
-  ],
-  "veliste": [
-    "veliste"
-  ],
-  "velisti": [
-    "velisti"
-  ],
-  "velite": [
-    "vɛlite"
-  ],
-  "velivoli": [
-    "velivoli"
-  ],
-  "velivolo": [
-    "velivolo"
-  ],
-  "velle": [
-    "vɛlːe"
-  ],
-  "velleità": [
-    "velːeita"
-  ],
-  "velleitario": [
-    "velːeitarjo"
-  ],
-  "vellere": [
-    "vɛlːere"
-  ],
-  "vellerismo": [
-    "velːerizmo"
-  ],
-  "vellicare": [
-    "velːikare"
-  ],
-  "vello": [
-    "vɛlːo"
-  ],
-  "vellutata": [
-    "velːutata"
-  ],
-  "vellutate": [
-    "velːutate"
-  ],
-  "vellutati": [
-    "velːutati"
-  ],
-  "vellutato": [
-    "velːutato"
-  ],
-  "velluti": [
-    "velːuti"
-  ],
-  "velluto": [
-    "velːuto"
-  ],
-  "velo": [
-    "velo"
-  ],
-  "veloce": [
-    "velotʃe"
-  ],
-  "velocemente": [
-    "velotʃemente",
-    "vɛlɔtʃemente"
-  ],
-  "veloci": [
-    "velotʃi"
-  ],
-  "velocipede": [
-    "velotʃipede"
-  ],
-  "velocipedi": [
-    "velotʃipedi"
-  ],
-  "velocissima": [
-    "velotʃisːima"
-  ],
-  "velocissimamente": [
-    "vɛlɔtʃisimamente"
-  ],
-  "velocissime": [
-    "velotʃisːime"
-  ],
-  "velocissimi": [
-    "velotʃisːimi"
-  ],
-  "velocissimo": [
-    "velotʃisːimo"
-  ],
-  "velocista": [
-    "velotʃista"
-  ],
-  "velociste": [
-    "velotʃiste"
-  ],
-  "velocisti": [
-    "velotʃisti"
-  ],
-  "velocità": [
-    "velotʃita",
-    "vɛlɔtʃita"
-  ],
-  "velocizzare": [
-    "velokitːsare"
-  ],
-  "velodromi": [
-    "velodrɔmi",
-    "velɔdromi"
-  ],
-  "velodromo": [
-    "velodrɔmo",
-    "velɔdromo"
-  ],
-  "veloruzione": [
-    "velorutːsjone"
-  ],
-  "veloruzioni": [
-    "velorutːsjoni"
-  ],
-  "velostazione": [
-    "velostatsjone"
-  ],
-  "velostazioni": [
-    "velostatsjoni"
-  ],
-  "veltra": [
-    "vɛltra"
-  ],
-  "veltro": [
-    "vɛltro"
-  ],
-  "vena": [
-    "vena",
-    "vɛna"
-  ],
-  "venabulo": [
-    "venabulo"
-  ],
-  "venagione": [
-    "venadʒone"
-  ],
-  "venale": [
-    "venale"
-  ],
-  "venalità": [
-    "venalita"
-  ],
-  "venare": [
-    "venare"
-  ],
-  "venato": [
-    "ve",
-    "venato"
-  ],
-  "venatorio": [
-    "venatɔrjo"
-  ],
-  "venatura": [
-    "venatura"
-  ],
-  "venceslao": [
-    "ventʃeslao"
-  ],
-  "vendemmia": [
-    "vendemːja"
-  ],
-  "vendemmiaio": [
-    "vendemːjajo"
-  ],
-  "vendemmie": [
-    "vendemːje"
-  ],
-  "vendente": [
-    "vendente"
-  ],
-  "vendere": [
-    "vendere"
-  ],
-  "vendersi": [
-    "vendersi"
-  ],
-  "vendetta": [
-    "vendetːa",
-    "vɛndɛtːa"
-  ],
-  "vendette": [
-    "vɛndɛtːe"
-  ],
-  "vendeva": [
-    "vendeva"
-  ],
-  "vendibile": [
-    "vendibile"
-  ],
-  "vendibili": [
-    "vendibili"
-  ],
-  "vendicabile": [
-    "vendikabile"
-  ],
-  "vendicare": [
-    "vendikare"
-  ],
-  "vendicativa": [
-    "vendikativa"
-  ],
-  "vendicative": [
-    "vendikative"
-  ],
-  "vendicativi": [
-    "vendikativi"
-  ],
-  "vendicatività": [
-    "vendikativita"
-  ],
-  "vendicativo": [
-    "vendikativo"
-  ],
-  "vendicato": [
-    "vendikato"
-  ],
-  "vendicatore": [
-    "vendikatore"
-  ],
-  "vendichevole": [
-    "vendikevole"
-  ],
-  "vendifumo": [
-    "vendifumo"
-  ],
-  "vendita": [
-    "vendita"
-  ],
-  "vendite": [
-    "vendite"
-  ],
-  "venditore": [
-    "venditore"
-  ],
-  "venditori": [
-    "venditori"
-  ],
-  "venditrice": [
-    "venditritʃe"
-  ],
-  "venditrici": [
-    "venditritʃi"
-  ],
-  "venduta": [
-    "venduta"
-  ],
-  "vendute": [
-    "vendute"
-  ],
-  "venduti": [
-    "venduti"
-  ],
-  "venduto": [
-    "venduto"
-  ],
-  "vene": [
-    "vɛne"
-  ],
-  "veneficio": [
-    "venefitʃo"
-  ],
-  "venefico": [
-    "venɛfiko"
-  ],
-  "venendo": [
-    "venendo"
-  ],
-  "venera": [
-    "venera"
-  ],
-  "venerabile": [
-    "venerabile"
-  ],
-  "venerabili": [
-    "venerabili"
-  ],
-  "veneranda": [
-    "veneranda"
-  ],
-  "venerando": [
-    "venerando"
-  ],
-  "venerante": [
-    "venerante"
-  ],
-  "veneranti": [
-    "veneranti"
-  ],
-  "venerare": [
-    "venerare",
-    "vɛnɛrare"
-  ],
-  "venerata": [
-    "venerata"
-  ],
-  "venerate": [
-    "venerate"
-  ],
-  "venerati": [
-    "venerati"
-  ],
-  "venerato": [
-    "venerato"
-  ],
-  "veneratore": [
-    "veneratore"
-  ],
-  "veneratori": [
-    "veneratori"
-  ],
-  "veneratrice": [
-    "veneratritʃe"
-  ],
-  "veneratrici": [
-    "veneratritʃi"
-  ],
-  "veneravi": [
-    "veneravi"
-  ],
-  "venerazione": [
-    "veneratsjone"
-  ],
-  "venerdì": [
-    "venerdi"
-  ],
-  "venere": [
-    "vɛnere"
-  ],
-  "venerea": [
-    "venɛrea"
-  ],
-  "veneree": [
-    "venɛree"
-  ],
-  "venerei": [
-    "venɛrei"
-  ],
-  "venereo": [
-    "venɛrea",
-    "venɛreo"
-  ],
-  "venereologia": [
-    "venereolodʒia"
-  ],
-  "venereologo": [
-    "venereɔloɡo"
-  ],
-  "veneri": [
-    "vɛneri"
-  ],
-  "venero": [
-    "venero"
-  ],
-  "veneta": [
-    "vɛneta"
-  ],
-  "venete": [
-    "vɛnete"
-  ],
-  "veneti": [
-    "vɛneti"
-  ],
-  "veneto": [
-    "vɛneto"
-  ],
-  "venezia": [
-    "venɛtːsja"
-  ],
-  "veneziana": [
-    "venetsjana"
-  ],
-  "veneziane": [
-    "venetsjane"
-  ],
-  "veneziani": [
-    "venetsjani"
-  ],
-  "veneziano": [
-    "venetsjano",
-    "venetːsjano"
-  ],
-  "venezolana": [
-    "venetːsolana"
-  ],
-  "venezolane": [
-    "venetːsolane"
-  ],
-  "venezolani": [
-    "venetːsolani"
-  ],
-  "venezolano": [
-    "venetːsolano"
-  ],
-  "venezuela": [
-    "venedːzuɛla",
-    "venetːsuɛla"
-  ],
-  "venezuelana": [
-    "venetːsuelana"
-  ],
-  "venezuelane": [
-    "venetːsuelane"
-  ],
-  "venezuelani": [
-    "venetːsuelani"
-  ],
-  "venezuelano": [
-    "venetːsuelano"
-  ],
-  "venga": [
-    "venɡa",
-    "veɲɡa"
-  ],
-  "vengiare": [
-    "vendʒare"
-  ],
-  "vengo": [
-    "venɡo",
-    "veɲɡo",
-    "vɛnɡo"
-  ],
-  "vengono": [
-    "venɡono"
-  ],
-  "venia": [
-    "venia"
-  ],
-  "veniale": [
-    "venjale"
-  ],
-  "veniamo": [
-    "venjamo"
-  ],
-  "veniate": [
-    "venjate"
-  ],
-  "veniente": [
-    "venjente",
-    "venjɛnte"
-  ],
-  "venienti": [
-    "venjɛnti"
-  ],
-  "venier": [
-    "venjɛr"
-  ],
-  "venimmo": [
-    "venimːo"
-  ],
-  "venire": [
-    "venire"
-  ],
-  "venisse": [
-    "venisːe"
-  ],
-  "venissero": [
-    "venisːero"
-  ],
-  "venissi": [
-    "venisːi"
-  ],
-  "venissimo": [
-    "venisːimo"
-  ],
-  "veniste": [
-    "veniste"
-  ],
-  "venisti": [
-    "venisti"
-  ],
-  "venite": [
-    "venite"
-  ],
-  "veniva": [
-    "veniva"
-  ],
-  "venivamo": [
-    "venivamo"
-  ],
-  "venivano": [
-    "venivano"
-  ],
-  "venivate": [
-    "venivate"
-  ],
-  "venivi": [
-    "venivi"
-  ],
-  "venivo": [
-    "venivo"
-  ],
-  "venne": [
-    "venːe"
-  ],
-  "vennero": [
-    "venːero"
-  ],
-  "venni": [
-    "venːi"
-  ],
-  "venosa": [
-    "venosa"
-  ],
-  "venose": [
-    "venose"
-  ],
-  "venosi": [
-    "venosi"
-  ],
-  "venoso": [
-    "venoso",
-    "venozo"
-  ],
-  "ventagli": [
-    "ventaʎi"
-  ],
-  "ventaglio": [
-    "ventaʎo"
-  ],
-  "ventata": [
-    "ventata"
-  ],
-  "ventennale": [
-    "ventenːale"
-  ],
-  "ventennalmente": [
-    "ventenːalmente"
-  ],
-  "ventenne": [
-    "ventɛnːe"
-  ],
-  "ventesimo": [
-    "ventɛzimo"
-  ],
-  "venti": [
-    "venti",
-    "vɛnti"
-  ],
-  "venticello": [
-    "ventitʃɛlːo"
-  ],
-  "venticinque": [
-    "ventitʃinkwe"
-  ],
-  "venticinquenne": [
-    "ventitʃinkwɛnːe"
-  ],
-  "ventiduenne": [
-    "ventiduɛnːe"
-  ],
-  "ventiduesimo": [
-    "ventiduɛzimo"
-  ],
-  "ventila": [
-    "ventila"
-  ],
-  "ventilai": [
-    "ventilai"
-  ],
-  "ventilando": [
-    "ventilando"
-  ],
-  "ventilante": [
-    "ventilante"
-  ],
-  "ventilare": [
-    "ventilare"
-  ],
-  "ventilasse": [
-    "ventilasːe"
-  ],
-  "ventilata": [
-    "ventilata"
-  ],
-  "ventilate": [
-    "ventilate"
-  ],
-  "ventilati": [
-    "ventilati"
-  ],
-  "ventilato": [
-    "ventilato"
-  ],
-  "ventilatore": [
-    "ventilatore"
-  ],
-  "ventilatori": [
-    "ventilatori"
-  ],
-  "ventilazione": [
-    "ventilatːsjone"
-  ],
-  "ventilazioni": [
-    "ventilatːsjoni"
-  ],
-  "ventilo": [
-    "ventilo"
-  ],
-  "ventimiglia": [
-    "ventimiʎa"
-  ],
-  "ventimila": [
-    "ventimila"
-  ],
-  "ventina": [
-    "ventina"
-  ]
+  "vanghe": "vanɡe",
+  "vania": "vanja",
+  "vanificare": "vanifikare",
+  "vaniglia": "vaniʎa",
+  "vaniloquio": "vanilɔkwjo",
+  "vanità": "vanita",
+  "vanitosa": "vanitosa",
+  "vanitosamente": "vanitosamente",
+  "vanitose": "vanitose",
+  "vanitosi": "vanitosi",
+  "vanitoso": "vanitoso",
+  "vanitoso_2": "vanitozo",
+  "vanitoso_3": "vanitɔzɔ",
+  "vanni": "vanːi",
+  "vanno": "vanːo",
+  "vano": "vano",
+  "vantaggi": "vantadːʒi",
+  "vantaggio": "vantadːʒo",
+  "vantaggiosa": "vantadːʒosa",
+  "vantaggiosamente": "vantadːʒosamente",
+  "vantaggiose": "vantadːʒose",
+  "vantaggiosi": "vantadːʒosi",
+  "vantaggioso": "vantadːʒoso",
+  "vantaggioso_2": "vantadːʒozo",
+  "vantante": "vantante",
+  "vantare": "vantare",
+  "vantarsi": "vantarsi",
+  "vantato": "vantato",
+  "vanteria": "vanteria",
+  "vanti": "vanti",
+  "vanto": "vanto",
+  "vanuatu": "vanuatu",
+  "vanuatuana": "vanuatuana",
+  "vanuatuane": "vanuatuane",
+  "vanuatuani": "vanuatuani",
+  "vanuatuano": "vanuatuano",
+  "vanvitelli": "vanvitɛlːi",
+  "vaporare": "vaporare",
+  "vapore": "vapore",
+  "vaporetto": "vaporetːo",
+  "vapori": "vapori",
+  "vaporizzabile": "vaporidːzabile",
+  "vaporizzabili": "vaporidːzabili",
+  "vaporizzante": "vaporidːʒante",
+  "vaporizzare": "vaporidːzare",
+  "vaporizzarsi": "vaporidːzarsi",
+  "vaporizzato": "vaporidːʒato",
+  "vaporizzatore": "vaporidːzatore",
+  "vaporizzatori": "vaporidːzatori",
+  "vaporizzazione": "vaporidːzatsjone",
+  "vaporizzazioni": "vaporidːzatsjone",
+  "vaporoso": "vaporoso",
+  "vaporoso_2": "vaporozo",
+  "vara": "vara",
+  "varanide": "varanide",
+  "varanidi": "varanidi",
+  "varano": "varano",
+  "varare": "varare",
+  "varato": "varato",
+  "varcare": "varkare",
+  "varco": "varko",
+  "varesino": "varesino",
+  "varesotto": "varezɔtːo",
+  "vari": "vari",
+  "varia": "varja",
+  "variabile": "varjabile",
+  "variabili": "varjabili",
+  "variabilissima": "varjabilisːima",
+  "variabilissimamente": "varjabilisːimamente",
+  "variabilissime": "varjabilisːime",
+  "variabilissimi": "varjabilisːimi",
+  "variabilissimo": "varjabilisːimo",
+  "variabilità": "varjabilita",
+  "variabilmente": "varjabilmente",
+  "variamente": "varjamente",
+  "variante": "varjante",
+  "varianza": "varjantsa",
+  "varianze": "varjantse",
+  "variare": "varjare",
+  "variato": "varjato",
+  "variatore": "varjatore",
+  "variatori": "varjatori",
+  "variazione": "varjatsjone",
+  "varice": "varitʃe",
+  "varicella": "varitʃɛlːa",
+  "varicelle": "varitʃɛlːe",
+  "varici": "varitʃi",
+  "varicocele": "varikotʃele",
+  "varicoceli": "varikotʃeli",
+  "varicosa": "varikosa",
+  "varicose": "varikose",
+  "varicosi": "varikosi",
+  "varicoso": "varikoso",
+  "variegato": "varjeɡato",
+  "varietà": "varjeta",
+  "vario": "varjo",
+  "variolizzazione": "varjolidːzatːsjone",
+  "variometro": "varjɔmetro",
+  "variopinto": "varjopinto",
+  "varo": "varo",
+  "varsavia": "varsavja",
+  "vasai": "vazai",
+  "vasaia": "vazaja",
+  "vasaie": "vazaje",
+  "vasaio": "vazajo",
+  "vasca": "vaska",
+  "vascelli": "vaʃʃɛlːi",
+  "vascello": "vaʃʃɛlːo",
+  "vascolare": "vaskolare",
+  "vascolari": "vaskolari",
+  "vascolarizzare": "vaskolidːzare",
+  "vascolarizzarsi": "vaskolidːzarsi",
+  "vascolarizzazione": "vaskolidːzatːsjone",
+  "vascolo": "vaskolo",
+  "vaselina": "vazelina",
+  "vasellame": "vazelːame",
+  "vasello": "vazɛlːo",
+  "vasetto": "vazetːo",
+  "vaso": "vazo",
+  "vasocostrizione": "vazokostritːsjone",
+  "vasocostrizioni": "vazokostritːsjoni",
+  "vasodilatatore": "vasodilatatore",
+  "vasodilatatore_2": "vazodilatatore",
+  "vasodilatazione": "vasodilatatsione",
+  "vasodilatazione_2": "vazodilatatsione",
+  "vasodilatazione_3": "vazodilatatːsjone",
+  "vasodilatazioni": "vazodilatatːsjoni",
+  "vassallaggio": "vasːalːadːʒo",
+  "vassalli": "vasːalːi",
+  "vassallo": "vasːalːo",
+  "vasso": "vasːo",
+  "vassoio": "vasːojo",
+  "vasta": "vasta",
+  "vaste": "vaste",
+  "vasti": "vasti",
+  "vastissimo": "vastisːimo",
+  "vastità": "vastita",
+  "vasto": "vasto",
+  "vate": "vate",
+  "vaticana": "vatikana",
+  "vaticane": "vatikane",
+  "vaticani": "vatikani",
+  "vaticano": "vatikano",
+  "vaticinare": "vatitʃinare",
+  "vaticinatore": "vatitʃinatore",
+  "vaticinio": "vatitʃinjo",
+  "vau": "vau",
+  "ve": "ve",
+  "vecce": "vetːʃe",
+  "vecchi": "vekːi",
+  "vecchi_2": "vɛkːi",
+  "vecchia": "vekːja",
+  "vecchia_2": "vɛkːja",
+  "vecchiaccia": "vekːjatːʃa",
+  "vecchiaccio": "vekːjatːʃo",
+  "vecchiaia": "vekːjaja",
+  "vecchiarda": "vekːjarda",
+  "vecchiarde": "vekːjarde",
+  "vecchiardi": "vekːjardi",
+  "vecchiardo": "vekːjardo",
+  "vecchie": "vekːje",
+  "vecchierella": "vekːjerɛlːa",
+  "vecchierello": "vekːjerɛlːo",
+  "vecchietta": "vekːjetːa",
+  "vecchietto": "vekːjetːo",
+  "vecchiezza": "vekːjetːsa",
+  "vecchiezze": "vekːjetːse",
+  "vecchio": "vekːjo",
+  "vecchio_2": "vɛkːjo",
+  "vecchiona": "vekːjona",
+  "vecchione": "vekːjone",
+  "vecchiotta": "vekːjotːa",
+  "vecchiotte": "vekːjotːa",
+  "vecchiotte_2": "vekːjotːe",
+  "vecchiotti": "vekːjotːi",
+  "vecchiotto": "vekːjotːo",
+  "vecchiotto_2": "vekːjɔtːo",
+  "vecchissima": "vekːisːima",
+  "vecchissime": "vekːisːime",
+  "vecchissimi": "vekːisːimi",
+  "vecchissimo": "vekːisːimo",
+  "vecchiume": "vekːjume",
+  "vecchiumi": "vekːjumi",
+  "veccia": "vetːʃa",
+  "vece": "vetʃe",
+  "veda": "veda",
+  "vedano": "vedano",
+  "vedda": "vɛdːa",
+  "vede": "vede",
+  "vedemmo": "vedemːo",
+  "vedendo": "vedendo",
+  "vedente": "vedente",
+  "vedente_2": "vedɛnte",
+  "vedenti": "vedenti",
+  "vedere": "vedere",
+  "vedersi": "vedersi",
+  "vedesse": "vedesːe",
+  "vedessero": "vedesːero",
+  "vedessi": "vedesːi",
+  "vedessimo": "vedesːimo",
+  "vedeste": "vedeste",
+  "vedesti": "vedesti",
+  "vedete": "vedete",
+  "vedetta": "vedetːa",
+  "vedeva": "vedeva",
+  "vedevamo": "vedevamo",
+  "vedevano": "vedevano",
+  "vedevate": "vedevate",
+  "vedevi": "vedevi",
+  "vedevo": "vedevo",
+  "vedi": "vedi",
+  "vediamo": "vedjamo",
+  "vediate": "vedjate",
+  "vedibile": "vedibile",
+  "vedibili": "vedibili",
+  "vedimento": "vedimento",
+  "vedo": "vedo",
+  "vedono": "vedono",
+  "vedova": "vedova",
+  "vedovaggio": "vedovadːʒo",
+  "vedovanza": "vedovantsa",
+  "vedovanze": "vedovantse",
+  "vedovo": "vedovo",
+  "vedrà": "vedra",
+  "vedrai": "vedrai",
+  "vedranno": "vedranːo",
+  "vedrebbe": "vedrebːe",
+  "vedrebbero": "vedrebːero",
+  "vedrei": "vedrei",
+  "vedremmo": "vedremːo",
+  "vedremo": "vedremo",
+  "vedreste": "vedreste",
+  "vedresti": "vedresti",
+  "vedrete": "vedrete",
+  "vedrò": "vedro",
+  "veduta": "veduta",
+  "vedute": "vedute",
+  "veduti": "veduti",
+  "vedutista": "vedutista",
+  "vedutiste": "vedutiste",
+  "vedutisti": "vedutisti",
+  "veduto": "radjo",
+  "veduto_2": "veduto",
+  "veemente": "veemɛnte",
+  "veementemente": "veementemente",
+  "veemenza": "veemɛntsa",
+  "vega": "vɛɡa",
+  "veganismi": "veɡanizmi",
+  "veganismo": "veɡanizmo",
+  "vegano": "veɡano",
+  "vegetabile": "vedʒetabile",
+  "vegetale": "vedʒetale",
+  "vegetali": "vedʒetali",
+  "vegetare": "vedʒetare",
+  "vegetarianismi": "vedʒetarjanizmi",
+  "vegetarianismo": "vedʒetarjanizmo",
+  "vegetariano": "vedʒetarjano",
+  "vegetativa": "vedʒetativa",
+  "vegetative": "vedʒetative",
+  "vegetativi": "vedʒetativi",
+  "vegetativizzazione": "vedʒetatividːzatːsjone",
+  "vegetativo": "vedʒetativo",
+  "vegetato": "vedʒetato",
+  "vegetazione": "vedʒetatsjone",
+  "vegetazione_2": "vedʒetatːsjone",
+  "vegeto": "vɛdʒeto",
+  "vegga": "veɡːa",
+  "veggano": "veɡːano",
+  "veggendo": "vedːʒendo",
+  "veggente": "vedːʒɛnte",
+  "veggenti": "vedːʒɛnti",
+  "vegghiare": "veɡːjare",
+  "veggia": "vedːʒa",
+  "veggiamo": "vedːʒjamo",
+  "veggiano": "vedːʒano",
+  "veggiate": "vedjate",
+  "veggio": "vedːʒo",
+  "veggiono": "vedːʒono",
+  "veggo": "veɡːo",
+  "veggono": "veɡːono",
+  "vegli": "veʎi",
+  "vegli_2": "vɛʎi",
+  "veglia": "veʎa",
+  "vegliarda": "veʎarda",
+  "vegliarde": "veʎarde",
+  "vegliardi": "veʎardo",
+  "vegliardo": "veʎardo",
+  "vegliare": "veʎare",
+  "veglie": "veʎe",
+  "veglio": "veʎo",
+  "veglio_2": "vɛʎo",
+  "veglione": "veʎone",
+  "veicolare": "veikolare",
+  "veicolare_2": "vejkolare",
+  "veicolazione": "veikolatːsjone",
+  "veicolazioni": "veikolatːsjoni",
+  "veicoli": "veikoli",
+  "veicolo": "veikolo",
+  "vela": "vela",
+  "vela_2": "vɛla",
+  "velaccio": "velatːʃo",
+  "velame": "velame",
+  "velando": "velando",
+  "velante": "velante",
+  "velare": "velare",
+  "velari": "velari",
+  "velario": "velarjo",
+  "velarizzazione": "velaridːzatːsjone",
+  "velarizzazioni": "velaridːzatːsjoni",
+  "velarsi": "velarsi",
+  "velatamente": "velatamente",
+  "velato": "velato",
+  "velatura": "velatura",
+  "vele": "vele",
+  "vele_2": "vɛle",
+  "veleni": "veleni",
+  "veleno": "veleno",
+  "velenoso": "velenoso",
+  "velenoso_2": "velenozo",
+  "velenoso_3": "vɛlɛnɔzɔ",
+  "velia": "vɛlja",
+  "velico": "vɛliko",
+  "veliero": "veljɛro",
+  "velista": "velista",
+  "veliste": "veliste",
+  "velisti": "velisti",
+  "velite": "vɛlite",
+  "velivoli": "velivoli",
+  "velivolo": "velivolo",
+  "velle": "vɛlːe",
+  "velleità": "velːeita",
+  "velleitario": "velːeitarjo",
+  "vellere": "vɛlːere",
+  "vellerismo": "velːerizmo",
+  "vellicare": "velːikare",
+  "vello": "vɛlːo",
+  "vellutata": "velːutata",
+  "vellutate": "velːutate",
+  "vellutati": "velːutati",
+  "vellutato": "velːutato",
+  "velluti": "velːuti",
+  "velluto": "velːuto",
+  "velo": "velo",
+  "veloce": "velotʃe",
+  "velocemente": "velotʃemente",
+  "velocemente_2": "vɛlɔtʃemente",
+  "veloci": "velotʃi",
+  "velocipede": "velotʃipede",
+  "velocipedi": "velotʃipedi",
+  "velocissima": "velotʃisːima",
+  "velocissimamente": "vɛlɔtʃisimamente",
+  "velocissime": "velotʃisːime",
+  "velocissimi": "velotʃisːimi",
+  "velocissimo": "velotʃisːimo",
+  "velocista": "velotʃista",
+  "velociste": "velotʃiste",
+  "velocisti": "velotʃisti",
+  "velocità": "velotʃita",
+  "velocità_2": "vɛlɔtʃita",
+  "velocizzare": "velokitːsare",
+  "velodromi": "velodrɔmi",
+  "velodromi_2": "velɔdromi",
+  "velodromo": "velodrɔmo",
+  "velodromo_2": "velɔdromo",
+  "veloruzione": "velorutːsjone",
+  "veloruzioni": "velorutːsjoni",
+  "velostazione": "velostatsjone",
+  "velostazioni": "velostatsjoni",
+  "veltra": "vɛltra",
+  "veltro": "vɛltro",
+  "vena": "vena",
+  "vena_2": "vɛna",
+  "venabulo": "venabulo",
+  "venagione": "venadʒone",
+  "venale": "venale",
+  "venalità": "venalita",
+  "venare": "venare",
+  "venato": "ve",
+  "venato_2": "venato",
+  "venatorio": "venatɔrjo",
+  "venatura": "venatura",
+  "venceslao": "ventʃeslao",
+  "vendemmia": "vendemːja",
+  "vendemmiaio": "vendemːjajo",
+  "vendemmie": "vendemːje",
+  "vendente": "vendente",
+  "vendere": "vendere",
+  "vendersi": "vendersi",
+  "vendetta": "vendetːa",
+  "vendetta_2": "vɛndɛtːa",
+  "vendette": "vɛndɛtːe",
+  "vendeva": "vendeva",
+  "vendibile": "vendibile",
+  "vendibili": "vendibili",
+  "vendicabile": "vendikabile",
+  "vendicare": "vendikare",
+  "vendicativa": "vendikativa",
+  "vendicative": "vendikative",
+  "vendicativi": "vendikativi",
+  "vendicatività": "vendikativita",
+  "vendicativo": "vendikativo",
+  "vendicato": "vendikato",
+  "vendicatore": "vendikatore",
+  "vendichevole": "vendikevole",
+  "vendifumo": "vendifumo",
+  "vendita": "vendita",
+  "vendite": "vendite",
+  "venditore": "venditore",
+  "venditori": "venditori",
+  "venditrice": "venditritʃe",
+  "venditrici": "venditritʃi",
+  "venduta": "venduta",
+  "vendute": "vendute",
+  "venduti": "venduti",
+  "venduto": "venduto",
+  "vene": "vɛne",
+  "veneficio": "venefitʃo",
+  "venefico": "venɛfiko",
+  "venendo": "venendo",
+  "venera": "venera",
+  "venerabile": "venerabile",
+  "venerabili": "venerabili",
+  "veneranda": "veneranda",
+  "venerando": "venerando",
+  "venerante": "venerante",
+  "veneranti": "veneranti",
+  "venerare": "venerare",
+  "venerare_2": "vɛnɛrare",
+  "venerata": "venerata",
+  "venerate": "venerate",
+  "venerati": "venerati",
+  "venerato": "venerato",
+  "veneratore": "veneratore",
+  "veneratori": "veneratori",
+  "veneratrice": "veneratritʃe",
+  "veneratrici": "veneratritʃi",
+  "veneravi": "veneravi",
+  "venerazione": "veneratsjone",
+  "venerdì": "venerdi",
+  "venere": "vɛnere",
+  "venerea": "venɛrea",
+  "veneree": "venɛree",
+  "venerei": "venɛrei",
+  "venereo": "venɛrea",
+  "venereo_2": "venɛreo",
+  "venereologia": "venereolodʒia",
+  "venereologo": "venereɔloɡo",
+  "veneri": "vɛneri",
+  "venero": "venero",
+  "veneta": "vɛneta",
+  "venete": "vɛnete",
+  "veneti": "vɛneti",
+  "veneto": "vɛneto",
+  "venezia": "venɛtːsja",
+  "veneziana": "venetsjana",
+  "veneziane": "venetsjane",
+  "veneziani": "venetsjani",
+  "veneziano": "venetsjano",
+  "veneziano_2": "venetːsjano",
+  "venezolana": "venetːsolana",
+  "venezolane": "venetːsolane",
+  "venezolani": "venetːsolani",
+  "venezolano": "venetːsolano",
+  "venezuela": "venedːzuɛla",
+  "venezuela_2": "venetːsuɛla",
+  "venezuelana": "venetːsuelana",
+  "venezuelane": "venetːsuelane",
+  "venezuelani": "venetːsuelani",
+  "venezuelano": "venetːsuelano",
+  "venga": "venɡa",
+  "venga_2": "veɲɡa",
+  "vengiare": "vendʒare",
+  "vengo": "venɡo",
+  "vengo_2": "veɲɡo",
+  "vengo_3": "vɛnɡo",
+  "vengono": "venɡono",
+  "venia": "venia",
+  "veniale": "venjale",
+  "veniamo": "venjamo",
+  "veniate": "venjate",
+  "veniente": "venjente",
+  "veniente_2": "venjɛnte",
+  "venienti": "venjɛnti",
+  "venier": "venjɛr",
+  "venimmo": "venimːo",
+  "venire": "venire",
+  "venisse": "venisːe",
+  "venissero": "venisːero",
+  "venissi": "venisːi",
+  "venissimo": "venisːimo",
+  "veniste": "veniste",
+  "venisti": "venisti",
+  "venite": "venite",
+  "veniva": "veniva",
+  "venivamo": "venivamo",
+  "venivano": "venivano",
+  "venivate": "venivate",
+  "venivi": "venivi",
+  "venivo": "venivo",
+  "venne": "venːe",
+  "vennero": "venːero",
+  "venni": "venːi",
+  "venosa": "venosa",
+  "venose": "venose",
+  "venosi": "venosi",
+  "venoso": "venoso",
+  "venoso_2": "venozo",
+  "ventagli": "ventaʎi",
+  "ventaglio": "ventaʎo",
+  "ventata": "ventata",
+  "ventennale": "ventenːale",
+  "ventennalmente": "ventenːalmente",
+  "ventenne": "ventɛnːe",
+  "ventesimo": "ventɛzimo",
+  "venti": "venti",
+  "venti_2": "vɛnti",
+  "venticello": "ventitʃɛlːo",
+  "venticinque": "ventitʃinkwe",
+  "venticinquenne": "ventitʃinkwɛnːe",
+  "ventiduenne": "ventiduɛnːe",
+  "ventiduesimo": "ventiduɛzimo",
+  "ventila": "ventila",
+  "ventilai": "ventilai",
+  "ventilando": "ventilando",
+  "ventilante": "ventilante",
+  "ventilare": "ventilare",
+  "ventilasse": "ventilasːe",
+  "ventilata": "ventilata",
+  "ventilate": "ventilate",
+  "ventilati": "ventilati",
+  "ventilato": "ventilato",
+  "ventilatore": "ventilatore",
+  "ventilatori": "ventilatori",
+  "ventilazione": "ventilatːsjone",
+  "ventilazioni": "ventilatːsjoni",
+  "ventilo": "ventilo",
+  "ventimiglia": "ventimiʎa",
+  "ventimila": "ventimila",
+  "ventina": "ventina"
 }

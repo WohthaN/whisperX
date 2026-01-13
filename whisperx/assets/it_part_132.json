@@ -1,1533 +1,533 @@
 {
-  "pigramente": [
-    "piɡramente"
-  ],
-  "pigre": [
-    "piɡre"
-  ],
-  "pigrezza": [
-    "piɡretːsa"
-  ],
-  "pigrezze": [
-    "piɡretːse"
-  ],
-  "pigri": [
-    "piɡri"
-  ],
-  "pigrissima": [
-    "piɡrisːima"
-  ],
-  "pigrissime": [
-    "piɡrisːime"
-  ],
-  "pigrissimi": [
-    "piɡrisːimi"
-  ],
-  "pigrissimo": [
-    "piɡrisːimo"
-  ],
-  "pigrizia": [
-    "piɡritːsja"
-  ],
-  "pigrizie": [
-    "piɡritːsje"
-  ],
-  "pigro": [
-    "piɡro"
-  ],
-  "pigrone": [
-    "piɡrone"
-  ],
-  "pika": [
-    "pika"
-  ],
-  "pila": [
-    "pila"
-  ],
-  "pilastrino": [
-    "pilastrino"
-  ],
-  "pilastro": [
-    "pilastro"
-  ],
-  "pilatesco": [
-    "pilatesko"
-  ],
-  "pile": [
-    "pajl",
-    "pile"
-  ],
-  "pileggio": [
-    "piledːʒo"
-  ],
-  "pilifero": [
-    "pilifero"
-  ],
-  "pillacchera": [
-    "pilːakːera"
-  ],
-  "pilli": [
-    "pilːi"
-  ],
-  "pillo": [
-    "pilːo"
-  ],
-  "pillola": [
-    "pilːola"
-  ],
-  "pillole": [
-    "pilːole"
-  ],
-  "pillolina": [
-    "pilːolina"
-  ],
-  "pilloro": [
-    "pilːoro"
-  ],
-  "pillottare": [
-    "pilːotːare"
-  ],
-  "pilone": [
-    "pilone"
-  ],
-  "pilorico": [
-    "pilɔriko"
-  ],
-  "piloro": [
-    "pilɔro"
-  ],
-  "pilorotomia": [
-    "pilorotomia"
-  ],
-  "pilota": [
-    "pilɔta"
-  ],
-  "pilotabile": [
-    "pilotabile"
-  ],
-  "pilotabili": [
-    "pilotabili"
-  ],
-  "pilotaggi": [
-    "pilotadːʒi"
-  ],
-  "pilotaggio": [
-    "pilotadːʒo"
-  ],
-  "pilotai": [
-    "pilotai"
-  ],
-  "pilotando": [
-    "pilotando"
-  ],
-  "pilotante": [
-    "pilotante"
-  ],
-  "pilotare": [
-    "pilotare"
-  ],
-  "pilotasse": [
-    "pilotasːe"
-  ],
-  "pilotata": [
-    "pilotata"
-  ],
-  "pilotate": [
-    "pilotate"
-  ],
-  "pilotati": [
-    "pilotati"
-  ],
-  "pilotato": [
-    "pilotato"
-  ],
-  "pilote": [
-    "pilɔte"
-  ],
-  "piloterai": [
-    "piloterai"
-  ],
-  "piloti": [
-    "pilɔti"
-  ],
-  "piloto": [
-    "piloto"
-  ],
-  "pimenti": [
-    "pimenti"
-  ],
-  "pimento": [
-    "pimento"
-  ],
-  "pimpante": [
-    "pimpante"
-  ],
-  "pin": [
-    "pin"
-  ],
-  "pinacoteca": [
-    "pinakotɛka"
-  ],
-  "pinacoteche": [
-    "pinakotɛke"
-  ],
-  "pineta": [
-    "pineta"
-  ],
-  "pingere": [
-    "pindʒere"
-  ],
-  "pingue": [
-    "pinɡwe",
-    "piɲɡwe"
-  ],
-  "pinguedine": [
-    "pinɡwɛdine"
-  ],
-  "pinguini": [
-    "pinɡwini"
-  ],
-  "pinguino": [
-    "pinɡwino"
-  ],
-  "pinna": [
-    "pinːa"
-  ],
-  "pinnacoli": [
-    "pinakɔli"
-  ],
-  "pinnacolo": [
-    "pinakɔlo",
-    "pinːakolo"
-  ],
-  "pino": [
-    "pino"
-  ],
-  "pinocchi": [
-    "pinɔkːi"
-  ],
-  "pinocchiata": [
-    "pinokːjata"
-  ],
-  "pinocchio": [
-    "pinɔkːio",
-    "pinɔkːjo"
-  ],
-  "pinochetista": [
-    "pinoketista"
-  ],
-  "pinochetiste": [
-    "pinoketiste"
-  ],
-  "pinochetisti": [
-    "pinoketisti"
-  ],
-  "pinoli": [
-    "pinɔli"
-  ],
-  "pinolo": [
-    "pinɔlo"
-  ],
-  "pinsa": [
-    "pinsa"
-  ],
-  "pinse": [
-    "pinse"
-  ],
-  "pinta": [
-    "pinta"
-  ],
-  "pinte": [
-    "pinte"
-  ],
-  "pinza": [
-    "pintsa"
-  ],
-  "pinzatore": [
-    "pintsatore"
-  ],
-  "pinzatrice": [
-    "pintsatritʃe"
-  ],
-  "pinze": [
-    "pintse"
-  ],
-  "pinzette": [
-    "pintsɛtːe"
-  ],
-  "pinzillacchera": [
-    "pintsilːakːera"
-  ],
-  "pinzimonio": [
-    "pintsimɔnjo"
-  ],
-  "pinzochero": [
-    "pintsɔkero"
-  ],
-  "pio": [
-    "pio"
-  ],
-  "piogge": [
-    "pjɔdːʒe"
-  ],
-  "pioggia": [
-    "pjɔdːʒa",
-    "pjɔɡdʒa"
-  ],
-  "piolo": [
-    "piɔlo",
-    "pjɔlo"
-  ],
-  "piombaggine": [
-    "pjombadːʒine"
-  ],
-  "piombare": [
-    "pjombare"
-  ],
-  "piombato": [
-    "pjombato"
-  ],
-  "piombatura": [
-    "pjombatura"
-  ],
-  "piombemia": [
-    "pjombemia"
-  ],
-  "piombino": [
-    "pjombino"
-  ],
-  "piombo": [
-    "pjombo",
-    "pjɔmbɔ"
-  ],
-  "pione": [
-    "pione"
-  ],
-  "pioniera": [
-    "pjonjɛra",
-    "pjɔnjɛra"
-  ],
-  "pioniere": [
-    "pjonjɛre",
-    "pjɔnjɛre"
-  ],
-  "pionieri": [
-    "pjonjɛri",
-    "pjɔnjɛri"
-  ],
-  "pioppaia": [
-    "pjopːaja"
-  ],
-  "piopparello": [
-    "pjopːarɛlːo"
-  ],
-  "pioppeti": [
-    "pjopːeti"
-  ],
-  "pioppeto": [
-    "pjopːeto"
-  ],
-  "pioppi": [
-    "pjɔpːi"
-  ],
-  "pioppicoltura": [
-    "pjopːikoltura"
-  ],
-  "pioppicolture": [
-    "pjopːikolture"
-  ],
-  "pioppino": [
-    "pjopːino"
-  ],
-  "pioppo": [
-    "pjɔpːo"
-  ],
-  "piorrea": [
-    "piorːɛa"
-  ],
-  "piota": [
-    "pjɔta"
-  ],
-  "piovanello": [
-    "pjovanɛlːo"
-  ],
-  "piovano": [
-    "pjovano"
-  ],
-  "piovasco": [
-    "pjovasko"
-  ],
-  "piove": [
-    "piɔve"
-  ],
-  "pioverà": [
-    "piovera"
-  ],
-  "piovere": [
-    "pjɔvere",
-    "pjɔvɛre"
-  ],
-  "piovischio": [
-    "pjoviskjo"
-  ],
-  "piovoso": [
-    "piovoso",
-    "pjovoso",
-    "pjovozo"
-  ],
-  "piovra": [
-    "pjɔvra"
-  ],
-  "pipa": [
-    "pipa"
-  ],
-  "pipe": [
-    "pipe"
-  ],
-  "piperno": [
-    "pipɛrno"
-  ],
-  "pipetta": [
-    "pipetːa"
-  ],
-  "pipì": [
-    "pipi"
-  ],
-  "pipilare": [
-    "pipilare"
-  ],
-  "pipistrelli": [
-    "pipistrɛlːi"
-  ],
-  "pipistrello": [
-    "pipistrɛlːo"
-  ],
-  "pipita": [
-    "pipita"
-  ],
-  "pipra": [
-    "pipra"
-  ],
-  "pira": [
-    "pira"
-  ],
-  "piramidale": [
-    "piramidale"
-  ],
-  "piramidare": [
-    "piramidare"
-  ],
-  "piramide": [
-    "piramide"
-  ],
-  "piramidi": [
-    "piramidi"
-  ],
-  "pirandellianamente": [
-    "pirandelːjanamente"
-  ],
-  "pirandelliano": [
-    "pirandelːjano"
-  ],
-  "pirandello": [
-    "pirandɛlːo"
-  ],
-  "pirata": [
-    "pirata"
-  ],
-  "pirateria": [
-    "pirateria"
-  ],
-  "piraterie": [
-    "piraterie"
-  ],
-  "piratessa": [
-    "piratesːa"
-  ],
-  "piratesse": [
-    "piratesːe"
-  ],
-  "pirati": [
-    "pirati"
-  ],
-  "pirato": [
-    "pirato"
-  ],
-  "pirazina": [
-    "piradːzina"
-  ],
-  "pirazolo": [
-    "piradːzɔlo"
-  ],
-  "pireliometri": [
-    "pireljɔmetri"
-  ],
-  "pireliometro": [
-    "pireljɔmetro"
-  ],
-  "pirico": [
-    "piriko"
-  ],
-  "piridossina": [
-    "piridosːina"
-  ],
-  "piriforme": [
-    "piriforme"
-  ],
-  "piriformi": [
-    "piriformi"
-  ],
-  "pirite": [
-    "pirite"
-  ],
-  "pirla": [
-    "pirla"
-  ],
-  "pirle": [
-    "pirle"
-  ],
-  "pirobetta": [
-    "pirobetːa"
-  ],
-  "pirocannoniera": [
-    "pirokanːonjɛra"
-  ],
-  "piroclastico": [
-    "piroklastiko"
-  ],
-  "piroelettricità": [
-    "piroeletːritʃita"
-  ],
-  "piroeliometri": [
-    "piroeljɔmetri"
-  ],
-  "piroeliometro": [
-    "piroeljɔmetro"
-  ],
-  "piroetta": [
-    "piroetːa"
-  ],
-  "piroettante": [
-    "piroetːante"
-  ],
-  "piroettare": [
-    "piroetːare"
-  ],
-  "piroettato": [
-    "piroetːato"
-  ],
-  "piroette": [
-    "piroetːe"
-  ],
-  "piroforo": [
-    "pirɔforo"
-  ],
-  "piroga": [
-    "piroɡa"
-  ],
-  "piroghe": [
-    "piroɡe"
-  ],
-  "pirolusite": [
-    "piroluzite"
-  ],
-  "piromane": [
-    "pirɔmane"
-  ],
-  "piromania": [
-    "piromania"
-  ],
-  "pirometri": [
-    "pirɔmetri"
-  ],
-  "pirometria": [
-    "pirometria"
-  ],
-  "pirometro": [
-    "pirɔmetro"
-  ],
-  "piropo": [
-    "pirɔpo"
-  ],
-  "piroscafo": [
-    "pirɔskafo"
-  ],
-  "pirosfera": [
-    "pirosfɛra"
-  ],
-  "pirosfere": [
-    "pirosfɛre"
-  ],
-  "pirosolfati": [
-    "pirosolfati"
-  ],
-  "pirosolfato": [
-    "pirosolfato"
-  ],
-  "pirosolfiti": [
-    "pirosolfiti"
-  ],
-  "pirosolfito": [
-    "pirosolfito"
-  ],
-  "pirosseno": [
-    "pirɔsːeno"
-  ],
-  "pirotecnico": [
-    "pirotɛkniko"
-  ],
-  "pirottini": [
-    "pirotːini"
-  ],
-  "pirottino": [
-    "pirotːino"
-  ],
-  "pirronismo": [
-    "pirːonizmo"
-  ],
-  "pisa": [
-    "pisa",
-    "piza"
-  ],
-  "pisano": [
-    "pisano"
-  ],
-  "pisce": [
-    "piʃʃe"
-  ],
-  "pischella": [
-    "piskɛlːa"
-  ],
-  "pischelletta": [
-    "piskelːetːa"
-  ],
-  "pischelletto": [
-    "piskelːetːo"
-  ],
-  "pischello": [
-    "piskɛlːo"
-  ],
-  "pisci": [
-    "piʃʃi"
-  ],
-  "piscia": [
-    "piʃʃa"
-  ],
-  "pisciante": [
-    "piʃʃante"
-  ],
-  "pisciare": [
-    "piʃʃare"
-  ],
-  "pisciato": [
-    "piʃʃato"
-  ],
-  "pisciforme": [
-    "piʃʃiforme"
-  ],
-  "pisciformi": [
-    "piʃʃiformi"
-  ],
-  "piscina": [
-    "piʃʃina"
-  ],
-  "piscio": [
-    "piʃo",
-    "piʃʃo"
-  ],
-  "piscoso": [
-    "piskozo"
-  ],
-  "piselli": [
-    "pizɛlːi"
-  ],
-  "pisello": [
-    "pisɛlːo",
-    "pizɛlːo",
-    "pizɛlːɔ"
-  ],
-  "pisiforme": [
-    "piziforme"
-  ],
-  "pisiformi": [
-    "piziformi"
-  ],
-  "pisolino": [
-    "pizolino"
-  ],
-  "pisolo": [
-    "pizolo"
-  ],
-  "pispigliare": [
-    "pispiʎare"
-  ],
-  "pispilloria": [
-    "pispilːɔrja"
-  ],
-  "pispola": [
-    "pispola"
-  ],
-  "pisquano": [
-    "piskwano"
-  ],
-  "pista": [
-    "pista"
-  ],
-  "pistacchi": [
-    "pistakːi"
-  ],
-  "pistacchio": [
-    "pistakːjo"
-  ],
-  "piste": [
-    "piste"
-  ],
-  "pistilli": [
-    "pistilːi"
-  ],
-  "pistillo": [
-    "pistilːo"
-  ],
-  "pistoia": [
-    "pistɔja"
-  ],
-  "pistoiese": [
-    "pistojese",
-    "pistojeze"
-  ],
-  "pistola": [
-    "pistola",
-    "pistɔla"
-  ],
-  "pistole": [
-    "pistɔle"
-  ],
-  "pistolero": [
-    "pistolɛro"
-  ],
-  "pistolettata": [
-    "pistoletːata"
-  ],
-  "pistoliere": [
-    "pistoljɛre"
-  ],
-  "pistolotto": [
-    "pistolɔtːo"
-  ],
-  "pistoncino": [
-    "pistontʃino"
-  ],
-  "pistone": [
-    "pistone"
-  ],
-  "pistoni": [
-    "pistoni"
-  ],
-  "pistore": [
-    "pistore"
-  ],
-  "pistrino": [
-    "pistrino"
-  ],
-  "pitagorico": [
-    "pitaɡɔriko"
-  ],
-  "pitagorismo": [
-    "pitaɡorizmo"
-  ],
-  "pitale": [
-    "pitale"
-  ],
-  "pitecantropa": [
-    "pitekantropa"
-  ],
-  "pitecantrope": [
-    "pitekantrope"
-  ],
-  "pitecantropi": [
-    "pitekantropi"
-  ],
-  "pitecantropo": [
-    "pitekantropo"
-  ],
-  "pitecia": [
-    "pitɛtʃa"
-  ],
-  "pitecie": [
-    "pitɛtʃe"
-  ],
-  "pitecologia": [
-    "pitekolodʒia"
-  ],
-  "piteti": [
-    "piteti"
-  ],
-  "piteto": [
-    "piteto"
-  ],
-  "pithiusa": [
-    "pitjuza"
-  ],
-  "pito": [
-    "pito"
-  ],
-  "pitocco": [
-    "pitɔkːo"
-  ],
-  "pitone": [
-    "pitone"
-  ],
-  "pitonessa": [
-    "pitonesːa"
-  ],
-  "pitoni": [
-    "pitoni"
-  ],
-  "pitta": [
-    "pitːa"
-  ],
-  "pittavino": [
-    "pitːavino"
-  ],
-  "pittide": [
-    "pitːide"
-  ],
-  "pittidi": [
-    "pitːidi"
-  ],
-  "pittima": [
-    "pitːima"
-  ],
-  "pitto": [
-    "pitːo"
-  ],
-  "pittografia": [
-    "pitːoɡrafia"
-  ],
-  "pittogramma": [
-    "pitːoɡramːa"
-  ],
-  "pittore": [
-    "pitːore"
-  ],
-  "pittoresco": [
-    "pitːoresko"
-  ],
-  "pittori": [
-    "pitːori"
-  ],
-  "pittorialista": [
-    "pitːorjalista"
-  ],
-  "pittorialiste": [
-    "pitːorjaliste"
-  ],
-  "pittorialisti": [
-    "pitːorjalisti"
-  ],
-  "pittorico": [
-    "pitːɔriko"
-  ],
-  "pittrice": [
-    "pitːritʃe"
-  ],
-  "pittrici": [
-    "pitːritʃi"
-  ],
-  "pittura": [
-    "pitːura"
-  ],
-  "pitturare": [
-    "pitːurare"
-  ],
-  "pitturato": [
-    "pitːurato"
-  ],
-  "pitture": [
-    "pitːure"
-  ],
-  "più": [
-    "pju"
-  ],
-  "piubeghese": [
-    "pjubeɡese",
-    "pjubeɡeze"
-  ],
-  "piuccheperfetto": [
-    "pjukːeperfɛtːo"
-  ],
-  "piùe": [
-    "pjue"
-  ],
-  "piuma": [
-    "pjuma"
-  ],
-  "piumaggi": [
-    "pjumadːʒi"
-  ],
-  "piumaggio": [
-    "pjumadːʒo"
-  ],
-  "piumata": [
-    "pjumata"
-  ],
-  "piumate": [
-    "pjumate"
-  ],
-  "piumati": [
-    "pjumati"
-  ],
-  "piumato": [
-    "pjumato"
-  ],
-  "piume": [
-    "pjume"
-  ],
-  "piumino": [
-    "pjumino"
-  ],
-  "piuria": [
-    "piuria",
-    "piurja"
-  ],
-  "piuttosto": [
-    "pjutːɔsto",
-    "pjutːɔstɔ"
-  ],
-  "piva": [
-    "piva"
-  ],
-  "pivello": [
-    "pivɛlːo"
-  ],
-  "piviale": [
-    "pivjale"
-  ],
-  "piviere": [
-    "pivjɛre"
-  ],
-  "pivieressa": [
-    "pivjeresːa"
-  ],
-  "pivieresse": [
-    "pivjeresːe"
-  ],
-  "pivieri": [
-    "pivjɛri"
-  ],
-  "pixel": [
-    "piksel"
-  ],
-  "pizia": [
-    "pitːsja"
-  ],
-  "pizio": [
-    "pitːsjo"
-  ],
-  "pizza": [
-    "pitːsa"
-  ],
-  "pizzaiola": [
-    "pitːsajɔla"
-  ],
-  "pizzaiolo": [
-    "pitːsaiɔlo",
-    "pitːsajɔlo"
-  ],
-  "pizze": [
-    "pitːse"
-  ],
-  "pizzeria": [
-    "pitːseria"
-  ],
-  "pizzi": [
-    "pitːsi"
-  ],
-  "pizzicagnola": [
-    "pitːsikaɲɲola"
-  ],
-  "pizzicagnolo": [
-    "pitːsikaɲɲolo"
-  ],
-  "pizzicare": [
-    "pitːsikare"
-  ],
-  "pizzicarolo": [
-    "pitːsikarɔlo"
-  ],
-  "pizzicato": [
-    "pitːsikato"
-  ],
-  "pizzicheria": [
-    "pitːsikeria"
-  ],
-  "pizzico": [
-    "pitːsiko"
-  ],
-  "pizzicotto": [
-    "pitːsikɔtːo"
-  ],
-  "pizzo": [
-    "pitːso"
-  ],
-  "pizzocchero": [
-    "pitːsɔkːero"
-  ],
-  "placante": [
-    "plakante"
-  ],
-  "placare": [
-    "plakare"
-  ],
-  "placarsi": [
-    "plakarsi"
-  ],
-  "placato": [
-    "plakato"
-  ],
-  "placca": [
-    "plakːa"
-  ],
-  "placcante": [
-    "plakːante"
-  ],
-  "placcare": [
-    "plakːare"
-  ],
-  "placcato": [
-    "plakːato"
-  ],
-  "placcatore": [
-    "plakːatore"
-  ],
-  "placcatori": [
-    "plakːatori"
-  ],
-  "placcatrice": [
-    "plakːatritʃe"
-  ],
-  "placcatrici": [
-    "plakːatritʃi"
-  ],
-  "placebo": [
-    "platʃebo",
-    "platʃɛbo"
-  ],
-  "placenta": [
-    "platʃɛnta"
-  ],
-  "placentati": [
-    "platʃentati"
-  ],
-  "placentato": [
-    "platʃentato"
-  ],
-  "placido": [
-    "platʃido"
-  ],
-  "placito": [
-    "platʃito"
-  ],
-  "plaga": [
-    "plaɡa"
-  ],
-  "plagi": [
-    "pladʒi"
-  ],
-  "plagiare": [
-    "pladʒare"
-  ],
-  "plagiato": [
-    "pladʒato"
-  ],
-  "plagio": [
-    "pladʒo"
-  ],
-  "planare": [
-    "planare"
-  ],
-  "planari": [
-    "planari"
-  ],
-  "planaria": [
-    "planarja"
-  ],
-  "plance": [
-    "plantʃe"
-  ],
-  "plancia": [
-    "plantʃa"
-  ],
-  "plancton": [
-    "plankton"
-  ],
-  "planetario": [
-    "planetarjo"
-  ],
-  "planetologia": [
-    "planetolodʒia"
-  ],
-  "planetologica": [
-    "planetolɔdʒika"
-  ],
-  "planetologiche": [
-    "planetolɔdʒike"
-  ],
-  "planetologici": [
-    "planetolɔdʒitʃi"
-  ],
-  "planetologico": [
-    "planetolɔdʒiko"
-  ],
-  "planimetrico": [
-    "planimɛtriko"
-  ],
-  "planisfero": [
-    "planisfero",
-    "planisfɛro"
-  ],
-  "planning": [
-    "planːinɡ"
-  ],
-  "plantare": [
-    "plantare"
-  ],
-  "plantigrado": [
-    "plantiɡrado"
-  ],
-  "plasma": [
-    "plazma"
-  ],
-  "plasmabile": [
-    "plazmabile"
-  ],
-  "plasmaproteina": [
-    "plazmaproteina"
-  ],
-  "plasmare": [
-    "plazmare"
-  ],
-  "plasmato": [
-    "plazmato"
-  ],
-  "plasmi": [
-    "plazmi"
-  ],
-  "plasmide": [
-    "plazmide"
-  ],
-  "plasmochimica": [
-    "plazmokimika"
-  ],
-  "plasmochimiche": [
-    "plazmokimike"
-  ],
-  "plasmochimici": [
-    "plazmokimitʃi"
-  ],
-  "plasmochimico": [
-    "plazmokimiko"
-  ],
-  "plasmodio": [
-    "plazmɔdjo"
-  ],
-  "plasmorragia": [
-    "plazmorːadʒia"
-  ],
-  "plasmorrea": [
-    "plazmorːɛa"
-  ],
-  "plastica": [
-    "plastika"
-  ],
-  "plastiche": [
-    "plastike"
-  ],
-  "plastici": [
-    "plastitʃi"
-  ],
-  "plasticismo": [
-    "plastitʃizmo"
-  ],
-  "plasticità": [
-    "plastitʃita"
-  ],
-  "plastico": [
-    "plastiko"
-  ],
-  "plastificando": [
-    "plastifikando"
-  ],
-  "plastificante": [
-    "plastifikante"
-  ],
-  "plastificanti": [
-    "plastifikanti"
-  ],
-  "plastificare": [
-    "plastifikare"
-  ],
-  "plastificato": [
-    "plastifikato"
-  ],
-  "plastificazione": [
-    "plastifikatːsjone"
-  ],
-  "platani": [
-    "platani"
-  ],
-  "platano": [
-    "platano"
-  ],
-  "platea": [
-    "platɛa"
-  ],
-  "plateale": [
-    "plateale"
-  ],
-  "platealmente": [
-    "platealmente"
-  ],
-  "plateatico": [
-    "plateatiko"
-  ],
-  "platelminta": [
-    "platelminta"
-  ],
-  "platelminti": [
-    "platelminti"
-  ],
-  "platessa": [
-    "platesːa"
-  ],
-  "platicefalo": [
-    "platitʃɛfalo"
-  ],
-  "platina": [
-    "platina"
-  ],
-  "platino": [
-    "platino"
-  ],
-  "platirrina": [
-    "platirːina"
-  ],
-  "platirrino": [
-    "platirːino"
-  ],
-  "platone": [
-    "platone"
-  ],
-  "platonica": [
-    "platɔnika"
-  ],
-  "platonicamente": [
-    "platonikamente"
-  ],
-  "platoniche": [
-    "platɔnike"
-  ],
-  "platonici": [
-    "platɔnitʃi"
-  ],
-  "platonico": [
-    "platɔniko"
-  ],
-  "platonismi": [
-    "platonizmi"
-  ],
-  "platonismo": [
-    "platonizmo"
-  ],
-  "plaudere": [
-    "plawdere"
-  ],
-  "plausibile": [
-    "plauzibile",
-    "plawzibile"
-  ],
-  "plausibili": [
-    "plauzibili"
-  ],
-  "plausibilità": [
-    "plawzibilita"
-  ],
-  "plausibilmente": [
-    "plawzibilmente"
-  ],
-  "plauso": [
-    "plawzo"
-  ],
-  "playback": [
-    "plɛibek",
-    "plɛibɛk"
-  ],
-  "playboy": [
-    "plɛjbɔj"
-  ],
-  "playlist": [
-    "plɛilist"
-  ],
-  "playstation": [
-    "plɛjsteʃʃon"
-  ],
-  "plebaglia": [
-    "plebaʎa"
-  ],
-  "plebe": [
-    "plɛbe"
-  ],
-  "plebeo": [
-    "plebɛo"
-  ],
-  "plebi": [
-    "plɛbi"
-  ],
-  "plebiscitari": [
-    "plebiʃʃitari"
-  ],
-  "plebiscitaria": [
-    "plebiʃʃitarja"
-  ],
-  "plebiscitarie": [
-    "plebiʃʃitarje"
-  ],
-  "plebiscitario": [
-    "plebiʃʃitarjo"
-  ],
-  "plebisciti": [
-    "plebiʃʃiti"
-  ],
-  "plebiscito": [
-    "plebiʃʃito"
-  ],
-  "plecotteri": [
-    "plekɔtːeri"
-  ],
-  "plecottero": [
-    "plekɔtːero"
-  ],
-  "pleiade": [
-    "plɛjade"
-  ],
-  "pleiomorfismo": [
-    "plejomorfizmo"
-  ],
-  "pleistocene": [
-    "plejstotʃɛne"
-  ],
-  "pleistocenica": [
-    "plejstotʃɛnika"
-  ],
-  "pleistoceniche": [
-    "plejstotʃɛnike"
-  ],
-  "pleistocenico": [
-    "plejstotʃɛniko"
-  ],
-  "plenario": [
-    "plenarjo"
-  ],
-  "pleniluni": [
-    "plɛniluni"
-  ],
-  "plenilunio": [
-    "plenilunjo",
-    "plɛnilunjɔ"
-  ],
-  "plenipotenza": [
-    "plɛnipotɛntsa"
-  ],
-  "plenipotenziario": [
-    "plɛnipotentsjarjo"
-  ],
-  "pleocroismo": [
-    "pleokroizmo"
-  ],
-  "pleonasmo": [
-    "pleonazmo"
-  ],
-  "pleonastico": [
-    "pleonastiko"
-  ],
-  "plesiosauro": [
-    "plezjosawro"
-  ],
-  "plesso": [
-    "plɛsːo"
-  ],
-  "pletora": [
-    "plɛtora"
-  ],
-  "pletorica": [
-    "pletɔrika"
-  ],
-  "pletoricamente": [
-    "pletɔrikamente"
-  ],
-  "pletoriche": [
-    "pletɔrike"
-  ],
-  "pletorici": [
-    "pletɔritʃi"
-  ],
-  "pletorico": [
-    "pletɔriko"
-  ],
-  "pletri": [
-    "plɛtri"
-  ],
-  "pletro": [
-    "plɛtro"
-  ],
-  "plettro": [
-    "plɛtːro"
-  ],
-  "pleura": [
-    "plɛur"
-  ],
-  "pleure": [
-    "plɛure"
-  ],
-  "plexiglas": [
-    "plɛksiɡlas"
-  ],
-  "plico": [
-    "pliko"
-  ],
-  "plin": [
-    "plin"
-  ],
-  "plinio": [
-    "plinjo"
-  ],
-  "plinti": [
-    "plinti"
-  ],
-  "plinto": [
-    "plinto"
-  ],
-  "pliocene": [
-    "pliotʃɛne"
-  ],
-  "pliocenico": [
-    "pliotʃɛniko"
-  ],
-  "plissettatura": [
-    "plisːetːatura"
-  ],
-  "ploceide": [
-    "plotʃɛjde"
-  ],
-  "ploceidi": [
-    "plotʃɛjdi"
-  ],
-  "plorante": [
-    "plorante"
-  ],
-  "plorare": [
-    "plorare"
-  ],
-  "ploro": [
-    "plɔro"
-  ],
-  "plot": [
-    "plɔt"
-  ],
-  "plotone": [
-    "plotone"
-  ],
-  "plotter": [
-    "plɔtːer"
-  ],
-  "plugo": [
-    "pluɡo"
-  ],
-  "plumbea": [
-    "plumbea"
-  ],
-  "plumbee": [
-    "plumbee"
-  ],
-  "plumbei": [
-    "plumbej"
-  ],
-  "plumbeo": [
-    "plumbeo"
-  ],
-  "plumbleo": [
-    "plumbeo"
-  ],
-  "plumcake": [
-    "plumkeik",
-    "plumkɛik",
-    "pluɲkeik",
-    "pluɲkɛik"
-  ],
-  "plurale": [
-    "plurale"
-  ],
-  "plurali": [
-    "plurali"
-  ],
-  "pluralismi": [
-    "pluralizmi"
-  ],
-  "pluralismo": [
-    "pluralizmo"
-  ],
-  "pluralista": [
-    "pluralista"
-  ],
-  "pluraliste": [
-    "pluraliste"
-  ],
-  "pluralisti": [
-    "pluralisti"
-  ],
-  "pluralistica": [
-    "pluralistika"
-  ],
-  "pluralistiche": [
-    "pluralistike"
-  ],
-  "pluralistici": [
-    "pluralistitʃi"
-  ],
-  "pluralistico": [
-    "pluralistiko"
-  ],
-  "pluralità": [
-    "pluralita"
-  ],
-  "pluralizzare": [
-    "pluralidːʒare"
-  ],
-  "pluralizzaste": [
-    "pluralidːzaste"
-  ],
-  "pluralizzata": [
-    "pluralidːʒata"
-  ],
-  "pluralizzate": [
-    "pluralidːʒate"
-  ],
-  "pluralizzati": [
-    "pluralidːʒati"
-  ],
-  "pluralizzato": [
-    "pluralidːʒato"
-  ],
-  "pluralizzazione": [
-    "pluralidːzatsjone"
-  ],
-  "pluralizzazioni": [
-    "pluralidːzatsjoni"
-  ],
-  "pluriannuale": [
-    "plurianːuale"
-  ],
-  "pluriannuali": [
-    "plurianːuali"
-  ]
+  "pigramente": "piɡramente",
+  "pigre": "piɡre",
+  "pigrezza": "piɡretːsa",
+  "pigrezze": "piɡretːse",
+  "pigri": "piɡri",
+  "pigrissima": "piɡrisːima",
+  "pigrissime": "piɡrisːime",
+  "pigrissimi": "piɡrisːimi",
+  "pigrissimo": "piɡrisːimo",
+  "pigrizia": "piɡritːsja",
+  "pigrizie": "piɡritːsje",
+  "pigro": "piɡro",
+  "pigrone": "piɡrone",
+  "pika": "pika",
+  "pila": "pila",
+  "pilastrino": "pilastrino",
+  "pilastro": "pilastro",
+  "pilatesco": "pilatesko",
+  "pile": "pajl",
+  "pile_2": "pile",
+  "pileggio": "piledːʒo",
+  "pilifero": "pilifero",
+  "pillacchera": "pilːakːera",
+  "pilli": "pilːi",
+  "pillo": "pilːo",
+  "pillola": "pilːola",
+  "pillole": "pilːole",
+  "pillolina": "pilːolina",
+  "pilloro": "pilːoro",
+  "pillottare": "pilːotːare",
+  "pilone": "pilone",
+  "pilorico": "pilɔriko",
+  "piloro": "pilɔro",
+  "pilorotomia": "pilorotomia",
+  "pilota": "pilɔta",
+  "pilotabile": "pilotabile",
+  "pilotabili": "pilotabili",
+  "pilotaggi": "pilotadːʒi",
+  "pilotaggio": "pilotadːʒo",
+  "pilotai": "pilotai",
+  "pilotando": "pilotando",
+  "pilotante": "pilotante",
+  "pilotare": "pilotare",
+  "pilotasse": "pilotasːe",
+  "pilotata": "pilotata",
+  "pilotate": "pilotate",
+  "pilotati": "pilotati",
+  "pilotato": "pilotato",
+  "pilote": "pilɔte",
+  "piloterai": "piloterai",
+  "piloti": "pilɔti",
+  "piloto": "piloto",
+  "pimenti": "pimenti",
+  "pimento": "pimento",
+  "pimpante": "pimpante",
+  "pin": "pin",
+  "pinacoteca": "pinakotɛka",
+  "pinacoteche": "pinakotɛke",
+  "pineta": "pineta",
+  "pingere": "pindʒere",
+  "pingue": "pinɡwe",
+  "pingue_2": "piɲɡwe",
+  "pinguedine": "pinɡwɛdine",
+  "pinguini": "pinɡwini",
+  "pinguino": "pinɡwino",
+  "pinna": "pinːa",
+  "pinnacoli": "pinakɔli",
+  "pinnacolo": "pinakɔlo",
+  "pinnacolo_2": "pinːakolo",
+  "pino": "pino",
+  "pinocchi": "pinɔkːi",
+  "pinocchiata": "pinokːjata",
+  "pinocchio": "pinɔkːio",
+  "pinocchio_2": "pinɔkːjo",
+  "pinochetista": "pinoketista",
+  "pinochetiste": "pinoketiste",
+  "pinochetisti": "pinoketisti",
+  "pinoli": "pinɔli",
+  "pinolo": "pinɔlo",
+  "pinsa": "pinsa",
+  "pinse": "pinse",
+  "pinta": "pinta",
+  "pinte": "pinte",
+  "pinza": "pintsa",
+  "pinzatore": "pintsatore",
+  "pinzatrice": "pintsatritʃe",
+  "pinze": "pintse",
+  "pinzette": "pintsɛtːe",
+  "pinzillacchera": "pintsilːakːera",
+  "pinzimonio": "pintsimɔnjo",
+  "pinzochero": "pintsɔkero",
+  "pio": "pio",
+  "piogge": "pjɔdːʒe",
+  "pioggia": "pjɔdːʒa",
+  "pioggia_2": "pjɔɡdʒa",
+  "piolo": "piɔlo",
+  "piolo_2": "pjɔlo",
+  "piombaggine": "pjombadːʒine",
+  "piombare": "pjombare",
+  "piombato": "pjombato",
+  "piombatura": "pjombatura",
+  "piombemia": "pjombemia",
+  "piombino": "pjombino",
+  "piombo": "pjombo",
+  "piombo_2": "pjɔmbɔ",
+  "pione": "pione",
+  "pioniera": "pjonjɛra",
+  "pioniera_2": "pjɔnjɛra",
+  "pioniere": "pjonjɛre",
+  "pioniere_2": "pjɔnjɛre",
+  "pionieri": "pjonjɛri",
+  "pionieri_2": "pjɔnjɛri",
+  "pioppaia": "pjopːaja",
+  "piopparello": "pjopːarɛlːo",
+  "pioppeti": "pjopːeti",
+  "pioppeto": "pjopːeto",
+  "pioppi": "pjɔpːi",
+  "pioppicoltura": "pjopːikoltura",
+  "pioppicolture": "pjopːikolture",
+  "pioppino": "pjopːino",
+  "pioppo": "pjɔpːo",
+  "piorrea": "piorːɛa",
+  "piota": "pjɔta",
+  "piovanello": "pjovanɛlːo",
+  "piovano": "pjovano",
+  "piovasco": "pjovasko",
+  "piove": "piɔve",
+  "pioverà": "piovera",
+  "piovere": "pjɔvere",
+  "piovere_2": "pjɔvɛre",
+  "piovischio": "pjoviskjo",
+  "piovoso": "piovoso",
+  "piovoso_2": "pjovoso",
+  "piovoso_3": "pjovozo",
+  "piovra": "pjɔvra",
+  "pipa": "pipa",
+  "pipe": "pipe",
+  "piperno": "pipɛrno",
+  "pipetta": "pipetːa",
+  "pipì": "pipi",
+  "pipilare": "pipilare",
+  "pipistrelli": "pipistrɛlːi",
+  "pipistrello": "pipistrɛlːo",
+  "pipita": "pipita",
+  "pipra": "pipra",
+  "pira": "pira",
+  "piramidale": "piramidale",
+  "piramidare": "piramidare",
+  "piramide": "piramide",
+  "piramidi": "piramidi",
+  "pirandellianamente": "pirandelːjanamente",
+  "pirandelliano": "pirandelːjano",
+  "pirandello": "pirandɛlːo",
+  "pirata": "pirata",
+  "pirateria": "pirateria",
+  "piraterie": "piraterie",
+  "piratessa": "piratesːa",
+  "piratesse": "piratesːe",
+  "pirati": "pirati",
+  "pirato": "pirato",
+  "pirazina": "piradːzina",
+  "pirazolo": "piradːzɔlo",
+  "pireliometri": "pireljɔmetri",
+  "pireliometro": "pireljɔmetro",
+  "pirico": "piriko",
+  "piridossina": "piridosːina",
+  "piriforme": "piriforme",
+  "piriformi": "piriformi",
+  "pirite": "pirite",
+  "pirla": "pirla",
+  "pirle": "pirle",
+  "pirobetta": "pirobetːa",
+  "pirocannoniera": "pirokanːonjɛra",
+  "piroclastico": "piroklastiko",
+  "piroelettricità": "piroeletːritʃita",
+  "piroeliometri": "piroeljɔmetri",
+  "piroeliometro": "piroeljɔmetro",
+  "piroetta": "piroetːa",
+  "piroettante": "piroetːante",
+  "piroettare": "piroetːare",
+  "piroettato": "piroetːato",
+  "piroette": "piroetːe",
+  "piroforo": "pirɔforo",
+  "piroga": "piroɡa",
+  "piroghe": "piroɡe",
+  "pirolusite": "piroluzite",
+  "piromane": "pirɔmane",
+  "piromania": "piromania",
+  "pirometri": "pirɔmetri",
+  "pirometria": "pirometria",
+  "pirometro": "pirɔmetro",
+  "piropo": "pirɔpo",
+  "piroscafo": "pirɔskafo",
+  "pirosfera": "pirosfɛra",
+  "pirosfere": "pirosfɛre",
+  "pirosolfati": "pirosolfati",
+  "pirosolfato": "pirosolfato",
+  "pirosolfiti": "pirosolfiti",
+  "pirosolfito": "pirosolfito",
+  "pirosseno": "pirɔsːeno",
+  "pirotecnico": "pirotɛkniko",
+  "pirottini": "pirotːini",
+  "pirottino": "pirotːino",
+  "pirronismo": "pirːonizmo",
+  "pisa": "pisa",
+  "pisa_2": "piza",
+  "pisano": "pisano",
+  "pisce": "piʃʃe",
+  "pischella": "piskɛlːa",
+  "pischelletta": "piskelːetːa",
+  "pischelletto": "piskelːetːo",
+  "pischello": "piskɛlːo",
+  "pisci": "piʃʃi",
+  "piscia": "piʃʃa",
+  "pisciante": "piʃʃante",
+  "pisciare": "piʃʃare",
+  "pisciato": "piʃʃato",
+  "pisciforme": "piʃʃiforme",
+  "pisciformi": "piʃʃiformi",
+  "piscina": "piʃʃina",
+  "piscio": "piʃo",
+  "piscio_2": "piʃʃo",
+  "piscoso": "piskozo",
+  "piselli": "pizɛlːi",
+  "pisello": "pisɛlːo",
+  "pisello_2": "pizɛlːo",
+  "pisello_3": "pizɛlːɔ",
+  "pisiforme": "piziforme",
+  "pisiformi": "piziformi",
+  "pisolino": "pizolino",
+  "pisolo": "pizolo",
+  "pispigliare": "pispiʎare",
+  "pispilloria": "pispilːɔrja",
+  "pispola": "pispola",
+  "pisquano": "piskwano",
+  "pista": "pista",
+  "pistacchi": "pistakːi",
+  "pistacchio": "pistakːjo",
+  "piste": "piste",
+  "pistilli": "pistilːi",
+  "pistillo": "pistilːo",
+  "pistoia": "pistɔja",
+  "pistoiese": "pistojese",
+  "pistoiese_2": "pistojeze",
+  "pistola": "pistola",
+  "pistola_2": "pistɔla",
+  "pistole": "pistɔle",
+  "pistolero": "pistolɛro",
+  "pistolettata": "pistoletːata",
+  "pistoliere": "pistoljɛre",
+  "pistolotto": "pistolɔtːo",
+  "pistoncino": "pistontʃino",
+  "pistone": "pistone",
+  "pistoni": "pistoni",
+  "pistore": "pistore",
+  "pistrino": "pistrino",
+  "pitagorico": "pitaɡɔriko",
+  "pitagorismo": "pitaɡorizmo",
+  "pitale": "pitale",
+  "pitecantropa": "pitekantropa",
+  "pitecantrope": "pitekantrope",
+  "pitecantropi": "pitekantropi",
+  "pitecantropo": "pitekantropo",
+  "pitecia": "pitɛtʃa",
+  "pitecie": "pitɛtʃe",
+  "pitecologia": "pitekolodʒia",
+  "piteti": "piteti",
+  "piteto": "piteto",
+  "pithiusa": "pitjuza",
+  "pito": "pito",
+  "pitocco": "pitɔkːo",
+  "pitone": "pitone",
+  "pitonessa": "pitonesːa",
+  "pitoni": "pitoni",
+  "pitta": "pitːa",
+  "pittavino": "pitːavino",
+  "pittide": "pitːide",
+  "pittidi": "pitːidi",
+  "pittima": "pitːima",
+  "pitto": "pitːo",
+  "pittografia": "pitːoɡrafia",
+  "pittogramma": "pitːoɡramːa",
+  "pittore": "pitːore",
+  "pittoresco": "pitːoresko",
+  "pittori": "pitːori",
+  "pittorialista": "pitːorjalista",
+  "pittorialiste": "pitːorjaliste",
+  "pittorialisti": "pitːorjalisti",
+  "pittorico": "pitːɔriko",
+  "pittrice": "pitːritʃe",
+  "pittrici": "pitːritʃi",
+  "pittura": "pitːura",
+  "pitturare": "pitːurare",
+  "pitturato": "pitːurato",
+  "pitture": "pitːure",
+  "più": "pju",
+  "piubeghese": "pjubeɡese",
+  "piubeghese_2": "pjubeɡeze",
+  "piuccheperfetto": "pjukːeperfɛtːo",
+  "piùe": "pjue",
+  "piuma": "pjuma",
+  "piumaggi": "pjumadːʒi",
+  "piumaggio": "pjumadːʒo",
+  "piumata": "pjumata",
+  "piumate": "pjumate",
+  "piumati": "pjumati",
+  "piumato": "pjumato",
+  "piume": "pjume",
+  "piumino": "pjumino",
+  "piuria": "piuria",
+  "piuria_2": "piurja",
+  "piuttosto": "pjutːɔsto",
+  "piuttosto_2": "pjutːɔstɔ",
+  "piva": "piva",
+  "pivello": "pivɛlːo",
+  "piviale": "pivjale",
+  "piviere": "pivjɛre",
+  "pivieressa": "pivjeresːa",
+  "pivieresse": "pivjeresːe",
+  "pivieri": "pivjɛri",
+  "pixel": "piksel",
+  "pizia": "pitːsja",
+  "pizio": "pitːsjo",
+  "pizza": "pitːsa",
+  "pizzaiola": "pitːsajɔla",
+  "pizzaiolo": "pitːsaiɔlo",
+  "pizzaiolo_2": "pitːsajɔlo",
+  "pizze": "pitːse",
+  "pizzeria": "pitːseria",
+  "pizzi": "pitːsi",
+  "pizzicagnola": "pitːsikaɲɲola",
+  "pizzicagnolo": "pitːsikaɲɲolo",
+  "pizzicare": "pitːsikare",
+  "pizzicarolo": "pitːsikarɔlo",
+  "pizzicato": "pitːsikato",
+  "pizzicheria": "pitːsikeria",
+  "pizzico": "pitːsiko",
+  "pizzicotto": "pitːsikɔtːo",
+  "pizzo": "pitːso",
+  "pizzocchero": "pitːsɔkːero",
+  "placante": "plakante",
+  "placare": "plakare",
+  "placarsi": "plakarsi",
+  "placato": "plakato",
+  "placca": "plakːa",
+  "placcante": "plakːante",
+  "placcare": "plakːare",
+  "placcato": "plakːato",
+  "placcatore": "plakːatore",
+  "placcatori": "plakːatori",
+  "placcatrice": "plakːatritʃe",
+  "placcatrici": "plakːatritʃi",
+  "placebo": "platʃebo",
+  "placebo_2": "platʃɛbo",
+  "placenta": "platʃɛnta",
+  "placentati": "platʃentati",
+  "placentato": "platʃentato",
+  "placido": "platʃido",
+  "placito": "platʃito",
+  "plaga": "plaɡa",
+  "plagi": "pladʒi",
+  "plagiare": "pladʒare",
+  "plagiato": "pladʒato",
+  "plagio": "pladʒo",
+  "planare": "planare",
+  "planari": "planari",
+  "planaria": "planarja",
+  "plance": "plantʃe",
+  "plancia": "plantʃa",
+  "plancton": "plankton",
+  "planetario": "planetarjo",
+  "planetologia": "planetolodʒia",
+  "planetologica": "planetolɔdʒika",
+  "planetologiche": "planetolɔdʒike",
+  "planetologici": "planetolɔdʒitʃi",
+  "planetologico": "planetolɔdʒiko",
+  "planimetrico": "planimɛtriko",
+  "planisfero": "planisfero",
+  "planisfero_2": "planisfɛro",
+  "planning": "planːinɡ",
+  "plantare": "plantare",
+  "plantigrado": "plantiɡrado",
+  "plasma": "plazma",
+  "plasmabile": "plazmabile",
+  "plasmaproteina": "plazmaproteina",
+  "plasmare": "plazmare",
+  "plasmato": "plazmato",
+  "plasmi": "plazmi",
+  "plasmide": "plazmide",
+  "plasmochimica": "plazmokimika",
+  "plasmochimiche": "plazmokimike",
+  "plasmochimici": "plazmokimitʃi",
+  "plasmochimico": "plazmokimiko",
+  "plasmodio": "plazmɔdjo",
+  "plasmorragia": "plazmorːadʒia",
+  "plasmorrea": "plazmorːɛa",
+  "plastica": "plastika",
+  "plastiche": "plastike",
+  "plastici": "plastitʃi",
+  "plasticismo": "plastitʃizmo",
+  "plasticità": "plastitʃita",
+  "plastico": "plastiko",
+  "plastificando": "plastifikando",
+  "plastificante": "plastifikante",
+  "plastificanti": "plastifikanti",
+  "plastificare": "plastifikare",
+  "plastificato": "plastifikato",
+  "plastificazione": "plastifikatːsjone",
+  "platani": "platani",
+  "platano": "platano",
+  "platea": "platɛa",
+  "plateale": "plateale",
+  "platealmente": "platealmente",
+  "plateatico": "plateatiko",
+  "platelminta": "platelminta",
+  "platelminti": "platelminti",
+  "platessa": "platesːa",
+  "platicefalo": "platitʃɛfalo",
+  "platina": "platina",
+  "platino": "platino",
+  "platirrina": "platirːina",
+  "platirrino": "platirːino",
+  "platone": "platone",
+  "platonica": "platɔnika",
+  "platonicamente": "platonikamente",
+  "platoniche": "platɔnike",
+  "platonici": "platɔnitʃi",
+  "platonico": "platɔniko",
+  "platonismi": "platonizmi",
+  "platonismo": "platonizmo",
+  "plaudere": "plawdere",
+  "plausibile": "plauzibile",
+  "plausibile_2": "plawzibile",
+  "plausibili": "plauzibili",
+  "plausibilità": "plawzibilita",
+  "plausibilmente": "plawzibilmente",
+  "plauso": "plawzo",
+  "playback": "plɛibek",
+  "playback_2": "plɛibɛk",
+  "playboy": "plɛjbɔj",
+  "playlist": "plɛilist",
+  "playstation": "plɛjsteʃʃon",
+  "plebaglia": "plebaʎa",
+  "plebe": "plɛbe",
+  "plebeo": "plebɛo",
+  "plebi": "plɛbi",
+  "plebiscitari": "plebiʃʃitari",
+  "plebiscitaria": "plebiʃʃitarja",
+  "plebiscitarie": "plebiʃʃitarje",
+  "plebiscitario": "plebiʃʃitarjo",
+  "plebisciti": "plebiʃʃiti",
+  "plebiscito": "plebiʃʃito",
+  "plecotteri": "plekɔtːeri",
+  "plecottero": "plekɔtːero",
+  "pleiade": "plɛjade",
+  "pleiomorfismo": "plejomorfizmo",
+  "pleistocene": "plejstotʃɛne",
+  "pleistocenica": "plejstotʃɛnika",
+  "pleistoceniche": "plejstotʃɛnike",
+  "pleistocenico": "plejstotʃɛniko",
+  "plenario": "plenarjo",
+  "pleniluni": "plɛniluni",
+  "plenilunio": "plenilunjo",
+  "plenilunio_2": "plɛnilunjɔ",
+  "plenipotenza": "plɛnipotɛntsa",
+  "plenipotenziario": "plɛnipotentsjarjo",
+  "pleocroismo": "pleokroizmo",
+  "pleonasmo": "pleonazmo",
+  "pleonastico": "pleonastiko",
+  "plesiosauro": "plezjosawro",
+  "plesso": "plɛsːo",
+  "pletora": "plɛtora",
+  "pletorica": "pletɔrika",
+  "pletoricamente": "pletɔrikamente",
+  "pletoriche": "pletɔrike",
+  "pletorici": "pletɔritʃi",
+  "pletorico": "pletɔriko",
+  "pletri": "plɛtri",
+  "pletro": "plɛtro",
+  "plettro": "plɛtːro",
+  "pleura": "plɛur",
+  "pleure": "plɛure",
+  "plexiglas": "plɛksiɡlas",
+  "plico": "pliko",
+  "plin": "plin",
+  "plinio": "plinjo",
+  "plinti": "plinti",
+  "plinto": "plinto",
+  "pliocene": "pliotʃɛne",
+  "pliocenico": "pliotʃɛniko",
+  "plissettatura": "plisːetːatura",
+  "ploceide": "plotʃɛjde",
+  "ploceidi": "plotʃɛjdi",
+  "plorante": "plorante",
+  "plorare": "plorare",
+  "ploro": "plɔro",
+  "plot": "plɔt",
+  "plotone": "plotone",
+  "plotter": "plɔtːer",
+  "plugo": "pluɡo",
+  "plumbea": "plumbea",
+  "plumbee": "plumbee",
+  "plumbei": "plumbej",
+  "plumbeo": "plumbeo",
+  "plumbleo": "plumbeo",
+  "plumcake": "plumkeik",
+  "plumcake_2": "plumkɛik",
+  "plumcake_3": "pluɲkeik",
+  "plumcake_4": "pluɲkɛik",
+  "plurale": "plurale",
+  "plurali": "plurali",
+  "pluralismi": "pluralizmi",
+  "pluralismo": "pluralizmo",
+  "pluralista": "pluralista",
+  "pluraliste": "pluraliste",
+  "pluralisti": "pluralisti",
+  "pluralistica": "pluralistika",
+  "pluralistiche": "pluralistike",
+  "pluralistici": "pluralistitʃi",
+  "pluralistico": "pluralistiko",
+  "pluralità": "pluralita",
+  "pluralizzare": "pluralidːʒare",
+  "pluralizzaste": "pluralidːzaste",
+  "pluralizzata": "pluralidːʒata",
+  "pluralizzate": "pluralidːʒate",
+  "pluralizzati": "pluralidːʒati",
+  "pluralizzato": "pluralidːʒato",
+  "pluralizzazione": "pluralidːzatsjone",
+  "pluralizzazioni": "pluralidːzatsjoni",
+  "pluriannuale": "plurianːuale",
+  "pluriannuali": "plurianːuali"
 }

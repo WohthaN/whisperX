@@ -1,1537 +1,537 @@
 {
-  "etra": [
-    "ɛtra"
-  ],
-  "etruria": [
-    "etrurja"
-  ],
-  "etruscheria": [
-    "etruskeria"
-  ],
-  "etrusco": [
-    "etrusko"
-  ],
-  "etruscologica": [
-    "etruskolɔdʒika"
-  ],
-  "etruscologiche": [
-    "etruskolɔdʒike"
-  ],
-  "etruscologici": [
-    "etruskolɔdʒitʃi"
-  ],
-  "etruscologico": [
-    "etruskolɔdʒiko"
-  ],
-  "etruscologo": [
-    "etruskɔloɡo"
-  ],
-  "ettaedro": [
-    "etːaɛdro"
-  ],
-  "ettagono": [
-    "etːaɡono"
-  ],
-  "ettaro": [
-    "ɛtːaro"
-  ],
-  "etternale": [
-    "etːernale"
-  ],
-  "etterno": [
-    "etːɛrno"
-  ],
-  "etto": [
-    "et",
-    "ɛtːo"
-  ],
-  "ettogrammo": [
-    "etːoɡramːo"
-  ],
-  "ettolitri": [
-    "etːɔlitri"
-  ],
-  "ettolitro": [
-    "etːɔlitro"
-  ],
-  "ettore": [
-    "ɛtːore"
-  ],
-  "eubatteri": [
-    "ewbatːɛri"
-  ],
-  "eubatterio": [
-    "ewbatːɛrjo"
-  ],
-  "eucalipti": [
-    "ɛwkalipti"
-  ],
-  "eucalipto": [
-    "ɛwkalipto"
-  ],
-  "eucarestia": [
-    "ɛwkarestia"
-  ],
-  "eucariote": [
-    "ewkarjɔte"
-  ],
-  "eucariotico": [
-    "ewkarjɔtiko"
-  ],
-  "eucaristico": [
-    "ewkaristiko"
-  ],
-  "euclidea": [
-    "euklidɛa"
-  ],
-  "euclidee": [
-    "euklidɛe"
-  ],
-  "euclidei": [
-    "euklidɛi"
-  ],
-  "euclideo": [
-    "euklidɛo",
-    "ewklidɛo"
-  ],
-  "eucologia": [
-    "eukolodʒia"
-  ],
-  "eudemonismo": [
-    "ewdemonizmo"
-  ],
-  "eudiometri": [
-    "ɛwdjɔmetri"
-  ],
-  "eudiometro": [
-    "ɛwdjɔmetro"
-  ],
-  "eudista": [
-    "ewdista"
-  ],
-  "eudiste": [
-    "ewdiste"
-  ],
-  "eudisti": [
-    "ewdisti"
-  ],
-  "eufemia": [
-    "ɛwfemia"
-  ],
-  "eufemismi": [
-    "ewfemizmi"
-  ],
-  "eufemismo": [
-    "eufemizmo",
-    "ewfemizmo"
-  ],
-  "eufemisticamente": [
-    "ewfemistikamente"
-  ],
-  "eufemistico": [
-    "ewfemistiko"
-  ],
-  "eufemizzante": [
-    "ewfemidːzante"
-  ],
-  "eufemizzanti": [
-    "ewfemidːzanti"
-  ],
-  "eufonia": [
-    "ewfonia"
-  ],
-  "euforbo": [
-    "ewfɔrbo"
-  ],
-  "euforia": [
-    "ewforia"
-  ],
-  "euforico": [
-    "ewfɔriko"
-  ],
-  "euforizzante": [
-    "ewforidːzante"
-  ],
-  "euforizzanti": [
-    "ewforidːzanti"
-  ],
-  "eugenetica": [
-    "eudʒenɛtika",
-    "ewdʒenɛtika"
-  ],
-  "eugenetiche": [
-    "eudʒenɛtike"
-  ],
-  "eugenetico": [
-    "ewdʒenɛtiko"
-  ],
-  "euglena": [
-    "ewɡlɛna"
-  ],
-  "eugubino": [
-    "ewɡubino"
-  ],
-  "eunomia": [
-    "ewnomia"
-  ],
-  "eunuchi": [
-    "eunuki"
-  ],
-  "eunuco": [
-    "eunuko"
-  ],
-  "eunucoidismo": [
-    "ewnukojdizmo"
-  ],
-  "eupeptico": [
-    "ewpɛptiko"
-  ],
-  "eurasia": [
-    "ewrazja"
-  ],
-  "eureka": [
-    "ɛwreka"
-  ],
-  "eurilaimide": [
-    "ewrilajmide"
-  ],
-  "eurilaimidi": [
-    "ewrilajmidi"
-  ],
-  "euristica": [
-    "ewristika"
-  ],
-  "euristico": [
-    "euristiko"
-  ],
-  "euritmia": [
-    "euritmia"
-  ],
-  "euritmico": [
-    "ewritmiko"
-  ],
-  "euro": [
-    "ɛuro",
-    "ɛwro",
-    "ɔiro"
-  ],
-  "eurocentrismo": [
-    "ewrotʃentrizmo"
-  ],
-  "eurocrate": [
-    "ewrɔkrate"
-  ],
-  "eurodeputatessa": [
-    "eurodeputatesːa"
-  ],
-  "europa": [
-    "ewrɔpa",
-    "ɛwrɔpa"
-  ],
-  "europarlamento": [
-    "ɛwroparlamento"
-  ],
-  "europea": [
-    "europɛa",
-    "ewropɛa",
-    "ewrɔpɛa"
-  ],
-  "europee": [
-    "ewrɔpɛe",
-    "ewrɔpɛi"
-  ],
-  "europei": [
-    "ewrɔpɛi"
-  ],
-  "europeismo": [
-    "ewropeizmo"
-  ],
-  "europeista": [
-    "ewropeista"
-  ],
-  "europeiste": [
-    "ewropeiste"
-  ],
-  "europeisti": [
-    "ewropeisti"
-  ],
-  "europeo": [
-    "europɛo",
-    "ewrɔpɛo",
-    "ewrɔpɛɔ"
-  ],
-  "europessimista": [
-    "ewropesːimista"
-  ],
-  "europessimiste": [
-    "ewropesːimiste"
-  ],
-  "europessimisti": [
-    "ewropesːimisti"
-  ],
-  "europio": [
-    "eurɔpjo",
-    "ewrɔpjo"
-  ],
-  "europoide": [
-    "europɔjde"
-  ],
-  "eurosatellite": [
-    "ɛwrosatelːite"
-  ],
-  "euroscettico": [
-    "ɛwroʃʃɛtːiko"
-  ],
-  "euroscudo": [
-    "ewroskudo"
-  ],
-  "eurovisione": [
-    "eurovizjone"
-  ],
-  "eurovisivo": [
-    "ɛwrovizivo"
-  ],
-  "eurozona": [
-    "ɛwrodːzɔna"
-  ],
-  "eusessuale": [
-    "euzesːwale"
-  ],
-  "eusessuali": [
-    "euzesːwali"
-  ],
-  "eustatico": [
-    "ɛwstatiko"
-  ],
-  "eustatismo": [
-    "ewstatizmo"
-  ],
-  "eusuchi": [
-    "ewsuki"
-  ],
-  "eutanasia": [
-    "eutanazia"
-  ],
-  "euteri": [
-    "ewtɛri"
-  ],
-  "euterio": [
-    "ewtɛrjo"
-  ],
-  "euterpe": [
-    "ewtɛrpe"
-  ],
-  "eutrofizzando": [
-    "eutrofidːzando"
-  ],
-  "eutrofizzante": [
-    "eutrofidːzante"
-  ],
-  "eutrofizzanti": [
-    "eutrofidːzanti"
-  ],
-  "eutrofizzare": [
-    "eutrofidːzare"
-  ],
-  "eutrofizzarsi": [
-    "eutrofidːzarsi"
-  ],
-  "eutrofizzata": [
-    "eutrofidːzata"
-  ],
-  "eutrofizzate": [
-    "eutrofidːzate"
-  ],
-  "eutrofizzati": [
-    "eutrofidːzati"
-  ],
-  "eutrofizzato": [
-    "eutrofidːzato"
-  ],
-  "eutrofizzazione": [
-    "eutrofidːzatsjone"
-  ],
-  "eutrofizzazioni": [
-    "eutrofidːzatsjoni"
-  ],
-  "evacuabile": [
-    "evakuabile"
-  ],
-  "evacuabili": [
-    "evakuabili"
-  ],
-  "evacuare": [
-    "evakuare"
-  ],
-  "evacuato": [
-    "evakuato"
-  ],
-  "evacuazione": [
-    "evakwatsjone"
-  ],
-  "evadere": [
-    "evadere"
-  ],
-  "evanescente": [
-    "evaneʃʃɛnte"
-  ],
-  "evanescenti": [
-    "evaneʃʃɛnti"
-  ],
-  "evanescenza": [
-    "evaneʃʃɛntsa"
-  ],
-  "evangeliari": [
-    "evandʒeljari"
-  ],
-  "evangeliario": [
-    "evandʒeljarjo"
-  ],
-  "evangelico": [
-    "evandʒɛliko"
-  ],
-  "evangelismo": [
-    "evandʒelizmo"
-  ],
-  "evangelista": [
-    "evandʒelista"
-  ],
-  "evangelizzante": [
-    "evaɲdʒelidːzante"
-  ],
-  "evangelizzare": [
-    "evaɲdʒelidːzare"
-  ],
-  "evangelizzato": [
-    "evaɲdʒelidːzato"
-  ],
-  "evaporabile": [
-    "evoparabile"
-  ],
-  "evaporabili": [
-    "evoparabili"
-  ],
-  "evaporando": [
-    "evaporando"
-  ],
-  "evaporante": [
-    "evaporante"
-  ],
-  "evaporanti": [
-    "evaporanti"
-  ],
-  "evaporare": [
-    "evaporare"
-  ],
-  "evaporato": [
-    "evaporato"
-  ],
-  "evaporatore": [
-    "evaporatore"
-  ],
-  "evaporazione": [
-    "evaporatsjone",
-    "evaporatːsjone"
-  ],
-  "evaporimetri": [
-    "evaporimetri"
-  ],
-  "evaporimetro": [
-    "evaporimetro"
-  ],
-  "evasione": [
-    "evazjone"
-  ],
-  "evasioni": [
-    "evazjoni"
-  ],
-  "evasivo": [
-    "evazivo"
-  ],
-  "evaso": [
-    "evazo"
-  ],
-  "evasore": [
-    "evazore"
-  ],
-  "evellere": [
-    "evɛlːere"
-  ],
-  "evenienza": [
-    "evenjɛntsa"
-  ],
-  "eventi": [
-    "evɛnti"
-  ],
-  "evento": [
-    "evɛnto"
-  ],
-  "eventuale": [
-    "eventuale",
-    "eventwale"
-  ],
-  "eventualità": [
-    "eventwalita"
-  ],
-  "eventualmente": [
-    "eventualmente"
-  ],
-  "evergete": [
-    "evɛrdʒete"
-  ],
-  "evergeti": [
-    "evɛrdʒeti"
-  ],
-  "evergetide": [
-    "everdʒɛtide"
-  ],
-  "evergetidi": [
-    "everdʒɛtidi"
-  ],
-  "eversione": [
-    "eversjone"
-  ],
-  "eversivo": [
-    "eversivo"
-  ],
-  "eversore": [
-    "eversore"
-  ],
-  "evia": [
-    "ɛvja"
-  ],
-  "evidente": [
-    "evidɛnte",
-    "ɛvidɛnte"
-  ],
-  "evidentemente": [
-    "evidentemente",
-    "evidɛntemente",
-    "ɛvidɛntɛmɛnte"
-  ],
-  "evidenza": [
-    "evidentsa",
-    "evidɛntsa"
-  ],
-  "evidenze": [
-    "evidentse"
-  ],
-  "evidenziatore": [
-    "evidentsjatore"
-  ],
-  "evidenziatori": [
-    "evidentsjatori"
-  ],
-  "evincere": [
-    "evintʃere"
-  ],
-  "evinci": [
-    "evintʃi"
-  ],
-  "evinto": [
-    "evinto"
-  ],
-  "evirare": [
-    "evirare"
-  ],
-  "evirato": [
-    "evirato"
-  ],
-  "evirazione": [
-    "eviratːsjone"
-  ],
-  "eviscerare": [
-    "eviʃʃerare"
-  ],
-  "eviscerazione": [
-    "eviʃʃeratsjone"
-  ],
-  "evitabile": [
-    "evitabile"
-  ],
-  "evitabili": [
-    "evitabili"
-  ],
-  "evitando": [
-    "evitando"
-  ],
-  "evitante": [
-    "evitante"
-  ],
-  "evitanti": [
-    "evitanti"
-  ],
-  "evitare": [
-    "evitare",
-    "ɛvitare"
-  ],
-  "evitato": [
-    "evitato"
-  ],
-  "evitazione": [
-    "evitatːsjone"
-  ],
-  "evito": [
-    "ɛvito"
-  ],
-  "evizione": [
-    "evitːsjone"
-  ],
-  "evo": [
-    "ɛvo"
-  ],
-  "evocando": [
-    "evokando"
-  ],
-  "evocante": [
-    "evokante"
-  ],
-  "evocare": [
-    "evokare"
-  ],
-  "evocativo": [
-    "evokativo"
-  ],
-  "evocato": [
-    "evokato"
-  ],
-  "evocazione": [
-    "evokatːsjone"
-  ],
-  "evolutamente": [
-    "evolutamente"
-  ],
-  "evolutivo": [
-    "evolutivo"
-  ],
-  "evoluto": [
-    "evoluto"
-  ],
-  "evoluzione": [
-    "evolutsjone",
-    "evolutːsjone"
-  ],
-  "evoluzioni": [
-    "evolutsjoni"
-  ],
-  "evoluzionismi": [
-    "evolutsjonismi"
-  ],
-  "evoluzionismo": [
-    "evolutsjonismo",
-    "evolutsjonizmo"
-  ],
-  "evoluzionista": [
-    "evolutsjonista",
-    "evolutːsjonista"
-  ],
-  "evoluzioniste": [
-    "evolutsjoniste"
-  ],
-  "evoluzionisti": [
-    "evolutsjonisti"
-  ],
-  "evolvente": [
-    "evolvɛnte"
-  ],
-  "evolvere": [
-    "evɔlvere"
-  ],
-  "evolversi": [
-    "evɔlversi"
-  ],
-  "evolvibile": [
-    "evolvibile"
-  ],
-  "evolvibili": [
-    "evolvibili"
-  ],
-  "evolvibilità": [
-    "evolvibilita"
-  ],
-  "evviva": [
-    "evːiva"
-  ],
-  "ex": [
-    "ɛks"
-  ],
-  "exattamenti": [
-    "eɡzatːamenti"
-  ],
-  "exattamento": [
-    "eɡzatːamento"
-  ],
-  "exchange": [
-    "ekstʃɛndʒ"
-  ],
-  "exclave": [
-    "eksklaɲv"
-  ],
-  "exempio": [
-    "eksɛmpjo"
-  ],
-  "exeresi": [
-    "eksɛrezi"
-  ],
-  "exoforia": [
-    "eɡʃoforia"
-  ],
-  "exoterico": [
-    "eksotɛriko"
-  ],
-  "explementare": [
-    "eksplementare"
-  ],
-  "exploit": [
-    "eksplwa",
-    "ɛksplwa"
-  ],
-  "extispicio": [
-    "ekstispitʃo"
-  ],
-  "extraatmosferico": [
-    "ekstraatmosfɛriko"
-  ],
-  "extracellulare": [
-    "ɛkstratʃelːulare"
-  ],
-  "extracellulari": [
-    "ɛkstratʃelːulari"
-  ],
-  "extracomunitario": [
-    "ekstrakomunitarjo"
-  ],
-  "extraeuropeo": [
-    "ekstraeuropɛo",
-    "ɛkstraewropɛo"
-  ],
-  "extragiudiziale": [
-    "ɛkstradʒuditsjale"
-  ],
-  "extragiudiziali": [
-    "ɛkstradʒuditsjali"
-  ],
-  "extragiudizialmente": [
-    "ɛkstradʒuditsjalmente"
-  ],
-  "extralavorativo": [
-    "estralavorativo"
-  ],
-  "extralussa": [
-    "ɛkstralusːa"
-  ],
-  "extralusse": [
-    "ɛkstralusːe"
-  ],
-  "extralussi": [
-    "ɛkstralusːi"
-  ],
-  "extralusso": [
-    "ekstralusːo",
-    "ɛkstralusːo"
-  ],
-  "extrapiramidale": [
-    "ekstrapiramidale"
-  ],
-  "extrapolare": [
-    "ekstrapolare"
-  ],
-  "extrasensibile": [
-    "ekstrasensibile"
-  ],
-  "extrasensibili": [
-    "ekstrasensibili"
-  ],
-  "extrasistole": [
-    "ekstrasistole"
-  ],
-  "extrasistolico": [
-    "ekstrasistɔliko"
-  ],
-  "extratemporale": [
-    "ekstratemporale"
-  ],
-  "extraterrestre": [
-    "ɛkstraterːɛstre"
-  ],
-  "extraterrestri": [
-    "ɛkstraterːɛstri"
-  ],
-  "extravergine": [
-    "ekstraverdʒine"
-  ],
-  "ezechiele": [
-    "edːzekjɛle"
-  ],
-  "eziandio": [
-    "etsːjandio",
-    "etːsjandio"
-  ],
-  "ezio": [
-    "ɛtːsjo"
-  ],
-  "eziologia": [
-    "etːsjolodʒia"
-  ],
-  "eziopatogenesi": [
-    "etːsjopatodʒɛnezi"
-  ],
-  "f": [
-    "ɛfːe",
-    "f"
-  ],
-  "fa": [
-    "fa"
-  ],
-  "fa’": [
-    "fa"
-  ],
-  "fabbisogno": [
-    "fabːizoɲɲo"
-  ],
-  "fabbri": [
-    "fabːri"
-  ],
-  "fabbrica": [
-    "fabːrika"
-  ],
-  "fabbricabile": [
-    "fabːrikabile"
-  ],
-  "fabbricabili": [
-    "fabːrikabili"
-  ],
-  "fabbricante": [
-    "fabːrikante"
-  ],
-  "fabbricare": [
-    "fabːrikare"
-  ],
-  "fabbricato": [
-    "fabːrikato"
-  ],
-  "fabbricazione": [
-    "fabːrikatsjone",
-    "fabːrikatːsjone"
-  ],
-  "fabbricazioni": [
-    "fabːrikatsjoni"
-  ],
-  "fabbriceria": [
-    "fabːritʃeria"
-  ],
-  "fabbriche": [
-    "fabːrike"
-  ],
-  "fabbrichetta": [
-    "fabːriketːa"
-  ],
-  "fabbro": [
-    "fabːro"
-  ],
-  "fabrizio": [
-    "fabritːsjo"
-  ],
-  "fabro": [
-    "fabro"
-  ],
-  "fabula": [
-    "fabula"
-  ],
-  "fabulare": [
-    "fabulare"
-  ],
-  "fabulazione": [
-    "fabulatːsjone"
-  ],
-  "fabulazioni": [
-    "fabulatːsjoni"
-  ],
-  "facce": [
-    "fatːʃe"
-  ],
-  "faccenda": [
-    "fatːʃɛnda"
-  ],
-  "faccende": [
-    "fatːʃɛnde"
-  ],
-  "faccendiere": [
-    "fatːʃendjɛre"
-  ],
-  "faccetta": [
-    "fatːʃetːa"
-  ],
-  "faccettante": [
-    "fatːʃetːante"
-  ],
-  "faccettare": [
-    "fatːʃetːare"
-  ],
-  "faccettato": [
-    "fatːʃetːato"
-  ],
-  "faccette": [
-    "fatːʃetːe"
-  ],
-  "facchino": [
-    "fakːino",
-    "fakːinɔ"
-  ],
-  "facci": [
-    "fatːʃi"
-  ],
-  "faccia": [
-    "fatːʃa"
-  ],
-  "facciale": [
-    "fatːʃale"
-  ],
-  "facciali": [
-    "fatːʃali"
-  ],
-  "facciamo": [
-    "fatːʃamo"
-  ],
-  "facciamoci": [
-    "fatːʃamotʃi"
-  ],
-  "facciano": [
-    "fatːʃano"
-  ],
-  "facciata": [
-    "fatːʃata"
-  ],
-  "facciate": [
-    "fatːʃate"
-  ],
-  "faccina": [
-    "fatːʃina"
-  ],
-  "faccine": [
-    "fatːʃine"
-  ],
-  "faccino": [
-    "fatːʃino"
-  ],
-  "faccio": [
-    "fatːʃo"
-  ],
-  "faccitergio": [
-    "fatːʃitɛrdʒo"
-  ],
-  "facemmo": [
-    "fatʃemːo"
-  ],
-  "facendo": [
-    "fatʃendo"
-  ],
-  "facendosi": [
-    "fatʃendosi"
-  ],
-  "facente": [
-    "fatʃente",
-    "fatʃɛnte"
-  ],
-  "facentesi": [
-    "fatʃentesi"
-  ],
-  "facesse": [
-    "fatʃesːe"
-  ],
-  "facessero": [
-    "fatʃesːero"
-  ],
-  "facessi": [
-    "fatʃesːi"
-  ],
-  "facessimo": [
-    "fatʃesːimo"
-  ],
-  "faceste": [
-    "fatʃeste"
-  ],
-  "facesti": [
-    "fatʃesti"
-  ],
-  "faceta": [
-    "fatʃeta"
-  ],
-  "facete": [
-    "fatʃete"
-  ],
-  "faceti": [
-    "fatʃeti"
-  ],
-  "faceto": [
-    "fatʃeto",
-    "fatʃɛto"
-  ],
-  "faceva": [
-    "fatʃeva"
-  ],
-  "facevamo": [
-    "fatʃevamo"
-  ],
-  "facevano": [
-    "fatʃevano"
-  ],
-  "facevate": [
-    "fatʃevate"
-  ],
-  "facevi": [
-    "fatʃevi"
-  ],
-  "facevo": [
-    "fatʃevo"
-  ],
-  "facezia": [
-    "fatʃɛtːsja"
-  ],
-  "fachiri": [
-    "fakiri"
-  ],
-  "fachiro": [
-    "fakiro"
-  ],
-  "faciale": [
-    "fatʃale"
-  ],
-  "facile": [
-    "fatʃile"
-  ],
-  "facili": [
-    "fatʃili"
-  ],
-  "facilissima": [
-    "fatʃilisːima"
-  ],
-  "facilissime": [
-    "fatʃilisːime"
-  ],
-  "facilissimi": [
-    "fatʃilisːimi"
-  ],
-  "facilissimo": [
-    "fatʃilisːimo"
-  ],
-  "facilità": [
-    "fatʃilita"
-  ],
-  "facilitare": [
-    "atʃilitare"
-  ],
-  "facilitato": [
-    "fatʃilitato"
-  ],
-  "facilitatore": [
-    "fatʃilitatore"
-  ],
-  "facilitatori": [
-    "fatʃilitatori"
-  ],
-  "facilitatrice": [
-    "fatʃilitatritʃe"
-  ],
-  "facilitatrici": [
-    "fatʃilitatritʃi"
-  ],
-  "facilitazione": [
-    "fatʃilitatːsjone"
-  ],
-  "facilmente": [
-    "fatʃilmente"
-  ],
-  "facilone": [
-    "fatʃilone"
-  ],
-  "facinoroso": [
-    "fatʃinoroso",
-    "fatʃinorozo"
-  ],
-  "facocero": [
-    "fakotʃɛro"
-  ],
-  "facochero": [
-    "fakokɛro"
-  ],
-  "facola": [
-    "fakola"
-  ],
-  "facole": [
-    "fakole"
-  ],
-  "facoltà": [
-    "fakolta"
-  ],
-  "facoltativa": [
-    "fakoltativa"
-  ],
-  "facoltativamente": [
-    "fakoltativamente"
-  ],
-  "facoltative": [
-    "fakoltative"
-  ],
-  "facoltativi": [
-    "fakoltativi"
-  ],
-  "facoltativo": [
-    "fakoltativo"
-  ],
-  "facoltosamente": [
-    "fakoltosamente"
-  ],
-  "facoltose": [
-    "fakoltoze"
-  ],
-  "facoltoso": [
-    "fakoltozo"
-  ],
-  "facondamente": [
-    "fakondamente"
-  ],
-  "facondo": [
-    "fakondo"
-  ],
-  "facula": [
-    "fakula"
-  ],
-  "facule": [
-    "fakule"
-  ],
-  "fadista": [
-    "fadista"
-  ],
-  "fadiste": [
-    "fadiste"
-  ],
-  "fadisti": [
-    "fadisti"
-  ],
-  "faenza": [
-    "faɛntsa"
-  ],
-  "faenze": [
-    "faɛntse"
-  ],
-  "faesite": [
-    "faezite"
-  ],
-  "fagacea": [
-    "faɡatʃea"
-  ],
-  "faggeta": [
-    "fadːʒeta"
-  ],
-  "faggeto": [
-    "fadːʒeto"
-  ],
-  "faggi": [
-    "fadːʒi"
-  ],
-  "faggio": [
-    "fadːʒo"
-  ],
-  "fagi": [
-    "fadʒi"
-  ],
-  "fagiana": [
-    "fadʒana"
-  ],
-  "fagianaia": [
-    "fadʒanaja"
-  ],
-  "fagianella": [
-    "fadʒanɛlːa"
-  ],
-  "fagiani": [
-    "fadʒani"
-  ],
-  "fagiano": [
-    "fadʒano"
-  ],
-  "fagioli": [
-    "fadʒɔli"
-  ],
-  "fagiolini": [
-    "fadʒɔlini"
-  ],
-  "fagiolino": [
-    "fadʒolino",
-    "fadʒɔlino"
-  ],
-  "fagiolo": [
-    "fadʒɔlo"
-  ],
-  "fagiuoli": [
-    "fadʒwɔli"
-  ],
-  "fagiuolo": [
-    "fadʒwɔlo"
-  ],
-  "faglia": [
-    "faʎa"
-  ],
-  "faglie": [
-    "faʎe"
-  ],
-  "fago": [
-    "faɡo"
-  ],
-  "fagocitante": [
-    "faɡotʃitante"
-  ],
-  "fagocitanti": [
-    "faɡotʃitanti"
-  ],
-  "fagocitare": [
-    "faɡotʃitare"
-  ],
-  "fagocitari": [
-    "faɡotʃitari"
-  ],
-  "fagocitaria": [
-    "faɡotʃitarja"
-  ],
-  "fagocitarie": [
-    "faɡotʃitarje"
-  ],
-  "fagocitario": [
-    "faɡotʃitarjo"
-  ],
-  "fagocitato": [
-    "faɡotʃitato"
-  ],
-  "fagocito": [
-    "faɡotʃito"
-  ],
-  "fagocitosi": [
-    "faɡotʃitɔzi"
-  ],
-  "fagopirismo": [
-    "faɡopirizmo"
-  ],
-  "fagottino": [
-    "faɡotːino"
-  ],
-  "fagottista": [
-    "faɡotːista"
-  ],
-  "fagottiste": [
-    "faɡotːiste"
-  ],
-  "fagottisti": [
-    "faɡotːisti"
-  ],
-  "fagotto": [
-    "faɡɔtːo"
-  ],
-  "fai": [
-    "fai"
-  ],
-  "faida": [
-    "fajda"
-  ],
-  "faide": [
-    "fajde"
-  ],
-  "faina": [
-    "faina"
-  ],
-  "faine": [
-    "faine"
-  ],
-  "faio": [
-    "fajo"
-  ],
-  "falacrocoracide": [
-    "falakrokoratʃide"
-  ],
-  "falacrocoracidi": [
-    "falakrokoratʃidi"
-  ],
-  "falange": [
-    "falandʒe"
-  ],
-  "falangeride": [
-    "falandʒɛride"
-  ],
-  "falangeridi": [
-    "falandʒɛride"
-  ],
-  "falangetta": [
-    "falandʒetːa"
-  ],
-  "falanghina": [
-    "falanɡina"
-  ],
-  "falangina": [
-    "falandʒina"
-  ],
-  "falangismo": [
-    "falandʒizmo"
-  ],
-  "falangista": [
-    "falandʒista"
-  ],
-  "falansterio": [
-    "falanstɛrjo"
-  ],
-  "falaride": [
-    "falaride"
-  ],
-  "falbo": [
-    "falbo"
-  ],
-  "falcastri": [
-    "falkastri"
-  ],
-  "falcastro": [
-    "falkastro"
-  ],
-  "falcata": [
-    "falkata"
-  ],
-  "falcate": [
-    "falkate"
-  ],
-  "falce": [
-    "faltʃe"
-  ],
-  "falcetti": [
-    "faltʃetːi"
-  ],
-  "falcetto": [
-    "faltʃetːo"
-  ],
-  "falchi": [
-    "falki"
-  ],
-  "falci": [
-    "faltʃi"
-  ],
-  "falciare": [
-    "faltʃare"
-  ],
-  "falciatore": [
-    "faltʃatore"
-  ],
-  "falciatori": [
-    "faltʃatori"
-  ],
-  "falciatrice": [
-    "faltʃatritʃe"
-  ],
-  "falciatrici": [
-    "faltʃatritʃi"
-  ],
-  "falcidiare": [
-    "faltʃidjare"
-  ],
-  "falcidiato": [
-    "faltʃidjato"
-  ],
-  "falciforme": [
-    "faltʃiforme"
-  ],
-  "falciformi": [
-    "faltʃiformi"
-  ],
-  "falciola": [
-    "faltʃola"
-  ],
-  "falciole": [
-    "faltʃole"
-  ],
-  "falcione": [
-    "faltʃone"
-  ],
-  "falcioni": [
-    "faltʃoni"
-  ],
-  "falciuola": [
-    "faltʃiwɔla"
-  ],
-  "falciuole": [
-    "faltʃiwɔle"
-  ],
-  "falco": [
-    "falko"
-  ],
-  "falcone": [
-    "falkone"
-  ],
-  "falconetti": [
-    "falkonetːi"
-  ],
-  "falconetto": [
-    "falkonetːo"
-  ],
-  "falconi": [
-    "falkoni"
-  ],
-  "falconide": [
-    "falkɔnide"
-  ],
-  "falconidi": [
-    "falkɔnidi"
-  ],
-  "falconiforme": [
-    "falkoniforme"
-  ],
-  "falconiformi": [
-    "falkoniformi"
-  ],
-  "falda": [
-    "falda"
-  ],
-  "faldistorio": [
-    "faldistɔrjo"
-  ],
-  "faldone": [
-    "faldone"
-  ],
-  "faleci": [
-    "falɛtʃi"
-  ],
-  "falecio": [
-    "falɛtʃo"
-  ],
-  "falegname": [
-    "faleɲɲame"
-  ],
-  "falegnameria": [
-    "faleɲɲameria"
-  ],
-  "falegnami": [
-    "faleɲɲami"
-  ],
-  "falena": [
-    "falɛna"
-  ],
-  "falene": [
-    "falɛne"
-  ],
-  "falerno": [
-    "falɛrno"
-  ],
-  "falesia": [
-    "falɛzja"
-  ],
-  "falla": [
-    "falːa"
-  ],
-  "fallace": [
-    "falːatʃe"
-  ],
-  "fallaci": [
-    "falːatʃi"
-  ],
-  "fallacia": [
-    "falːatʃa"
-  ],
-  "fallacie": [
-    "falːatʃe"
-  ],
-  "fallibile": [
-    "falːibile"
-  ],
-  "fallibili": [
-    "falːibili"
-  ],
-  "fallica": [
-    "falːika"
-  ],
-  "falliche": [
-    "falːike"
-  ],
-  "fallici": [
-    "falːitʃi"
-  ],
-  "fallico": [
-    "falːiko"
-  ],
-  "fallimentare": [
-    "falːimentare"
-  ],
-  "fallimenti": [
-    "falːimenti"
-  ],
-  "fallimento": [
-    "falːimento",
-    "falːimɛnto"
-  ],
-  "fallire": [
-    "falːire"
-  ],
-  "fallito": [
-    "falːito"
-  ],
-  "fallo": [
-    "falːo"
-  ],
-  "fallocentrica": [
-    "falːotʃɛntrika"
-  ],
-  "fallocentriche": [
-    "falːotʃɛntrike"
-  ],
-  "fallocentrici": [
-    "falːotʃɛntritʃi"
-  ],
-  "fallocentrico": [
-    "falːotʃɛntriko"
-  ],
-  "fallocrazia": [
-    "falːokratsia"
-  ],
-  "fallocrazie": [
-    "falːokratsie"
-  ],
-  "falloplastica": [
-    "falːoplastika"
-  ],
-  "falloplastiche": [
-    "falːoplastike"
-  ],
-  "falloppiano": [
-    "falːopːjano"
-  ],
-  "falò": [
-    "falɔ"
-  ],
-  "falotico": [
-    "falɔtiko"
-  ],
-  "falsa": [
-    "falsa"
-  ],
-  "falsamente": [
-    "falsamente"
-  ],
-  "falsare": [
-    "falsare"
-  ],
-  "falsari": [
-    "falsari"
-  ],
-  "falsaria": [
-    "falsarja"
-  ],
-  "falsarie": [
-    "falsarje"
-  ],
-  "falsario": [
-    "falsarjo"
-  ],
-  "falsato": [
-    "falsato"
-  ],
-  "false": [
-    "false"
-  ],
-  "falsetti": [
-    "falsetːi"
-  ]
+  "etra": "ɛtra",
+  "etruria": "etrurja",
+  "etruscheria": "etruskeria",
+  "etrusco": "etrusko",
+  "etruscologica": "etruskolɔdʒika",
+  "etruscologiche": "etruskolɔdʒike",
+  "etruscologici": "etruskolɔdʒitʃi",
+  "etruscologico": "etruskolɔdʒiko",
+  "etruscologo": "etruskɔloɡo",
+  "ettaedro": "etːaɛdro",
+  "ettagono": "etːaɡono",
+  "ettaro": "ɛtːaro",
+  "etternale": "etːernale",
+  "etterno": "etːɛrno",
+  "etto": "et",
+  "etto_2": "ɛtːo",
+  "ettogrammo": "etːoɡramːo",
+  "ettolitri": "etːɔlitri",
+  "ettolitro": "etːɔlitro",
+  "ettore": "ɛtːore",
+  "eubatteri": "ewbatːɛri",
+  "eubatterio": "ewbatːɛrjo",
+  "eucalipti": "ɛwkalipti",
+  "eucalipto": "ɛwkalipto",
+  "eucarestia": "ɛwkarestia",
+  "eucariote": "ewkarjɔte",
+  "eucariotico": "ewkarjɔtiko",
+  "eucaristico": "ewkaristiko",
+  "euclidea": "euklidɛa",
+  "euclidee": "euklidɛe",
+  "euclidei": "euklidɛi",
+  "euclideo": "euklidɛo",
+  "euclideo_2": "ewklidɛo",
+  "eucologia": "eukolodʒia",
+  "eudemonismo": "ewdemonizmo",
+  "eudiometri": "ɛwdjɔmetri",
+  "eudiometro": "ɛwdjɔmetro",
+  "eudista": "ewdista",
+  "eudiste": "ewdiste",
+  "eudisti": "ewdisti",
+  "eufemia": "ɛwfemia",
+  "eufemismi": "ewfemizmi",
+  "eufemismo": "eufemizmo",
+  "eufemismo_2": "ewfemizmo",
+  "eufemisticamente": "ewfemistikamente",
+  "eufemistico": "ewfemistiko",
+  "eufemizzante": "ewfemidːzante",
+  "eufemizzanti": "ewfemidːzanti",
+  "eufonia": "ewfonia",
+  "euforbo": "ewfɔrbo",
+  "euforia": "ewforia",
+  "euforico": "ewfɔriko",
+  "euforizzante": "ewforidːzante",
+  "euforizzanti": "ewforidːzanti",
+  "eugenetica": "eudʒenɛtika",
+  "eugenetica_2": "ewdʒenɛtika",
+  "eugenetiche": "eudʒenɛtike",
+  "eugenetico": "ewdʒenɛtiko",
+  "euglena": "ewɡlɛna",
+  "eugubino": "ewɡubino",
+  "eunomia": "ewnomia",
+  "eunuchi": "eunuki",
+  "eunuco": "eunuko",
+  "eunucoidismo": "ewnukojdizmo",
+  "eupeptico": "ewpɛptiko",
+  "eurasia": "ewrazja",
+  "eureka": "ɛwreka",
+  "eurilaimide": "ewrilajmide",
+  "eurilaimidi": "ewrilajmidi",
+  "euristica": "ewristika",
+  "euristico": "euristiko",
+  "euritmia": "euritmia",
+  "euritmico": "ewritmiko",
+  "euro": "ɛuro",
+  "euro_2": "ɛwro",
+  "euro_3": "ɔiro",
+  "eurocentrismo": "ewrotʃentrizmo",
+  "eurocrate": "ewrɔkrate",
+  "eurodeputatessa": "eurodeputatesːa",
+  "europa": "ewrɔpa",
+  "europa_2": "ɛwrɔpa",
+  "europarlamento": "ɛwroparlamento",
+  "europea": "europɛa",
+  "europea_2": "ewropɛa",
+  "europea_3": "ewrɔpɛa",
+  "europee": "ewrɔpɛe",
+  "europee_2": "ewrɔpɛi",
+  "europei": "ewrɔpɛi",
+  "europeismo": "ewropeizmo",
+  "europeista": "ewropeista",
+  "europeiste": "ewropeiste",
+  "europeisti": "ewropeisti",
+  "europeo": "europɛo",
+  "europeo_2": "ewrɔpɛo",
+  "europeo_3": "ewrɔpɛɔ",
+  "europessimista": "ewropesːimista",
+  "europessimiste": "ewropesːimiste",
+  "europessimisti": "ewropesːimisti",
+  "europio": "eurɔpjo",
+  "europio_2": "ewrɔpjo",
+  "europoide": "europɔjde",
+  "eurosatellite": "ɛwrosatelːite",
+  "euroscettico": "ɛwroʃʃɛtːiko",
+  "euroscudo": "ewroskudo",
+  "eurovisione": "eurovizjone",
+  "eurovisivo": "ɛwrovizivo",
+  "eurozona": "ɛwrodːzɔna",
+  "eusessuale": "euzesːwale",
+  "eusessuali": "euzesːwali",
+  "eustatico": "ɛwstatiko",
+  "eustatismo": "ewstatizmo",
+  "eusuchi": "ewsuki",
+  "eutanasia": "eutanazia",
+  "euteri": "ewtɛri",
+  "euterio": "ewtɛrjo",
+  "euterpe": "ewtɛrpe",
+  "eutrofizzando": "eutrofidːzando",
+  "eutrofizzante": "eutrofidːzante",
+  "eutrofizzanti": "eutrofidːzanti",
+  "eutrofizzare": "eutrofidːzare",
+  "eutrofizzarsi": "eutrofidːzarsi",
+  "eutrofizzata": "eutrofidːzata",
+  "eutrofizzate": "eutrofidːzate",
+  "eutrofizzati": "eutrofidːzati",
+  "eutrofizzato": "eutrofidːzato",
+  "eutrofizzazione": "eutrofidːzatsjone",
+  "eutrofizzazioni": "eutrofidːzatsjoni",
+  "evacuabile": "evakuabile",
+  "evacuabili": "evakuabili",
+  "evacuare": "evakuare",
+  "evacuato": "evakuato",
+  "evacuazione": "evakwatsjone",
+  "evadere": "evadere",
+  "evanescente": "evaneʃʃɛnte",
+  "evanescenti": "evaneʃʃɛnti",
+  "evanescenza": "evaneʃʃɛntsa",
+  "evangeliari": "evandʒeljari",
+  "evangeliario": "evandʒeljarjo",
+  "evangelico": "evandʒɛliko",
+  "evangelismo": "evandʒelizmo",
+  "evangelista": "evandʒelista",
+  "evangelizzante": "evaɲdʒelidːzante",
+  "evangelizzare": "evaɲdʒelidːzare",
+  "evangelizzato": "evaɲdʒelidːzato",
+  "evaporabile": "evoparabile",
+  "evaporabili": "evoparabili",
+  "evaporando": "evaporando",
+  "evaporante": "evaporante",
+  "evaporanti": "evaporanti",
+  "evaporare": "evaporare",
+  "evaporato": "evaporato",
+  "evaporatore": "evaporatore",
+  "evaporazione": "evaporatsjone",
+  "evaporazione_2": "evaporatːsjone",
+  "evaporimetri": "evaporimetri",
+  "evaporimetro": "evaporimetro",
+  "evasione": "evazjone",
+  "evasioni": "evazjoni",
+  "evasivo": "evazivo",
+  "evaso": "evazo",
+  "evasore": "evazore",
+  "evellere": "evɛlːere",
+  "evenienza": "evenjɛntsa",
+  "eventi": "evɛnti",
+  "evento": "evɛnto",
+  "eventuale": "eventuale",
+  "eventuale_2": "eventwale",
+  "eventualità": "eventwalita",
+  "eventualmente": "eventualmente",
+  "evergete": "evɛrdʒete",
+  "evergeti": "evɛrdʒeti",
+  "evergetide": "everdʒɛtide",
+  "evergetidi": "everdʒɛtidi",
+  "eversione": "eversjone",
+  "eversivo": "eversivo",
+  "eversore": "eversore",
+  "evia": "ɛvja",
+  "evidente": "evidɛnte",
+  "evidente_2": "ɛvidɛnte",
+  "evidentemente": "evidentemente",
+  "evidentemente_2": "evidɛntemente",
+  "evidentemente_3": "ɛvidɛntɛmɛnte",
+  "evidenza": "evidentsa",
+  "evidenza_2": "evidɛntsa",
+  "evidenze": "evidentse",
+  "evidenziatore": "evidentsjatore",
+  "evidenziatori": "evidentsjatori",
+  "evincere": "evintʃere",
+  "evinci": "evintʃi",
+  "evinto": "evinto",
+  "evirare": "evirare",
+  "evirato": "evirato",
+  "evirazione": "eviratːsjone",
+  "eviscerare": "eviʃʃerare",
+  "eviscerazione": "eviʃʃeratsjone",
+  "evitabile": "evitabile",
+  "evitabili": "evitabili",
+  "evitando": "evitando",
+  "evitante": "evitante",
+  "evitanti": "evitanti",
+  "evitare": "evitare",
+  "evitare_2": "ɛvitare",
+  "evitato": "evitato",
+  "evitazione": "evitatːsjone",
+  "evito": "ɛvito",
+  "evizione": "evitːsjone",
+  "evo": "ɛvo",
+  "evocando": "evokando",
+  "evocante": "evokante",
+  "evocare": "evokare",
+  "evocativo": "evokativo",
+  "evocato": "evokato",
+  "evocazione": "evokatːsjone",
+  "evolutamente": "evolutamente",
+  "evolutivo": "evolutivo",
+  "evoluto": "evoluto",
+  "evoluzione": "evolutsjone",
+  "evoluzione_2": "evolutːsjone",
+  "evoluzioni": "evolutsjoni",
+  "evoluzionismi": "evolutsjonismi",
+  "evoluzionismo": "evolutsjonismo",
+  "evoluzionismo_2": "evolutsjonizmo",
+  "evoluzionista": "evolutsjonista",
+  "evoluzionista_2": "evolutːsjonista",
+  "evoluzioniste": "evolutsjoniste",
+  "evoluzionisti": "evolutsjonisti",
+  "evolvente": "evolvɛnte",
+  "evolvere": "evɔlvere",
+  "evolversi": "evɔlversi",
+  "evolvibile": "evolvibile",
+  "evolvibili": "evolvibili",
+  "evolvibilità": "evolvibilita",
+  "evviva": "evːiva",
+  "ex": "ɛks",
+  "exattamenti": "eɡzatːamenti",
+  "exattamento": "eɡzatːamento",
+  "exchange": "ekstʃɛndʒ",
+  "exclave": "eksklaɲv",
+  "exempio": "eksɛmpjo",
+  "exeresi": "eksɛrezi",
+  "exoforia": "eɡʃoforia",
+  "exoterico": "eksotɛriko",
+  "explementare": "eksplementare",
+  "exploit": "eksplwa",
+  "exploit_2": "ɛksplwa",
+  "extispicio": "ekstispitʃo",
+  "extraatmosferico": "ekstraatmosfɛriko",
+  "extracellulare": "ɛkstratʃelːulare",
+  "extracellulari": "ɛkstratʃelːulari",
+  "extracomunitario": "ekstrakomunitarjo",
+  "extraeuropeo": "ekstraeuropɛo",
+  "extraeuropeo_2": "ɛkstraewropɛo",
+  "extragiudiziale": "ɛkstradʒuditsjale",
+  "extragiudiziali": "ɛkstradʒuditsjali",
+  "extragiudizialmente": "ɛkstradʒuditsjalmente",
+  "extralavorativo": "estralavorativo",
+  "extralussa": "ɛkstralusːa",
+  "extralusse": "ɛkstralusːe",
+  "extralussi": "ɛkstralusːi",
+  "extralusso": "ekstralusːo",
+  "extralusso_2": "ɛkstralusːo",
+  "extrapiramidale": "ekstrapiramidale",
+  "extrapolare": "ekstrapolare",
+  "extrasensibile": "ekstrasensibile",
+  "extrasensibili": "ekstrasensibili",
+  "extrasistole": "ekstrasistole",
+  "extrasistolico": "ekstrasistɔliko",
+  "extratemporale": "ekstratemporale",
+  "extraterrestre": "ɛkstraterːɛstre",
+  "extraterrestri": "ɛkstraterːɛstri",
+  "extravergine": "ekstraverdʒine",
+  "ezechiele": "edːzekjɛle",
+  "eziandio": "etsːjandio",
+  "eziandio_2": "etːsjandio",
+  "ezio": "ɛtːsjo",
+  "eziologia": "etːsjolodʒia",
+  "eziopatogenesi": "etːsjopatodʒɛnezi",
+  "f": "ɛfːe",
+  "f_2": "f",
+  "fa": "fa",
+  "fa’": "fa",
+  "fabbisogno": "fabːizoɲɲo",
+  "fabbri": "fabːri",
+  "fabbrica": "fabːrika",
+  "fabbricabile": "fabːrikabile",
+  "fabbricabili": "fabːrikabili",
+  "fabbricante": "fabːrikante",
+  "fabbricare": "fabːrikare",
+  "fabbricato": "fabːrikato",
+  "fabbricazione": "fabːrikatsjone",
+  "fabbricazione_2": "fabːrikatːsjone",
+  "fabbricazioni": "fabːrikatsjoni",
+  "fabbriceria": "fabːritʃeria",
+  "fabbriche": "fabːrike",
+  "fabbrichetta": "fabːriketːa",
+  "fabbro": "fabːro",
+  "fabrizio": "fabritːsjo",
+  "fabro": "fabro",
+  "fabula": "fabula",
+  "fabulare": "fabulare",
+  "fabulazione": "fabulatːsjone",
+  "fabulazioni": "fabulatːsjoni",
+  "facce": "fatːʃe",
+  "faccenda": "fatːʃɛnda",
+  "faccende": "fatːʃɛnde",
+  "faccendiere": "fatːʃendjɛre",
+  "faccetta": "fatːʃetːa",
+  "faccettante": "fatːʃetːante",
+  "faccettare": "fatːʃetːare",
+  "faccettato": "fatːʃetːato",
+  "faccette": "fatːʃetːe",
+  "facchino": "fakːino",
+  "facchino_2": "fakːinɔ",
+  "facci": "fatːʃi",
+  "faccia": "fatːʃa",
+  "facciale": "fatːʃale",
+  "facciali": "fatːʃali",
+  "facciamo": "fatːʃamo",
+  "facciamoci": "fatːʃamotʃi",
+  "facciano": "fatːʃano",
+  "facciata": "fatːʃata",
+  "facciate": "fatːʃate",
+  "faccina": "fatːʃina",
+  "faccine": "fatːʃine",
+  "faccino": "fatːʃino",
+  "faccio": "fatːʃo",
+  "faccitergio": "fatːʃitɛrdʒo",
+  "facemmo": "fatʃemːo",
+  "facendo": "fatʃendo",
+  "facendosi": "fatʃendosi",
+  "facente": "fatʃente",
+  "facente_2": "fatʃɛnte",
+  "facentesi": "fatʃentesi",
+  "facesse": "fatʃesːe",
+  "facessero": "fatʃesːero",
+  "facessi": "fatʃesːi",
+  "facessimo": "fatʃesːimo",
+  "faceste": "fatʃeste",
+  "facesti": "fatʃesti",
+  "faceta": "fatʃeta",
+  "facete": "fatʃete",
+  "faceti": "fatʃeti",
+  "faceto": "fatʃeto",
+  "faceto_2": "fatʃɛto",
+  "faceva": "fatʃeva",
+  "facevamo": "fatʃevamo",
+  "facevano": "fatʃevano",
+  "facevate": "fatʃevate",
+  "facevi": "fatʃevi",
+  "facevo": "fatʃevo",
+  "facezia": "fatʃɛtːsja",
+  "fachiri": "fakiri",
+  "fachiro": "fakiro",
+  "faciale": "fatʃale",
+  "facile": "fatʃile",
+  "facili": "fatʃili",
+  "facilissima": "fatʃilisːima",
+  "facilissime": "fatʃilisːime",
+  "facilissimi": "fatʃilisːimi",
+  "facilissimo": "fatʃilisːimo",
+  "facilità": "fatʃilita",
+  "facilitare": "atʃilitare",
+  "facilitato": "fatʃilitato",
+  "facilitatore": "fatʃilitatore",
+  "facilitatori": "fatʃilitatori",
+  "facilitatrice": "fatʃilitatritʃe",
+  "facilitatrici": "fatʃilitatritʃi",
+  "facilitazione": "fatʃilitatːsjone",
+  "facilmente": "fatʃilmente",
+  "facilone": "fatʃilone",
+  "facinoroso": "fatʃinoroso",
+  "facinoroso_2": "fatʃinorozo",
+  "facocero": "fakotʃɛro",
+  "facochero": "fakokɛro",
+  "facola": "fakola",
+  "facole": "fakole",
+  "facoltà": "fakolta",
+  "facoltativa": "fakoltativa",
+  "facoltativamente": "fakoltativamente",
+  "facoltative": "fakoltative",
+  "facoltativi": "fakoltativi",
+  "facoltativo": "fakoltativo",
+  "facoltosamente": "fakoltosamente",
+  "facoltose": "fakoltoze",
+  "facoltoso": "fakoltozo",
+  "facondamente": "fakondamente",
+  "facondo": "fakondo",
+  "facula": "fakula",
+  "facule": "fakule",
+  "fadista": "fadista",
+  "fadiste": "fadiste",
+  "fadisti": "fadisti",
+  "faenza": "faɛntsa",
+  "faenze": "faɛntse",
+  "faesite": "faezite",
+  "fagacea": "faɡatʃea",
+  "faggeta": "fadːʒeta",
+  "faggeto": "fadːʒeto",
+  "faggi": "fadːʒi",
+  "faggio": "fadːʒo",
+  "fagi": "fadʒi",
+  "fagiana": "fadʒana",
+  "fagianaia": "fadʒanaja",
+  "fagianella": "fadʒanɛlːa",
+  "fagiani": "fadʒani",
+  "fagiano": "fadʒano",
+  "fagioli": "fadʒɔli",
+  "fagiolini": "fadʒɔlini",
+  "fagiolino": "fadʒolino",
+  "fagiolino_2": "fadʒɔlino",
+  "fagiolo": "fadʒɔlo",
+  "fagiuoli": "fadʒwɔli",
+  "fagiuolo": "fadʒwɔlo",
+  "faglia": "faʎa",
+  "faglie": "faʎe",
+  "fago": "faɡo",
+  "fagocitante": "faɡotʃitante",
+  "fagocitanti": "faɡotʃitanti",
+  "fagocitare": "faɡotʃitare",
+  "fagocitari": "faɡotʃitari",
+  "fagocitaria": "faɡotʃitarja",
+  "fagocitarie": "faɡotʃitarje",
+  "fagocitario": "faɡotʃitarjo",
+  "fagocitato": "faɡotʃitato",
+  "fagocito": "faɡotʃito",
+  "fagocitosi": "faɡotʃitɔzi",
+  "fagopirismo": "faɡopirizmo",
+  "fagottino": "faɡotːino",
+  "fagottista": "faɡotːista",
+  "fagottiste": "faɡotːiste",
+  "fagottisti": "faɡotːisti",
+  "fagotto": "faɡɔtːo",
+  "fai": "fai",
+  "faida": "fajda",
+  "faide": "fajde",
+  "faina": "faina",
+  "faine": "faine",
+  "faio": "fajo",
+  "falacrocoracide": "falakrokoratʃide",
+  "falacrocoracidi": "falakrokoratʃidi",
+  "falange": "falandʒe",
+  "falangeride": "falandʒɛride",
+  "falangeridi": "falandʒɛride",
+  "falangetta": "falandʒetːa",
+  "falanghina": "falanɡina",
+  "falangina": "falandʒina",
+  "falangismo": "falandʒizmo",
+  "falangista": "falandʒista",
+  "falansterio": "falanstɛrjo",
+  "falaride": "falaride",
+  "falbo": "falbo",
+  "falcastri": "falkastri",
+  "falcastro": "falkastro",
+  "falcata": "falkata",
+  "falcate": "falkate",
+  "falce": "faltʃe",
+  "falcetti": "faltʃetːi",
+  "falcetto": "faltʃetːo",
+  "falchi": "falki",
+  "falci": "faltʃi",
+  "falciare": "faltʃare",
+  "falciatore": "faltʃatore",
+  "falciatori": "faltʃatori",
+  "falciatrice": "faltʃatritʃe",
+  "falciatrici": "faltʃatritʃi",
+  "falcidiare": "faltʃidjare",
+  "falcidiato": "faltʃidjato",
+  "falciforme": "faltʃiforme",
+  "falciformi": "faltʃiformi",
+  "falciola": "faltʃola",
+  "falciole": "faltʃole",
+  "falcione": "faltʃone",
+  "falcioni": "faltʃoni",
+  "falciuola": "faltʃiwɔla",
+  "falciuole": "faltʃiwɔle",
+  "falco": "falko",
+  "falcone": "falkone",
+  "falconetti": "falkonetːi",
+  "falconetto": "falkonetːo",
+  "falconi": "falkoni",
+  "falconide": "falkɔnide",
+  "falconidi": "falkɔnidi",
+  "falconiforme": "falkoniforme",
+  "falconiformi": "falkoniformi",
+  "falda": "falda",
+  "faldistorio": "faldistɔrjo",
+  "faldone": "faldone",
+  "faleci": "falɛtʃi",
+  "falecio": "falɛtʃo",
+  "falegname": "faleɲɲame",
+  "falegnameria": "faleɲɲameria",
+  "falegnami": "faleɲɲami",
+  "falena": "falɛna",
+  "falene": "falɛne",
+  "falerno": "falɛrno",
+  "falesia": "falɛzja",
+  "falla": "falːa",
+  "fallace": "falːatʃe",
+  "fallaci": "falːatʃi",
+  "fallacia": "falːatʃa",
+  "fallacie": "falːatʃe",
+  "fallibile": "falːibile",
+  "fallibili": "falːibili",
+  "fallica": "falːika",
+  "falliche": "falːike",
+  "fallici": "falːitʃi",
+  "fallico": "falːiko",
+  "fallimentare": "falːimentare",
+  "fallimenti": "falːimenti",
+  "fallimento": "falːimento",
+  "fallimento_2": "falːimɛnto",
+  "fallire": "falːire",
+  "fallito": "falːito",
+  "fallo": "falːo",
+  "fallocentrica": "falːotʃɛntrika",
+  "fallocentriche": "falːotʃɛntrike",
+  "fallocentrici": "falːotʃɛntritʃi",
+  "fallocentrico": "falːotʃɛntriko",
+  "fallocrazia": "falːokratsia",
+  "fallocrazie": "falːokratsie",
+  "falloplastica": "falːoplastika",
+  "falloplastiche": "falːoplastike",
+  "falloppiano": "falːopːjano",
+  "falò": "falɔ",
+  "falotico": "falɔtiko",
+  "falsa": "falsa",
+  "falsamente": "falsamente",
+  "falsare": "falsare",
+  "falsari": "falsari",
+  "falsaria": "falsarja",
+  "falsarie": "falsarje",
+  "falsario": "falsarjo",
+  "falsato": "falsato",
+  "false": "false",
+  "falsetti": "falsetːi"
 }

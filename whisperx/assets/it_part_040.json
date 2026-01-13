@@ -1,1539 +1,539 @@
 {
-  "biodiesel": [
-    "biodizel"
-  ],
-  "biodinamica": [
-    "biodinamika"
-  ],
-  "biodinamico": [
-    "biodinamiko"
-  ],
-  "biodisponibile": [
-    "biodisponibile"
-  ],
-  "biodisponibili": [
-    "biodisponibili"
-  ],
-  "biodisponibilità": [
-    "biodisponibilita"
-  ],
-  "biodiversità": [
-    "biodiversita"
-  ],
-  "biodo": [
-    "bjodo",
-    "bjɔdo"
-  ],
-  "bioelettricità": [
-    "bioeletːritʃita"
-  ],
-  "bioelettrico": [
-    "bioelɛtːriko"
-  ],
-  "bioelettronica": [
-    "bioeletːrɔnika"
-  ],
-  "bioenergetica": [
-    "bioenerdʒɛtika"
-  ],
-  "bioenergetico": [
-    "bioenerdʒɛtiko"
-  ],
-  "bioequivalente": [
-    "bioekwivalente"
-  ],
-  "bioequivalenti": [
-    "bioekwivalenti"
-  ],
-  "bioeticista": [
-    "bioetitʃista"
-  ],
-  "bioeticiste": [
-    "bioetitʃiste"
-  ],
-  "bioeticisti": [
-    "bioetitʃisti"
-  ],
-  "bioetico": [
-    "bioɛtiko"
-  ],
-  "biofemminismo": [
-    "biofemːinizmo"
-  ],
-  "biofilm": [
-    "biofilm"
-  ],
-  "biofiltrazione": [
-    "biofiltratːsjone"
-  ],
-  "biofiltrazioni": [
-    "biofiltratːsjoni"
-  ],
-  "biofirma": [
-    "biofirma"
-  ],
-  "biofirme": [
-    "biofirme"
-  ],
-  "biofisica": [
-    "biofizika"
-  ],
-  "biofisiche": [
-    "biofizike"
-  ],
-  "biofisici": [
-    "biofizitʃi"
-  ],
-  "biofisico": [
-    "biofiziko"
-  ],
-  "biofisiologia": [
-    "biofizjolodʒia"
-  ],
-  "biogas": [
-    "bioɡas"
-  ],
-  "biogenetica": [
-    "biodʒenɛtika",
-    "bjodʒenɛtika"
-  ],
-  "biogeneticamente": [
-    "biodʒenetikamente"
-  ],
-  "biogenetiche": [
-    "biodʒenɛtike"
-  ],
-  "biogenetici": [
-    "biodʒenɛtitʃi"
-  ],
-  "biogenetico": [
-    "biodʒenɛtiko",
-    "bjodʒenɛtiko"
-  ],
-  "biogeno": [
-    "biɔdʒeno"
-  ],
-  "biogeochimica": [
-    "biodʒɛokimika"
-  ],
-  "biogeografica": [
-    "biodʒeoɡrafika"
-  ],
-  "biogeografiche": [
-    "biodʒeoɡrafike"
-  ],
-  "biogeografici": [
-    "biodʒeoɡrafitʃi"
-  ],
-  "biogeografico": [
-    "biodʒeoɡrafiko"
-  ],
-  "biografa": [
-    "bioɡrafa"
-  ],
-  "biografante": [
-    "bioɡrafante"
-  ],
-  "biografanti": [
-    "bioɡrafanti"
-  ],
-  "biografare": [
-    "bioɡrafare"
-  ],
-  "biografata": [
-    "bioɡrafata"
-  ],
-  "biografate": [
-    "bioɡrafate"
-  ],
-  "biografati": [
-    "bioɡrafati"
-  ],
-  "biografato": [
-    "bioɡrafato"
-  ],
-  "biografe": [
-    "bioɡrafe"
-  ],
-  "biografi": [
-    "bioɡrafi"
-  ],
-  "biografia": [
-    "bioɡrafia"
-  ],
-  "biografica": [
-    "bjoɡrafika"
-  ],
-  "biograficamente": [
-    "bjoɡrafikamente"
-  ],
-  "biografiche": [
-    "bjoɡrafike"
-  ],
-  "biografici": [
-    "bjoɡrafitʃi"
-  ],
-  "biografico": [
-    "bjoɡrafiko"
-  ],
-  "biografie": [
-    "bioɡrafie"
-  ],
-  "biografo": [
-    "bioɡrafo",
-    "biɔɡrafo"
-  ],
-  "bioingegneristico": [
-    "bioinɡeɡneristiko"
-  ],
-  "bioinsetticida": [
-    "bioinsetːitʃida"
-  ],
-  "biolca": [
-    "bjolka"
-  ],
-  "biolco": [
-    "bjolko"
-  ],
-  "biolinguistica": [
-    "biolinɡwistika"
-  ],
-  "biolisi": [
-    "biolizi"
-  ],
-  "biologa": [
-    "biɔloɡa"
-  ],
-  "biologhe": [
-    "biɔloɡe"
-  ],
-  "biologi": [
-    "biɔlodʒi"
-  ],
-  "biologia": [
-    "biolodʒia"
-  ],
-  "biologica": [
-    "biolɔdʒika"
-  ],
-  "biologicamente": [
-    "biolodʒikamente"
-  ],
-  "biologiche": [
-    "biolɔdʒike"
-  ],
-  "biologici": [
-    "biolɔdʒitʃi"
-  ],
-  "biologico": [
-    "biolɔdʒiko",
-    "bjolɔdʒiko"
-  ],
-  "biologie": [
-    "biolodʒie"
-  ],
-  "biologo": [
-    "biɔloɡo"
-  ],
-  "bioluminescente": [
-    "biolumineʃʃɛnte"
-  ],
-  "bioluminescenti": [
-    "biolumineʃʃɛnti"
-  ],
-  "bioluminescenza": [
-    "biolumineʃʃɛntsa",
-    "biɔlumineʃʃɛntsa"
-  ],
-  "bioluminescenze": [
-    "biolumineʃʃɛntse"
-  ],
-  "bioma": [
-    "bjɔma"
-  ],
-  "biomacchina": [
-    "biomakːina"
-  ],
-  "biomagnetismo": [
-    "biomaɲɲetizmo"
-  ],
-  "biomagnificazione": [
-    "biomaɲɲifikatːsjone"
-  ],
-  "biomagnificazioni": [
-    "maɲɲifikatːsjoni"
-  ],
-  "biomassa": [
-    "biomasːa"
-  ],
-  "biomeccanica": [
-    "biomekːanika"
-  ],
-  "biomedico": [
-    "biomɛdiko"
-  ],
-  "biometallurgia": [
-    "biometalːurdʒia"
-  ],
-  "biometeorologa": [
-    "biometeorɔloɡa"
-  ],
-  "biometeorologhe": [
-    "biometeorɔloɡe"
-  ],
-  "biometeorologi": [
-    "biometeorɔlodʒi"
-  ],
-  "biometeorologo": [
-    "biometeorɔloɡo"
-  ],
-  "biometria": [
-    "biometria"
-  ],
-  "biometrico": [
-    "biomɛtriko"
-  ],
-  "biometrista": [
-    "biometrista"
-  ],
-  "biometriste": [
-    "biometriste"
-  ],
-  "biometristi": [
-    "biometristi"
-  ],
-  "biomi": [
-    "bjɔmi"
-  ],
-  "biomimesi": [
-    "biomimesi"
-  ],
-  "biomimetica": [
-    "biomimetika"
-  ],
-  "biomodellistica": [
-    "biomodelːistika"
-  ],
-  "bionda": [
-    "bjonda"
-  ],
-  "bionde": [
-    "bjonde"
-  ],
-  "biondeggiante": [
-    "bjondedːʒante"
-  ],
-  "biondeggianti": [
-    "bjondedːʒanti"
-  ],
-  "biondeggiare": [
-    "bjondedːʒare"
-  ],
-  "biondella": [
-    "bjondɛlːa"
-  ],
-  "biondi": [
-    "bjondi"
-  ],
-  "biondo": [
-    "biondo",
-    "bjondo"
-  ],
-  "bionica": [
-    "biɔnika"
-  ],
-  "bionico": [
-    "biɔniko"
-  ],
-  "bioparchi": [
-    "bioparki"
-  ],
-  "bioparco": [
-    "bioparko"
-  ],
-  "bioplastica": [
-    "bioplastika"
-  ],
-  "bioplastiche": [
-    "bioplastike"
-  ],
-  "bioprotesi": [
-    "bioprɔtezi"
-  ],
-  "biopsia": [
-    "biopsia"
-  ],
-  "bioreattore": [
-    "bioreatːore"
-  ],
-  "bioreattori": [
-    "bioreatːori"
-  ],
-  "bioregione": [
-    "bioredʒone"
-  ],
-  "biorepertorio": [
-    "biorepertɔrjo"
-  ],
-  "bioriassorbibile": [
-    "bioriasːorbibile"
-  ],
-  "bioriassorbibili": [
-    "bioriasːorbibili"
-  ],
-  "biorisanamenti": [
-    "biarizanamenti"
-  ],
-  "biorisanamento": [
-    "biarizanamento"
-  ],
-  "bioscia": [
-    "bjɔʃʃa"
-  ],
-  "bioscienza": [
-    "bioʃʃɛntsa"
-  ],
-  "bioscopi": [
-    "bioskɔpi"
-  ],
-  "bioscopia": [
-    "bioskopia"
-  ],
-  "bioscopio": [
-    "bioskɔpjo"
-  ],
-  "biosensore": [
-    "biosensore"
-  ],
-  "biosfera": [
-    "biosfɛra"
-  ],
-  "biosfere": [
-    "biosfɛre"
-  ],
-  "biosintesi": [
-    "biosintezi"
-  ],
-  "biossidi": [
-    "biɔsːidi"
-  ],
-  "biossido": [
-    "biɔsːido"
-  ],
-  "biostratigrafica": [
-    "biostratiɡrafika"
-  ],
-  "biostratigrafiche": [
-    "biostratiɡrafike"
-  ],
-  "biostratigrafici": [
-    "biostratiɡrafitʃi"
-  ],
-  "biostratigrafico": [
-    "biostratiɡrafiko"
-  ],
-  "biota": [
-    "biota"
-  ],
-  "biotech": [
-    "biotɛk"
-  ],
-  "biotecnologa": [
-    "bioteknɔloɡa"
-  ],
-  "biotecnologhe": [
-    "bioteknɔloɡa"
-  ],
-  "biotecnologi": [
-    "bioteknɔloɡi"
-  ],
-  "biotecnologia": [
-    "bioteknolodʒia"
-  ],
-  "biotecnologica": [
-    "bioteknolɔdʒika"
-  ],
-  "biotecnologicamente": [
-    "bioteknolodʒikamente"
-  ],
-  "biotecnologiche": [
-    "bioteknolɔdʒike"
-  ],
-  "biotecnologici": [
-    "bioteknolɔdʒitʃi"
-  ],
-  "biotecnologico": [
-    "bioteknolɔdʒiko",
-    "bjoteknolɔdʒiko"
-  ],
-  "biotecnologie": [
-    "bioteknolodʒie"
-  ],
-  "biotecnologo": [
-    "bioteknɔloɡo"
-  ],
-  "bioterrorismi": [
-    "bioterːorizmi"
-  ],
-  "bioterrorismo": [
-    "bioterːorizmo"
-  ],
-  "bioterrorista": [
-    "bioterːorista"
-  ],
-  "bioterroriste": [
-    "bioterːoriste"
-  ],
-  "bioterroristi": [
-    "bioterːoristi"
-  ],
-  "biotica": [
-    "biɔtika"
-  ],
-  "bioticamente": [
-    "biotikamente"
-  ],
-  "biotiche": [
-    "biɔtike"
-  ],
-  "biotici": [
-    "biɔtitʃi"
-  ],
-  "biotico": [
-    "biɔtiko",
-    "bjotiko"
-  ],
-  "biotipo": [
-    "biotipo",
-    "biɔtipo"
-  ],
-  "biotopo": [
-    "biɔtopo"
-  ],
-  "biotto": [
-    "bjɔtːo"
-  ],
-  "bipara": [
-    "bipara"
-  ],
-  "bipare": [
-    "bipare"
-  ],
-  "bipari": [
-    "bipari"
-  ],
-  "biparo": [
-    "biparo"
-  ],
-  "bipartibile": [
-    "bipartibile"
-  ],
-  "bipartibili": [
-    "bipartibili"
-  ],
-  "bipartire": [
-    "bipartire"
-  ],
-  "bipartita": [
-    "bipartita"
-  ],
-  "bipartite": [
-    "bipartite"
-  ],
-  "bipartiti": [
-    "bipartiti"
-  ],
-  "bipartitismo": [
-    "bipartitizmo"
-  ],
-  "bipartito": [
-    "bipartito"
-  ],
-  "bipartivi": [
-    "bipartivi"
-  ],
-  "bipartizione": [
-    "bipartitːsjone"
-  ],
-  "bipasso": [
-    "bipasːo"
-  ],
-  "bipede": [
-    "bipede"
-  ],
-  "bipedi": [
-    "bipedi"
-  ],
-  "bipendolo": [
-    "bipɛndolo"
-  ],
-  "bipenne": [
-    "bipenːe",
-    "bipɛnːe"
-  ],
-  "biplani": [
-    "biplani"
-  ],
-  "biplano": [
-    "biplano"
-  ],
-  "bipolarismi": [
-    "bipolarizmi"
-  ],
-  "bipolarismo": [
-    "bipolarizmo"
-  ],
-  "bipolmonare": [
-    "bipolmonare"
-  ],
-  "bipolmonari": [
-    "bipolmonari"
-  ],
-  "biposto": [
-    "biposto"
-  ],
-  "biquadratico": [
-    "bikwadratiko"
-  ],
-  "biquotidianamente": [
-    "bikwotidjanamente"
-  ],
-  "birba": [
-    "birba"
-  ],
-  "birbante": [
-    "birbante"
-  ],
-  "birbantesco": [
-    "birbantesko"
-  ],
-  "birbone": [
-    "birbone"
-  ],
-  "birbonesco": [
-    "birbonesko"
-  ],
-  "birdwatching": [
-    "berdwɔtːʃiɲ"
-  ],
-  "bireattore": [
-    "bireatːore"
-  ],
-  "bireattori": [
-    "bireatːori"
-  ],
-  "bireme": [
-    "birɛme"
-  ],
-  "biremi": [
-    "birɛmi"
-  ],
-  "birichinata": [
-    "birikinata"
-  ],
-  "birichino": [
-    "birikino"
-  ],
-  "birilli": [
-    "birilːi"
-  ],
-  "birillo": [
-    "birilːo"
-  ],
-  "birmana": [
-    "birmana"
-  ],
-  "birmane": [
-    "birmane"
-  ],
-  "birmani": [
-    "birmani"
-  ],
-  "birmania": [
-    "birmanja"
-  ],
-  "birmano": [
-    "birmano"
-  ],
-  "biro": [
-    "biro"
-  ],
-  "birra": [
-    "birːa"
-  ],
-  "birre": [
-    "birːe"
-  ],
-  "birreria": [
-    "birːeria"
-  ],
-  "birri": [
-    "birːi"
-  ],
-  "birrificio": [
-    "birːifitʃo",
-    "mano"
-  ],
-  "birro": [
-    "birːo"
-  ],
-  "bis": [
-    "bis"
-  ],
-  "bisaccaride": [
-    "bisakːaride"
-  ],
-  "bisaccaridi": [
-    "bisakːaridi"
-  ],
-  "bisaccia": [
-    "bizatːʃa"
-  ],
-  "bisannuale": [
-    "bisanːuale"
-  ],
-  "bisannuali": [
-    "bisanːuali"
-  ],
-  "bisante": [
-    "bizante"
-  ],
-  "bisanti": [
-    "bizanti"
-  ],
-  "bisanzio": [
-    "bizantsjo"
-  ],
-  "bisarcavolo": [
-    "bizarkavolo"
-  ],
-  "bisava": [
-    "bizava"
-  ],
-  "bisave": [
-    "bizave"
-  ],
-  "bisavi": [
-    "bizavi"
-  ],
-  "bisavo": [
-    "bizavo"
-  ],
-  "bisavola": [
-    "bizavola"
-  ],
-  "bisavolo": [
-    "bizavolo"
-  ],
-  "bisbetico": [
-    "bizbɛtiko"
-  ],
-  "bisbigliante": [
-    "bizbiʎjante"
-  ],
-  "bisbigliare": [
-    "bizbiʎare",
-    "bizbiʎjare"
-  ],
-  "bisbigliato": [
-    "bizbiʎato",
-    "bizbiʎjato"
-  ],
-  "bisbiglio": [
-    "bizbiʎo"
-  ],
-  "bisbocce": [
-    "bizbɔtːʃe"
-  ],
-  "bisboccia": [
-    "bizbɔtːʃa"
-  ],
-  "biscaglina": [
-    "biskaʎina"
-  ],
-  "biscazza": [
-    "biskatːsa"
-  ],
-  "biscazzare": [
-    "biskatːsare"
-  ],
-  "biscazziere": [
-    "biskatːsjɛre"
-  ],
-  "bisce": [
-    "biʃʃe"
-  ],
-  "bischera": [
-    "biskera"
-  ],
-  "bischerata": [
-    "biskerata"
-  ],
-  "bischere": [
-    "biskere"
-  ],
-  "bischerello": [
-    "biskerɛlːo"
-  ],
-  "bischeri": [
-    "biskeri"
-  ],
-  "bischero": [
-    "biskero"
-  ],
-  "biscia": [
-    "biʃʃa"
-  ],
-  "biscione": [
-    "biʃʃone"
-  ],
-  "biscottare": [
-    "biskotːare"
-  ],
-  "biscottato": [
-    "biskotːato"
-  ],
-  "biscotti": [
-    "biskɔtːi"
-  ],
-  "biscottiero": [
-    "biskotːjɛro"
-  ],
-  "biscottificio": [
-    "biskotːifitʃo"
-  ],
-  "biscotto": [
-    "biskɔtːo"
-  ],
-  "biscroma": [
-    "biskrɔma"
-  ],
-  "biscugino": [
-    "biskudʒino"
-  ],
-  "bisdrucciolo": [
-    "bizdrutːʃolo"
-  ],
-  "bisecare": [
-    "bisekare"
-  ],
-  "bisellare": [
-    "bizelːare"
-  ],
-  "bisessuale": [
-    "bisesːuale"
-  ],
-  "bisessuali": [
-    "bisesːuali"
-  ],
-  "bisessualità": [
-    "bisesːualita"
-  ],
-  "bisessualmente": [
-    "bisesːualmente"
-  ],
-  "bisessuata": [
-    "bizesːwata"
-  ],
-  "bisessuate": [
-    "bizesːwate"
-  ],
-  "bisessuati": [
-    "bizesːwati"
-  ],
-  "bisessuato": [
-    "bizesːwato"
-  ],
-  "bisesti": [
-    "bisɛsti"
-  ],
-  "bisestile": [
-    "bizestile"
-  ],
-  "bisestili": [
-    "bizestili"
-  ],
-  "bisesto": [
-    "bisɛsto",
-    "bizɛsto"
-  ],
-  "bisettimanale": [
-    "bisetːimanale"
-  ],
-  "bisettimanali": [
-    "bisetːimanali"
-  ],
-  "bisettimanalmente": [
-    "bisetːimanalmente"
-  ],
-  "bisettore": [
-    "bisːetːore"
-  ],
-  "bisettori": [
-    "bisːetːori"
-  ],
-  "bisettrice": [
-    "bisːetːritʃe"
-  ],
-  "bisettrici": [
-    "bisːetːritʃi"
-  ],
-  "bisezione": [
-    "bisetsjone",
-    "bisetːsjone"
-  ],
-  "bisezioni": [
-    "bisetsjoni"
-  ],
-  "bislacco": [
-    "bizlakːo"
-  ],
-  "bismuto": [
-    "bizmuto"
-  ],
-  "bisnonna": [
-    "bisnɔnːa",
-    "biznɔnːa"
-  ],
-  "bisnonne": [
-    "biznɔnːa"
-  ],
-  "bisnonni": [
-    "biznɔnːi"
-  ],
-  "bisnonno": [
-    "biznɔnːo"
-  ],
-  "biso": [
-    "bizo"
-  ],
-  "bisogna": [
-    "bizoɲɲa"
-  ],
-  "bisognante": [
-    "bizoɲante"
-  ],
-  "bisognare": [
-    "bizoɲare",
-    "bizoɲɲare"
-  ],
-  "bisognato": [
-    "bizoɲato"
-  ],
-  "bisogni": [
-    "bizoɲɲo"
-  ],
-  "bisogno": [
-    "bizoɲɲo",
-    "bizɔɲɲo"
-  ],
-  "bisognoso": [
-    "bizoɲɲoso",
-    "bizoɲɲozo"
-  ],
-  "bisolfati": [
-    "bisolfati"
-  ],
-  "bisolfato": [
-    "bisolfato"
-  ],
-  "bisolfiti": [
-    "bisolfiti"
-  ],
-  "bisolfito": [
-    "bisolfito"
-  ],
-  "bisolfuro": [
-    "bisolfuro"
-  ],
-  "bisonte": [
-    "bizonte"
-  ],
-  "bisonti": [
-    "bizonte"
-  ],
-  "bissare": [
-    "bisːare"
-  ],
-  "bissinosi": [
-    "bisːinɔzi"
-  ],
-  "bistabile": [
-    "bistabile"
-  ],
-  "bistabili": [
-    "bistabili"
-  ],
-  "bistecca": [
-    "bistekːa"
-  ],
-  "bistecce": [
-    "bistekːe"
-  ],
-  "bistentare": [
-    "bistentare"
-  ],
-  "bistento": [
-    "bistɛnto"
-  ],
-  "bisticci": [
-    "bistitːʃi"
-  ],
-  "bisticciare": [
-    "bistitːʃare"
-  ],
-  "bisticcio": [
-    "bistitːʃo"
-  ],
-  "bistondo": [
-    "bistondo"
-  ],
-  "bistrare": [
-    "bistrare"
-  ],
-  "bistrattare": [
-    "bistratːare"
-  ],
-  "bistri": [
-    "bistri"
-  ],
-  "bistro": [
-    "bistro"
-  ],
-  "bistrò": [
-    "bistro",
-    "bistrɔ"
-  ],
-  "bistrot": [
-    "bistro",
-    "bistrɔ"
-  ],
-  "bisturi": [
-    "bisturi"
-  ],
-  "bit": [
-    "bit"
-  ],
-  "bitinia": [
-    "bitinja"
-  ],
-  "bitmap": [
-    "bitmɛp"
-  ],
-  "bitonale": [
-    "bitonale"
-  ],
-  "bitonali": [
-    "bitonali"
-  ],
-  "bitonalità": [
-    "bitonalita"
-  ],
-  "bitorzoluto": [
-    "bitortsoluto"
-  ],
-  "bitta": [
-    "bitːa"
-  ],
-  "bitte": [
-    "bitːe"
-  ],
-  "bitter": [
-    "bitːer"
-  ],
-  "bitterna": [
-    "bitːɛrna"
-  ],
-  "bitto": [
-    "bitːo"
-  ],
-  "bitumare": [
-    "bitumare"
-  ],
-  "bitume": [
-    "bitum",
-    "bitume"
-  ],
-  "bitumi": [
-    "bitumi"
-  ],
-  "bituminante": [
-    "bituminante"
-  ],
-  "bituminare": [
-    "bituminare"
-  ],
-  "bituminato": [
-    "bituminato"
-  ],
-  "bituminoso": [
-    "bituminoso",
-    "bituminozo"
-  ],
-  "biunivocità": [
-    "biunivotʃita"
-  ],
-  "biunivoco": [
-    "biunivoko"
-  ],
-  "bivaccante": [
-    "bivakːante"
-  ],
-  "bivaccato": [
-    "bivakːato"
-  ],
-  "bivacchi": [
-    "bivakːi"
-  ],
-  "bivacco": [
-    "bivakːo"
-  ],
-  "bivalente": [
-    "bivalente"
-  ],
-  "bivalenti": [
-    "bivalenti"
-  ],
-  "bivi": [
-    "bii"
-  ],
-  "bivio": [
-    "bivjo",
-    "bivjɔ"
-  ],
-  "bixio": [
-    "biksjo"
-  ],
-  "bizantina": [
-    "bidːzantina",
-    "bizantina"
-  ],
-  "bizantine": [
-    "bidːzantine",
-    "bizantine"
-  ],
-  "bizantineggiare": [
-    "bidːzantinedːʒare"
-  ],
-  "bizantini": [
-    "bidːzantini",
-    "bizantini"
-  ],
-  "bizantinismo": [
-    "bidːzantinizmo"
-  ],
-  "bizantino": [
-    "bidːzantino",
-    "bizantino"
-  ],
-  "bizza": [
-    "bidːza",
-    "bitːsa"
-  ],
-  "bizzarra": [
-    "bidːzarːa"
-  ],
-  "bizzarramente": [
-    "bidːzarːamente"
-  ],
-  "bizzarre": [
-    "bidːzarːe"
-  ],
-  "bizzarri": [
-    "bidːzarːi"
-  ],
-  "bizzarria": [
-    "bidːzarːia"
-  ],
-  "bizzarro": [
-    "bidːzarːo"
-  ],
-  "bizzeffe": [
-    "bidːzɛfːe"
-  ],
-  "bizzoso": [
-    "bidːzoso",
-    "bidːzozo"
-  ],
-  "blaga": [
-    "blaɡa"
-  ],
-  "blanda": [
-    "blanda"
-  ],
-  "blandamente": [
-    "blandamente"
-  ],
-  "blandente": [
-    "blandente"
-  ],
-  "blandi": [
-    "blandi"
-  ],
-  "blandimento": [
-    "blandimento"
-  ],
-  "blandire": [
-    "blandire"
-  ],
-  "blandito": [
-    "blandito"
-  ],
-  "blandizia": [
-    "blanditːsja"
-  ],
-  "blandizie": [
-    "blanditːsje"
-  ],
-  "blando": [
-    "blando"
-  ],
-  "blasfemamente": [
-    "blasfemamente"
-  ],
-  "blasfemare": [
-    "blasfemare"
-  ],
-  "blasfemia": [
-    "blasfɛmja"
-  ],
-  "blasfemo": [
-    "blasfɛmo"
-  ],
-  "blasmare": [
-    "blaʃmare"
-  ],
-  "blasonato": [
-    "blazonato"
-  ],
-  "blasonatura": [
-    "blazonatura"
-  ],
-  "blasonature": [
-    "blazonature"
-  ],
-  "blasone": [
-    "blazone"
-  ],
-  "blastare": [
-    "blastare"
-  ],
-  "blasti": [
-    "blasti"
-  ],
-  "blasto": [
-    "blasto"
-  ],
-  "blastoma": [
-    "blastɔma"
-  ],
-  "blastomi": [
-    "blastɔmi"
-  ],
-  "blastozoide": [
-    "blastodːzɔide"
-  ],
-  "blastozoidi": [
-    "blastodːzɔidi"
-  ],
-  "blastula": [
-    "blastula"
-  ],
-  "blaterante": [
-    "blaterante"
-  ],
-  "blaterare": [
-    "blaterare"
-  ],
-  "blaterato": [
-    "blaterato"
-  ],
-  "blatta": [
-    "blatːa"
-  ],
-  "blatte": [
-    "blatːe"
-  ],
-  "blattidi": [
-    "blatːidi"
-  ],
-  "blattoidei": [
-    "blatːojdɛi"
-  ],
-  "blattoideo": [
-    "blatːojdɛo"
-  ],
-  "blecno": [
-    "blɛkno"
-  ],
-  "blefarite": [
-    "blefarite"
-  ],
-  "blefaroplastica": [
-    "blefaroplastika"
-  ],
-  "blefaroplastiche": [
-    "blefaroplastike"
-  ],
-  "blennide": [
-    "blɛnːide"
-  ],
-  "blennio": [
-    "blɛnːjo"
-  ],
-  "blenorrea": [
-    "blenorːɛa"
-  ],
-  "blenorree": [
-    "blenorːɛe"
-  ],
-  "blesbok": [
-    "blɛzbok"
-  ],
-  "bleso": [
-    "blɛzo"
-  ],
-  "blinda": [
-    "blinda"
-  ],
-  "blindante": [
-    "blindante"
-  ],
-  "blindare": [
-    "blindare"
-  ],
-  "blindata": [
-    "blindata"
-  ],
-  "blindate": [
-    "blindate"
-  ],
-  "blindati": [
-    "blindati"
-  ],
-  "blindato": [
-    "blindato"
-  ],
-  "blindatura": [
-    "blindatura"
-  ],
-  "blindature": [
-    "blindature"
-  ],
-  "blister": [
-    "blister"
-  ],
-  "blitz": [
-    "blits"
-  ],
-  "bloccaggi": [
-    "blokːadːʒi"
-  ],
-  "bloccaggio": [
-    "blokːadːʒo"
-  ],
-  "bloccante": [
-    "blokːante"
-  ],
-  "bloccanti": [
-    "blokːanti"
-  ],
-  "bloccare": [
-    "blokːare",
-    "blɔkːare"
-  ],
-  "bloccarsi": [
-    "blokːarsi"
-  ],
-  "bloccasterzi": [
-    "blokːastɛrtsi"
-  ],
-  "bloccasterzo": [
-    "blokːastɛrtso",
-    "blɔkːastɛrtso"
-  ],
-  "bloccato": [
-    "blokːato"
-  ],
-  "blocchetti": [
-    "blokːetːi"
-  ],
-  "blocchetto": [
-    "blokːetːo"
-  ],
-  "blocchi": [
-    "blɔkːi"
-  ],
-  "blocco": [
-    "blɔkːo"
-  ],
-  "blog": [
-    "blɔɡ"
-  ],
-  "bloggare": [
-    "bloɡːare"
-  ],
-  "blogger": [
-    "blɔɡːer"
-  ],
-  "blogghista": [
-    "bloɡːista"
-  ],
-  "blogghiste": [
-    "bloɡːiste"
-  ],
-  "blogghisti": [
-    "bloɡːisti"
-  ],
-  "blonda": [
-    "blonda"
-  ],
-  "blotting": [
-    "blɔtːinɡ"
-  ],
-  "blu": [
-    "blu"
-  ],
-  "blucerchiati": [
-    "blutʃerkjati"
-  ],
-  "blucerchiato": [
-    "blutʃerkjato"
-  ],
-  "blues": [
-    "bluz"
-  ],
-  "bluetooth": [
-    "blutut",
-    "blututː"
-  ],
-  "blusa": [
-    "bluza"
-  ],
-  "bluse": [
-    "bluze"
-  ],
-  "blusotto": [
-    "bluzɔtːo"
-  ],
-  "boa": [
-    "boa",
-    "bɔa"
-  ],
-  "boario": [
-    "boarjo"
-  ],
-  "boaro": [
-    "boaro"
-  ],
-  "boato": [
-    "boato"
-  ],
-  "bob": [
-    "bɔb"
-  ],
-  "bobbista": [
-    "bobːista"
-  ],
-  "bobbiste": [
-    "bobːiste"
-  ],
-  "bobbisti": [
-    "bobːisti"
-  ],
-  "bobina": [
-    "bobina"
-  ],
-  "bobinare": [
-    "bobinare"
-  ],
-  "bobine": [
-    "bobine"
-  ],
-  "boboli": [
-    "bɔboli"
-  ],
-  "bocca": [
-    "bokːa"
-  ],
-  "boccaccesco": [
-    "bokːatːʃesko"
-  ],
-  "boccaccia": [
-    "bokːatːʃa"
-  ],
-  "boccacciano": [
-    "bok"
-  ],
-  "boccadopera": [
-    "bokːadɔpera"
-  ],
-  "boccagli": [
-    "bokːaʎ"
-  ],
-  "boccaglio": [
-    "bokːaʎo"
-  ],
-  "boccale": [
-    "bokːale",
-    "bɔkːale"
-  ],
-  "boccali": [
-    "bokːali"
-  ],
-  "boccalone": [
-    "bokːalone"
-  ],
-  "boccanera": [
-    "bokːanera"
-  ],
-  "boccaporta": [
-    "bokːapɔrta"
-  ],
-  "boccaporti": [
-    "bokːapɔrto"
-  ],
-  "boccaporto": [
-    "bokːapɔrto"
-  ],
-  "boccata": [
-    "bokːata"
-  ],
-  "boccate": [
-    "bokːate"
-  ],
-  "bocce": [
-    "bɔtːʃe"
-  ],
-  "boccetta": [
-    "botːʃetːa"
-  ],
-  "boccettina": [
-    "botːʃetːina"
-  ],
-  "bocche": [
-    "bokːe"
-  ],
-  "bocchello": [
-    "bokːɛlːo"
-  ],
-  "bocchino": [
-    "bokːino",
-    "bɔkːinɔ"
-  ],
-  "boccia": [
-    "bɔtːʃa"
-  ],
-  "bocciaio": [
-    "botːʃajo"
-  ],
-  "bocciante": [
-    "botːʃante"
-  ],
-  "bocciare": [
-    "botːʃare"
-  ],
-  "bocciata": [
-    "botːʃata"
-  ]
+  "biodiesel": "biodizel",
+  "biodinamica": "biodinamika",
+  "biodinamico": "biodinamiko",
+  "biodisponibile": "biodisponibile",
+  "biodisponibili": "biodisponibili",
+  "biodisponibilità": "biodisponibilita",
+  "biodiversità": "biodiversita",
+  "biodo": "bjodo",
+  "biodo_2": "bjɔdo",
+  "bioelettricità": "bioeletːritʃita",
+  "bioelettrico": "bioelɛtːriko",
+  "bioelettronica": "bioeletːrɔnika",
+  "bioenergetica": "bioenerdʒɛtika",
+  "bioenergetico": "bioenerdʒɛtiko",
+  "bioequivalente": "bioekwivalente",
+  "bioequivalenti": "bioekwivalenti",
+  "bioeticista": "bioetitʃista",
+  "bioeticiste": "bioetitʃiste",
+  "bioeticisti": "bioetitʃisti",
+  "bioetico": "bioɛtiko",
+  "biofemminismo": "biofemːinizmo",
+  "biofilm": "biofilm",
+  "biofiltrazione": "biofiltratːsjone",
+  "biofiltrazioni": "biofiltratːsjoni",
+  "biofirma": "biofirma",
+  "biofirme": "biofirme",
+  "biofisica": "biofizika",
+  "biofisiche": "biofizike",
+  "biofisici": "biofizitʃi",
+  "biofisico": "biofiziko",
+  "biofisiologia": "biofizjolodʒia",
+  "biogas": "bioɡas",
+  "biogenetica": "biodʒenɛtika",
+  "biogenetica_2": "bjodʒenɛtika",
+  "biogeneticamente": "biodʒenetikamente",
+  "biogenetiche": "biodʒenɛtike",
+  "biogenetici": "biodʒenɛtitʃi",
+  "biogenetico": "biodʒenɛtiko",
+  "biogenetico_2": "bjodʒenɛtiko",
+  "biogeno": "biɔdʒeno",
+  "biogeochimica": "biodʒɛokimika",
+  "biogeografica": "biodʒeoɡrafika",
+  "biogeografiche": "biodʒeoɡrafike",
+  "biogeografici": "biodʒeoɡrafitʃi",
+  "biogeografico": "biodʒeoɡrafiko",
+  "biografa": "bioɡrafa",
+  "biografante": "bioɡrafante",
+  "biografanti": "bioɡrafanti",
+  "biografare": "bioɡrafare",
+  "biografata": "bioɡrafata",
+  "biografate": "bioɡrafate",
+  "biografati": "bioɡrafati",
+  "biografato": "bioɡrafato",
+  "biografe": "bioɡrafe",
+  "biografi": "bioɡrafi",
+  "biografia": "bioɡrafia",
+  "biografica": "bjoɡrafika",
+  "biograficamente": "bjoɡrafikamente",
+  "biografiche": "bjoɡrafike",
+  "biografici": "bjoɡrafitʃi",
+  "biografico": "bjoɡrafiko",
+  "biografie": "bioɡrafie",
+  "biografo": "bioɡrafo",
+  "biografo_2": "biɔɡrafo",
+  "bioingegneristico": "bioinɡeɡneristiko",
+  "bioinsetticida": "bioinsetːitʃida",
+  "biolca": "bjolka",
+  "biolco": "bjolko",
+  "biolinguistica": "biolinɡwistika",
+  "biolisi": "biolizi",
+  "biologa": "biɔloɡa",
+  "biologhe": "biɔloɡe",
+  "biologi": "biɔlodʒi",
+  "biologia": "biolodʒia",
+  "biologica": "biolɔdʒika",
+  "biologicamente": "biolodʒikamente",
+  "biologiche": "biolɔdʒike",
+  "biologici": "biolɔdʒitʃi",
+  "biologico": "biolɔdʒiko",
+  "biologico_2": "bjolɔdʒiko",
+  "biologie": "biolodʒie",
+  "biologo": "biɔloɡo",
+  "bioluminescente": "biolumineʃʃɛnte",
+  "bioluminescenti": "biolumineʃʃɛnti",
+  "bioluminescenza": "biolumineʃʃɛntsa",
+  "bioluminescenza_2": "biɔlumineʃʃɛntsa",
+  "bioluminescenze": "biolumineʃʃɛntse",
+  "bioma": "bjɔma",
+  "biomacchina": "biomakːina",
+  "biomagnetismo": "biomaɲɲetizmo",
+  "biomagnificazione": "biomaɲɲifikatːsjone",
+  "biomagnificazioni": "maɲɲifikatːsjoni",
+  "biomassa": "biomasːa",
+  "biomeccanica": "biomekːanika",
+  "biomedico": "biomɛdiko",
+  "biometallurgia": "biometalːurdʒia",
+  "biometeorologa": "biometeorɔloɡa",
+  "biometeorologhe": "biometeorɔloɡe",
+  "biometeorologi": "biometeorɔlodʒi",
+  "biometeorologo": "biometeorɔloɡo",
+  "biometria": "biometria",
+  "biometrico": "biomɛtriko",
+  "biometrista": "biometrista",
+  "biometriste": "biometriste",
+  "biometristi": "biometristi",
+  "biomi": "bjɔmi",
+  "biomimesi": "biomimesi",
+  "biomimetica": "biomimetika",
+  "biomodellistica": "biomodelːistika",
+  "bionda": "bjonda",
+  "bionde": "bjonde",
+  "biondeggiante": "bjondedːʒante",
+  "biondeggianti": "bjondedːʒanti",
+  "biondeggiare": "bjondedːʒare",
+  "biondella": "bjondɛlːa",
+  "biondi": "bjondi",
+  "biondo": "biondo",
+  "biondo_2": "bjondo",
+  "bionica": "biɔnika",
+  "bionico": "biɔniko",
+  "bioparchi": "bioparki",
+  "bioparco": "bioparko",
+  "bioplastica": "bioplastika",
+  "bioplastiche": "bioplastike",
+  "bioprotesi": "bioprɔtezi",
+  "biopsia": "biopsia",
+  "bioreattore": "bioreatːore",
+  "bioreattori": "bioreatːori",
+  "bioregione": "bioredʒone",
+  "biorepertorio": "biorepertɔrjo",
+  "bioriassorbibile": "bioriasːorbibile",
+  "bioriassorbibili": "bioriasːorbibili",
+  "biorisanamenti": "biarizanamenti",
+  "biorisanamento": "biarizanamento",
+  "bioscia": "bjɔʃʃa",
+  "bioscienza": "bioʃʃɛntsa",
+  "bioscopi": "bioskɔpi",
+  "bioscopia": "bioskopia",
+  "bioscopio": "bioskɔpjo",
+  "biosensore": "biosensore",
+  "biosfera": "biosfɛra",
+  "biosfere": "biosfɛre",
+  "biosintesi": "biosintezi",
+  "biossidi": "biɔsːidi",
+  "biossido": "biɔsːido",
+  "biostratigrafica": "biostratiɡrafika",
+  "biostratigrafiche": "biostratiɡrafike",
+  "biostratigrafici": "biostratiɡrafitʃi",
+  "biostratigrafico": "biostratiɡrafiko",
+  "biota": "biota",
+  "biotech": "biotɛk",
+  "biotecnologa": "bioteknɔloɡa",
+  "biotecnologhe": "bioteknɔloɡa",
+  "biotecnologi": "bioteknɔloɡi",
+  "biotecnologia": "bioteknolodʒia",
+  "biotecnologica": "bioteknolɔdʒika",
+  "biotecnologicamente": "bioteknolodʒikamente",
+  "biotecnologiche": "bioteknolɔdʒike",
+  "biotecnologici": "bioteknolɔdʒitʃi",
+  "biotecnologico": "bioteknolɔdʒiko",
+  "biotecnologico_2": "bjoteknolɔdʒiko",
+  "biotecnologie": "bioteknolodʒie",
+  "biotecnologo": "bioteknɔloɡo",
+  "bioterrorismi": "bioterːorizmi",
+  "bioterrorismo": "bioterːorizmo",
+  "bioterrorista": "bioterːorista",
+  "bioterroriste": "bioterːoriste",
+  "bioterroristi": "bioterːoristi",
+  "biotica": "biɔtika",
+  "bioticamente": "biotikamente",
+  "biotiche": "biɔtike",
+  "biotici": "biɔtitʃi",
+  "biotico": "biɔtiko",
+  "biotico_2": "bjotiko",
+  "biotipo": "biotipo",
+  "biotipo_2": "biɔtipo",
+  "biotopo": "biɔtopo",
+  "biotto": "bjɔtːo",
+  "bipara": "bipara",
+  "bipare": "bipare",
+  "bipari": "bipari",
+  "biparo": "biparo",
+  "bipartibile": "bipartibile",
+  "bipartibili": "bipartibili",
+  "bipartire": "bipartire",
+  "bipartita": "bipartita",
+  "bipartite": "bipartite",
+  "bipartiti": "bipartiti",
+  "bipartitismo": "bipartitizmo",
+  "bipartito": "bipartito",
+  "bipartivi": "bipartivi",
+  "bipartizione": "bipartitːsjone",
+  "bipasso": "bipasːo",
+  "bipede": "bipede",
+  "bipedi": "bipedi",
+  "bipendolo": "bipɛndolo",
+  "bipenne": "bipenːe",
+  "bipenne_2": "bipɛnːe",
+  "biplani": "biplani",
+  "biplano": "biplano",
+  "bipolarismi": "bipolarizmi",
+  "bipolarismo": "bipolarizmo",
+  "bipolmonare": "bipolmonare",
+  "bipolmonari": "bipolmonari",
+  "biposto": "biposto",
+  "biquadratico": "bikwadratiko",
+  "biquotidianamente": "bikwotidjanamente",
+  "birba": "birba",
+  "birbante": "birbante",
+  "birbantesco": "birbantesko",
+  "birbone": "birbone",
+  "birbonesco": "birbonesko",
+  "birdwatching": "berdwɔtːʃiɲ",
+  "bireattore": "bireatːore",
+  "bireattori": "bireatːori",
+  "bireme": "birɛme",
+  "biremi": "birɛmi",
+  "birichinata": "birikinata",
+  "birichino": "birikino",
+  "birilli": "birilːi",
+  "birillo": "birilːo",
+  "birmana": "birmana",
+  "birmane": "birmane",
+  "birmani": "birmani",
+  "birmania": "birmanja",
+  "birmano": "birmano",
+  "biro": "biro",
+  "birra": "birːa",
+  "birre": "birːe",
+  "birreria": "birːeria",
+  "birri": "birːi",
+  "birrificio": "birːifitʃo",
+  "birrificio_2": "mano",
+  "birro": "birːo",
+  "bis": "bis",
+  "bisaccaride": "bisakːaride",
+  "bisaccaridi": "bisakːaridi",
+  "bisaccia": "bizatːʃa",
+  "bisannuale": "bisanːuale",
+  "bisannuali": "bisanːuali",
+  "bisante": "bizante",
+  "bisanti": "bizanti",
+  "bisanzio": "bizantsjo",
+  "bisarcavolo": "bizarkavolo",
+  "bisava": "bizava",
+  "bisave": "bizave",
+  "bisavi": "bizavi",
+  "bisavo": "bizavo",
+  "bisavola": "bizavola",
+  "bisavolo": "bizavolo",
+  "bisbetico": "bizbɛtiko",
+  "bisbigliante": "bizbiʎjante",
+  "bisbigliare": "bizbiʎare",
+  "bisbigliare_2": "bizbiʎjare",
+  "bisbigliato": "bizbiʎato",
+  "bisbigliato_2": "bizbiʎjato",
+  "bisbiglio": "bizbiʎo",
+  "bisbocce": "bizbɔtːʃe",
+  "bisboccia": "bizbɔtːʃa",
+  "biscaglina": "biskaʎina",
+  "biscazza": "biskatːsa",
+  "biscazzare": "biskatːsare",
+  "biscazziere": "biskatːsjɛre",
+  "bisce": "biʃʃe",
+  "bischera": "biskera",
+  "bischerata": "biskerata",
+  "bischere": "biskere",
+  "bischerello": "biskerɛlːo",
+  "bischeri": "biskeri",
+  "bischero": "biskero",
+  "biscia": "biʃʃa",
+  "biscione": "biʃʃone",
+  "biscottare": "biskotːare",
+  "biscottato": "biskotːato",
+  "biscotti": "biskɔtːi",
+  "biscottiero": "biskotːjɛro",
+  "biscottificio": "biskotːifitʃo",
+  "biscotto": "biskɔtːo",
+  "biscroma": "biskrɔma",
+  "biscugino": "biskudʒino",
+  "bisdrucciolo": "bizdrutːʃolo",
+  "bisecare": "bisekare",
+  "bisellare": "bizelːare",
+  "bisessuale": "bisesːuale",
+  "bisessuali": "bisesːuali",
+  "bisessualità": "bisesːualita",
+  "bisessualmente": "bisesːualmente",
+  "bisessuata": "bizesːwata",
+  "bisessuate": "bizesːwate",
+  "bisessuati": "bizesːwati",
+  "bisessuato": "bizesːwato",
+  "bisesti": "bisɛsti",
+  "bisestile": "bizestile",
+  "bisestili": "bizestili",
+  "bisesto": "bisɛsto",
+  "bisesto_2": "bizɛsto",
+  "bisettimanale": "bisetːimanale",
+  "bisettimanali": "bisetːimanali",
+  "bisettimanalmente": "bisetːimanalmente",
+  "bisettore": "bisːetːore",
+  "bisettori": "bisːetːori",
+  "bisettrice": "bisːetːritʃe",
+  "bisettrici": "bisːetːritʃi",
+  "bisezione": "bisetsjone",
+  "bisezione_2": "bisetːsjone",
+  "bisezioni": "bisetsjoni",
+  "bislacco": "bizlakːo",
+  "bismuto": "bizmuto",
+  "bisnonna": "bisnɔnːa",
+  "bisnonna_2": "biznɔnːa",
+  "bisnonne": "biznɔnːa",
+  "bisnonni": "biznɔnːi",
+  "bisnonno": "biznɔnːo",
+  "biso": "bizo",
+  "bisogna": "bizoɲɲa",
+  "bisognante": "bizoɲante",
+  "bisognare": "bizoɲare",
+  "bisognare_2": "bizoɲɲare",
+  "bisognato": "bizoɲato",
+  "bisogni": "bizoɲɲo",
+  "bisogno": "bizoɲɲo",
+  "bisogno_2": "bizɔɲɲo",
+  "bisognoso": "bizoɲɲoso",
+  "bisognoso_2": "bizoɲɲozo",
+  "bisolfati": "bisolfati",
+  "bisolfato": "bisolfato",
+  "bisolfiti": "bisolfiti",
+  "bisolfito": "bisolfito",
+  "bisolfuro": "bisolfuro",
+  "bisonte": "bizonte",
+  "bisonti": "bizonte",
+  "bissare": "bisːare",
+  "bissinosi": "bisːinɔzi",
+  "bistabile": "bistabile",
+  "bistabili": "bistabili",
+  "bistecca": "bistekːa",
+  "bistecce": "bistekːe",
+  "bistentare": "bistentare",
+  "bistento": "bistɛnto",
+  "bisticci": "bistitːʃi",
+  "bisticciare": "bistitːʃare",
+  "bisticcio": "bistitːʃo",
+  "bistondo": "bistondo",
+  "bistrare": "bistrare",
+  "bistrattare": "bistratːare",
+  "bistri": "bistri",
+  "bistro": "bistro",
+  "bistrò": "bistro",
+  "bistrò_2": "bistrɔ",
+  "bistrot": "bistro",
+  "bistrot_2": "bistrɔ",
+  "bisturi": "bisturi",
+  "bit": "bit",
+  "bitinia": "bitinja",
+  "bitmap": "bitmɛp",
+  "bitonale": "bitonale",
+  "bitonali": "bitonali",
+  "bitonalità": "bitonalita",
+  "bitorzoluto": "bitortsoluto",
+  "bitta": "bitːa",
+  "bitte": "bitːe",
+  "bitter": "bitːer",
+  "bitterna": "bitːɛrna",
+  "bitto": "bitːo",
+  "bitumare": "bitumare",
+  "bitume": "bitum",
+  "bitume_2": "bitume",
+  "bitumi": "bitumi",
+  "bituminante": "bituminante",
+  "bituminare": "bituminare",
+  "bituminato": "bituminato",
+  "bituminoso": "bituminoso",
+  "bituminoso_2": "bituminozo",
+  "biunivocità": "biunivotʃita",
+  "biunivoco": "biunivoko",
+  "bivaccante": "bivakːante",
+  "bivaccato": "bivakːato",
+  "bivacchi": "bivakːi",
+  "bivacco": "bivakːo",
+  "bivalente": "bivalente",
+  "bivalenti": "bivalenti",
+  "bivi": "bii",
+  "bivio": "bivjo",
+  "bivio_2": "bivjɔ",
+  "bixio": "biksjo",
+  "bizantina": "bidːzantina",
+  "bizantina_2": "bizantina",
+  "bizantine": "bidːzantine",
+  "bizantine_2": "bizantine",
+  "bizantineggiare": "bidːzantinedːʒare",
+  "bizantini": "bidːzantini",
+  "bizantini_2": "bizantini",
+  "bizantinismo": "bidːzantinizmo",
+  "bizantino": "bidːzantino",
+  "bizantino_2": "bizantino",
+  "bizza": "bidːza",
+  "bizza_2": "bitːsa",
+  "bizzarra": "bidːzarːa",
+  "bizzarramente": "bidːzarːamente",
+  "bizzarre": "bidːzarːe",
+  "bizzarri": "bidːzarːi",
+  "bizzarria": "bidːzarːia",
+  "bizzarro": "bidːzarːo",
+  "bizzeffe": "bidːzɛfːe",
+  "bizzoso": "bidːzoso",
+  "bizzoso_2": "bidːzozo",
+  "blaga": "blaɡa",
+  "blanda": "blanda",
+  "blandamente": "blandamente",
+  "blandente": "blandente",
+  "blandi": "blandi",
+  "blandimento": "blandimento",
+  "blandire": "blandire",
+  "blandito": "blandito",
+  "blandizia": "blanditːsja",
+  "blandizie": "blanditːsje",
+  "blando": "blando",
+  "blasfemamente": "blasfemamente",
+  "blasfemare": "blasfemare",
+  "blasfemia": "blasfɛmja",
+  "blasfemo": "blasfɛmo",
+  "blasmare": "blaʃmare",
+  "blasonato": "blazonato",
+  "blasonatura": "blazonatura",
+  "blasonature": "blazonature",
+  "blasone": "blazone",
+  "blastare": "blastare",
+  "blasti": "blasti",
+  "blasto": "blasto",
+  "blastoma": "blastɔma",
+  "blastomi": "blastɔmi",
+  "blastozoide": "blastodːzɔide",
+  "blastozoidi": "blastodːzɔidi",
+  "blastula": "blastula",
+  "blaterante": "blaterante",
+  "blaterare": "blaterare",
+  "blaterato": "blaterato",
+  "blatta": "blatːa",
+  "blatte": "blatːe",
+  "blattidi": "blatːidi",
+  "blattoidei": "blatːojdɛi",
+  "blattoideo": "blatːojdɛo",
+  "blecno": "blɛkno",
+  "blefarite": "blefarite",
+  "blefaroplastica": "blefaroplastika",
+  "blefaroplastiche": "blefaroplastike",
+  "blennide": "blɛnːide",
+  "blennio": "blɛnːjo",
+  "blenorrea": "blenorːɛa",
+  "blenorree": "blenorːɛe",
+  "blesbok": "blɛzbok",
+  "bleso": "blɛzo",
+  "blinda": "blinda",
+  "blindante": "blindante",
+  "blindare": "blindare",
+  "blindata": "blindata",
+  "blindate": "blindate",
+  "blindati": "blindati",
+  "blindato": "blindato",
+  "blindatura": "blindatura",
+  "blindature": "blindature",
+  "blister": "blister",
+  "blitz": "blits",
+  "bloccaggi": "blokːadːʒi",
+  "bloccaggio": "blokːadːʒo",
+  "bloccante": "blokːante",
+  "bloccanti": "blokːanti",
+  "bloccare": "blokːare",
+  "bloccare_2": "blɔkːare",
+  "bloccarsi": "blokːarsi",
+  "bloccasterzi": "blokːastɛrtsi",
+  "bloccasterzo": "blokːastɛrtso",
+  "bloccasterzo_2": "blɔkːastɛrtso",
+  "bloccato": "blokːato",
+  "blocchetti": "blokːetːi",
+  "blocchetto": "blokːetːo",
+  "blocchi": "blɔkːi",
+  "blocco": "blɔkːo",
+  "blog": "blɔɡ",
+  "bloggare": "bloɡːare",
+  "blogger": "blɔɡːer",
+  "blogghista": "bloɡːista",
+  "blogghiste": "bloɡːiste",
+  "blogghisti": "bloɡːisti",
+  "blonda": "blonda",
+  "blotting": "blɔtːinɡ",
+  "blu": "blu",
+  "blucerchiati": "blutʃerkjati",
+  "blucerchiato": "blutʃerkjato",
+  "blues": "bluz",
+  "bluetooth": "blutut",
+  "bluetooth_2": "blututː",
+  "blusa": "bluza",
+  "bluse": "bluze",
+  "blusotto": "bluzɔtːo",
+  "boa": "boa",
+  "boa_2": "bɔa",
+  "boario": "boarjo",
+  "boaro": "boaro",
+  "boato": "boato",
+  "bob": "bɔb",
+  "bobbista": "bobːista",
+  "bobbiste": "bobːiste",
+  "bobbisti": "bobːisti",
+  "bobina": "bobina",
+  "bobinare": "bobinare",
+  "bobine": "bobine",
+  "boboli": "bɔboli",
+  "bocca": "bokːa",
+  "boccaccesco": "bokːatːʃesko",
+  "boccaccia": "bokːatːʃa",
+  "boccacciano": "bok",
+  "boccadopera": "bokːadɔpera",
+  "boccagli": "bokːaʎ",
+  "boccaglio": "bokːaʎo",
+  "boccale": "bokːale",
+  "boccale_2": "bɔkːale",
+  "boccali": "bokːali",
+  "boccalone": "bokːalone",
+  "boccanera": "bokːanera",
+  "boccaporta": "bokːapɔrta",
+  "boccaporti": "bokːapɔrto",
+  "boccaporto": "bokːapɔrto",
+  "boccata": "bokːata",
+  "boccate": "bokːate",
+  "bocce": "bɔtːʃe",
+  "boccetta": "botːʃetːa",
+  "boccettina": "botːʃetːina",
+  "bocche": "bokːe",
+  "bocchello": "bokːɛlːo",
+  "bocchino": "bokːino",
+  "bocchino_2": "bɔkːinɔ",
+  "boccia": "bɔtːʃa",
+  "bocciaio": "botːʃajo",
+  "bocciante": "botːʃante",
+  "bocciare": "botːʃare",
+  "bocciata": "botːʃata"
 }

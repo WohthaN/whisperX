@@ -1,1525 +1,525 @@
 {
-  "aiuto": [
-    "ajuto"
-  ],
-  "aizzare": [
-    "aidːzare"
-  ],
-  "ajaccio": [
-    "ajatːʃo"
-  ],
-  "akragas": [
-    "akraɡas"
-  ],
-  "al": [
-    "al"
-  ],
-  "ala": [
-    "ala"
-  ],
-  "alabama": [
-    "alabama"
-  ],
-  "alabamense": [
-    "alabamɛnse"
-  ],
-  "alabamensi": [
-    "alabamɛnsi"
-  ],
-  "alabarda": [
-    "alabarda"
-  ],
-  "alabarde": [
-    "alabarda"
-  ],
-  "alabardiere": [
-    "alabardjɛre"
-  ],
-  "alabardieri": [
-    "alabardjɛri"
-  ],
-  "alabastro": [
-    "alabastro"
-  ],
-  "alacre": [
-    "alakre"
-  ],
-  "alacremente": [
-    "alakremente"
-  ],
-  "alacri": [
-    "alakri"
-  ],
-  "alacrità": [
-    "alakrita"
-  ],
-  "alaggi": [
-    "aladːʒi"
-  ],
-  "alaggio": [
-    "aladːʒo"
-  ],
-  "alalà": [
-    "alala"
-  ],
-  "alalonga": [
-    "alaloɲɡa",
-    "alalɔnɡa",
-    "alalɔɲɡa"
-  ],
-  "alalunga": [
-    "alalunɡa"
-  ],
-  "alamanno": [
-    "alamanːo"
-  ],
-  "alamaro": [
-    "alamaro"
-  ],
-  "alambicchi": [
-    "alambikːi"
-  ],
-  "alambicco": [
-    "alambikːo"
-  ],
-  "alando": [
-    "alando"
-  ],
-  "alanina": [
-    "alanina"
-  ],
-  "alano": [
-    "alano"
-  ],
-  "alare": [
-    "alare"
-  ],
-  "alari": [
-    "alari"
-  ],
-  "alarica": [
-    "alarika"
-  ],
-  "alarico": [
-    "alariko"
-  ],
-  "alasca": [
-    "alaska"
-  ],
-  "alascana": [
-    "alaskana"
-  ],
-  "alascane": [
-    "alaskane"
-  ],
-  "alascani": [
-    "alaskani"
-  ],
-  "alascano": [
-    "alaskano"
-  ],
-  "alaska": [
-    "alaska"
-  ],
-  "alaskana": [
-    "alaskana"
-  ],
-  "alaskane": [
-    "alaskane"
-  ],
-  "alaskani": [
-    "alaskani"
-  ],
-  "alaskano": [
-    "alaskano"
-  ],
-  "alassino": [
-    "alasːino"
-  ],
-  "alata": [
-    "alata"
-  ],
-  "alati": [
-    "alati"
-  ],
-  "alato": [
-    "alato"
-  ],
-  "alaudide": [
-    "alawdide"
-  ],
-  "alaudidi": [
-    "alawdidi"
-  ],
-  "alba": [
-    "alba"
-  ],
-  "albacora": [
-    "albakɔra"
-  ],
-  "albagia": [
-    "albadʒia"
-  ],
-  "albagio": [
-    "albadʒo"
-  ],
-  "albagioso": [
-    "albadʒoso",
-    "albadʒozo"
-  ],
-  "albanese": [
-    "albanese",
-    "albaneze"
-  ],
-  "albanesi": [
-    "albanesi",
-    "albanezi"
-  ],
-  "albania": [
-    "albania"
-  ],
-  "albatri": [
-    "albatri"
-  ],
-  "albatro": [
-    "albatro"
-  ],
-  "albatros": [
-    "albatros"
-  ],
-  "albe": [
-    "albe"
-  ],
-  "albedine": [
-    "albɛdine"
-  ],
-  "albedo": [
-    "albɛdo"
-  ],
-  "albeggerà": [
-    "albedːʒera"
-  ],
-  "albeggerai": [
-    "albedːʒerai"
-  ],
-  "albeggeranno": [
-    "albedːʒeranːo"
-  ],
-  "albeggerebbe": [
-    "albedːʒerebːe"
-  ],
-  "albeggerebbero": [
-    "albedːʒerebːero"
-  ],
-  "albeggerei": [
-    "albedːʒerei"
-  ],
-  "albeggeremmo": [
-    "albedːʒeremːo"
-  ],
-  "albeggeremo": [
-    "albedːʒeremo"
-  ],
-  "albeggereste": [
-    "albedːʒereste"
-  ],
-  "albeggeresti": [
-    "albedːʒeresti"
-  ],
-  "albeggerete": [
-    "albedːʒerete"
-  ],
-  "albeggerò": [
-    "albedːʒero"
-  ],
-  "albeggi": [
-    "albedːʒi"
-  ],
-  "albeggia": [
-    "albedːʒa"
-  ],
-  "albeggiai": [
-    "albedːʒai"
-  ],
-  "albeggiammo": [
-    "albedːʒamːo"
-  ],
-  "albeggiamo": [
-    "albedːʒamo"
-  ],
-  "albeggiando": [
-    "albedːʒando"
-  ],
-  "albeggiano": [
-    "albedːʒano"
-  ],
-  "albeggiante": [
-    "albedːʒante"
-  ],
-  "albeggiare": [
-    "albedːʒare"
-  ],
-  "albeggiarono": [
-    "albedːʒarono"
-  ],
-  "albeggiasse": [
-    "albedːʒasːe"
-  ],
-  "albeggiassero": [
-    "albedːʒasːero"
-  ],
-  "albeggiassi": [
-    "albedːʒasːi"
-  ],
-  "albeggiassimo": [
-    "albedːʒasːimo"
-  ],
-  "albeggiaste": [
-    "albedːʒaste"
-  ],
-  "albeggiasti": [
-    "albedːʒasti"
-  ],
-  "albeggiata": [
-    "albedːʒata"
-  ],
-  "albeggiate": [
-    "albedːʒate"
-  ],
-  "albeggiati": [
-    "albedːʒati"
-  ],
-  "albeggiato": [
-    "albedːʒato"
-  ],
-  "albeggiava": [
-    "albedːʒava"
-  ],
-  "albeggiavamo": [
-    "albedːʒavamo"
-  ],
-  "albeggiavano": [
-    "albedːʒavano"
-  ],
-  "albeggiavate": [
-    "albedːʒavate"
-  ],
-  "albeggiavi": [
-    "albedːʒavi"
-  ],
-  "albeggiavo": [
-    "albedːʒavo"
-  ],
-  "albeggino": [
-    "albedːʒino"
-  ],
-  "albeggio": [
-    "albedːʒo"
-  ],
-  "albeggiò": [
-    "albedːʒo"
-  ],
-  "alberaggio": [
-    "alberadːʒo"
-  ],
-  "alberare": [
-    "alberare"
-  ],
-  "alberato": [
-    "alberato"
-  ],
-  "alberello": [
-    "alberɛlːo"
-  ],
-  "albereta": [
-    "albereta"
-  ],
-  "albereto": [
-    "albereto"
-  ],
-  "albergando": [
-    "alberɡando"
-  ],
-  "albergante": [
-    "alberɡante"
-  ],
-  "albergare": [
-    "alberɡare"
-  ],
-  "albergato": [
-    "alberɡato"
-  ],
-  "albergatore": [
-    "alberɡatore"
-  ],
-  "albergatori": [
-    "alberɡatori"
-  ],
-  "albergatrice": [
-    "alberɡatritʃe"
-  ],
-  "albergatrici": [
-    "alberɡatritʃi"
-  ],
-  "albergazione": [
-    "alberɡatsjone"
-  ],
-  "albergazioni": [
-    "alberɡatsjoni"
-  ],
-  "alberghetto": [
-    "alberɡetːo"
-  ],
-  "alberghi": [
-    "albɛrɡi"
-  ],
-  "alberghiero": [
-    "alberɡjɛro"
-  ],
-  "albergo": [
-    "albɛrɡo"
-  ],
-  "alberi": [
-    "alberi"
-  ],
-  "albero": [
-    "albero"
-  ],
-  "albertino": [
-    "albertino"
-  ],
-  "alberto": [
-    "albɛrto"
-  ],
-  "albi": [
-    "albi"
-  ],
-  "albicare": [
-    "albikare"
-  ],
-  "albicatura": [
-    "albikatura"
-  ],
-  "albicocca": [
-    "albikokːa",
-    "albikɔkːa"
-  ],
-  "albicocche": [
-    "albikokːe"
-  ],
-  "albicocchi": [
-    "albikokːo"
-  ],
-  "albicocco": [
-    "albikokːo",
-    "albikɔkːo"
-  ],
-  "albicore": [
-    "albikɔre"
-  ],
-  "albigese": [
-    "albidʒese",
-    "albidʒeze"
-  ],
-  "albinismo": [
-    "albinizmo"
-  ],
-  "albino": [
-    "albino"
-  ],
-  "albo": [
-    "albo"
-  ],
-  "albore": [
-    "albore"
-  ],
-  "alborella": [
-    "alborɛlːa"
-  ],
-  "album": [
-    "album"
-  ],
-  "albume": [
-    "albume"
-  ],
-  "albumi": [
-    "albumi"
-  ],
-  "albuminoso": [
-    "albuminoso",
-    "albuminozo"
-  ],
-  "alca": [
-    "alka"
-  ],
-  "alcachengi": [
-    "alkakɛndʒi"
-  ],
-  "alcali": [
-    "alkali"
-  ],
-  "alcalica": [
-    "alkalika"
-  ],
-  "alcaliche": [
-    "alkalike"
-  ],
-  "alcalici": [
-    "alkalitʃi"
-  ],
-  "alcalico": [
-    "alkaliko"
-  ],
-  "alcalina": [
-    "alkalina"
-  ],
-  "alcaline": [
-    "alkaline"
-  ],
-  "alcalini": [
-    "alkalini"
-  ],
-  "alcalinità": [
-    "alkalinita"
-  ],
-  "alcalinizza": [
-    "alkalinidːza"
-  ],
-  "alcalinizzai": [
-    "alkalinidːzai"
-  ],
-  "alcalinizzammo": [
-    "alkalinidːzamːo"
-  ],
-  "alcalinizzando": [
-    "alkalinidːzando"
-  ],
-  "alcalinizzano": [
-    "alkalinidːzano"
-  ],
-  "alcalinizzante": [
-    "alkalinidːzante"
-  ],
-  "alcalinizzanti": [
-    "alkalinidːzanti"
-  ],
-  "alcalinizzare": [
-    "alkalinidːzare"
-  ],
-  "alcalinizzarono": [
-    "alkalinidːzarono"
-  ],
-  "alcalinizzasse": [
-    "alkalinidːzasːe"
-  ],
-  "alcalinizzassero": [
-    "alkalinidːzasːero"
-  ],
-  "alcalinizzassi": [
-    "alkalinidːzasːi"
-  ],
-  "alcalinizzassimo": [
-    "alkalinidːzasːimo"
-  ],
-  "alcalinizzaste": [
-    "alkalinidːzaste"
-  ],
-  "alcalinizzasti": [
-    "alkalinidːzasti"
-  ],
-  "alcalinizzata": [
-    "alkalinidːzata"
-  ],
-  "alcalinizzate": [
-    "alkalinidːzate"
-  ],
-  "alcalinizzati": [
-    "alkalinidːzati"
-  ],
-  "alcalinizzato": [
-    "alkalinidːzato"
-  ],
-  "alcalinizzatore": [
-    "alkalinidːzatore"
-  ],
-  "alcalinizzatori": [
-    "alkalinidːzatori"
-  ],
-  "alcalinizzatrice": [
-    "alkalinidːzatritʃe"
-  ],
-  "alcalinizzatrici": [
-    "alkalinidːzatritʃi"
-  ],
-  "alcalinizzava": [
-    "alkalinidːzava"
-  ],
-  "alcalinizzavamo": [
-    "alkalinidːzavamo"
-  ],
-  "alcalinizzavano": [
-    "alkalinidːzavano"
-  ],
-  "alcalinizzavate": [
-    "alkalinidːzavate"
-  ],
-  "alcalinizzavi": [
-    "alkalinidːzavi"
-  ],
-  "alcalinizzavo": [
-    "alkalinidːzavo"
-  ],
-  "alcalinizzazione": [
-    "alkalinidːzatsjone"
-  ],
-  "alcalinizzazioni": [
-    "alkalinidːzatsjoni"
-  ],
-  "alcalinizzerà": [
-    "alkalinidːzera"
-  ],
-  "alcalinizzerai": [
-    "alkalinidːzerai"
-  ],
-  "alcalinizzeranno": [
-    "alkalinidːzeranːo"
-  ],
-  "alcalinizzerebbe": [
-    "alkalinidːzerebːe"
-  ],
-  "alcalinizzerebbero": [
-    "alkalinidːzerebːero"
-  ],
-  "alcalinizzerei": [
-    "alkalinidːzerei"
-  ],
-  "alcalinizzeremmo": [
-    "alkalinidːzeremːo"
-  ],
-  "alcalinizzeremo": [
-    "alkalinidːzeremo"
-  ],
-  "alcalinizzereste": [
-    "alkalinidːzereste"
-  ],
-  "alcalinizzeresti": [
-    "alkalinidːzeresti"
-  ],
-  "alcalinizzerete": [
-    "alkalinidːzerete"
-  ],
-  "alcalinizzerò": [
-    "alkalinidːzero"
-  ],
-  "alcalinizzi": [
-    "alkalinidːzi"
-  ],
-  "alcalinizziamo": [
-    "alkalinidːzjamo"
-  ],
-  "alcalinizziate": [
-    "alkalinidːzjate"
-  ],
-  "alcalinizzino": [
-    "alkalinidːzino"
-  ],
-  "alcalinizzo": [
-    "alkalinidːzo"
-  ],
-  "alcalinizzò": [
-    "alkalinidːzo"
-  ],
-  "alcalino": [
-    "alkalino"
-  ],
-  "alcaloide": [
-    "alkalɔide",
-    "alkalɔjde"
-  ],
-  "alcaloidi": [
-    "alkalɔidi"
-  ],
-  "alcanna": [
-    "alkanːa"
-  ],
-  "alcano": [
-    "alkano"
-  ],
-  "alcatriene": [
-    "alkatriɛne"
-  ],
-  "alcazar": [
-    "alkadːzar"
-  ],
-  "alce": [
-    "altʃe"
-  ],
-  "alcedinide": [
-    "altʃedinide"
-  ],
-  "alcedinidi": [
-    "altʃedinidi"
-  ],
-  "alcelafino": [
-    "altʃelafino"
-  ],
-  "alche": [
-    "alke"
-  ],
-  "alchechengi": [
-    "alkekɛndʒi"
-  ],
-  "alchemico": [
-    "alkɛmiko"
-  ],
-  "alchermes": [
-    "alkɛrmes"
-  ],
-  "alchilare": [
-    "alkilare"
-  ],
-  "alchile": [
-    "alkile"
-  ],
-  "alchilsilano": [
-    "alkilsilano"
-  ],
-  "alchimia": [
-    "alkimia",
-    "alkimja"
-  ],
-  "alchimico": [
-    "alkimiko"
-  ],
-  "alchimista": [
-    "alkimista"
-  ],
-  "alchimiste": [
-    "alkimiste"
-  ],
-  "alchimisti": [
-    "alkimisti"
-  ],
-  "alchimistico": [
-    "alkimistiko"
-  ],
-  "alchimizzare": [
-    "alkimidːzare"
-  ],
-  "alci": [
-    "altʃi"
-  ],
-  "alcide": [
-    "altʃide"
-  ],
-  "alcidi": [
-    "altʃidi"
-  ],
-  "alciforme": [
-    "altʃiforme"
-  ],
-  "alciformi": [
-    "altʃiformi"
-  ],
-  "alcione": [
-    "altʃone"
-  ],
-  "alcol": [
-    "alkol"
-  ],
-  "alcolato": [
-    "alkolato"
-  ],
-  "alcole": [
-    "alkole"
-  ],
-  "alcolemia": [
-    "alkolemia"
-  ],
-  "alcolemie": [
-    "alkolemie"
-  ],
-  "alcoli": [
-    "alkoli"
-  ],
-  "alcolica": [
-    "alkɔlika"
-  ],
-  "alcoliche": [
-    "alkɔlike"
-  ],
-  "alcolici": [
-    "alkɔliko",
-    "alkɔlitʃi"
-  ],
-  "alcolicità": [
-    "alkolitʃita"
-  ],
-  "alcolico": [
-    "alkɔliko"
-  ],
-  "alcolimetria": [
-    "alkolimetria"
-  ],
-  "alcolismi": [
-    "alkolizmi"
-  ],
-  "alcolismo": [
-    "alkolizmo"
-  ],
-  "alcolista": [
-    "alkolista"
-  ],
-  "alcoliste": [
-    "alkoliste"
-  ],
-  "alcolisti": [
-    "alkolisti"
-  ],
-  "alcolizzare": [
-    "alkolidːzare"
-  ],
-  "alcolizzarsi": [
-    "alkolidːzarsi"
-  ],
-  "alcolizzata": [
-    "alkolidːzata"
-  ],
-  "alcolizzate": [
-    "alkolidːzate"
-  ],
-  "alcolizzati": [
-    "alkolidːzati"
-  ],
-  "alcolizzato": [
-    "alkolidːzato"
-  ],
-  "alcolizzazione": [
-    "alkolidːzatsjone",
-    "alkolidːzatːsjone"
-  ],
-  "alcolizzazioni": [
-    "alkolidːzatsjoni"
-  ],
-  "alcologia": [
-    "alkolodʒia"
-  ],
-  "alcologie": [
-    "alkolodʒie"
-  ],
-  "alcoltest": [
-    "alkoltɛst"
-  ],
-  "alcool": [
-    "alkol",
-    "alkool"
-  ],
-  "alcoolemia": [
-    "alkoolemia"
-  ],
-  "alcoolemie": [
-    "alkoolemie"
-  ],
-  "alcoolica": [
-    "alkoɔlika"
-  ],
-  "alcoolicamente": [
-    "alkoolikamente"
-  ],
-  "alcooliche": [
-    "alkoɔlike"
-  ],
-  "alcoolici": [
-    "alkoɔlitʃi"
-  ],
-  "alcoolicità": [
-    "alkoolitʃita"
-  ],
-  "alcoolico": [
-    "alkoɔliko"
-  ],
-  "alcoolismi": [
-    "alkoolizmi"
-  ],
-  "alcoolismo": [
-    "alkoolizmo"
-  ],
-  "alcoolista": [
-    "alkoolista"
-  ],
-  "alcooliste": [
-    "alkooliste"
-  ],
-  "alcoolisti": [
-    "alkoolisti"
-  ],
-  "alcoolizzare": [
-    "alkolidːzare"
-  ],
-  "alcoolizzarsi": [
-    "alkolidːzarsi"
-  ],
-  "alcova": [
-    "alkɔva"
-  ],
-  "alcunché": [
-    "alkunke"
-  ],
-  "alcuni": [
-    "alkuni"
-  ],
-  "alcuno": [
-    "alkuno"
-  ],
-  "aldeide": [
-    "aldɛide"
-  ],
-  "aldeidi": [
-    "aldeidi"
-  ],
-  "aldighiero": [
-    "aldiɡjɛro"
-  ],
-  "aldilà": [
-    "aldila"
-  ],
-  "aldoli": [
-    "aldɔli"
-  ],
-  "aldolo": [
-    "aldɔlo"
-  ],
-  "aldosteronismo": [
-    "aldosteronizmo"
-  ],
-  "ale": [
-    "ale"
-  ],
-  "alé": [
-    "ale"
-  ],
-  "alea": [
-    "alea"
-  ],
-  "aleatori": [
-    "aleatɔri"
-  ],
-  "aleatoria": [
-    "aleatɔrja"
-  ],
-  "aleatorie": [
-    "aleatɔrje"
-  ],
-  "aleatorietà": [
-    "aleatɔrjeta"
-  ],
-  "aleatorio": [
-    "aleatɔrjo"
-  ],
-  "alectoride": [
-    "alektɔride"
-  ],
-  "alectoridi": [
-    "alektɔridi"
-  ],
-  "alef": [
-    "alef"
-  ],
-  "aleggerà": [
-    "aledːʒera"
-  ],
-  "aleggerai": [
-    "aledːʒerai"
-  ],
-  "aleggeranno": [
-    "aledːʒeranːo"
-  ],
-  "aleggerebbe": [
-    "aledːʒerebːe"
-  ],
-  "aleggerebbero": [
-    "aledːʒerebːero"
-  ],
-  "aleggerei": [
-    "aledːʒerei"
-  ],
-  "aleggeremmo": [
-    "aledːʒeremːo"
-  ],
-  "aleggeremo": [
-    "aledːʒeremo"
-  ],
-  "aleggereste": [
-    "aledːʒereste"
-  ],
-  "aleggeresti": [
-    "aledːʒeresti"
-  ],
-  "aleggerete": [
-    "aledːʒerete"
-  ],
-  "aleggerò": [
-    "aledːʒero"
-  ],
-  "aleggi": [
-    "aledːʒi"
-  ],
-  "aleggia": [
-    "aledːʒa"
-  ],
-  "aleggiai": [
-    "aledːʒai"
-  ],
-  "aleggiammo": [
-    "aledːʒamːo"
-  ],
-  "aleggiamo": [
-    "aledːʒamo"
-  ],
-  "aleggiando": [
-    "aledːʒando"
-  ],
-  "aleggiano": [
-    "aledːʒano"
-  ],
-  "aleggiante": [
-    "aledːʒante"
-  ],
-  "aleggiare": [
-    "aledːʒare"
-  ],
-  "aleggiarono": [
-    "aledːʒarono"
-  ],
-  "aleggiasse": [
-    "aledːʒasːe"
-  ],
-  "aleggiassero": [
-    "aledːʒasːero"
-  ],
-  "aleggiassi": [
-    "aledːʒasːi"
-  ],
-  "aleggiassimo": [
-    "aledːʒasːimo"
-  ],
-  "aleggiaste": [
-    "aledːʒaste"
-  ],
-  "aleggiasti": [
-    "aledːʒasti"
-  ],
-  "aleggiata": [
-    "aledːʒata"
-  ],
-  "aleggiate": [
-    "aledːʒate"
-  ],
-  "aleggiati": [
-    "aledːʒati"
-  ],
-  "aleggiato": [
-    "aledːʒato"
-  ],
-  "aleggiava": [
-    "aledːʒava"
-  ],
-  "aleggiavamo": [
-    "aledːʒavamo"
-  ],
-  "aleggiavano": [
-    "aledːʒavano"
-  ],
-  "aleggiavate": [
-    "aledːʒavate"
-  ],
-  "aleggiavi": [
-    "aledːʒavi"
-  ],
-  "aleggiavo": [
-    "aledːʒavo"
-  ],
-  "aleggino": [
-    "aledːʒino"
-  ],
-  "aleggio": [
-    "aledːʒo"
-  ],
-  "aleggiò": [
-    "aledːʒo"
-  ],
-  "alemanno": [
-    "alemanːo"
-  ],
-  "aleppe": [
-    "alɛpːe"
-  ],
-  "aleppina": [
-    "alepːina"
-  ],
-  "aleppino": [
-    "alepːino"
-  ],
-  "aleppo": [
-    "alepːo"
-  ],
-  "alerone": [
-    "alerone"
-  ],
-  "aleroni": [
-    "aleroni"
-  ],
-  "alesaggio": [
-    "alezadːʒo"
-  ],
-  "alesai": [
-    "alezaj"
-  ],
-  "alesare": [
-    "alezare"
-  ],
-  "alesatore": [
-    "alezatore"
-  ],
-  "alesatori": [
-    "alezatori"
-  ],
-  "alessandra": [
-    "alesːandra"
-  ],
-  "alessandria": [
-    "alesːandrja"
-  ],
-  "alessandrino": [
-    "alesːandrino"
-  ],
-  "alessandro": [
-    "alesːandro"
-  ],
-  "aletta": [
-    "aletːa"
-  ],
-  "alettare": [
-    "aletːare"
-  ],
-  "alette": [
-    "aletːe"
-  ],
-  "alettone": [
-    "aletːɔne"
-  ],
-  "alettoni": [
-    "aletːɔni"
-  ],
-  "aleurite": [
-    "alewrite"
-  ],
-  "alfa": [
-    "alfa"
-  ],
-  "alfabet": [
-    "alfabɛt"
-  ],
-  "alfabetari": [
-    "alfabetarjo"
-  ],
-  "alfabetario": [
-    "alfabetarjo"
-  ],
-  "alfabeti": [
-    "alfabɛti"
-  ],
-  "alfabetica": [
-    "alfabɛtika"
-  ],
-  "alfabeticamente": [
-    "alfabetikamente"
-  ],
-  "alfabetiche": [
-    "alfabɛtike"
-  ],
-  "alfabetici": [
-    "alfabɛtitʃi"
-  ],
-  "alfabetico": [
-    "alfabɛtiko"
-  ],
-  "alfabetiere": [
-    "alfabetjɛre"
-  ],
-  "alfabetieri": [
-    "alfabetjɛri"
-  ],
-  "alfabetismi": [
-    "alfabetizmi"
-  ],
-  "alfabetismo": [
-    "alfabetizmo"
-  ],
-  "alfabetizzante": [
-    "alfabetidːzante"
-  ],
-  "alfabetizzanti": [
-    "alfabetidːzanti"
-  ],
-  "alfabetizzare": [
-    "alfabetidːzare"
-  ],
-  "alfabetizzata": [
-    "alfabetidːzata"
-  ],
-  "alfabetizzate": [
-    "alfabetidːzate"
-  ],
-  "alfabetizzati": [
-    "alfabetidːzati"
-  ],
-  "alfabetizzato": [
-    "alfabetidːzato"
-  ],
-  "alfabetizzazione": [
-    "alfabetidːzatsjone",
-    "alfabetidːzatːsjone"
-  ],
-  "alfabetizzazioni": [
-    "alfabetidːzatsjoni"
-  ],
-  "alfabeto": [
-    "alfabɛto",
-    "alfabɛtɔ"
-  ],
-  "alfamedialità": [
-    "alfamɛdjalita"
-  ],
-  "alfe": [
-    "alfe"
-  ],
-  "alfeide": [
-    "alfɛjde"
-  ],
-  "alfiere": [
-    "alfjɛre"
-  ],
-  "alfredo": [
-    "alfredo"
-  ],
-  "alga": [
-    "alɡa"
-  ],
-  "algarello": [
-    "alɡarɛlːo"
-  ],
-  "algarrobo": [
-    "alɡarːɔbo"
-  ],
-  "algebra": [
-    "aldʒebra",
-    "aldʒɛbra"
-  ],
-  "algebrica": [
-    "aldʒɛbrika"
-  ],
-  "algebricamente": [
-    "aldʒebrikamente"
-  ],
-  "algebriche": [
-    "aldʒɛbrike"
-  ],
-  "algebrici": [
-    "aldʒɛbritʃi"
-  ],
-  "algebrico": [
-    "aldʒɛbriko"
-  ],
-  "algebrista": [
-    "aldʒebrista"
-  ],
-  "algebriste": [
-    "aldʒebriste"
-  ],
-  "algebristi": [
-    "aldʒebristi"
-  ],
-  "algente": [
-    "aldʒɛnte"
-  ],
-  "algere": [
-    "aldʒere"
-  ],
-  "algeri": [
-    "aldʒeri"
-  ],
-  "algeria": [
-    "aldʒeria"
-  ],
-  "algerina": [
-    "aldʒerina"
-  ],
-  "algerine": [
-    "aldʒerine"
-  ],
-  "algerini": [
-    "aldʒerini"
-  ],
-  "algerino": [
-    "aldʒerino"
-  ],
-  "alghe": [
-    "alɡe"
-  ],
-  "algherese": [
-    "alɡerese",
-    "alɡereze"
-  ],
-  "alghero": [
-    "alɡɛro"
-  ],
-  "algia": [
-    "aldʒia"
-  ],
-  "algida": [
-    "aldʒida"
-  ],
-  "algide": [
-    "aldʒide"
-  ],
-  "algidi": [
-    "aldʒidi"
-  ],
-  "algido": [
-    "aldʒido"
-  ],
-  "algina": [
-    "aldʒina"
-  ],
-  "algine": [
-    "aldʒina"
-  ],
-  "alginica": [
-    "aldʒinika"
-  ],
-  "alginiche": [
-    "aldʒinike"
-  ],
-  "alginici": [
-    "aldʒinitʃi"
-  ],
-  "alginico": [
-    "aldʒiniko"
-  ],
-  "algocoltura": [
-    "alɡokoltura"
-  ],
-  "algocolture": [
-    "alɡokolture"
-  ],
-  "algofilia": [
-    "alɡofilia"
-  ],
-  "algofiliaco": [
-    "alɡofiliako"
-  ],
-  "algofobia": [
-    "alɡofobia"
-  ],
-  "algofobie": [
-    "alɡofobie"
-  ],
-  "algologia": [
-    "alɡolodʒia"
-  ],
-  "algologica": [
-    "alɡolɔdʒika"
-  ],
-  "algologiche": [
-    "alɡolɔdʒike"
-  ],
-  "algologici": [
-    "alɡolɔdʒitʃi"
-  ],
-  "algologico": [
-    "alɡolɔdʒiko"
-  ],
-  "algologo": [
-    "alɡɔloɡo"
-  ],
-  "algore": [
-    "alɡore"
-  ],
-  "algoritmica": [
-    "alɡoritmika"
-  ],
-  "algoritmiche": [
-    "alɡoritmike"
-  ],
-  "algoritmici": [
-    "alɡoritmitʃi"
-  ],
-  "algoritmico": [
-    "alɡoritmiko"
-  ],
-  "algoritmizzabile": [
-    "alɡoritmidːzabile"
-  ],
-  "algoritmizzabili": [
-    "alɡoritmidːzabili"
-  ],
-  "algoritmizzazione": [
-    "alɡoritmidːzatːsjone"
-  ],
-  "algoritmizzazioni": [
-    "alɡoritmidːzatːsjoni"
-  ],
-  "algoritmo": [
-    "alɡoritmo"
-  ],
-  "algoso": [
-    "alɡoso",
-    "alɡozo"
-  ],
-  "ali": [
-    "ali"
-  ],
-  "aliaeti": [
-    "aljaɛti"
-  ],
-  "aliaeto": [
-    "aljaɛto"
-  ],
-  "aliante": [
-    "aliante",
-    "aljante"
-  ],
-  "alianti": [
-    "alianti",
-    "aljanti"
-  ],
-  "aliare": [
-    "aljare"
-  ],
-  "alibi": [
-    "alibi"
-  ],
-  "alicamenti": [
-    "alikamenti"
-  ],
-  "alicamento": [
-    "alikamento"
-  ],
-  "alice": [
-    "alitʃe"
-  ],
-  "alicorno": [
-    "alikɔrno"
-  ],
-  "aliena": [
-    "aljɛna"
-  ],
-  "alienabile": [
-    "aljenabile"
-  ],
-  "alienando": [
-    "aljenando"
-  ],
-  "alienante": [
-    "aljenante"
-  ],
-  "alienanti": [
-    "aljenante"
-  ],
-  "alienare": [
-    "aljenare"
-  ],
-  "alienata": [
-    "aljenata"
-  ],
-  "alienate": [
-    "aljenate"
-  ],
-  "alienati": [
-    "aljenati"
-  ],
-  "alienato": [
-    "aljenato"
-  ],
-  "alienazione": [
-    "aljenatsjone",
-    "aljenatːsjone"
-  ],
-  "alienazioni": [
-    "aljenatsjoni"
-  ],
-  "aliene": [
-    "aljɛne"
-  ],
-  "alieni": [
-    "aljɛni"
-  ],
-  "alienista": [
-    "aljenista"
-  ],
-  "alieniste": [
-    "aljeniste"
-  ],
-  "alienisti": [
-    "aljenisti"
-  ],
-  "alieno": [
-    "aljɛno"
-  ],
-  "alif": [
-    "alif"
-  ],
-  "alifatica": [
-    "alifatika"
-  ],
-  "alifatiche": [
-    "alifatike"
-  ],
-  "alifatici": [
-    "alifatitʃi"
-  ],
-  "alifatico": [
-    "alifatiko"
-  ],
-  "aligera": [
-    "alidʒera"
-  ],
-  "aligere": [
-    "alidʒere"
-  ],
-  "aligeri": [
-    "alidʒeri"
-  ],
-  "aligero": [
-    "alidʒero"
-  ],
-  "alighieri": [
-    "aliɡjɛri"
-  ],
-  "alighiero": [
-    "aliɡjɛro"
-  ],
-  "alimenta": [
-    "alimɛnta"
-  ],
-  "alimentabile": [
-    "alimentabile"
-  ],
-  "alimentabili": [
-    "alimentabili"
-  ],
-  "alimentai": [
-    "alimɛntai"
-  ],
-  "alimentare": [
-    "alimentare",
-    "alimɛntare"
-  ],
-  "alimentari": [
-    "alimɛntari"
-  ],
-  "alimentarista": [
-    "alimentarista"
-  ]
+  "aiuto": "ajuto",
+  "aizzare": "aidːzare",
+  "ajaccio": "ajatːʃo",
+  "akragas": "akraɡas",
+  "al": "al",
+  "ala": "ala",
+  "alabama": "alabama",
+  "alabamense": "alabamɛnse",
+  "alabamensi": "alabamɛnsi",
+  "alabarda": "alabarda",
+  "alabarde": "alabarda",
+  "alabardiere": "alabardjɛre",
+  "alabardieri": "alabardjɛri",
+  "alabastro": "alabastro",
+  "alacre": "alakre",
+  "alacremente": "alakremente",
+  "alacri": "alakri",
+  "alacrità": "alakrita",
+  "alaggi": "aladːʒi",
+  "alaggio": "aladːʒo",
+  "alalà": "alala",
+  "alalonga": "alaloɲɡa",
+  "alalonga_2": "alalɔnɡa",
+  "alalonga_3": "alalɔɲɡa",
+  "alalunga": "alalunɡa",
+  "alamanno": "alamanːo",
+  "alamaro": "alamaro",
+  "alambicchi": "alambikːi",
+  "alambicco": "alambikːo",
+  "alando": "alando",
+  "alanina": "alanina",
+  "alano": "alano",
+  "alare": "alare",
+  "alari": "alari",
+  "alarica": "alarika",
+  "alarico": "alariko",
+  "alasca": "alaska",
+  "alascana": "alaskana",
+  "alascane": "alaskane",
+  "alascani": "alaskani",
+  "alascano": "alaskano",
+  "alaska": "alaska",
+  "alaskana": "alaskana",
+  "alaskane": "alaskane",
+  "alaskani": "alaskani",
+  "alaskano": "alaskano",
+  "alassino": "alasːino",
+  "alata": "alata",
+  "alati": "alati",
+  "alato": "alato",
+  "alaudide": "alawdide",
+  "alaudidi": "alawdidi",
+  "alba": "alba",
+  "albacora": "albakɔra",
+  "albagia": "albadʒia",
+  "albagio": "albadʒo",
+  "albagioso": "albadʒoso",
+  "albagioso_2": "albadʒozo",
+  "albanese": "albanese",
+  "albanese_2": "albaneze",
+  "albanesi": "albanesi",
+  "albanesi_2": "albanezi",
+  "albania": "albania",
+  "albatri": "albatri",
+  "albatro": "albatro",
+  "albatros": "albatros",
+  "albe": "albe",
+  "albedine": "albɛdine",
+  "albedo": "albɛdo",
+  "albeggerà": "albedːʒera",
+  "albeggerai": "albedːʒerai",
+  "albeggeranno": "albedːʒeranːo",
+  "albeggerebbe": "albedːʒerebːe",
+  "albeggerebbero": "albedːʒerebːero",
+  "albeggerei": "albedːʒerei",
+  "albeggeremmo": "albedːʒeremːo",
+  "albeggeremo": "albedːʒeremo",
+  "albeggereste": "albedːʒereste",
+  "albeggeresti": "albedːʒeresti",
+  "albeggerete": "albedːʒerete",
+  "albeggerò": "albedːʒero",
+  "albeggi": "albedːʒi",
+  "albeggia": "albedːʒa",
+  "albeggiai": "albedːʒai",
+  "albeggiammo": "albedːʒamːo",
+  "albeggiamo": "albedːʒamo",
+  "albeggiando": "albedːʒando",
+  "albeggiano": "albedːʒano",
+  "albeggiante": "albedːʒante",
+  "albeggiare": "albedːʒare",
+  "albeggiarono": "albedːʒarono",
+  "albeggiasse": "albedːʒasːe",
+  "albeggiassero": "albedːʒasːero",
+  "albeggiassi": "albedːʒasːi",
+  "albeggiassimo": "albedːʒasːimo",
+  "albeggiaste": "albedːʒaste",
+  "albeggiasti": "albedːʒasti",
+  "albeggiata": "albedːʒata",
+  "albeggiate": "albedːʒate",
+  "albeggiati": "albedːʒati",
+  "albeggiato": "albedːʒato",
+  "albeggiava": "albedːʒava",
+  "albeggiavamo": "albedːʒavamo",
+  "albeggiavano": "albedːʒavano",
+  "albeggiavate": "albedːʒavate",
+  "albeggiavi": "albedːʒavi",
+  "albeggiavo": "albedːʒavo",
+  "albeggino": "albedːʒino",
+  "albeggio": "albedːʒo",
+  "albeggiò": "albedːʒo",
+  "alberaggio": "alberadːʒo",
+  "alberare": "alberare",
+  "alberato": "alberato",
+  "alberello": "alberɛlːo",
+  "albereta": "albereta",
+  "albereto": "albereto",
+  "albergando": "alberɡando",
+  "albergante": "alberɡante",
+  "albergare": "alberɡare",
+  "albergato": "alberɡato",
+  "albergatore": "alberɡatore",
+  "albergatori": "alberɡatori",
+  "albergatrice": "alberɡatritʃe",
+  "albergatrici": "alberɡatritʃi",
+  "albergazione": "alberɡatsjone",
+  "albergazioni": "alberɡatsjoni",
+  "alberghetto": "alberɡetːo",
+  "alberghi": "albɛrɡi",
+  "alberghiero": "alberɡjɛro",
+  "albergo": "albɛrɡo",
+  "alberi": "alberi",
+  "albero": "albero",
+  "albertino": "albertino",
+  "alberto": "albɛrto",
+  "albi": "albi",
+  "albicare": "albikare",
+  "albicatura": "albikatura",
+  "albicocca": "albikokːa",
+  "albicocca_2": "albikɔkːa",
+  "albicocche": "albikokːe",
+  "albicocchi": "albikokːo",
+  "albicocco": "albikokːo",
+  "albicocco_2": "albikɔkːo",
+  "albicore": "albikɔre",
+  "albigese": "albidʒese",
+  "albigese_2": "albidʒeze",
+  "albinismo": "albinizmo",
+  "albino": "albino",
+  "albo": "albo",
+  "albore": "albore",
+  "alborella": "alborɛlːa",
+  "album": "album",
+  "albume": "albume",
+  "albumi": "albumi",
+  "albuminoso": "albuminoso",
+  "albuminoso_2": "albuminozo",
+  "alca": "alka",
+  "alcachengi": "alkakɛndʒi",
+  "alcali": "alkali",
+  "alcalica": "alkalika",
+  "alcaliche": "alkalike",
+  "alcalici": "alkalitʃi",
+  "alcalico": "alkaliko",
+  "alcalina": "alkalina",
+  "alcaline": "alkaline",
+  "alcalini": "alkalini",
+  "alcalinità": "alkalinita",
+  "alcalinizza": "alkalinidːza",
+  "alcalinizzai": "alkalinidːzai",
+  "alcalinizzammo": "alkalinidːzamːo",
+  "alcalinizzando": "alkalinidːzando",
+  "alcalinizzano": "alkalinidːzano",
+  "alcalinizzante": "alkalinidːzante",
+  "alcalinizzanti": "alkalinidːzanti",
+  "alcalinizzare": "alkalinidːzare",
+  "alcalinizzarono": "alkalinidːzarono",
+  "alcalinizzasse": "alkalinidːzasːe",
+  "alcalinizzassero": "alkalinidːzasːero",
+  "alcalinizzassi": "alkalinidːzasːi",
+  "alcalinizzassimo": "alkalinidːzasːimo",
+  "alcalinizzaste": "alkalinidːzaste",
+  "alcalinizzasti": "alkalinidːzasti",
+  "alcalinizzata": "alkalinidːzata",
+  "alcalinizzate": "alkalinidːzate",
+  "alcalinizzati": "alkalinidːzati",
+  "alcalinizzato": "alkalinidːzato",
+  "alcalinizzatore": "alkalinidːzatore",
+  "alcalinizzatori": "alkalinidːzatori",
+  "alcalinizzatrice": "alkalinidːzatritʃe",
+  "alcalinizzatrici": "alkalinidːzatritʃi",
+  "alcalinizzava": "alkalinidːzava",
+  "alcalinizzavamo": "alkalinidːzavamo",
+  "alcalinizzavano": "alkalinidːzavano",
+  "alcalinizzavate": "alkalinidːzavate",
+  "alcalinizzavi": "alkalinidːzavi",
+  "alcalinizzavo": "alkalinidːzavo",
+  "alcalinizzazione": "alkalinidːzatsjone",
+  "alcalinizzazioni": "alkalinidːzatsjoni",
+  "alcalinizzerà": "alkalinidːzera",
+  "alcalinizzerai": "alkalinidːzerai",
+  "alcalinizzeranno": "alkalinidːzeranːo",
+  "alcalinizzerebbe": "alkalinidːzerebːe",
+  "alcalinizzerebbero": "alkalinidːzerebːero",
+  "alcalinizzerei": "alkalinidːzerei",
+  "alcalinizzeremmo": "alkalinidːzeremːo",
+  "alcalinizzeremo": "alkalinidːzeremo",
+  "alcalinizzereste": "alkalinidːzereste",
+  "alcalinizzeresti": "alkalinidːzeresti",
+  "alcalinizzerete": "alkalinidːzerete",
+  "alcalinizzerò": "alkalinidːzero",
+  "alcalinizzi": "alkalinidːzi",
+  "alcalinizziamo": "alkalinidːzjamo",
+  "alcalinizziate": "alkalinidːzjate",
+  "alcalinizzino": "alkalinidːzino",
+  "alcalinizzo": "alkalinidːzo",
+  "alcalinizzò": "alkalinidːzo",
+  "alcalino": "alkalino",
+  "alcaloide": "alkalɔide",
+  "alcaloide_2": "alkalɔjde",
+  "alcaloidi": "alkalɔidi",
+  "alcanna": "alkanːa",
+  "alcano": "alkano",
+  "alcatriene": "alkatriɛne",
+  "alcazar": "alkadːzar",
+  "alce": "altʃe",
+  "alcedinide": "altʃedinide",
+  "alcedinidi": "altʃedinidi",
+  "alcelafino": "altʃelafino",
+  "alche": "alke",
+  "alchechengi": "alkekɛndʒi",
+  "alchemico": "alkɛmiko",
+  "alchermes": "alkɛrmes",
+  "alchilare": "alkilare",
+  "alchile": "alkile",
+  "alchilsilano": "alkilsilano",
+  "alchimia": "alkimia",
+  "alchimia_2": "alkimja",
+  "alchimico": "alkimiko",
+  "alchimista": "alkimista",
+  "alchimiste": "alkimiste",
+  "alchimisti": "alkimisti",
+  "alchimistico": "alkimistiko",
+  "alchimizzare": "alkimidːzare",
+  "alci": "altʃi",
+  "alcide": "altʃide",
+  "alcidi": "altʃidi",
+  "alciforme": "altʃiforme",
+  "alciformi": "altʃiformi",
+  "alcione": "altʃone",
+  "alcol": "alkol",
+  "alcolato": "alkolato",
+  "alcole": "alkole",
+  "alcolemia": "alkolemia",
+  "alcolemie": "alkolemie",
+  "alcoli": "alkoli",
+  "alcolica": "alkɔlika",
+  "alcoliche": "alkɔlike",
+  "alcolici": "alkɔliko",
+  "alcolici_2": "alkɔlitʃi",
+  "alcolicità": "alkolitʃita",
+  "alcolico": "alkɔliko",
+  "alcolimetria": "alkolimetria",
+  "alcolismi": "alkolizmi",
+  "alcolismo": "alkolizmo",
+  "alcolista": "alkolista",
+  "alcoliste": "alkoliste",
+  "alcolisti": "alkolisti",
+  "alcolizzare": "alkolidːzare",
+  "alcolizzarsi": "alkolidːzarsi",
+  "alcolizzata": "alkolidːzata",
+  "alcolizzate": "alkolidːzate",
+  "alcolizzati": "alkolidːzati",
+  "alcolizzato": "alkolidːzato",
+  "alcolizzazione": "alkolidːzatsjone",
+  "alcolizzazione_2": "alkolidːzatːsjone",
+  "alcolizzazioni": "alkolidːzatsjoni",
+  "alcologia": "alkolodʒia",
+  "alcologie": "alkolodʒie",
+  "alcoltest": "alkoltɛst",
+  "alcool": "alkol",
+  "alcool_2": "alkool",
+  "alcoolemia": "alkoolemia",
+  "alcoolemie": "alkoolemie",
+  "alcoolica": "alkoɔlika",
+  "alcoolicamente": "alkoolikamente",
+  "alcooliche": "alkoɔlike",
+  "alcoolici": "alkoɔlitʃi",
+  "alcoolicità": "alkoolitʃita",
+  "alcoolico": "alkoɔliko",
+  "alcoolismi": "alkoolizmi",
+  "alcoolismo": "alkoolizmo",
+  "alcoolista": "alkoolista",
+  "alcooliste": "alkooliste",
+  "alcoolisti": "alkoolisti",
+  "alcoolizzare": "alkolidːzare",
+  "alcoolizzarsi": "alkolidːzarsi",
+  "alcova": "alkɔva",
+  "alcunché": "alkunke",
+  "alcuni": "alkuni",
+  "alcuno": "alkuno",
+  "aldeide": "aldɛide",
+  "aldeidi": "aldeidi",
+  "aldighiero": "aldiɡjɛro",
+  "aldilà": "aldila",
+  "aldoli": "aldɔli",
+  "aldolo": "aldɔlo",
+  "aldosteronismo": "aldosteronizmo",
+  "ale": "ale",
+  "alé": "ale",
+  "alea": "alea",
+  "aleatori": "aleatɔri",
+  "aleatoria": "aleatɔrja",
+  "aleatorie": "aleatɔrje",
+  "aleatorietà": "aleatɔrjeta",
+  "aleatorio": "aleatɔrjo",
+  "alectoride": "alektɔride",
+  "alectoridi": "alektɔridi",
+  "alef": "alef",
+  "aleggerà": "aledːʒera",
+  "aleggerai": "aledːʒerai",
+  "aleggeranno": "aledːʒeranːo",
+  "aleggerebbe": "aledːʒerebːe",
+  "aleggerebbero": "aledːʒerebːero",
+  "aleggerei": "aledːʒerei",
+  "aleggeremmo": "aledːʒeremːo",
+  "aleggeremo": "aledːʒeremo",
+  "aleggereste": "aledːʒereste",
+  "aleggeresti": "aledːʒeresti",
+  "aleggerete": "aledːʒerete",
+  "aleggerò": "aledːʒero",
+  "aleggi": "aledːʒi",
+  "aleggia": "aledːʒa",
+  "aleggiai": "aledːʒai",
+  "aleggiammo": "aledːʒamːo",
+  "aleggiamo": "aledːʒamo",
+  "aleggiando": "aledːʒando",
+  "aleggiano": "aledːʒano",
+  "aleggiante": "aledːʒante",
+  "aleggiare": "aledːʒare",
+  "aleggiarono": "aledːʒarono",
+  "aleggiasse": "aledːʒasːe",
+  "aleggiassero": "aledːʒasːero",
+  "aleggiassi": "aledːʒasːi",
+  "aleggiassimo": "aledːʒasːimo",
+  "aleggiaste": "aledːʒaste",
+  "aleggiasti": "aledːʒasti",
+  "aleggiata": "aledːʒata",
+  "aleggiate": "aledːʒate",
+  "aleggiati": "aledːʒati",
+  "aleggiato": "aledːʒato",
+  "aleggiava": "aledːʒava",
+  "aleggiavamo": "aledːʒavamo",
+  "aleggiavano": "aledːʒavano",
+  "aleggiavate": "aledːʒavate",
+  "aleggiavi": "aledːʒavi",
+  "aleggiavo": "aledːʒavo",
+  "aleggino": "aledːʒino",
+  "aleggio": "aledːʒo",
+  "aleggiò": "aledːʒo",
+  "alemanno": "alemanːo",
+  "aleppe": "alɛpːe",
+  "aleppina": "alepːina",
+  "aleppino": "alepːino",
+  "aleppo": "alepːo",
+  "alerone": "alerone",
+  "aleroni": "aleroni",
+  "alesaggio": "alezadːʒo",
+  "alesai": "alezaj",
+  "alesare": "alezare",
+  "alesatore": "alezatore",
+  "alesatori": "alezatori",
+  "alessandra": "alesːandra",
+  "alessandria": "alesːandrja",
+  "alessandrino": "alesːandrino",
+  "alessandro": "alesːandro",
+  "aletta": "aletːa",
+  "alettare": "aletːare",
+  "alette": "aletːe",
+  "alettone": "aletːɔne",
+  "alettoni": "aletːɔni",
+  "aleurite": "alewrite",
+  "alfa": "alfa",
+  "alfabet": "alfabɛt",
+  "alfabetari": "alfabetarjo",
+  "alfabetario": "alfabetarjo",
+  "alfabeti": "alfabɛti",
+  "alfabetica": "alfabɛtika",
+  "alfabeticamente": "alfabetikamente",
+  "alfabetiche": "alfabɛtike",
+  "alfabetici": "alfabɛtitʃi",
+  "alfabetico": "alfabɛtiko",
+  "alfabetiere": "alfabetjɛre",
+  "alfabetieri": "alfabetjɛri",
+  "alfabetismi": "alfabetizmi",
+  "alfabetismo": "alfabetizmo",
+  "alfabetizzante": "alfabetidːzante",
+  "alfabetizzanti": "alfabetidːzanti",
+  "alfabetizzare": "alfabetidːzare",
+  "alfabetizzata": "alfabetidːzata",
+  "alfabetizzate": "alfabetidːzate",
+  "alfabetizzati": "alfabetidːzati",
+  "alfabetizzato": "alfabetidːzato",
+  "alfabetizzazione": "alfabetidːzatsjone",
+  "alfabetizzazione_2": "alfabetidːzatːsjone",
+  "alfabetizzazioni": "alfabetidːzatsjoni",
+  "alfabeto": "alfabɛto",
+  "alfabeto_2": "alfabɛtɔ",
+  "alfamedialità": "alfamɛdjalita",
+  "alfe": "alfe",
+  "alfeide": "alfɛjde",
+  "alfiere": "alfjɛre",
+  "alfredo": "alfredo",
+  "alga": "alɡa",
+  "algarello": "alɡarɛlːo",
+  "algarrobo": "alɡarːɔbo",
+  "algebra": "aldʒebra",
+  "algebra_2": "aldʒɛbra",
+  "algebrica": "aldʒɛbrika",
+  "algebricamente": "aldʒebrikamente",
+  "algebriche": "aldʒɛbrike",
+  "algebrici": "aldʒɛbritʃi",
+  "algebrico": "aldʒɛbriko",
+  "algebrista": "aldʒebrista",
+  "algebriste": "aldʒebriste",
+  "algebristi": "aldʒebristi",
+  "algente": "aldʒɛnte",
+  "algere": "aldʒere",
+  "algeri": "aldʒeri",
+  "algeria": "aldʒeria",
+  "algerina": "aldʒerina",
+  "algerine": "aldʒerine",
+  "algerini": "aldʒerini",
+  "algerino": "aldʒerino",
+  "alghe": "alɡe",
+  "algherese": "alɡerese",
+  "algherese_2": "alɡereze",
+  "alghero": "alɡɛro",
+  "algia": "aldʒia",
+  "algida": "aldʒida",
+  "algide": "aldʒide",
+  "algidi": "aldʒidi",
+  "algido": "aldʒido",
+  "algina": "aldʒina",
+  "algine": "aldʒina",
+  "alginica": "aldʒinika",
+  "alginiche": "aldʒinike",
+  "alginici": "aldʒinitʃi",
+  "alginico": "aldʒiniko",
+  "algocoltura": "alɡokoltura",
+  "algocolture": "alɡokolture",
+  "algofilia": "alɡofilia",
+  "algofiliaco": "alɡofiliako",
+  "algofobia": "alɡofobia",
+  "algofobie": "alɡofobie",
+  "algologia": "alɡolodʒia",
+  "algologica": "alɡolɔdʒika",
+  "algologiche": "alɡolɔdʒike",
+  "algologici": "alɡolɔdʒitʃi",
+  "algologico": "alɡolɔdʒiko",
+  "algologo": "alɡɔloɡo",
+  "algore": "alɡore",
+  "algoritmica": "alɡoritmika",
+  "algoritmiche": "alɡoritmike",
+  "algoritmici": "alɡoritmitʃi",
+  "algoritmico": "alɡoritmiko",
+  "algoritmizzabile": "alɡoritmidːzabile",
+  "algoritmizzabili": "alɡoritmidːzabili",
+  "algoritmizzazione": "alɡoritmidːzatːsjone",
+  "algoritmizzazioni": "alɡoritmidːzatːsjoni",
+  "algoritmo": "alɡoritmo",
+  "algoso": "alɡoso",
+  "algoso_2": "alɡozo",
+  "ali": "ali",
+  "aliaeti": "aljaɛti",
+  "aliaeto": "aljaɛto",
+  "aliante": "aliante",
+  "aliante_2": "aljante",
+  "alianti": "alianti",
+  "alianti_2": "aljanti",
+  "aliare": "aljare",
+  "alibi": "alibi",
+  "alicamenti": "alikamenti",
+  "alicamento": "alikamento",
+  "alice": "alitʃe",
+  "alicorno": "alikɔrno",
+  "aliena": "aljɛna",
+  "alienabile": "aljenabile",
+  "alienando": "aljenando",
+  "alienante": "aljenante",
+  "alienanti": "aljenante",
+  "alienare": "aljenare",
+  "alienata": "aljenata",
+  "alienate": "aljenate",
+  "alienati": "aljenati",
+  "alienato": "aljenato",
+  "alienazione": "aljenatsjone",
+  "alienazione_2": "aljenatːsjone",
+  "alienazioni": "aljenatsjoni",
+  "aliene": "aljɛne",
+  "alieni": "aljɛni",
+  "alienista": "aljenista",
+  "alieniste": "aljeniste",
+  "alienisti": "aljenisti",
+  "alieno": "aljɛno",
+  "alif": "alif",
+  "alifatica": "alifatika",
+  "alifatiche": "alifatike",
+  "alifatici": "alifatitʃi",
+  "alifatico": "alifatiko",
+  "aligera": "alidʒera",
+  "aligere": "alidʒere",
+  "aligeri": "alidʒeri",
+  "aligero": "alidʒero",
+  "alighieri": "aliɡjɛri",
+  "alighiero": "aliɡjɛro",
+  "alimenta": "alimɛnta",
+  "alimentabile": "alimentabile",
+  "alimentabili": "alimentabili",
+  "alimentai": "alimɛntai",
+  "alimentare": "alimentare",
+  "alimentare_2": "alimɛntare",
+  "alimentari": "alimɛntari",
+  "alimentarista": "alimentarista"
 }

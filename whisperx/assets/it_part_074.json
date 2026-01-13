@@ -1,1542 +1,542 @@
 {
-  "eleggere": [
-    "elɛdːʒere"
-  ],
-  "eleggibile": [
-    "eledːʒibile",
-    "elɛdːʒibile"
-  ],
-  "eleggibili": [
-    "elɛdːʒibili"
-  ],
-  "elegia": [
-    "eledʒia"
-  ],
-  "elegiaco": [
-    "eledʒiako"
-  ],
-  "elegiambo": [
-    "eledʒambo"
-  ],
-  "elegismo": [
-    "eledʒizmo"
-  ],
-  "elementare": [
-    "elementare"
-  ],
-  "elementarismo": [
-    "elementarizmo"
-  ],
-  "elementi": [
-    "ɛlɛmɛnti"
-  ],
-  "elementismo": [
-    "elementizmo"
-  ],
-  "elemento": [
-    "elemento",
-    "ɛlɛmɛntɔ"
-  ],
-  "elemosina": [
-    "elemozina",
-    "elemɔzina"
-  ],
-  "elemosine": [
-    "elemozine"
-  ],
-  "elemosiniere": [
-    "elemozinjɛre"
-  ],
-  "elena": [
-    "ɛlena"
-  ],
-  "elencare": [
-    "elenkare"
-  ],
-  "elencato": [
-    "elenkato"
-  ],
-  "elenchi": [
-    "ɛlɛnki"
-  ],
-  "elenco": [
-    "elɛɲko",
-    "ɛlɛnko"
-  ],
-  "elenctico": [
-    "elɛnktiko"
-  ],
-  "eletta": [
-    "elɛtːa"
-  ],
-  "elette": [
-    "elɛtːe"
-  ],
-  "eletti": [
-    "elɛtːi"
-  ],
-  "elettivo": [
-    "eletːivo"
-  ],
-  "eletto": [
-    "elɛtːo"
-  ],
-  "elettorale": [
-    "eletːorale"
-  ],
-  "elettorali": [
-    "eletːorali"
-  ],
-  "elettoralismo": [
-    "eletːoralizmo"
-  ],
-  "elettoralistica": [
-    "eletːoralistika"
-  ],
-  "elettoralistico": [
-    "eletːoralistiko"
-  ],
-  "elettorati": [
-    "eletːorati"
-  ],
-  "elettorato": [
-    "eletːorato"
-  ],
-  "elettore": [
-    "eletːore"
-  ],
-  "elettori": [
-    "eletːori"
-  ],
-  "elettrauto": [
-    "eletːrauto"
-  ],
-  "elettrica": [
-    "elɛtːrika"
-  ],
-  "elettricamente": [
-    "eletːritʃikamente"
-  ],
-  "elettrice": [
-    "eletːritʃe"
-  ],
-  "elettriche": [
-    "elɛtːrike"
-  ],
-  "elettrici": [
-    "eletːritʃi",
-    "elɛtːritʃi"
-  ],
-  "elettricista": [
-    "eletːritʃista"
-  ],
-  "elettriciste": [
-    "eletːritʃiste"
-  ],
-  "elettricisti": [
-    "eletːritʃisti"
-  ],
-  "elettricità": [
-    "eletːritʃita"
-  ],
-  "elettrico": [
-    "elɛtːriko"
-  ],
-  "elettrificante": [
-    "eletːrifikante"
-  ],
-  "elettrificare": [
-    "eletːrifikare"
-  ],
-  "elettrificato": [
-    "eletːrifikato"
-  ],
-  "elettrificazione": [
-    "eletːrifikatsjone"
-  ],
-  "elettrificazioni": [
-    "eletːrifikatsjoni"
-  ],
-  "elettrizzante": [
-    "eletːridːzante"
-  ],
-  "elettrizzare": [
-    "eletːridːzare"
-  ],
-  "elettrizzarsi": [
-    "eletːridːzarsi"
-  ],
-  "elettrizzato": [
-    "eletːridːzato"
-  ],
-  "elettrizzazione": [
-    "eletːridːzatsjone"
-  ],
-  "elettrizzazioni": [
-    "eletːridːzatsjoni"
-  ],
-  "elettroaffinità": [
-    "elɛtːroafːinita"
-  ],
-  "elettrobisturi": [
-    "elɛtːrobisturi"
-  ],
-  "elettrocalamita": [
-    "eletːrokalamita",
-    "elɛtːrokalamita"
-  ],
-  "elettrocalamite": [
-    "eletːrokalamite"
-  ],
-  "elettrocardiogramma": [
-    "eletːrokardjoɡramːa"
-  ],
-  "elettrochimica": [
-    "eletːrokimika",
-    "elːetrokimika"
-  ],
-  "elettrochimicamente": [
-    "elːetrokimikamente"
-  ],
-  "elettrochimiche": [
-    "elːetrokimike"
-  ],
-  "elettrochimici": [
-    "elːetrokimitʃi"
-  ],
-  "elettrochimico": [
-    "elːetrokimiko"
-  ],
-  "elettrochoc": [
-    "eletːroʃɔk"
-  ],
-  "elettrocinematica": [
-    "elɛtːrotʃinematika"
-  ],
-  "elettrocinetico": [
-    "eletːrotʃinɛtiko"
-  ],
-  "elettrodebole": [
-    "elɛtːrodebole"
-  ],
-  "elettrodi": [
-    "elɛtːrodi"
-  ],
-  "elettrodico": [
-    "eletːrɔdiko"
-  ],
-  "elettrodinamica": [
-    "eletːrodinamika"
-  ],
-  "elettrodinamici": [
-    "eletːrodinamitʃi"
-  ],
-  "elettrodinamico": [
-    "eletːrodinamiko"
-  ],
-  "elettrodo": [
-    "elɛtːrodo"
-  ],
-  "elettrodomestico": [
-    "eletːrodomɛstiko"
-  ],
-  "elettrodotto": [
-    "eletːrodotːo"
-  ],
-  "elettroencefalografo": [
-    "elɛtːroentʃefalɔɡrafo"
-  ],
-  "elettroencefalogramma": [
-    "elɛtːroentʃefaloɡramːa"
-  ],
-  "elettrofiltro": [
-    "elɛtːrofiltro"
-  ],
-  "elettrofisiologia": [
-    "elɛtːrofizjolodʒia"
-  ],
-  "elettrofisiologica": [
-    "eletːrofizjolɔdʒika"
-  ],
-  "elettrofisiologiche": [
-    "eletːrofizjolɔdʒike"
-  ],
-  "elettrofisiologici": [
-    "eletːrofizjolɔdʒitʃi"
-  ],
-  "elettrofisiologico": [
-    "eletːrofizjolɔdʒiko"
-  ],
-  "elettrofori": [
-    "eletːrɔfori"
-  ],
-  "elettroforo": [
-    "eletːrɔforo"
-  ],
-  "elettrogeno": [
-    "eletːrɔdʒeno"
-  ],
-  "elettroidraulico": [
-    "elɛtːroidrawliko"
-  ],
-  "elettroipersensibilità": [
-    "eletːroipersensibilita"
-  ],
-  "elettrolisi": [
-    "eletːrɔlizi"
-  ],
-  "elettrolita": [
-    "eletːrɔlita"
-  ],
-  "elettroliti": [
-    "eletːrɔliti"
-  ],
-  "elettrolitico": [
-    "eletːrolitiko"
-  ],
-  "elettrologia": [
-    "eletːrolodʒia"
-  ],
-  "elettroluminescente": [
-    "eletːrolumeneʃʃɛnte"
-  ],
-  "elettroluminescenti": [
-    "eletːrolumeneʃʃɛnti"
-  ],
-  "elettroluminescenza": [
-    "eletːrolumineʃʃɛntsa"
-  ],
-  "elettroluminescenze": [
-    "eletːrolumineʃʃɛntse"
-  ],
-  "elettromagnete": [
-    "eletːromaɲɲɛte",
-    "elɛtːromaɲɲɛte"
-  ],
-  "elettromagnetica": [
-    "eletːromaɲɲɛtika"
-  ],
-  "elettromagnetiche": [
-    "eletːromaɲɲɛtike"
-  ],
-  "elettromagnetici": [
-    "eletːromaɲɲɛtitʃi"
-  ],
-  "elettromagnetico": [
-    "eletːromaɲɲɛtiko",
-    "elɛtːromaɲɲɛtiko"
-  ],
-  "elettromagnetismo": [
-    "eletːromaɲɲetizmo",
-    "elɛtːromaɲɲetizmo"
-  ],
-  "elettromeccanica": [
-    "eletːromekːanika"
-  ],
-  "elettromeccanico": [
-    "eletːromekːaniko"
-  ],
-  "elettrometallurgia": [
-    "elɛtːrometalːurdʒia"
-  ],
-  "elettrometallurgica": [
-    "eletːrometalːurdʒika"
-  ],
-  "elettrometallurgiche": [
-    "eletːrometalːurdʒike"
-  ],
-  "elettrometallurgici": [
-    "eletːrometalːurdʒitʃi"
-  ],
-  "elettrometria": [
-    "eletːrometria"
-  ],
-  "elettrometro": [
-    "eletːrɔmetro"
-  ],
-  "elettromotore": [
-    "elɛtːromotore"
-  ],
-  "elettromotori": [
-    "elɛtːromotori"
-  ],
-  "elettromotrice": [
-    "elɛtːromotritʃe"
-  ],
-  "elettromotrici": [
-    "elɛtːromotritʃi"
-  ],
-  "elettronastia": [
-    "elɛtːronastia"
-  ],
-  "elettronastico": [
-    "elɛtːronastiko"
-  ],
-  "elettrone": [
-    "eletːrone"
-  ],
-  "elettronegativa": [
-    "eletːroneɡativa"
-  ],
-  "elettronegative": [
-    "eletːroneɡative"
-  ],
-  "elettronegativi": [
-    "eletːroneɡativi"
-  ],
-  "elettronegatività": [
-    "eletːroneɡativita"
-  ],
-  "elettronegativo": [
-    "eletːroneɡativo"
-  ],
-  "elettroni": [
-    "eletːroni"
-  ],
-  "elettronica": [
-    "eletːrɔnika"
-  ],
-  "elettronicamente": [
-    "eletːronikamente"
-  ],
-  "elettroniche": [
-    "eletːrɔnike"
-  ],
-  "elettronici": [
-    "eletːrɔnitʃi"
-  ],
-  "elettronico": [
-    "eletːrɔniko"
-  ],
-  "elettronificazione": [
-    "eletːronifikatːsjone"
-  ],
-  "elettronucleare": [
-    "elɛtːronukleare"
-  ],
-  "elettropolimerizzazione": [
-    "elɛtːropolimeridːzatːsjone"
-  ],
-  "elettrorefrattario": [
-    "elɛtːrorefratːarjo"
-  ],
-  "elettroreologica": [
-    "elɛtːroreolɔdʒika"
-  ],
-  "elettroreologiche": [
-    "elɛtːroreolɔdʒike"
-  ],
-  "elettroreologici": [
-    "elɛtːroreolɔdʒitʃi"
-  ],
-  "elettroreologico": [
-    "elɛtːroreolɔdʒiko"
-  ],
-  "elettroscopi": [
-    "eletːroskɔpi"
-  ],
-  "elettroscopio": [
-    "eletːroskɔpjo"
-  ],
-  "elettrosensibile": [
-    "eletːrosensibile"
-  ],
-  "elettrosensibili": [
-    "eletːrosensibili"
-  ],
-  "elettrosensibilità": [
-    "eletːrosensibilita"
-  ],
-  "elettroshock": [
-    "eletːroʃʃɔk"
-  ],
-  "elettrosiderurgia": [
-    "elɛtːrosiderurdʒia"
-  ],
-  "elettrotecnica": [
-    "eletːrotɛknika",
-    "elɛtːrotɛknika"
-  ],
-  "elettrotecniche": [
-    "eletːrotɛknika",
-    "eletːrotɛknike",
-    "elɛtːrotɛknike"
-  ],
-  "elettrotecnici": [
-    "eletːrotɛknitʃi",
-    "elɛtːrotɛknitʃi"
-  ],
-  "elettrotecnico": [
-    "eletːrotɛkniko",
-    "elɛtːrotɛkniko"
-  ],
-  "elettroterapia": [
-    "eletːroterapia"
-  ],
-  "elettrotermia": [
-    "eletːrotermia"
-  ],
-  "elettrotermico": [
-    "eletːrotɛrmiko"
-  ],
-  "elettrotreno": [
-    "eletːrotrɛno"
-  ],
-  "elettrounito": [
-    "elɛtːrounito"
-  ],
-  "elettuario": [
-    "eletːuarjo"
-  ],
-  "eleusino": [
-    "elewzino"
-  ],
-  "eleuterie": [
-    "eleutɛrje"
-  ],
-  "elevamenti": [
-    "elevamenti"
-  ],
-  "elevamento": [
-    "elevamento"
-  ],
-  "elevante": [
-    "elevante"
-  ],
-  "elevare": [
-    "elevare"
-  ],
-  "elevarsi": [
-    "elevarsi"
-  ],
-  "elevato": [
-    "elevato"
-  ],
-  "elevatore": [
-    "elevatore"
-  ],
-  "elevatori": [
-    "elevatori"
-  ],
-  "elevatrice": [
-    "elevatritʃe"
-  ],
-  "elevatrici": [
-    "elevatritʃi"
-  ],
-  "elevazione": [
-    "elevatsjone",
-    "elevatːsjone"
-  ],
-  "elevazioni": [
-    "elevatsjoni"
-  ],
-  "elevo": [
-    "elevo"
-  ],
-  "elevone": [
-    "elevone"
-  ],
-  "elevoni": [
-    "elevone"
-  ],
-  "elezione": [
-    "eletsjone",
-    "eletːsjone"
-  ],
-  "elezioni": [
-    "eletsjoni"
-  ],
-  "elfi": [
-    "ɛlfi"
-  ],
-  "elfica": [
-    "ɛlfika"
-  ],
-  "elfiche": [
-    "ɛlfike"
-  ],
-  "elfici": [
-    "ɛlfitʃi"
-  ],
-  "elfico": [
-    "ɛlfiko"
-  ],
-  "elfo": [
-    "ɛlfo"
-  ],
-  "elica": [
-    "ɛlika"
-  ],
-  "elice": [
-    "ɛlike"
-  ],
-  "eliche": [
-    "ɛlike"
-  ],
-  "elicicoltura": [
-    "elitʃikoltura",
-    "ɛlitʃikoltura"
-  ],
-  "elicicolture": [
-    "elitʃikolture"
-  ],
-  "elicoidale": [
-    "elikojdale"
-  ],
-  "elicoide": [
-    "elikɔjde"
-  ],
-  "elicotteri": [
-    "elikɔtːeri"
-  ],
-  "elicotterista": [
-    "elikotːerista"
-  ],
-  "elicotteriste": [
-    "elikotːeriste"
-  ],
-  "elicotteristi": [
-    "elikotːeristi"
-  ],
-  "elicotteristico": [
-    "elikotːeristiko"
-  ],
-  "elicottero": [
-    "elikɔtːero"
-  ],
-  "elidere": [
-    "elidere"
-  ],
-  "eliea": [
-    "eljɛa"
-  ],
-  "eligio": [
-    "elidʒo"
-  ],
-  "eligru": [
-    "eliɡru"
-  ],
-  "eliminabile": [
-    "eliminabile"
-  ],
-  "eliminabili": [
-    "eliminabili"
-  ],
-  "eliminando": [
-    "eliminando"
-  ],
-  "eliminante": [
-    "eliminante"
-  ],
-  "eliminare": [
-    "eliminare"
-  ],
-  "eliminato": [
-    "eliminato"
-  ],
-  "eliminatoria": [
-    "eliminatɔrja"
-  ],
-  "eliminazione": [
-    "eliminatsjone",
-    "eliminatːsjone"
-  ],
-  "elimino": [
-    "elimino"
-  ],
-  "elio": [
-    "ɛlio",
-    "ɛljo"
-  ],
-  "eliocentrico": [
-    "eljotʃɛntriko"
-  ],
-  "eliocentrismo": [
-    "eljotʃentrizmo"
-  ],
-  "elioelettrico": [
-    "ɛljoelɛtːriko"
-  ],
-  "elioenergia": [
-    "ɛljoenerdʒia"
-  ],
-  "eliofila": [
-    "eljɔfila"
-  ],
-  "eliofile": [
-    "eljɔfile"
-  ],
-  "eliofili": [
-    "eljɔfili"
-  ],
-  "eliofilia": [
-    "eljofilia"
-  ],
-  "eliofilo": [
-    "eljɔfilo"
-  ],
-  "eliografia": [
-    "eljoɡrafia"
-  ],
-  "eliografo": [
-    "eljɔɡrafo"
-  ],
-  "elioguaina": [
-    "eljoɡwaina"
-  ],
-  "elioguaine": [
-    "eljoɡwaine"
-  ],
-  "eliometri": [
-    "eljɔmetri"
-  ],
-  "eliometro": [
-    "eljɔmetro"
-  ],
-  "elione": [
-    "eljone"
-  ],
-  "eliopausa": [
-    "eljopawza"
-  ],
-  "eliopause": [
-    "eljopawze"
-  ],
-  "eliornitide": [
-    "eljornitide"
-  ],
-  "eliornitidi": [
-    "eljornitidi"
-  ],
-  "elioscopi": [
-    "eljoskɔpi"
-  ],
-  "elioscopica": [
-    "eljoskɔpika"
-  ],
-  "elioscopiche": [
-    "eljoskɔpike"
-  ],
-  "elioscopici": [
-    "eljoskɔpitʃi"
-  ],
-  "elioscopico": [
-    "eljoskɔpiko"
-  ],
-  "elioscopio": [
-    "eljoskɔpjo"
-  ],
-  "eliosfera": [
-    "eljosfɛra"
-  ],
-  "eliosfere": [
-    "eljosfɛre"
-  ],
-  "eliosismologia": [
-    "eljosizmolodʒia"
-  ],
-  "eliosismologica": [
-    "eljosizmolɔdʒika"
-  ],
-  "eliosismologiche": [
-    "eljosizmolɔdʒike"
-  ],
-  "eliosismologici": [
-    "eljosizmolɔdʒitʃi"
-  ],
-  "eliosismologico": [
-    "eljosizmolɔdʒiko"
-  ],
-  "eliosismologie": [
-    "eljosizmolodʒie"
-  ],
-  "eliotropismi": [
-    "eljotropizmi"
-  ],
-  "eliotropismo": [
-    "eljotropizmo"
-  ],
-  "eliparchi": [
-    "eliparki"
-  ],
-  "eliparco": [
-    "eliparko"
-  ],
-  "eliplani": [
-    "eliplani"
-  ],
-  "eliplano": [
-    "eliplano"
-  ],
-  "eliporto": [
-    "ɛlipɔrto"
-  ],
-  "eliportuale": [
-    "eliportuale"
-  ],
-  "elisa": [
-    "eliza"
-  ],
-  "elisabetta": [
-    "elizabetːa",
-    "elizabɛtːa"
-  ],
-  "elisalvataggi": [
-    "elisalvatadːʒi"
-  ],
-  "elisalvataggio": [
-    "elisalvatadːʒo"
-  ],
-  "elisir": [
-    "elizir"
-  ],
-  "eliso": [
-    "elizo"
-  ],
-  "elisuperficie": [
-    "ɛlisuperfitʃe"
-  ],
-  "elitario": [
-    "elitarjo"
-  ],
-  "elite": [
-    "elit"
-  ],
-  "elitista": [
-    "elitista"
-  ],
-  "elitiste": [
-    "elitiste"
-  ],
-  "elitisti": [
-    "elitisti"
-  ],
-  "ella": [
-    "elːa",
-    "ɛlːa"
-  ],
-  "elle": [
-    "elːe",
-    "ɛlːe"
-  ],
-  "elleboro": [
-    "elːɛboro"
-  ],
-  "ellenico": [
-    "elːɛniko"
-  ],
-  "ellenismo": [
-    "elːenizmo"
-  ],
-  "ellenista": [
-    "elːenista"
-  ],
-  "elleniste": [
-    "elːeniste"
-  ],
-  "ellenisti": [
-    "elːenisti"
-  ],
-  "ellenistico": [
-    "elːenistiko"
-  ],
-  "ellenizzare": [
-    "elːenidːzare"
-  ],
-  "elleno": [
-    "elːeno",
-    "elːɛno"
-  ],
-  "elli": [
-    "elːi"
-  ],
-  "ellino": [
-    "elːino"
-  ],
-  "ellisse": [
-    "elːisːe"
-  ],
-  "ellissi": [
-    "elːisːi"
-  ],
-  "ellissometri": [
-    "elːisːɔmetri"
-  ],
-  "ellissometro": [
-    "elːisːɔmetro"
-  ],
-  "ellittico": [
-    "elːitːiko"
-  ],
-  "ello": [
-    "elːo"
-  ],
-  "elmintagogo": [
-    "elmintaɡɔɡo"
-  ],
-  "elmo": [
-    "elmo"
-  ],
-  "eloderma": [
-    "elodɛrma"
-  ],
-  "elodermatide": [
-    "elodermatide"
-  ],
-  "elogi": [
-    "elɔdʒi"
-  ],
-  "elogiare": [
-    "lodʒare"
-  ],
-  "elogiato": [
-    "elodʒato"
-  ],
-  "elogiatore": [
-    "elodʒatore"
-  ],
-  "elogio": [
-    "elɔdʒo"
-  ],
-  "eloquente": [
-    "elokwente",
-    "elokwɛnte"
-  ],
-  "eloquentemente": [
-    "elokwentemente"
-  ],
-  "eloquenti": [
-    "elokwenti"
-  ],
-  "eloquenza": [
-    "elokwɛntsa"
-  ],
-  "eloquenze": [
-    "elokwɛntse"
-  ],
-  "eloquio": [
-    "elɔkwjo"
-  ],
-  "elsa": [
-    "elsa",
-    "ɛlsa"
-  ],
-  "elsinore": [
-    "ɛlsinor",
-    "ɛlsinɔr"
-  ],
-  "elucubrare": [
-    "elukubrare"
-  ],
-  "elucubrazione": [
-    "elukubratsjone",
-    "elukubratːsjone"
-  ],
-  "elude": [
-    "elude"
-  ],
-  "eludendo": [
-    "eludendo"
-  ],
-  "eludente": [
-    "eludente"
-  ],
-  "eludenti": [
-    "eludenti"
-  ],
-  "eludere": [
-    "eludere"
-  ],
-  "eludi": [
-    "eludi"
-  ],
-  "eluditrice": [
-    "eluditritʃe"
-  ],
-  "eludo": [
-    "eludo"
-  ],
-  "eluire": [
-    "eluire",
-    "elwire"
-  ],
-  "elusa": [
-    "elusa"
-  ],
-  "eluse": [
-    "eluse"
-  ],
-  "elusero": [
-    "elusi"
-  ],
-  "elusi": [
-    "elusi"
-  ],
-  "elusivo": [
-    "eluzivo"
-  ],
-  "eluso": [
-    "eluzo"
-  ],
-  "elusore": [
-    "eluzore"
-  ],
-  "elvetica": [
-    "elvɛtika"
-  ],
-  "elvetiche": [
-    "elvɛtike"
-  ],
-  "elvetici": [
-    "elvɛtitʃi"
-  ],
-  "elvetico": [
-    "elvɛtiko"
-  ],
-  "elvezia": [
-    "elvɛtːja"
-  ],
-  "elzeviro": [
-    "eldzeviro"
-  ],
-  "emaciato": [
-    "ematʃato"
-  ],
-  "emagogo": [
-    "emaɡɔɡo"
-  ],
-  "emanare": [
-    "emanare"
-  ],
-  "emanatistico": [
-    "emanatistiko"
-  ],
-  "emanazione": [
-    "emanatːsjone"
-  ],
-  "emanazioni": [
-    "emanatːsjoni"
-  ],
-  "emancipare": [
-    "emantʃipare"
-  ],
-  "emancipata": [
-    "emantʃipata"
-  ],
-  "emancipate": [
-    "emantʃipate"
-  ],
-  "emancipati": [
-    "emantʃipati"
-  ],
-  "emancipato": [
-    "emantʃipato",
-    "matʃipato"
-  ],
-  "emancipazione": [
-    "emantʃipatsjone",
-    "emantʃipatːsjone"
-  ],
-  "emancipazioni": [
-    "emantʃipatsjoni"
-  ],
-  "emanuela": [
-    "emanuɛla"
-  ],
-  "emanuele": [
-    "emanuɛle"
-  ],
-  "emarginare": [
-    "emardʒinare"
-  ],
-  "emarginato": [
-    "emardʒinato"
-  ],
-  "emarginazione": [
-    "emardʒinatːsjone"
-  ],
-  "ematico": [
-    "ematiko"
-  ],
-  "ematite": [
-    "ematite"
-  ],
-  "ematiti": [
-    "ematiti"
-  ],
-  "ematochimica": [
-    "ematokimika"
-  ],
-  "ematochimiche": [
-    "ematokimike"
-  ],
-  "ematochimici": [
-    "ematokimitʃi"
-  ],
-  "ematochimico": [
-    "ematokimiko"
-  ],
-  "ematofaga": [
-    "ematɔfaɡa"
-  ],
-  "ematofaghe": [
-    "ematɔfaɡe"
-  ],
-  "ematofagi": [
-    "ematɔfadʒi"
-  ],
-  "ematofago": [
-    "ematɔfaɡo"
-  ],
-  "ematoide": [
-    "ematɔjde"
-  ],
-  "ematologa": [
-    "ematoloɡa"
-  ],
-  "ematologe": [
-    "ematoloɡe"
-  ],
-  "ematologhe": [
-    "ematoloɡe"
-  ],
-  "ematologi": [
-    "ematoloɡi"
-  ],
-  "ematologia": [
-    "ematolodʒia"
-  ],
-  "ematologica": [
-    "ematolɔdʒika"
-  ],
-  "ematologiche": [
-    "ematolɔdʒike"
-  ],
-  "ematologici": [
-    "ematolɔdʒitʃi"
-  ],
-  "ematologico": [
-    "ematolɔdʒiko"
-  ],
-  "ematologo": [
-    "ematoloɡo",
-    "ematɔloɡo"
-  ],
-  "ematoma": [
-    "ematɔma"
-  ],
-  "ematoscopi": [
-    "ematoskɔpi"
-  ],
-  "ematoscopia": [
-    "ematoskɔpja"
-  ],
-  "ematoscopie": [
-    "ematoskɔpje"
-  ],
-  "ematoscopio": [
-    "ematoskɔpjo"
-  ],
-  "ematuria": [
-    "ematurja"
-  ],
-  "emazia": [
-    "ematsja",
-    "ematːsja"
-  ],
-  "emazie": [
-    "ematsje"
-  ],
-  "embarghi": [
-    "embarɡi"
-  ],
-  "embargo": [
-    "embarɡo"
-  ],
-  "embè": [
-    "embɛ"
-  ],
-  "emberiza": [
-    "emberidːza"
-  ],
-  "emberizide": [
-    "emberidːzide"
-  ],
-  "embiotteri": [
-    "embiɔtːeri",
-    "enbjotːeri"
-  ],
-  "embiottero": [
-    "embjɔtːero",
-    "enbjotːero"
-  ],
-  "emblema": [
-    "emblɛma"
-  ],
-  "emblematica": [
-    "emblɛmatika"
-  ],
-  "emblematicamente": [
-    "emblɛmatikamente"
-  ],
-  "emblematiche": [
-    "emblɛmatike"
-  ],
-  "emblematici": [
-    "emblɛmatitʃi"
-  ],
-  "emblematico": [
-    "emblematiko",
-    "emblɛmatiko"
-  ],
-  "emblemi": [
-    "emblɛmi"
-  ],
-  "embolia": [
-    "embolia"
-  ],
-  "embolie": [
-    "embolie"
-  ],
-  "embricante": [
-    "ɛmbrikante"
-  ],
-  "embricare": [
-    "ɛmbrikare"
-  ],
-  "embricarsi": [
-    "ɛmbrikarsi"
-  ],
-  "embricato": [
-    "ɛmbrikato"
-  ],
-  "embrice": [
-    "ɛmbritʃe"
-  ],
-  "embrici": [
-    "ɛmbritʃi"
-  ],
-  "embriogenesi": [
-    "embrjodʒɛnezi"
-  ],
-  "embriologia": [
-    "embrjolodʒia"
-  ],
-  "embriologica": [
-    "embrjolɔdʒika"
-  ],
-  "embriologiche": [
-    "embrjolɔdʒike"
-  ],
-  "embriologici": [
-    "embrjolɔdʒitʃi"
-  ],
-  "embriologico": [
-    "embrjolɔdʒiko"
-  ],
-  "embrionale": [
-    "embrjonale"
-  ],
-  "embrionali": [
-    "embrjonale",
-    "embrjonali"
-  ],
-  "embrione": [
-    "embrione"
-  ],
-  "embrioni": [
-    "embrioni"
-  ],
-  "embrioscopi": [
-    "embrioskɔpi"
-  ],
-  "embrioscopia": [
-    "embrioskɔpja"
-  ],
-  "embrioscopie": [
-    "embrioskɔpje"
-  ],
-  "embrioscopio": [
-    "embrioskɔpjo"
-  ],
-  "eme": [
-    "ɛme"
-  ],
-  "emendabile": [
-    "emendabile"
-  ],
-  "emendamenti": [
-    "emendamenti"
-  ],
-  "emendamento": [
-    "emendamento"
-  ],
-  "emendare": [
-    "emendare"
-  ],
-  "emendato": [
-    "emendato"
-  ],
-  "emendatore": [
-    "emendatore"
-  ],
-  "emergente": [
-    "emerdʒɛnte",
-    "emɛrdʒente"
-  ],
-  "emergenti": [
-    "emɛrdʒenti"
-  ],
-  "emergenza": [
-    "emerdʒɛntsa"
-  ],
-  "emergere": [
-    "emɛrdʒere"
-  ],
-  "emerito": [
-    "emɛrito"
-  ],
-  "emerodromo": [
-    "emerɔdromo"
-  ],
-  "emeroteca": [
-    "emerotɛka"
-  ],
-  "emeroteche": [
-    "emerotɛke"
-  ],
-  "emersione": [
-    "emersjone"
-  ],
-  "emerso": [
-    "emɛrso"
-  ],
-  "emeseno": [
-    "emezɛno"
-  ],
-  "emesi": [
-    "ɛmezi"
-  ],
-  "emetico": [
-    "emɛtiko"
-  ],
-  "emetizzante": [
-    "emetidːzante"
-  ],
-  "emetofobia": [
-    "emetofobia"
-  ],
-  "emetofobica": [
-    "emetofɔbika"
-  ],
-  "emetofobiche": [
-    "emetofɔbike"
-  ],
-  "emetofobici": [
-    "emetofɔbitʃi"
-  ],
-  "emetofobico": [
-    "emetofɔbiko"
-  ],
-  "emetofobie": [
-    "emetofobie"
-  ],
-  "emettere": [
-    "emetːere"
-  ],
-  "emettitore": [
-    "emetːitore"
-  ],
-  "emicellulosa": [
-    "emitʃelːuloza"
-  ],
-  "emiciclico": [
-    "emitʃikliko"
-  ],
-  "emiciclo": [
-    "emitʃiklo"
-  ],
-  "emicrania": [
-    "emikrania",
-    "emikranja"
-  ],
-  "emicranie": [
-    "emikranie"
-  ],
-  "emiedria": [
-    "emiedria"
-  ],
-  "emigrando": [
-    "emiɡrando"
-  ],
-  "emigrante": [
-    "emiɡrante"
-  ],
-  "emigranti": [
-    "emiɡranti"
-  ],
-  "emigrare": [
-    "emiɡrare"
-  ],
-  "emigrata": [
-    "emiɡrata"
-  ],
-  "emigrate": [
-    "emiɡrate"
-  ],
-  "emigrati": [
-    "emiɡrati"
-  ],
-  "emigrato": [
-    "emiɡrato"
-  ],
-  "emigratori": [
-    "emiɡratori"
-  ],
-  "emigratoria": [
-    "emiɡratoria"
-  ],
-  "emigratorie": [
-    "emiɡratorie"
-  ],
-  "emigratorio": [
-    "emiɡratorjo"
-  ],
-  "emigrazione": [
-    "emiɡratsjone"
-  ],
-  "emigrazioni": [
-    "emiɡratsjoni"
-  ],
-  "emilia": [
-    "emilja"
-  ],
-  "emiliano": [
-    "emiljano"
-  ],
-  "eminente": [
-    "eminente",
-    "eminɛnte"
-  ],
-  "eminenza": [
-    "eminɛntsa"
-  ],
-  "emione": [
-    "emione"
-  ],
-  "emiono": [
-    "emiono"
-  ],
-  "emiparesi": [
-    "emiparɛzi"
-  ],
-  "emiplegia": [
-    "emipledʒia"
-  ],
-  "emiplegica": [
-    "emiplɛdʒika"
-  ],
-  "emiplegiche": [
-    "emiplɛdʒike"
-  ],
-  "emiplegici": [
-    "emiplɛdʒitʃi"
-  ],
-  "emiplegico": [
-    "emiplɛdʒiko"
-  ],
-  "emiplegie": [
-    "emipledʒie"
-  ],
-  "emiprocnide": [
-    "emiprɔknide"
-  ],
-  "emiprocnidi": [
-    "emiprɔknidi"
-  ],
-  "emiratina": [
-    "emiratina"
-  ],
-  "emiratine": [
-    "emiratine"
-  ],
-  "emiratini": [
-    "emiratini"
-  ],
-  "emiratino": [
-    "emiratino"
-  ],
-  "emirato": [
-    "emirato"
-  ],
-  "emiro": [
-    "emiro"
-  ],
-  "emisferio": [
-    "emisfɛrjo"
-  ],
-  "emisfero": [
-    "emisfɛro"
-  ],
-  "emisimmetrico": [
-    "emisimːɛtriko"
-  ],
-  "emisperio": [
-    "emispɛrjo"
-  ],
-  "emispero": [
-    "emispɛro"
-  ],
-  "emispondilia": [
-    "emispondilia"
-  ],
-  "emissari": [
-    "emisːari"
-  ],
-  "emissario": [
-    "emisːarjo"
-  ],
-  "emissione": [
-    "emisːjone"
-  ],
-  "emissioni": [
-    "emisːjoni"
-  ],
-  "emittanza": [
-    "emitːantsa"
-  ],
-  "emittanze": [
-    "emitːantse"
-  ],
-  "emittente": [
-    "emitːɛnte"
-  ],
-  "emitteri": [
-    "emitːeri"
-  ],
-  "emittero": [
-    "emitːero"
-  ],
-  "emitteroidei": [
-    "emitːerojdɛi"
-  ],
-  "emitteroideo": [
-    "emitːerojdɛo"
-  ],
-  "emivita": [
-    "emivita"
-  ],
-  "emizigote": [
-    "emidːziɡɔte"
-  ],
-  "emme": [
-    "ɛmːe"
-  ],
-  "emmenagogo": [
-    "emːenaɡɔɡo"
-  ],
-  "emmenthal": [
-    "ɛmːental"
-  ]
+  "eleggere": "elɛdːʒere",
+  "eleggibile": "eledːʒibile",
+  "eleggibile_2": "elɛdːʒibile",
+  "eleggibili": "elɛdːʒibili",
+  "elegia": "eledʒia",
+  "elegiaco": "eledʒiako",
+  "elegiambo": "eledʒambo",
+  "elegismo": "eledʒizmo",
+  "elementare": "elementare",
+  "elementarismo": "elementarizmo",
+  "elementi": "ɛlɛmɛnti",
+  "elementismo": "elementizmo",
+  "elemento": "elemento",
+  "elemento_2": "ɛlɛmɛntɔ",
+  "elemosina": "elemozina",
+  "elemosina_2": "elemɔzina",
+  "elemosine": "elemozine",
+  "elemosiniere": "elemozinjɛre",
+  "elena": "ɛlena",
+  "elencare": "elenkare",
+  "elencato": "elenkato",
+  "elenchi": "ɛlɛnki",
+  "elenco": "elɛɲko",
+  "elenco_2": "ɛlɛnko",
+  "elenctico": "elɛnktiko",
+  "eletta": "elɛtːa",
+  "elette": "elɛtːe",
+  "eletti": "elɛtːi",
+  "elettivo": "eletːivo",
+  "eletto": "elɛtːo",
+  "elettorale": "eletːorale",
+  "elettorali": "eletːorali",
+  "elettoralismo": "eletːoralizmo",
+  "elettoralistica": "eletːoralistika",
+  "elettoralistico": "eletːoralistiko",
+  "elettorati": "eletːorati",
+  "elettorato": "eletːorato",
+  "elettore": "eletːore",
+  "elettori": "eletːori",
+  "elettrauto": "eletːrauto",
+  "elettrica": "elɛtːrika",
+  "elettricamente": "eletːritʃikamente",
+  "elettrice": "eletːritʃe",
+  "elettriche": "elɛtːrike",
+  "elettrici": "eletːritʃi",
+  "elettrici_2": "elɛtːritʃi",
+  "elettricista": "eletːritʃista",
+  "elettriciste": "eletːritʃiste",
+  "elettricisti": "eletːritʃisti",
+  "elettricità": "eletːritʃita",
+  "elettrico": "elɛtːriko",
+  "elettrificante": "eletːrifikante",
+  "elettrificare": "eletːrifikare",
+  "elettrificato": "eletːrifikato",
+  "elettrificazione": "eletːrifikatsjone",
+  "elettrificazioni": "eletːrifikatsjoni",
+  "elettrizzante": "eletːridːzante",
+  "elettrizzare": "eletːridːzare",
+  "elettrizzarsi": "eletːridːzarsi",
+  "elettrizzato": "eletːridːzato",
+  "elettrizzazione": "eletːridːzatsjone",
+  "elettrizzazioni": "eletːridːzatsjoni",
+  "elettroaffinità": "elɛtːroafːinita",
+  "elettrobisturi": "elɛtːrobisturi",
+  "elettrocalamita": "eletːrokalamita",
+  "elettrocalamita_2": "elɛtːrokalamita",
+  "elettrocalamite": "eletːrokalamite",
+  "elettrocardiogramma": "eletːrokardjoɡramːa",
+  "elettrochimica": "eletːrokimika",
+  "elettrochimica_2": "elːetrokimika",
+  "elettrochimicamente": "elːetrokimikamente",
+  "elettrochimiche": "elːetrokimike",
+  "elettrochimici": "elːetrokimitʃi",
+  "elettrochimico": "elːetrokimiko",
+  "elettrochoc": "eletːroʃɔk",
+  "elettrocinematica": "elɛtːrotʃinematika",
+  "elettrocinetico": "eletːrotʃinɛtiko",
+  "elettrodebole": "elɛtːrodebole",
+  "elettrodi": "elɛtːrodi",
+  "elettrodico": "eletːrɔdiko",
+  "elettrodinamica": "eletːrodinamika",
+  "elettrodinamici": "eletːrodinamitʃi",
+  "elettrodinamico": "eletːrodinamiko",
+  "elettrodo": "elɛtːrodo",
+  "elettrodomestico": "eletːrodomɛstiko",
+  "elettrodotto": "eletːrodotːo",
+  "elettroencefalografo": "elɛtːroentʃefalɔɡrafo",
+  "elettroencefalogramma": "elɛtːroentʃefaloɡramːa",
+  "elettrofiltro": "elɛtːrofiltro",
+  "elettrofisiologia": "elɛtːrofizjolodʒia",
+  "elettrofisiologica": "eletːrofizjolɔdʒika",
+  "elettrofisiologiche": "eletːrofizjolɔdʒike",
+  "elettrofisiologici": "eletːrofizjolɔdʒitʃi",
+  "elettrofisiologico": "eletːrofizjolɔdʒiko",
+  "elettrofori": "eletːrɔfori",
+  "elettroforo": "eletːrɔforo",
+  "elettrogeno": "eletːrɔdʒeno",
+  "elettroidraulico": "elɛtːroidrawliko",
+  "elettroipersensibilità": "eletːroipersensibilita",
+  "elettrolisi": "eletːrɔlizi",
+  "elettrolita": "eletːrɔlita",
+  "elettroliti": "eletːrɔliti",
+  "elettrolitico": "eletːrolitiko",
+  "elettrologia": "eletːrolodʒia",
+  "elettroluminescente": "eletːrolumeneʃʃɛnte",
+  "elettroluminescenti": "eletːrolumeneʃʃɛnti",
+  "elettroluminescenza": "eletːrolumineʃʃɛntsa",
+  "elettroluminescenze": "eletːrolumineʃʃɛntse",
+  "elettromagnete": "eletːromaɲɲɛte",
+  "elettromagnete_2": "elɛtːromaɲɲɛte",
+  "elettromagnetica": "eletːromaɲɲɛtika",
+  "elettromagnetiche": "eletːromaɲɲɛtike",
+  "elettromagnetici": "eletːromaɲɲɛtitʃi",
+  "elettromagnetico": "eletːromaɲɲɛtiko",
+  "elettromagnetico_2": "elɛtːromaɲɲɛtiko",
+  "elettromagnetismo": "eletːromaɲɲetizmo",
+  "elettromagnetismo_2": "elɛtːromaɲɲetizmo",
+  "elettromeccanica": "eletːromekːanika",
+  "elettromeccanico": "eletːromekːaniko",
+  "elettrometallurgia": "elɛtːrometalːurdʒia",
+  "elettrometallurgica": "eletːrometalːurdʒika",
+  "elettrometallurgiche": "eletːrometalːurdʒike",
+  "elettrometallurgici": "eletːrometalːurdʒitʃi",
+  "elettrometria": "eletːrometria",
+  "elettrometro": "eletːrɔmetro",
+  "elettromotore": "elɛtːromotore",
+  "elettromotori": "elɛtːromotori",
+  "elettromotrice": "elɛtːromotritʃe",
+  "elettromotrici": "elɛtːromotritʃi",
+  "elettronastia": "elɛtːronastia",
+  "elettronastico": "elɛtːronastiko",
+  "elettrone": "eletːrone",
+  "elettronegativa": "eletːroneɡativa",
+  "elettronegative": "eletːroneɡative",
+  "elettronegativi": "eletːroneɡativi",
+  "elettronegatività": "eletːroneɡativita",
+  "elettronegativo": "eletːroneɡativo",
+  "elettroni": "eletːroni",
+  "elettronica": "eletːrɔnika",
+  "elettronicamente": "eletːronikamente",
+  "elettroniche": "eletːrɔnike",
+  "elettronici": "eletːrɔnitʃi",
+  "elettronico": "eletːrɔniko",
+  "elettronificazione": "eletːronifikatːsjone",
+  "elettronucleare": "elɛtːronukleare",
+  "elettropolimerizzazione": "elɛtːropolimeridːzatːsjone",
+  "elettrorefrattario": "elɛtːrorefratːarjo",
+  "elettroreologica": "elɛtːroreolɔdʒika",
+  "elettroreologiche": "elɛtːroreolɔdʒike",
+  "elettroreologici": "elɛtːroreolɔdʒitʃi",
+  "elettroreologico": "elɛtːroreolɔdʒiko",
+  "elettroscopi": "eletːroskɔpi",
+  "elettroscopio": "eletːroskɔpjo",
+  "elettrosensibile": "eletːrosensibile",
+  "elettrosensibili": "eletːrosensibili",
+  "elettrosensibilità": "eletːrosensibilita",
+  "elettroshock": "eletːroʃʃɔk",
+  "elettrosiderurgia": "elɛtːrosiderurdʒia",
+  "elettrotecnica": "eletːrotɛknika",
+  "elettrotecnica_2": "elɛtːrotɛknika",
+  "elettrotecniche": "eletːrotɛknika",
+  "elettrotecniche_2": "eletːrotɛknike",
+  "elettrotecniche_3": "elɛtːrotɛknike",
+  "elettrotecnici": "eletːrotɛknitʃi",
+  "elettrotecnici_2": "elɛtːrotɛknitʃi",
+  "elettrotecnico": "eletːrotɛkniko",
+  "elettrotecnico_2": "elɛtːrotɛkniko",
+  "elettroterapia": "eletːroterapia",
+  "elettrotermia": "eletːrotermia",
+  "elettrotermico": "eletːrotɛrmiko",
+  "elettrotreno": "eletːrotrɛno",
+  "elettrounito": "elɛtːrounito",
+  "elettuario": "eletːuarjo",
+  "eleusino": "elewzino",
+  "eleuterie": "eleutɛrje",
+  "elevamenti": "elevamenti",
+  "elevamento": "elevamento",
+  "elevante": "elevante",
+  "elevare": "elevare",
+  "elevarsi": "elevarsi",
+  "elevato": "elevato",
+  "elevatore": "elevatore",
+  "elevatori": "elevatori",
+  "elevatrice": "elevatritʃe",
+  "elevatrici": "elevatritʃi",
+  "elevazione": "elevatsjone",
+  "elevazione_2": "elevatːsjone",
+  "elevazioni": "elevatsjoni",
+  "elevo": "elevo",
+  "elevone": "elevone",
+  "elevoni": "elevone",
+  "elezione": "eletsjone",
+  "elezione_2": "eletːsjone",
+  "elezioni": "eletsjoni",
+  "elfi": "ɛlfi",
+  "elfica": "ɛlfika",
+  "elfiche": "ɛlfike",
+  "elfici": "ɛlfitʃi",
+  "elfico": "ɛlfiko",
+  "elfo": "ɛlfo",
+  "elica": "ɛlika",
+  "elice": "ɛlike",
+  "eliche": "ɛlike",
+  "elicicoltura": "elitʃikoltura",
+  "elicicoltura_2": "ɛlitʃikoltura",
+  "elicicolture": "elitʃikolture",
+  "elicoidale": "elikojdale",
+  "elicoide": "elikɔjde",
+  "elicotteri": "elikɔtːeri",
+  "elicotterista": "elikotːerista",
+  "elicotteriste": "elikotːeriste",
+  "elicotteristi": "elikotːeristi",
+  "elicotteristico": "elikotːeristiko",
+  "elicottero": "elikɔtːero",
+  "elidere": "elidere",
+  "eliea": "eljɛa",
+  "eligio": "elidʒo",
+  "eligru": "eliɡru",
+  "eliminabile": "eliminabile",
+  "eliminabili": "eliminabili",
+  "eliminando": "eliminando",
+  "eliminante": "eliminante",
+  "eliminare": "eliminare",
+  "eliminato": "eliminato",
+  "eliminatoria": "eliminatɔrja",
+  "eliminazione": "eliminatsjone",
+  "eliminazione_2": "eliminatːsjone",
+  "elimino": "elimino",
+  "elio": "ɛlio",
+  "elio_2": "ɛljo",
+  "eliocentrico": "eljotʃɛntriko",
+  "eliocentrismo": "eljotʃentrizmo",
+  "elioelettrico": "ɛljoelɛtːriko",
+  "elioenergia": "ɛljoenerdʒia",
+  "eliofila": "eljɔfila",
+  "eliofile": "eljɔfile",
+  "eliofili": "eljɔfili",
+  "eliofilia": "eljofilia",
+  "eliofilo": "eljɔfilo",
+  "eliografia": "eljoɡrafia",
+  "eliografo": "eljɔɡrafo",
+  "elioguaina": "eljoɡwaina",
+  "elioguaine": "eljoɡwaine",
+  "eliometri": "eljɔmetri",
+  "eliometro": "eljɔmetro",
+  "elione": "eljone",
+  "eliopausa": "eljopawza",
+  "eliopause": "eljopawze",
+  "eliornitide": "eljornitide",
+  "eliornitidi": "eljornitidi",
+  "elioscopi": "eljoskɔpi",
+  "elioscopica": "eljoskɔpika",
+  "elioscopiche": "eljoskɔpike",
+  "elioscopici": "eljoskɔpitʃi",
+  "elioscopico": "eljoskɔpiko",
+  "elioscopio": "eljoskɔpjo",
+  "eliosfera": "eljosfɛra",
+  "eliosfere": "eljosfɛre",
+  "eliosismologia": "eljosizmolodʒia",
+  "eliosismologica": "eljosizmolɔdʒika",
+  "eliosismologiche": "eljosizmolɔdʒike",
+  "eliosismologici": "eljosizmolɔdʒitʃi",
+  "eliosismologico": "eljosizmolɔdʒiko",
+  "eliosismologie": "eljosizmolodʒie",
+  "eliotropismi": "eljotropizmi",
+  "eliotropismo": "eljotropizmo",
+  "eliparchi": "eliparki",
+  "eliparco": "eliparko",
+  "eliplani": "eliplani",
+  "eliplano": "eliplano",
+  "eliporto": "ɛlipɔrto",
+  "eliportuale": "eliportuale",
+  "elisa": "eliza",
+  "elisabetta": "elizabetːa",
+  "elisabetta_2": "elizabɛtːa",
+  "elisalvataggi": "elisalvatadːʒi",
+  "elisalvataggio": "elisalvatadːʒo",
+  "elisir": "elizir",
+  "eliso": "elizo",
+  "elisuperficie": "ɛlisuperfitʃe",
+  "elitario": "elitarjo",
+  "elite": "elit",
+  "elitista": "elitista",
+  "elitiste": "elitiste",
+  "elitisti": "elitisti",
+  "ella": "elːa",
+  "ella_2": "ɛlːa",
+  "elle": "elːe",
+  "elle_2": "ɛlːe",
+  "elleboro": "elːɛboro",
+  "ellenico": "elːɛniko",
+  "ellenismo": "elːenizmo",
+  "ellenista": "elːenista",
+  "elleniste": "elːeniste",
+  "ellenisti": "elːenisti",
+  "ellenistico": "elːenistiko",
+  "ellenizzare": "elːenidːzare",
+  "elleno": "elːeno",
+  "elleno_2": "elːɛno",
+  "elli": "elːi",
+  "ellino": "elːino",
+  "ellisse": "elːisːe",
+  "ellissi": "elːisːi",
+  "ellissometri": "elːisːɔmetri",
+  "ellissometro": "elːisːɔmetro",
+  "ellittico": "elːitːiko",
+  "ello": "elːo",
+  "elmintagogo": "elmintaɡɔɡo",
+  "elmo": "elmo",
+  "eloderma": "elodɛrma",
+  "elodermatide": "elodermatide",
+  "elogi": "elɔdʒi",
+  "elogiare": "lodʒare",
+  "elogiato": "elodʒato",
+  "elogiatore": "elodʒatore",
+  "elogio": "elɔdʒo",
+  "eloquente": "elokwente",
+  "eloquente_2": "elokwɛnte",
+  "eloquentemente": "elokwentemente",
+  "eloquenti": "elokwenti",
+  "eloquenza": "elokwɛntsa",
+  "eloquenze": "elokwɛntse",
+  "eloquio": "elɔkwjo",
+  "elsa": "elsa",
+  "elsa_2": "ɛlsa",
+  "elsinore": "ɛlsinor",
+  "elsinore_2": "ɛlsinɔr",
+  "elucubrare": "elukubrare",
+  "elucubrazione": "elukubratsjone",
+  "elucubrazione_2": "elukubratːsjone",
+  "elude": "elude",
+  "eludendo": "eludendo",
+  "eludente": "eludente",
+  "eludenti": "eludenti",
+  "eludere": "eludere",
+  "eludi": "eludi",
+  "eluditrice": "eluditritʃe",
+  "eludo": "eludo",
+  "eluire": "eluire",
+  "eluire_2": "elwire",
+  "elusa": "elusa",
+  "eluse": "eluse",
+  "elusero": "elusi",
+  "elusi": "elusi",
+  "elusivo": "eluzivo",
+  "eluso": "eluzo",
+  "elusore": "eluzore",
+  "elvetica": "elvɛtika",
+  "elvetiche": "elvɛtike",
+  "elvetici": "elvɛtitʃi",
+  "elvetico": "elvɛtiko",
+  "elvezia": "elvɛtːja",
+  "elzeviro": "eldzeviro",
+  "emaciato": "ematʃato",
+  "emagogo": "emaɡɔɡo",
+  "emanare": "emanare",
+  "emanatistico": "emanatistiko",
+  "emanazione": "emanatːsjone",
+  "emanazioni": "emanatːsjoni",
+  "emancipare": "emantʃipare",
+  "emancipata": "emantʃipata",
+  "emancipate": "emantʃipate",
+  "emancipati": "emantʃipati",
+  "emancipato": "emantʃipato",
+  "emancipato_2": "matʃipato",
+  "emancipazione": "emantʃipatsjone",
+  "emancipazione_2": "emantʃipatːsjone",
+  "emancipazioni": "emantʃipatsjoni",
+  "emanuela": "emanuɛla",
+  "emanuele": "emanuɛle",
+  "emarginare": "emardʒinare",
+  "emarginato": "emardʒinato",
+  "emarginazione": "emardʒinatːsjone",
+  "ematico": "ematiko",
+  "ematite": "ematite",
+  "ematiti": "ematiti",
+  "ematochimica": "ematokimika",
+  "ematochimiche": "ematokimike",
+  "ematochimici": "ematokimitʃi",
+  "ematochimico": "ematokimiko",
+  "ematofaga": "ematɔfaɡa",
+  "ematofaghe": "ematɔfaɡe",
+  "ematofagi": "ematɔfadʒi",
+  "ematofago": "ematɔfaɡo",
+  "ematoide": "ematɔjde",
+  "ematologa": "ematoloɡa",
+  "ematologe": "ematoloɡe",
+  "ematologhe": "ematoloɡe",
+  "ematologi": "ematoloɡi",
+  "ematologia": "ematolodʒia",
+  "ematologica": "ematolɔdʒika",
+  "ematologiche": "ematolɔdʒike",
+  "ematologici": "ematolɔdʒitʃi",
+  "ematologico": "ematolɔdʒiko",
+  "ematologo": "ematoloɡo",
+  "ematologo_2": "ematɔloɡo",
+  "ematoma": "ematɔma",
+  "ematoscopi": "ematoskɔpi",
+  "ematoscopia": "ematoskɔpja",
+  "ematoscopie": "ematoskɔpje",
+  "ematoscopio": "ematoskɔpjo",
+  "ematuria": "ematurja",
+  "emazia": "ematsja",
+  "emazia_2": "ematːsja",
+  "emazie": "ematsje",
+  "embarghi": "embarɡi",
+  "embargo": "embarɡo",
+  "embè": "embɛ",
+  "emberiza": "emberidːza",
+  "emberizide": "emberidːzide",
+  "embiotteri": "embiɔtːeri",
+  "embiotteri_2": "enbjotːeri",
+  "embiottero": "embjɔtːero",
+  "embiottero_2": "enbjotːero",
+  "emblema": "emblɛma",
+  "emblematica": "emblɛmatika",
+  "emblematicamente": "emblɛmatikamente",
+  "emblematiche": "emblɛmatike",
+  "emblematici": "emblɛmatitʃi",
+  "emblematico": "emblematiko",
+  "emblematico_2": "emblɛmatiko",
+  "emblemi": "emblɛmi",
+  "embolia": "embolia",
+  "embolie": "embolie",
+  "embricante": "ɛmbrikante",
+  "embricare": "ɛmbrikare",
+  "embricarsi": "ɛmbrikarsi",
+  "embricato": "ɛmbrikato",
+  "embrice": "ɛmbritʃe",
+  "embrici": "ɛmbritʃi",
+  "embriogenesi": "embrjodʒɛnezi",
+  "embriologia": "embrjolodʒia",
+  "embriologica": "embrjolɔdʒika",
+  "embriologiche": "embrjolɔdʒike",
+  "embriologici": "embrjolɔdʒitʃi",
+  "embriologico": "embrjolɔdʒiko",
+  "embrionale": "embrjonale",
+  "embrionali": "embrjonale",
+  "embrionali_2": "embrjonali",
+  "embrione": "embrione",
+  "embrioni": "embrioni",
+  "embrioscopi": "embrioskɔpi",
+  "embrioscopia": "embrioskɔpja",
+  "embrioscopie": "embrioskɔpje",
+  "embrioscopio": "embrioskɔpjo",
+  "eme": "ɛme",
+  "emendabile": "emendabile",
+  "emendamenti": "emendamenti",
+  "emendamento": "emendamento",
+  "emendare": "emendare",
+  "emendato": "emendato",
+  "emendatore": "emendatore",
+  "emergente": "emerdʒɛnte",
+  "emergente_2": "emɛrdʒente",
+  "emergenti": "emɛrdʒenti",
+  "emergenza": "emerdʒɛntsa",
+  "emergere": "emɛrdʒere",
+  "emerito": "emɛrito",
+  "emerodromo": "emerɔdromo",
+  "emeroteca": "emerotɛka",
+  "emeroteche": "emerotɛke",
+  "emersione": "emersjone",
+  "emerso": "emɛrso",
+  "emeseno": "emezɛno",
+  "emesi": "ɛmezi",
+  "emetico": "emɛtiko",
+  "emetizzante": "emetidːzante",
+  "emetofobia": "emetofobia",
+  "emetofobica": "emetofɔbika",
+  "emetofobiche": "emetofɔbike",
+  "emetofobici": "emetofɔbitʃi",
+  "emetofobico": "emetofɔbiko",
+  "emetofobie": "emetofobie",
+  "emettere": "emetːere",
+  "emettitore": "emetːitore",
+  "emicellulosa": "emitʃelːuloza",
+  "emiciclico": "emitʃikliko",
+  "emiciclo": "emitʃiklo",
+  "emicrania": "emikrania",
+  "emicrania_2": "emikranja",
+  "emicranie": "emikranie",
+  "emiedria": "emiedria",
+  "emigrando": "emiɡrando",
+  "emigrante": "emiɡrante",
+  "emigranti": "emiɡranti",
+  "emigrare": "emiɡrare",
+  "emigrata": "emiɡrata",
+  "emigrate": "emiɡrate",
+  "emigrati": "emiɡrati",
+  "emigrato": "emiɡrato",
+  "emigratori": "emiɡratori",
+  "emigratoria": "emiɡratoria",
+  "emigratorie": "emiɡratorie",
+  "emigratorio": "emiɡratorjo",
+  "emigrazione": "emiɡratsjone",
+  "emigrazioni": "emiɡratsjoni",
+  "emilia": "emilja",
+  "emiliano": "emiljano",
+  "eminente": "eminente",
+  "eminente_2": "eminɛnte",
+  "eminenza": "eminɛntsa",
+  "emione": "emione",
+  "emiono": "emiono",
+  "emiparesi": "emiparɛzi",
+  "emiplegia": "emipledʒia",
+  "emiplegica": "emiplɛdʒika",
+  "emiplegiche": "emiplɛdʒike",
+  "emiplegici": "emiplɛdʒitʃi",
+  "emiplegico": "emiplɛdʒiko",
+  "emiplegie": "emipledʒie",
+  "emiprocnide": "emiprɔknide",
+  "emiprocnidi": "emiprɔknidi",
+  "emiratina": "emiratina",
+  "emiratine": "emiratine",
+  "emiratini": "emiratini",
+  "emiratino": "emiratino",
+  "emirato": "emirato",
+  "emiro": "emiro",
+  "emisferio": "emisfɛrjo",
+  "emisfero": "emisfɛro",
+  "emisimmetrico": "emisimːɛtriko",
+  "emisperio": "emispɛrjo",
+  "emispero": "emispɛro",
+  "emispondilia": "emispondilia",
+  "emissari": "emisːari",
+  "emissario": "emisːarjo",
+  "emissione": "emisːjone",
+  "emissioni": "emisːjoni",
+  "emittanza": "emitːantsa",
+  "emittanze": "emitːantse",
+  "emittente": "emitːɛnte",
+  "emitteri": "emitːeri",
+  "emittero": "emitːero",
+  "emitteroidei": "emitːerojdɛi",
+  "emitteroideo": "emitːerojdɛo",
+  "emivita": "emivita",
+  "emizigote": "emidːziɡɔte",
+  "emme": "ɛmːe",
+  "emmenagogo": "emːenaɡɔɡo",
+  "emmenthal": "ɛmːental"
 }

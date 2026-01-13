@@ -1,1531 +1,531 @@
 {
-  "columella": [
-    "ko"
-  ],
-  "coluro": [
-    "koluro"
-  ],
-  "colussi": [
-    "kolusːi"
-  ],
-  "colza": [
-    "kɔltsa"
-  ],
-  "coma": [
-    "kɔma"
-  ],
-  "comandamenti": [
-    "komandamenti"
-  ],
-  "comandamento": [
-    "komandamento"
-  ],
-  "comandante": [
-    "komandante"
-  ],
-  "comandanti": [
-    "komandanti"
-  ],
-  "comandare": [
-    "komandare"
-  ],
-  "comandato": [
-    "komandato"
-  ],
-  "comandi": [
-    "komandi"
-  ],
-  "comando": [
-    "komando",
-    "kɔmando",
-    "kɔmandɔ"
-  ],
-  "comare": [
-    "komare",
-    "kɔmare"
-  ],
-  "comasco": [
-    "komasko"
-  ],
-  "comatoso": [
-    "komatozo"
-  ],
-  "combaciare": [
-    "kombatʃare"
-  ],
-  "combattendo": [
-    "kombatːɛndo"
-  ],
-  "combattente": [
-    "kombatːente",
-    "kombatːɛnte"
-  ],
-  "combattere": [
-    "kombatːere"
-  ],
-  "combattimenti": [
-    "kombatːimenti"
-  ],
-  "combattimento": [
-    "kombatːimento"
-  ],
-  "combattivo": [
-    "kombatːivo"
-  ],
-  "combattuto": [
-    "kombatːuto"
-  ],
-  "combinabile": [
-    "kombinabile"
-  ],
-  "combinabili": [
-    "kombinabili"
-  ],
-  "combinando": [
-    "kombinando",
-    "kɔmbinando"
-  ],
-  "combinante": [
-    "kɔmbinante"
-  ],
-  "combinare": [
-    "kombinare",
-    "kɔmbinare"
-  ],
-  "combinarsi": [
-    "kombinarsi",
-    "kɔmbinarsi"
-  ],
-  "combinata": [
-    "kombinata"
-  ],
-  "combinato": [
-    "kombinato",
-    "kɔmbinato"
-  ],
-  "combinatorio": [
-    "kombinatɔrjo"
-  ],
-  "combinazione": [
-    "kombinatːsjone"
-  ],
-  "combinazioni": [
-    "kombinatːsjoni"
-  ],
-  "combino": [
-    "kombino"
-  ],
-  "combriccola": [
-    "kombrikːola"
-  ],
-  "comburente": [
-    "komburente",
-    "komburɛnte"
-  ],
-  "comburenti": [
-    "komburenti"
-  ],
-  "comburere": [
-    "komburere"
-  ],
-  "combustibile": [
-    "kombustibile"
-  ],
-  "combustibili": [
-    "kombustibili"
-  ],
-  "combustibilità": [
-    "kombustibilita"
-  ],
-  "combustione": [
-    "kombustjone"
-  ],
-  "combustioni": [
-    "kombustjone"
-  ],
-  "combusto": [
-    "kombusto"
-  ],
-  "come": [
-    "kome"
-  ],
-  "comedo": [
-    "komɛdo"
-  ],
-  "comedone": [
-    "komedone"
-  ],
-  "comedoni": [
-    "komedoni"
-  ],
-  "cometa": [
-    "kometa"
-  ],
-  "comete": [
-    "komete"
-  ],
-  "comfort": [
-    "komfort"
-  ],
-  "comica": [
-    "kɔmika"
-  ],
-  "comicamente": [
-    "komikamente"
-  ],
-  "comiche": [
-    "kɔmike"
-  ],
-  "comici": [
-    "kɔmitʃi"
-  ],
-  "comicità": [
-    "komitʃita"
-  ],
-  "comicizzare": [
-    "komitʃidːzare"
-  ],
-  "comico": [
-    "kɔmiko"
-  ],
-  "comignoli": [
-    "kominɲoli"
-  ],
-  "comignolo": [
-    "kominɲolo"
-  ],
-  "cominciante": [
-    "komintʃante"
-  ],
-  "cominciare": [
-    "komintʃare"
-  ],
-  "cominciato": [
-    "komintʃato"
-  ],
-  "comitale": [
-    "komitale"
-  ],
-  "comitati": [
-    "komitati"
-  ],
-  "comitativo": [
-    "komitativo"
-  ],
-  "comitato": [
-    "komitato",
-    "komitatɔ"
-  ],
-  "comitiva": [
-    "komitiva"
-  ],
-  "comito": [
-    "kɔmito"
-  ],
-  "comizio": [
-    "komitsio",
-    "komitːsjo"
-  ],
-  "comma": [
-    "komːa",
-    "kɔmːa"
-  ],
-  "commando": [
-    "komːando"
-  ],
-  "commedia": [
-    "komːɛdja"
-  ],
-  "commediano": [
-    "komːɛdjano"
-  ],
-  "commediante": [
-    "komːedjante"
-  ],
-  "commedianti": [
-    "komːedjanti"
-  ],
-  "commediare": [
-    "komːedjare"
-  ],
-  "commedie": [
-    "komːɛdje"
-  ],
-  "commedino": [
-    "komːɛdino"
-  ],
-  "commediografo": [
-    "komːedjɔɡrafo"
-  ],
-  "commemorare": [
-    "komːemorare"
-  ],
-  "commemorato": [
-    "komːemorato"
-  ],
-  "commemorazione": [
-    "komːemoratsjone"
-  ],
-  "commemoro": [
-    "komːemoro"
-  ],
-  "commendabile": [
-    "komːendabile"
-  ],
-  "commendare": [
-    "komːendare"
-  ],
-  "commendatizio": [
-    "komːendatitːsjo"
-  ],
-  "commendatore": [
-    "komːendatore"
-  ],
-  "commendevole": [
-    "komːendevole"
-  ],
-  "commensurabile": [
-    "komːensurabile"
-  ],
-  "commensurabili": [
-    "komːensurabili"
-  ],
-  "commensurare": [
-    "komːensurare"
-  ],
-  "commensurato": [
-    "komːensurato"
-  ],
-  "commenta": [
-    "komːenta"
-  ],
-  "commentabile": [
-    "komːentabile"
-  ],
-  "commentabili": [
-    "komːentabili"
-  ],
-  "commentai": [
-    "komːentai"
-  ],
-  "commentammo": [
-    "komːentamːo"
-  ],
-  "commentando": [
-    "komːentando"
-  ],
-  "commentano": [
-    "komːentano"
-  ],
-  "commentante": [
-    "komːentante"
-  ],
-  "commentare": [
-    "komːentare"
-  ],
-  "commentario": [
-    "komːentarjo"
-  ],
-  "commentarono": [
-    "komːentarono"
-  ],
-  "commentasse": [
-    "komːentasːe"
-  ],
-  "commentassero": [
-    "komːentasːero"
-  ],
-  "commentassi": [
-    "komːentasːi"
-  ],
-  "commentassimo": [
-    "komːentasːimo"
-  ],
-  "commentaste": [
-    "komːentaste"
-  ],
-  "commentasti": [
-    "komːentasti"
-  ],
-  "commentate": [
-    "komːentate"
-  ],
-  "commentato": [
-    "komːentato"
-  ],
-  "commentatore": [
-    "komːentatore"
-  ],
-  "commentatori": [
-    "komːentatori"
-  ],
-  "commentatrice": [
-    "komːentatritʃe"
-  ],
-  "commentatrici": [
-    "komːentatritʃi"
-  ],
-  "commentava": [
-    "komːentava"
-  ],
-  "commentavamo": [
-    "komːentavamo"
-  ],
-  "commentavano": [
-    "komːentavano"
-  ],
-  "commentavate": [
-    "komːentavate"
-  ],
-  "commentavi": [
-    "komːentavi"
-  ],
-  "commentavo": [
-    "komːentavo"
-  ],
-  "commenterà": [
-    "komːentera"
-  ],
-  "commenterai": [
-    "komːenterai"
-  ],
-  "commenteranno": [
-    "komːenteranːo"
-  ],
-  "commenterebbe": [
-    "komːenterebːe"
-  ],
-  "commenterebbero": [
-    "komːenterebːero"
-  ],
-  "commenterei": [
-    "komːenterei"
-  ],
-  "commenteremmo": [
-    "komːenteremːo"
-  ],
-  "commenteremo": [
-    "komːenteremo"
-  ],
-  "commentereste": [
-    "komːentereste"
-  ],
-  "commenteresti": [
-    "komːenteresti"
-  ],
-  "commenterete": [
-    "komːenterete"
-  ],
-  "commenterò": [
-    "komːentero"
-  ],
-  "commenti": [
-    "komːenti"
-  ],
-  "commentiamo": [
-    "komːentjamo"
-  ],
-  "commentiate": [
-    "komːentjate"
-  ],
-  "commentino": [
-    "komːentino"
-  ],
-  "commento": [
-    "komːento",
-    "komːɛnto"
-  ],
-  "commentò": [
-    "komːento"
-  ],
-  "commerci": [
-    "kɔmːɛrtʃi"
-  ],
-  "commerciabile": [
-    "komːertʃabile"
-  ],
-  "commerciabili": [
-    "komːertʃabili"
-  ],
-  "commerciabilità": [
-    "komːertʃabilita"
-  ],
-  "commerciale": [
-    "komːertʃale"
-  ],
-  "commerciali": [
-    "komːertʃali"
-  ],
-  "commercialista": [
-    "komːertʃalista"
-  ],
-  "commercialistico": [
-    "komːertʃalistiko"
-  ],
-  "commercializzabile": [
-    "komːertʃalidːzabile"
-  ],
-  "commercializzabili": [
-    "komːertʃalidːzabili"
-  ],
-  "commercializzante": [
-    "komːertʃalidːzante"
-  ],
-  "commercializzare": [
-    "komːertʃalidːzare"
-  ],
-  "commercializzato": [
-    "komːertʃalidːzato"
-  ],
-  "commercialmente": [
-    "komːertʃalmente"
-  ],
-  "commerciante": [
-    "komːertʃante"
-  ],
-  "commercianti": [
-    "komːertʃante"
-  ],
-  "commerciare": [
-    "komːertʃare"
-  ],
-  "commercio": [
-    "komːɛrtʃo",
-    "kɔmːɛrtʃɔ"
-  ],
-  "commessa": [
-    "komːesːa"
-  ],
-  "commesse": [
-    "komːesːe"
-  ],
-  "commessi": [
-    "komːesːi"
-  ],
-  "commesso": [
-    "komːesːo"
-  ],
-  "commestibile": [
-    "komːestibile"
-  ],
-  "commestibili": [
-    "komːestibili"
-  ],
-  "commetta": [
-    "komːetːa"
-  ],
-  "commettano": [
-    "komːetːano"
-  ],
-  "commette": [
-    "komːetːe"
-  ],
-  "commettemmo": [
-    "komːetːemːo"
-  ],
-  "commettendo": [
-    "komːetːendo"
-  ],
-  "commettente": [
-    "komːetːente"
-  ],
-  "commetterà": [
-    "komːetːera"
-  ],
-  "commetterai": [
-    "komːetːerai"
-  ],
-  "commetteranno": [
-    "komːetːeranːo"
-  ],
-  "commettere": [
-    "komːetːere"
-  ],
-  "commetterebbe": [
-    "komːetːerebːe"
-  ],
-  "commetterebbero": [
-    "komːetːerebːero"
-  ],
-  "commetterei": [
-    "komːetːerei"
-  ],
-  "commetteremmo": [
-    "komːetːeremːo"
-  ],
-  "commetteremo": [
-    "komːetːeremo"
-  ],
-  "commettereste": [
-    "komːetːereste"
-  ],
-  "commetteresti": [
-    "komːetːeresti"
-  ],
-  "commetterete": [
-    "komːetːerete"
-  ],
-  "commetterò": [
-    "komːetːero"
-  ],
-  "commettesse": [
-    "komːetːesːe"
-  ],
-  "commettessero": [
-    "komːetːesːero"
-  ],
-  "commettessi": [
-    "komːetːesːi"
-  ],
-  "commettessimo": [
-    "komːetːesːimo"
-  ],
-  "commetteste": [
-    "komːetːeste"
-  ],
-  "commettesti": [
-    "komːetːesti"
-  ],
-  "commettete": [
-    "komːetːete"
-  ],
-  "commetteva": [
-    "komːetːeva"
-  ],
-  "commettevamo": [
-    "komːetːevamo"
-  ],
-  "commettevano": [
-    "komːetːevano"
-  ],
-  "commettevate": [
-    "komːetːevate"
-  ],
-  "commettevi": [
-    "komːetːevi"
-  ],
-  "commettevo": [
-    "komːetːevo"
-  ],
-  "commetti": [
-    "komːetːi"
-  ],
-  "commettiamo": [
-    "komːetːjamo"
-  ],
-  "commettiate": [
-    "komːetːjate"
-  ],
-  "commetto": [
-    "komːetːo"
-  ],
-  "commettono": [
-    "komːetːono"
-  ],
-  "commiati": [
-    "komːjati"
-  ],
-  "commiato": [
-    "komːjato"
-  ],
-  "commilitone": [
-    "komːilitone"
-  ],
-  "comminare": [
-    "komːinare"
-  ],
-  "comminuto": [
-    "komːinuto"
-  ],
-  "commise": [
-    "komːize"
-  ],
-  "commiserare": [
-    "komːizerare"
-  ],
-  "commiserazione": [
-    "komːizeratːsjone"
-  ],
-  "commisero": [
-    "komːizero"
-  ],
-  "commisi": [
-    "komːizi"
-  ],
-  "commissari": [
-    "komːisːari"
-  ],
-  "commissaria": [
-    "komːisːarja"
-  ],
-  "commissariare": [
-    "komːisːarjare"
-  ],
-  "commissariato": [
-    "komːisːarjato"
-  ],
-  "commissarie": [
-    "komːisːarje"
-  ],
-  "commissario": [
-    "komːisːarjo"
-  ],
-  "commissionare": [
-    "komːisːionare",
-    "komːisːjonare"
-  ],
-  "commissionario": [
-    "komːisːjonarjo"
-  ],
-  "commissionato": [
-    "komːisːjonato"
-  ],
-  "commissione": [
-    "komːisːjone"
-  ],
-  "commistione": [
-    "komːistjone"
-  ],
-  "commisto": [
-    "komːisto"
-  ],
-  "commisurare": [
-    "komːizurare"
-  ],
-  "commisurazione": [
-    "komːizuratsjone"
-  ],
-  "committente": [
-    "komːitːɛnte"
-  ],
-  "committenza": [
-    "komːitːɛntsa"
-  ],
-  "commodoro": [
-    "komːodɔro"
-  ],
-  "commosso": [
-    "komːɔsːo"
-  ],
-  "commovente": [
-    "komːovɛnte"
-  ],
-  "commoventi": [
-    "komːovɛnti"
-  ],
-  "commozione": [
-    "komːotsjone"
-  ],
-  "community": [
-    "komːuniti"
-  ],
-  "commuovere": [
-    "komːwɔvere"
-  ],
-  "commuoversi": [
-    "komːwɔversi"
-  ],
-  "commutare": [
-    "komːutare"
-  ],
-  "commutatore": [
-    "komːutatore"
-  ],
-  "commutatrice": [
-    "komːutatritʃe"
-  ],
-  "commutazione": [
-    "komːutatsjone"
-  ],
-  "commutazioni": [
-    "komːutatsjoni"
-  ],
-  "como": [
-    "komo",
-    "kɔmo"
-  ],
-  "comò": [
-    "komɔ"
-  ],
-  "comoda": [
-    "kɔmoda"
-  ],
-  "comodamente": [
-    "komodamente"
-  ],
-  "comode": [
-    "kɔmode"
-  ],
-  "comodi": [
-    "kɔmodi"
-  ],
-  "comodino": [
-    "komodino"
-  ],
-  "comodità": [
-    "komodita"
-  ],
-  "comodo": [
-    "kɔmodo"
-  ],
-  "comorbidità": [
-    "komorbidita"
-  ],
-  "comore": [
-    "komore"
-  ],
-  "comoriana": [
-    "komorjana"
-  ],
-  "comoriane": [
-    "komorjane"
-  ],
-  "comoriani": [
-    "komorjani"
-  ],
-  "comoriano": [
-    "komorjano"
-  ],
-  "compaginare": [
-    "kompadʒinare"
-  ],
-  "compagine": [
-    "kompadʒine"
-  ],
-  "compagna": [
-    "kompaɲɲa"
-  ],
-  "compagne": [
-    "kompaɲɲe"
-  ],
-  "compagni": [
-    "kompaɲɲi"
-  ],
-  "compagnia": [
-    "kompaɲɲia"
-  ],
-  "compagnie": [
-    "kompaɲie"
-  ],
-  "compagno": [
-    "kompaɲɲo"
-  ],
-  "compagnone": [
-    "kompaɲɲone"
-  ],
-  "compalazzo": [
-    "kompalatːso"
-  ],
-  "companatici": [
-    "kompanatitʃi"
-  ],
-  "companatico": [
-    "kompanatiko"
-  ],
-  "comparabile": [
-    "komparabile"
-  ],
-  "comparabili": [
-    "komparabili"
-  ],
-  "comparabilità": [
-    "komparabilita"
-  ],
-  "comparabilmente": [
-    "komparabilmente"
-  ],
-  "comparando": [
-    "komparando"
-  ],
-  "comparare": [
-    "komparare"
-  ],
-  "comparatamente": [
-    "komparatamente"
-  ],
-  "comparativa": [
-    "komparativa"
-  ],
-  "comparativamente": [
-    "komparativamente"
-  ],
-  "comparative": [
-    "komparative"
-  ],
-  "comparativi": [
-    "komparativi"
-  ],
-  "comparativo": [
-    "komparativo"
-  ],
-  "comparato": [
-    "komparato"
-  ],
-  "comparazione": [
-    "komparatsjone",
-    "komparatːsjone"
-  ],
-  "comparazioni": [
-    "komparatsjoni"
-  ],
-  "compare": [
-    "kompare",
-    "kɔmpare"
-  ],
-  "compari": [
-    "kɔmpari"
-  ],
-  "comparire": [
-    "komparire"
-  ],
-  "comparsa": [
-    "komparsa"
-  ],
-  "comparse": [
-    "komparse"
-  ],
-  "comparso": [
-    "komparso"
-  ],
-  "compartecipante": [
-    "kompartetʃipante"
-  ],
-  "compartecipare": [
-    "kompartetʃipare"
-  ],
-  "compartecipazione": [
-    "kompartetʃipatːsjone"
-  ],
-  "compartecipe": [
-    "kompartetʃipe"
-  ],
-  "compartente": [
-    "kompartente"
-  ],
-  "comparti": [
-    "komparti"
-  ],
-  "compartimentazione": [
-    "kompartimentatsjone"
-  ],
-  "compartimentazioni": [
-    "kompartimentatsjoni"
-  ],
-  "compartimenti": [
-    "kompartimenti"
-  ],
-  "compartimento": [
-    "kompartimento"
-  ],
-  "compartire": [
-    "kompartire"
-  ],
-  "compartito": [
-    "kompartito"
-  ],
-  "comparto": [
-    "komparto"
-  ],
-  "compassare": [
-    "kompasːare"
-  ],
-  "compassatamente": [
-    "kompasːatamente"
-  ],
-  "compassato": [
-    "kompasːato"
-  ],
-  "compassi": [
-    "kompasːi"
-  ],
-  "compassionare": [
-    "kompasːjonare"
-  ],
-  "compassione": [
-    "kompasːjone"
-  ],
-  "compassionevole": [
-    "kompasːjonevole"
-  ],
-  "compassionevoli": [
-    "kompasːjonevoli"
-  ],
-  "compassionevolmente": [
-    "kompasːjonevolmente"
-  ],
-  "compassioni": [
-    "kompasːjoni"
-  ],
-  "compasso": [
-    "kompasːo"
-  ],
-  "compatibile": [
-    "kompatibile"
-  ],
-  "compatibilità": [
-    "kompatibilita"
-  ],
-  "compatibilmente": [
-    "kompatibilmente"
-  ],
-  "compatimenti": [
-    "kompatimenti"
-  ],
-  "compatimento": [
-    "kompatimento"
-  ],
-  "compatire": [
-    "kompatire"
-  ],
-  "compatirsi": [
-    "kompatirsi"
-  ],
-  "compatriota": [
-    "kompatriɔta",
-    "kompatrita",
-    "kompatrjota"
-  ],
-  "compatriote": [
-    "kompatriɔte"
-  ],
-  "compatrioti": [
-    "kompatriɔti",
-    "kompatriɔto"
-  ],
-  "compatrioto": [
-    "kompatriɔto"
-  ],
-  "compatta": [
-    "kompatːa"
-  ],
-  "compattabile": [
-    "kompatːabile"
-  ],
-  "compattabili": [
-    "kompatːabili"
-  ],
-  "compattai": [
-    "kompatːai"
-  ],
-  "compattammo": [
-    "kompatːamːo"
-  ],
-  "compattando": [
-    "kompatːando"
-  ],
-  "compattano": [
-    "kompatːano"
-  ],
-  "compattante": [
-    "kompatːante"
-  ],
-  "compattare": [
-    "kompatːare"
-  ],
-  "compattarono": [
-    "kompatːarono"
-  ],
-  "compattasse": [
-    "kompatːasːe"
-  ],
-  "compattassero": [
-    "kompatːasːero"
-  ],
-  "compattassi": [
-    "kompatːasːi"
-  ],
-  "compattassimo": [
-    "kompatːasːimo"
-  ],
-  "compattaste": [
-    "kompatːaste"
-  ],
-  "compattasti": [
-    "kompatːasti"
-  ],
-  "compattate": [
-    "kompatːate"
-  ],
-  "compattato": [
-    "kompatːato"
-  ],
-  "compattava": [
-    "kompatːava"
-  ],
-  "compattavamo": [
-    "kompatːavamo"
-  ],
-  "compattavano": [
-    "kompatːavano"
-  ],
-  "compattavate": [
-    "kompatːavate"
-  ],
-  "compattavi": [
-    "kompatːavi"
-  ],
-  "compattavo": [
-    "kompatːavo"
-  ],
-  "compattazione": [
-    "kompatːatːsjone"
-  ],
-  "compattazioni": [
-    "kompatːatːsjoni"
-  ],
-  "compatterà": [
-    "kompatːera"
-  ],
-  "compatterai": [
-    "kompatːerai"
-  ],
-  "compatteranno": [
-    "kompatːeranːo"
-  ],
-  "compatterebbe": [
-    "kompatːerebːe"
-  ],
-  "compatterebbero": [
-    "kompatːerebːero"
-  ],
-  "compatterei": [
-    "kompatːerei"
-  ],
-  "compatteremmo": [
-    "kompatːeremːo"
-  ],
-  "compatteremo": [
-    "kompatːeremo"
-  ],
-  "compattereste": [
-    "kompatːereste"
-  ],
-  "compatteresti": [
-    "kompatːeresti"
-  ],
-  "compatterete": [
-    "kompatːerete"
-  ],
-  "compatterò": [
-    "kompatːero"
-  ],
-  "compattezza": [
-    "kompatːetːsa"
-  ],
-  "compattezze": [
-    "kompatːetːse"
-  ],
-  "compatti": [
-    "kompatːi"
-  ],
-  "compattiamo": [
-    "kompatːjamo"
-  ],
-  "compattiate": [
-    "kompatːjate"
-  ],
-  "compattificazione": [
-    "kompatːifikatːsjone"
-  ],
-  "compattino": [
-    "kompatːino"
-  ],
-  "compatto": [
-    "kompatːo"
-  ],
-  "compattò": [
-    "kompatːo"
-  ],
-  "compendiare": [
-    "kompendjare"
-  ],
-  "compendio": [
-    "kompɛndjo"
-  ],
-  "compenetrare": [
-    "kompenetrare"
-  ],
-  "compenetrato": [
-    "kompenetrato"
-  ],
-  "compenetrazione": [
-    "kompenetratːsjone"
-  ],
-  "compenetrazioni": [
-    "kompenetratːsjoni"
-  ],
-  "compensabile": [
-    "kompensabile"
-  ],
-  "compensabili": [
-    "kompensabili"
-  ],
-  "compensando": [
-    "kompensando"
-  ],
-  "compensante": [
-    "kompensante"
-  ],
-  "compensare": [
-    "kompensare"
-  ],
-  "compensarsi": [
-    "kompensarsi"
-  ],
-  "compensate": [
-    "kompensate"
-  ],
-  "compensati": [
-    "kompensati"
-  ],
-  "compensativo": [
-    "kompensativo"
-  ],
-  "compensato": [
-    "kompensato"
-  ],
-  "compensazione": [
-    "kompensatsjone"
-  ],
-  "compenso": [
-    "kompɛnso"
-  ],
-  "compera": [
-    "kompera"
-  ],
-  "comperante": [
-    "komperante"
-  ],
-  "comperare": [
-    "komperare"
-  ],
-  "comperato": [
-    "komperato"
-  ],
-  "compere": [
-    "kompere"
-  ],
-  "comperi": [
-    "komperi"
-  ],
-  "competente": [
-    "kompetɛnte"
-  ],
-  "competentemente": [
-    "kompetentemente"
-  ],
-  "competenti": [
-    "kompetɛnti"
-  ],
-  "competenza": [
-    "kompetɛntsa"
-  ],
-  "competere": [
-    "kompɛtere"
-  ],
-  "competitiva": [
-    "kompetitiva"
-  ],
-  "competitivamente": [
-    "kompetitivamente"
-  ],
-  "competitive": [
-    "kompetitive"
-  ],
-  "competitivi": [
-    "kompetitivi"
-  ],
-  "competitività": [
-    "kompetitivita"
-  ],
-  "competitivo": [
-    "kompetitivo"
-  ],
-  "competitore": [
-    "kompetitore"
-  ],
-  "competitori": [
-    "kompetitore"
-  ],
-  "competitrice": [
-    "kompetitritʃe"
-  ],
-  "competitrici": [
-    "kompetitritʃi"
-  ],
-  "competizione": [
-    "kompetitsjone"
-  ],
-  "competizioni": [
-    "kompetitsjoni"
-  ],
-  "compiacenza": [
-    "kompjatʃɛntsa"
-  ],
-  "compiacere": [
-    "kompjatʃere"
-  ],
-  "compiacersi": [
-    "kompjatʃersi"
-  ],
-  "compiacimento": [
-    "kompjatʃimento"
-  ],
-  "compiaciuto": [
-    "kompjatʃuto"
-  ],
-  "compiangere": [
-    "kompjandʒere"
-  ],
-  "compiangersi": [
-    "kompjandʒersi"
-  ],
-  "compianto": [
-    "kompjanto"
-  ],
-  "compiere": [
-    "kompjere",
-    "kɔmpjere",
-    "kɔmpjɛre"
-  ],
-  "compiersi": [
-    "kompjersi"
-  ],
-  "compieta": [
-    "kompjeta"
-  ],
-  "compiete": [
-    "kompjete"
-  ],
-  "compilare": [
-    "kompilare"
-  ],
-  "compilato": [
-    "kompilato"
-  ],
-  "compilatore": [
-    "kompilatore"
-  ],
-  "compilatori": [
-    "kompilatori"
-  ],
-  "compilatrice": [
-    "kompilatritʃe"
-  ],
-  "compilatrici": [
-    "kompilatritʃi"
-  ],
-  "compilazione": [
-    "kompilatːsjone"
-  ],
-  "compimenti": [
-    "kompimenti"
-  ],
-  "compimento": [
-    "kompimento"
-  ],
-  "compire": [
-    "kompire"
-  ],
-  "compitare": [
-    "kompitare"
-  ],
-  "compitazione": [
-    "kompitatːsjone"
-  ],
-  "compitazioni": [
-    "kompitatːsjoni"
-  ],
-  "compitezza": [
-    "kompitetːsa"
-  ],
-  "compiti": [
-    "kompiti",
-    "kɔmpiti"
-  ],
-  "compito": [
-    "kompito",
-    "kɔmpitɔ"
-  ],
-  "compiuta": [
-    "kompjuta"
-  ],
-  "compiutamente": [
-    "kompjutamente"
-  ],
-  "compiute": [
-    "kompjute"
-  ],
-  "compiutezza": [
-    "kompjutetːsa"
-  ],
-  "compiutezze": [
-    "kompjutetːse"
-  ],
-  "compiuti": [
-    "kompjuti",
-    "kompjuto"
-  ],
-  "compiuto": [
-    "kompjuto"
-  ],
-  "complanare": [
-    "komplanare"
-  ],
-  "compleanni": [
-    "kompleanːi",
-    "kɔmplɛanːi"
-  ],
-  "compleanno": [
-    "kompleanːo",
-    "kɔmplɛanːo"
-  ],
-  "complementare": [
-    "komplementare"
-  ],
-  "complementari": [
-    "komplementari"
-  ],
-  "complementarità": [
-    "komplementarita"
-  ],
-  "complementarmente": [
-    "komplementarmente"
-  ],
-  "complementi": [
-    "komplementi"
-  ],
-  "complemento": [
-    "komplemento"
-  ],
-  "complessante": [
-    "komplesːante"
-  ],
-  "complessanti": [
-    "komplesːanti"
-  ],
-  "complessare": [
-    "komplesːare"
-  ],
-  "complessato": [
-    "komplesːato"
-  ],
-  "complessazione": [
-    "komplesːatːsjone"
-  ],
-  "complessazioni": [
-    "komplesːatːsjoni"
-  ],
-  "complessificare": [
-    "komplesːifikare"
-  ],
-  "complessione": [
-    "komplesːjone"
-  ],
-  "complessità": [
-    "komplesːita"
-  ],
-  "complessivamente": [
-    "komplesːivamente"
-  ],
-  "complessivo": [
-    "komplesːivo"
-  ],
-  "complesso": [
-    "komplɛsːo"
-  ],
-  "complessometria": [
-    "komplɛsːometria"
-  ],
-  "completa": [
-    "komplɛta"
-  ],
-  "completabile": [
-    "kompletabile"
-  ],
-  "completabili": [
-    "kompletabili"
-  ],
-  "completai": [
-    "kompletai"
-  ],
-  "completamente": [
-    "kompletamente",
-    "komplɛtamente"
-  ],
-  "completamenti": [
-    "kompletamenti"
-  ],
-  "completamento": [
-    "kompletamento"
-  ],
-  "completammo": [
-    "kompletamːo"
-  ],
-  "completando": [
-    "kompletando"
-  ],
-  "completano": [
-    "kompletano"
-  ],
-  "completante": [
-    "kompletante"
-  ],
-  "completare": [
-    "kompletare"
-  ],
-  "completarono": [
-    "kompletarono"
-  ],
-  "completasse": [
-    "kompletasːe"
-  ],
-  "completassero": [
-    "kompletasːero"
-  ],
-  "completassi": [
-    "kompletasːi"
-  ],
-  "completassimo": [
-    "kompletasːimo"
-  ],
-  "completaste": [
-    "kompletaste"
-  ],
-  "completasti": [
-    "kompletasti"
-  ],
-  "completata": [
-    "kompletata"
-  ],
-  "completate": [
-    "kompletate"
-  ],
-  "completati": [
-    "kompletati"
-  ],
-  "completato": [
-    "kompletato"
-  ],
-  "completava": [
-    "kompletava"
-  ],
-  "completavamo": [
-    "kompletavamo"
-  ],
-  "completavano": [
-    "kompletavano"
-  ],
-  "completavate": [
-    "kompletavate"
-  ],
-  "completavi": [
-    "kompletavi"
-  ],
-  "completavo": [
-    "kompletavo"
-  ],
-  "complete": [
-    "komplɛte"
-  ]
+  "columella": "ko",
+  "coluro": "koluro",
+  "colussi": "kolusːi",
+  "colza": "kɔltsa",
+  "coma": "kɔma",
+  "comandamenti": "komandamenti",
+  "comandamento": "komandamento",
+  "comandante": "komandante",
+  "comandanti": "komandanti",
+  "comandare": "komandare",
+  "comandato": "komandato",
+  "comandi": "komandi",
+  "comando": "komando",
+  "comando_2": "kɔmando",
+  "comando_3": "kɔmandɔ",
+  "comare": "komare",
+  "comare_2": "kɔmare",
+  "comasco": "komasko",
+  "comatoso": "komatozo",
+  "combaciare": "kombatʃare",
+  "combattendo": "kombatːɛndo",
+  "combattente": "kombatːente",
+  "combattente_2": "kombatːɛnte",
+  "combattere": "kombatːere",
+  "combattimenti": "kombatːimenti",
+  "combattimento": "kombatːimento",
+  "combattivo": "kombatːivo",
+  "combattuto": "kombatːuto",
+  "combinabile": "kombinabile",
+  "combinabili": "kombinabili",
+  "combinando": "kombinando",
+  "combinando_2": "kɔmbinando",
+  "combinante": "kɔmbinante",
+  "combinare": "kombinare",
+  "combinare_2": "kɔmbinare",
+  "combinarsi": "kombinarsi",
+  "combinarsi_2": "kɔmbinarsi",
+  "combinata": "kombinata",
+  "combinato": "kombinato",
+  "combinato_2": "kɔmbinato",
+  "combinatorio": "kombinatɔrjo",
+  "combinazione": "kombinatːsjone",
+  "combinazioni": "kombinatːsjoni",
+  "combino": "kombino",
+  "combriccola": "kombrikːola",
+  "comburente": "komburente",
+  "comburente_2": "komburɛnte",
+  "comburenti": "komburenti",
+  "comburere": "komburere",
+  "combustibile": "kombustibile",
+  "combustibili": "kombustibili",
+  "combustibilità": "kombustibilita",
+  "combustione": "kombustjone",
+  "combustioni": "kombustjone",
+  "combusto": "kombusto",
+  "come": "kome",
+  "comedo": "komɛdo",
+  "comedone": "komedone",
+  "comedoni": "komedoni",
+  "cometa": "kometa",
+  "comete": "komete",
+  "comfort": "komfort",
+  "comica": "kɔmika",
+  "comicamente": "komikamente",
+  "comiche": "kɔmike",
+  "comici": "kɔmitʃi",
+  "comicità": "komitʃita",
+  "comicizzare": "komitʃidːzare",
+  "comico": "kɔmiko",
+  "comignoli": "kominɲoli",
+  "comignolo": "kominɲolo",
+  "cominciante": "komintʃante",
+  "cominciare": "komintʃare",
+  "cominciato": "komintʃato",
+  "comitale": "komitale",
+  "comitati": "komitati",
+  "comitativo": "komitativo",
+  "comitato": "komitato",
+  "comitato_2": "komitatɔ",
+  "comitiva": "komitiva",
+  "comito": "kɔmito",
+  "comizio": "komitsio",
+  "comizio_2": "komitːsjo",
+  "comma": "komːa",
+  "comma_2": "kɔmːa",
+  "commando": "komːando",
+  "commedia": "komːɛdja",
+  "commediano": "komːɛdjano",
+  "commediante": "komːedjante",
+  "commedianti": "komːedjanti",
+  "commediare": "komːedjare",
+  "commedie": "komːɛdje",
+  "commedino": "komːɛdino",
+  "commediografo": "komːedjɔɡrafo",
+  "commemorare": "komːemorare",
+  "commemorato": "komːemorato",
+  "commemorazione": "komːemoratsjone",
+  "commemoro": "komːemoro",
+  "commendabile": "komːendabile",
+  "commendare": "komːendare",
+  "commendatizio": "komːendatitːsjo",
+  "commendatore": "komːendatore",
+  "commendevole": "komːendevole",
+  "commensurabile": "komːensurabile",
+  "commensurabili": "komːensurabili",
+  "commensurare": "komːensurare",
+  "commensurato": "komːensurato",
+  "commenta": "komːenta",
+  "commentabile": "komːentabile",
+  "commentabili": "komːentabili",
+  "commentai": "komːentai",
+  "commentammo": "komːentamːo",
+  "commentando": "komːentando",
+  "commentano": "komːentano",
+  "commentante": "komːentante",
+  "commentare": "komːentare",
+  "commentario": "komːentarjo",
+  "commentarono": "komːentarono",
+  "commentasse": "komːentasːe",
+  "commentassero": "komːentasːero",
+  "commentassi": "komːentasːi",
+  "commentassimo": "komːentasːimo",
+  "commentaste": "komːentaste",
+  "commentasti": "komːentasti",
+  "commentate": "komːentate",
+  "commentato": "komːentato",
+  "commentatore": "komːentatore",
+  "commentatori": "komːentatori",
+  "commentatrice": "komːentatritʃe",
+  "commentatrici": "komːentatritʃi",
+  "commentava": "komːentava",
+  "commentavamo": "komːentavamo",
+  "commentavano": "komːentavano",
+  "commentavate": "komːentavate",
+  "commentavi": "komːentavi",
+  "commentavo": "komːentavo",
+  "commenterà": "komːentera",
+  "commenterai": "komːenterai",
+  "commenteranno": "komːenteranːo",
+  "commenterebbe": "komːenterebːe",
+  "commenterebbero": "komːenterebːero",
+  "commenterei": "komːenterei",
+  "commenteremmo": "komːenteremːo",
+  "commenteremo": "komːenteremo",
+  "commentereste": "komːentereste",
+  "commenteresti": "komːenteresti",
+  "commenterete": "komːenterete",
+  "commenterò": "komːentero",
+  "commenti": "komːenti",
+  "commentiamo": "komːentjamo",
+  "commentiate": "komːentjate",
+  "commentino": "komːentino",
+  "commento": "komːento",
+  "commento_2": "komːɛnto",
+  "commentò": "komːento",
+  "commerci": "kɔmːɛrtʃi",
+  "commerciabile": "komːertʃabile",
+  "commerciabili": "komːertʃabili",
+  "commerciabilità": "komːertʃabilita",
+  "commerciale": "komːertʃale",
+  "commerciali": "komːertʃali",
+  "commercialista": "komːertʃalista",
+  "commercialistico": "komːertʃalistiko",
+  "commercializzabile": "komːertʃalidːzabile",
+  "commercializzabili": "komːertʃalidːzabili",
+  "commercializzante": "komːertʃalidːzante",
+  "commercializzare": "komːertʃalidːzare",
+  "commercializzato": "komːertʃalidːzato",
+  "commercialmente": "komːertʃalmente",
+  "commerciante": "komːertʃante",
+  "commercianti": "komːertʃante",
+  "commerciare": "komːertʃare",
+  "commercio": "komːɛrtʃo",
+  "commercio_2": "kɔmːɛrtʃɔ",
+  "commessa": "komːesːa",
+  "commesse": "komːesːe",
+  "commessi": "komːesːi",
+  "commesso": "komːesːo",
+  "commestibile": "komːestibile",
+  "commestibili": "komːestibili",
+  "commetta": "komːetːa",
+  "commettano": "komːetːano",
+  "commette": "komːetːe",
+  "commettemmo": "komːetːemːo",
+  "commettendo": "komːetːendo",
+  "commettente": "komːetːente",
+  "commetterà": "komːetːera",
+  "commetterai": "komːetːerai",
+  "commetteranno": "komːetːeranːo",
+  "commettere": "komːetːere",
+  "commetterebbe": "komːetːerebːe",
+  "commetterebbero": "komːetːerebːero",
+  "commetterei": "komːetːerei",
+  "commetteremmo": "komːetːeremːo",
+  "commetteremo": "komːetːeremo",
+  "commettereste": "komːetːereste",
+  "commetteresti": "komːetːeresti",
+  "commetterete": "komːetːerete",
+  "commetterò": "komːetːero",
+  "commettesse": "komːetːesːe",
+  "commettessero": "komːetːesːero",
+  "commettessi": "komːetːesːi",
+  "commettessimo": "komːetːesːimo",
+  "commetteste": "komːetːeste",
+  "commettesti": "komːetːesti",
+  "commettete": "komːetːete",
+  "commetteva": "komːetːeva",
+  "commettevamo": "komːetːevamo",
+  "commettevano": "komːetːevano",
+  "commettevate": "komːetːevate",
+  "commettevi": "komːetːevi",
+  "commettevo": "komːetːevo",
+  "commetti": "komːetːi",
+  "commettiamo": "komːetːjamo",
+  "commettiate": "komːetːjate",
+  "commetto": "komːetːo",
+  "commettono": "komːetːono",
+  "commiati": "komːjati",
+  "commiato": "komːjato",
+  "commilitone": "komːilitone",
+  "comminare": "komːinare",
+  "comminuto": "komːinuto",
+  "commise": "komːize",
+  "commiserare": "komːizerare",
+  "commiserazione": "komːizeratːsjone",
+  "commisero": "komːizero",
+  "commisi": "komːizi",
+  "commissari": "komːisːari",
+  "commissaria": "komːisːarja",
+  "commissariare": "komːisːarjare",
+  "commissariato": "komːisːarjato",
+  "commissarie": "komːisːarje",
+  "commissario": "komːisːarjo",
+  "commissionare": "komːisːionare",
+  "commissionare_2": "komːisːjonare",
+  "commissionario": "komːisːjonarjo",
+  "commissionato": "komːisːjonato",
+  "commissione": "komːisːjone",
+  "commistione": "komːistjone",
+  "commisto": "komːisto",
+  "commisurare": "komːizurare",
+  "commisurazione": "komːizuratsjone",
+  "committente": "komːitːɛnte",
+  "committenza": "komːitːɛntsa",
+  "commodoro": "komːodɔro",
+  "commosso": "komːɔsːo",
+  "commovente": "komːovɛnte",
+  "commoventi": "komːovɛnti",
+  "commozione": "komːotsjone",
+  "community": "komːuniti",
+  "commuovere": "komːwɔvere",
+  "commuoversi": "komːwɔversi",
+  "commutare": "komːutare",
+  "commutatore": "komːutatore",
+  "commutatrice": "komːutatritʃe",
+  "commutazione": "komːutatsjone",
+  "commutazioni": "komːutatsjoni",
+  "como": "komo",
+  "como_2": "kɔmo",
+  "comò": "komɔ",
+  "comoda": "kɔmoda",
+  "comodamente": "komodamente",
+  "comode": "kɔmode",
+  "comodi": "kɔmodi",
+  "comodino": "komodino",
+  "comodità": "komodita",
+  "comodo": "kɔmodo",
+  "comorbidità": "komorbidita",
+  "comore": "komore",
+  "comoriana": "komorjana",
+  "comoriane": "komorjane",
+  "comoriani": "komorjani",
+  "comoriano": "komorjano",
+  "compaginare": "kompadʒinare",
+  "compagine": "kompadʒine",
+  "compagna": "kompaɲɲa",
+  "compagne": "kompaɲɲe",
+  "compagni": "kompaɲɲi",
+  "compagnia": "kompaɲɲia",
+  "compagnie": "kompaɲie",
+  "compagno": "kompaɲɲo",
+  "compagnone": "kompaɲɲone",
+  "compalazzo": "kompalatːso",
+  "companatici": "kompanatitʃi",
+  "companatico": "kompanatiko",
+  "comparabile": "komparabile",
+  "comparabili": "komparabili",
+  "comparabilità": "komparabilita",
+  "comparabilmente": "komparabilmente",
+  "comparando": "komparando",
+  "comparare": "komparare",
+  "comparatamente": "komparatamente",
+  "comparativa": "komparativa",
+  "comparativamente": "komparativamente",
+  "comparative": "komparative",
+  "comparativi": "komparativi",
+  "comparativo": "komparativo",
+  "comparato": "komparato",
+  "comparazione": "komparatsjone",
+  "comparazione_2": "komparatːsjone",
+  "comparazioni": "komparatsjoni",
+  "compare": "kompare",
+  "compare_2": "kɔmpare",
+  "compari": "kɔmpari",
+  "comparire": "komparire",
+  "comparsa": "komparsa",
+  "comparse": "komparse",
+  "comparso": "komparso",
+  "compartecipante": "kompartetʃipante",
+  "compartecipare": "kompartetʃipare",
+  "compartecipazione": "kompartetʃipatːsjone",
+  "compartecipe": "kompartetʃipe",
+  "compartente": "kompartente",
+  "comparti": "komparti",
+  "compartimentazione": "kompartimentatsjone",
+  "compartimentazioni": "kompartimentatsjoni",
+  "compartimenti": "kompartimenti",
+  "compartimento": "kompartimento",
+  "compartire": "kompartire",
+  "compartito": "kompartito",
+  "comparto": "komparto",
+  "compassare": "kompasːare",
+  "compassatamente": "kompasːatamente",
+  "compassato": "kompasːato",
+  "compassi": "kompasːi",
+  "compassionare": "kompasːjonare",
+  "compassione": "kompasːjone",
+  "compassionevole": "kompasːjonevole",
+  "compassionevoli": "kompasːjonevoli",
+  "compassionevolmente": "kompasːjonevolmente",
+  "compassioni": "kompasːjoni",
+  "compasso": "kompasːo",
+  "compatibile": "kompatibile",
+  "compatibilità": "kompatibilita",
+  "compatibilmente": "kompatibilmente",
+  "compatimenti": "kompatimenti",
+  "compatimento": "kompatimento",
+  "compatire": "kompatire",
+  "compatirsi": "kompatirsi",
+  "compatriota": "kompatriɔta",
+  "compatriota_2": "kompatrita",
+  "compatriota_3": "kompatrjota",
+  "compatriote": "kompatriɔte",
+  "compatrioti": "kompatriɔti",
+  "compatrioti_2": "kompatriɔto",
+  "compatrioto": "kompatriɔto",
+  "compatta": "kompatːa",
+  "compattabile": "kompatːabile",
+  "compattabili": "kompatːabili",
+  "compattai": "kompatːai",
+  "compattammo": "kompatːamːo",
+  "compattando": "kompatːando",
+  "compattano": "kompatːano",
+  "compattante": "kompatːante",
+  "compattare": "kompatːare",
+  "compattarono": "kompatːarono",
+  "compattasse": "kompatːasːe",
+  "compattassero": "kompatːasːero",
+  "compattassi": "kompatːasːi",
+  "compattassimo": "kompatːasːimo",
+  "compattaste": "kompatːaste",
+  "compattasti": "kompatːasti",
+  "compattate": "kompatːate",
+  "compattato": "kompatːato",
+  "compattava": "kompatːava",
+  "compattavamo": "kompatːavamo",
+  "compattavano": "kompatːavano",
+  "compattavate": "kompatːavate",
+  "compattavi": "kompatːavi",
+  "compattavo": "kompatːavo",
+  "compattazione": "kompatːatːsjone",
+  "compattazioni": "kompatːatːsjoni",
+  "compatterà": "kompatːera",
+  "compatterai": "kompatːerai",
+  "compatteranno": "kompatːeranːo",
+  "compatterebbe": "kompatːerebːe",
+  "compatterebbero": "kompatːerebːero",
+  "compatterei": "kompatːerei",
+  "compatteremmo": "kompatːeremːo",
+  "compatteremo": "kompatːeremo",
+  "compattereste": "kompatːereste",
+  "compatteresti": "kompatːeresti",
+  "compatterete": "kompatːerete",
+  "compatterò": "kompatːero",
+  "compattezza": "kompatːetːsa",
+  "compattezze": "kompatːetːse",
+  "compatti": "kompatːi",
+  "compattiamo": "kompatːjamo",
+  "compattiate": "kompatːjate",
+  "compattificazione": "kompatːifikatːsjone",
+  "compattino": "kompatːino",
+  "compatto": "kompatːo",
+  "compattò": "kompatːo",
+  "compendiare": "kompendjare",
+  "compendio": "kompɛndjo",
+  "compenetrare": "kompenetrare",
+  "compenetrato": "kompenetrato",
+  "compenetrazione": "kompenetratːsjone",
+  "compenetrazioni": "kompenetratːsjoni",
+  "compensabile": "kompensabile",
+  "compensabili": "kompensabili",
+  "compensando": "kompensando",
+  "compensante": "kompensante",
+  "compensare": "kompensare",
+  "compensarsi": "kompensarsi",
+  "compensate": "kompensate",
+  "compensati": "kompensati",
+  "compensativo": "kompensativo",
+  "compensato": "kompensato",
+  "compensazione": "kompensatsjone",
+  "compenso": "kompɛnso",
+  "compera": "kompera",
+  "comperante": "komperante",
+  "comperare": "komperare",
+  "comperato": "komperato",
+  "compere": "kompere",
+  "comperi": "komperi",
+  "competente": "kompetɛnte",
+  "competentemente": "kompetentemente",
+  "competenti": "kompetɛnti",
+  "competenza": "kompetɛntsa",
+  "competere": "kompɛtere",
+  "competitiva": "kompetitiva",
+  "competitivamente": "kompetitivamente",
+  "competitive": "kompetitive",
+  "competitivi": "kompetitivi",
+  "competitività": "kompetitivita",
+  "competitivo": "kompetitivo",
+  "competitore": "kompetitore",
+  "competitori": "kompetitore",
+  "competitrice": "kompetitritʃe",
+  "competitrici": "kompetitritʃi",
+  "competizione": "kompetitsjone",
+  "competizioni": "kompetitsjoni",
+  "compiacenza": "kompjatʃɛntsa",
+  "compiacere": "kompjatʃere",
+  "compiacersi": "kompjatʃersi",
+  "compiacimento": "kompjatʃimento",
+  "compiaciuto": "kompjatʃuto",
+  "compiangere": "kompjandʒere",
+  "compiangersi": "kompjandʒersi",
+  "compianto": "kompjanto",
+  "compiere": "kompjere",
+  "compiere_2": "kɔmpjere",
+  "compiere_3": "kɔmpjɛre",
+  "compiersi": "kompjersi",
+  "compieta": "kompjeta",
+  "compiete": "kompjete",
+  "compilare": "kompilare",
+  "compilato": "kompilato",
+  "compilatore": "kompilatore",
+  "compilatori": "kompilatori",
+  "compilatrice": "kompilatritʃe",
+  "compilatrici": "kompilatritʃi",
+  "compilazione": "kompilatːsjone",
+  "compimenti": "kompimenti",
+  "compimento": "kompimento",
+  "compire": "kompire",
+  "compitare": "kompitare",
+  "compitazione": "kompitatːsjone",
+  "compitazioni": "kompitatːsjoni",
+  "compitezza": "kompitetːsa",
+  "compiti": "kompiti",
+  "compiti_2": "kɔmpiti",
+  "compito": "kompito",
+  "compito_2": "kɔmpitɔ",
+  "compiuta": "kompjuta",
+  "compiutamente": "kompjutamente",
+  "compiute": "kompjute",
+  "compiutezza": "kompjutetːsa",
+  "compiutezze": "kompjutetːse",
+  "compiuti": "kompjuti",
+  "compiuti_2": "kompjuto",
+  "compiuto": "kompjuto",
+  "complanare": "komplanare",
+  "compleanni": "kompleanːi",
+  "compleanni_2": "kɔmplɛanːi",
+  "compleanno": "kompleanːo",
+  "compleanno_2": "kɔmplɛanːo",
+  "complementare": "komplementare",
+  "complementari": "komplementari",
+  "complementarità": "komplementarita",
+  "complementarmente": "komplementarmente",
+  "complementi": "komplementi",
+  "complemento": "komplemento",
+  "complessante": "komplesːante",
+  "complessanti": "komplesːanti",
+  "complessare": "komplesːare",
+  "complessato": "komplesːato",
+  "complessazione": "komplesːatːsjone",
+  "complessazioni": "komplesːatːsjoni",
+  "complessificare": "komplesːifikare",
+  "complessione": "komplesːjone",
+  "complessità": "komplesːita",
+  "complessivamente": "komplesːivamente",
+  "complessivo": "komplesːivo",
+  "complesso": "komplɛsːo",
+  "complessometria": "komplɛsːometria",
+  "completa": "komplɛta",
+  "completabile": "kompletabile",
+  "completabili": "kompletabili",
+  "completai": "kompletai",
+  "completamente": "kompletamente",
+  "completamente_2": "komplɛtamente",
+  "completamenti": "kompletamenti",
+  "completamento": "kompletamento",
+  "completammo": "kompletamːo",
+  "completando": "kompletando",
+  "completano": "kompletano",
+  "completante": "kompletante",
+  "completare": "kompletare",
+  "completarono": "kompletarono",
+  "completasse": "kompletasːe",
+  "completassero": "kompletasːero",
+  "completassi": "kompletasːi",
+  "completassimo": "kompletasːimo",
+  "completaste": "kompletaste",
+  "completasti": "kompletasti",
+  "completata": "kompletata",
+  "completate": "kompletate",
+  "completati": "kompletati",
+  "completato": "kompletato",
+  "completava": "kompletava",
+  "completavamo": "kompletavamo",
+  "completavano": "kompletavano",
+  "completavate": "kompletavate",
+  "completavi": "kompletavi",
+  "completavo": "kompletavo",
+  "complete": "komplɛte"
 }

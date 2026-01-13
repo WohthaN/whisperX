@@ -1,1544 +1,544 @@
 {
-  "siamango": [
-    "siamanɡo",
-    "sjamanɡo"
-  ],
-  "siamese": [
-    "sjamese",
-    "sjameze"
-  ],
-  "siamo": [
-    "siamo",
-    "sjamo"
-  ],
-  "siano": [
-    "siano"
-  ],
-  "sibari": [
-    "sibari"
-  ],
-  "sibarita": [
-    "sibarita"
-  ],
-  "sibarite": [
-    "sibarite"
-  ],
-  "sibariti": [
-    "sibariti"
-  ],
-  "sibaritismo": [
-    "sibaritizmo"
-  ],
-  "siberia": [
-    "sibɛrja"
-  ],
-  "siberiana": [
-    "siberjana"
-  ],
-  "siberiane": [
-    "siberjane"
-  ],
-  "siberiano": [
-    "siberjano"
-  ],
-  "sibilante": [
-    "sibilante"
-  ],
-  "sibilanti": [
-    "sibilanti"
-  ],
-  "sibilare": [
-    "sibilare"
-  ],
-  "sibili": [
-    "sibili"
-  ],
-  "sibilla": [
-    "sibilːa"
-  ],
-  "sibille": [
-    "sibilːe"
-  ],
-  "sibillina": [
-    "sibilːina"
-  ],
-  "sibillinamente": [
-    "sibilːinamente"
-  ],
-  "sibilline": [
-    "sibilːine"
-  ],
-  "sibillini": [
-    "sibilːini"
-  ],
-  "sibillino": [
-    "sibilːino"
-  ],
-  "sibilo": [
-    "sibilo"
-  ],
-  "sica": [
-    "sika"
-  ],
-  "sicano": [
-    "sikano"
-  ],
-  "sicario": [
-    "sikario",
-    "sikarjo"
-  ],
-  "siccità": [
-    "sitːʃita"
-  ],
-  "sicilia": [
-    "sitʃilja"
-  ],
-  "sicilianismo": [
-    "sitʃiljanizmo"
-  ],
-  "sicilianità": [
-    "sitʃiljanita"
-  ],
-  "siciliano": [
-    "sitʃiljano"
-  ],
-  "sicofante": [
-    "sikofante"
-  ],
-  "sicofanti": [
-    "sikofanti"
-  ],
-  "sicomoro": [
-    "sikomɔro",
-    "sikɔmoro"
-  ],
-  "sicumera": [
-    "sikumɛra"
-  ],
-  "sicura": [
-    "sikura"
-  ],
-  "sicuramente": [
-    "sikuramente"
-  ],
-  "sicurasano": [
-    "sirakusano",
-    "sirakuzano"
-  ],
-  "sicure": [
-    "sikure"
-  ],
-  "sicurezza": [
-    "sikuretːsa",
-    "sikurɛtːsa"
-  ],
-  "sicurezze": [
-    "sikuretːse"
-  ],
-  "sicuri": [
-    "sikuri"
-  ],
-  "sicuro": [
-    "sikuro"
-  ],
-  "siderale": [
-    "siderale"
-  ],
-  "sidereo": [
-    "sidɛreo"
-  ],
-  "siderurgia": [
-    "siderurdʒia"
-  ],
-  "siderurgico": [
-    "siderurdʒiko"
-  ],
-  "sido": [
-    "sido"
-  ],
-  "sidri": [
-    "sidri"
-  ],
-  "sidro": [
-    "sidrɔ"
-  ],
-  "siemens": [
-    "sjemens"
-  ],
-  "siena": [
-    "sjɛna"
-  ],
-  "siepe": [
-    "sjɛpe"
-  ],
-  "siepista": [
-    "sjepista"
-  ],
-  "siepiste": [
-    "sjepiste"
-  ],
-  "siepisti": [
-    "sjepisti"
-  ],
-  "sieri": [
-    "sjɛri"
-  ],
-  "siero": [
-    "sjɛro"
-  ],
-  "sieroanafilassi": [
-    "sjeroanafilasːi"
-  ],
-  "sierodiagnosi": [
-    "sjerodiaɲɲozi"
-  ],
-  "sierologica": [
-    "sjerolɔdʒika"
-  ],
-  "sierologiche": [
-    "sjerolɔdʒike"
-  ],
-  "sierologici": [
-    "sjerolɔdʒitʃi"
-  ],
-  "sierologico": [
-    "sjerolɔdʒiko"
-  ],
-  "sieropositività": [
-    "sjeropozitivita"
-  ],
-  "sieroprofilassi": [
-    "sjeroprofilasːi"
-  ],
-  "sieroproteina": [
-    "sjeroproteina"
-  ],
-  "sieroso": [
-    "sjeroso",
-    "sjerozo"
-  ],
-  "sieroterapia": [
-    "sjeroterapia"
-  ],
-  "sierovaccinazione": [
-    "sjerovatːʃinatːsjone"
-  ],
-  "sierraleonese": [
-    "sjerːaleonese"
-  ],
-  "sierraleonesi": [
-    "sjerːaleonesi"
-  ],
-  "siesta": [
-    "sjesta"
-  ],
-  "siete": [
-    "siɛte",
-    "sjete",
-    "sjɛte"
-  ],
-  "siffatto": [
-    "sifːatːo"
-  ],
-  "siffredi": [
-    "sifːredi"
-  ],
-  "siffredo": [
-    "sifːredo"
-  ],
-  "sifilide": [
-    "sifilide"
-  ],
-  "sifilitico": [
-    "sifilitiko"
-  ],
-  "sifonatteri": [
-    "sifonatːeri"
-  ],
-  "sifone": [
-    "sifone"
-  ],
-  "sifrido": [
-    "sifrido"
-  ],
-  "sigaraia": [
-    "siɡaraja"
-  ],
-  "sigaraio": [
-    "siɡarajo"
-  ],
-  "sigaretta": [
-    "siɡaretːa"
-  ],
-  "sigarette": [
-    "siɡaretːe"
-  ],
-  "sigari": [
-    "siɡari"
-  ],
-  "sigaro": [
-    "siɡaro"
-  ],
-  "sigfredo": [
-    "siɡfredo"
-  ],
-  "sigfrido": [
-    "siɡfrido"
-  ],
-  "sigifredo": [
-    "sidʒifredo"
-  ],
-  "sigifrido": [
-    "sidʒifrido"
-  ],
-  "sigillante": [
-    "sidʒilːante"
-  ],
-  "sigillare": [
-    "sidʒilːare"
-  ],
-  "sigillato": [
-    "sidʒilːato"
-  ],
-  "sigillo": [
-    "sidʒilːo"
-  ],
-  "sigisfrido": [
-    "sidʒisfrido"
-  ],
-  "sigla": [
-    "siɡla"
-  ],
-  "sigma": [
-    "siɡma"
-  ],
-  "sigmacismo": [
-    "siɡmatʃizmo"
-  ],
-  "sigmatismo": [
-    "siɡmatizmo"
-  ],
-  "signacolo": [
-    "siɲɲakolo"
-  ],
-  "signaculo": [
-    "siɲɲakulo"
-  ],
-  "significante": [
-    "siɲɲifikante"
-  ],
-  "significanti": [
-    "siɲɲifikanti"
-  ],
-  "significanza": [
-    "siɲɲifikantsa"
-  ],
-  "significare": [
-    "siɲifikare",
-    "siɲɲifikare"
-  ],
-  "significati": [
-    "siɲɲifikati"
-  ],
-  "significativa": [
-    "siɲɲifikativa"
-  ],
-  "significativamente": [
-    "siɲɲifikativamente"
-  ],
-  "significative": [
-    "siɲɲifikative"
-  ],
-  "significativi": [
-    "siɲɲifikativi"
-  ],
-  "significatività": [
-    "siɲɲifikativita"
-  ],
-  "significativo": [
-    "siɲɲifikativo"
-  ],
-  "significato": [
-    "siɲifikato",
-    "siɲɲifikato"
-  ],
-  "significazione": [
-    "siɲɲifikatːsjone"
-  ],
-  "significhi": [
-    "siɲɲifiki"
-  ],
-  "signor": [
-    "siɲɲor"
-  ],
-  "signora": [
-    "siɲɲora",
-    "siɲora",
-    "siɲɔra"
-  ],
-  "signoraggi": [
-    "siɲɲoradːʒi"
-  ],
-  "signoraggio": [
-    "siɲɲoradːʒo"
-  ],
-  "signore": [
-    "siɲɲore",
-    "siɲore",
-    "siɲɔre"
-  ],
-  "signoreggiare": [
-    "siɲɲoredːʒare"
-  ],
-  "signori": [
-    "siɲɲori",
-    "siɲɔri"
-  ],
-  "signoria": [
-    "siɲɲoria"
-  ],
-  "signorile": [
-    "siɲɲorile"
-  ],
-  "signorilità": [
-    "siɲɲorilita"
-  ],
-  "signorilmente": [
-    "siɲɲorilmente"
-  ],
-  "signorina": [
-    "siɲɲorina",
-    "siɲɲɔrina",
-    "siɲorina"
-  ],
-  "signorine": [
-    "siɲɲorine",
-    "siɲorine"
-  ],
-  "signorinella": [
-    "siɲɲorinɛlːa"
-  ],
-  "signorinelle": [
-    "siɲɲorinɛlːe"
-  ],
-  "signorinetta": [
-    "siɲɲorinɛtːa"
-  ],
-  "signorinette": [
-    "siɲɲorinɛtːe"
-  ],
-  "signorotto": [
-    "siɲɲorɔtːo"
-  ],
-  "sii": [
-    "sii",
-    "sij"
-  ],
-  "silanolato": [
-    "silanolato"
-  ],
-  "silanolo": [
-    "silanɔlo"
-  ],
-  "silberolo": [
-    "silberɔlo"
-  ],
-  "sileno": [
-    "silɛno"
-  ],
-  "silente": [
-    "silɛnte"
-  ],
-  "silenti": [
-    "silɛnti"
-  ],
-  "silenzi": [
-    "silɛntsi"
-  ],
-  "silenziare": [
-    "silentsjare"
-  ],
-  "silenziario": [
-    "silentsjarjo"
-  ],
-  "silenziatore": [
-    "silentsjatore"
-  ],
-  "silenziatori": [
-    "silentsjatori"
-  ],
-  "silenzio": [
-    "silɛntsjo"
-  ],
-  "silenziosa": [
-    "silɛntsjɔza"
-  ],
-  "silenziosamente": [
-    "silentsjozamente"
-  ],
-  "silenziose": [
-    "silɛntsjɔze"
-  ],
-  "silenziosi": [
-    "silɛntsjɔzi"
-  ],
-  "silenziosissima": [
-    "silɛntsjɔzisima"
-  ],
-  "silenziosissime": [
-    "silɛntsjɔzisime"
-  ],
-  "silenziosissimi": [
-    "silɛntsjɔzisimi"
-  ],
-  "silenziosissimo": [
-    "silɛntsjɔzisimo"
-  ],
-  "silenzioso": [
-    "silentsjozo",
-    "silɛntsjɔzɔ"
-  ],
-  "silhouette": [
-    "siluet",
-    "silwɛt"
-  ],
-  "sili": [
-    "pɔmpili"
-  ],
-  "silicato": [
-    "silikato"
-  ],
-  "silice": [
-    "silitʃe"
-  ],
-  "silicea": [
-    "silitʃea"
-  ],
-  "silicee": [
-    "silitʃee"
-  ],
-  "silicei": [
-    "silitʃei"
-  ],
-  "siliceo": [
-    "silitʃeo"
-  ],
-  "silici": [
-    "silitʃi"
-  ],
-  "silicica": [
-    "silitʃika"
-  ],
-  "siliciche": [
-    "silitʃike"
-  ],
-  "silicici": [
-    "silitʃitʃi"
-  ],
-  "silicico": [
-    "silitʃiko"
-  ],
-  "silicio": [
-    "silitʃo"
-  ],
-  "silicone": [
-    "silikone"
-  ],
-  "siliconi": [
-    "silikoni"
-  ],
-  "silicosi": [
-    "silikɔzi"
-  ],
-  "silj": [
-    "sili"
-  ],
-  "silla": [
-    "silːa"
-  ],
-  "sillaba": [
-    "silːaba"
-  ],
-  "sillababile": [
-    "silːababile"
-  ],
-  "sillabare": [
-    "silːabare",
-    "silːabatsjone"
-  ],
-  "sillabari": [
-    "silːabari"
-  ],
-  "sillabario": [
-    "silːabario",
-    "silːabarjo"
-  ],
-  "sillabazione": [
-    "silːabatːsjone"
-  ],
-  "sillabe": [
-    "silːabe"
-  ],
-  "sillabica": [
-    "silːabika"
-  ],
-  "sillabiche": [
-    "silːabike"
-  ],
-  "sillabici": [
-    "silːabitʃi"
-  ],
-  "sillabico": [
-    "silːabiko"
-  ],
-  "silloge": [
-    "silːodʒe"
-  ],
-  "sillogismo": [
-    "silːodʒizmo"
-  ],
-  "silo": [
-    "silo"
-  ],
-  "silofaga": [
-    "silɔfaɡa"
-  ],
-  "silofaghe": [
-    "silɔfaɡe"
-  ],
-  "silofagi": [
-    "silɔfadʒi"
-  ],
-  "silofago": [
-    "ksilɔfaɡo",
-    "silɔfaɡo"
-  ],
-  "silofonista": [
-    "silofonista"
-  ],
-  "silofono": [
-    "silɔfono"
-  ],
-  "silogismo": [
-    "silodʒizmo"
-  ],
-  "silografia": [
-    "siloɡrafia"
-  ],
-  "silografo": [
-    "silɔɡrafo"
-  ],
-  "silurare": [
-    "silurare"
-  ],
-  "siluri": [
-    "siluri"
-  ],
-  "siluriano": [
-    "silurjano"
-  ],
-  "siluro": [
-    "siluro"
-  ],
-  "silvestre": [
-    "silvɛstre"
-  ],
-  "silvestro": [
-    "silvɛstro"
-  ],
-  "silvia": [
-    "silvja"
-  ],
-  "silvicoltore": [
-    "silvikɔltore"
-  ],
-  "silvicoltori": [
-    "silvikɔltori"
-  ],
-  "silvicoltrice": [
-    "silvikɔltritʃe"
-  ],
-  "silvicoltrici": [
-    "silvikɔltritʃi"
-  ],
-  "silvicoltura": [
-    "silvikoltura"
-  ],
-  "silvicolture": [
-    "silvikolture"
-  ],
-  "silvide": [
-    "silvide"
-  ],
-  "silvidi": [
-    "silvidi"
-  ],
-  "silvio": [
-    "silvjo"
-  ],
-  "simbionte": [
-    "simbiɔnte"
-  ],
-  "simbionti": [
-    "simbiɔnti"
-  ],
-  "simbiosi": [
-    "simbiɔzi"
-  ],
-  "simbiotica": [
-    "simbiɔtika"
-  ],
-  "simbioticamente": [
-    "simbiɔtikamente"
-  ],
-  "simbiotiche": [
-    "simbiɔtike"
-  ],
-  "simbiotici": [
-    "simbiɔtitʃi"
-  ],
-  "simbiotico": [
-    "simbiɔtiko"
-  ],
-  "simboleggiare": [
-    "simboledːʒare"
-  ],
-  "simboleggiato": [
-    "simboledːʒato"
-  ],
-  "simboli": [
-    "simboli"
-  ],
-  "simbolica": [
-    "simbɔlika"
-  ],
-  "simbolicamente": [
-    "simbolikamente"
-  ],
-  "simboliche": [
-    "simbɔlike"
-  ],
-  "simbolici": [
-    "simbɔlitʃi"
-  ],
-  "simbolicissima": [
-    "simbɔlitʃisːima"
-  ],
-  "simbolicissime": [
-    "simbɔlitʃisːime"
-  ],
-  "simbolicissimi": [
-    "simbɔlitʃisːimi"
-  ],
-  "simbolicissimo": [
-    "simbɔlitʃisːimo"
-  ],
-  "simbolico": [
-    "simbɔliko"
-  ],
-  "simbolismi": [
-    "simbolizmi"
-  ],
-  "simbolismo": [
-    "simbolizmo"
-  ],
-  "simbolista": [
-    "simbolista"
-  ],
-  "simboliste": [
-    "simboliste"
-  ],
-  "simbolisti": [
-    "simbolisti"
-  ],
-  "simbolo": [
-    "simbolo"
-  ],
-  "simbologia": [
-    "simbolodʒia"
-  ],
-  "simeone": [
-    "simeone"
-  ],
-  "simetria": [
-    "simetria"
-  ],
-  "simetrica": [
-    "simɛtrika"
-  ],
-  "simetricamente": [
-    "simetrikamente"
-  ],
-  "simetriche": [
-    "simɛtrike"
-  ],
-  "simetrici": [
-    "simɛtritʃi"
-  ],
-  "simetrico": [
-    "simɛtriko"
-  ],
-  "simetrie": [
-    "simetrie"
-  ],
-  "simigliare": [
-    "simiʎare"
-  ],
-  "similare": [
-    "similare"
-  ],
-  "simile": [
-    "simile"
-  ],
-  "simili": [
-    "simili"
-  ],
-  "similissima": [
-    "similisːima"
-  ],
-  "similissime": [
-    "similisːime"
-  ],
-  "similissimi": [
-    "similisːimi"
-  ],
-  "similissimo": [
-    "similisːimo"
-  ],
-  "similitudine": [
-    "similitudine"
-  ],
-  "similmente": [
-    "similmente"
-  ],
-  "similoro": [
-    "similɔro"
-  ],
-  "simmachia": [
-    "simːakja"
-  ],
-  "simmachie": [
-    "simːakje"
-  ],
-  "simmetria": [
-    "simːetria"
-  ],
-  "simmetrica": [
-    "simːɛtrika"
-  ],
-  "simmetricamente": [
-    "simːetrikamente"
-  ],
-  "simmetriche": [
-    "simːɛtrike"
-  ],
-  "simmetrici": [
-    "simːɛtritʃi"
-  ],
-  "simmetrico": [
-    "simːɛtriko"
-  ],
-  "simmetrie": [
-    "simːetrie"
-  ],
-  "simo": [
-    "simo"
-  ],
-  "simone": [
-    "simone"
-  ],
-  "simonia": [
-    "simonia"
-  ],
-  "simoniaco": [
-    "simoniako"
-  ],
-  "simpatia": [
-    "simpatia"
-  ],
-  "simpatica": [
-    "simpatika"
-  ],
-  "simpaticamente": [
-    "simpatikamente"
-  ],
-  "simpatiche": [
-    "simpatike"
-  ],
-  "simpatici": [
-    "simpatitʃi"
-  ],
-  "simpaticissima": [
-    "simpatitʃisːima"
-  ],
-  "simpaticissime": [
-    "simpatitʃisːime"
-  ],
-  "simpaticissimi": [
-    "simpatitʃisːimi"
-  ],
-  "simpaticissimo": [
-    "simpatitʃisːimo"
-  ],
-  "simpatico": [
-    "simpatiko"
-  ],
-  "simpaticone": [
-    "simpatikone"
-  ],
-  "simpaticoni": [
-    "simpatikoni"
-  ],
-  "simpatie": [
-    "simpatie"
-  ],
-  "simpatizza": [
-    "simpatidːza"
-  ],
-  "simpatizzai": [
-    "simpatidːzai"
-  ],
-  "simpatizzammo": [
-    "simpatidːzamːo"
-  ],
-  "simpatizzando": [
-    "simpatidːzando"
-  ],
-  "simpatizzano": [
-    "simpatidːzano"
-  ],
-  "simpatizzante": [
-    "simpatidːzante"
-  ],
-  "simpatizzanti": [
-    "simpatidːzante",
-    "simpatidːzanti"
-  ],
-  "simpatizzare": [
-    "simpatidːzare"
-  ],
-  "simpatizzarono": [
-    "simpatidːzarono"
-  ],
-  "simpatizzasse": [
-    "simpatidːzasːe"
-  ],
-  "simpatizzassero": [
-    "simpatidːzasːero"
-  ],
-  "simpatizzassi": [
-    "simpatidːzasːi"
-  ],
-  "simpatizzassimo": [
-    "simpatidːzasːimo"
-  ],
-  "simpatizzaste": [
-    "simpatidːzaste"
-  ],
-  "simpatizzasti": [
-    "simpatidːzasti"
-  ],
-  "simpatizzata": [
-    "simpatidːzata"
-  ],
-  "simpatizzate": [
-    "simpatidːzate"
-  ],
-  "simpatizzati": [
-    "simpatidːzati"
-  ],
-  "simpatizzato": [
-    "simpatidːzato"
-  ],
-  "simpatizzava": [
-    "simpatidːzava"
-  ],
-  "simpatizzavamo": [
-    "simpatidːzavamo"
-  ],
-  "simpatizzavano": [
-    "simpatidːzavano"
-  ],
-  "simpatizzavate": [
-    "simpatidːzavate"
-  ],
-  "simpatizzavi": [
-    "simpatidːzavi"
-  ],
-  "simpatizzavo": [
-    "simpatidːzavo"
-  ],
-  "simpatizzerà": [
-    "simpatidːzera"
-  ],
-  "simpatizzerai": [
-    "simpatidːzerai"
-  ],
-  "simpatizzeranno": [
-    "simpatidːzeranːo"
-  ],
-  "simpatizzerebbe": [
-    "simpatidːzerebːe"
-  ],
-  "simpatizzerebbero": [
-    "simpatidːzerebːero"
-  ],
-  "simpatizzerei": [
-    "simpatidːzerei"
-  ],
-  "simpatizzeremmo": [
-    "simpatidːzeremːo"
-  ],
-  "simpatizzeremo": [
-    "simpatidːzeremo"
-  ],
-  "simpatizzereste": [
-    "simpatidːzereste"
-  ],
-  "simpatizzeresti": [
-    "simpatidːzeresti"
-  ],
-  "simpatizzerete": [
-    "simpatidːzerete"
-  ],
-  "simpatizzerò": [
-    "simpatidːzero"
-  ],
-  "simpatizzi": [
-    "simpatidːzi"
-  ],
-  "simpatizziamo": [
-    "simpatidːziamo"
-  ],
-  "simpatizziate": [
-    "simpatidːziate"
-  ],
-  "simpatizzino": [
-    "simpatidːzino"
-  ],
-  "simpatizzo": [
-    "simpatidːzo"
-  ],
-  "simpatizzò": [
-    "simpatidːzo"
-  ],
-  "simpatria": [
-    "simpatrja"
-  ],
-  "simpatrico": [
-    "simpatriko"
-  ],
-  "simplettico": [
-    "simplɛtːiko"
-  ],
-  "simplex": [
-    "simpleks"
-  ],
-  "simpodico": [
-    "simpɔdiko"
-  ],
-  "simposi": [
-    "simpɔzi"
-  ],
-  "simposio": [
-    "simpɔzjo"
-  ],
-  "simulabile": [
-    "simulabile"
-  ],
-  "simulabili": [
-    "simulabili"
-  ],
-  "simulacri": [
-    "simulakri"
-  ],
-  "simulacro": [
-    "simulakro"
-  ],
-  "simulare": [
-    "simulare"
-  ],
-  "simulata": [
-    "simulata"
-  ],
-  "simulate": [
-    "simulate"
-  ],
-  "simulati": [
-    "simulati"
-  ],
-  "simulato": [
-    "simulato"
-  ],
-  "simulatore": [
-    "simulatore"
-  ],
-  "simulatori": [
-    "simulatori"
-  ],
-  "simulatrice": [
-    "simulatritʃe"
-  ],
-  "simulatrici": [
-    "simulatritʃi"
-  ],
-  "simulazione": [
-    "simulatsjone",
-    "simulatːsjone"
-  ],
-  "simulazioni": [
-    "simulatsjone",
-    "simulatsjoni"
-  ],
-  "simultanea": [
-    "simultanea"
-  ],
-  "simultaneamente": [
-    "simultaneamente"
-  ],
-  "simultanee": [
-    "simultanee"
-  ],
-  "simultanei": [
-    "simultanei"
-  ],
-  "simultaneo": [
-    "simultaneo"
-  ],
-  "sinagoga": [
-    "sinaɡɔɡa"
-  ],
-  "sinalefe": [
-    "sinalɛfe"
-  ],
-  "sinallagma": [
-    "sinalːaɡma"
-  ],
-  "sinallagmaticità": [
-    "sinalːaɡmatitʃita"
-  ],
-  "sinallagmatico": [
-    "sinalːaɡmatiko"
-  ],
-  "sinangio": [
-    "sinandʒo"
-  ],
-  "sinantropi": [
-    "sinantropi"
-  ],
-  "sinantropismi": [
-    "sinantropizmi"
-  ],
-  "sinantropismo": [
-    "sinantropizmo"
-  ],
-  "sinantropo": [
-    "sinantropo"
-  ],
-  "sinapsi": [
-    "sinapsi"
-  ],
-  "sinaptico": [
-    "sinaptiko"
-  ],
-  "sincera": [
-    "sintʃɛra"
-  ],
-  "sinceramente": [
-    "sintʃeramente"
-  ],
-  "sincere": [
-    "sintʃɛre"
-  ],
-  "sinceri": [
-    "sintʃɛri"
-  ],
-  "sincerità": [
-    "sintʃerita"
-  ],
-  "sincero": [
-    "sintʃɛro"
-  ],
-  "sinché": [
-    "sinke"
-  ],
-  "sincizio": [
-    "sintʃitːsjo"
-  ],
-  "sincope": [
-    "siɲkope"
-  ],
-  "sincretismo": [
-    "sinkretizmo"
-  ],
-  "sincrociclotrone": [
-    "sinkrotʃiklotrone"
-  ],
-  "sincrociclotroni": [
-    "sinkrotʃiklotroni"
-  ],
-  "sincrona": [
-    "sinkrona"
-  ],
-  "sincrone": [
-    "sinkrone"
-  ],
-  "sincroni": [
-    "sinkroni"
-  ],
-  "sincronia": [
-    "sinkronia",
-    "siɲkronia"
-  ],
-  "sincronico": [
-    "inkrɔniko"
-  ],
-  "sincronie": [
-    "sinkronie",
-    "siɲkronie"
-  ],
-  "sincronismi": [
-    "sinkronismi",
-    "sinkronizmi",
-    "siɲkronizmi"
-  ],
-  "sincronismo": [
-    "sinkronizmo"
-  ],
-  "sincronizzabile": [
-    "sinkronidːzabile"
-  ],
-  "sincronizzabili": [
-    "sinkronidːzabili"
-  ],
-  "sincronizzare": [
-    "sinkronidːzare"
-  ],
-  "sincronizzato": [
-    "sinkronidːzato"
-  ],
-  "sincronizzazione": [
-    "sinkronidːzatsjone"
-  ],
-  "sincrono": [
-    "sinkrono"
-  ],
-  "sincrotrone": [
-    "sinkrotrone"
-  ],
-  "sincrotronico": [
-    "sinkrotrɔniko"
-  ],
-  "sindaca": [
-    "sindaka"
-  ],
-  "sindacalista": [
-    "sindakalista",
-    "sindikalista"
-  ],
-  "sindacaliste": [
-    "sindikaliste"
-  ],
-  "sindacalisti": [
-    "sindikalisti"
-  ],
-  "sindacalizzare": [
-    "sindakalidːzare"
-  ],
-  "sindacare": [
-    "sindakare"
-  ],
-  "sindacati": [
-    "sindakati"
-  ],
-  "sindacato": [
-    "sindakato"
-  ],
-  "sindache": [
-    "sindaka"
-  ],
-  "sindachessa": [
-    "sindakesːa"
-  ],
-  "sindaci": [
-    "sindatʃi"
-  ],
-  "sindaco": [
-    "sindako",
-    "sindakɔ"
-  ],
-  "sindesmologia": [
-    "sindɛmolodʒia"
-  ],
-  "sindesmologica": [
-    "sindɛmolodʒika"
-  ],
-  "sindesmologiche": [
-    "sindɛmolodʒike"
-  ],
-  "sindesmologici": [
-    "sindɛmolodʒitʃi"
-  ],
-  "sindesmologico": [
-    "sindɛmolɔdʒiko"
-  ],
-  "sindesmologie": [
-    "sindɛmolodʒie"
-  ],
-  "sindone": [
-    "sindone"
-  ],
-  "sindrome": [
-    "sindrome"
-  ],
-  "sindromi": [
-    "sindromi"
-  ],
-  "sinecie": [
-    "sinɛtʃe"
-  ],
-  "sinecologia": [
-    "sinekolodʒia"
-  ],
-  "sinecologica": [
-    "sinekolɔdʒika"
-  ],
-  "sinecologiche": [
-    "sinekolɔdʒike"
-  ],
-  "sinecologici": [
-    "sinekolɔdʒitʃi"
-  ],
-  "sinecologico": [
-    "sinekolɔdʒiko"
-  ],
-  "sinecologie": [
-    "sinekolodʒia"
-  ],
-  "sinecura": [
-    "sinekura"
-  ],
-  "sineddoche": [
-    "sinɛdːoke",
-    "sinɛdːoki"
-  ],
-  "sineddochi": [
-    "sinɛdːoki"
-  ],
-  "sinedrio": [
-    "sinɛdrjo"
-  ],
-  "sineresi": [
-    "sinɛrezi"
-  ],
-  "sinergia": [
-    "sinerdʒia"
-  ],
-  "sinestesia": [
-    "sinestezia"
-  ],
-  "sinestetico": [
-    "sinestɛtiko"
-  ],
-  "sinfalango": [
-    "sinfalanɡo"
-  ],
-  "sinfarosa": [
-    "sinfarosa",
-    "sinforosa"
-  ],
-  "sinfarose": [
-    "sinfarose"
-  ],
-  "sinfonia": [
-    "sinfonia"
-  ],
-  "sinfonica": [
-    "sinfɔnika"
-  ],
-  "sinfoniche": [
-    "sinfɔnike"
-  ],
-  "sinfonico": [
-    "sinfɔniko"
-  ],
-  "sinfonietta": [
-    "sinfonjɛtːa"
-  ],
-  "sinfonista": [
-    "sinfonista"
-  ],
-  "sinfoniste": [
-    "sinfoniste"
-  ],
-  "sinfonisti": [
-    "sinfonisti"
-  ],
-  "sinforosa": [
-    "sinforosa"
-  ],
-  "sinforose": [
-    "sinforose"
-  ],
-  "singalese": [
-    "sinɡalese",
-    "sinɡaleze"
-  ],
-  "singalesi": [
-    "sinɡalezi"
-  ],
-  "singaporiana": [
-    "ʃinɡaporjana"
-  ],
-  "singaporiane": [
-    "ʃinɡaporjane"
-  ],
-  "singaporiani": [
-    "ʃinɡaporjani"
-  ],
-  "singaporiano": [
-    "ʃinɡaporjano"
-  ],
-  "singapura": [
-    "ʃinɡapura"
-  ],
-  "singhiozzante": [
-    "sinɡjotːsante"
-  ],
-  "singhiozzanti": [
-    "sinɡjotːsanti"
-  ],
-  "singhiozzare": [
-    "sinɡjotːsare",
-    "siɲɡjotːsare"
-  ],
-  "singhiozzi": [
-    "sinɡjotːsi"
-  ],
-  "singhiozzo": [
-    "sinɡjotːso",
-    "sinɡjozzo"
-  ],
-  "single": [
-    "sinɡol"
-  ],
-  "singola": [
-    "sinɡola"
-  ],
-  "singolare": [
-    "sinɡolare",
-    "siɲɡolare"
-  ],
-  "singolari": [
-    "sinɡolari"
-  ],
-  "singolarità": [
-    "siɲɡolarita"
-  ],
-  "singolarmente": [
-    "sinɡolarmente"
-  ],
-  "singole": [
-    "sinɡole"
-  ],
-  "singoli": [
-    "sinɡoli"
-  ],
-  "singolissima": [
-    "sinɡolisːima"
-  ],
-  "singolissime": [
-    "sinɡolisːime"
-  ],
-  "singolissimi": [
-    "sinɡolisːimi"
-  ],
-  "singolissimo": [
-    "sinɡolisːimo"
-  ],
-  "singolo": [
-    "sinɡolo"
-  ],
-  "singulto": [
-    "sinɡulto"
-  ],
-  "siniscalco": [
-    "siniskalko"
-  ],
-  "sinistra": [
-    "sinistra"
-  ],
-  "sinistre": [
-    "sinistre"
-  ],
-  "sinistrismo": [
-    "sinistrizmo"
-  ],
-  "sinistro": [
-    "sinistro",
-    "sinistrɔ"
-  ],
-  "sinistrogiro": [
-    "sinistrodʒiro"
-  ],
-  "sinistroide": [
-    "sinistrɔjde"
-  ],
-  "sinistrorso": [
-    "sinistrɔrso"
-  ],
-  "sinizesi": [
-    "sinidːzɛzi"
-  ],
-  "sinizzazione": [
-    "sinidːzatsjone"
-  ],
-  "sino": [
-    "sino"
-  ],
-  "sinocentrismo": [
-    "sinotʃentrizmo"
-  ],
-  "sinodi": [
-    "sinodi"
-  ],
-  "sinodico": [
-    "sinɔdiko"
-  ],
-  "sinodo": [
-    "sinodo"
-  ],
-  "sinolo": [
-    "sinolo"
-  ],
-  "sinologa": [
-    "sinɔloɡa"
-  ],
-  "sinologhe": [
-    "sinɔloɡe"
-  ],
-  "sinologica": [
-    "sinolɔdʒika"
-  ],
-  "sinologiche": [
-    "sinolɔdʒike"
-  ],
-  "sinologici": [
-    "sinolɔdʒitʃi"
-  ],
-  "sinologico": [
-    "sinolɔdʒiko"
-  ],
-  "sinologo": [
-    "sinɔloɡo"
-  ],
-  "sinonima": [
-    "sinɔnima"
-  ],
-  "sinonime": [
-    "sinɔnime"
-  ],
-  "sinonimi": [
-    "sinɔnimi"
-  ]
+  "siamango": "siamanɡo",
+  "siamango_2": "sjamanɡo",
+  "siamese": "sjamese",
+  "siamese_2": "sjameze",
+  "siamo": "siamo",
+  "siamo_2": "sjamo",
+  "siano": "siano",
+  "sibari": "sibari",
+  "sibarita": "sibarita",
+  "sibarite": "sibarite",
+  "sibariti": "sibariti",
+  "sibaritismo": "sibaritizmo",
+  "siberia": "sibɛrja",
+  "siberiana": "siberjana",
+  "siberiane": "siberjane",
+  "siberiano": "siberjano",
+  "sibilante": "sibilante",
+  "sibilanti": "sibilanti",
+  "sibilare": "sibilare",
+  "sibili": "sibili",
+  "sibilla": "sibilːa",
+  "sibille": "sibilːe",
+  "sibillina": "sibilːina",
+  "sibillinamente": "sibilːinamente",
+  "sibilline": "sibilːine",
+  "sibillini": "sibilːini",
+  "sibillino": "sibilːino",
+  "sibilo": "sibilo",
+  "sica": "sika",
+  "sicano": "sikano",
+  "sicario": "sikario",
+  "sicario_2": "sikarjo",
+  "siccità": "sitːʃita",
+  "sicilia": "sitʃilja",
+  "sicilianismo": "sitʃiljanizmo",
+  "sicilianità": "sitʃiljanita",
+  "siciliano": "sitʃiljano",
+  "sicofante": "sikofante",
+  "sicofanti": "sikofanti",
+  "sicomoro": "sikomɔro",
+  "sicomoro_2": "sikɔmoro",
+  "sicumera": "sikumɛra",
+  "sicura": "sikura",
+  "sicuramente": "sikuramente",
+  "sicurasano": "sirakusano",
+  "sicurasano_2": "sirakuzano",
+  "sicure": "sikure",
+  "sicurezza": "sikuretːsa",
+  "sicurezza_2": "sikurɛtːsa",
+  "sicurezze": "sikuretːse",
+  "sicuri": "sikuri",
+  "sicuro": "sikuro",
+  "siderale": "siderale",
+  "sidereo": "sidɛreo",
+  "siderurgia": "siderurdʒia",
+  "siderurgico": "siderurdʒiko",
+  "sido": "sido",
+  "sidri": "sidri",
+  "sidro": "sidrɔ",
+  "siemens": "sjemens",
+  "siena": "sjɛna",
+  "siepe": "sjɛpe",
+  "siepista": "sjepista",
+  "siepiste": "sjepiste",
+  "siepisti": "sjepisti",
+  "sieri": "sjɛri",
+  "siero": "sjɛro",
+  "sieroanafilassi": "sjeroanafilasːi",
+  "sierodiagnosi": "sjerodiaɲɲozi",
+  "sierologica": "sjerolɔdʒika",
+  "sierologiche": "sjerolɔdʒike",
+  "sierologici": "sjerolɔdʒitʃi",
+  "sierologico": "sjerolɔdʒiko",
+  "sieropositività": "sjeropozitivita",
+  "sieroprofilassi": "sjeroprofilasːi",
+  "sieroproteina": "sjeroproteina",
+  "sieroso": "sjeroso",
+  "sieroso_2": "sjerozo",
+  "sieroterapia": "sjeroterapia",
+  "sierovaccinazione": "sjerovatːʃinatːsjone",
+  "sierraleonese": "sjerːaleonese",
+  "sierraleonesi": "sjerːaleonesi",
+  "siesta": "sjesta",
+  "siete": "siɛte",
+  "siete_2": "sjete",
+  "siete_3": "sjɛte",
+  "siffatto": "sifːatːo",
+  "siffredi": "sifːredi",
+  "siffredo": "sifːredo",
+  "sifilide": "sifilide",
+  "sifilitico": "sifilitiko",
+  "sifonatteri": "sifonatːeri",
+  "sifone": "sifone",
+  "sifrido": "sifrido",
+  "sigaraia": "siɡaraja",
+  "sigaraio": "siɡarajo",
+  "sigaretta": "siɡaretːa",
+  "sigarette": "siɡaretːe",
+  "sigari": "siɡari",
+  "sigaro": "siɡaro",
+  "sigfredo": "siɡfredo",
+  "sigfrido": "siɡfrido",
+  "sigifredo": "sidʒifredo",
+  "sigifrido": "sidʒifrido",
+  "sigillante": "sidʒilːante",
+  "sigillare": "sidʒilːare",
+  "sigillato": "sidʒilːato",
+  "sigillo": "sidʒilːo",
+  "sigisfrido": "sidʒisfrido",
+  "sigla": "siɡla",
+  "sigma": "siɡma",
+  "sigmacismo": "siɡmatʃizmo",
+  "sigmatismo": "siɡmatizmo",
+  "signacolo": "siɲɲakolo",
+  "signaculo": "siɲɲakulo",
+  "significante": "siɲɲifikante",
+  "significanti": "siɲɲifikanti",
+  "significanza": "siɲɲifikantsa",
+  "significare": "siɲifikare",
+  "significare_2": "siɲɲifikare",
+  "significati": "siɲɲifikati",
+  "significativa": "siɲɲifikativa",
+  "significativamente": "siɲɲifikativamente",
+  "significative": "siɲɲifikative",
+  "significativi": "siɲɲifikativi",
+  "significatività": "siɲɲifikativita",
+  "significativo": "siɲɲifikativo",
+  "significato": "siɲifikato",
+  "significato_2": "siɲɲifikato",
+  "significazione": "siɲɲifikatːsjone",
+  "significhi": "siɲɲifiki",
+  "signor": "siɲɲor",
+  "signora": "siɲɲora",
+  "signora_2": "siɲora",
+  "signora_3": "siɲɔra",
+  "signoraggi": "siɲɲoradːʒi",
+  "signoraggio": "siɲɲoradːʒo",
+  "signore": "siɲɲore",
+  "signore_2": "siɲore",
+  "signore_3": "siɲɔre",
+  "signoreggiare": "siɲɲoredːʒare",
+  "signori": "siɲɲori",
+  "signori_2": "siɲɔri",
+  "signoria": "siɲɲoria",
+  "signorile": "siɲɲorile",
+  "signorilità": "siɲɲorilita",
+  "signorilmente": "siɲɲorilmente",
+  "signorina": "siɲɲorina",
+  "signorina_2": "siɲɲɔrina",
+  "signorina_3": "siɲorina",
+  "signorine": "siɲɲorine",
+  "signorine_2": "siɲorine",
+  "signorinella": "siɲɲorinɛlːa",
+  "signorinelle": "siɲɲorinɛlːe",
+  "signorinetta": "siɲɲorinɛtːa",
+  "signorinette": "siɲɲorinɛtːe",
+  "signorotto": "siɲɲorɔtːo",
+  "sii": "sii",
+  "sii_2": "sij",
+  "silanolato": "silanolato",
+  "silanolo": "silanɔlo",
+  "silberolo": "silberɔlo",
+  "sileno": "silɛno",
+  "silente": "silɛnte",
+  "silenti": "silɛnti",
+  "silenzi": "silɛntsi",
+  "silenziare": "silentsjare",
+  "silenziario": "silentsjarjo",
+  "silenziatore": "silentsjatore",
+  "silenziatori": "silentsjatori",
+  "silenzio": "silɛntsjo",
+  "silenziosa": "silɛntsjɔza",
+  "silenziosamente": "silentsjozamente",
+  "silenziose": "silɛntsjɔze",
+  "silenziosi": "silɛntsjɔzi",
+  "silenziosissima": "silɛntsjɔzisima",
+  "silenziosissime": "silɛntsjɔzisime",
+  "silenziosissimi": "silɛntsjɔzisimi",
+  "silenziosissimo": "silɛntsjɔzisimo",
+  "silenzioso": "silentsjozo",
+  "silenzioso_2": "silɛntsjɔzɔ",
+  "silhouette": "siluet",
+  "silhouette_2": "silwɛt",
+  "sili": "pɔmpili",
+  "silicato": "silikato",
+  "silice": "silitʃe",
+  "silicea": "silitʃea",
+  "silicee": "silitʃee",
+  "silicei": "silitʃei",
+  "siliceo": "silitʃeo",
+  "silici": "silitʃi",
+  "silicica": "silitʃika",
+  "siliciche": "silitʃike",
+  "silicici": "silitʃitʃi",
+  "silicico": "silitʃiko",
+  "silicio": "silitʃo",
+  "silicone": "silikone",
+  "siliconi": "silikoni",
+  "silicosi": "silikɔzi",
+  "silj": "sili",
+  "silla": "silːa",
+  "sillaba": "silːaba",
+  "sillababile": "silːababile",
+  "sillabare": "silːabare",
+  "sillabare_2": "silːabatsjone",
+  "sillabari": "silːabari",
+  "sillabario": "silːabario",
+  "sillabario_2": "silːabarjo",
+  "sillabazione": "silːabatːsjone",
+  "sillabe": "silːabe",
+  "sillabica": "silːabika",
+  "sillabiche": "silːabike",
+  "sillabici": "silːabitʃi",
+  "sillabico": "silːabiko",
+  "silloge": "silːodʒe",
+  "sillogismo": "silːodʒizmo",
+  "silo": "silo",
+  "silofaga": "silɔfaɡa",
+  "silofaghe": "silɔfaɡe",
+  "silofagi": "silɔfadʒi",
+  "silofago": "ksilɔfaɡo",
+  "silofago_2": "silɔfaɡo",
+  "silofonista": "silofonista",
+  "silofono": "silɔfono",
+  "silogismo": "silodʒizmo",
+  "silografia": "siloɡrafia",
+  "silografo": "silɔɡrafo",
+  "silurare": "silurare",
+  "siluri": "siluri",
+  "siluriano": "silurjano",
+  "siluro": "siluro",
+  "silvestre": "silvɛstre",
+  "silvestro": "silvɛstro",
+  "silvia": "silvja",
+  "silvicoltore": "silvikɔltore",
+  "silvicoltori": "silvikɔltori",
+  "silvicoltrice": "silvikɔltritʃe",
+  "silvicoltrici": "silvikɔltritʃi",
+  "silvicoltura": "silvikoltura",
+  "silvicolture": "silvikolture",
+  "silvide": "silvide",
+  "silvidi": "silvidi",
+  "silvio": "silvjo",
+  "simbionte": "simbiɔnte",
+  "simbionti": "simbiɔnti",
+  "simbiosi": "simbiɔzi",
+  "simbiotica": "simbiɔtika",
+  "simbioticamente": "simbiɔtikamente",
+  "simbiotiche": "simbiɔtike",
+  "simbiotici": "simbiɔtitʃi",
+  "simbiotico": "simbiɔtiko",
+  "simboleggiare": "simboledːʒare",
+  "simboleggiato": "simboledːʒato",
+  "simboli": "simboli",
+  "simbolica": "simbɔlika",
+  "simbolicamente": "simbolikamente",
+  "simboliche": "simbɔlike",
+  "simbolici": "simbɔlitʃi",
+  "simbolicissima": "simbɔlitʃisːima",
+  "simbolicissime": "simbɔlitʃisːime",
+  "simbolicissimi": "simbɔlitʃisːimi",
+  "simbolicissimo": "simbɔlitʃisːimo",
+  "simbolico": "simbɔliko",
+  "simbolismi": "simbolizmi",
+  "simbolismo": "simbolizmo",
+  "simbolista": "simbolista",
+  "simboliste": "simboliste",
+  "simbolisti": "simbolisti",
+  "simbolo": "simbolo",
+  "simbologia": "simbolodʒia",
+  "simeone": "simeone",
+  "simetria": "simetria",
+  "simetrica": "simɛtrika",
+  "simetricamente": "simetrikamente",
+  "simetriche": "simɛtrike",
+  "simetrici": "simɛtritʃi",
+  "simetrico": "simɛtriko",
+  "simetrie": "simetrie",
+  "simigliare": "simiʎare",
+  "similare": "similare",
+  "simile": "simile",
+  "simili": "simili",
+  "similissima": "similisːima",
+  "similissime": "similisːime",
+  "similissimi": "similisːimi",
+  "similissimo": "similisːimo",
+  "similitudine": "similitudine",
+  "similmente": "similmente",
+  "similoro": "similɔro",
+  "simmachia": "simːakja",
+  "simmachie": "simːakje",
+  "simmetria": "simːetria",
+  "simmetrica": "simːɛtrika",
+  "simmetricamente": "simːetrikamente",
+  "simmetriche": "simːɛtrike",
+  "simmetrici": "simːɛtritʃi",
+  "simmetrico": "simːɛtriko",
+  "simmetrie": "simːetrie",
+  "simo": "simo",
+  "simone": "simone",
+  "simonia": "simonia",
+  "simoniaco": "simoniako",
+  "simpatia": "simpatia",
+  "simpatica": "simpatika",
+  "simpaticamente": "simpatikamente",
+  "simpatiche": "simpatike",
+  "simpatici": "simpatitʃi",
+  "simpaticissima": "simpatitʃisːima",
+  "simpaticissime": "simpatitʃisːime",
+  "simpaticissimi": "simpatitʃisːimi",
+  "simpaticissimo": "simpatitʃisːimo",
+  "simpatico": "simpatiko",
+  "simpaticone": "simpatikone",
+  "simpaticoni": "simpatikoni",
+  "simpatie": "simpatie",
+  "simpatizza": "simpatidːza",
+  "simpatizzai": "simpatidːzai",
+  "simpatizzammo": "simpatidːzamːo",
+  "simpatizzando": "simpatidːzando",
+  "simpatizzano": "simpatidːzano",
+  "simpatizzante": "simpatidːzante",
+  "simpatizzanti": "simpatidːzante",
+  "simpatizzanti_2": "simpatidːzanti",
+  "simpatizzare": "simpatidːzare",
+  "simpatizzarono": "simpatidːzarono",
+  "simpatizzasse": "simpatidːzasːe",
+  "simpatizzassero": "simpatidːzasːero",
+  "simpatizzassi": "simpatidːzasːi",
+  "simpatizzassimo": "simpatidːzasːimo",
+  "simpatizzaste": "simpatidːzaste",
+  "simpatizzasti": "simpatidːzasti",
+  "simpatizzata": "simpatidːzata",
+  "simpatizzate": "simpatidːzate",
+  "simpatizzati": "simpatidːzati",
+  "simpatizzato": "simpatidːzato",
+  "simpatizzava": "simpatidːzava",
+  "simpatizzavamo": "simpatidːzavamo",
+  "simpatizzavano": "simpatidːzavano",
+  "simpatizzavate": "simpatidːzavate",
+  "simpatizzavi": "simpatidːzavi",
+  "simpatizzavo": "simpatidːzavo",
+  "simpatizzerà": "simpatidːzera",
+  "simpatizzerai": "simpatidːzerai",
+  "simpatizzeranno": "simpatidːzeranːo",
+  "simpatizzerebbe": "simpatidːzerebːe",
+  "simpatizzerebbero": "simpatidːzerebːero",
+  "simpatizzerei": "simpatidːzerei",
+  "simpatizzeremmo": "simpatidːzeremːo",
+  "simpatizzeremo": "simpatidːzeremo",
+  "simpatizzereste": "simpatidːzereste",
+  "simpatizzeresti": "simpatidːzeresti",
+  "simpatizzerete": "simpatidːzerete",
+  "simpatizzerò": "simpatidːzero",
+  "simpatizzi": "simpatidːzi",
+  "simpatizziamo": "simpatidːziamo",
+  "simpatizziate": "simpatidːziate",
+  "simpatizzino": "simpatidːzino",
+  "simpatizzo": "simpatidːzo",
+  "simpatizzò": "simpatidːzo",
+  "simpatria": "simpatrja",
+  "simpatrico": "simpatriko",
+  "simplettico": "simplɛtːiko",
+  "simplex": "simpleks",
+  "simpodico": "simpɔdiko",
+  "simposi": "simpɔzi",
+  "simposio": "simpɔzjo",
+  "simulabile": "simulabile",
+  "simulabili": "simulabili",
+  "simulacri": "simulakri",
+  "simulacro": "simulakro",
+  "simulare": "simulare",
+  "simulata": "simulata",
+  "simulate": "simulate",
+  "simulati": "simulati",
+  "simulato": "simulato",
+  "simulatore": "simulatore",
+  "simulatori": "simulatori",
+  "simulatrice": "simulatritʃe",
+  "simulatrici": "simulatritʃi",
+  "simulazione": "simulatsjone",
+  "simulazione_2": "simulatːsjone",
+  "simulazioni": "simulatsjone",
+  "simulazioni_2": "simulatsjoni",
+  "simultanea": "simultanea",
+  "simultaneamente": "simultaneamente",
+  "simultanee": "simultanee",
+  "simultanei": "simultanei",
+  "simultaneo": "simultaneo",
+  "sinagoga": "sinaɡɔɡa",
+  "sinalefe": "sinalɛfe",
+  "sinallagma": "sinalːaɡma",
+  "sinallagmaticità": "sinalːaɡmatitʃita",
+  "sinallagmatico": "sinalːaɡmatiko",
+  "sinangio": "sinandʒo",
+  "sinantropi": "sinantropi",
+  "sinantropismi": "sinantropizmi",
+  "sinantropismo": "sinantropizmo",
+  "sinantropo": "sinantropo",
+  "sinapsi": "sinapsi",
+  "sinaptico": "sinaptiko",
+  "sincera": "sintʃɛra",
+  "sinceramente": "sintʃeramente",
+  "sincere": "sintʃɛre",
+  "sinceri": "sintʃɛri",
+  "sincerità": "sintʃerita",
+  "sincero": "sintʃɛro",
+  "sinché": "sinke",
+  "sincizio": "sintʃitːsjo",
+  "sincope": "siɲkope",
+  "sincretismo": "sinkretizmo",
+  "sincrociclotrone": "sinkrotʃiklotrone",
+  "sincrociclotroni": "sinkrotʃiklotroni",
+  "sincrona": "sinkrona",
+  "sincrone": "sinkrone",
+  "sincroni": "sinkroni",
+  "sincronia": "sinkronia",
+  "sincronia_2": "siɲkronia",
+  "sincronico": "inkrɔniko",
+  "sincronie": "sinkronie",
+  "sincronie_2": "siɲkronie",
+  "sincronismi": "sinkronismi",
+  "sincronismi_2": "sinkronizmi",
+  "sincronismi_3": "siɲkronizmi",
+  "sincronismo": "sinkronizmo",
+  "sincronizzabile": "sinkronidːzabile",
+  "sincronizzabili": "sinkronidːzabili",
+  "sincronizzare": "sinkronidːzare",
+  "sincronizzato": "sinkronidːzato",
+  "sincronizzazione": "sinkronidːzatsjone",
+  "sincrono": "sinkrono",
+  "sincrotrone": "sinkrotrone",
+  "sincrotronico": "sinkrotrɔniko",
+  "sindaca": "sindaka",
+  "sindacalista": "sindakalista",
+  "sindacalista_2": "sindikalista",
+  "sindacaliste": "sindikaliste",
+  "sindacalisti": "sindikalisti",
+  "sindacalizzare": "sindakalidːzare",
+  "sindacare": "sindakare",
+  "sindacati": "sindakati",
+  "sindacato": "sindakato",
+  "sindache": "sindaka",
+  "sindachessa": "sindakesːa",
+  "sindaci": "sindatʃi",
+  "sindaco": "sindako",
+  "sindaco_2": "sindakɔ",
+  "sindesmologia": "sindɛmolodʒia",
+  "sindesmologica": "sindɛmolodʒika",
+  "sindesmologiche": "sindɛmolodʒike",
+  "sindesmologici": "sindɛmolodʒitʃi",
+  "sindesmologico": "sindɛmolɔdʒiko",
+  "sindesmologie": "sindɛmolodʒie",
+  "sindone": "sindone",
+  "sindrome": "sindrome",
+  "sindromi": "sindromi",
+  "sinecie": "sinɛtʃe",
+  "sinecologia": "sinekolodʒia",
+  "sinecologica": "sinekolɔdʒika",
+  "sinecologiche": "sinekolɔdʒike",
+  "sinecologici": "sinekolɔdʒitʃi",
+  "sinecologico": "sinekolɔdʒiko",
+  "sinecologie": "sinekolodʒia",
+  "sinecura": "sinekura",
+  "sineddoche": "sinɛdːoke",
+  "sineddoche_2": "sinɛdːoki",
+  "sineddochi": "sinɛdːoki",
+  "sinedrio": "sinɛdrjo",
+  "sineresi": "sinɛrezi",
+  "sinergia": "sinerdʒia",
+  "sinestesia": "sinestezia",
+  "sinestetico": "sinestɛtiko",
+  "sinfalango": "sinfalanɡo",
+  "sinfarosa": "sinfarosa",
+  "sinfarosa_2": "sinforosa",
+  "sinfarose": "sinfarose",
+  "sinfonia": "sinfonia",
+  "sinfonica": "sinfɔnika",
+  "sinfoniche": "sinfɔnike",
+  "sinfonico": "sinfɔniko",
+  "sinfonietta": "sinfonjɛtːa",
+  "sinfonista": "sinfonista",
+  "sinfoniste": "sinfoniste",
+  "sinfonisti": "sinfonisti",
+  "sinforosa": "sinforosa",
+  "sinforose": "sinforose",
+  "singalese": "sinɡalese",
+  "singalese_2": "sinɡaleze",
+  "singalesi": "sinɡalezi",
+  "singaporiana": "ʃinɡaporjana",
+  "singaporiane": "ʃinɡaporjane",
+  "singaporiani": "ʃinɡaporjani",
+  "singaporiano": "ʃinɡaporjano",
+  "singapura": "ʃinɡapura",
+  "singhiozzante": "sinɡjotːsante",
+  "singhiozzanti": "sinɡjotːsanti",
+  "singhiozzare": "sinɡjotːsare",
+  "singhiozzare_2": "siɲɡjotːsare",
+  "singhiozzi": "sinɡjotːsi",
+  "singhiozzo": "sinɡjotːso",
+  "singhiozzo_2": "sinɡjozzo",
+  "single": "sinɡol",
+  "singola": "sinɡola",
+  "singolare": "sinɡolare",
+  "singolare_2": "siɲɡolare",
+  "singolari": "sinɡolari",
+  "singolarità": "siɲɡolarita",
+  "singolarmente": "sinɡolarmente",
+  "singole": "sinɡole",
+  "singoli": "sinɡoli",
+  "singolissima": "sinɡolisːima",
+  "singolissime": "sinɡolisːime",
+  "singolissimi": "sinɡolisːimi",
+  "singolissimo": "sinɡolisːimo",
+  "singolo": "sinɡolo",
+  "singulto": "sinɡulto",
+  "siniscalco": "siniskalko",
+  "sinistra": "sinistra",
+  "sinistre": "sinistre",
+  "sinistrismo": "sinistrizmo",
+  "sinistro": "sinistro",
+  "sinistro_2": "sinistrɔ",
+  "sinistrogiro": "sinistrodʒiro",
+  "sinistroide": "sinistrɔjde",
+  "sinistrorso": "sinistrɔrso",
+  "sinizesi": "sinidːzɛzi",
+  "sinizzazione": "sinidːzatsjone",
+  "sino": "sino",
+  "sinocentrismo": "sinotʃentrizmo",
+  "sinodi": "sinodi",
+  "sinodico": "sinɔdiko",
+  "sinodo": "sinodo",
+  "sinolo": "sinolo",
+  "sinologa": "sinɔloɡa",
+  "sinologhe": "sinɔloɡe",
+  "sinologica": "sinolɔdʒika",
+  "sinologiche": "sinolɔdʒike",
+  "sinologici": "sinolɔdʒitʃi",
+  "sinologico": "sinolɔdʒiko",
+  "sinologo": "sinɔloɡo",
+  "sinonima": "sinɔnima",
+  "sinonime": "sinɔnime",
+  "sinonimi": "sinɔnimi"
 }

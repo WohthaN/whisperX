@@ -1,1530 +1,530 @@
 {
-  "mercurico": [
-    "merkuriko"
-  ],
-  "mercurio": [
-    "merkurjo"
-  ],
-  "mercuroso": [
-    "merkuroso",
-    "merkurozo"
-  ],
-  "merda": [
-    "mɛrda"
-  ],
-  "merdaio": [
-    "merdajo"
-  ],
-  "merdoso": [
-    "merdoso",
-    "merdozo"
-  ],
-  "mere": [
-    "mɛre"
-  ],
-  "merenda": [
-    "merɛnda"
-  ],
-  "merende": [
-    "merɛnde"
-  ],
-  "merendina": [
-    "merendina"
-  ],
-  "meretrice": [
-    "meretritʃe"
-  ],
-  "meretrici": [
-    "meretritʃi"
-  ],
-  "meretricio": [
-    "meretritʃo"
-  ],
-  "mergente": [
-    "mɛrdʒente"
-  ],
-  "mergere": [
-    "mɛrdʒere"
-  ],
-  "meri": [
-    "mɛri"
-  ],
-  "meridiana": [
-    "meridjana"
-  ],
-  "meridiane": [
-    "meridjane"
-  ],
-  "meridiani": [
-    "meridjani"
-  ],
-  "meridiano": [
-    "meridjano"
-  ],
-  "meridionale": [
-    "meridjonale"
-  ],
-  "meridionali": [
-    "meridjonali"
-  ],
-  "meridionalista": [
-    "meridjonalista"
-  ],
-  "meridionalità": [
-    "meridjonalita"
-  ],
-  "meridionalizzare": [
-    "meridjɔnalitːsare"
-  ],
-  "meridione": [
-    "meridjone"
-  ],
-  "merigge": [
-    "meridːʒe"
-  ],
-  "meriggio": [
-    "meridːʒo"
-  ],
-  "meringa": [
-    "merinɡa"
-  ],
-  "merita": [
-    "merita"
-  ],
-  "meritare": [
-    "meritare",
-    "mɛritare"
-  ],
-  "meritata": [
-    "meritata"
-  ],
-  "meritatamente": [
-    "meritatamente"
-  ],
-  "meritate": [
-    "meritate"
-  ],
-  "meritati": [
-    "meritati"
-  ],
-  "meritato": [
-    "meritato"
-  ],
-  "meritevole": [
-    "meritevole"
-  ],
-  "meriti": [
-    "mɛriti"
-  ],
-  "merito": [
-    "mɛrito"
-  ],
-  "meritocrazia": [
-    "meritokratsia"
-  ],
-  "meritocrazie": [
-    "meritokratsie"
-  ],
-  "merivigliato": [
-    "meraviʎato"
-  ],
-  "merla": [
-    "mɛrla"
-  ],
-  "merlango": [
-    "merlanɡo"
-  ],
-  "merlano": [
-    "merlano",
-    "mɛrlano"
-  ],
-  "merlatura": [
-    "merlatura"
-  ],
-  "merlature": [
-    "merlature"
-  ],
-  "merle": [
-    "mɛrle"
-  ],
-  "merlettaia": [
-    "merlɛtːaja"
-  ],
-  "merlettaie": [
-    "merlɛtːaje"
-  ],
-  "merletti": [
-    "merletːi"
-  ],
-  "merletto": [
-    "merletːo"
-  ],
-  "merlo": [
-    "mɛrlo"
-  ],
-  "merlot": [
-    "merlo",
-    "merlɔt"
-  ],
-  "merlotto": [
-    "merlɔtːo"
-  ],
-  "merluzzi": [
-    "mɛrlutːsi"
-  ],
-  "merluzzo": [
-    "merlutːso",
-    "mɛrlutːso"
-  ],
-  "mero": [
-    "mɛro"
-  ],
-  "merocitario": [
-    "merotʃitarjo"
-  ],
-  "merocrina": [
-    "merokrina"
-  ],
-  "merocrine": [
-    "merokrine"
-  ],
-  "merocrini": [
-    "merokrini"
-  ],
-  "merocrino": [
-    "merokrino"
-  ],
-  "meroitico": [
-    "meroitiko"
-  ],
-  "merope": [
-    "mɛrope"
-  ],
-  "meropide": [
-    "merɔpide"
-  ],
-  "meropidi": [
-    "merɔpidi"
-  ],
-  "merovingi": [
-    "merovindʒi"
-  ],
-  "merovingia": [
-    "merovindʒa"
-  ],
-  "merovingie": [
-    "merovindʒe"
-  ],
-  "merovingio": [
-    "merovindʒo"
-  ],
-  "merto": [
-    "mɛrto"
-  ],
-  "mescalina": [
-    "meskalina"
-  ],
-  "meschiare": [
-    "meskjare"
-  ],
-  "meschina": [
-    "mɛskina"
-  ],
-  "meschinamente": [
-    "meskinamente"
-  ],
-  "meschine": [
-    "mɛskine"
-  ],
-  "meschini": [
-    "mɛskini"
-  ],
-  "meschino": [
-    "meskino",
-    "mɛskino"
-  ],
-  "mesciare": [
-    "meʃʃare"
-  ],
-  "mescita": [
-    "meʃʃita"
-  ],
-  "mesciuto": [
-    "meʃʃuto"
-  ],
-  "mescolamento": [
-    "meskolamento"
-  ],
-  "mescolante": [
-    "meskolante"
-  ],
-  "mescolanza": [
-    "meskolantsa"
-  ],
-  "mescolare": [
-    "meskolare"
-  ],
-  "mescolarsi": [
-    "meskolarsi"
-  ],
-  "mescolato": [
-    "meskolato"
-  ],
-  "mescolatore": [
-    "meskolatore"
-  ],
-  "mescolatori": [
-    "meskolatori"
-  ],
-  "mescolatrice": [
-    "meskolatritʃe"
-  ],
-  "mescolatrici": [
-    "meskolatritʃi"
-  ],
-  "mescuglio": [
-    "meskuʎo"
-  ],
-  "mese": [
-    "mese",
-    "meze"
-  ],
-  "mesitornitide": [
-    "mezitornitide"
-  ],
-  "mesitornitidi": [
-    "mezitornitidi"
-  ],
-  "mesiversario": [
-    "mesiversarjo",
-    "meziversarjo"
-  ],
-  "meso": [
-    "mɛzo"
-  ],
-  "mesogea": [
-    "mezodʒɛa"
-  ],
-  "mesolitico": [
-    "mezolitiko"
-  ],
-  "mesologia": [
-    "mezolodʒia"
-  ],
-  "mesologica": [
-    "mezolɔdʒika"
-  ],
-  "mesologiche": [
-    "mezolɔdʒike"
-  ],
-  "mesologici": [
-    "mezolɔdʒitʃi"
-  ],
-  "mesologico": [
-    "mezolɔdʒiko"
-  ],
-  "mesone": [
-    "mezone"
-  ],
-  "mesonefro": [
-    "mezonɛfro"
-  ],
-  "mesopotamia": [
-    "mezopotamja"
-  ],
-  "mesopotamico": [
-    "mezopotamiko"
-  ],
-  "mesosfera": [
-    "mezosfɛra"
-  ],
-  "mesosfere": [
-    "mezosfɛre"
-  ],
-  "mesoteli": [
-    "mezoteli"
-  ],
-  "mesotelio": [
-    "mezoteljo"
-  ],
-  "mesotelioma": [
-    "mezoteljoma"
-  ],
-  "mesoteliomi": [
-    "mezoteljomi"
-  ],
-  "mesotriassico": [
-    "mezotriasːiko"
-  ],
-  "mesozoico": [
-    "mezodːzɔjko"
-  ],
-  "mesozona": [
-    "mɛzodːzɔna"
-  ],
-  "messa": [
-    "mesːa"
-  ],
-  "messaggera": [
-    "mesːadːʒɛra"
-  ],
-  "messaggere": [
-    "mesːadːʒɛre"
-  ],
-  "messaggeri": [
-    "mesːadːʒɛri"
-  ],
-  "messaggeria": [
-    "mesːadːʒeria"
-  ],
-  "messaggerie": [
-    "mesːadːʒerie"
-  ],
-  "messaggero": [
-    "mesːadːʒɛro"
-  ],
-  "messaggi": [
-    "mesːadːʒi"
-  ],
-  "messaggiare": [
-    "mesːadːʒare"
-  ],
-  "messaggini": [
-    "mesːadːʒini"
-  ],
-  "messaggino": [
-    "mesːadːʒino"
-  ],
-  "messaggio": [
-    "mesːadːʒo"
-  ],
-  "messaggistica": [
-    "mesːadːʒistika"
-  ],
-  "messaggistiche": [
-    "mesːadːʒistika"
-  ],
-  "messale": [
-    "mesːale"
-  ],
-  "messapico": [
-    "mesːapiko"
-  ],
-  "messe": [
-    "mesːe",
-    "mɛsːe"
-  ],
-  "messer": [
-    "mesːɛr"
-  ],
-  "messere": [
-    "mesːɛre"
-  ],
-  "messi": [
-    "mesːi"
-  ],
-  "messia": [
-    "mesːia"
-  ],
-  "messianismo": [
-    "mesːianizmo"
-  ],
-  "messicana": [
-    "mesːikana"
-  ],
-  "messicane": [
-    "mesːikane"
-  ],
-  "messicani": [
-    "mesːikani"
-  ],
-  "messicano": [
-    "esːikano",
-    "mesːikano"
-  ],
-  "messico": [
-    "mɛsːiko"
-  ],
-  "messidoro": [
-    "mesːidɔro"
-  ],
-  "messina": [
-    "mesːina"
-  ],
-  "messinese": [
-    "mesːinese",
-    "mesːineze"
-  ],
-  "messinesi": [
-    "mesːinesi"
-  ],
-  "messinscena": [
-    "mesːinʃɛna"
-  ],
-  "messo": [
-    "mesːo"
-  ],
-  "mesta": [
-    "mɛsta"
-  ],
-  "mestamente": [
-    "mestamente"
-  ],
-  "meste": [
-    "mɛste"
-  ],
-  "mesti": [
-    "mɛsti"
-  ],
-  "mestica": [
-    "mɛstika"
-  ],
-  "mesticheria": [
-    "mestikeria"
-  ],
-  "mestierante": [
-    "mestjerante"
-  ],
-  "mestiere": [
-    "mestjɛre"
-  ],
-  "mestieri": [
-    "mestjɛri"
-  ],
-  "mestizia": [
-    "mestitːsja"
-  ],
-  "mesto": [
-    "mɛsto"
-  ],
-  "mestoli": [
-    "mestoli"
-  ],
-  "mestolo": [
-    "mestolo"
-  ],
-  "mestruale": [
-    "mestruale"
-  ],
-  "mestruali": [
-    "mestruali"
-  ],
-  "mestruazione": [
-    "mestruatsjone",
-    "mestruatːsjone"
-  ],
-  "mestruazioni": [
-    "mestruatsjoni"
-  ],
-  "mestruo": [
-    "mɛstruo"
-  ],
-  "meta": [
-    "meta",
-    "mɛta"
-  ],
-  "metà": [
-    "meta",
-    "mɛta"
-  ],
-  "metabisolfiti": [
-    "metabisolfiti"
-  ],
-  "metabisolfito": [
-    "metabisolfito"
-  ],
-  "metabole": [
-    "metabole"
-  ],
-  "metabolicamente": [
-    "metabolikamente"
-  ],
-  "metabolico": [
-    "metabɔliko"
-  ],
-  "metabolismi": [
-    "metabolizmi"
-  ],
-  "metabolismo": [
-    "metabolizmo"
-  ],
-  "metabolita": [
-    "metabolita"
-  ],
-  "metaboliti": [
-    "metaboliti"
-  ],
-  "metabolizzare": [
-    "metabolidːzare"
-  ],
-  "metacarpi": [
-    "metakarpi"
-  ],
-  "metacarpo": [
-    "metakarpo"
-  ],
-  "metacarta": [
-    "metakarta"
-  ],
-  "metacarte": [
-    "metakarte"
-  ],
-  "metacrilico": [
-    "metakriliko"
-  ],
-  "metadinamo": [
-    "metadinamo"
-  ],
-  "metadone": [
-    "metadone"
-  ],
-  "metadoni": [
-    "metadoni"
-  ],
-  "metafisica": [
-    "metafizika"
-  ],
-  "metafisicamente": [
-    "metafizikamente"
-  ],
-  "metafisicare": [
-    "metafizikare"
-  ],
-  "metafisiche": [
-    "metafizike"
-  ],
-  "metafisichi": [
-    "metafiziki"
-  ],
-  "metafisico": [
-    "metafiziko"
-  ],
-  "metafora": [
-    "metafora"
-  ],
-  "metafore": [
-    "metafore"
-  ],
-  "metaforicamente": [
-    "metaforikamente"
-  ],
-  "metaforico": [
-    "metafɔriko"
-  ],
-  "metaforizzato": [
-    "metaforidːzato"
-  ],
-  "metafosfati": [
-    "metafosfati"
-  ],
-  "metafosfato": [
-    "metafosfato"
-  ],
-  "metagalassia": [
-    "metaɡalasːja"
-  ],
-  "metagalattico": [
-    "metaɡalatːiko"
-  ],
-  "metalinguaggi": [
-    "metalinɡwadːʒi"
-  ],
-  "metalinguaggio": [
-    "metalinɡwadːʒo",
-    "mɛtalinɡwadːʒo"
-  ],
-  "metalinguistica": [
-    "mɛtalinɡwistika"
-  ],
-  "metalinguistico": [
-    "metalinɡwistiko"
-  ],
-  "metallescente": [
-    "metalːeʃʃɛnte"
-  ],
-  "metallescenti": [
-    "metalːeʃʃɛnti"
-  ],
-  "metalli": [
-    "metalːi"
-  ],
-  "metallico": [
-    "metalːiko"
-  ],
-  "metallifero": [
-    "metalːifero"
-  ],
-  "metallizzata": [
-    "metalːidːzata"
-  ],
-  "metallizzate": [
-    "metalːidːzate"
-  ],
-  "metallizzati": [
-    "metalːidːzati"
-  ],
-  "metallizzato": [
-    "metalːidːzato"
-  ],
-  "metallo": [
-    "metalːo"
-  ],
-  "metallocromia": [
-    "metalːomia"
-  ],
-  "metallocromie": [
-    "metalːomie"
-  ],
-  "metalloide": [
-    "metalːɔjde"
-  ],
-  "metalloscopia": [
-    "metalːoskopia"
-  ],
-  "metalloscopio": [
-    "metalːoskɔpjo"
-  ],
-  "metallotermia": [
-    "metalːotermia"
-  ],
-  "metallurgia": [
-    "metalːurdʒa",
-    "metalːurdʒia"
-  ],
-  "metallurgica": [
-    "metalːurdʒika"
-  ],
-  "metallurgiche": [
-    "metalːurdʒika",
-    "metalːurdʒike"
-  ],
-  "metallurgici": [
-    "metalːurdʒitʃi"
-  ],
-  "metallurgico": [
-    "metalːurdʒiko"
-  ],
-  "metallurgie": [
-    "metalːurdʒie"
-  ],
-  "metallurgista": [
-    "metalːurdʒista"
-  ],
-  "metallurgiste": [
-    "metalːurdʒiste"
-  ],
-  "metallurgisti": [
-    "metalːurdʒisti"
-  ],
-  "metallurgo": [
-    "metalːurɡo"
-  ],
-  "metalmeccanico": [
-    "metalmekːaniko"
-  ],
-  "metalogica": [
-    "metalɔdʒika"
-  ],
-  "metalogiche": [
-    "metalɔdʒike"
-  ],
-  "metalogici": [
-    "metalɔdʒitʃi"
-  ],
-  "metalogico": [
-    "metalɔdʒiko"
-  ],
-  "metalue": [
-    "metalue"
-  ],
-  "metamero": [
-    "metamero"
-  ],
-  "metamorfica": [
-    "metamɔrfika"
-  ],
-  "metamorfiche": [
-    "metamɔrfike"
-  ],
-  "metamorfici": [
-    "metamɔrfiki",
-    "metamɔrfitʃi"
-  ],
-  "metamorfico": [
-    "metamɔrfiko"
-  ],
-  "metamorfismo": [
-    "metamorfizmo"
-  ],
-  "metamorfosi": [
-    "metamɔrfozi"
-  ],
-  "metamorfosica": [
-    "metamorfɔsika"
-  ],
-  "metamorfosiche": [
-    "metamorfɔsike"
-  ],
-  "metamorfosici": [
-    "metamorfɔsitʃi"
-  ],
-  "metamorfosico": [
-    "metamorfɔsiko"
-  ],
-  "metanale": [
-    "metanale"
-  ],
-  "metanazione": [
-    "metanatːsjone"
-  ],
-  "metanazioni": [
-    "metanatːsjoni"
-  ],
-  "metanefro": [
-    "mɛtanɛfro"
-  ],
-  "metanfetamina": [
-    "metanfetamina"
-  ],
-  "metaniero": [
-    "metanjɛro"
-  ],
-  "metano": [
-    "metano"
-  ],
-  "metanodotto": [
-    "metanodotːo"
-  ],
-  "metanolati": [
-    "metanolati"
-  ],
-  "metanolato": [
-    "metanolate"
-  ],
-  "metanolo": [
-    "metanolo"
-  ],
-  "metaontologia": [
-    "metaontolodʒia"
-  ],
-  "metaontologica": [
-    "metaontolɔdʒika"
-  ],
-  "metaontologiche": [
-    "metaontolɔdʒike"
-  ],
-  "metaontologici": [
-    "metaontolɔdʒitʃi"
-  ],
-  "metaontologico": [
-    "metaontolɔdʒiko"
-  ],
-  "metaontologie": [
-    "metaontolodʒie"
-  ],
-  "metaplastico": [
-    "mɛtaplastiko"
-  ],
-  "metaprogrammazione": [
-    "metaproɡramːatsjone"
-  ],
-  "metaprogrammazioni": [
-    "metaproɡramːatsjoni"
-  ],
-  "metapsicologica": [
-    "metapsikolɔdʒika"
-  ],
-  "metapsicologiche": [
-    "metapsikolɔdʒike"
-  ],
-  "metapsicologici": [
-    "metapsikolɔdʒitʃi"
-  ],
-  "metapsicologico": [
-    "metapsikolɔdʒiko"
-  ],
-  "metasifilide": [
-    "mɛtasifilide"
-  ],
-  "metastabile": [
-    "metastabile"
-  ],
-  "metastabili": [
-    "metastabili"
-  ],
-  "metastabilità": [
-    "metastabilita"
-  ],
-  "metastasi": [
-    "metastazi"
-  ],
-  "metatarso": [
-    "metatarso"
-  ],
-  "metateri": [
-    "metatɛri"
-  ],
-  "metaterio": [
-    "metatɛrjo"
-  ],
-  "metazoi": [
-    "metadːzɔi"
-  ],
-  "metazoo": [
-    "metadzoo"
-  ],
-  "mete": [
-    "mɛte"
-  ],
-  "meteco": [
-    "metɛko"
-  ],
-  "metella": [
-    "metɛlːa"
-  ],
-  "metempirico": [
-    "metempiriko"
-  ],
-  "metempsicosi": [
-    "metempsikɔzi"
-  ],
-  "meteo": [
-    "mɛteo"
-  ],
-  "meteopatica": [
-    "meteopatika"
-  ],
-  "meteopatiche": [
-    "meteopatike"
-  ],
-  "meteopatici": [
-    "meteopatitʃi"
-  ],
-  "meteopatico": [
-    "meteopatiko"
-  ],
-  "meteora": [
-    "metɛora"
-  ],
-  "meteore": [
-    "metɛore"
-  ],
-  "meteorismi": [
-    "meteorizmi"
-  ],
-  "meteorismo": [
-    "meteorizmo"
-  ],
-  "meteorite": [
-    "meteorite"
-  ],
-  "meteoriti": [
-    "meteoriti"
-  ],
-  "meteorografo": [
-    "meteorɔɡrafo"
-  ],
-  "meteoroide": [
-    "meteorɔide",
-    "meteorɔjde"
-  ],
-  "meteoroidi": [
-    "meteorɔide"
-  ],
-  "meteorologa": [
-    "meteorɔloɡa"
-  ],
-  "meteorologhe": [
-    "meteorɔloɡa"
-  ],
-  "meteorologhi": [
-    "meteorɔloɡi"
-  ],
-  "meteorologi": [
-    "meteorɔlodʒ"
-  ],
-  "meteorologia": [
-    "meteorolodʒia"
-  ],
-  "meteorologica": [
-    "meteorolɔdʒika"
-  ],
-  "meteorologicamente": [
-    "meteorolodʒikamente"
-  ],
-  "meteorologiche": [
-    "meteorolɔdʒike"
-  ],
-  "meteorologici": [
-    "meteorolɔdʒitʃi"
-  ],
-  "meteorologico": [
-    "meteorolɔdʒiko"
-  ],
-  "meteorologie": [
-    "meteorolodʒie"
-  ],
-  "meteorologo": [
-    "meteorɔloɡo"
-  ],
-  "meteoropatia": [
-    "meteoropatia"
-  ],
-  "meteoropatica": [
-    "meteoropatika"
-  ],
-  "meteoropatiche": [
-    "meteoropatike"
-  ],
-  "meteoropatici": [
-    "meteoropatitʃi"
-  ],
-  "meteoropatico": [
-    "meteoropatiko"
-  ],
-  "metformina": [
-    "metformina"
-  ],
-  "meticci": [
-    "metitːʃi"
-  ],
-  "meticcia": [
-    "metitːʃa"
-  ],
-  "meticciamenti": [
-    "metitːʃamenti"
-  ],
-  "meticciamento": [
-    "metitːʃamento"
-  ],
-  "meticciato": [
-    "metitːʃato"
-  ],
-  "meticcio": [
-    "metitːʃo"
-  ],
-  "meticolosamente": [
-    "metikolosamente"
-  ],
-  "meticolosità": [
-    "metikolozita"
-  ],
-  "meticoloso": [
-    "metikoloso",
-    "metikolozo"
-  ],
-  "metilati": [
-    "metilati"
-  ],
-  "metilato": [
-    "metilato"
-  ],
-  "metilazione": [
-    "metilatːsjone"
-  ],
-  "metilcloruro": [
-    "metilkloruro"
-  ],
-  "metile": [
-    "metile"
-  ],
-  "metilene": [
-    "metilɛne"
-  ],
-  "metilferasi": [
-    "metilferazi"
-  ],
-  "metili": [
-    "metili"
-  ],
-  "metilica": [
-    "metilika"
-  ],
-  "metiliche": [
-    "metilike"
-  ],
-  "metilici": [
-    "metilitʃi"
-  ],
-  "metilico": [
-    "metiliko"
-  ],
-  "metilxantina": [
-    "metilksantina"
-  ],
-  "metionina": [
-    "metionina"
-  ],
-  "metodi": [
-    "mɛtodi"
-  ],
-  "metodicamente": [
-    "metodikamente"
-  ],
-  "metodico": [
-    "metɔdiko"
-  ],
-  "metodista": [
-    "metodista"
-  ],
-  "metodiste": [
-    "metodiste"
-  ],
-  "metodisti": [
-    "metodisti"
-  ],
-  "metodo": [
-    "mɛtodo"
-  ],
-  "metodologia": [
-    "metodolodʒia"
-  ],
-  "metodologica": [
-    "metodolɔdʒika"
-  ],
-  "metodologicamente": [
-    "metodolodʒikamente"
-  ],
-  "metodologiche": [
-    "metodolɔdʒike"
-  ],
-  "metodologici": [
-    "metodolɔdʒitʃi"
-  ],
-  "metodologico": [
-    "metodolɔdʒiko"
-  ],
-  "metodologista": [
-    "metodolodʒista"
-  ],
-  "metonimia": [
-    "metonimia",
-    "metonimja"
-  ],
-  "metonimicamente": [
-    "metonimikamente"
-  ],
-  "metonimico": [
-    "metonimiko"
-  ],
-  "metopa": [
-    "mɛtopa"
-  ],
-  "metoposcopia": [
-    "metoposkopia"
-  ],
-  "metraggi": [
-    "metradːʒi"
-  ],
-  "metraggio": [
-    "metradːʒo"
-  ],
-  "metratura": [
-    "metratura"
-  ],
-  "metri": [
-    "mɛtri"
-  ],
-  "metrica": [
-    "mɛtrika"
-  ],
-  "metricamente": [
-    "mɛtrikamente"
-  ],
-  "metriche": [
-    "mɛtrike"
-  ],
-  "metrici": [
-    "mɛtritʃi"
-  ],
-  "metrico": [
-    "mɛtriko"
-  ],
-  "metro": [
-    "mɛtro"
-  ],
-  "metrò": [
-    "metrɔ"
-  ],
-  "metrologia": [
-    "metrolodʒia"
-  ],
-  "metrologica": [
-    "metrolɔdʒika"
-  ],
-  "metrologiche": [
-    "metrolɔdʒike"
-  ],
-  "metrologici": [
-    "metrolɔdʒitʃi"
-  ],
-  "metrologico": [
-    "metrolɔdʒiko"
-  ],
-  "metronomo": [
-    "metrɔnomo"
-  ],
-  "metropoli": [
-    "metrɔpoli"
-  ],
-  "metropolitana": [
-    "metropolitana"
-  ],
-  "metropolitano": [
-    "metropolitano"
-  ],
-  "metropolizzazione": [
-    "metropolidːzatːsone"
-  ],
-  "metropolizzazioni": [
-    "metropolidːzatːsoni"
-  ],
-  "metroscopia": [
-    "metroskopia"
-  ],
-  "metrosessuale": [
-    "mɛtrosesːwale"
-  ],
-  "metta": [
-    "metːa"
-  ],
-  "mettano": [
-    "metːano"
-  ],
-  "mette": [
-    "metːe"
-  ],
-  "mettemmo": [
-    "metːemːo"
-  ],
-  "mettendo": [
-    "metːendo"
-  ],
-  "mettente": [
-    "metːente"
-  ],
-  "metterà": [
-    "metːera"
-  ],
-  "metterai": [
-    "metːerai"
-  ],
-  "metteranno": [
-    "metːeranːo"
-  ],
-  "mettere": [
-    "metːere"
-  ],
-  "metterebbe": [
-    "metːerebːe"
-  ],
-  "metterebbero": [
-    "metːerebːero"
-  ],
-  "metterei": [
-    "metːerei"
-  ],
-  "metteremmo": [
-    "metːeremːo"
-  ],
-  "metteremo": [
-    "metːeremo"
-  ],
-  "mettereste": [
-    "metːereste"
-  ],
-  "metteresti": [
-    "metːeresti"
-  ],
-  "metterete": [
-    "metːerete"
-  ],
-  "metterò": [
-    "metːero"
-  ],
-  "mettersi": [
-    "metːersi"
-  ],
-  "mettesse": [
-    "metːesːe"
-  ],
-  "mettessero": [
-    "metːesːero"
-  ],
-  "mettessi": [
-    "metːesːi"
-  ],
-  "mettessimo": [
-    "metːesːimo"
-  ],
-  "metteste": [
-    "metːeste"
-  ],
-  "mettesti": [
-    "metːesti"
-  ],
-  "mettete": [
-    "metːete"
-  ],
-  "metteva": [
-    "metːeva"
-  ],
-  "mettevamo": [
-    "metːevamo"
-  ],
-  "mettevano": [
-    "metːevano"
-  ],
-  "mettevate": [
-    "metːevate"
-  ],
-  "mettevi": [
-    "metːevi"
-  ],
-  "mettevo": [
-    "metːevo"
-  ],
-  "metti": [
-    "metːi"
-  ],
-  "mettiamo": [
-    "metːjamo"
-  ],
-  "mettiate": [
-    "metːjate"
-  ],
-  "metto": [
-    "metːo"
-  ],
-  "mettono": [
-    "metːono"
-  ],
-  "meve": [
-    "meve"
-  ],
-  "mezz’ora": [
-    "mɛtːsora"
-  ],
-  "mezz’ore": [
-    "mɛtːsore"
-  ],
-  "mezza": [
-    "mɛdːza"
-  ],
-  "mezzacartuccia": [
-    "mɛdːzakartutːʃa"
-  ],
-  "mezzadra": [
-    "medːzadra"
-  ],
-  "mezzadre": [
-    "medːzadre"
-  ],
-  "mezzadri": [
-    "medːzadri"
-  ],
-  "mezzadria": [
-    "medːzadria"
-  ],
-  "mezzadrie": [
-    "medːzadrie"
-  ],
-  "mezzadro": [
-    "medːzadro"
-  ],
-  "mezzalana": [
-    "mɛdːzalana"
-  ],
-  "mezzaluna": [
-    "mɛdːzaluna"
-  ],
-  "mezzanino": [
-    "medːzanino"
-  ],
-  "mezzanità": [
-    "medːzanita"
-  ],
-  "mezzano": [
-    "medːzano"
-  ],
-  "mezzanotte": [
-    "medːzanɔtːe"
-  ],
-  "mezzanotti": [
-    "medːzanɔtːi"
-  ],
-  "mezzasega": [
-    "mɛdːzaseɡa"
-  ],
-  "mezzatela": [
-    "mɛdːzatela"
-  ],
-  "mezzavela": [
-    "mɛdːzavela"
-  ],
-  "mezze": [
-    "mɛdːze"
-  ],
-  "mezzena": [
-    "medːzɛna"
-  ],
-  "mezzi": [
-    "mɛdːzi"
-  ],
-  "mezzo": [
-    "medːzo",
-    "mɛdːzo"
-  ],
-  "mezzobusto": [
-    "medːzobusto",
-    "mɛdːzobusto"
-  ],
-  "mezzofondista": [
-    "medːzofondista"
-  ],
-  "mezzofondiste": [
-    "medːzofondiste"
-  ],
-  "mezzofondisti": [
-    "medːzofondisti"
-  ],
-  "mezzofondo": [
-    "mɛdːzofondo"
-  ],
-  "mezzogiorni": [
-    "medːzodʒorni"
-  ],
-  "mezzogiorno": [
-    "medːzodʒorno"
-  ],
-  "mezzosangue": [
-    "medːzozaɲɡwe",
-    "mɛdːzosanɡwe"
-  ],
-  "mezzoservizio": [
-    "mɛdːzoservitːsjo"
-  ],
-  "mezzotitolo": [
-    "mɛdːzotitolo"
-  ],
-  "mezzotondo": [
-    "mɛdːzotondo"
-  ],
-  "mi": [
-    "mi"
-  ],
-  "mia": [
-    "mia"
-  ],
-  "miagolante": [
-    "mjaɡɔlante"
-  ],
-  "miagolanti": [
-    "mjaɡɔlanti"
-  ],
-  "miagolare": [
-    "mjaɡolare"
-  ],
-  "miagolato": [
-    "mjaɡɔlato"
-  ],
-  "miagolii": [
-    "mjaɡolii"
-  ],
-  "miagolio": [
-    "mjaɡolio"
-  ],
-  "miagolona": [
-    "mjaɡɔlona"
-  ],
-  "miagolone": [
-    "mjaɡɔlone"
-  ],
-  "miagoloni": [
-    "mjaɡɔloni"
-  ],
-  "miami": [
-    "majɛmi"
-  ],
-  "miao": [
-    "mjao"
-  ],
-  "miasma": [
-    "miazma",
-    "mjasma"
-  ],
-  "miasmatica": [
-    "mjasmatika"
-  ],
-  "miasmatiche": [
-    "mjasmatika"
-  ],
-  "miasmatici": [
-    "mjasmatika"
-  ],
-  "miasmatico": [
-    "mjasmatiko"
-  ],
-  "miasmi": [
-    "miazmi",
-    "mjasmi"
-  ],
-  "miau": [
-    "mjau"
-  ],
-  "miaulare": [
-    "mjaulare"
-  ],
-  "mica": [
-    "mika"
-  ],
-  "miccia": [
-    "mitːʃa"
-  ],
-  "micelio": [
-    "mitʃɛljo"
-  ],
-  "miceneo": [
-    "mitʃenɛo"
-  ],
-  "michea": [
-    "mikɛa"
-  ],
-  "michelangelo": [
-    "mikelandʒelo"
-  ],
-  "michelangiolesco": [
-    "mikelandʒolesko"
-  ],
-  "michele": [
-    "mikɛle"
-  ],
-  "michetta": [
-    "miketːa"
-  ],
-  "michigan": [
-    "miʃʃiɡan",
-    "mitʃiɡan"
-  ],
-  "micidiale": [
-    "mitʃidjale"
-  ],
-  "micidialmente": [
-    "mitʃidjalmente"
-  ],
-  "micidio": [
-    "mitʃidjo"
-  ],
-  "micio": [
-    "mitʃo"
-  ],
-  "miciona": [
-    "mitʃona"
-  ],
-  "micione": [
-    "mitʃone"
-  ],
-  "micodomazio": [
-    "mikodomatːsjo"
-  ]
+  "mercurico": "merkuriko",
+  "mercurio": "merkurjo",
+  "mercuroso": "merkuroso",
+  "mercuroso_2": "merkurozo",
+  "merda": "mɛrda",
+  "merdaio": "merdajo",
+  "merdoso": "merdoso",
+  "merdoso_2": "merdozo",
+  "mere": "mɛre",
+  "merenda": "merɛnda",
+  "merende": "merɛnde",
+  "merendina": "merendina",
+  "meretrice": "meretritʃe",
+  "meretrici": "meretritʃi",
+  "meretricio": "meretritʃo",
+  "mergente": "mɛrdʒente",
+  "mergere": "mɛrdʒere",
+  "meri": "mɛri",
+  "meridiana": "meridjana",
+  "meridiane": "meridjane",
+  "meridiani": "meridjani",
+  "meridiano": "meridjano",
+  "meridionale": "meridjonale",
+  "meridionali": "meridjonali",
+  "meridionalista": "meridjonalista",
+  "meridionalità": "meridjonalita",
+  "meridionalizzare": "meridjɔnalitːsare",
+  "meridione": "meridjone",
+  "merigge": "meridːʒe",
+  "meriggio": "meridːʒo",
+  "meringa": "merinɡa",
+  "merita": "merita",
+  "meritare": "meritare",
+  "meritare_2": "mɛritare",
+  "meritata": "meritata",
+  "meritatamente": "meritatamente",
+  "meritate": "meritate",
+  "meritati": "meritati",
+  "meritato": "meritato",
+  "meritevole": "meritevole",
+  "meriti": "mɛriti",
+  "merito": "mɛrito",
+  "meritocrazia": "meritokratsia",
+  "meritocrazie": "meritokratsie",
+  "merivigliato": "meraviʎato",
+  "merla": "mɛrla",
+  "merlango": "merlanɡo",
+  "merlano": "merlano",
+  "merlano_2": "mɛrlano",
+  "merlatura": "merlatura",
+  "merlature": "merlature",
+  "merle": "mɛrle",
+  "merlettaia": "merlɛtːaja",
+  "merlettaie": "merlɛtːaje",
+  "merletti": "merletːi",
+  "merletto": "merletːo",
+  "merlo": "mɛrlo",
+  "merlot": "merlo",
+  "merlot_2": "merlɔt",
+  "merlotto": "merlɔtːo",
+  "merluzzi": "mɛrlutːsi",
+  "merluzzo": "merlutːso",
+  "merluzzo_2": "mɛrlutːso",
+  "mero": "mɛro",
+  "merocitario": "merotʃitarjo",
+  "merocrina": "merokrina",
+  "merocrine": "merokrine",
+  "merocrini": "merokrini",
+  "merocrino": "merokrino",
+  "meroitico": "meroitiko",
+  "merope": "mɛrope",
+  "meropide": "merɔpide",
+  "meropidi": "merɔpidi",
+  "merovingi": "merovindʒi",
+  "merovingia": "merovindʒa",
+  "merovingie": "merovindʒe",
+  "merovingio": "merovindʒo",
+  "merto": "mɛrto",
+  "mescalina": "meskalina",
+  "meschiare": "meskjare",
+  "meschina": "mɛskina",
+  "meschinamente": "meskinamente",
+  "meschine": "mɛskine",
+  "meschini": "mɛskini",
+  "meschino": "meskino",
+  "meschino_2": "mɛskino",
+  "mesciare": "meʃʃare",
+  "mescita": "meʃʃita",
+  "mesciuto": "meʃʃuto",
+  "mescolamento": "meskolamento",
+  "mescolante": "meskolante",
+  "mescolanza": "meskolantsa",
+  "mescolare": "meskolare",
+  "mescolarsi": "meskolarsi",
+  "mescolato": "meskolato",
+  "mescolatore": "meskolatore",
+  "mescolatori": "meskolatori",
+  "mescolatrice": "meskolatritʃe",
+  "mescolatrici": "meskolatritʃi",
+  "mescuglio": "meskuʎo",
+  "mese": "mese",
+  "mese_2": "meze",
+  "mesitornitide": "mezitornitide",
+  "mesitornitidi": "mezitornitidi",
+  "mesiversario": "mesiversarjo",
+  "mesiversario_2": "meziversarjo",
+  "meso": "mɛzo",
+  "mesogea": "mezodʒɛa",
+  "mesolitico": "mezolitiko",
+  "mesologia": "mezolodʒia",
+  "mesologica": "mezolɔdʒika",
+  "mesologiche": "mezolɔdʒike",
+  "mesologici": "mezolɔdʒitʃi",
+  "mesologico": "mezolɔdʒiko",
+  "mesone": "mezone",
+  "mesonefro": "mezonɛfro",
+  "mesopotamia": "mezopotamja",
+  "mesopotamico": "mezopotamiko",
+  "mesosfera": "mezosfɛra",
+  "mesosfere": "mezosfɛre",
+  "mesoteli": "mezoteli",
+  "mesotelio": "mezoteljo",
+  "mesotelioma": "mezoteljoma",
+  "mesoteliomi": "mezoteljomi",
+  "mesotriassico": "mezotriasːiko",
+  "mesozoico": "mezodːzɔjko",
+  "mesozona": "mɛzodːzɔna",
+  "messa": "mesːa",
+  "messaggera": "mesːadːʒɛra",
+  "messaggere": "mesːadːʒɛre",
+  "messaggeri": "mesːadːʒɛri",
+  "messaggeria": "mesːadːʒeria",
+  "messaggerie": "mesːadːʒerie",
+  "messaggero": "mesːadːʒɛro",
+  "messaggi": "mesːadːʒi",
+  "messaggiare": "mesːadːʒare",
+  "messaggini": "mesːadːʒini",
+  "messaggino": "mesːadːʒino",
+  "messaggio": "mesːadːʒo",
+  "messaggistica": "mesːadːʒistika",
+  "messaggistiche": "mesːadːʒistika",
+  "messale": "mesːale",
+  "messapico": "mesːapiko",
+  "messe": "mesːe",
+  "messe_2": "mɛsːe",
+  "messer": "mesːɛr",
+  "messere": "mesːɛre",
+  "messi": "mesːi",
+  "messia": "mesːia",
+  "messianismo": "mesːianizmo",
+  "messicana": "mesːikana",
+  "messicane": "mesːikane",
+  "messicani": "mesːikani",
+  "messicano": "esːikano",
+  "messicano_2": "mesːikano",
+  "messico": "mɛsːiko",
+  "messidoro": "mesːidɔro",
+  "messina": "mesːina",
+  "messinese": "mesːinese",
+  "messinese_2": "mesːineze",
+  "messinesi": "mesːinesi",
+  "messinscena": "mesːinʃɛna",
+  "messo": "mesːo",
+  "mesta": "mɛsta",
+  "mestamente": "mestamente",
+  "meste": "mɛste",
+  "mesti": "mɛsti",
+  "mestica": "mɛstika",
+  "mesticheria": "mestikeria",
+  "mestierante": "mestjerante",
+  "mestiere": "mestjɛre",
+  "mestieri": "mestjɛri",
+  "mestizia": "mestitːsja",
+  "mesto": "mɛsto",
+  "mestoli": "mestoli",
+  "mestolo": "mestolo",
+  "mestruale": "mestruale",
+  "mestruali": "mestruali",
+  "mestruazione": "mestruatsjone",
+  "mestruazione_2": "mestruatːsjone",
+  "mestruazioni": "mestruatsjoni",
+  "mestruo": "mɛstruo",
+  "meta": "meta",
+  "meta_2": "mɛta",
+  "metà": "meta",
+  "metà_2": "mɛta",
+  "metabisolfiti": "metabisolfiti",
+  "metabisolfito": "metabisolfito",
+  "metabole": "metabole",
+  "metabolicamente": "metabolikamente",
+  "metabolico": "metabɔliko",
+  "metabolismi": "metabolizmi",
+  "metabolismo": "metabolizmo",
+  "metabolita": "metabolita",
+  "metaboliti": "metaboliti",
+  "metabolizzare": "metabolidːzare",
+  "metacarpi": "metakarpi",
+  "metacarpo": "metakarpo",
+  "metacarta": "metakarta",
+  "metacarte": "metakarte",
+  "metacrilico": "metakriliko",
+  "metadinamo": "metadinamo",
+  "metadone": "metadone",
+  "metadoni": "metadoni",
+  "metafisica": "metafizika",
+  "metafisicamente": "metafizikamente",
+  "metafisicare": "metafizikare",
+  "metafisiche": "metafizike",
+  "metafisichi": "metafiziki",
+  "metafisico": "metafiziko",
+  "metafora": "metafora",
+  "metafore": "metafore",
+  "metaforicamente": "metaforikamente",
+  "metaforico": "metafɔriko",
+  "metaforizzato": "metaforidːzato",
+  "metafosfati": "metafosfati",
+  "metafosfato": "metafosfato",
+  "metagalassia": "metaɡalasːja",
+  "metagalattico": "metaɡalatːiko",
+  "metalinguaggi": "metalinɡwadːʒi",
+  "metalinguaggio": "metalinɡwadːʒo",
+  "metalinguaggio_2": "mɛtalinɡwadːʒo",
+  "metalinguistica": "mɛtalinɡwistika",
+  "metalinguistico": "metalinɡwistiko",
+  "metallescente": "metalːeʃʃɛnte",
+  "metallescenti": "metalːeʃʃɛnti",
+  "metalli": "metalːi",
+  "metallico": "metalːiko",
+  "metallifero": "metalːifero",
+  "metallizzata": "metalːidːzata",
+  "metallizzate": "metalːidːzate",
+  "metallizzati": "metalːidːzati",
+  "metallizzato": "metalːidːzato",
+  "metallo": "metalːo",
+  "metallocromia": "metalːomia",
+  "metallocromie": "metalːomie",
+  "metalloide": "metalːɔjde",
+  "metalloscopia": "metalːoskopia",
+  "metalloscopio": "metalːoskɔpjo",
+  "metallotermia": "metalːotermia",
+  "metallurgia": "metalːurdʒa",
+  "metallurgia_2": "metalːurdʒia",
+  "metallurgica": "metalːurdʒika",
+  "metallurgiche": "metalːurdʒika",
+  "metallurgiche_2": "metalːurdʒike",
+  "metallurgici": "metalːurdʒitʃi",
+  "metallurgico": "metalːurdʒiko",
+  "metallurgie": "metalːurdʒie",
+  "metallurgista": "metalːurdʒista",
+  "metallurgiste": "metalːurdʒiste",
+  "metallurgisti": "metalːurdʒisti",
+  "metallurgo": "metalːurɡo",
+  "metalmeccanico": "metalmekːaniko",
+  "metalogica": "metalɔdʒika",
+  "metalogiche": "metalɔdʒike",
+  "metalogici": "metalɔdʒitʃi",
+  "metalogico": "metalɔdʒiko",
+  "metalue": "metalue",
+  "metamero": "metamero",
+  "metamorfica": "metamɔrfika",
+  "metamorfiche": "metamɔrfike",
+  "metamorfici": "metamɔrfiki",
+  "metamorfici_2": "metamɔrfitʃi",
+  "metamorfico": "metamɔrfiko",
+  "metamorfismo": "metamorfizmo",
+  "metamorfosi": "metamɔrfozi",
+  "metamorfosica": "metamorfɔsika",
+  "metamorfosiche": "metamorfɔsike",
+  "metamorfosici": "metamorfɔsitʃi",
+  "metamorfosico": "metamorfɔsiko",
+  "metanale": "metanale",
+  "metanazione": "metanatːsjone",
+  "metanazioni": "metanatːsjoni",
+  "metanefro": "mɛtanɛfro",
+  "metanfetamina": "metanfetamina",
+  "metaniero": "metanjɛro",
+  "metano": "metano",
+  "metanodotto": "metanodotːo",
+  "metanolati": "metanolati",
+  "metanolato": "metanolate",
+  "metanolo": "metanolo",
+  "metaontologia": "metaontolodʒia",
+  "metaontologica": "metaontolɔdʒika",
+  "metaontologiche": "metaontolɔdʒike",
+  "metaontologici": "metaontolɔdʒitʃi",
+  "metaontologico": "metaontolɔdʒiko",
+  "metaontologie": "metaontolodʒie",
+  "metaplastico": "mɛtaplastiko",
+  "metaprogrammazione": "metaproɡramːatsjone",
+  "metaprogrammazioni": "metaproɡramːatsjoni",
+  "metapsicologica": "metapsikolɔdʒika",
+  "metapsicologiche": "metapsikolɔdʒike",
+  "metapsicologici": "metapsikolɔdʒitʃi",
+  "metapsicologico": "metapsikolɔdʒiko",
+  "metasifilide": "mɛtasifilide",
+  "metastabile": "metastabile",
+  "metastabili": "metastabili",
+  "metastabilità": "metastabilita",
+  "metastasi": "metastazi",
+  "metatarso": "metatarso",
+  "metateri": "metatɛri",
+  "metaterio": "metatɛrjo",
+  "metazoi": "metadːzɔi",
+  "metazoo": "metadzoo",
+  "mete": "mɛte",
+  "meteco": "metɛko",
+  "metella": "metɛlːa",
+  "metempirico": "metempiriko",
+  "metempsicosi": "metempsikɔzi",
+  "meteo": "mɛteo",
+  "meteopatica": "meteopatika",
+  "meteopatiche": "meteopatike",
+  "meteopatici": "meteopatitʃi",
+  "meteopatico": "meteopatiko",
+  "meteora": "metɛora",
+  "meteore": "metɛore",
+  "meteorismi": "meteorizmi",
+  "meteorismo": "meteorizmo",
+  "meteorite": "meteorite",
+  "meteoriti": "meteoriti",
+  "meteorografo": "meteorɔɡrafo",
+  "meteoroide": "meteorɔide",
+  "meteoroide_2": "meteorɔjde",
+  "meteoroidi": "meteorɔide",
+  "meteorologa": "meteorɔloɡa",
+  "meteorologhe": "meteorɔloɡa",
+  "meteorologhi": "meteorɔloɡi",
+  "meteorologi": "meteorɔlodʒ",
+  "meteorologia": "meteorolodʒia",
+  "meteorologica": "meteorolɔdʒika",
+  "meteorologicamente": "meteorolodʒikamente",
+  "meteorologiche": "meteorolɔdʒike",
+  "meteorologici": "meteorolɔdʒitʃi",
+  "meteorologico": "meteorolɔdʒiko",
+  "meteorologie": "meteorolodʒie",
+  "meteorologo": "meteorɔloɡo",
+  "meteoropatia": "meteoropatia",
+  "meteoropatica": "meteoropatika",
+  "meteoropatiche": "meteoropatike",
+  "meteoropatici": "meteoropatitʃi",
+  "meteoropatico": "meteoropatiko",
+  "metformina": "metformina",
+  "meticci": "metitːʃi",
+  "meticcia": "metitːʃa",
+  "meticciamenti": "metitːʃamenti",
+  "meticciamento": "metitːʃamento",
+  "meticciato": "metitːʃato",
+  "meticcio": "metitːʃo",
+  "meticolosamente": "metikolosamente",
+  "meticolosità": "metikolozita",
+  "meticoloso": "metikoloso",
+  "meticoloso_2": "metikolozo",
+  "metilati": "metilati",
+  "metilato": "metilato",
+  "metilazione": "metilatːsjone",
+  "metilcloruro": "metilkloruro",
+  "metile": "metile",
+  "metilene": "metilɛne",
+  "metilferasi": "metilferazi",
+  "metili": "metili",
+  "metilica": "metilika",
+  "metiliche": "metilike",
+  "metilici": "metilitʃi",
+  "metilico": "metiliko",
+  "metilxantina": "metilksantina",
+  "metionina": "metionina",
+  "metodi": "mɛtodi",
+  "metodicamente": "metodikamente",
+  "metodico": "metɔdiko",
+  "metodista": "metodista",
+  "metodiste": "metodiste",
+  "metodisti": "metodisti",
+  "metodo": "mɛtodo",
+  "metodologia": "metodolodʒia",
+  "metodologica": "metodolɔdʒika",
+  "metodologicamente": "metodolodʒikamente",
+  "metodologiche": "metodolɔdʒike",
+  "metodologici": "metodolɔdʒitʃi",
+  "metodologico": "metodolɔdʒiko",
+  "metodologista": "metodolodʒista",
+  "metonimia": "metonimia",
+  "metonimia_2": "metonimja",
+  "metonimicamente": "metonimikamente",
+  "metonimico": "metonimiko",
+  "metopa": "mɛtopa",
+  "metoposcopia": "metoposkopia",
+  "metraggi": "metradːʒi",
+  "metraggio": "metradːʒo",
+  "metratura": "metratura",
+  "metri": "mɛtri",
+  "metrica": "mɛtrika",
+  "metricamente": "mɛtrikamente",
+  "metriche": "mɛtrike",
+  "metrici": "mɛtritʃi",
+  "metrico": "mɛtriko",
+  "metro": "mɛtro",
+  "metrò": "metrɔ",
+  "metrologia": "metrolodʒia",
+  "metrologica": "metrolɔdʒika",
+  "metrologiche": "metrolɔdʒike",
+  "metrologici": "metrolɔdʒitʃi",
+  "metrologico": "metrolɔdʒiko",
+  "metronomo": "metrɔnomo",
+  "metropoli": "metrɔpoli",
+  "metropolitana": "metropolitana",
+  "metropolitano": "metropolitano",
+  "metropolizzazione": "metropolidːzatːsone",
+  "metropolizzazioni": "metropolidːzatːsoni",
+  "metroscopia": "metroskopia",
+  "metrosessuale": "mɛtrosesːwale",
+  "metta": "metːa",
+  "mettano": "metːano",
+  "mette": "metːe",
+  "mettemmo": "metːemːo",
+  "mettendo": "metːendo",
+  "mettente": "metːente",
+  "metterà": "metːera",
+  "metterai": "metːerai",
+  "metteranno": "metːeranːo",
+  "mettere": "metːere",
+  "metterebbe": "metːerebːe",
+  "metterebbero": "metːerebːero",
+  "metterei": "metːerei",
+  "metteremmo": "metːeremːo",
+  "metteremo": "metːeremo",
+  "mettereste": "metːereste",
+  "metteresti": "metːeresti",
+  "metterete": "metːerete",
+  "metterò": "metːero",
+  "mettersi": "metːersi",
+  "mettesse": "metːesːe",
+  "mettessero": "metːesːero",
+  "mettessi": "metːesːi",
+  "mettessimo": "metːesːimo",
+  "metteste": "metːeste",
+  "mettesti": "metːesti",
+  "mettete": "metːete",
+  "metteva": "metːeva",
+  "mettevamo": "metːevamo",
+  "mettevano": "metːevano",
+  "mettevate": "metːevate",
+  "mettevi": "metːevi",
+  "mettevo": "metːevo",
+  "metti": "metːi",
+  "mettiamo": "metːjamo",
+  "mettiate": "metːjate",
+  "metto": "metːo",
+  "mettono": "metːono",
+  "meve": "meve",
+  "mezz’ora": "mɛtːsora",
+  "mezz’ore": "mɛtːsore",
+  "mezza": "mɛdːza",
+  "mezzacartuccia": "mɛdːzakartutːʃa",
+  "mezzadra": "medːzadra",
+  "mezzadre": "medːzadre",
+  "mezzadri": "medːzadri",
+  "mezzadria": "medːzadria",
+  "mezzadrie": "medːzadrie",
+  "mezzadro": "medːzadro",
+  "mezzalana": "mɛdːzalana",
+  "mezzaluna": "mɛdːzaluna",
+  "mezzanino": "medːzanino",
+  "mezzanità": "medːzanita",
+  "mezzano": "medːzano",
+  "mezzanotte": "medːzanɔtːe",
+  "mezzanotti": "medːzanɔtːi",
+  "mezzasega": "mɛdːzaseɡa",
+  "mezzatela": "mɛdːzatela",
+  "mezzavela": "mɛdːzavela",
+  "mezze": "mɛdːze",
+  "mezzena": "medːzɛna",
+  "mezzi": "mɛdːzi",
+  "mezzo": "medːzo",
+  "mezzo_2": "mɛdːzo",
+  "mezzobusto": "medːzobusto",
+  "mezzobusto_2": "mɛdːzobusto",
+  "mezzofondista": "medːzofondista",
+  "mezzofondiste": "medːzofondiste",
+  "mezzofondisti": "medːzofondisti",
+  "mezzofondo": "mɛdːzofondo",
+  "mezzogiorni": "medːzodʒorni",
+  "mezzogiorno": "medːzodʒorno",
+  "mezzosangue": "medːzozaɲɡwe",
+  "mezzosangue_2": "mɛdːzosanɡwe",
+  "mezzoservizio": "mɛdːzoservitːsjo",
+  "mezzotitolo": "mɛdːzotitolo",
+  "mezzotondo": "mɛdːzotondo",
+  "mi": "mi",
+  "mia": "mia",
+  "miagolante": "mjaɡɔlante",
+  "miagolanti": "mjaɡɔlanti",
+  "miagolare": "mjaɡolare",
+  "miagolato": "mjaɡɔlato",
+  "miagolii": "mjaɡolii",
+  "miagolio": "mjaɡolio",
+  "miagolona": "mjaɡɔlona",
+  "miagolone": "mjaɡɔlone",
+  "miagoloni": "mjaɡɔloni",
+  "miami": "majɛmi",
+  "miao": "mjao",
+  "miasma": "miazma",
+  "miasma_2": "mjasma",
+  "miasmatica": "mjasmatika",
+  "miasmatiche": "mjasmatika",
+  "miasmatici": "mjasmatika",
+  "miasmatico": "mjasmatiko",
+  "miasmi": "miazmi",
+  "miasmi_2": "mjasmi",
+  "miau": "mjau",
+  "miaulare": "mjaulare",
+  "mica": "mika",
+  "miccia": "mitːʃa",
+  "micelio": "mitʃɛljo",
+  "miceneo": "mitʃenɛo",
+  "michea": "mikɛa",
+  "michelangelo": "mikelandʒelo",
+  "michelangiolesco": "mikelandʒolesko",
+  "michele": "mikɛle",
+  "michetta": "miketːa",
+  "michigan": "miʃʃiɡan",
+  "michigan_2": "mitʃiɡan",
+  "micidiale": "mitʃidjale",
+  "micidialmente": "mitʃidjalmente",
+  "micidio": "mitʃidjo",
+  "micio": "mitʃo",
+  "miciona": "mitʃona",
+  "micione": "mitʃone",
+  "micodomazio": "mikodomatːsjo"
 }

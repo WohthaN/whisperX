@@ -1,1538 +1,538 @@
 {
-  "selvagge": [
-    "selvadːʒe"
-  ],
-  "selvaggi": [
-    "selvadːʒi"
-  ],
-  "selvaggia": [
-    "selvadːʒa"
-  ],
-  "selvaggiamente": [
-    "selvadːʒamente"
-  ],
-  "selvaggina": [
-    "selvadːʒina"
-  ],
-  "selvaggio": [
-    "selvadːʒo"
-  ],
-  "selvatica": [
-    "selvatika"
-  ],
-  "selvatiche": [
-    "selvatike"
-  ],
-  "selvatici": [
-    "selvatitʃi"
-  ],
-  "selvaticissima": [
-    "selvatitʃisːima"
-  ],
-  "selvaticissime": [
-    "selvatitʃisːime"
-  ],
-  "selvaticissimi": [
-    "selvatitʃisːimi"
-  ],
-  "selvaticissimo": [
-    "selvatitʃisːimo"
-  ],
-  "selvatico": [
-    "selvatiko"
-  ],
-  "selve": [
-    "selve"
-  ],
-  "selvicoltura": [
-    "selvikoltura"
-  ],
-  "selvicolture": [
-    "selvikolture"
-  ],
-  "sema": [
-    "sema"
-  ],
-  "semafori": [
-    "semafori"
-  ],
-  "semaforo": [
-    "semaforo"
-  ],
-  "semaia": [
-    "semaja"
-  ],
-  "semalo": [
-    "semalo"
-  ],
-  "semantica": [
-    "semantika"
-  ],
-  "semantiche": [
-    "semantike"
-  ],
-  "semantici": [
-    "semantitʃi"
-  ],
-  "semantico": [
-    "semantiko"
-  ],
-  "semasiologia": [
-    "semazjolodʒia"
-  ],
-  "semasiologie": [
-    "semazjolodʒie"
-  ],
-  "sembiante": [
-    "sembjante"
-  ],
-  "sembianza": [
-    "sembjantsa"
-  ],
-  "semblante": [
-    "semblante"
-  ],
-  "sembrare": [
-    "sembrare"
-  ],
-  "sembrato": [
-    "sembrato"
-  ],
-  "seme": [
-    "seme"
-  ],
-  "semeiologia": [
-    "semejolodʒia"
-  ],
-  "semeiotica": [
-    "semejotika",
-    "semejɔtika"
-  ],
-  "semeiotiche": [
-    "semejotike"
-  ],
-  "semeiotici": [
-    "semejotitʃi"
-  ],
-  "semeiotico": [
-    "semejɔtiko"
-  ],
-  "semel": [
-    "sɛmel"
-  ],
-  "semente": [
-    "semente"
-  ],
-  "semenza": [
-    "semɛntsa"
-  ],
-  "semenzaio": [
-    "sementsajo"
-  ],
-  "semestralmente": [
-    "semestralmente"
-  ],
-  "semestre": [
-    "semɛstre"
-  ],
-  "semi": [
-    "semi"
-  ],
-  "semiacerbo": [
-    "semiatʃɛrbo"
-  ],
-  "semiala": [
-    "semiala"
-  ],
-  "semialbero": [
-    "semialbero"
-  ],
-  "semialfabeta": [
-    "semialfabɛta"
-  ],
-  "semiaperto": [
-    "semiapɛrto",
-    "sɛmiapɛrto"
-  ],
-  "semiarida": [
-    "semiarida",
-    "semjarida"
-  ],
-  "semiaride": [
-    "semiaride",
-    "semjaride"
-  ],
-  "semiaridi": [
-    "semiaridi",
-    "semjaridi"
-  ],
-  "semiarido": [
-    "semiarido",
-    "semjarido"
-  ],
-  "semiasse": [
-    "semiasːe"
-  ],
-  "semiassi": [
-    "semiasːe"
-  ],
-  "semiautomatica": [
-    "semiawtomatika"
-  ],
-  "semiautomatiche": [
-    "semiawtomatike"
-  ],
-  "semiautomatici": [
-    "semiawtomatitʃi"
-  ],
-  "semiautomatico": [
-    "semiawtomatiko"
-  ],
-  "semiautonoma": [
-    "semiawtonoma"
-  ],
-  "semiautonomi": [
-    "semiawtonomi"
-  ],
-  "semibarbaro": [
-    "semibarbaro"
-  ],
-  "semibreve": [
-    "semibrɛve"
-  ],
-  "semibrevi": [
-    "semibrɛvi"
-  ],
-  "semicerchio": [
-    "semitʃerkjo"
-  ],
-  "semichiuso": [
-    "semikjuso",
-    "sɛmikjuzo"
-  ],
-  "semiciclo": [
-    "semitʃiklo"
-  ],
-  "semicircolare": [
-    "semitʃirkolare"
-  ],
-  "semicirconferenza": [
-    "semitʃirkonferɛntsa"
-  ],
-  "semiconduttore": [
-    "semikondutːore"
-  ],
-  "semiconservativo": [
-    "semikonservativo"
-  ],
-  "semicoperto": [
-    "semikopɛrto"
-  ],
-  "semicotto": [
-    "semikɔtːo"
-  ],
-  "semicroma": [
-    "semikrɔma"
-  ],
-  "semicrudo": [
-    "semikrudo"
-  ],
-  "semicupio": [
-    "semikupjo"
-  ],
-  "semidio": [
-    "semidio"
-  ],
-  "semidisteso": [
-    "sɛmidisteso",
-    "sɛmidistezo"
-  ],
-  "semidotto": [
-    "semidɔtːo"
-  ],
-  "semiduro": [
-    "semiduro"
-  ],
-  "semiesagono": [
-    "semiezaɡono"
-  ],
-  "semifinale": [
-    "semifinale"
-  ],
-  "semifredda": [
-    "semifrɛdːa"
-  ],
-  "semifredde": [
-    "semifrɛdːe"
-  ],
-  "semifreddi": [
-    "semifrɛdːi"
-  ],
-  "semifreddo": [
-    "semifrɛdːo"
-  ],
-  "semigrasso": [
-    "semiɡrasːo"
-  ],
-  "semilavorato": [
-    "semilavorato"
-  ],
-  "semiliquido": [
-    "semilikwido"
-  ],
-  "semilunio": [
-    "semilunjo"
-  ],
-  "semimetallico": [
-    "semimetalːiko"
-  ],
-  "semimetallo": [
-    "semimetalːo"
-  ],
-  "semina": [
-    "semina"
-  ],
-  "seminabile": [
-    "seminabile"
-  ],
-  "seminabili": [
-    "seminabili"
-  ],
-  "seminale": [
-    "seminale"
-  ],
-  "seminare": [
-    "seminare",
-    "sɛminare"
-  ],
-  "seminariale": [
-    "seminarjale"
-  ],
-  "seminarile": [
-    "seminarile"
-  ],
-  "seminario": [
-    "seminarjo"
-  ],
-  "seminarista": [
-    "seminarista"
-  ],
-  "seminariste": [
-    "seminariste"
-  ],
-  "seminaristi": [
-    "seminaristi"
-  ],
-  "seminato": [
-    "seminato"
-  ],
-  "seminatore": [
-    "seminatore"
-  ],
-  "seminatori": [
-    "seminatori"
-  ],
-  "seminio": [
-    "seminio"
-  ],
-  "seminorma": [
-    "seminɔrma"
-  ],
-  "seminterrati": [
-    "seminterːati"
-  ],
-  "seminterrato": [
-    "seminterːato"
-  ],
-  "seminudo": [
-    "seminudo"
-  ],
-  "semiologia": [
-    "semjolodʒia"
-  ],
-  "semiologie": [
-    "semjolodʒia"
-  ],
-  "semiologo": [
-    "semjɔloɡo"
-  ],
-  "semiopaco": [
-    "sɛmiopako"
-  ],
-  "semiosi": [
-    "semjɔzi"
-  ],
-  "semiotica": [
-    "semjɔtika"
-  ],
-  "semiotiche": [
-    "semjotike"
-  ],
-  "semiotici": [
-    "semjotitʃi"
-  ],
-  "semiotico": [
-    "semjɔtiko"
-  ],
-  "semiperimetro": [
-    "semiperimetro"
-  ],
-  "semipermanente": [
-    "semipermanɛnte"
-  ],
-  "semipermanenti": [
-    "semipermanɛnti"
-  ],
-  "semipermeabile": [
-    "semipermeabile"
-  ],
-  "semipermeabili": [
-    "semipermeabili"
-  ],
-  "semipersona": [
-    "semipersona"
-  ],
-  "semipettinato": [
-    "semipetːinato"
-  ],
-  "semipieno": [
-    "semipjɛno",
-    "sɛmipjɛno"
-  ],
-  "semipolare": [
-    "semipolare"
-  ],
-  "semipolitico": [
-    "semipolitiko"
-  ],
-  "semiprofessionistico": [
-    "semiprofesːjonistiko"
-  ],
-  "semiramide": [
-    "semiramide"
-  ],
-  "semiramìs": [
-    "semiramis"
-  ],
-  "semireazione": [
-    "semireatːsjone"
-  ],
-  "semiretta": [
-    "semirɛtːa"
-  ],
-  "semiretto": [
-    "semirɛtːo"
-  ],
-  "semisecco": [
-    "semizekːo"
-  ],
-  "semisecolare": [
-    "semisekolare"
-  ],
-  "semiserio": [
-    "semisɛrjo",
-    "semizɛrjo"
-  ],
-  "semisfera": [
-    "semisfɛra"
-  ],
-  "semisfere": [
-    "semisfɛre"
-  ],
-  "semisolido": [
-    "semisɔlido"
-  ],
-  "semisomma": [
-    "semisomːa"
-  ],
-  "semispazio": [
-    "semispatːsjo"
-  ],
-  "semistrutturato": [
-    "semistrutːurato"
-  ],
-  "semita": [
-    "semita",
-    "sɛmita"
-  ],
-  "semitappa": [
-    "semitapːa"
-  ],
-  "semitico": [
-    "semitiko"
-  ],
-  "semitono": [
-    "semitɔno"
-  ],
-  "semitotalitarismo": [
-    "semitotalitarizmo"
-  ],
-  "semitrasparente": [
-    "semitrasparɛnte"
-  ],
-  "semitrasparenti": [
-    "semitrasparɛnti"
-  ],
-  "semitrasparenza": [
-    "semitrasparɛntsa"
-  ],
-  "semivegetarianismo": [
-    "semivedʒetarjanizmo"
-  ],
-  "semivolo": [
-    "semivolo"
-  ],
-  "semola": [
-    "semola"
-  ],
-  "semolato": [
-    "semolato"
-  ],
-  "semole": [
-    "semole"
-  ],
-  "semolini": [
-    "semolini"
-  ],
-  "semolino": [
-    "semolino"
-  ],
-  "semovente": [
-    "semovɛnte"
-  ],
-  "semoventi": [
-    "semovɛnti"
-  ],
-  "sempice": [
-    "sempitʃe"
-  ],
-  "sempiterno": [
-    "sempitɛrno"
-  ],
-  "semplice": [
-    "semplitʃe"
-  ],
-  "semplicemente": [
-    "semplitʃemente"
-  ],
-  "semplici": [
-    "semplitʃi"
-  ],
-  "semplicione": [
-    "semplitʃone"
-  ],
-  "sempliciotto": [
-    "semplitʃɔtːo"
-  ],
-  "semplicismo": [
-    "semplitʃizmo"
-  ],
-  "semplicissima": [
-    "semplitʃisːima"
-  ],
-  "semplicissime": [
-    "semplitʃisːime"
-  ],
-  "semplicissimi": [
-    "semplitʃisːimi"
-  ],
-  "semplicissimo": [
-    "semplitʃisːimo"
-  ],
-  "semplicista": [
-    "semplitʃista"
-  ],
-  "semplicità": [
-    "emplitʃita",
-    "semplitʃita"
-  ],
-  "semplificabile": [
-    "semplifikabile"
-  ],
-  "semplificabili": [
-    "semplifikabili"
-  ],
-  "semplificante": [
-    "semplifikante"
-  ],
-  "semplificanti": [
-    "semplifikanti"
-  ],
-  "semplificare": [
-    "semplifikare"
-  ],
-  "semplificatore": [
-    "semplifikatore"
-  ],
-  "semplificatori": [
-    "semplifikatori"
-  ],
-  "semplificatrice": [
-    "semplifikatritʃe"
-  ],
-  "semplificatrici": [
-    "semplifikatritʃi"
-  ],
-  "semplificazione": [
-    "semplifikatsjone",
-    "semplifikatːsjone"
-  ],
-  "sempre": [
-    "sempre",
-    "sɛmpre"
-  ],
-  "sempreverde": [
-    "sempreverde"
-  ],
-  "sen": [
-    "sen"
-  ],
-  "senape": [
-    "sɛnape"
-  ],
-  "senapi": [
-    "sɛnapi"
-  ],
-  "senato": [
-    "senato"
-  ],
-  "senatore": [
-    "senatore",
-    "senatɔre"
-  ],
-  "senatori": [
-    "senatori",
-    "senatɔri"
-  ],
-  "senatrice": [
-    "senatritʃe"
-  ],
-  "senatrici": [
-    "senatritʃi"
-  ],
-  "sene": [
-    "sɛne"
-  ],
-  "senecione": [
-    "senetʃone"
-  ],
-  "seneghese": [
-    "seneɡese",
-    "seneɡeze"
-  ],
-  "senescente": [
-    "seneʃʃɛnte"
-  ],
-  "senescenza": [
-    "seneʃʃɛntsa"
-  ],
-  "senetta": [
-    "senɛtːa"
-  ],
-  "senettù": [
-    "senetːu"
-  ],
-  "senettude": [
-    "senetːude"
-  ],
-  "senettute": [
-    "senetːute"
-  ],
-  "seni": [
-    "seni",
-    "sɛni"
-  ],
-  "senile": [
-    "senile"
-  ],
-  "senilità": [
-    "senilita"
-  ],
-  "senilizzerei": [
-    "senilidːzerɛj"
-  ],
-  "senilmente": [
-    "senilmente"
-  ],
-  "senio": [
-    "sɛnjo"
-  ],
-  "senior": [
-    "se"
-  ],
-  "senna": [
-    "sɛnːa"
-  ],
-  "senni": [
-    "senːi"
-  ],
-  "senno": [
-    "senːo"
-  ],
-  "sennò": [
-    "senːɔ"
-  ],
-  "seno": [
-    "seno"
-  ],
-  "senobiotica": [
-    "senobiɔtika"
-  ],
-  "senobiotiche": [
-    "senobiɔtike"
-  ],
-  "senobiotici": [
-    "senobiɔtitʃi"
-  ],
-  "senobiotico": [
-    "senobiɔtiko"
-  ],
-  "senologa": [
-    "senɔloɡa"
-  ],
-  "senologhe": [
-    "senɔloɡe"
-  ],
-  "senologi": [
-    "senɔloɡi"
-  ],
-  "senologia": [
-    "senolodʒia"
-  ],
-  "senologica": [
-    "senolɔdʒika"
-  ],
-  "senologiche": [
-    "senolɔdʒike"
-  ],
-  "senologici": [
-    "senolɔdʒitʃi"
-  ],
-  "senologico": [
-    "senolɔdʒiko"
-  ],
-  "senologo": [
-    "senɔloɡo"
-  ],
-  "sensaio": [
-    "sensajo"
-  ],
-  "sensale": [
-    "sensale"
-  ],
-  "sensatamente": [
-    "sensatamente"
-  ],
-  "sensatezza": [
-    "sensatetːsa"
-  ],
-  "sensati": [
-    "sensati"
-  ],
-  "sensato": [
-    "sensato",
-    "sɛnsatɔ"
-  ],
-  "sensazionale": [
-    "sensatsjonale"
-  ],
-  "sensazionalista": [
-    "sensatsjonalista"
-  ],
-  "sensazionaliste": [
-    "sensatsjonaliste"
-  ],
-  "sensazionalisti": [
-    "sensatsjonalisti"
-  ],
-  "sensazione": [
-    "sensatsjone"
-  ],
-  "sensazioni": [
-    "sensatsjoni"
-  ],
-  "sensazionismo": [
-    "sensatːsjonizmo"
-  ],
-  "senseria": [
-    "senseria"
-  ],
-  "sensi": [
-    "sɛnsi"
-  ],
-  "sensibile": [
-    "sensibile"
-  ],
-  "sensibili": [
-    "sensibili"
-  ],
-  "sensibilissima": [
-    "sensibilisːima"
-  ],
-  "sensibilissime": [
-    "sensibilisːime"
-  ],
-  "sensibilissimi": [
-    "sensibilisːimi"
-  ],
-  "sensibilissimo": [
-    "sensibilisːimo"
-  ],
-  "sensibilità": [
-    "sensibilita"
-  ],
-  "sensibilizza": [
-    "sensibilidːza"
-  ],
-  "sensibilizzabile": [
-    "sensibilidːzabile"
-  ],
-  "sensibilizzabili": [
-    "sensibilidːzabili"
-  ],
-  "sensibilizzai": [
-    "sensibilidːzai"
-  ],
-  "sensibilizzammo": [
-    "sensibilidːzamːo"
-  ],
-  "sensibilizzando": [
-    "sensibilidːzando"
-  ],
-  "sensibilizzano": [
-    "sensibilidːzano"
-  ],
-  "sensibilizzante": [
-    "sensibilitːsante"
-  ],
-  "sensibilizzanti": [
-    "sensibilitːsanti"
-  ],
-  "sensibilizzare": [
-    "sensibilidːzare"
-  ],
-  "sensibilizzarono": [
-    "sensibilidːzarono"
-  ],
-  "sensibilizzarsi": [
-    "sensibilidːzasi"
-  ],
-  "sensibilizzasse": [
-    "sensibilidːzasːe"
-  ],
-  "sensibilizzassero": [
-    "sensibilidːzasːero"
-  ],
-  "sensibilizzassi": [
-    "sensibilidːzasːi"
-  ],
-  "sensibilizzassimo": [
-    "sensibilidːzasːimo"
-  ],
-  "sensibilizzaste": [
-    "sensibilidːzaste"
-  ],
-  "sensibilizzasti": [
-    "sensibilidːzasti"
-  ],
-  "sensibilizzata": [
-    "sensibilitːsata"
-  ],
-  "sensibilizzate": [
-    "sensibilidːzate",
-    "sensibilitːsata"
-  ],
-  "sensibilizzati": [
-    "sensibilitːsati"
-  ],
-  "sensibilizzato": [
-    "sensibilitːsato"
-  ],
-  "sensibilizzava": [
-    "sensibilidːzava"
-  ],
-  "sensibilizzavamo": [
-    "sensibilidːzavamo"
-  ],
-  "sensibilizzavano": [
-    "sensibilidːzavano"
-  ],
-  "sensibilizzavate": [
-    "sensibilidːzavate"
-  ],
-  "sensibilizzavi": [
-    "sensibilidːzavi"
-  ],
-  "sensibilizzavo": [
-    "sensibilidːzavo"
-  ],
-  "sensibilizzazione": [
-    "sensibilidːzatsjone",
-    "sensibilidːzatːsjone"
-  ],
-  "sensibilizzazioni": [
-    "sensibilidːzatsjone"
-  ],
-  "sensibilizzerà": [
-    "sensibilidːzera"
-  ],
-  "sensibilizzerai": [
-    "sensibilidːzerai"
-  ],
-  "sensibilizzeranno": [
-    "sensibilidːzeranːo"
-  ],
-  "sensibilizzerebbe": [
-    "sensibilidːzerebːe"
-  ],
-  "sensibilizzerebbero": [
-    "sensibilidːzerebːero"
-  ],
-  "sensibilizzerei": [
-    "sensibilidːzerei"
-  ],
-  "sensibilizzeremmo": [
-    "sensibilidːzeremːo"
-  ],
-  "sensibilizzeremo": [
-    "sensibilidːzeremo"
-  ],
-  "sensibilizzereste": [
-    "sensibilidːzereste"
-  ],
-  "sensibilizzeresti": [
-    "sensibilidːzeresti"
-  ],
-  "sensibilizzerete": [
-    "sensibilidːzerete"
-  ],
-  "sensibilizzerò": [
-    "sensibilidːzero"
-  ],
-  "sensibilizzi": [
-    "sensibilidːzi"
-  ],
-  "sensibilizziamo": [
-    "sensibilidːziamo"
-  ],
-  "sensibilizziate": [
-    "sensibilidːziate"
-  ],
-  "sensibilizzino": [
-    "sensibilidːzino"
-  ],
-  "sensibilizzo": [
-    "sensibilidːzo"
-  ],
-  "sensibilizzò": [
-    "sensibilidːzo"
-  ],
-  "sensibilmente": [
-    "sensibilmente"
-  ],
-  "sensismi": [
-    "sensizmi"
-  ],
-  "sensismo": [
-    "sensizmo"
-  ],
-  "sensista": [
-    "sensista"
-  ],
-  "sensiste": [
-    "sensiste"
-  ],
-  "sensisti": [
-    "sensisti"
-  ],
-  "sensitivo": [
-    "sensitivo"
-  ],
-  "senso": [
-    "sɛnso"
-  ],
-  "sensore": [
-    "sensore"
-  ],
-  "sensori": [
-    "sensori"
-  ],
-  "sensoriale": [
-    "sensorjale"
-  ],
-  "sensuale": [
-    "sensuale"
-  ],
-  "sensuali": [
-    "sensuali"
-  ],
-  "sensualismi": [
-    "senswalizmi"
-  ],
-  "sensualismo": [
-    "senswalizmo"
-  ],
-  "sensualissima": [
-    "sensualisːima"
-  ],
-  "sensualissime": [
-    "sensualisːime"
-  ],
-  "sensualissimo": [
-    "sensualisːimo"
-  ],
-  "sensualista": [
-    "senswalista"
-  ],
-  "sensualiste": [
-    "senswaliste"
-  ],
-  "sensualisti": [
-    "senswalisti"
-  ],
-  "sensualità": [
-    "sensualita",
-    "senswalita"
-  ],
-  "sensualmente": [
-    "sensualmente"
-  ],
-  "senta": [
-    "sɛnta"
-  ],
-  "sente": [
-    "sɛnte"
-  ],
-  "sentente": [
-    "sɛntente"
-  ],
-  "sentenza": [
-    "sentɛntsa"
-  ],
-  "sentenze": [
-    "sentɛntse"
-  ],
-  "sentenziato": [
-    "sententsjato"
-  ],
-  "sentenzioso": [
-    "sententsjoso",
-    "sententsjozo"
-  ],
-  "senti": [
-    "sɛnti"
-  ],
-  "sentieri": [
-    "sɛntjɛri"
-  ],
-  "sentiero": [
-    "sentjɛro",
-    "sɛntjɛro",
-    "sɛntjɛrɔ"
-  ],
-  "sentii": [
-    "sentij"
-  ],
-  "sentimentale": [
-    "sentimentale"
-  ],
-  "sentimentalismi": [
-    "sentimentalizmi"
-  ],
-  "sentimentalismo": [
-    "sentimentalizmo"
-  ],
-  "sentimentalista": [
-    "sɛntimɛntalista"
-  ],
-  "sentimentaliste": [
-    "sɛntimɛntaliste"
-  ],
-  "sentimentalisti": [
-    "sɛntimɛntalisti"
-  ],
-  "sentimentalmente": [
-    "sentimentalmente"
-  ],
-  "sentimenti": [
-    "sentimenti"
-  ],
-  "sentimento": [
-    "sentimento"
-  ],
-  "sentina": [
-    "sentina"
-  ],
-  "sentinella": [
-    "sentinɛlːa"
-  ],
-  "sentirai": [
-    "sentirai"
-  ],
-  "sentire": [
-    "sentire",
-    "sɛntire"
-  ],
-  "sentirsi": [
-    "sentirsi"
-  ],
-  "sentisse": [
-    "sentisːe"
-  ],
-  "sentitamente": [
-    "sentitamente"
-  ],
-  "sentito": [
-    "sentito",
-    "sɛntito"
-  ],
-  "sento": [
-    "sɛnto"
-  ],
-  "sentore": [
-    "sentore"
-  ],
-  "senussi": [
-    "senusːi"
-  ],
-  "senusso": [
-    "senusːo"
-  ],
-  "senza": [
-    "sentsa",
-    "sɛntsa"
-  ],
-  "senzacasa": [
-    "sentsakasa"
-  ],
-  "senzatetto": [
-    "sentsatetːo"
-  ],
-  "sepalo": [
-    "sɛpalo"
-  ],
-  "separabile": [
-    "separabile"
-  ],
-  "separabili": [
-    "separabili"
-  ],
-  "separare": [
-    "separare",
-    "sɛparare"
-  ],
-  "separata": [
-    "sɛparata"
-  ],
-  "separatamente": [
-    "separatamente"
-  ],
-  "separate": [
-    "sɛparate"
-  ],
-  "separatemente": [
-    "separatamente"
-  ],
-  "separatezza": [
-    "separatetːsa"
-  ],
-  "separati": [
-    "sɛparati"
-  ],
-  "separatismi": [
-    "separatizmi"
-  ],
-  "separatismo": [
-    "separatizmo"
-  ],
-  "separatista": [
-    "separatista"
-  ],
-  "separatiste": [
-    "separatiste"
-  ],
-  "separatisti": [
-    "separatisti"
-  ],
-  "separato": [
-    "separato",
-    "sɛparato"
-  ],
-  "separatore": [
-    "separatore"
-  ],
-  "separatori": [
-    "separatori"
-  ],
-  "separatorio": [
-    "separatɔrjo"
-  ],
-  "separatrice": [
-    "separatritʃe"
-  ],
-  "separatrici": [
-    "separatritʃi"
-  ],
-  "separazione": [
-    "separatsjone"
-  ],
-  "separazioni": [
-    "separatsjoni"
-  ],
-  "sepide": [
-    "sɛpide"
-  ],
-  "sepidi": [
-    "sɛpidi"
-  ],
-  "sepolcro": [
-    "sepolkro"
-  ],
-  "sepolta": [
-    "sepolta"
-  ],
-  "sepolte": [
-    "sepolte"
-  ],
-  "sepolti": [
-    "sepolto"
-  ],
-  "sepolto": [
-    "sepolto"
-  ],
-  "sepoltura": [
-    "sepoltura"
-  ],
-  "sepolture": [
-    "sepolture"
-  ],
-  "seppe": [
-    "sepːe"
-  ],
-  "seppellimento": [
-    "sepːelːimento"
-  ],
-  "seppellire": [
-    "sepːelːire"
-  ],
-  "seppellirsi": [
-    "sepːelːirsi"
-  ],
-  "seppellito": [
-    "sepːelːito"
-  ],
-  "seppero": [
-    "sepːero"
-  ],
-  "seppi": [
-    "sepːi"
-  ],
-  "seppia": [
-    "sepːja"
-  ],
-  "seppie": [
-    "sepːje"
-  ],
-  "seppure": [
-    "sepːure"
-  ],
-  "sepsi": [
-    "sɛpsi"
-  ],
-  "septanta": [
-    "septanta"
-  ],
-  "sequela": [
-    "sekwɛla"
-  ],
-  "sequente": [
-    "sekwɛnte"
-  ],
-  "sequenza": [
-    "sekwɛntsa"
-  ],
-  "sequenziale": [
-    "sekwentsjale"
-  ],
-  "sequenziamenti": [
-    "sekwentjamenti"
-  ],
-  "sequenziamento": [
-    "sekwentjamento"
-  ],
-  "sequenziare": [
-    "sekwentsjare"
-  ],
-  "sequenziato": [
-    "sekwentsjato"
-  ],
-  "sequenziatore": [
-    "sekwentsjatore"
-  ],
-  "sequestrare": [
-    "sekwestrare"
-  ],
-  "sequestrato": [
-    "sekwestrato"
-  ],
-  "sequestratore": [
-    "sekwestratore"
-  ],
-  "sequestro": [
-    "sekwɛstro"
-  ],
-  "sequoia": [
-    "sekwoja"
-  ],
-  "sequoie": [
-    "sekwoje"
-  ],
-  "ser": [
-    "sɛr"
-  ],
-  "sera": [
-    "sera",
-    "sɛra"
-  ],
-  "seracchi": [
-    "serakːi"
-  ],
-  "seracco": [
-    "serakːo"
-  ],
-  "serafica": [
-    "serafika"
-  ],
-  "seraficamente": [
-    "serafikamente"
-  ],
-  "serafiche": [
-    "serafike"
-  ],
-  "serafici": [
-    "serafitʃi"
-  ],
-  "seraficità": [
-    "serafitʃita"
-  ],
-  "serafico": [
-    "serafiko"
-  ],
-  "serale": [
-    "serale"
-  ],
-  "serata": [
-    "serata"
-  ],
-  "serate": [
-    "serate"
-  ],
-  "seratina": [
-    "seratina"
-  ],
-  "serba": [
-    "sɛrba"
-  ],
-  "serbante": [
-    "serbante"
-  ],
-  "serbare": [
-    "serbare"
-  ],
-  "serbarsi": [
-    "serbarsi"
-  ],
-  "serbato": [
-    "serbato"
-  ],
-  "serbatoi": [
-    "serbatoi"
-  ],
-  "serbatoio": [
-    "serbatojo"
-  ],
-  "serbe": [
-    "sɛrbe"
-  ],
-  "serbi": [
-    "sɛrbi"
-  ],
-  "serbo": [
-    "sɛrbo"
-  ],
-  "serbocroato": [
-    "serbokroato"
-  ],
-  "sere": [
-    "sere"
-  ],
-  "serenamente": [
-    "serenamente"
-  ],
-  "serenata": [
-    "serenata"
-  ],
-  "serendipica": [
-    "serendipika"
-  ],
-  "serendipiche": [
-    "serendipike"
-  ],
-  "serendipici": [
-    "serendipitʃi"
-  ],
-  "serendipico": [
-    "serendipiko"
-  ],
-  "serendipità": [
-    "serendipita"
-  ],
-  "sereni": [
-    "sereni"
-  ],
-  "serenissima": [
-    "serenisːima"
-  ],
-  "serenità": [
-    "serenita"
-  ],
-  "sereno": [
-    "sereno"
-  ],
-  "sergente": [
-    "serdʒɛnte"
-  ],
-  "sergenti": [
-    "serdʒɛnti"
-  ],
-  "sergio": [
-    "sɛrdʒo"
-  ],
-  "serial": [
-    "sɛrjal"
-  ],
-  "seriale": [
-    "serjale"
-  ],
-  "seriali": [
-    "serjali"
-  ],
-  "seriamente": [
-    "serjamente",
-    "serjamɛnte"
-  ],
-  "sericoltore": [
-    "serikɔltɔre"
-  ],
-  "sericoltori": [
-    "serikɔltɔri"
-  ],
-  "sericoltrice": [
-    "serikɔltritʃe"
-  ],
-  "sericoltrici": [
-    "serikɔltritʃe"
-  ],
-  "sericoltura": [
-    "serikoltura"
-  ],
-  "sericultore": [
-    "serikultɔre"
-  ],
-  "sericultori": [
-    "serikultɔri"
-  ],
-  "sericultrice": [
-    "serikultritʃe"
-  ],
-  "sericultrici": [
-    "serikultritʃi"
-  ],
-  "serie": [
-    "sɛrje"
-  ],
-  "seriema": [
-    "serjɛma"
-  ],
-  "serietà": [
-    "serjeta"
-  ],
-  "serina": [
-    "serina"
-  ],
-  "serio": [
-    "sɛrjo",
-    "sɛrjɔ"
-  ],
-  "serioso": [
-    "serjoso",
-    "serjozo"
-  ],
-  "sermo": [
-    "sɛrmo"
-  ],
-  "sermonare": [
-    "sermonare"
-  ],
-  "sermone": [
-    "sermone"
-  ],
-  "sermoni": [
-    "sermoni"
-  ],
-  "serologia": [
-    "serolodʒia"
-  ],
-  "serologica": [
-    "serolɔdʒika"
-  ],
-  "serologiche": [
-    "serolɔdʒike"
-  ],
-  "serologici": [
-    "serolɔdʒitʃi"
-  ],
-  "serologico": [
-    "serolɔdʒiko"
-  ],
-  "serotino": [
-    "serotino"
-  ],
-  "serotonina": [
-    "serotonina"
-  ],
-  "serpa": [
-    "sɛrpa"
-  ],
-  "serpaia": [
-    "serpaja"
-  ],
-  "serpe": [
-    "sɛrpe"
-  ],
-  "serpeggiante": [
-    "serpedːʒante"
-  ],
-  "serpeggianti": [
-    "serpedːʒanti"
-  ],
-  "serpeggiare": [
-    "serpedːʒare"
-  ],
-  "serpentario": [
-    "serpentarjo"
-  ],
-  "serpente": [
-    "serpɛnte",
-    "sɛrpɛnte"
-  ],
-  "serpentello": [
-    "serpentɛlːo"
-  ],
-  "serpentesco": [
-    "serpentesko"
-  ],
-  "serpenti": [
-    "sɛrpɛnti"
-  ]
+  "selvagge": "selvadːʒe",
+  "selvaggi": "selvadːʒi",
+  "selvaggia": "selvadːʒa",
+  "selvaggiamente": "selvadːʒamente",
+  "selvaggina": "selvadːʒina",
+  "selvaggio": "selvadːʒo",
+  "selvatica": "selvatika",
+  "selvatiche": "selvatike",
+  "selvatici": "selvatitʃi",
+  "selvaticissima": "selvatitʃisːima",
+  "selvaticissime": "selvatitʃisːime",
+  "selvaticissimi": "selvatitʃisːimi",
+  "selvaticissimo": "selvatitʃisːimo",
+  "selvatico": "selvatiko",
+  "selve": "selve",
+  "selvicoltura": "selvikoltura",
+  "selvicolture": "selvikolture",
+  "sema": "sema",
+  "semafori": "semafori",
+  "semaforo": "semaforo",
+  "semaia": "semaja",
+  "semalo": "semalo",
+  "semantica": "semantika",
+  "semantiche": "semantike",
+  "semantici": "semantitʃi",
+  "semantico": "semantiko",
+  "semasiologia": "semazjolodʒia",
+  "semasiologie": "semazjolodʒie",
+  "sembiante": "sembjante",
+  "sembianza": "sembjantsa",
+  "semblante": "semblante",
+  "sembrare": "sembrare",
+  "sembrato": "sembrato",
+  "seme": "seme",
+  "semeiologia": "semejolodʒia",
+  "semeiotica": "semejotika",
+  "semeiotica_2": "semejɔtika",
+  "semeiotiche": "semejotike",
+  "semeiotici": "semejotitʃi",
+  "semeiotico": "semejɔtiko",
+  "semel": "sɛmel",
+  "semente": "semente",
+  "semenza": "semɛntsa",
+  "semenzaio": "sementsajo",
+  "semestralmente": "semestralmente",
+  "semestre": "semɛstre",
+  "semi": "semi",
+  "semiacerbo": "semiatʃɛrbo",
+  "semiala": "semiala",
+  "semialbero": "semialbero",
+  "semialfabeta": "semialfabɛta",
+  "semiaperto": "semiapɛrto",
+  "semiaperto_2": "sɛmiapɛrto",
+  "semiarida": "semiarida",
+  "semiarida_2": "semjarida",
+  "semiaride": "semiaride",
+  "semiaride_2": "semjaride",
+  "semiaridi": "semiaridi",
+  "semiaridi_2": "semjaridi",
+  "semiarido": "semiarido",
+  "semiarido_2": "semjarido",
+  "semiasse": "semiasːe",
+  "semiassi": "semiasːe",
+  "semiautomatica": "semiawtomatika",
+  "semiautomatiche": "semiawtomatike",
+  "semiautomatici": "semiawtomatitʃi",
+  "semiautomatico": "semiawtomatiko",
+  "semiautonoma": "semiawtonoma",
+  "semiautonomi": "semiawtonomi",
+  "semibarbaro": "semibarbaro",
+  "semibreve": "semibrɛve",
+  "semibrevi": "semibrɛvi",
+  "semicerchio": "semitʃerkjo",
+  "semichiuso": "semikjuso",
+  "semichiuso_2": "sɛmikjuzo",
+  "semiciclo": "semitʃiklo",
+  "semicircolare": "semitʃirkolare",
+  "semicirconferenza": "semitʃirkonferɛntsa",
+  "semiconduttore": "semikondutːore",
+  "semiconservativo": "semikonservativo",
+  "semicoperto": "semikopɛrto",
+  "semicotto": "semikɔtːo",
+  "semicroma": "semikrɔma",
+  "semicrudo": "semikrudo",
+  "semicupio": "semikupjo",
+  "semidio": "semidio",
+  "semidisteso": "sɛmidisteso",
+  "semidisteso_2": "sɛmidistezo",
+  "semidotto": "semidɔtːo",
+  "semiduro": "semiduro",
+  "semiesagono": "semiezaɡono",
+  "semifinale": "semifinale",
+  "semifredda": "semifrɛdːa",
+  "semifredde": "semifrɛdːe",
+  "semifreddi": "semifrɛdːi",
+  "semifreddo": "semifrɛdːo",
+  "semigrasso": "semiɡrasːo",
+  "semilavorato": "semilavorato",
+  "semiliquido": "semilikwido",
+  "semilunio": "semilunjo",
+  "semimetallico": "semimetalːiko",
+  "semimetallo": "semimetalːo",
+  "semina": "semina",
+  "seminabile": "seminabile",
+  "seminabili": "seminabili",
+  "seminale": "seminale",
+  "seminare": "seminare",
+  "seminare_2": "sɛminare",
+  "seminariale": "seminarjale",
+  "seminarile": "seminarile",
+  "seminario": "seminarjo",
+  "seminarista": "seminarista",
+  "seminariste": "seminariste",
+  "seminaristi": "seminaristi",
+  "seminato": "seminato",
+  "seminatore": "seminatore",
+  "seminatori": "seminatori",
+  "seminio": "seminio",
+  "seminorma": "seminɔrma",
+  "seminterrati": "seminterːati",
+  "seminterrato": "seminterːato",
+  "seminudo": "seminudo",
+  "semiologia": "semjolodʒia",
+  "semiologie": "semjolodʒia",
+  "semiologo": "semjɔloɡo",
+  "semiopaco": "sɛmiopako",
+  "semiosi": "semjɔzi",
+  "semiotica": "semjɔtika",
+  "semiotiche": "semjotike",
+  "semiotici": "semjotitʃi",
+  "semiotico": "semjɔtiko",
+  "semiperimetro": "semiperimetro",
+  "semipermanente": "semipermanɛnte",
+  "semipermanenti": "semipermanɛnti",
+  "semipermeabile": "semipermeabile",
+  "semipermeabili": "semipermeabili",
+  "semipersona": "semipersona",
+  "semipettinato": "semipetːinato",
+  "semipieno": "semipjɛno",
+  "semipieno_2": "sɛmipjɛno",
+  "semipolare": "semipolare",
+  "semipolitico": "semipolitiko",
+  "semiprofessionistico": "semiprofesːjonistiko",
+  "semiramide": "semiramide",
+  "semiramìs": "semiramis",
+  "semireazione": "semireatːsjone",
+  "semiretta": "semirɛtːa",
+  "semiretto": "semirɛtːo",
+  "semisecco": "semizekːo",
+  "semisecolare": "semisekolare",
+  "semiserio": "semisɛrjo",
+  "semiserio_2": "semizɛrjo",
+  "semisfera": "semisfɛra",
+  "semisfere": "semisfɛre",
+  "semisolido": "semisɔlido",
+  "semisomma": "semisomːa",
+  "semispazio": "semispatːsjo",
+  "semistrutturato": "semistrutːurato",
+  "semita": "semita",
+  "semita_2": "sɛmita",
+  "semitappa": "semitapːa",
+  "semitico": "semitiko",
+  "semitono": "semitɔno",
+  "semitotalitarismo": "semitotalitarizmo",
+  "semitrasparente": "semitrasparɛnte",
+  "semitrasparenti": "semitrasparɛnti",
+  "semitrasparenza": "semitrasparɛntsa",
+  "semivegetarianismo": "semivedʒetarjanizmo",
+  "semivolo": "semivolo",
+  "semola": "semola",
+  "semolato": "semolato",
+  "semole": "semole",
+  "semolini": "semolini",
+  "semolino": "semolino",
+  "semovente": "semovɛnte",
+  "semoventi": "semovɛnti",
+  "sempice": "sempitʃe",
+  "sempiterno": "sempitɛrno",
+  "semplice": "semplitʃe",
+  "semplicemente": "semplitʃemente",
+  "semplici": "semplitʃi",
+  "semplicione": "semplitʃone",
+  "sempliciotto": "semplitʃɔtːo",
+  "semplicismo": "semplitʃizmo",
+  "semplicissima": "semplitʃisːima",
+  "semplicissime": "semplitʃisːime",
+  "semplicissimi": "semplitʃisːimi",
+  "semplicissimo": "semplitʃisːimo",
+  "semplicista": "semplitʃista",
+  "semplicità": "emplitʃita",
+  "semplicità_2": "semplitʃita",
+  "semplificabile": "semplifikabile",
+  "semplificabili": "semplifikabili",
+  "semplificante": "semplifikante",
+  "semplificanti": "semplifikanti",
+  "semplificare": "semplifikare",
+  "semplificatore": "semplifikatore",
+  "semplificatori": "semplifikatori",
+  "semplificatrice": "semplifikatritʃe",
+  "semplificatrici": "semplifikatritʃi",
+  "semplificazione": "semplifikatsjone",
+  "semplificazione_2": "semplifikatːsjone",
+  "sempre": "sempre",
+  "sempre_2": "sɛmpre",
+  "sempreverde": "sempreverde",
+  "sen": "sen",
+  "senape": "sɛnape",
+  "senapi": "sɛnapi",
+  "senato": "senato",
+  "senatore": "senatore",
+  "senatore_2": "senatɔre",
+  "senatori": "senatori",
+  "senatori_2": "senatɔri",
+  "senatrice": "senatritʃe",
+  "senatrici": "senatritʃi",
+  "sene": "sɛne",
+  "senecione": "senetʃone",
+  "seneghese": "seneɡese",
+  "seneghese_2": "seneɡeze",
+  "senescente": "seneʃʃɛnte",
+  "senescenza": "seneʃʃɛntsa",
+  "senetta": "senɛtːa",
+  "senettù": "senetːu",
+  "senettude": "senetːude",
+  "senettute": "senetːute",
+  "seni": "seni",
+  "seni_2": "sɛni",
+  "senile": "senile",
+  "senilità": "senilita",
+  "senilizzerei": "senilidːzerɛj",
+  "senilmente": "senilmente",
+  "senio": "sɛnjo",
+  "senior": "se",
+  "senna": "sɛnːa",
+  "senni": "senːi",
+  "senno": "senːo",
+  "sennò": "senːɔ",
+  "seno": "seno",
+  "senobiotica": "senobiɔtika",
+  "senobiotiche": "senobiɔtike",
+  "senobiotici": "senobiɔtitʃi",
+  "senobiotico": "senobiɔtiko",
+  "senologa": "senɔloɡa",
+  "senologhe": "senɔloɡe",
+  "senologi": "senɔloɡi",
+  "senologia": "senolodʒia",
+  "senologica": "senolɔdʒika",
+  "senologiche": "senolɔdʒike",
+  "senologici": "senolɔdʒitʃi",
+  "senologico": "senolɔdʒiko",
+  "senologo": "senɔloɡo",
+  "sensaio": "sensajo",
+  "sensale": "sensale",
+  "sensatamente": "sensatamente",
+  "sensatezza": "sensatetːsa",
+  "sensati": "sensati",
+  "sensato": "sensato",
+  "sensato_2": "sɛnsatɔ",
+  "sensazionale": "sensatsjonale",
+  "sensazionalista": "sensatsjonalista",
+  "sensazionaliste": "sensatsjonaliste",
+  "sensazionalisti": "sensatsjonalisti",
+  "sensazione": "sensatsjone",
+  "sensazioni": "sensatsjoni",
+  "sensazionismo": "sensatːsjonizmo",
+  "senseria": "senseria",
+  "sensi": "sɛnsi",
+  "sensibile": "sensibile",
+  "sensibili": "sensibili",
+  "sensibilissima": "sensibilisːima",
+  "sensibilissime": "sensibilisːime",
+  "sensibilissimi": "sensibilisːimi",
+  "sensibilissimo": "sensibilisːimo",
+  "sensibilità": "sensibilita",
+  "sensibilizza": "sensibilidːza",
+  "sensibilizzabile": "sensibilidːzabile",
+  "sensibilizzabili": "sensibilidːzabili",
+  "sensibilizzai": "sensibilidːzai",
+  "sensibilizzammo": "sensibilidːzamːo",
+  "sensibilizzando": "sensibilidːzando",
+  "sensibilizzano": "sensibilidːzano",
+  "sensibilizzante": "sensibilitːsante",
+  "sensibilizzanti": "sensibilitːsanti",
+  "sensibilizzare": "sensibilidːzare",
+  "sensibilizzarono": "sensibilidːzarono",
+  "sensibilizzarsi": "sensibilidːzasi",
+  "sensibilizzasse": "sensibilidːzasːe",
+  "sensibilizzassero": "sensibilidːzasːero",
+  "sensibilizzassi": "sensibilidːzasːi",
+  "sensibilizzassimo": "sensibilidːzasːimo",
+  "sensibilizzaste": "sensibilidːzaste",
+  "sensibilizzasti": "sensibilidːzasti",
+  "sensibilizzata": "sensibilitːsata",
+  "sensibilizzate": "sensibilidːzate",
+  "sensibilizzate_2": "sensibilitːsata",
+  "sensibilizzati": "sensibilitːsati",
+  "sensibilizzato": "sensibilitːsato",
+  "sensibilizzava": "sensibilidːzava",
+  "sensibilizzavamo": "sensibilidːzavamo",
+  "sensibilizzavano": "sensibilidːzavano",
+  "sensibilizzavate": "sensibilidːzavate",
+  "sensibilizzavi": "sensibilidːzavi",
+  "sensibilizzavo": "sensibilidːzavo",
+  "sensibilizzazione": "sensibilidːzatsjone",
+  "sensibilizzazione_2": "sensibilidːzatːsjone",
+  "sensibilizzazioni": "sensibilidːzatsjone",
+  "sensibilizzerà": "sensibilidːzera",
+  "sensibilizzerai": "sensibilidːzerai",
+  "sensibilizzeranno": "sensibilidːzeranːo",
+  "sensibilizzerebbe": "sensibilidːzerebːe",
+  "sensibilizzerebbero": "sensibilidːzerebːero",
+  "sensibilizzerei": "sensibilidːzerei",
+  "sensibilizzeremmo": "sensibilidːzeremːo",
+  "sensibilizzeremo": "sensibilidːzeremo",
+  "sensibilizzereste": "sensibilidːzereste",
+  "sensibilizzeresti": "sensibilidːzeresti",
+  "sensibilizzerete": "sensibilidːzerete",
+  "sensibilizzerò": "sensibilidːzero",
+  "sensibilizzi": "sensibilidːzi",
+  "sensibilizziamo": "sensibilidːziamo",
+  "sensibilizziate": "sensibilidːziate",
+  "sensibilizzino": "sensibilidːzino",
+  "sensibilizzo": "sensibilidːzo",
+  "sensibilizzò": "sensibilidːzo",
+  "sensibilmente": "sensibilmente",
+  "sensismi": "sensizmi",
+  "sensismo": "sensizmo",
+  "sensista": "sensista",
+  "sensiste": "sensiste",
+  "sensisti": "sensisti",
+  "sensitivo": "sensitivo",
+  "senso": "sɛnso",
+  "sensore": "sensore",
+  "sensori": "sensori",
+  "sensoriale": "sensorjale",
+  "sensuale": "sensuale",
+  "sensuali": "sensuali",
+  "sensualismi": "senswalizmi",
+  "sensualismo": "senswalizmo",
+  "sensualissima": "sensualisːima",
+  "sensualissime": "sensualisːime",
+  "sensualissimo": "sensualisːimo",
+  "sensualista": "senswalista",
+  "sensualiste": "senswaliste",
+  "sensualisti": "senswalisti",
+  "sensualità": "sensualita",
+  "sensualità_2": "senswalita",
+  "sensualmente": "sensualmente",
+  "senta": "sɛnta",
+  "sente": "sɛnte",
+  "sentente": "sɛntente",
+  "sentenza": "sentɛntsa",
+  "sentenze": "sentɛntse",
+  "sentenziato": "sententsjato",
+  "sentenzioso": "sententsjoso",
+  "sentenzioso_2": "sententsjozo",
+  "senti": "sɛnti",
+  "sentieri": "sɛntjɛri",
+  "sentiero": "sentjɛro",
+  "sentiero_2": "sɛntjɛro",
+  "sentiero_3": "sɛntjɛrɔ",
+  "sentii": "sentij",
+  "sentimentale": "sentimentale",
+  "sentimentalismi": "sentimentalizmi",
+  "sentimentalismo": "sentimentalizmo",
+  "sentimentalista": "sɛntimɛntalista",
+  "sentimentaliste": "sɛntimɛntaliste",
+  "sentimentalisti": "sɛntimɛntalisti",
+  "sentimentalmente": "sentimentalmente",
+  "sentimenti": "sentimenti",
+  "sentimento": "sentimento",
+  "sentina": "sentina",
+  "sentinella": "sentinɛlːa",
+  "sentirai": "sentirai",
+  "sentire": "sentire",
+  "sentire_2": "sɛntire",
+  "sentirsi": "sentirsi",
+  "sentisse": "sentisːe",
+  "sentitamente": "sentitamente",
+  "sentito": "sentito",
+  "sentito_2": "sɛntito",
+  "sento": "sɛnto",
+  "sentore": "sentore",
+  "senussi": "senusːi",
+  "senusso": "senusːo",
+  "senza": "sentsa",
+  "senza_2": "sɛntsa",
+  "senzacasa": "sentsakasa",
+  "senzatetto": "sentsatetːo",
+  "sepalo": "sɛpalo",
+  "separabile": "separabile",
+  "separabili": "separabili",
+  "separare": "separare",
+  "separare_2": "sɛparare",
+  "separata": "sɛparata",
+  "separatamente": "separatamente",
+  "separate": "sɛparate",
+  "separatemente": "separatamente",
+  "separatezza": "separatetːsa",
+  "separati": "sɛparati",
+  "separatismi": "separatizmi",
+  "separatismo": "separatizmo",
+  "separatista": "separatista",
+  "separatiste": "separatiste",
+  "separatisti": "separatisti",
+  "separato": "separato",
+  "separato_2": "sɛparato",
+  "separatore": "separatore",
+  "separatori": "separatori",
+  "separatorio": "separatɔrjo",
+  "separatrice": "separatritʃe",
+  "separatrici": "separatritʃi",
+  "separazione": "separatsjone",
+  "separazioni": "separatsjoni",
+  "sepide": "sɛpide",
+  "sepidi": "sɛpidi",
+  "sepolcro": "sepolkro",
+  "sepolta": "sepolta",
+  "sepolte": "sepolte",
+  "sepolti": "sepolto",
+  "sepolto": "sepolto",
+  "sepoltura": "sepoltura",
+  "sepolture": "sepolture",
+  "seppe": "sepːe",
+  "seppellimento": "sepːelːimento",
+  "seppellire": "sepːelːire",
+  "seppellirsi": "sepːelːirsi",
+  "seppellito": "sepːelːito",
+  "seppero": "sepːero",
+  "seppi": "sepːi",
+  "seppia": "sepːja",
+  "seppie": "sepːje",
+  "seppure": "sepːure",
+  "sepsi": "sɛpsi",
+  "septanta": "septanta",
+  "sequela": "sekwɛla",
+  "sequente": "sekwɛnte",
+  "sequenza": "sekwɛntsa",
+  "sequenziale": "sekwentsjale",
+  "sequenziamenti": "sekwentjamenti",
+  "sequenziamento": "sekwentjamento",
+  "sequenziare": "sekwentsjare",
+  "sequenziato": "sekwentsjato",
+  "sequenziatore": "sekwentsjatore",
+  "sequestrare": "sekwestrare",
+  "sequestrato": "sekwestrato",
+  "sequestratore": "sekwestratore",
+  "sequestro": "sekwɛstro",
+  "sequoia": "sekwoja",
+  "sequoie": "sekwoje",
+  "ser": "sɛr",
+  "sera": "sera",
+  "sera_2": "sɛra",
+  "seracchi": "serakːi",
+  "seracco": "serakːo",
+  "serafica": "serafika",
+  "seraficamente": "serafikamente",
+  "serafiche": "serafike",
+  "serafici": "serafitʃi",
+  "seraficità": "serafitʃita",
+  "serafico": "serafiko",
+  "serale": "serale",
+  "serata": "serata",
+  "serate": "serate",
+  "seratina": "seratina",
+  "serba": "sɛrba",
+  "serbante": "serbante",
+  "serbare": "serbare",
+  "serbarsi": "serbarsi",
+  "serbato": "serbato",
+  "serbatoi": "serbatoi",
+  "serbatoio": "serbatojo",
+  "serbe": "sɛrbe",
+  "serbi": "sɛrbi",
+  "serbo": "sɛrbo",
+  "serbocroato": "serbokroato",
+  "sere": "sere",
+  "serenamente": "serenamente",
+  "serenata": "serenata",
+  "serendipica": "serendipika",
+  "serendipiche": "serendipike",
+  "serendipici": "serendipitʃi",
+  "serendipico": "serendipiko",
+  "serendipità": "serendipita",
+  "sereni": "sereni",
+  "serenissima": "serenisːima",
+  "serenità": "serenita",
+  "sereno": "sereno",
+  "sergente": "serdʒɛnte",
+  "sergenti": "serdʒɛnti",
+  "sergio": "sɛrdʒo",
+  "serial": "sɛrjal",
+  "seriale": "serjale",
+  "seriali": "serjali",
+  "seriamente": "serjamente",
+  "seriamente_2": "serjamɛnte",
+  "sericoltore": "serikɔltɔre",
+  "sericoltori": "serikɔltɔri",
+  "sericoltrice": "serikɔltritʃe",
+  "sericoltrici": "serikɔltritʃe",
+  "sericoltura": "serikoltura",
+  "sericultore": "serikultɔre",
+  "sericultori": "serikultɔri",
+  "sericultrice": "serikultritʃe",
+  "sericultrici": "serikultritʃi",
+  "serie": "sɛrje",
+  "seriema": "serjɛma",
+  "serietà": "serjeta",
+  "serina": "serina",
+  "serio": "sɛrjo",
+  "serio_2": "sɛrjɔ",
+  "serioso": "serjoso",
+  "serioso_2": "serjozo",
+  "sermo": "sɛrmo",
+  "sermonare": "sermonare",
+  "sermone": "sermone",
+  "sermoni": "sermoni",
+  "serologia": "serolodʒia",
+  "serologica": "serolɔdʒika",
+  "serologiche": "serolɔdʒike",
+  "serologici": "serolɔdʒitʃi",
+  "serologico": "serolɔdʒiko",
+  "serotino": "serotino",
+  "serotonina": "serotonina",
+  "serpa": "sɛrpa",
+  "serpaia": "serpaja",
+  "serpe": "sɛrpe",
+  "serpeggiante": "serpedːʒante",
+  "serpeggianti": "serpedːʒanti",
+  "serpeggiare": "serpedːʒare",
+  "serpentario": "serpentarjo",
+  "serpente": "serpɛnte",
+  "serpente_2": "sɛrpɛnte",
+  "serpentello": "serpentɛlːo",
+  "serpentesco": "serpentesko",
+  "serpenti": "sɛrpɛnti"
 }

@@ -1,1508 +1,508 @@
 {
-  "abbellano": [
-    "abːelːano"
-  ],
-  "abbellante": [
-    "abːelːante"
-  ],
-  "abbellare": [
-    "abːelːare"
-  ],
-  "abbellarono": [
-    "abːelːarono"
-  ],
-  "abbellasse": [
-    "abːelːasːe"
-  ],
-  "abbellassero": [
-    "abːelːasːero"
-  ],
-  "abbellassi": [
-    "abːelːasːi"
-  ],
-  "abbellassimo": [
-    "abːelːasːimo"
-  ],
-  "abbellaste": [
-    "abːelːaste"
-  ],
-  "abbellasti": [
-    "abːelːasti"
-  ],
-  "abbellata": [
-    "abːelːata"
-  ],
-  "abbellate": [
-    "abːelːate"
-  ],
-  "abbellati": [
-    "abːelːati"
-  ],
-  "abbellato": [
-    "abːelːato"
-  ],
-  "abbellava": [
-    "abːelːava"
-  ],
-  "abbellavamo": [
-    "abːelːavamo"
-  ],
-  "abbellavano": [
-    "abːelːavano"
-  ],
-  "abbellavate": [
-    "abːelːavate"
-  ],
-  "abbellavi": [
-    "abːelːavi"
-  ],
-  "abbellavo": [
-    "abːelːavo"
-  ],
-  "abbellente": [
-    "abːelːente"
-  ],
-  "abbellerà": [
-    "abːelːera"
-  ],
-  "abbellerai": [
-    "abːelːerai"
-  ],
-  "abbelleranno": [
-    "abːelːeranːo"
-  ],
-  "abbellerebbe": [
-    "abːelːerebːe"
-  ],
-  "abbellerebbero": [
-    "abːelːerebːero"
-  ],
-  "abbellerei": [
-    "abːelːerei"
-  ],
-  "abbelleremmo": [
-    "abːelːeremːo"
-  ],
-  "abbelleremo": [
-    "abːelːeremo"
-  ],
-  "abbellereste": [
-    "abːelːereste"
-  ],
-  "abbelleresti": [
-    "abːelːeresti"
-  ],
-  "abbellerete": [
-    "abːelːerete"
-  ],
-  "abbellerò": [
-    "abːelːero"
-  ],
-  "abbelli": [
-    "abːelːi"
-  ],
-  "abbelliamo": [
-    "abːelːjamo"
-  ],
-  "abbelliate": [
-    "abːelːjate"
-  ],
-  "abbellimenti": [
-    "abːelːimenti"
-  ],
-  "abbellimento": [
-    "abːelːimento"
-  ],
-  "abbellino": [
-    "abːelːino"
-  ],
-  "abbellirai": [
-    "abelːirai"
-  ],
-  "abbellire": [
-    "abːelːire"
-  ],
-  "abbellirsi": [
-    "abːelːirsi"
-  ],
-  "abbellita": [
-    "abːelːita"
-  ],
-  "abbellite": [
-    "abːelːite"
-  ],
-  "abbelliti": [
-    "abːelːiti"
-  ],
-  "abbellito": [
-    "abːelːito"
-  ],
-  "abbellitura": [
-    "abːelːitura"
-  ],
-  "abbello": [
-    "abːelːo"
-  ],
-  "abbellò": [
-    "abːelːo"
-  ],
-  "abbenda": [
-    "abːendːa"
-  ],
-  "abbendai": [
-    "abːendːai"
-  ],
-  "abbendammo": [
-    "abːendːamːo"
-  ],
-  "abbendando": [
-    "abːendːando"
-  ],
-  "abbendano": [
-    "abːendːano"
-  ],
-  "abbendante": [
-    "abːendːante"
-  ],
-  "abbendare": [
-    "abːendare"
-  ],
-  "abbendarono": [
-    "abːendːarono"
-  ],
-  "abbendasse": [
-    "abːendːasːe"
-  ],
-  "abbendassero": [
-    "abːendːasːero"
-  ],
-  "abbendassi": [
-    "abːendːasːi"
-  ],
-  "abbendassimo": [
-    "abːendːasːimo"
-  ],
-  "abbendaste": [
-    "abːendːaste"
-  ],
-  "abbendasti": [
-    "abːendːasti"
-  ],
-  "abbendata": [
-    "abːendːata"
-  ],
-  "abbendate": [
-    "abːendːate"
-  ],
-  "abbendati": [
-    "abːendːati"
-  ],
-  "abbendato": [
-    "abːendːato"
-  ],
-  "abbendava": [
-    "abːendːava"
-  ],
-  "abbendavamo": [
-    "abːendːavamo"
-  ],
-  "abbendavano": [
-    "abːendːavano"
-  ],
-  "abbendavate": [
-    "abːendːavate"
-  ],
-  "abbendavi": [
-    "abːendːavi"
-  ],
-  "abbendavo": [
-    "abːendːavo"
-  ],
-  "abbenderà": [
-    "abːendːera"
-  ],
-  "abbenderai": [
-    "abːendːerai"
-  ],
-  "abbenderanno": [
-    "abːendːeranːo"
-  ],
-  "abbenderebbe": [
-    "abːendːerebːe"
-  ],
-  "abbenderebbero": [
-    "abːendːerebːero"
-  ],
-  "abbenderei": [
-    "abːendːerei"
-  ],
-  "abbenderemmo": [
-    "abːendːeremːo"
-  ],
-  "abbenderemo": [
-    "abːendːeremo"
-  ],
-  "abbendereste": [
-    "abːendːereste"
-  ],
-  "abbenderesti": [
-    "abːendːeresti"
-  ],
-  "abbenderete": [
-    "abːendːerete"
-  ],
-  "abbenderò": [
-    "abːendːero"
-  ],
-  "abbendi": [
-    "abːendːi"
-  ],
-  "abbendiamo": [
-    "abːendːjamo"
-  ],
-  "abbendiate": [
-    "abːendːjate"
-  ],
-  "abbendino": [
-    "abːendːino"
-  ],
-  "abbendo": [
-    "abːendːo"
-  ],
-  "abbendò": [
-    "abːendːo"
-  ],
-  "abbevera": [
-    "abːevera"
-  ],
-  "abbeveraggi": [
-    "abːeveradːʒi"
-  ],
-  "abbeveraggio": [
-    "abːeveradːʒo"
-  ],
-  "abbeverai": [
-    "abːeverai"
-  ],
-  "abbeveramento": [
-    "abːeveramento"
-  ],
-  "abbeverammo": [
-    "abːeveramːo"
-  ],
-  "abbeverando": [
-    "abːeverando"
-  ],
-  "abbeverano": [
-    "abːeverano"
-  ],
-  "abbeverante": [
-    "abːeverante"
-  ],
-  "abbeverare": [
-    "abːeverare"
-  ],
-  "abbeverarono": [
-    "abːeverarono"
-  ],
-  "abbeverarsi": [
-    "abːeverarsi"
-  ],
-  "abbeverasse": [
-    "abːeverasːe"
-  ],
-  "abbeverassero": [
-    "abːeverasːero"
-  ],
-  "abbeverassi": [
-    "abːeverasːi"
-  ],
-  "abbeverassimo": [
-    "abːeverasːimo"
-  ],
-  "abbeveraste": [
-    "abːeveraste"
-  ],
-  "abbeverasti": [
-    "abːeverasti"
-  ],
-  "abbeverata": [
-    "abːeverata"
-  ],
-  "abbeverate": [
-    "abːeverate"
-  ],
-  "abbeverati": [
-    "abːeverati"
-  ],
-  "abbeverato": [
-    "abːeverato"
-  ],
-  "abbeveratoio": [
-    "abːeveratojo"
-  ],
-  "abbeverava": [
-    "abːeverava"
-  ],
-  "abbeveravamo": [
-    "abːeveravamo"
-  ],
-  "abbeveravano": [
-    "abːeveravano"
-  ],
-  "abbeveravate": [
-    "abːeveravate"
-  ],
-  "abbeveravi": [
-    "abːeveravi"
-  ],
-  "abbeveravo": [
-    "abːeveravo"
-  ],
-  "abbevererà": [
-    "abːeverera"
-  ],
-  "abbevererai": [
-    "abːevererai"
-  ],
-  "abbevereranno": [
-    "abːevereranːo"
-  ],
-  "abbevererebbe": [
-    "abːevererebːe"
-  ],
-  "abbevererebbero": [
-    "abːevererebːero"
-  ],
-  "abbevererei": [
-    "abːevererei"
-  ],
-  "abbevereremmo": [
-    "abːevereremːo"
-  ],
-  "abbevereremo": [
-    "abːevereremo"
-  ],
-  "abbeverereste": [
-    "abːeverereste"
-  ],
-  "abbevereresti": [
-    "abːevereresti"
-  ],
-  "abbevererete": [
-    "abːevererete"
-  ],
-  "abbevererò": [
-    "abːeverero"
-  ],
-  "abbeveri": [
-    "abːeveri"
-  ],
-  "abbeveriamo": [
-    "abːeverjamo"
-  ],
-  "abbeveriate": [
-    "abːeverjate"
-  ],
-  "abbeverino": [
-    "abːeverino"
-  ],
-  "abbevero": [
-    "abːevero"
-  ],
-  "abbeverò": [
-    "abːevero"
-  ],
-  "abbevilliano": [
-    "abːevilːjano"
-  ],
-  "abbi": [
-    "abːi"
-  ],
-  "abbia": [
-    "abːja"
-  ],
-  "abbiada": [
-    "abːjada"
-  ],
-  "abbiadai": [
-    "abːjadai"
-  ],
-  "abbiadammo": [
-    "abːjadamːo"
-  ],
-  "abbiadando": [
-    "abːjadando"
-  ],
-  "abbiadano": [
-    "abːjadano"
-  ],
-  "abbiadante": [
-    "abːjadante"
-  ],
-  "abbiadare": [
-    "abːjadare"
-  ],
-  "abbiadarono": [
-    "abːjadarono"
-  ],
-  "abbiadasse": [
-    "abːjadasːe"
-  ],
-  "abbiadassero": [
-    "abːjadasːero"
-  ],
-  "abbiadassi": [
-    "abːjadasːi"
-  ],
-  "abbiadassimo": [
-    "abːjadasːimo"
-  ],
-  "abbiadaste": [
-    "abːjadaste"
-  ],
-  "abbiadasti": [
-    "abːjadasti"
-  ],
-  "abbiadata": [
-    "abːjadata"
-  ],
-  "abbiadate": [
-    "abːjadate"
-  ],
-  "abbiadati": [
-    "abːjadati"
-  ],
-  "abbiadato": [
-    "abːjadato"
-  ],
-  "abbiadava": [
-    "abːjadava"
-  ],
-  "abbiadavamo": [
-    "abːjadavamo"
-  ],
-  "abbiadavano": [
-    "abːjadavano"
-  ],
-  "abbiadavate": [
-    "abːjadavate"
-  ],
-  "abbiadavi": [
-    "abːjadavi"
-  ],
-  "abbiadavo": [
-    "abːjadavo"
-  ],
-  "abbiaderà": [
-    "abːjadera"
-  ],
-  "abbiaderai": [
-    "abːjaderai"
-  ],
-  "abbiaderanno": [
-    "abːjaderanːo"
-  ],
-  "abbiaderebbe": [
-    "abːjaderebːe"
-  ],
-  "abbiaderebbero": [
-    "abːjaderebːero"
-  ],
-  "abbiaderei": [
-    "abːjaderei"
-  ],
-  "abbiaderemmo": [
-    "abːjaderemːo"
-  ],
-  "abbiaderemo": [
-    "abːjaderemo"
-  ],
-  "abbiadereste": [
-    "abːjadereste"
-  ],
-  "abbiaderesti": [
-    "abːjaderesti"
-  ],
-  "abbiaderete": [
-    "abːjaderete"
-  ],
-  "abbiaderò": [
-    "abːjadero"
-  ],
-  "abbiadi": [
-    "abːjadi"
-  ],
-  "abbiadiamo": [
-    "abːjadjamo"
-  ],
-  "abbiadiate": [
-    "abːjadjate"
-  ],
-  "abbiadino": [
-    "abːjadino"
-  ],
-  "abbiado": [
-    "abːjado"
-  ],
-  "abbiadò": [
-    "abːjado"
-  ],
-  "abbiamo": [
-    "abːjamo"
-  ],
-  "abbiano": [
-    "abːjano"
-  ],
-  "abbiate": [
-    "abːjate"
-  ],
-  "abbiatense": [
-    "abːjatɛnse"
-  ],
-  "abbicare": [
-    "abːikare"
-  ],
-  "abbicatura": [
-    "abːikatura"
-  ],
-  "abbiccì": [
-    "abːitːʃi"
-  ],
-  "abbico": [
-    "abːiko"
-  ],
-  "abbiente": [
-    "abːiɛnte",
-    "abːjɛnte"
-  ],
-  "abbietta": [
-    "abːjetːa"
-  ],
-  "abbiettare": [
-    "abːjetːare"
-  ],
-  "abbiette": [
-    "abːjetːe"
-  ],
-  "abbietti": [
-    "abːjetːi"
-  ],
-  "abbietto": [
-    "abːjetːo"
-  ],
-  "abbigliamenti": [
-    "abːiʎamenti"
-  ],
-  "abbigliamento": [
-    "abːiʎamento"
-  ],
-  "abbigliare": [
-    "abːiʎare"
-  ],
-  "abbigliatoio": [
-    "abːiʎatojo"
-  ],
-  "abbigliatura": [
-    "abːiʎatura"
-  ],
-  "abbigliature": [
-    "abːiʎature"
-  ],
-  "abbiglio": [
-    "abːiʎo"
-  ],
-  "abbina": [
-    "abːina"
-  ],
-  "abbinabile": [
-    "abːinabile"
-  ],
-  "abbinabili": [
-    "abːinabili"
-  ],
-  "abbinai": [
-    "abːinai"
-  ],
-  "abbinamento": [
-    "abːinamento"
-  ],
-  "abbinammo": [
-    "abːinamːo"
-  ],
-  "abbinando": [
-    "abːinando"
-  ],
-  "abbinano": [
-    "abːinano"
-  ],
-  "abbinante": [
-    "abːinante"
-  ],
-  "abbinare": [
-    "abːinare"
-  ],
-  "abbinarono": [
-    "abːinarono"
-  ],
-  "abbinasse": [
-    "abːinasːe"
-  ],
-  "abbinassero": [
-    "abːinasːero"
-  ],
-  "abbinassi": [
-    "abːinasːi"
-  ],
-  "abbinassimo": [
-    "abːinasːimo"
-  ],
-  "abbinaste": [
-    "abːinaste"
-  ],
-  "abbinasti": [
-    "abːinasti"
-  ],
-  "abbinata": [
-    "abːinata"
-  ],
-  "abbinate": [
-    "abːinate"
-  ],
-  "abbinati": [
-    "abːinati"
-  ],
-  "abbinato": [
-    "abːinato"
-  ],
-  "abbinatura": [
-    "abːinatura"
-  ],
-  "abbinava": [
-    "abːinava"
-  ],
-  "abbinavamo": [
-    "abːinavamo"
-  ],
-  "abbinavano": [
-    "abːinavano"
-  ],
-  "abbinavate": [
-    "abːinavate"
-  ],
-  "abbinavi": [
-    "abːinavi"
-  ],
-  "abbinavo": [
-    "abːinavo"
-  ],
-  "abbindola": [
-    "abːindola"
-  ],
-  "abbindolai": [
-    "abːindolai"
-  ],
-  "abbindolamenti": [
-    "abːindolamenti"
-  ],
-  "abbindolamento": [
-    "abːindolamento"
-  ],
-  "abbindolammo": [
-    "abːindolamːo"
-  ],
-  "abbindolando": [
-    "abːindolando"
-  ],
-  "abbindolano": [
-    "abːindolano"
-  ],
-  "abbindolante": [
-    "abːindolante"
-  ],
-  "abbindolare": [
-    "abːindolare"
-  ],
-  "abbindolarono": [
-    "abːindolarono"
-  ],
-  "abbindolasse": [
-    "abːindolasːe"
-  ],
-  "abbindolassero": [
-    "abːindolasːero"
-  ],
-  "abbindolassi": [
-    "abːindolasːi"
-  ],
-  "abbindolassimo": [
-    "abːindolasːimo"
-  ],
-  "abbindolaste": [
-    "abːindolaste"
-  ],
-  "abbindolasti": [
-    "abːindolasti"
-  ],
-  "abbindolata": [
-    "abːindolata"
-  ],
-  "abbindolate": [
-    "abːindolate"
-  ],
-  "abbindolati": [
-    "abːindolati"
-  ],
-  "abbindolato": [
-    "abːindolato"
-  ],
-  "abbindolatore": [
-    "abːindolatore"
-  ],
-  "abbindolatori": [
-    "abːindolatori"
-  ],
-  "abbindolava": [
-    "abːindolava"
-  ],
-  "abbindolavamo": [
-    "abːindolavamo"
-  ],
-  "abbindolavano": [
-    "abːindolavano"
-  ],
-  "abbindolavate": [
-    "abːindolavate"
-  ],
-  "abbindolavi": [
-    "abːindolavi"
-  ],
-  "abbindolavo": [
-    "abːindolavo"
-  ],
-  "abbindolerà": [
-    "abːindolera"
-  ],
-  "abbindolerai": [
-    "abːindolerai"
-  ],
-  "abbindoleranno": [
-    "abːindoleranːo"
-  ],
-  "abbindolerebbe": [
-    "abːindolerebːe"
-  ],
-  "abbindolerebbero": [
-    "abːindolerebːero"
-  ],
-  "abbindolerei": [
-    "abːindolerei"
-  ],
-  "abbindoleremmo": [
-    "abːindoleremːo"
-  ],
-  "abbindoleremo": [
-    "abːindoleremo"
-  ],
-  "abbindolereste": [
-    "abːindolereste"
-  ],
-  "abbindoleresti": [
-    "abːindoleresti"
-  ],
-  "abbindolerete": [
-    "abːindolerete"
-  ],
-  "abbindolerò": [
-    "abːindolero"
-  ],
-  "abbindoli": [
-    "abːindoli"
-  ],
-  "abbindoliamo": [
-    "abːindoljamo"
-  ],
-  "abbindoliate": [
-    "abːindoljate"
-  ],
-  "abbindolino": [
-    "abːindolino"
-  ],
-  "abbindolo": [
-    "abːindolo"
-  ],
-  "abbindolò": [
-    "abːindolo"
-  ],
-  "abbinerà": [
-    "abːinera"
-  ],
-  "abbinerai": [
-    "abːinerai"
-  ],
-  "abbineranno": [
-    "abːineranːo"
-  ],
-  "abbinerebbe": [
-    "abːinerebːe"
-  ],
-  "abbinerebbero": [
-    "abːinerebːero"
-  ],
-  "abbinerei": [
-    "abːinerei"
-  ],
-  "abbineremmo": [
-    "abːineremːo"
-  ],
-  "abbineremo": [
-    "abːineremo"
-  ],
-  "abbinereste": [
-    "abːinereste"
-  ],
-  "abbineresti": [
-    "abːineresti"
-  ],
-  "abbinerete": [
-    "abːinerete"
-  ],
-  "abbinerò": [
-    "abːinero"
-  ],
-  "abbini": [
-    "abːini"
-  ],
-  "abbiniamo": [
-    "abːinjamo"
-  ],
-  "abbiniate": [
-    "abːinjate"
-  ],
-  "abbinino": [
-    "abːinino"
-  ],
-  "abbino": [
-    "abːino"
-  ],
-  "abbinò": [
-    "abːino"
-  ],
-  "abbioccare": [
-    "abːjokːare"
-  ],
-  "abbiocco": [
-    "abːjokːo",
-    "abːjɔkːo"
-  ],
-  "abbiosciare": [
-    "abːjoʃʃare"
-  ],
-  "abbiosciarsi": [
-    "abːjoʃʃarsi"
-  ],
-  "abbioscio": [
-    "abːjoʃʃo"
-  ],
-  "abbisciare": [
-    "abːiʃʃare"
-  ],
-  "abbiscio": [
-    "abːiʃʃo"
-  ],
-  "abbisogna": [
-    "abːizoɲɲa"
-  ],
-  "abbisognai": [
-    "abːizoɲɲai"
-  ],
-  "abbisognammo": [
-    "abːizoɲɲamːo"
-  ],
-  "abbisognando": [
-    "abːizoɲɲando"
-  ],
-  "abbisognano": [
-    "abːizoɲɲano"
-  ],
-  "abbisognante": [
-    "abːizoɲɲante"
-  ],
-  "abbisognare": [
-    "abːiɲare",
-    "abːizoɡnare",
-    "abːizoɲɲare"
-  ],
-  "abbisognarono": [
-    "abːizoɲɲarono"
-  ],
-  "abbisognasse": [
-    "abːizoɲɲasːe"
-  ],
-  "abbisognassero": [
-    "abːizoɲɲasːero"
-  ],
-  "abbisognassi": [
-    "abːizoɲɲasːi"
-  ],
-  "abbisognassimo": [
-    "abːizoɲɲasːimo"
-  ],
-  "abbisognaste": [
-    "abːizoɲɲaste"
-  ],
-  "abbisognasti": [
-    "abːizoɲɲasti"
-  ],
-  "abbisognata": [
-    "abːizoɲɲata"
-  ],
-  "abbisognate": [
-    "abːizoɲɲate"
-  ],
-  "abbisognati": [
-    "abːizoɲɲati"
-  ],
-  "abbisognato": [
-    "abːizoɲɲato"
-  ],
-  "abbisognava": [
-    "abːizoɲɲava"
-  ],
-  "abbisognavamo": [
-    "abːizoɲɲavamo"
-  ],
-  "abbisognavano": [
-    "abːizoɲɲavano"
-  ],
-  "abbisognavate": [
-    "abːizoɲɲavate"
-  ],
-  "abbisognavi": [
-    "abːizoɲɲavi"
-  ],
-  "abbisognavo": [
-    "abːizoɲɲavo"
-  ],
-  "abbisognerà": [
-    "abːizoɲɲera"
-  ],
-  "abbisognerai": [
-    "abːizoɲɲerai"
-  ],
-  "abbisogneranno": [
-    "abːizoɲɲeranːo"
-  ],
-  "abbisognerebbe": [
-    "abːizoɲɲerebːe"
-  ],
-  "abbisognerebbero": [
-    "abːizoɲɲerebːero"
-  ],
-  "abbisognerei": [
-    "abːizoɲɲerei"
-  ],
-  "abbisogneremmo": [
-    "abːizoɲɲeremːo"
-  ],
-  "abbisogneremo": [
-    "abːizoɲɲeremo"
-  ],
-  "abbisognereste": [
-    "abːizoɲɲereste"
-  ],
-  "abbisogneresti": [
-    "abːizoɲɲeresti"
-  ],
-  "abbisognerete": [
-    "abːizoɲɲerete"
-  ],
-  "abbisognerò": [
-    "abːizoɲɲero"
-  ],
-  "abbisogni": [
-    "abːizoɲɲi"
-  ],
-  "abbisogniamo": [
-    "abːizoɲɲamo"
-  ],
-  "abbisogniate": [
-    "abːizoɲɲate"
-  ],
-  "abbisognino": [
-    "abːizoɲɲino"
-  ],
-  "abbisogno": [
-    "abizoɲɲo"
-  ],
-  "abbisognò": [
-    "abːizoɲɲo"
-  ],
-  "abbitta": [
-    "abːitːa"
-  ],
-  "abbittai": [
-    "abːitːai"
-  ],
-  "abbittammo": [
-    "abːitːamːo"
-  ],
-  "abbittando": [
-    "abːitːando"
-  ],
-  "abbittano": [
-    "abːitːano"
-  ],
-  "abbittante": [
-    "abːitːante"
-  ],
-  "abbittare": [
-    "abːitːare"
-  ],
-  "abbittarono": [
-    "abːitːarono"
-  ],
-  "abbittasse": [
-    "abːitːasːe"
-  ],
-  "abbittassero": [
-    "abːitːasːero"
-  ],
-  "abbittassi": [
-    "abːitːasːi"
-  ],
-  "abbittassimo": [
-    "abːitːasːimo"
-  ],
-  "abbittaste": [
-    "abːitːaste"
-  ],
-  "abbittasti": [
-    "abːitːasti"
-  ],
-  "abbittata": [
-    "abːitːata"
-  ],
-  "abbittate": [
-    "abːitːate"
-  ],
-  "abbittati": [
-    "abːitːati"
-  ],
-  "abbittato": [
-    "abːitːato"
-  ],
-  "abbittava": [
-    "abːitːava"
-  ],
-  "abbittavamo": [
-    "abːitːavamo"
-  ],
-  "abbittavano": [
-    "abːitːavano"
-  ],
-  "abbittavate": [
-    "abːitːavate"
-  ],
-  "abbittavi": [
-    "abːitːavi"
-  ],
-  "abbittavo": [
-    "abːitːavo"
-  ],
-  "abbitterà": [
-    "abːitːera"
-  ],
-  "abbitterai": [
-    "abːitːerai"
-  ],
-  "abbitteranno": [
-    "abːitːeranːo"
-  ],
-  "abbitterebbe": [
-    "abːitːerebːe"
-  ],
-  "abbitterebbero": [
-    "abːitːerebːero"
-  ],
-  "abbitterei": [
-    "abːitːerei"
-  ],
-  "abbitteremmo": [
-    "abːitːeremːo"
-  ],
-  "abbitteremo": [
-    "abːitːeremo"
-  ],
-  "abbittereste": [
-    "abːitːereste"
-  ],
-  "abbitteresti": [
-    "abːitːeresti"
-  ],
-  "abbitterete": [
-    "abːitːerete"
-  ],
-  "abbitterò": [
-    "abːitːero"
-  ],
-  "abbitti": [
-    "abːitːi"
-  ],
-  "abbittiamo": [
-    "abːitːjamo"
-  ],
-  "abbittiate": [
-    "abːitːjate"
-  ],
-  "abbittino": [
-    "abːitːino"
-  ],
-  "abbitto": [
-    "abːitːo"
-  ],
-  "abbittò": [
-    "abːitːo"
-  ],
-  "abbocca": [
-    "abːokːa"
-  ],
-  "abboccai": [
-    "abːokːai"
-  ],
-  "abboccamenti": [
-    "abːokːamenti"
-  ],
-  "abboccamento": [
-    "abːokːamento"
-  ],
-  "abboccammo": [
-    "abːokːamːo"
-  ],
-  "abboccando": [
-    "abːokːando"
-  ],
-  "abboccano": [
-    "abːokːano"
-  ],
-  "abboccante": [
-    "abːokːante"
-  ],
-  "abboccare": [
-    "abːokːare"
-  ],
-  "abboccarono": [
-    "abːokːarono"
-  ],
-  "abboccasse": [
-    "abːokːasːe"
-  ],
-  "abboccassero": [
-    "abːokːasːero"
-  ],
-  "abboccassi": [
-    "abːokːasːi"
-  ],
-  "abboccassimo": [
-    "abːokːasːimo"
-  ],
-  "abboccaste": [
-    "abːokːaste"
-  ],
-  "abboccasti": [
-    "abːokːasti"
-  ],
-  "abboccata": [
-    "abːokːata"
-  ],
-  "abboccate": [
-    "abːokːate"
-  ],
-  "abboccati": [
-    "abːokːati"
-  ],
-  "abboccato": [
-    "abːokːato"
-  ],
-  "abboccatura": [
-    "abːokːatura"
-  ],
-  "abboccature": [
-    "abːokːature"
-  ],
-  "abboccava": [
-    "abːokːava"
-  ],
-  "abboccavamo": [
-    "abːokːavamo"
-  ],
-  "abboccavano": [
-    "abːokːavano"
-  ],
-  "abboccavate": [
-    "abːokːavate"
-  ],
-  "abboccavi": [
-    "abːokːavi"
-  ],
-  "abboccavo": [
-    "abːokːavo"
-  ],
-  "abboccherà": [
-    "abːokːera"
-  ],
-  "abboccherai": [
-    "abːokːerai"
-  ],
-  "abboccheranno": [
-    "abːokːeranːo"
-  ],
-  "abboccherebbe": [
-    "abːokːerebːe"
-  ],
-  "abboccherebbero": [
-    "abːokːerebːero"
-  ],
-  "abboccherei": [
-    "abːokːerei"
-  ],
-  "abboccheremmo": [
-    "abːokːeremːo"
-  ],
-  "abboccheremo": [
-    "abːokːeremo"
-  ],
-  "abbocchereste": [
-    "abːokːereste"
-  ],
-  "abboccheresti": [
-    "abːokːeresti"
-  ],
-  "abboccherete": [
-    "abːokːerete"
-  ],
-  "abboccherò": [
-    "abːokːero"
-  ],
-  "abbocchi": [
-    "abːokːi"
-  ],
-  "abbocchiamo": [
-    "abːokːjamo"
-  ],
-  "abbocchiate": [
-    "abːokːjate"
-  ],
-  "abbocchino": [
-    "abːokːino"
-  ],
-  "abbocco": [
-    "abːokːo",
-    "abːɔkːo"
-  ],
-  "abboccò": [
-    "abːokːo"
-  ],
-  "abbocconare": [
-    "abːokːonare"
-  ],
-  "abbomina": [
-    "abːɔmina"
-  ],
-  "abbominabile": [
-    "abːominabile"
-  ],
-  "abbominabili": [
-    "abːominabili"
-  ],
-  "abbominai": [
-    "abːominai"
-  ],
-  "abbominammo": [
-    "abːominamːo"
-  ],
-  "abbominando": [
-    "abːominando"
-  ],
-  "abbominano": [
-    "abːɔminano"
-  ],
-  "abbominante": [
-    "abːominante"
-  ],
-  "abbominare": [
-    "abːominare"
-  ],
-  "abbominarono": [
-    "abːominarono"
-  ],
-  "abbominasse": [
-    "abːominasːe"
-  ],
-  "abbominassero": [
-    "abːominasːero"
-  ],
-  "abbominassi": [
-    "abːominasːi"
-  ],
-  "abbominassimo": [
-    "abːominasːimo"
-  ],
-  "abbominaste": [
-    "abːominaste"
-  ],
-  "abbominasti": [
-    "abːominasti"
-  ],
-  "abbominata": [
-    "abːominata"
-  ],
-  "abbominate": [
-    "abːominate"
-  ],
-  "abbominati": [
-    "abːominati"
-  ],
-  "abbominato": [
-    "abːominato"
-  ],
-  "abbominava": [
-    "abːominava"
-  ],
-  "abbominavamo": [
-    "abːominavamo"
-  ],
-  "abbominavano": [
-    "abːominavano"
-  ],
-  "abbominavate": [
-    "abːominavate"
-  ],
-  "abbominavi": [
-    "abːominavi"
-  ],
-  "abbominavo": [
-    "abːominavo"
-  ],
-  "abbominerà": [
-    "abːominera"
-  ],
-  "abbominerai": [
-    "abːominerai"
-  ],
-  "abbomineranno": [
-    "abːomineranːo"
-  ],
-  "abbominerebbe": [
-    "abːominerebːe"
-  ],
-  "abbominerebbero": [
-    "abːominerebːero"
-  ],
-  "abbominerei": [
-    "abːominerei"
-  ],
-  "abbomineremmo": [
-    "abːomineremːo"
-  ],
-  "abbomineremo": [
-    "abːomineremo"
-  ],
-  "abbominereste": [
-    "abːominereste"
-  ],
-  "abbomineresti": [
-    "abːomineresti"
-  ],
-  "abbominerete": [
-    "abːominerete"
-  ],
-  "abbominerò": [
-    "abːominero"
-  ],
-  "abbominevole": [
-    "abːominevole"
-  ],
-  "abbomini": [
-    "abːɔmini"
-  ],
-  "abbominiamo": [
-    "abːominjamo"
-  ],
-  "abbominiate": [
-    "abːominjate"
-  ],
-  "abbominino": [
-    "abːominino"
-  ],
-  "abbomino": [
-    "abːomino"
-  ],
-  "abbominò": [
-    "abːomino"
-  ],
-  "abbona": [
-    "abːona",
-    "abːwona"
-  ],
-  "abbonaccerà": [
-    "abːonatːʃera"
-  ],
-  "abbonaccerai": [
-    "abːonatːʃerai"
-  ],
-  "abbonacceranno": [
-    "abːonatːʃeranːo"
-  ],
-  "abbonaccerebbe": [
-    "abːonatːʃerebːe"
-  ],
-  "abbonaccerebbero": [
-    "abːonatːʃerebːero"
-  ],
-  "abbonaccerei": [
-    "abːonatːʃerei"
-  ],
-  "abbonacceremmo": [
-    "abːonatːʃeremːo"
-  ],
-  "abbonacceremo": [
-    "abːonatːʃeremo"
-  ],
-  "abbonaccereste": [
-    "abːonatːʃereste"
-  ],
-  "abbonacceresti": [
-    "abːonatːʃeresti"
-  ],
-  "abbonaccerete": [
-    "abːonatːʃerete"
-  ],
-  "abbonaccerò": [
-    "abːonatːʃero"
-  ],
-  "abbonacci": [
-    "abːonatːʃi"
-  ],
-  "abbonaccia": [
-    "abːonatːʃa"
-  ],
-  "abbonacciai": [
-    "abːonatːʃai"
-  ],
-  "abbonacciammo": [
-    "abːonatːʃamːo"
-  ],
-  "abbonacciamo": [
-    "abːonatːʃamo"
-  ],
-  "abbonacciando": [
-    "abːonatːʃando"
-  ],
-  "abbonacciano": [
-    "abːonatːʃano"
-  ],
-  "abbonacciante": [
-    "abːonatːʃante"
-  ]
+  "abbellano": "abːelːano",
+  "abbellante": "abːelːante",
+  "abbellare": "abːelːare",
+  "abbellarono": "abːelːarono",
+  "abbellasse": "abːelːasːe",
+  "abbellassero": "abːelːasːero",
+  "abbellassi": "abːelːasːi",
+  "abbellassimo": "abːelːasːimo",
+  "abbellaste": "abːelːaste",
+  "abbellasti": "abːelːasti",
+  "abbellata": "abːelːata",
+  "abbellate": "abːelːate",
+  "abbellati": "abːelːati",
+  "abbellato": "abːelːato",
+  "abbellava": "abːelːava",
+  "abbellavamo": "abːelːavamo",
+  "abbellavano": "abːelːavano",
+  "abbellavate": "abːelːavate",
+  "abbellavi": "abːelːavi",
+  "abbellavo": "abːelːavo",
+  "abbellente": "abːelːente",
+  "abbellerà": "abːelːera",
+  "abbellerai": "abːelːerai",
+  "abbelleranno": "abːelːeranːo",
+  "abbellerebbe": "abːelːerebːe",
+  "abbellerebbero": "abːelːerebːero",
+  "abbellerei": "abːelːerei",
+  "abbelleremmo": "abːelːeremːo",
+  "abbelleremo": "abːelːeremo",
+  "abbellereste": "abːelːereste",
+  "abbelleresti": "abːelːeresti",
+  "abbellerete": "abːelːerete",
+  "abbellerò": "abːelːero",
+  "abbelli": "abːelːi",
+  "abbelliamo": "abːelːjamo",
+  "abbelliate": "abːelːjate",
+  "abbellimenti": "abːelːimenti",
+  "abbellimento": "abːelːimento",
+  "abbellino": "abːelːino",
+  "abbellirai": "abelːirai",
+  "abbellire": "abːelːire",
+  "abbellirsi": "abːelːirsi",
+  "abbellita": "abːelːita",
+  "abbellite": "abːelːite",
+  "abbelliti": "abːelːiti",
+  "abbellito": "abːelːito",
+  "abbellitura": "abːelːitura",
+  "abbello": "abːelːo",
+  "abbellò": "abːelːo",
+  "abbenda": "abːendːa",
+  "abbendai": "abːendːai",
+  "abbendammo": "abːendːamːo",
+  "abbendando": "abːendːando",
+  "abbendano": "abːendːano",
+  "abbendante": "abːendːante",
+  "abbendare": "abːendare",
+  "abbendarono": "abːendːarono",
+  "abbendasse": "abːendːasːe",
+  "abbendassero": "abːendːasːero",
+  "abbendassi": "abːendːasːi",
+  "abbendassimo": "abːendːasːimo",
+  "abbendaste": "abːendːaste",
+  "abbendasti": "abːendːasti",
+  "abbendata": "abːendːata",
+  "abbendate": "abːendːate",
+  "abbendati": "abːendːati",
+  "abbendato": "abːendːato",
+  "abbendava": "abːendːava",
+  "abbendavamo": "abːendːavamo",
+  "abbendavano": "abːendːavano",
+  "abbendavate": "abːendːavate",
+  "abbendavi": "abːendːavi",
+  "abbendavo": "abːendːavo",
+  "abbenderà": "abːendːera",
+  "abbenderai": "abːendːerai",
+  "abbenderanno": "abːendːeranːo",
+  "abbenderebbe": "abːendːerebːe",
+  "abbenderebbero": "abːendːerebːero",
+  "abbenderei": "abːendːerei",
+  "abbenderemmo": "abːendːeremːo",
+  "abbenderemo": "abːendːeremo",
+  "abbendereste": "abːendːereste",
+  "abbenderesti": "abːendːeresti",
+  "abbenderete": "abːendːerete",
+  "abbenderò": "abːendːero",
+  "abbendi": "abːendːi",
+  "abbendiamo": "abːendːjamo",
+  "abbendiate": "abːendːjate",
+  "abbendino": "abːendːino",
+  "abbendo": "abːendːo",
+  "abbendò": "abːendːo",
+  "abbevera": "abːevera",
+  "abbeveraggi": "abːeveradːʒi",
+  "abbeveraggio": "abːeveradːʒo",
+  "abbeverai": "abːeverai",
+  "abbeveramento": "abːeveramento",
+  "abbeverammo": "abːeveramːo",
+  "abbeverando": "abːeverando",
+  "abbeverano": "abːeverano",
+  "abbeverante": "abːeverante",
+  "abbeverare": "abːeverare",
+  "abbeverarono": "abːeverarono",
+  "abbeverarsi": "abːeverarsi",
+  "abbeverasse": "abːeverasːe",
+  "abbeverassero": "abːeverasːero",
+  "abbeverassi": "abːeverasːi",
+  "abbeverassimo": "abːeverasːimo",
+  "abbeveraste": "abːeveraste",
+  "abbeverasti": "abːeverasti",
+  "abbeverata": "abːeverata",
+  "abbeverate": "abːeverate",
+  "abbeverati": "abːeverati",
+  "abbeverato": "abːeverato",
+  "abbeveratoio": "abːeveratojo",
+  "abbeverava": "abːeverava",
+  "abbeveravamo": "abːeveravamo",
+  "abbeveravano": "abːeveravano",
+  "abbeveravate": "abːeveravate",
+  "abbeveravi": "abːeveravi",
+  "abbeveravo": "abːeveravo",
+  "abbevererà": "abːeverera",
+  "abbevererai": "abːevererai",
+  "abbevereranno": "abːevereranːo",
+  "abbevererebbe": "abːevererebːe",
+  "abbevererebbero": "abːevererebːero",
+  "abbevererei": "abːevererei",
+  "abbevereremmo": "abːevereremːo",
+  "abbevereremo": "abːevereremo",
+  "abbeverereste": "abːeverereste",
+  "abbevereresti": "abːevereresti",
+  "abbevererete": "abːevererete",
+  "abbevererò": "abːeverero",
+  "abbeveri": "abːeveri",
+  "abbeveriamo": "abːeverjamo",
+  "abbeveriate": "abːeverjate",
+  "abbeverino": "abːeverino",
+  "abbevero": "abːevero",
+  "abbeverò": "abːevero",
+  "abbevilliano": "abːevilːjano",
+  "abbi": "abːi",
+  "abbia": "abːja",
+  "abbiada": "abːjada",
+  "abbiadai": "abːjadai",
+  "abbiadammo": "abːjadamːo",
+  "abbiadando": "abːjadando",
+  "abbiadano": "abːjadano",
+  "abbiadante": "abːjadante",
+  "abbiadare": "abːjadare",
+  "abbiadarono": "abːjadarono",
+  "abbiadasse": "abːjadasːe",
+  "abbiadassero": "abːjadasːero",
+  "abbiadassi": "abːjadasːi",
+  "abbiadassimo": "abːjadasːimo",
+  "abbiadaste": "abːjadaste",
+  "abbiadasti": "abːjadasti",
+  "abbiadata": "abːjadata",
+  "abbiadate": "abːjadate",
+  "abbiadati": "abːjadati",
+  "abbiadato": "abːjadato",
+  "abbiadava": "abːjadava",
+  "abbiadavamo": "abːjadavamo",
+  "abbiadavano": "abːjadavano",
+  "abbiadavate": "abːjadavate",
+  "abbiadavi": "abːjadavi",
+  "abbiadavo": "abːjadavo",
+  "abbiaderà": "abːjadera",
+  "abbiaderai": "abːjaderai",
+  "abbiaderanno": "abːjaderanːo",
+  "abbiaderebbe": "abːjaderebːe",
+  "abbiaderebbero": "abːjaderebːero",
+  "abbiaderei": "abːjaderei",
+  "abbiaderemmo": "abːjaderemːo",
+  "abbiaderemo": "abːjaderemo",
+  "abbiadereste": "abːjadereste",
+  "abbiaderesti": "abːjaderesti",
+  "abbiaderete": "abːjaderete",
+  "abbiaderò": "abːjadero",
+  "abbiadi": "abːjadi",
+  "abbiadiamo": "abːjadjamo",
+  "abbiadiate": "abːjadjate",
+  "abbiadino": "abːjadino",
+  "abbiado": "abːjado",
+  "abbiadò": "abːjado",
+  "abbiamo": "abːjamo",
+  "abbiano": "abːjano",
+  "abbiate": "abːjate",
+  "abbiatense": "abːjatɛnse",
+  "abbicare": "abːikare",
+  "abbicatura": "abːikatura",
+  "abbiccì": "abːitːʃi",
+  "abbico": "abːiko",
+  "abbiente": "abːiɛnte",
+  "abbiente_2": "abːjɛnte",
+  "abbietta": "abːjetːa",
+  "abbiettare": "abːjetːare",
+  "abbiette": "abːjetːe",
+  "abbietti": "abːjetːi",
+  "abbietto": "abːjetːo",
+  "abbigliamenti": "abːiʎamenti",
+  "abbigliamento": "abːiʎamento",
+  "abbigliare": "abːiʎare",
+  "abbigliatoio": "abːiʎatojo",
+  "abbigliatura": "abːiʎatura",
+  "abbigliature": "abːiʎature",
+  "abbiglio": "abːiʎo",
+  "abbina": "abːina",
+  "abbinabile": "abːinabile",
+  "abbinabili": "abːinabili",
+  "abbinai": "abːinai",
+  "abbinamento": "abːinamento",
+  "abbinammo": "abːinamːo",
+  "abbinando": "abːinando",
+  "abbinano": "abːinano",
+  "abbinante": "abːinante",
+  "abbinare": "abːinare",
+  "abbinarono": "abːinarono",
+  "abbinasse": "abːinasːe",
+  "abbinassero": "abːinasːero",
+  "abbinassi": "abːinasːi",
+  "abbinassimo": "abːinasːimo",
+  "abbinaste": "abːinaste",
+  "abbinasti": "abːinasti",
+  "abbinata": "abːinata",
+  "abbinate": "abːinate",
+  "abbinati": "abːinati",
+  "abbinato": "abːinato",
+  "abbinatura": "abːinatura",
+  "abbinava": "abːinava",
+  "abbinavamo": "abːinavamo",
+  "abbinavano": "abːinavano",
+  "abbinavate": "abːinavate",
+  "abbinavi": "abːinavi",
+  "abbinavo": "abːinavo",
+  "abbindola": "abːindola",
+  "abbindolai": "abːindolai",
+  "abbindolamenti": "abːindolamenti",
+  "abbindolamento": "abːindolamento",
+  "abbindolammo": "abːindolamːo",
+  "abbindolando": "abːindolando",
+  "abbindolano": "abːindolano",
+  "abbindolante": "abːindolante",
+  "abbindolare": "abːindolare",
+  "abbindolarono": "abːindolarono",
+  "abbindolasse": "abːindolasːe",
+  "abbindolassero": "abːindolasːero",
+  "abbindolassi": "abːindolasːi",
+  "abbindolassimo": "abːindolasːimo",
+  "abbindolaste": "abːindolaste",
+  "abbindolasti": "abːindolasti",
+  "abbindolata": "abːindolata",
+  "abbindolate": "abːindolate",
+  "abbindolati": "abːindolati",
+  "abbindolato": "abːindolato",
+  "abbindolatore": "abːindolatore",
+  "abbindolatori": "abːindolatori",
+  "abbindolava": "abːindolava",
+  "abbindolavamo": "abːindolavamo",
+  "abbindolavano": "abːindolavano",
+  "abbindolavate": "abːindolavate",
+  "abbindolavi": "abːindolavi",
+  "abbindolavo": "abːindolavo",
+  "abbindolerà": "abːindolera",
+  "abbindolerai": "abːindolerai",
+  "abbindoleranno": "abːindoleranːo",
+  "abbindolerebbe": "abːindolerebːe",
+  "abbindolerebbero": "abːindolerebːero",
+  "abbindolerei": "abːindolerei",
+  "abbindoleremmo": "abːindoleremːo",
+  "abbindoleremo": "abːindoleremo",
+  "abbindolereste": "abːindolereste",
+  "abbindoleresti": "abːindoleresti",
+  "abbindolerete": "abːindolerete",
+  "abbindolerò": "abːindolero",
+  "abbindoli": "abːindoli",
+  "abbindoliamo": "abːindoljamo",
+  "abbindoliate": "abːindoljate",
+  "abbindolino": "abːindolino",
+  "abbindolo": "abːindolo",
+  "abbindolò": "abːindolo",
+  "abbinerà": "abːinera",
+  "abbinerai": "abːinerai",
+  "abbineranno": "abːineranːo",
+  "abbinerebbe": "abːinerebːe",
+  "abbinerebbero": "abːinerebːero",
+  "abbinerei": "abːinerei",
+  "abbineremmo": "abːineremːo",
+  "abbineremo": "abːineremo",
+  "abbinereste": "abːinereste",
+  "abbineresti": "abːineresti",
+  "abbinerete": "abːinerete",
+  "abbinerò": "abːinero",
+  "abbini": "abːini",
+  "abbiniamo": "abːinjamo",
+  "abbiniate": "abːinjate",
+  "abbinino": "abːinino",
+  "abbino": "abːino",
+  "abbinò": "abːino",
+  "abbioccare": "abːjokːare",
+  "abbiocco": "abːjokːo",
+  "abbiocco_2": "abːjɔkːo",
+  "abbiosciare": "abːjoʃʃare",
+  "abbiosciarsi": "abːjoʃʃarsi",
+  "abbioscio": "abːjoʃʃo",
+  "abbisciare": "abːiʃʃare",
+  "abbiscio": "abːiʃʃo",
+  "abbisogna": "abːizoɲɲa",
+  "abbisognai": "abːizoɲɲai",
+  "abbisognammo": "abːizoɲɲamːo",
+  "abbisognando": "abːizoɲɲando",
+  "abbisognano": "abːizoɲɲano",
+  "abbisognante": "abːizoɲɲante",
+  "abbisognare": "abːiɲare",
+  "abbisognare_2": "abːizoɡnare",
+  "abbisognare_3": "abːizoɲɲare",
+  "abbisognarono": "abːizoɲɲarono",
+  "abbisognasse": "abːizoɲɲasːe",
+  "abbisognassero": "abːizoɲɲasːero",
+  "abbisognassi": "abːizoɲɲasːi",
+  "abbisognassimo": "abːizoɲɲasːimo",
+  "abbisognaste": "abːizoɲɲaste",
+  "abbisognasti": "abːizoɲɲasti",
+  "abbisognata": "abːizoɲɲata",
+  "abbisognate": "abːizoɲɲate",
+  "abbisognati": "abːizoɲɲati",
+  "abbisognato": "abːizoɲɲato",
+  "abbisognava": "abːizoɲɲava",
+  "abbisognavamo": "abːizoɲɲavamo",
+  "abbisognavano": "abːizoɲɲavano",
+  "abbisognavate": "abːizoɲɲavate",
+  "abbisognavi": "abːizoɲɲavi",
+  "abbisognavo": "abːizoɲɲavo",
+  "abbisognerà": "abːizoɲɲera",
+  "abbisognerai": "abːizoɲɲerai",
+  "abbisogneranno": "abːizoɲɲeranːo",
+  "abbisognerebbe": "abːizoɲɲerebːe",
+  "abbisognerebbero": "abːizoɲɲerebːero",
+  "abbisognerei": "abːizoɲɲerei",
+  "abbisogneremmo": "abːizoɲɲeremːo",
+  "abbisogneremo": "abːizoɲɲeremo",
+  "abbisognereste": "abːizoɲɲereste",
+  "abbisogneresti": "abːizoɲɲeresti",
+  "abbisognerete": "abːizoɲɲerete",
+  "abbisognerò": "abːizoɲɲero",
+  "abbisogni": "abːizoɲɲi",
+  "abbisogniamo": "abːizoɲɲamo",
+  "abbisogniate": "abːizoɲɲate",
+  "abbisognino": "abːizoɲɲino",
+  "abbisogno": "abizoɲɲo",
+  "abbisognò": "abːizoɲɲo",
+  "abbitta": "abːitːa",
+  "abbittai": "abːitːai",
+  "abbittammo": "abːitːamːo",
+  "abbittando": "abːitːando",
+  "abbittano": "abːitːano",
+  "abbittante": "abːitːante",
+  "abbittare": "abːitːare",
+  "abbittarono": "abːitːarono",
+  "abbittasse": "abːitːasːe",
+  "abbittassero": "abːitːasːero",
+  "abbittassi": "abːitːasːi",
+  "abbittassimo": "abːitːasːimo",
+  "abbittaste": "abːitːaste",
+  "abbittasti": "abːitːasti",
+  "abbittata": "abːitːata",
+  "abbittate": "abːitːate",
+  "abbittati": "abːitːati",
+  "abbittato": "abːitːato",
+  "abbittava": "abːitːava",
+  "abbittavamo": "abːitːavamo",
+  "abbittavano": "abːitːavano",
+  "abbittavate": "abːitːavate",
+  "abbittavi": "abːitːavi",
+  "abbittavo": "abːitːavo",
+  "abbitterà": "abːitːera",
+  "abbitterai": "abːitːerai",
+  "abbitteranno": "abːitːeranːo",
+  "abbitterebbe": "abːitːerebːe",
+  "abbitterebbero": "abːitːerebːero",
+  "abbitterei": "abːitːerei",
+  "abbitteremmo": "abːitːeremːo",
+  "abbitteremo": "abːitːeremo",
+  "abbittereste": "abːitːereste",
+  "abbitteresti": "abːitːeresti",
+  "abbitterete": "abːitːerete",
+  "abbitterò": "abːitːero",
+  "abbitti": "abːitːi",
+  "abbittiamo": "abːitːjamo",
+  "abbittiate": "abːitːjate",
+  "abbittino": "abːitːino",
+  "abbitto": "abːitːo",
+  "abbittò": "abːitːo",
+  "abbocca": "abːokːa",
+  "abboccai": "abːokːai",
+  "abboccamenti": "abːokːamenti",
+  "abboccamento": "abːokːamento",
+  "abboccammo": "abːokːamːo",
+  "abboccando": "abːokːando",
+  "abboccano": "abːokːano",
+  "abboccante": "abːokːante",
+  "abboccare": "abːokːare",
+  "abboccarono": "abːokːarono",
+  "abboccasse": "abːokːasːe",
+  "abboccassero": "abːokːasːero",
+  "abboccassi": "abːokːasːi",
+  "abboccassimo": "abːokːasːimo",
+  "abboccaste": "abːokːaste",
+  "abboccasti": "abːokːasti",
+  "abboccata": "abːokːata",
+  "abboccate": "abːokːate",
+  "abboccati": "abːokːati",
+  "abboccato": "abːokːato",
+  "abboccatura": "abːokːatura",
+  "abboccature": "abːokːature",
+  "abboccava": "abːokːava",
+  "abboccavamo": "abːokːavamo",
+  "abboccavano": "abːokːavano",
+  "abboccavate": "abːokːavate",
+  "abboccavi": "abːokːavi",
+  "abboccavo": "abːokːavo",
+  "abboccherà": "abːokːera",
+  "abboccherai": "abːokːerai",
+  "abboccheranno": "abːokːeranːo",
+  "abboccherebbe": "abːokːerebːe",
+  "abboccherebbero": "abːokːerebːero",
+  "abboccherei": "abːokːerei",
+  "abboccheremmo": "abːokːeremːo",
+  "abboccheremo": "abːokːeremo",
+  "abbocchereste": "abːokːereste",
+  "abboccheresti": "abːokːeresti",
+  "abboccherete": "abːokːerete",
+  "abboccherò": "abːokːero",
+  "abbocchi": "abːokːi",
+  "abbocchiamo": "abːokːjamo",
+  "abbocchiate": "abːokːjate",
+  "abbocchino": "abːokːino",
+  "abbocco": "abːokːo",
+  "abbocco_2": "abːɔkːo",
+  "abboccò": "abːokːo",
+  "abbocconare": "abːokːonare",
+  "abbomina": "abːɔmina",
+  "abbominabile": "abːominabile",
+  "abbominabili": "abːominabili",
+  "abbominai": "abːominai",
+  "abbominammo": "abːominamːo",
+  "abbominando": "abːominando",
+  "abbominano": "abːɔminano",
+  "abbominante": "abːominante",
+  "abbominare": "abːominare",
+  "abbominarono": "abːominarono",
+  "abbominasse": "abːominasːe",
+  "abbominassero": "abːominasːero",
+  "abbominassi": "abːominasːi",
+  "abbominassimo": "abːominasːimo",
+  "abbominaste": "abːominaste",
+  "abbominasti": "abːominasti",
+  "abbominata": "abːominata",
+  "abbominate": "abːominate",
+  "abbominati": "abːominati",
+  "abbominato": "abːominato",
+  "abbominava": "abːominava",
+  "abbominavamo": "abːominavamo",
+  "abbominavano": "abːominavano",
+  "abbominavate": "abːominavate",
+  "abbominavi": "abːominavi",
+  "abbominavo": "abːominavo",
+  "abbominerà": "abːominera",
+  "abbominerai": "abːominerai",
+  "abbomineranno": "abːomineranːo",
+  "abbominerebbe": "abːominerebːe",
+  "abbominerebbero": "abːominerebːero",
+  "abbominerei": "abːominerei",
+  "abbomineremmo": "abːomineremːo",
+  "abbomineremo": "abːomineremo",
+  "abbominereste": "abːominereste",
+  "abbomineresti": "abːomineresti",
+  "abbominerete": "abːominerete",
+  "abbominerò": "abːominero",
+  "abbominevole": "abːominevole",
+  "abbomini": "abːɔmini",
+  "abbominiamo": "abːominjamo",
+  "abbominiate": "abːominjate",
+  "abbominino": "abːominino",
+  "abbomino": "abːomino",
+  "abbominò": "abːomino",
+  "abbona": "abːona",
+  "abbona_2": "abːwona",
+  "abbonaccerà": "abːonatːʃera",
+  "abbonaccerai": "abːonatːʃerai",
+  "abbonacceranno": "abːonatːʃeranːo",
+  "abbonaccerebbe": "abːonatːʃerebːe",
+  "abbonaccerebbero": "abːonatːʃerebːero",
+  "abbonaccerei": "abːonatːʃerei",
+  "abbonacceremmo": "abːonatːʃeremːo",
+  "abbonacceremo": "abːonatːʃeremo",
+  "abbonaccereste": "abːonatːʃereste",
+  "abbonacceresti": "abːonatːʃeresti",
+  "abbonaccerete": "abːonatːʃerete",
+  "abbonaccerò": "abːonatːʃero",
+  "abbonacci": "abːonatːʃi",
+  "abbonaccia": "abːonatːʃa",
+  "abbonacciai": "abːonatːʃai",
+  "abbonacciammo": "abːonatːʃamːo",
+  "abbonacciamo": "abːonatːʃamo",
+  "abbonacciando": "abːonatːʃando",
+  "abbonacciano": "abːonatːʃano",
+  "abbonacciante": "abːonatːʃante"
 }

@@ -1,1538 +1,538 @@
 {
-  "ovoide": [
-    "ovɔjde"
-  ],
-  "ovolacci": [
-    "ovolatːʃi"
-  ],
-  "ovolaccio": [
-    "ovolatːʃo"
-  ],
-  "ovolo": [
-    "ɔvolo"
-  ],
-  "ovovivipara": [
-    "ovovivipara"
-  ],
-  "ovovivipare": [
-    "ovovivipare"
-  ],
-  "ovovivipari": [
-    "ovovivipari"
-  ],
-  "ovoviviparità": [
-    "ovoviviparita",
-    "ɔvoviviparita"
-  ],
-  "ovoviviparo": [
-    "ovoviviparo",
-    "ɔvoviviparo"
-  ],
-  "ovulare": [
-    "ovulare"
-  ],
-  "ovulazione": [
-    "ovulatsjone"
-  ],
-  "ovuligera": [
-    "ovulidʒera"
-  ],
-  "ovuligere": [
-    "ovulidʒere"
-  ],
-  "ovuligeri": [
-    "ovulidʒeri"
-  ],
-  "ovuligero": [
-    "ovulidʒero"
-  ],
-  "ovunque": [
-    "ovunkwe"
-  ],
-  "ovvero": [
-    "ovːero"
-  ],
-  "ovvi": [
-    "ɔvːi"
-  ],
-  "ovvia": [
-    "ɔvːja"
-  ],
-  "ovviamente": [
-    "ovːjamente",
-    "ɔvːjamente"
-  ],
-  "ovvie": [
-    "ɔvːje"
-  ],
-  "ovvietà": [
-    "ovːjeta"
-  ],
-  "ovvio": [
-    "ɔvːio",
-    "ɔvːjo"
-  ],
-  "ovvissima": [
-    "ovːisːima"
-  ],
-  "ovvissime": [
-    "ovːisːime"
-  ],
-  "ovvissimi": [
-    "ovːisːimi"
-  ],
-  "ovvissimo": [
-    "ovːisːimo"
-  ],
-  "ozbekistan": [
-    "ozbɛkistan"
-  ],
-  "ozelot": [
-    "odːzelɔt"
-  ],
-  "ozi": [
-    "ɔtsi"
-  ],
-  "ozio": [
-    "ɔtsjo",
-    "ɔtːsjo"
-  ],
-  "oziorrinco": [
-    "otːsjorːinko"
-  ],
-  "oziosamente": [
-    "otːsjosamente",
-    "otːsjozamente"
-  ],
-  "ozioso": [
-    "otːsjoso",
-    "otːsjozo"
-  ],
-  "ozoni": [
-    "odzɔni"
-  ],
-  "ozono": [
-    "odzɔno",
-    "odːzɔno"
-  ],
-  "ozonosfera": [
-    "odzonosfɛra"
-  ],
-  "ozonosfere": [
-    "odzonosfɛre"
-  ],
-  "p": [
-    "p",
-    "pi"
-  ],
-  "paba": [
-    "paba"
-  ],
-  "pabulo": [
-    "pabulo"
-  ],
-  "paca": [
-    "paka"
-  ],
-  "pacante": [
-    "pakante"
-  ],
-  "pacare": [
-    "pakare"
-  ],
-  "pacarsi": [
-    "pakarsi"
-  ],
-  "pacatamente": [
-    "pakatamente"
-  ],
-  "pacatezza": [
-    "pakatetːsa"
-  ],
-  "pacato": [
-    "pakato"
-  ],
-  "pacca": [
-    "pakːa"
-  ],
-  "pacchebotto": [
-    "pakːebɔtːo"
-  ],
-  "pacchero": [
-    "pakːero"
-  ],
-  "pacchetti": [
-    "pakːetːi"
-  ],
-  "pacchetto": [
-    "pakːetːo"
-  ],
-  "pacchi": [
-    "pakːi"
-  ],
-  "pacchia": [
-    "pakːja"
-  ],
-  "pacchianata": [
-    "pakːjanata"
-  ],
-  "pacchiano": [
-    "pakːjano"
-  ],
-  "pacciamatura": [
-    "patːʃamatura"
-  ],
-  "pacciamature": [
-    "patːʃamature"
-  ],
-  "pacciugo": [
-    "patːʃuɡo"
-  ],
-  "pacco": [
-    "pakːo",
-    "pakːɔ"
-  ],
-  "paccottiglia": [
-    "pakːotːiʎa"
-  ],
-  "pace": [
-    "patʃe"
-  ],
-  "pachiderma": [
-    "pakidɛrma"
-  ],
-  "pachistan": [
-    "pakistan"
-  ],
-  "pachistana": [
-    "pakistana"
-  ],
-  "pachistane": [
-    "pakistane"
-  ],
-  "pachistani": [
-    "pakistani"
-  ],
-  "pachistano": [
-    "pakistano"
-  ],
-  "paci": [
-    "patʃi"
-  ],
-  "paciere": [
-    "patʃɛre"
-  ],
-  "pacifica": [
-    "patʃifika"
-  ],
-  "pacificamente": [
-    "patʃifikamente"
-  ],
-  "pacificando": [
-    "patʃifikando"
-  ],
-  "pacificante": [
-    "patʃifikante"
-  ],
-  "pacificanti": [
-    "patʃifikanti"
-  ],
-  "pacificare": [
-    "patʃifikare"
-  ],
-  "pacificarsi": [
-    "patʃifikarsi"
-  ],
-  "pacificata": [
-    "patʃifikata"
-  ],
-  "pacificate": [
-    "patʃifikate"
-  ],
-  "pacificati": [
-    "patʃifikati"
-  ],
-  "pacificato": [
-    "patʃifikato"
-  ],
-  "pacificatore": [
-    "patʃifikatore"
-  ],
-  "pacificatori": [
-    "patʃifikatori"
-  ],
-  "pacificatrice": [
-    "patʃifikatritʃe"
-  ],
-  "pacificatrici": [
-    "patʃifikatritʃi"
-  ],
-  "pacificavi": [
-    "patʃifikavi"
-  ],
-  "pacificazione": [
-    "patʃifikatːsjone"
-  ],
-  "pacificazioni": [
-    "patʃifikatːsjoni"
-  ],
-  "pacifico": [
-    "patʃifiko"
-  ],
-  "pacifismi": [
-    "patʃifizmi"
-  ],
-  "pacifismo": [
-    "patʃifizmo"
-  ],
-  "pacifista": [
-    "patʃifista"
-  ],
-  "pacifiste": [
-    "patʃifiste"
-  ],
-  "pacifisti": [
-    "patʃifisti"
-  ],
-  "pacifondaia": [
-    "patʃifondaja"
-  ],
-  "pacifondaio": [
-    "patʃifondajo"
-  ],
-  "pacioccone": [
-    "patʃokːone"
-  ],
-  "package": [
-    "pɛkadʒ"
-  ],
-  "paco": [
-    "pako"
-  ],
-  "pacol": [
-    "pakol"
-  ],
-  "padana": [
-    "padana"
-  ],
-  "padane": [
-    "padane"
-  ],
-  "padani": [
-    "padani"
-  ],
-  "padano": [
-    "padano"
-  ],
-  "padella": [
-    "padɛlːa"
-  ],
-  "padellare": [
-    "padelːare"
-  ],
-  "padellino": [
-    "padelːino",
-    "padɛlːino"
-  ],
-  "padellone": [
-    "padelːone"
-  ],
-  "padiglione": [
-    "padiʎɔne"
-  ],
-  "padire": [
-    "padire"
-  ],
-  "padiscià": [
-    "padiʃʃa"
-  ],
-  "padova": [
-    "padova"
-  ],
-  "padovano": [
-    "padovano"
-  ],
-  "padre": [
-    "padre",
-    "padrɛ"
-  ],
-  "padreterno": [
-    "padretɛrno"
-  ],
-  "padri": [
-    "padri"
-  ],
-  "padrini": [
-    "padrini"
-  ],
-  "padrino": [
-    "padrino"
-  ],
-  "padrona": [
-    "padrona"
-  ],
-  "padronanza": [
-    "padronantsa"
-  ],
-  "padrone": [
-    "padrone",
-    "padrɔne"
-  ],
-  "padroneggiare": [
-    "padronedːʒare"
-  ],
-  "padroni": [
-    "padrɔni"
-  ],
-  "padronissimo": [
-    "padronisːimo"
-  ],
-  "padua": [
-    "padua"
-  ],
-  "paesaggi": [
-    "paezadːʒi"
-  ],
-  "paesaggio": [
-    "paezadːʒo"
-  ],
-  "paesaggista": [
-    "paezadːʒista"
-  ],
-  "paesaggistica": [
-    "paezadːʒistika"
-  ],
-  "paesaggisticamente": [
-    "paezadːʒistikamente"
-  ],
-  "paesaggistico": [
-    "paezadːʒistiko"
-  ],
-  "paesano": [
-    "paesano",
-    "paezano"
-  ],
-  "paese": [
-    "paeze"
-  ],
-  "paeselli": [
-    "paɛzɛlːi"
-  ],
-  "paesello": [
-    "paezɛlːo",
-    "paɛzɛlːɔ"
-  ],
-  "paesi": [
-    "paezi"
-  ],
-  "paesista": [
-    "paezista"
-  ],
-  "paesiste": [
-    "paeziste"
-  ],
-  "paesisti": [
-    "paezisti"
-  ],
-  "paesucolo": [
-    "paezukolo"
-  ],
-  "paga": [
-    "paɡa"
-  ],
-  "pagabile": [
-    "paɡabile"
-  ],
-  "pagabili": [
-    "paɡabili"
-  ],
-  "pagai": [
-    "paɡai"
-  ],
-  "pagaia": [
-    "paɡaja"
-  ],
-  "pagamenti": [
-    "paɡamɛnti"
-  ],
-  "pagamento": [
-    "paɡamento",
-    "paɡamɛnto"
-  ],
-  "pagammo": [
-    "paɡamːo"
-  ],
-  "pagana": [
-    "paɡana"
-  ],
-  "paganamente": [
-    "paɡanamente"
-  ],
-  "pagando": [
-    "paɡando"
-  ],
-  "pagane": [
-    "paɡane"
-  ],
-  "paganeggiante": [
-    "paɡanedːʒante"
-  ],
-  "paganeggiare": [
-    "paɡanedːʒare"
-  ],
-  "paganesimi": [
-    "paɡanezimi"
-  ],
-  "paganesimo": [
-    "paɡanezimo"
-  ],
-  "pagani": [
-    "paɡani"
-  ],
-  "paganismo": [
-    "paɡanizmo"
-  ],
-  "paganità": [
-    "paɡanita"
-  ],
-  "paganizzare": [
-    "paɡanidːzare"
-  ],
-  "paganizzato": [
-    "paɡanidːzato"
-  ],
-  "paganizzazione": [
-    "paɡanidːzatːsjone"
-  ],
-  "pagano": [
-    "paɡano"
-  ],
-  "pagante": [
-    "paɡante"
-  ],
-  "paganti": [
-    "paɡanti"
-  ],
-  "pagare": [
-    "paɡare"
-  ],
-  "pagarono": [
-    "paɡarono"
-  ],
-  "pagasse": [
-    "paɡasːe"
-  ],
-  "pagassero": [
-    "paɡasːero"
-  ],
-  "pagassi": [
-    "paɡasːi"
-  ],
-  "pagassimo": [
-    "paɡasːimo"
-  ],
-  "pagaste": [
-    "paɡaste"
-  ],
-  "pagasti": [
-    "paɡasti"
-  ],
-  "pagata": [
-    "paɡata"
-  ],
-  "pagate": [
-    "paɡate"
-  ],
-  "pagati": [
-    "paɡati"
-  ],
-  "pagato": [
-    "paɡato"
-  ],
-  "pagatore": [
-    "paɡatore"
-  ],
-  "pagatori": [
-    "paɡatori"
-  ],
-  "pagatrice": [
-    "paɡatritʃe"
-  ],
-  "pagatrici": [
-    "paɡatritʃi"
-  ],
-  "pagava": [
-    "paɡava"
-  ],
-  "pagavamo": [
-    "paɡavamo"
-  ],
-  "pagavano": [
-    "paɡavano"
-  ],
-  "pagavate": [
-    "paɡavate"
-  ],
-  "pagavi": [
-    "paɡavi"
-  ],
-  "pagavo": [
-    "paɡano"
-  ],
-  "pagella": [
-    "padʒɛlːa"
-  ],
-  "paggio": [
-    "padːʒo"
-  ],
-  "paghe": [
-    "paɡe"
-  ],
-  "pagherà": [
-    "paɡera"
-  ],
-  "pagherai": [
-    "paɡerai"
-  ],
-  "pagheranno": [
-    "paɡeranːo"
-  ],
-  "pagherebbe": [
-    "paɡerebːe"
-  ],
-  "pagherebbero": [
-    "paɡerebːero"
-  ],
-  "pagherei": [
-    "paɡerei"
-  ],
-  "pagheremmo": [
-    "paɡeremːo"
-  ],
-  "pagheremo": [
-    "paɡeremo"
-  ],
-  "paghereste": [
-    "paɡereste"
-  ],
-  "pagheresti": [
-    "paɡeresti"
-  ],
-  "pagherete": [
-    "paɡerete"
-  ],
-  "pagherò": [
-    "paɡero",
-    "paɡerɔ"
-  ],
-  "paghetta": [
-    "paɡetːa"
-  ],
-  "paghi": [
-    "paɡi"
-  ],
-  "paghiamo": [
-    "paɡiamo",
-    "paɡjamo"
-  ],
-  "paghiate": [
-    "paɡjate"
-  ],
-  "paghino": [
-    "paɡino"
-  ],
-  "pagina": [
-    "padʒina"
-  ],
-  "pagine": [
-    "padʒine"
-  ],
-  "paglia": [
-    "paʎa",
-    "paʎia"
-  ],
-  "pagliacci": [
-    "paʎatːʃi"
-  ],
-  "pagliacciata": [
-    "paʎatːʃata"
-  ],
-  "pagliaccio": [
-    "paʎatːʃo"
-  ],
-  "pagliata": [
-    "paʎata"
-  ],
-  "paglie": [
-    "paʎe"
-  ],
-  "pagliericci": [
-    "paʎeritːʃi"
-  ],
-  "pagliericcio": [
-    "paʎeritːʃo"
-  ],
-  "paglietta": [
-    "paʎetːa",
-    "paʎɛtːa"
-  ],
-  "pagliette": [
-    "paʎetːe"
-  ],
-  "pagliuzza": [
-    "paʎutːsa"
-  ],
-  "pagnotta": [
-    "paɲɲɔtːa"
-  ],
-  "pago": [
-    "paɡi",
-    "paɡo"
-  ],
-  "pagò": [
-    "paɡo"
-  ],
-  "pagoda": [
-    "paɡoda",
-    "paɡɔda"
-  ],
-  "pagode": [
-    "paɡode"
-  ],
-  "paguride": [
-    "paɡuride"
-  ],
-  "paguridi": [
-    "paɡuridi"
-  ],
-  "paguro": [
-    "paɡuro"
-  ],
-  "pahlavi": [
-    "palavi"
-  ],
-  "paidire": [
-    "pajdire"
-  ],
-  "paidofilie": [
-    "pedofilie"
-  ],
-  "paio": [
-    "pajo"
-  ],
-  "paiolo": [
-    "pajɔlo"
-  ],
-  "pakistana": [
-    "pakistana"
-  ],
-  "pakistane": [
-    "pakistane"
-  ],
-  "pakistani": [
-    "pakistani"
-  ],
-  "pakistano": [
-    "pakistano"
-  ],
-  "pala": [
-    "pala"
-  ],
-  "paladina": [
-    "paladina"
-  ],
-  "paladino": [
-    "paladino"
-  ],
-  "palaese": [
-    "palese"
-  ],
-  "palaesi": [
-    "palesi"
-  ],
-  "palafitta": [
-    "palafitːa"
-  ],
-  "palafreno": [
-    "palafreno"
-  ],
-  "palagio": [
-    "paladʒo"
-  ],
-  "palamedea": [
-    "palamedɛa"
-  ],
-  "palamedee": [
-    "palamedɛe"
-  ],
-  "palanca": [
-    "palanka"
-  ],
-  "palanchi": [
-    "palanki"
-  ],
-  "palanco": [
-    "palanko"
-  ],
-  "palandra": [
-    "palandra"
-  ],
-  "palandrana": [
-    "palandrana"
-  ],
-  "palandrano": [
-    "palandrano"
-  ],
-  "palatale": [
-    "palatale"
-  ],
-  "palati": [
-    "palati"
-  ],
-  "palato": [
-    "palato",
-    "palatɔ"
-  ],
-  "palatoalveolare": [
-    "palatoalveolare"
-  ],
-  "palatoschisi": [
-    "palatoskizi"
-  ],
-  "palau": [
-    "palau"
-  ],
-  "palauana": [
-    "paluana"
-  ],
-  "palauane": [
-    "paluane"
-  ],
-  "palauani": [
-    "paluani"
-  ],
-  "palauano": [
-    "paluano"
-  ],
-  "palaziale": [
-    "palatːsjale"
-  ],
-  "palazzetto": [
-    "palatːsetːo"
-  ],
-  "palazzi": [
-    "palatːsi"
-  ],
-  "palazzina": [
-    "palatːsina"
-  ],
-  "palazzo": [
-    "palatːso",
-    "palatːsɔ"
-  ],
-  "palchetto": [
-    "palketːo"
-  ],
-  "palco": [
-    "palko"
-  ],
-  "palcoscenici": [
-    "palkoʃʃɛnitʃi"
-  ],
-  "palcoscenico": [
-    "palkoʃʃɛniko"
-  ],
-  "paldiferro": [
-    "paldifɛrːo"
-  ],
-  "paleantropologia": [
-    "paleantropolodʒia"
-  ],
-  "paleoambiente": [
-    "paleoambjɛnte"
-  ],
-  "paleoambienti": [
-    "paleoambjɛnti"
-  ],
-  "paleoantropo": [
-    "paleoantropo"
-  ],
-  "paleoantropologia": [
-    "paleoantropolodʒia"
-  ],
-  "paleoantropologico": [
-    "paleoantropolɔdʒiko"
-  ],
-  "paleoantropologo": [
-    "paleoantropɔloɡo"
-  ],
-  "paleoartista": [
-    "paleoartista"
-  ],
-  "paleoartiste": [
-    "paleoartiste"
-  ],
-  "paleoartisti": [
-    "paleoartisti"
-  ],
-  "paleobiologa": [
-    "paleobiɔloɡa"
-  ],
-  "paleobiologhe": [
-    "paleobiɔloɡe"
-  ],
-  "paleobiologi": [
-    "paleobiɔlodʒi"
-  ],
-  "paleobiologia": [
-    "paleobiolodʒia"
-  ],
-  "paleobiologie": [
-    "paleobiolodʒie"
-  ],
-  "paleobiologo": [
-    "paleobiɔloɡo"
-  ],
-  "paleobotanica": [
-    "paleobotanika"
-  ],
-  "paleocapitalista": [
-    "palɛokapitalista"
-  ],
-  "paleocapitaliste": [
-    "palɛokapitaliste"
-  ],
-  "paleocapitalisti": [
-    "palɛokapitalisti"
-  ],
-  "paleocene": [
-    "paleotʃɛne"
-  ],
-  "paleoclimatologia": [
-    "paleoklimatolodʒia"
-  ],
-  "paleocontinente": [
-    "paleokontenɛnte"
-  ],
-  "paleocontinenti": [
-    "paleokontenɛnti"
-  ],
-  "paleocristiana": [
-    "paleokristjana"
-  ],
-  "paleocristiano": [
-    "paleokristjano"
-  ],
-  "paleoecologia": [
-    "palɛoekolodʒia"
-  ],
-  "paleoecologie": [
-    "palɛoekolodʒie"
-  ],
-  "paleogene": [
-    "paleodʒɛne",
-    "paleɔdʒene"
-  ],
-  "paleogenetista": [
-    "paleodʒenetista"
-  ],
-  "paleogenetiste": [
-    "paleodʒenetiste"
-  ],
-  "paleogenetisti": [
-    "paleodʒenetisti"
-  ],
-  "paleognati": [
-    "paleoɲɲati"
-  ],
-  "paleognato": [
-    "paleɔɲɲato"
-  ],
-  "paleografia": [
-    "paleoɡrafia"
-  ],
-  "paleolitico": [
-    "paleolitiko"
-  ],
-  "paleomagnetica": [
-    "paleomaɲɲɛtika"
-  ],
-  "paleomagnetiche": [
-    "paleomaɲɲɛtike"
-  ],
-  "paleomagnetici": [
-    "paleomaɲɲɛtitʃi"
-  ],
-  "paleomagnetico": [
-    "paleomaɲɲɛtiko"
-  ],
-  "paleomagnetismo": [
-    "paleomaɲɲetizmo"
-  ],
-  "paleontologia": [
-    "paleontolodʒia"
-  ],
-  "paleontologico": [
-    "paleontolɔdʒiko"
-  ],
-  "paleontologo": [
-    "paleontɔloɡo"
-  ],
-  "paleopatologista": [
-    "paleopatolodʒista"
-  ],
-  "paleopatologiste": [
-    "paleopatolodʒiste"
-  ],
-  "paleopatologisti": [
-    "paleopatolodʒisti"
-  ],
-  "paleopatologo": [
-    "paleopatɔloɡo"
-  ],
-  "paleornitologia": [
-    "paleornitolodʒia"
-  ],
-  "paleotteri": [
-    "paleɔtːeri",
-    "palɛɔtːeri"
-  ],
-  "paleottero": [
-    "paleɔtːero",
-    "palɛɔtːero"
-  ],
-  "paleovulcanismo": [
-    "paleovulkanizmo"
-  ],
-  "paleozoico": [
-    "paleodːzɔjko"
-  ],
-  "paleozoologia": [
-    "paleodːzoolodʒia"
-  ],
-  "paleozoologico": [
-    "paleodːzoolɔdʒiko"
-  ],
-  "palermitano": [
-    "palermitano"
-  ],
-  "palermo": [
-    "palɛrmo"
-  ],
-  "palesare": [
-    "palezare"
-  ],
-  "palesarsi": [
-    "palezarsi"
-  ],
-  "palesato": [
-    "palezato"
-  ],
-  "palese": [
-    "paleze",
-    "palɛze"
-  ],
-  "palesemente": [
-    "palezemente"
-  ],
-  "palestinese": [
-    "palestinese",
-    "palestineze"
-  ],
-  "palestra": [
-    "palɛstra"
-  ],
-  "palestrata": [
-    "palestrata"
-  ],
-  "palestrate": [
-    "palestrate"
-  ],
-  "palestrati": [
-    "palestrati"
-  ],
-  "palestrato": [
-    "palestrato"
-  ],
-  "palestre": [
-    "palɛstre"
-  ],
-  "paletta": [
-    "paletːa"
-  ],
-  "paletto": [
-    "paletːo"
-  ],
-  "pali": [
-    "pali"
-  ],
-  "palindromi": [
-    "palindromi"
-  ],
-  "palindromo": [
-    "palindromo"
-  ],
-  "palingenesi": [
-    "palindʒɛnezi"
-  ],
-  "palinologica": [
-    "palinolɔdʒika"
-  ],
-  "palinologiche": [
-    "palinolɔdʒike"
-  ],
-  "palinologici": [
-    "palinolɔdʒitʃi"
-  ],
-  "palinologico": [
-    "palinolɔdʒiko"
-  ],
-  "palinsesti": [
-    "palinsɛsti"
-  ],
-  "palinsesto": [
-    "palinsɛsto"
-  ],
-  "palinuride": [
-    "palinuride"
-  ],
-  "palinuridi": [
-    "palinuridi"
-  ],
-  "palinuro": [
-    "palinuro"
-  ],
-  "palio": [
-    "paljo"
-  ],
-  "paliotti": [
-    "paljɔtːi"
-  ],
-  "paliotto": [
-    "paljɔtːo"
-  ],
-  "palizzata": [
-    "palitːsata"
-  ],
-  "palla": [
-    "palːa"
-  ],
-  "pallacanestro": [
-    "palːakanɛstro"
-  ],
-  "palladio": [
-    "palːadjo"
-  ],
-  "pallamaglio": [
-    "palːamaʎo"
-  ],
-  "pallamanista": [
-    "palːamanista"
-  ],
-  "pallamaniste": [
-    "palːamaniste"
-  ],
-  "pallamanisti": [
-    "palːamanisti"
-  ],
-  "pallamuro": [
-    "palːamuro"
-  ],
-  "pallanuotista": [
-    "palːanwotista"
-  ],
-  "pallanuotiste": [
-    "palːanwotiste"
-  ],
-  "pallanuotisti": [
-    "palːanwotisti"
-  ],
-  "pallanuoto": [
-    "palːanwɔto"
-  ],
-  "pallavolista": [
-    "palːavolista"
-  ],
-  "pallavoliste": [
-    "palːavoliste"
-  ],
-  "pallavolisti": [
-    "palːavolisti"
-  ],
-  "pallavolo": [
-    "palːavolo"
-  ],
-  "palle": [
-    "palːe"
-  ],
-  "palleale": [
-    "paleale"
-  ],
-  "palleali": [
-    "paleale"
-  ],
-  "palleggi": [
-    "palːedːʒi"
-  ],
-  "palleggiarsi": [
-    "palːedːʒarsi"
-  ],
-  "palleggiato": [
-    "palːedːʒato"
-  ],
-  "palleggiatore": [
-    "palːedːʒatore"
-  ],
-  "palleggiatrice": [
-    "palːedːʒatritʃe"
-  ],
-  "palleggiatrici": [
-    "palːedːʒatritʃi"
-  ],
-  "palleggio": [
-    "palːedːʒo"
-  ],
-  "pallet": [
-    "palːet"
-  ],
-  "pallettone": [
-    "palːetːone"
-  ],
-  "palli": [
-    "palːi"
-  ],
-  "palliativo": [
-    "palːjativo"
-  ],
-  "pallido": [
-    "palːido",
-    "palːidɔ"
-  ],
-  "pallina": [
-    "palːina"
-  ],
-  "pallinatura": [
-    "palːinatura"
-  ],
-  "pallinature": [
-    "palːinature"
-  ],
-  "palline": [
-    "palːine"
-  ],
-  "pallino": [
-    "palːino"
-  ],
-  "pallio": [
-    "palːjo"
-  ],
-  "pallonaia": [
-    "palːonaja"
-  ],
-  "pallonaro": [
-    "palːonaro"
-  ],
-  "pallonata": [
-    "palːonata"
-  ],
-  "pallonate": [
-    "palːonate"
-  ],
-  "palloncini": [
-    "palːontʃini"
-  ],
-  "palloncino": [
-    "palːontʃino"
-  ],
-  "pallone": [
-    "palːone"
-  ],
-  "pallonetto": [
-    "palːonetːo"
-  ],
-  "palloni": [
-    "palːoni"
-  ],
-  "pallore": [
-    "palːore"
-  ],
-  "pallori": [
-    "palːori"
-  ],
-  "palloso": [
-    "palːoso",
-    "palːozo"
-  ],
-  "pallottola": [
-    "palːɔtːola"
-  ],
-  "pallottole": [
-    "palːɔtːole"
-  ],
-  "pallottoliere": [
-    "palːotːoljɛre",
-    "palːɔtːɔljɛre"
-  ],
-  "pallottolieri": [
-    "palːotːoljɛri"
-  ],
-  "palma": [
-    "palma"
-  ],
-  "palmare": [
-    "palmare"
-  ],
-  "palme": [
-    "palme"
-  ],
-  "palmeti": [
-    "palmeti"
-  ],
-  "palmeto": [
-    "palmeto"
-  ],
-  "palmi": [
-    "palmi"
-  ],
-  "palmiforme": [
-    "palmiforme"
-  ],
-  "palmiformi": [
-    "palmifɔrmi"
-  ],
-  "palmipede": [
-    "palmipede"
-  ],
-  "palmirena": [
-    "palmirena"
-  ],
-  "palmirene": [
-    "palmirene"
-  ],
-  "palmireni": [
-    "palmireni"
-  ],
-  "palmireno": [
-    "palmirɛno"
-  ],
-  "palmiti": [
-    "palmiti"
-  ],
-  "palmitica": [
-    "palmitika"
-  ],
-  "palmitiche": [
-    "palmitike"
-  ],
-  "palmitici": [
-    "palmititʃi"
-  ],
-  "palmitico": [
-    "palmitiko"
-  ],
-  "palmito": [
-    "palmito"
-  ],
-  "palmizio": [
-    "palmitːsjo"
-  ],
-  "palmo": [
-    "palmo"
-  ],
-  "palo": [
-    "palo"
-  ],
-  "palombaccio": [
-    "palombatːʃo"
-  ],
-  "palombaro": [
-    "palombaro"
-  ],
-  "palombo": [
-    "palombo"
-  ],
-  "paloscio": [
-    "palɔʃʃo"
-  ],
-  "palpabile": [
-    "palpabile"
-  ],
-  "palpabili": [
-    "palpabili"
-  ],
-  "palpabilmente": [
-    "palpabilmente"
-  ],
-  "palpare": [
-    "palpare"
-  ],
-  "palpata": [
-    "palpata"
-  ],
-  "palpazione": [
-    "palpatːsjone"
-  ],
-  "palpebra": [
-    "palpebra",
-    "palpɛbra"
-  ],
-  "palpebrale": [
-    "palpebrale"
-  ],
-  "palpebre": [
-    "palpɛbre"
-  ],
-  "palpeggiare": [
-    "palpedːʒare"
-  ],
-  "palpeggio": [
-    "palpedːʒo"
-  ],
-  "palpita": [
-    "palpita"
-  ],
-  "palpitai": [
-    "palpitai"
-  ],
-  "palpitando": [
-    "palpitando"
-  ],
-  "palpitante": [
-    "palpitante"
-  ],
-  "palpitanti": [
-    "palpitanti"
-  ],
-  "palpitare": [
-    "palpitare"
-  ],
-  "palpitasse": [
-    "palpitasːe"
-  ],
-  "palpitata": [
-    "palpitata"
-  ],
-  "palpitate": [
-    "palpitat"
-  ],
-  "palpitati": [
-    "palpitati"
-  ],
-  "palpitato": [
-    "palpitato"
-  ],
-  "palpitazione": [
-    "palpitatsjone",
-    "palpitatːsjone"
-  ],
-  "palpitazioni": [
-    "palpitatsjoni"
-  ],
-  "palpiterai": [
-    "palpiterai"
-  ],
-  "palpito": [
-    "palpito"
-  ],
-  "paltò": [
-    "paltɔ"
-  ],
-  "paludano": [
-    "paludano"
-  ],
-  "paludari": [
-    "paludari"
-  ],
-  "paludario": [
-    "paludarjo"
-  ],
-  "palude": [
-    "palude"
-  ],
-  "paludi": [
-    "paludi"
-  ],
-  "paludismo": [
-    "paludizmo"
-  ],
-  "paludoso": [
-    "paludoso"
-  ],
-  "palustre": [
-    "palustre"
-  ],
-  "pampalugo": [
-    "pampaluɡo"
-  ],
-  "pamphili": [
-    "pamfili",
-    "panfili"
-  ],
-  "pamphilj": [
-    "pamfili",
-    "panfili"
-  ],
-  "pamphlet": [
-    "pamplet"
-  ],
-  "pampino": [
-    "pampino"
-  ],
-  "pampsichismo": [
-    "pampsikizmo"
-  ],
-  "panacea": [
-    "panatʃɛa"
-  ],
-  "panafricana": [
-    "panafrikana"
-  ],
-  "panafricane": [
-    "panafrikane"
-  ],
-  "panafricani": [
-    "panafrikani"
-  ],
-  "panafricano": [
-    "panafrikano"
-  ],
-  "panama": [
-    "panama"
-  ],
-  "panamense": [
-    "panamɛnse"
-  ],
-  "panamensi": [
-    "panamɛnsi"
-  ],
-  "panarabismi": [
-    "panarabizmi"
-  ],
-  "panarabismo": [
-    "panarabizmo"
-  ],
-  "panatenee": [
-    "panatenɛe"
-  ],
-  "panatura": [
-    "panatura"
-  ],
-  "panca": [
-    "panka"
-  ],
-  "pancarré": [
-    "pankarːe"
-  ],
-  "pancarrè": [
-    "pankarːɛ"
-  ],
-  "pance": [
-    "pantʃe"
-  ],
-  "pancetta": [
-    "pantʃetːa"
-  ],
-  "pancette": [
-    "pantʃetːe"
-  ]
+  "ovoide": "ovɔjde",
+  "ovolacci": "ovolatːʃi",
+  "ovolaccio": "ovolatːʃo",
+  "ovolo": "ɔvolo",
+  "ovovivipara": "ovovivipara",
+  "ovovivipare": "ovovivipare",
+  "ovovivipari": "ovovivipari",
+  "ovoviviparità": "ovoviviparita",
+  "ovoviviparità_2": "ɔvoviviparita",
+  "ovoviviparo": "ovoviviparo",
+  "ovoviviparo_2": "ɔvoviviparo",
+  "ovulare": "ovulare",
+  "ovulazione": "ovulatsjone",
+  "ovuligera": "ovulidʒera",
+  "ovuligere": "ovulidʒere",
+  "ovuligeri": "ovulidʒeri",
+  "ovuligero": "ovulidʒero",
+  "ovunque": "ovunkwe",
+  "ovvero": "ovːero",
+  "ovvi": "ɔvːi",
+  "ovvia": "ɔvːja",
+  "ovviamente": "ovːjamente",
+  "ovviamente_2": "ɔvːjamente",
+  "ovvie": "ɔvːje",
+  "ovvietà": "ovːjeta",
+  "ovvio": "ɔvːio",
+  "ovvio_2": "ɔvːjo",
+  "ovvissima": "ovːisːima",
+  "ovvissime": "ovːisːime",
+  "ovvissimi": "ovːisːimi",
+  "ovvissimo": "ovːisːimo",
+  "ozbekistan": "ozbɛkistan",
+  "ozelot": "odːzelɔt",
+  "ozi": "ɔtsi",
+  "ozio": "ɔtsjo",
+  "ozio_2": "ɔtːsjo",
+  "oziorrinco": "otːsjorːinko",
+  "oziosamente": "otːsjosamente",
+  "oziosamente_2": "otːsjozamente",
+  "ozioso": "otːsjoso",
+  "ozioso_2": "otːsjozo",
+  "ozoni": "odzɔni",
+  "ozono": "odzɔno",
+  "ozono_2": "odːzɔno",
+  "ozonosfera": "odzonosfɛra",
+  "ozonosfere": "odzonosfɛre",
+  "p": "p",
+  "p_2": "pi",
+  "paba": "paba",
+  "pabulo": "pabulo",
+  "paca": "paka",
+  "pacante": "pakante",
+  "pacare": "pakare",
+  "pacarsi": "pakarsi",
+  "pacatamente": "pakatamente",
+  "pacatezza": "pakatetːsa",
+  "pacato": "pakato",
+  "pacca": "pakːa",
+  "pacchebotto": "pakːebɔtːo",
+  "pacchero": "pakːero",
+  "pacchetti": "pakːetːi",
+  "pacchetto": "pakːetːo",
+  "pacchi": "pakːi",
+  "pacchia": "pakːja",
+  "pacchianata": "pakːjanata",
+  "pacchiano": "pakːjano",
+  "pacciamatura": "patːʃamatura",
+  "pacciamature": "patːʃamature",
+  "pacciugo": "patːʃuɡo",
+  "pacco": "pakːo",
+  "pacco_2": "pakːɔ",
+  "paccottiglia": "pakːotːiʎa",
+  "pace": "patʃe",
+  "pachiderma": "pakidɛrma",
+  "pachistan": "pakistan",
+  "pachistana": "pakistana",
+  "pachistane": "pakistane",
+  "pachistani": "pakistani",
+  "pachistano": "pakistano",
+  "paci": "patʃi",
+  "paciere": "patʃɛre",
+  "pacifica": "patʃifika",
+  "pacificamente": "patʃifikamente",
+  "pacificando": "patʃifikando",
+  "pacificante": "patʃifikante",
+  "pacificanti": "patʃifikanti",
+  "pacificare": "patʃifikare",
+  "pacificarsi": "patʃifikarsi",
+  "pacificata": "patʃifikata",
+  "pacificate": "patʃifikate",
+  "pacificati": "patʃifikati",
+  "pacificato": "patʃifikato",
+  "pacificatore": "patʃifikatore",
+  "pacificatori": "patʃifikatori",
+  "pacificatrice": "patʃifikatritʃe",
+  "pacificatrici": "patʃifikatritʃi",
+  "pacificavi": "patʃifikavi",
+  "pacificazione": "patʃifikatːsjone",
+  "pacificazioni": "patʃifikatːsjoni",
+  "pacifico": "patʃifiko",
+  "pacifismi": "patʃifizmi",
+  "pacifismo": "patʃifizmo",
+  "pacifista": "patʃifista",
+  "pacifiste": "patʃifiste",
+  "pacifisti": "patʃifisti",
+  "pacifondaia": "patʃifondaja",
+  "pacifondaio": "patʃifondajo",
+  "pacioccone": "patʃokːone",
+  "package": "pɛkadʒ",
+  "paco": "pako",
+  "pacol": "pakol",
+  "padana": "padana",
+  "padane": "padane",
+  "padani": "padani",
+  "padano": "padano",
+  "padella": "padɛlːa",
+  "padellare": "padelːare",
+  "padellino": "padelːino",
+  "padellino_2": "padɛlːino",
+  "padellone": "padelːone",
+  "padiglione": "padiʎɔne",
+  "padire": "padire",
+  "padiscià": "padiʃʃa",
+  "padova": "padova",
+  "padovano": "padovano",
+  "padre": "padre",
+  "padre_2": "padrɛ",
+  "padreterno": "padretɛrno",
+  "padri": "padri",
+  "padrini": "padrini",
+  "padrino": "padrino",
+  "padrona": "padrona",
+  "padronanza": "padronantsa",
+  "padrone": "padrone",
+  "padrone_2": "padrɔne",
+  "padroneggiare": "padronedːʒare",
+  "padroni": "padrɔni",
+  "padronissimo": "padronisːimo",
+  "padua": "padua",
+  "paesaggi": "paezadːʒi",
+  "paesaggio": "paezadːʒo",
+  "paesaggista": "paezadːʒista",
+  "paesaggistica": "paezadːʒistika",
+  "paesaggisticamente": "paezadːʒistikamente",
+  "paesaggistico": "paezadːʒistiko",
+  "paesano": "paesano",
+  "paesano_2": "paezano",
+  "paese": "paeze",
+  "paeselli": "paɛzɛlːi",
+  "paesello": "paezɛlːo",
+  "paesello_2": "paɛzɛlːɔ",
+  "paesi": "paezi",
+  "paesista": "paezista",
+  "paesiste": "paeziste",
+  "paesisti": "paezisti",
+  "paesucolo": "paezukolo",
+  "paga": "paɡa",
+  "pagabile": "paɡabile",
+  "pagabili": "paɡabili",
+  "pagai": "paɡai",
+  "pagaia": "paɡaja",
+  "pagamenti": "paɡamɛnti",
+  "pagamento": "paɡamento",
+  "pagamento_2": "paɡamɛnto",
+  "pagammo": "paɡamːo",
+  "pagana": "paɡana",
+  "paganamente": "paɡanamente",
+  "pagando": "paɡando",
+  "pagane": "paɡane",
+  "paganeggiante": "paɡanedːʒante",
+  "paganeggiare": "paɡanedːʒare",
+  "paganesimi": "paɡanezimi",
+  "paganesimo": "paɡanezimo",
+  "pagani": "paɡani",
+  "paganismo": "paɡanizmo",
+  "paganità": "paɡanita",
+  "paganizzare": "paɡanidːzare",
+  "paganizzato": "paɡanidːzato",
+  "paganizzazione": "paɡanidːzatːsjone",
+  "pagano": "paɡano",
+  "pagante": "paɡante",
+  "paganti": "paɡanti",
+  "pagare": "paɡare",
+  "pagarono": "paɡarono",
+  "pagasse": "paɡasːe",
+  "pagassero": "paɡasːero",
+  "pagassi": "paɡasːi",
+  "pagassimo": "paɡasːimo",
+  "pagaste": "paɡaste",
+  "pagasti": "paɡasti",
+  "pagata": "paɡata",
+  "pagate": "paɡate",
+  "pagati": "paɡati",
+  "pagato": "paɡato",
+  "pagatore": "paɡatore",
+  "pagatori": "paɡatori",
+  "pagatrice": "paɡatritʃe",
+  "pagatrici": "paɡatritʃi",
+  "pagava": "paɡava",
+  "pagavamo": "paɡavamo",
+  "pagavano": "paɡavano",
+  "pagavate": "paɡavate",
+  "pagavi": "paɡavi",
+  "pagavo": "paɡano",
+  "pagella": "padʒɛlːa",
+  "paggio": "padːʒo",
+  "paghe": "paɡe",
+  "pagherà": "paɡera",
+  "pagherai": "paɡerai",
+  "pagheranno": "paɡeranːo",
+  "pagherebbe": "paɡerebːe",
+  "pagherebbero": "paɡerebːero",
+  "pagherei": "paɡerei",
+  "pagheremmo": "paɡeremːo",
+  "pagheremo": "paɡeremo",
+  "paghereste": "paɡereste",
+  "pagheresti": "paɡeresti",
+  "pagherete": "paɡerete",
+  "pagherò": "paɡero",
+  "pagherò_2": "paɡerɔ",
+  "paghetta": "paɡetːa",
+  "paghi": "paɡi",
+  "paghiamo": "paɡiamo",
+  "paghiamo_2": "paɡjamo",
+  "paghiate": "paɡjate",
+  "paghino": "paɡino",
+  "pagina": "padʒina",
+  "pagine": "padʒine",
+  "paglia": "paʎa",
+  "paglia_2": "paʎia",
+  "pagliacci": "paʎatːʃi",
+  "pagliacciata": "paʎatːʃata",
+  "pagliaccio": "paʎatːʃo",
+  "pagliata": "paʎata",
+  "paglie": "paʎe",
+  "pagliericci": "paʎeritːʃi",
+  "pagliericcio": "paʎeritːʃo",
+  "paglietta": "paʎetːa",
+  "paglietta_2": "paʎɛtːa",
+  "pagliette": "paʎetːe",
+  "pagliuzza": "paʎutːsa",
+  "pagnotta": "paɲɲɔtːa",
+  "pago": "paɡi",
+  "pago_2": "paɡo",
+  "pagò": "paɡo",
+  "pagoda": "paɡoda",
+  "pagoda_2": "paɡɔda",
+  "pagode": "paɡode",
+  "paguride": "paɡuride",
+  "paguridi": "paɡuridi",
+  "paguro": "paɡuro",
+  "pahlavi": "palavi",
+  "paidire": "pajdire",
+  "paidofilie": "pedofilie",
+  "paio": "pajo",
+  "paiolo": "pajɔlo",
+  "pakistana": "pakistana",
+  "pakistane": "pakistane",
+  "pakistani": "pakistani",
+  "pakistano": "pakistano",
+  "pala": "pala",
+  "paladina": "paladina",
+  "paladino": "paladino",
+  "palaese": "palese",
+  "palaesi": "palesi",
+  "palafitta": "palafitːa",
+  "palafreno": "palafreno",
+  "palagio": "paladʒo",
+  "palamedea": "palamedɛa",
+  "palamedee": "palamedɛe",
+  "palanca": "palanka",
+  "palanchi": "palanki",
+  "palanco": "palanko",
+  "palandra": "palandra",
+  "palandrana": "palandrana",
+  "palandrano": "palandrano",
+  "palatale": "palatale",
+  "palati": "palati",
+  "palato": "palato",
+  "palato_2": "palatɔ",
+  "palatoalveolare": "palatoalveolare",
+  "palatoschisi": "palatoskizi",
+  "palau": "palau",
+  "palauana": "paluana",
+  "palauane": "paluane",
+  "palauani": "paluani",
+  "palauano": "paluano",
+  "palaziale": "palatːsjale",
+  "palazzetto": "palatːsetːo",
+  "palazzi": "palatːsi",
+  "palazzina": "palatːsina",
+  "palazzo": "palatːso",
+  "palazzo_2": "palatːsɔ",
+  "palchetto": "palketːo",
+  "palco": "palko",
+  "palcoscenici": "palkoʃʃɛnitʃi",
+  "palcoscenico": "palkoʃʃɛniko",
+  "paldiferro": "paldifɛrːo",
+  "paleantropologia": "paleantropolodʒia",
+  "paleoambiente": "paleoambjɛnte",
+  "paleoambienti": "paleoambjɛnti",
+  "paleoantropo": "paleoantropo",
+  "paleoantropologia": "paleoantropolodʒia",
+  "paleoantropologico": "paleoantropolɔdʒiko",
+  "paleoantropologo": "paleoantropɔloɡo",
+  "paleoartista": "paleoartista",
+  "paleoartiste": "paleoartiste",
+  "paleoartisti": "paleoartisti",
+  "paleobiologa": "paleobiɔloɡa",
+  "paleobiologhe": "paleobiɔloɡe",
+  "paleobiologi": "paleobiɔlodʒi",
+  "paleobiologia": "paleobiolodʒia",
+  "paleobiologie": "paleobiolodʒie",
+  "paleobiologo": "paleobiɔloɡo",
+  "paleobotanica": "paleobotanika",
+  "paleocapitalista": "palɛokapitalista",
+  "paleocapitaliste": "palɛokapitaliste",
+  "paleocapitalisti": "palɛokapitalisti",
+  "paleocene": "paleotʃɛne",
+  "paleoclimatologia": "paleoklimatolodʒia",
+  "paleocontinente": "paleokontenɛnte",
+  "paleocontinenti": "paleokontenɛnti",
+  "paleocristiana": "paleokristjana",
+  "paleocristiano": "paleokristjano",
+  "paleoecologia": "palɛoekolodʒia",
+  "paleoecologie": "palɛoekolodʒie",
+  "paleogene": "paleodʒɛne",
+  "paleogene_2": "paleɔdʒene",
+  "paleogenetista": "paleodʒenetista",
+  "paleogenetiste": "paleodʒenetiste",
+  "paleogenetisti": "paleodʒenetisti",
+  "paleognati": "paleoɲɲati",
+  "paleognato": "paleɔɲɲato",
+  "paleografia": "paleoɡrafia",
+  "paleolitico": "paleolitiko",
+  "paleomagnetica": "paleomaɲɲɛtika",
+  "paleomagnetiche": "paleomaɲɲɛtike",
+  "paleomagnetici": "paleomaɲɲɛtitʃi",
+  "paleomagnetico": "paleomaɲɲɛtiko",
+  "paleomagnetismo": "paleomaɲɲetizmo",
+  "paleontologia": "paleontolodʒia",
+  "paleontologico": "paleontolɔdʒiko",
+  "paleontologo": "paleontɔloɡo",
+  "paleopatologista": "paleopatolodʒista",
+  "paleopatologiste": "paleopatolodʒiste",
+  "paleopatologisti": "paleopatolodʒisti",
+  "paleopatologo": "paleopatɔloɡo",
+  "paleornitologia": "paleornitolodʒia",
+  "paleotteri": "paleɔtːeri",
+  "paleotteri_2": "palɛɔtːeri",
+  "paleottero": "paleɔtːero",
+  "paleottero_2": "palɛɔtːero",
+  "paleovulcanismo": "paleovulkanizmo",
+  "paleozoico": "paleodːzɔjko",
+  "paleozoologia": "paleodːzoolodʒia",
+  "paleozoologico": "paleodːzoolɔdʒiko",
+  "palermitano": "palermitano",
+  "palermo": "palɛrmo",
+  "palesare": "palezare",
+  "palesarsi": "palezarsi",
+  "palesato": "palezato",
+  "palese": "paleze",
+  "palese_2": "palɛze",
+  "palesemente": "palezemente",
+  "palestinese": "palestinese",
+  "palestinese_2": "palestineze",
+  "palestra": "palɛstra",
+  "palestrata": "palestrata",
+  "palestrate": "palestrate",
+  "palestrati": "palestrati",
+  "palestrato": "palestrato",
+  "palestre": "palɛstre",
+  "paletta": "paletːa",
+  "paletto": "paletːo",
+  "pali": "pali",
+  "palindromi": "palindromi",
+  "palindromo": "palindromo",
+  "palingenesi": "palindʒɛnezi",
+  "palinologica": "palinolɔdʒika",
+  "palinologiche": "palinolɔdʒike",
+  "palinologici": "palinolɔdʒitʃi",
+  "palinologico": "palinolɔdʒiko",
+  "palinsesti": "palinsɛsti",
+  "palinsesto": "palinsɛsto",
+  "palinuride": "palinuride",
+  "palinuridi": "palinuridi",
+  "palinuro": "palinuro",
+  "palio": "paljo",
+  "paliotti": "paljɔtːi",
+  "paliotto": "paljɔtːo",
+  "palizzata": "palitːsata",
+  "palla": "palːa",
+  "pallacanestro": "palːakanɛstro",
+  "palladio": "palːadjo",
+  "pallamaglio": "palːamaʎo",
+  "pallamanista": "palːamanista",
+  "pallamaniste": "palːamaniste",
+  "pallamanisti": "palːamanisti",
+  "pallamuro": "palːamuro",
+  "pallanuotista": "palːanwotista",
+  "pallanuotiste": "palːanwotiste",
+  "pallanuotisti": "palːanwotisti",
+  "pallanuoto": "palːanwɔto",
+  "pallavolista": "palːavolista",
+  "pallavoliste": "palːavoliste",
+  "pallavolisti": "palːavolisti",
+  "pallavolo": "palːavolo",
+  "palle": "palːe",
+  "palleale": "paleale",
+  "palleali": "paleale",
+  "palleggi": "palːedːʒi",
+  "palleggiarsi": "palːedːʒarsi",
+  "palleggiato": "palːedːʒato",
+  "palleggiatore": "palːedːʒatore",
+  "palleggiatrice": "palːedːʒatritʃe",
+  "palleggiatrici": "palːedːʒatritʃi",
+  "palleggio": "palːedːʒo",
+  "pallet": "palːet",
+  "pallettone": "palːetːone",
+  "palli": "palːi",
+  "palliativo": "palːjativo",
+  "pallido": "palːido",
+  "pallido_2": "palːidɔ",
+  "pallina": "palːina",
+  "pallinatura": "palːinatura",
+  "pallinature": "palːinature",
+  "palline": "palːine",
+  "pallino": "palːino",
+  "pallio": "palːjo",
+  "pallonaia": "palːonaja",
+  "pallonaro": "palːonaro",
+  "pallonata": "palːonata",
+  "pallonate": "palːonate",
+  "palloncini": "palːontʃini",
+  "palloncino": "palːontʃino",
+  "pallone": "palːone",
+  "pallonetto": "palːonetːo",
+  "palloni": "palːoni",
+  "pallore": "palːore",
+  "pallori": "palːori",
+  "palloso": "palːoso",
+  "palloso_2": "palːozo",
+  "pallottola": "palːɔtːola",
+  "pallottole": "palːɔtːole",
+  "pallottoliere": "palːotːoljɛre",
+  "pallottoliere_2": "palːɔtːɔljɛre",
+  "pallottolieri": "palːotːoljɛri",
+  "palma": "palma",
+  "palmare": "palmare",
+  "palme": "palme",
+  "palmeti": "palmeti",
+  "palmeto": "palmeto",
+  "palmi": "palmi",
+  "palmiforme": "palmiforme",
+  "palmiformi": "palmifɔrmi",
+  "palmipede": "palmipede",
+  "palmirena": "palmirena",
+  "palmirene": "palmirene",
+  "palmireni": "palmireni",
+  "palmireno": "palmirɛno",
+  "palmiti": "palmiti",
+  "palmitica": "palmitika",
+  "palmitiche": "palmitike",
+  "palmitici": "palmititʃi",
+  "palmitico": "palmitiko",
+  "palmito": "palmito",
+  "palmizio": "palmitːsjo",
+  "palmo": "palmo",
+  "palo": "palo",
+  "palombaccio": "palombatːʃo",
+  "palombaro": "palombaro",
+  "palombo": "palombo",
+  "paloscio": "palɔʃʃo",
+  "palpabile": "palpabile",
+  "palpabili": "palpabili",
+  "palpabilmente": "palpabilmente",
+  "palpare": "palpare",
+  "palpata": "palpata",
+  "palpazione": "palpatːsjone",
+  "palpebra": "palpebra",
+  "palpebra_2": "palpɛbra",
+  "palpebrale": "palpebrale",
+  "palpebre": "palpɛbre",
+  "palpeggiare": "palpedːʒare",
+  "palpeggio": "palpedːʒo",
+  "palpita": "palpita",
+  "palpitai": "palpitai",
+  "palpitando": "palpitando",
+  "palpitante": "palpitante",
+  "palpitanti": "palpitanti",
+  "palpitare": "palpitare",
+  "palpitasse": "palpitasːe",
+  "palpitata": "palpitata",
+  "palpitate": "palpitat",
+  "palpitati": "palpitati",
+  "palpitato": "palpitato",
+  "palpitazione": "palpitatsjone",
+  "palpitazione_2": "palpitatːsjone",
+  "palpitazioni": "palpitatsjoni",
+  "palpiterai": "palpiterai",
+  "palpito": "palpito",
+  "paltò": "paltɔ",
+  "paludano": "paludano",
+  "paludari": "paludari",
+  "paludario": "paludarjo",
+  "palude": "palude",
+  "paludi": "paludi",
+  "paludismo": "paludizmo",
+  "paludoso": "paludoso",
+  "palustre": "palustre",
+  "pampalugo": "pampaluɡo",
+  "pamphili": "pamfili",
+  "pamphili_2": "panfili",
+  "pamphilj": "pamfili",
+  "pamphilj_2": "panfili",
+  "pamphlet": "pamplet",
+  "pampino": "pampino",
+  "pampsichismo": "pampsikizmo",
+  "panacea": "panatʃɛa",
+  "panafricana": "panafrikana",
+  "panafricane": "panafrikane",
+  "panafricani": "panafrikani",
+  "panafricano": "panafrikano",
+  "panama": "panama",
+  "panamense": "panamɛnse",
+  "panamensi": "panamɛnsi",
+  "panarabismi": "panarabizmi",
+  "panarabismo": "panarabizmo",
+  "panatenee": "panatenɛe",
+  "panatura": "panatura",
+  "panca": "panka",
+  "pancarré": "pankarːe",
+  "pancarrè": "pankarːɛ",
+  "pance": "pantʃe",
+  "pancetta": "pantʃetːa",
+  "pancette": "pantʃetːe"
 }

@@ -1,1518 +1,518 @@
 {
-  "capocchiette": [
-    "kapɔkːjetːe"
-  ],
-  "capocchina": [
-    "kapɔkːina"
-  ],
-  "capocchine": [
-    "kapɔkːine"
-  ],
-  "capocchiona": [
-    "kapɔkːjona"
-  ],
-  "capocorda": [
-    "kapokɔrda"
-  ],
-  "capocuoca": [
-    "kapokwɔka"
-  ],
-  "capocuoche": [
-    "kapokwɔke"
-  ],
-  "capocuochi": [
-    "kapokwɔki"
-  ],
-  "capocuoco": [
-    "kapokwɔko"
-  ],
-  "capodanni": [
-    "kapodanːi"
-  ],
-  "capodanno": [
-    "kapodanːo"
-  ],
-  "capodimonte": [
-    "kapodimonte"
-  ],
-  "capodogli": [
-    "kapodɔʎi"
-  ],
-  "capodoglio": [
-    "kapodɔʎo"
-  ],
-  "capodopera": [
-    "kapodɔpera"
-  ],
-  "capoeirista": [
-    "kapoerista"
-  ],
-  "capoeiriste": [
-    "kapoeriste"
-  ],
-  "capoeiristi": [
-    "kapoeristi"
-  ],
-  "capofamiglia": [
-    "kapofamiʎa"
-  ],
-  "capogatto": [
-    "kapoɡatːo"
-  ],
-  "capogiro": [
-    "kapodʒiro"
-  ],
-  "capogruppo": [
-    "kapoɡrupːo"
-  ],
-  "capolare": [
-    "kaporale"
-  ],
-  "capolavori": [
-    "kapolavori"
-  ],
-  "capolavoro": [
-    "kapolavoro"
-  ],
-  "capolevare": [
-    "kapolevare"
-  ],
-  "capolinea": [
-    "kapolinea"
-  ],
-  "capolini": [
-    "kapolini"
-  ],
-  "capolino": [
-    "kapolino"
-  ],
-  "capolista": [
-    "kapolista"
-  ],
-  "capoluoghi": [
-    "kapolwɔɡi"
-  ],
-  "capoluogo": [
-    "kapoluɔɡo",
-    "kapolwɔɡo"
-  ],
-  "capone": [
-    "kapone"
-  ],
-  "capopagina": [
-    "kapopadʒina"
-  ],
-  "capopezzo": [
-    "kapopɛtːso"
-  ],
-  "capopopolo": [
-    "kapopɔpolo"
-  ],
-  "caporale": [
-    "kaporale"
-  ],
-  "caporali": [
-    "kaporal"
-  ],
-  "caporazza": [
-    "kaporatːsa"
-  ],
-  "caporedattore": [
-    "kaporedatːore"
-  ],
-  "caporedattori": [
-    "kaporedatːori"
-  ],
-  "caporedattrice": [
-    "kaporedatːritʃe"
-  ],
-  "caporedattrici": [
-    "kaporedatːritʃi"
-  ],
-  "caporeparto": [
-    "kaporeparto"
-  ],
-  "caporetto": [
-    "kaporetːo"
-  ],
-  "caposaldo": [
-    "kaposaldo"
-  ],
-  "caposcala": [
-    "kaposkala"
-  ],
-  "caposervizio": [
-    "kaposervitːsjo"
-  ],
-  "capostazione": [
-    "kapostatsjone"
-  ],
-  "capostipite": [
-    "kapostipite"
-  ],
-  "capotare": [
-    "kapotare"
-  ],
-  "capotasti": [
-    "kapotasti"
-  ],
-  "capotasto": [
-    "kapotasto"
-  ],
-  "capotavola": [
-    "kapotavola"
-  ],
-  "capote": [
-    "kapɔt"
-  ],
-  "capotorace": [
-    "kapotoratʃe"
-  ],
-  "capotreno": [
-    "kapotrɛno",
-    "kapɔtrɛnɔ"
-  ],
-  "capotribù": [
-    "kapotribu"
-  ],
-  "capottare": [
-    "kapotːare"
-  ],
-  "capoverde": [
-    "kapoverde"
-  ],
-  "capoverdiana": [
-    "kapoverdjana"
-  ],
-  "capoverdiane": [
-    "kapoverdjane"
-  ],
-  "capoverdiani": [
-    "kapoverdjani"
-  ],
-  "capoverdiano": [
-    "kapoverdjano"
-  ],
-  "capoversi": [
-    "kapovɛrsi"
-  ],
-  "capoverso": [
-    "kapovɛrso"
-  ],
-  "capovoga": [
-    "kapovoɡa"
-  ],
-  "capovolgere": [
-    "kapovɔldʒere"
-  ],
-  "capovolgimento": [
-    "kapovoldʒimento"
-  ],
-  "capovolta": [
-    "kapovɔlta"
-  ],
-  "capovoltare": [
-    "kapovoltare"
-  ],
-  "capovoltarsi": [
-    "kapovoltarsi"
-  ],
-  "capovolto": [
-    "kapovɔlto"
-  ],
-  "capozzo": [
-    "kapɔtːso"
-  ],
-  "cappa": [
-    "kapːa"
-  ],
-  "cappacismo": [
-    "kapːatʃizmo"
-  ],
-  "cappadocia": [
-    "kapːadɔtʃa"
-  ],
-  "cappalunga": [
-    "kapːaluɲɡa"
-  ],
-  "cappalunghe": [
-    "kapːaluɲɡe"
-  ],
-  "cappare": [
-    "kapːare"
-  ],
-  "cappella": [
-    "kapːɛlːa"
-  ],
-  "cappellacce": [
-    "kapːelːatːʃa"
-  ],
-  "cappellacci": [
-    "kapːɛlːatːʃi"
-  ],
-  "cappellaccia": [
-    "kapːelːatːʃa"
-  ],
-  "cappellaccio": [
-    "kapːɛlːatːʃo"
-  ],
-  "cappellai": [
-    "kapːelai"
-  ],
-  "cappellaia": [
-    "kapːelaja"
-  ],
-  "cappellaie": [
-    "kapːelaje"
-  ],
-  "cappellaio": [
-    "kapːelajo"
-  ],
-  "cappellani": [
-    "kapːelːani"
-  ],
-  "cappellania": [
-    "kapːelːania"
-  ],
-  "cappellano": [
-    "kapːelːano"
-  ],
-  "cappelle": [
-    "kapːɛlːe"
-  ],
-  "cappelletta": [
-    "kapːelːetːa"
-  ],
-  "cappelletti": [
-    "kapːelːetːi"
-  ],
-  "cappelli": [
-    "kapːɛlːi"
-  ],
-  "cappellino": [
-    "kapːelːino"
-  ],
-  "cappello": [
-    "kapːɛlːo"
-  ],
-  "capperi": [
-    "kapːeri"
-  ],
-  "cappero": [
-    "kapːero"
-  ],
-  "cappino": [
-    "kapːino"
-  ],
-  "cappio": [
-    "kapːjo"
-  ],
-  "capponare": [
-    "kapːonare"
-  ],
-  "cappone": [
-    "kapːone"
-  ],
-  "cappotta": [
-    "kapːɔtːa"
-  ],
-  "cappottare": [
-    "kapːotːare"
-  ],
-  "cappotti": [
-    "kapːɔtːi"
-  ],
-  "cappottino": [
-    "kapːotːino",
-    "kapːɔtːino"
-  ],
-  "cappotto": [
-    "kapːɔtːo"
-  ],
-  "cappucce": [
-    "kapːutːʃe"
-  ],
-  "cappucci": [
-    "kapːutːʃi"
-  ],
-  "cappuccia": [
-    "kapːutːʃa"
-  ],
-  "cappuccino": [
-    "kaputʃino",
-    "kapːutːʃino"
-  ],
-  "cappuccio": [
-    "kapːutːʃo"
-  ],
-  "capra": [
-    "kapra"
-  ],
-  "capre": [
-    "kapre"
-  ],
-  "caprese": [
-    "kaprese",
-    "kapreze"
-  ],
-  "capresi": [
-    "kapresi"
-  ],
-  "capretta": [
-    "kapretːa"
-  ],
-  "caprette": [
-    "kapretːe"
-  ],
-  "capretti": [
-    "kapretːi"
-  ],
-  "capretto": [
-    "kapretːo"
-  ],
-  "capri": [
-    "kapri"
-  ],
-  "capricci": [
-    "kapritːʃi"
-  ],
-  "capriccio": [
-    "kapritːʃo"
-  ],
-  "capricciosa": [
-    "kapritːʃosa"
-  ],
-  "capricciosamente": [
-    "kapritːʃosamente"
-  ],
-  "capricciose": [
-    "kapritːʃose"
-  ],
-  "capricciosi": [
-    "kapritːʃosi"
-  ],
-  "capriccioso": [
-    "kapritːʃoso",
-    "kapritːʃozo"
-  ],
-  "capricorni": [
-    "kaprikɔrni"
-  ],
-  "capricorno": [
-    "kaprikɔrno"
-  ],
-  "caprifico": [
-    "kaprifiko"
-  ],
-  "caprifoglio": [
-    "kaprifɔʎo"
-  ],
-  "caprigno": [
-    "kapriɲɲo"
-  ],
-  "caprimulgide": [
-    "kaprimuldʒide"
-  ],
-  "caprimulgidi": [
-    "kaprimuldʒidi"
-  ],
-  "caprimulgo": [
-    "kaprimulɡo"
-  ],
-  "caprini": [
-    "kaprini"
-  ],
-  "caprino": [
-    "kaprino"
-  ],
-  "caprioli": [
-    "kaprioli"
-  ],
-  "capriolo": [
-    "kaprilo",
-    "kapriolo",
-    "kapriɔlo"
-  ],
-  "capro": [
-    "kapro"
-  ],
-  "caproica": [
-    "kaprɔika"
-  ],
-  "caproiche": [
-    "kaprɔike"
-  ],
-  "caproici": [
-    "kaprɔitʃi"
-  ],
-  "caproico": [
-    "kaprɔiko"
-  ],
-  "caprone": [
-    "kaprone"
-  ],
-  "caproni": [
-    "kaproni"
-  ],
-  "capsa": [
-    "kapsa"
-  ],
-  "capside": [
-    "kapside"
-  ],
-  "capsula": [
-    "kapsula"
-  ],
-  "capsulatura": [
-    "kapsulatura"
-  ],
-  "captabile": [
-    "kaptabile"
-  ],
-  "captabili": [
-    "kaptabili"
-  ],
-  "captare": [
-    "kaptare"
-  ],
-  "captato": [
-    "kaptato"
-  ],
-  "capua": [
-    "kapua"
-  ],
-  "capuana": [
-    "kapuana"
-  ],
-  "capuane": [
-    "kapuane"
-  ],
-  "capuani": [
-    "kapuani"
-  ],
-  "capuano": [
-    "kapuano"
-  ],
-  "capziosamente": [
-    "kaptsjosamente"
-  ],
-  "capzioso": [
-    "kaptsjoso",
-    "kaptsjozo"
-  ],
-  "cara": [
-    "kara"
-  ],
-  "carabina": [
-    "karabina"
-  ],
-  "carabiniere": [
-    "karabinjɛre"
-  ],
-  "caracal": [
-    "karaka",
-    "karakal"
-  ],
-  "caracalla": [
-    "karakalːa"
-  ],
-  "caracarà": [
-    "karakara"
-  ],
-  "caracca": [
-    "karakːa"
-  ],
-  "caracollare": [
-    "karakolːare"
-  ],
-  "caradride": [
-    "karadride"
-  ],
-  "caradridi": [
-    "karadridi"
-  ],
-  "caradriforme": [
-    "karadriforme"
-  ],
-  "caradriformi": [
-    "karadriformi"
-  ],
-  "caradrio": [
-    "karadrjo"
-  ],
-  "caraffa": [
-    "karafːa"
-  ],
-  "caraffe": [
-    "karafːe"
-  ],
-  "carambola": [
-    "karambola"
-  ],
-  "carambolare": [
-    "karambolare"
-  ],
-  "carambole": [
-    "karambole"
-  ],
-  "caramella": [
-    "karamɛlːa"
-  ],
-  "caramellare": [
-    "karamelːare"
-  ],
-  "caramellaro": [
-    "karamelːaro"
-  ],
-  "caramellato": [
-    "karamelːato"
-  ],
-  "caramelle": [
-    "karamɛlːe"
-  ],
-  "caramelli": [
-    "karamɛlːi"
-  ],
-  "caramello": [
-    "karamɛlːo"
-  ],
-  "caramente": [
-    "karamente"
-  ],
-  "carapace": [
-    "karapatʃe"
-  ],
-  "carasau": [
-    "karazaw"
-  ],
-  "carassi": [
-    "karasːi"
-  ],
-  "carassio": [
-    "karasːjo"
-  ],
-  "caratare": [
-    "karatare"
-  ],
-  "carati": [
-    "karati"
-  ],
-  "caratista": [
-    "karatista"
-  ],
-  "carato": [
-    "karato"
-  ],
-  "caratteraccio": [
-    "karatːeratːʃo"
-  ],
-  "carattere": [
-    "karatːere"
-  ],
-  "caratteri": [
-    "karatːeri"
-  ],
-  "caratteriale": [
-    "karatːerjale"
-  ],
-  "caratteriali": [
-    "karatːerjali"
-  ],
-  "caratterista": [
-    "karatːerista"
-  ],
-  "caratteriste": [
-    "karatːeriste"
-  ],
-  "caratteristi": [
-    "karatːeristi"
-  ],
-  "caratteristica": [
-    "karatːeristika"
-  ],
-  "caratteristicamente": [
-    "karatːeristikamente"
-  ],
-  "caratteristiche": [
-    "karatːeristike"
-  ],
-  "caratteristici": [
-    "karatːeristitʃi"
-  ],
-  "caratteristico": [
-    "karatːeristiko"
-  ],
-  "caratterizzabile": [
-    "karatːeridːzabile"
-  ],
-  "caratterizzabili": [
-    "karatːeridːzabili"
-  ],
-  "caratterizzante": [
-    "karatːeridːzante"
-  ],
-  "caratterizzanti": [
-    "karatːeridːzanti"
-  ],
-  "caratterizzare": [
-    "karatːeridːzare"
-  ],
-  "caratterizzata": [
-    "karatːeridːzata"
-  ],
-  "caratterizzate": [
-    "karatːeridːzate"
-  ],
-  "caratterizzati": [
-    "karatːeridːzati"
-  ],
-  "caratterizzato": [
-    "karatːeridːzato"
-  ],
-  "caratterizzazione": [
-    "karatːeridːzatːsjone"
-  ],
-  "caratterologicamente": [
-    "karatːerolodʒikamente"
-  ],
-  "caravaggesco": [
-    "karavadːʒesko"
-  ],
-  "caravaggio": [
-    "karavadːʒo"
-  ],
-  "caravaggismo": [
-    "karavadːʒizmo"
-  ],
-  "caravaggista": [
-    "karavadːʒista"
-  ],
-  "caravan": [
-    "karavan"
-  ],
-  "caravana": [
-    "aravana"
-  ],
-  "caravanserragli": [
-    "karavanserːaʎi"
-  ],
-  "caravanserraglio": [
-    "karavanserːaʎo"
-  ],
-  "caravella": [
-    "karavɛlːa"
-  ],
-  "carbazolo": [
-    "karbazolo"
-  ],
-  "carbochimica": [
-    "karbokimika"
-  ],
-  "carbochimiche": [
-    "karbokimike"
-  ],
-  "carbochimici": [
-    "karbokimitʃi"
-  ],
-  "carbochimico": [
-    "karbokimiko"
-  ],
-  "carbodotto": [
-    "karbodotːo"
-  ],
-  "carboidrato": [
-    "karboidrato"
-  ],
-  "carbolo": [
-    "karbɔlo"
-  ],
-  "carbonara": [
-    "karbonara"
-  ],
-  "carbonare": [
-    "karbonare"
-  ],
-  "carbonari": [
-    "karbonari"
-  ],
-  "carbonaro": [
-    "karbonaro"
-  ],
-  "carbonatazione": [
-    "karbonatatːsjone"
-  ],
-  "carbonato": [
-    "karbonato"
-  ],
-  "carboncino": [
-    "karbontʃino"
-  ],
-  "carbone": [
-    "karbone",
-    "karbɔne"
-  ],
-  "carboneria": [
-    "karboneria"
-  ],
-  "carboni": [
-    "karbɔnji"
-  ],
-  "carbonica": [
-    "karbɔnika"
-  ],
-  "carboniche": [
-    "karbɔnike"
-  ],
-  "carbonici": [
-    "karbɔnitʃi"
-  ],
-  "carbonico": [
-    "karbɔniko"
-  ],
-  "carboniero": [
-    "karbonjɛro"
-  ],
-  "carbonifero": [
-    "karbonifero"
-  ],
-  "carbonilazione": [
-    "karbonilatːsjone"
-  ],
-  "carbonilazioni": [
-    "karbonilatːsjoni"
-  ],
-  "carbonio": [
-    "karbɔnjo"
-  ],
-  "carbonioso": [
-    "karbonjoso",
-    "karbonjozo"
-  ],
-  "carbonizzare": [
-    "karbonidːzare",
-    "karboniʒʒare"
-  ],
-  "carbonizzazione": [
-    "karbonidːzatːsjone"
-  ],
-  "carbonizzazioni": [
-    "karbonidːzatːsjoni"
-  ],
-  "carbonizzo": [
-    "karbonidːzo"
-  ],
-  "carbosiderurgico": [
-    "karbosiderurdʒiko"
-  ],
-  "carbossilare": [
-    "karbosːilare"
-  ],
-  "carbossilica": [
-    "karbosːilika"
-  ],
-  "carbossiliche": [
-    "karbosːilike"
-  ],
-  "carbossilici": [
-    "karbosːilitʃi"
-  ],
-  "carbossilico": [
-    "karbosːiliko"
-  ],
-  "carbuncolo": [
-    "karbunkolo"
-  ],
-  "carburante": [
-    "karburante"
-  ],
-  "carburanti": [
-    "karburanti"
-  ],
-  "carburare": [
-    "karburare"
-  ],
-  "carburatore": [
-    "karburatore"
-  ],
-  "carburazione": [
-    "karburatːsjone"
-  ],
-  "carcare": [
-    "karkare"
-  ],
-  "carcassa": [
-    "karkasːa"
-  ],
-  "carcera": [
-    "kartʃera"
-  ],
-  "carcerando": [
-    "kartʃerando"
-  ],
-  "carcerante": [
-    "kartʃerante"
-  ],
-  "carceranti": [
-    "kartʃeranti"
-  ],
-  "carcerare": [
-    "kartʃerare"
-  ],
-  "carcerari": [
-    "kartʃerari"
-  ],
-  "carcerario": [
-    "kartʃerarjo"
-  ],
-  "carcerata": [
-    "kartʃerata"
-  ],
-  "carcerate": [
-    "kartʃerata"
-  ],
-  "carcerati": [
-    "kartʃerati"
-  ],
-  "carcerato": [
-    "kartʃerato"
-  ],
-  "carceravi": [
-    "kartʃeranvi"
-  ],
-  "carcerazione": [
-    "kartʃeratsjone"
-  ],
-  "carcerazioni": [
-    "kartʃeratsjoni"
-  ],
-  "carcere": [
-    "kartʃere"
-  ],
-  "carceriere": [
-    "kartʃerjɛre"
-  ],
-  "carcero": [
-    "kartʃero"
-  ],
-  "carcino": [
-    "kartʃino"
-  ],
-  "carcinogenetica": [
-    "kartʃinodʒenɛtika"
-  ],
-  "carcinogenetiche": [
-    "kartʃinodʒenɛtike"
-  ],
-  "carcinogenetici": [
-    "kartʃinodʒenɛtitʃi"
-  ],
-  "carcinogenetico": [
-    "kartʃinodʒenɛtiko"
-  ],
-  "carcinoma": [
-    "kartʃinɔma"
-  ],
-  "carcinomi": [
-    "kartʃinɔmi"
-  ],
-  "carciofaio": [
-    "kartʃofajo"
-  ],
-  "carciofi": [
-    "kartʃɔfi"
-  ],
-  "carciofino": [
-    "kartʃofino"
-  ],
-  "carciofo": [
-    "kartʃɔfo"
-  ],
-  "card": [
-    "kard"
-  ],
-  "cardante": [
-    "kardante"
-  ],
-  "cardare": [
-    "kardare"
-  ],
-  "cardato": [
-    "kardato"
-  ],
-  "cardatore": [
-    "kardatɔre"
-  ],
-  "cardatori": [
-    "kardatɔri"
-  ],
-  "cardatrice": [
-    "kardatritʃe"
-  ],
-  "cardatrici": [
-    "kardatritʃe"
-  ],
-  "cardatura": [
-    "kardatura"
-  ],
-  "cardature": [
-    "kardatura"
-  ],
-  "cardellini": [
-    "kardelːini"
-  ],
-  "cardellino": [
-    "kardelːino"
-  ],
-  "cardi": [
-    "kardi"
-  ],
-  "cardiaca": [
-    "kardjaka"
-  ],
-  "cardiache": [
-    "kardjake"
-  ],
-  "cardiaci": [
-    "kardjatʃi"
-  ],
-  "cardiaco": [
-    "kardiako",
-    "kardjako"
-  ],
-  "cardiale": [
-    "kardjale"
-  ],
-  "cardinale": [
-    "kardinale"
-  ],
-  "cardinali": [
-    "kardinali"
-  ],
-  "cardinalizio": [
-    "kardinalitːsjo"
-  ],
-  "cardine": [
-    "kardine"
-  ],
-  "cardiocentesi": [
-    "kardjotʃɛntezi"
-  ],
-  "cardiochirurga": [
-    "kardjokirurɡa"
-  ],
-  "cardiochirurghe": [
-    "kardjokirurɡe"
-  ],
-  "cardiochirurghi": [
-    "kardjokirurɡi"
-  ],
-  "cardiochirurgia": [
-    "kardjokirurdʒa"
-  ],
-  "cardiochirurgica": [
-    "kardjokirurɡika"
-  ],
-  "cardiochirurgiche": [
-    "kardjokirurɡike"
-  ],
-  "cardiochirurgici": [
-    "kardjokirurɡitʃi"
-  ],
-  "cardiochirurgie": [
-    "kardjokirurdʒe"
-  ],
-  "cardiochirurgo": [
-    "kardjokirurɡo"
-  ],
-  "cardiocinetico": [
-    "kardjotʃinɛtiko"
-  ],
-  "cardiocircolatorio": [
-    "kardjotʃirkolatɔrjo"
-  ],
-  "cardiogeno": [
-    "kardiodʒɛno"
-  ],
-  "cardiografi": [
-    "kardjoɡrafi"
-  ],
-  "cardiografia": [
-    "kardjoɡrafia"
-  ],
-  "cardiografie": [
-    "kardjoɡrafie"
-  ],
-  "cardiogramma": [
-    "kardjoɡramːa"
-  ],
-  "cardiogrammi": [
-    "kardjoɡramːi"
-  ],
-  "cardiologa": [
-    "kardjɔloɡa"
-  ],
-  "cardiologhe": [
-    "kardjɔloɡe"
-  ],
-  "cardiologi": [
-    "kardjɔlodʒi"
-  ],
-  "cardiologia": [
-    "kardjolodʒia"
-  ],
-  "cardiologica": [
-    "kardjolɔdʒika"
-  ],
-  "cardiologiche": [
-    "kardjolɔdʒike"
-  ],
-  "cardiologici": [
-    "kardjolɔdʒitʃi"
-  ],
-  "cardiologico": [
-    "kardjolɔdʒiko"
-  ],
-  "cardiologo": [
-    "kardjɔloɡo"
-  ],
-  "cardiomegalia": [
-    "kardjomeɡalia"
-  ],
-  "cardiomegalie": [
-    "kardjomeɡalie"
-  ],
-  "cardiopalmo": [
-    "kardjopalmo"
-  ],
-  "cardiopatia": [
-    "kardjopatia"
-  ],
-  "cardiopatico": [
-    "kardjopatiko"
-  ],
-  "cardiopatie": [
-    "kardjopatie"
-  ],
-  "cardioplastica": [
-    "kardjoplastika"
-  ],
-  "cardiopolmonare": [
-    "kardjopolmonare"
-  ],
-  "cardiopolmonari": [
-    "kardjopolmonari"
-  ],
-  "cardiorespiratori": [
-    "kardjorespiratɔri"
-  ],
-  "cardiorespiratoria": [
-    "kardjorespiratɔria"
-  ],
-  "cardiorespiratorie": [
-    "kardjorespiratɔrie"
-  ],
-  "cardiorespiratorio": [
-    "kardjorespiratɔrjo"
-  ],
-  "cardioscopi": [
-    "kardjoskɔpi"
-  ],
-  "cardioscopia": [
-    "kardjoskɔpja"
-  ],
-  "cardioscopie": [
-    "kardjoskɔpje"
-  ],
-  "cardioscopio": [
-    "kardjoskɔpjo"
-  ],
-  "cardiostimolante": [
-    "kardjostimolante"
-  ],
-  "cardiostimolanti": [
-    "kardjostimolanti"
-  ],
-  "cardioterapia": [
-    "kardjoterapia"
-  ],
-  "cardiotonica": [
-    "kardjotɔnika"
-  ],
-  "cardiotoniche": [
-    "kardjotɔnike"
-  ],
-  "cardiotonici": [
-    "kardjotɔnitʃi"
-  ],
-  "cardiotonico": [
-    "kardjotɔniko"
-  ],
-  "cardiovascolare": [
-    "kardjovaskolare"
-  ],
-  "cardiovascolari": [
-    "kardjovaskolari"
-  ],
-  "cardo": [
-    "kardo"
-  ],
-  "carducci": [
-    "kardutːʃi"
-  ],
-  "carducciano": [
-    "kardutːʃano"
-  ],
-  "carduccio": [
-    "kardutːʃo"
-  ],
-  "care": [
-    "kare"
-  ],
-  "carena": [
-    "karɛna"
-  ],
-  "carenaggi": [
-    "karenadːʒi"
-  ],
-  "carenaggio": [
-    "karenadːʒo"
-  ],
-  "carenamenti": [
-    "karemamenti"
-  ],
-  "carenamento": [
-    "karemamento"
-  ],
-  "carenante": [
-    "karenante"
-  ],
-  "carenare": [
-    "karenare"
-  ],
-  "carenati": [
-    "karenati"
-  ],
-  "carenato": [
-    "karenato"
-  ],
-  "carenatura": [
-    "karenatura"
-  ],
-  "carenature": [
-    "karenature"
-  ],
-  "carene": [
-    "karene"
-  ],
-  "carente": [
-    "karɛnte"
-  ],
-  "carenti": [
-    "karɛnti"
-  ],
-  "carenza": [
-    "karɛntsa"
-  ],
-  "carenze": [
-    "karɛntse"
-  ],
-  "carestia": [
-    "karestia"
-  ],
-  "carestie": [
-    "karestie"
-  ],
-  "caretteristica": [
-    "karatːeristika"
-  ],
-  "carezza": [
-    "karetːsa"
-  ],
-  "carezzante": [
-    "karetːsante"
-  ],
-  "carezzare": [
-    "karetːsare"
-  ],
-  "carezzato": [
-    "karetːsato"
-  ],
-  "carezze": [
-    "karetːse"
-  ],
-  "carezzevole": [
-    "karetːsevole"
-  ],
-  "carghi": [
-    "karɡi"
-  ],
-  "cargo": [
-    "karɡo"
-  ],
-  "cari": [
-    "kari"
-  ],
-  "cariaco": [
-    "karjako"
-  ],
-  "cariamide": [
-    "karjamidi"
-  ],
-  "cariamidi": [
-    "karjamidi"
-  ],
-  "cariatide": [
-    "karjatide"
-  ],
-  "cariatidi": [
-    "karjatidi"
-  ],
-  "cariato": [
-    "karjato"
-  ],
-  "caribico": [
-    "ka"
-  ],
-  "caribù": [
-    "karibu"
-  ],
-  "carica": [
-    "karika"
-  ],
-  "caricabatteria": [
-    "karikabatːeria"
-  ],
-  "caricabatterie": [
-    "karikabatːerie"
-  ],
-  "caricamenti": [
-    "karikamenti"
-  ],
-  "caricamento": [
-    "karikamento"
-  ],
-  "caricante": [
-    "karikante"
-  ],
-  "caricare": [
-    "karikare"
-  ],
-  "caricarsi": [
-    "karikarsi"
-  ],
-  "caricato": [
-    "karikato"
-  ],
-  "caricatura": [
-    "karikatura"
-  ],
-  "caricaturale": [
-    "karikaturale"
-  ],
-  "caricaturali": [
-    "karikaturali"
-  ],
-  "caricaturalmente": [
-    "karikaturalmente"
-  ],
-  "caricaturare": [
-    "karikaturare"
-  ],
-  "caricature": [
-    "karikature"
-  ],
-  "caricaturista": [
-    "karikaturista"
-  ],
-  "caricaturiste": [
-    "karikaturiste"
-  ],
-  "caricaturisti": [
-    "karikaturisti"
-  ],
-  "cariche": [
-    "karike"
-  ],
-  "carichi": [
-    "kariki"
-  ],
-  "carico": [
-    "kariko"
-  ],
-  "carie": [
-    "karje"
-  ],
-  "carina": [
-    "karina"
-  ],
-  "carine": [
-    "karine"
-  ],
-  "carini": [
-    "karini"
-  ],
-  "carino": [
-    "karino"
-  ],
-  "cariola": [
-    "karjɔla"
-  ],
-  "cariole": [
-    "karjɔle"
-  ],
-  "cariologia": [
-    "karjolodʒia"
-  ],
-  "carioso": [
-    "karjoso",
-    "karjozo"
-  ],
-  "cariosside": [
-    "kariɔsːide",
-    "karjɔsːide"
-  ],
-  "cariossidi": [
-    "kariɔsːidi"
-  ],
-  "carisma": [
-    "karizma"
-  ],
-  "carismaticamente": [
-    "karizmatikamente"
-  ],
-  "carismatico": [
-    "karizmatiko"
-  ],
-  "carisme": [
-    "karizme"
-  ],
-  "carità": [
-    "karita"
-  ],
-  "caritatevole": [
-    "karitatevole"
-  ],
-  "caritatevoli": [
-    "karitatevoli"
-  ],
-  "caritatevolmente": [
-    "karitatevolmente"
-  ],
-  "caritativa": [
-    "karitativa"
-  ],
-  "caritative": [
-    "karitative"
-  ],
-  "caritativi": [
-    "karitativi"
-  ],
-  "caritativo": [
-    "karitativo"
-  ],
-  "carlista": [
-    "karlista"
-  ],
-  "carliste": [
-    "karliste"
-  ],
-  "carlisti": [
-    "karlisti"
-  ],
-  "carlona": [
-    "karlona"
-  ],
-  "carme": [
-    "karme"
-  ],
-  "carmelitano": [
-    "karmelitano"
-  ],
-  "carminativa": [
-    "karminativa"
-  ],
-  "carminative": [
-    "karminative"
-  ],
-  "carminativi": [
-    "karminativi"
-  ],
-  "carminativo": [
-    "karminativo"
-  ],
-  "carmini": [
-    "karmini"
-  ],
-  "carminio": [
-    "karminjo"
-  ],
-  "carnaggio": [
-    "karnadːʒo"
-  ],
-  "carnagione": [
-    "karnadʒone"
-  ],
-  "carnagioni": [
-    "karnadʒoni"
-  ],
-  "carnale": [
-    "karnale"
-  ],
-  "carnali": [
-    "karnali"
-  ],
-  "carnalità": [
-    "karnalita"
-  ],
-  "carnalmente": [
-    "karnalmente"
-  ],
-  "carnaroli": [
-    "karnarɔli"
-  ],
-  "carnascialesco": [
-    "karnaʃʃalesko"
-  ],
-  "carne": [
-    "karne"
-  ],
-  "carneade": [
-    "karnɛade"
-  ],
-  "carnefice": [
-    "karnefitʃe"
-  ],
-  "carneficina": [
-    "karnefitʃina"
-  ],
-  "carneficine": [
-    "karnefitʃine"
-  ],
-  "carnesecca": [
-    "karnesekːa"
-  ],
-  "carnet": [
-    "karne"
-  ],
-  "carnevale": [
-    "karnevale"
-  ],
-  "carnevalesco": [
-    "karnevalesko"
-  ],
-  "carnevali": [
-    "karnevali"
-  ],
-  "carnico": [
-    "karniko"
-  ],
-  "carniere": [
-    "karnjɛre"
-  ],
-  "carnieri": [
-    "karnjɛri"
-  ],
-  "carnificazione": [
-    "karnifikatːsjone"
-  ]
+  "capocchiette": "kapɔkːjetːe",
+  "capocchina": "kapɔkːina",
+  "capocchine": "kapɔkːine",
+  "capocchiona": "kapɔkːjona",
+  "capocorda": "kapokɔrda",
+  "capocuoca": "kapokwɔka",
+  "capocuoche": "kapokwɔke",
+  "capocuochi": "kapokwɔki",
+  "capocuoco": "kapokwɔko",
+  "capodanni": "kapodanːi",
+  "capodanno": "kapodanːo",
+  "capodimonte": "kapodimonte",
+  "capodogli": "kapodɔʎi",
+  "capodoglio": "kapodɔʎo",
+  "capodopera": "kapodɔpera",
+  "capoeirista": "kapoerista",
+  "capoeiriste": "kapoeriste",
+  "capoeiristi": "kapoeristi",
+  "capofamiglia": "kapofamiʎa",
+  "capogatto": "kapoɡatːo",
+  "capogiro": "kapodʒiro",
+  "capogruppo": "kapoɡrupːo",
+  "capolare": "kaporale",
+  "capolavori": "kapolavori",
+  "capolavoro": "kapolavoro",
+  "capolevare": "kapolevare",
+  "capolinea": "kapolinea",
+  "capolini": "kapolini",
+  "capolino": "kapolino",
+  "capolista": "kapolista",
+  "capoluoghi": "kapolwɔɡi",
+  "capoluogo": "kapoluɔɡo",
+  "capoluogo_2": "kapolwɔɡo",
+  "capone": "kapone",
+  "capopagina": "kapopadʒina",
+  "capopezzo": "kapopɛtːso",
+  "capopopolo": "kapopɔpolo",
+  "caporale": "kaporale",
+  "caporali": "kaporal",
+  "caporazza": "kaporatːsa",
+  "caporedattore": "kaporedatːore",
+  "caporedattori": "kaporedatːori",
+  "caporedattrice": "kaporedatːritʃe",
+  "caporedattrici": "kaporedatːritʃi",
+  "caporeparto": "kaporeparto",
+  "caporetto": "kaporetːo",
+  "caposaldo": "kaposaldo",
+  "caposcala": "kaposkala",
+  "caposervizio": "kaposervitːsjo",
+  "capostazione": "kapostatsjone",
+  "capostipite": "kapostipite",
+  "capotare": "kapotare",
+  "capotasti": "kapotasti",
+  "capotasto": "kapotasto",
+  "capotavola": "kapotavola",
+  "capote": "kapɔt",
+  "capotorace": "kapotoratʃe",
+  "capotreno": "kapotrɛno",
+  "capotreno_2": "kapɔtrɛnɔ",
+  "capotribù": "kapotribu",
+  "capottare": "kapotːare",
+  "capoverde": "kapoverde",
+  "capoverdiana": "kapoverdjana",
+  "capoverdiane": "kapoverdjane",
+  "capoverdiani": "kapoverdjani",
+  "capoverdiano": "kapoverdjano",
+  "capoversi": "kapovɛrsi",
+  "capoverso": "kapovɛrso",
+  "capovoga": "kapovoɡa",
+  "capovolgere": "kapovɔldʒere",
+  "capovolgimento": "kapovoldʒimento",
+  "capovolta": "kapovɔlta",
+  "capovoltare": "kapovoltare",
+  "capovoltarsi": "kapovoltarsi",
+  "capovolto": "kapovɔlto",
+  "capozzo": "kapɔtːso",
+  "cappa": "kapːa",
+  "cappacismo": "kapːatʃizmo",
+  "cappadocia": "kapːadɔtʃa",
+  "cappalunga": "kapːaluɲɡa",
+  "cappalunghe": "kapːaluɲɡe",
+  "cappare": "kapːare",
+  "cappella": "kapːɛlːa",
+  "cappellacce": "kapːelːatːʃa",
+  "cappellacci": "kapːɛlːatːʃi",
+  "cappellaccia": "kapːelːatːʃa",
+  "cappellaccio": "kapːɛlːatːʃo",
+  "cappellai": "kapːelai",
+  "cappellaia": "kapːelaja",
+  "cappellaie": "kapːelaje",
+  "cappellaio": "kapːelajo",
+  "cappellani": "kapːelːani",
+  "cappellania": "kapːelːania",
+  "cappellano": "kapːelːano",
+  "cappelle": "kapːɛlːe",
+  "cappelletta": "kapːelːetːa",
+  "cappelletti": "kapːelːetːi",
+  "cappelli": "kapːɛlːi",
+  "cappellino": "kapːelːino",
+  "cappello": "kapːɛlːo",
+  "capperi": "kapːeri",
+  "cappero": "kapːero",
+  "cappino": "kapːino",
+  "cappio": "kapːjo",
+  "capponare": "kapːonare",
+  "cappone": "kapːone",
+  "cappotta": "kapːɔtːa",
+  "cappottare": "kapːotːare",
+  "cappotti": "kapːɔtːi",
+  "cappottino": "kapːotːino",
+  "cappottino_2": "kapːɔtːino",
+  "cappotto": "kapːɔtːo",
+  "cappucce": "kapːutːʃe",
+  "cappucci": "kapːutːʃi",
+  "cappuccia": "kapːutːʃa",
+  "cappuccino": "kaputʃino",
+  "cappuccino_2": "kapːutːʃino",
+  "cappuccio": "kapːutːʃo",
+  "capra": "kapra",
+  "capre": "kapre",
+  "caprese": "kaprese",
+  "caprese_2": "kapreze",
+  "capresi": "kapresi",
+  "capretta": "kapretːa",
+  "caprette": "kapretːe",
+  "capretti": "kapretːi",
+  "capretto": "kapretːo",
+  "capri": "kapri",
+  "capricci": "kapritːʃi",
+  "capriccio": "kapritːʃo",
+  "capricciosa": "kapritːʃosa",
+  "capricciosamente": "kapritːʃosamente",
+  "capricciose": "kapritːʃose",
+  "capricciosi": "kapritːʃosi",
+  "capriccioso": "kapritːʃoso",
+  "capriccioso_2": "kapritːʃozo",
+  "capricorni": "kaprikɔrni",
+  "capricorno": "kaprikɔrno",
+  "caprifico": "kaprifiko",
+  "caprifoglio": "kaprifɔʎo",
+  "caprigno": "kapriɲɲo",
+  "caprimulgide": "kaprimuldʒide",
+  "caprimulgidi": "kaprimuldʒidi",
+  "caprimulgo": "kaprimulɡo",
+  "caprini": "kaprini",
+  "caprino": "kaprino",
+  "caprioli": "kaprioli",
+  "capriolo": "kaprilo",
+  "capriolo_2": "kapriolo",
+  "capriolo_3": "kapriɔlo",
+  "capro": "kapro",
+  "caproica": "kaprɔika",
+  "caproiche": "kaprɔike",
+  "caproici": "kaprɔitʃi",
+  "caproico": "kaprɔiko",
+  "caprone": "kaprone",
+  "caproni": "kaproni",
+  "capsa": "kapsa",
+  "capside": "kapside",
+  "capsula": "kapsula",
+  "capsulatura": "kapsulatura",
+  "captabile": "kaptabile",
+  "captabili": "kaptabili",
+  "captare": "kaptare",
+  "captato": "kaptato",
+  "capua": "kapua",
+  "capuana": "kapuana",
+  "capuane": "kapuane",
+  "capuani": "kapuani",
+  "capuano": "kapuano",
+  "capziosamente": "kaptsjosamente",
+  "capzioso": "kaptsjoso",
+  "capzioso_2": "kaptsjozo",
+  "cara": "kara",
+  "carabina": "karabina",
+  "carabiniere": "karabinjɛre",
+  "caracal": "karaka",
+  "caracal_2": "karakal",
+  "caracalla": "karakalːa",
+  "caracarà": "karakara",
+  "caracca": "karakːa",
+  "caracollare": "karakolːare",
+  "caradride": "karadride",
+  "caradridi": "karadridi",
+  "caradriforme": "karadriforme",
+  "caradriformi": "karadriformi",
+  "caradrio": "karadrjo",
+  "caraffa": "karafːa",
+  "caraffe": "karafːe",
+  "carambola": "karambola",
+  "carambolare": "karambolare",
+  "carambole": "karambole",
+  "caramella": "karamɛlːa",
+  "caramellare": "karamelːare",
+  "caramellaro": "karamelːaro",
+  "caramellato": "karamelːato",
+  "caramelle": "karamɛlːe",
+  "caramelli": "karamɛlːi",
+  "caramello": "karamɛlːo",
+  "caramente": "karamente",
+  "carapace": "karapatʃe",
+  "carasau": "karazaw",
+  "carassi": "karasːi",
+  "carassio": "karasːjo",
+  "caratare": "karatare",
+  "carati": "karati",
+  "caratista": "karatista",
+  "carato": "karato",
+  "caratteraccio": "karatːeratːʃo",
+  "carattere": "karatːere",
+  "caratteri": "karatːeri",
+  "caratteriale": "karatːerjale",
+  "caratteriali": "karatːerjali",
+  "caratterista": "karatːerista",
+  "caratteriste": "karatːeriste",
+  "caratteristi": "karatːeristi",
+  "caratteristica": "karatːeristika",
+  "caratteristicamente": "karatːeristikamente",
+  "caratteristiche": "karatːeristike",
+  "caratteristici": "karatːeristitʃi",
+  "caratteristico": "karatːeristiko",
+  "caratterizzabile": "karatːeridːzabile",
+  "caratterizzabili": "karatːeridːzabili",
+  "caratterizzante": "karatːeridːzante",
+  "caratterizzanti": "karatːeridːzanti",
+  "caratterizzare": "karatːeridːzare",
+  "caratterizzata": "karatːeridːzata",
+  "caratterizzate": "karatːeridːzate",
+  "caratterizzati": "karatːeridːzati",
+  "caratterizzato": "karatːeridːzato",
+  "caratterizzazione": "karatːeridːzatːsjone",
+  "caratterologicamente": "karatːerolodʒikamente",
+  "caravaggesco": "karavadːʒesko",
+  "caravaggio": "karavadːʒo",
+  "caravaggismo": "karavadːʒizmo",
+  "caravaggista": "karavadːʒista",
+  "caravan": "karavan",
+  "caravana": "aravana",
+  "caravanserragli": "karavanserːaʎi",
+  "caravanserraglio": "karavanserːaʎo",
+  "caravella": "karavɛlːa",
+  "carbazolo": "karbazolo",
+  "carbochimica": "karbokimika",
+  "carbochimiche": "karbokimike",
+  "carbochimici": "karbokimitʃi",
+  "carbochimico": "karbokimiko",
+  "carbodotto": "karbodotːo",
+  "carboidrato": "karboidrato",
+  "carbolo": "karbɔlo",
+  "carbonara": "karbonara",
+  "carbonare": "karbonare",
+  "carbonari": "karbonari",
+  "carbonaro": "karbonaro",
+  "carbonatazione": "karbonatatːsjone",
+  "carbonato": "karbonato",
+  "carboncino": "karbontʃino",
+  "carbone": "karbone",
+  "carbone_2": "karbɔne",
+  "carboneria": "karboneria",
+  "carboni": "karbɔnji",
+  "carbonica": "karbɔnika",
+  "carboniche": "karbɔnike",
+  "carbonici": "karbɔnitʃi",
+  "carbonico": "karbɔniko",
+  "carboniero": "karbonjɛro",
+  "carbonifero": "karbonifero",
+  "carbonilazione": "karbonilatːsjone",
+  "carbonilazioni": "karbonilatːsjoni",
+  "carbonio": "karbɔnjo",
+  "carbonioso": "karbonjoso",
+  "carbonioso_2": "karbonjozo",
+  "carbonizzare": "karbonidːzare",
+  "carbonizzare_2": "karboniʒʒare",
+  "carbonizzazione": "karbonidːzatːsjone",
+  "carbonizzazioni": "karbonidːzatːsjoni",
+  "carbonizzo": "karbonidːzo",
+  "carbosiderurgico": "karbosiderurdʒiko",
+  "carbossilare": "karbosːilare",
+  "carbossilica": "karbosːilika",
+  "carbossiliche": "karbosːilike",
+  "carbossilici": "karbosːilitʃi",
+  "carbossilico": "karbosːiliko",
+  "carbuncolo": "karbunkolo",
+  "carburante": "karburante",
+  "carburanti": "karburanti",
+  "carburare": "karburare",
+  "carburatore": "karburatore",
+  "carburazione": "karburatːsjone",
+  "carcare": "karkare",
+  "carcassa": "karkasːa",
+  "carcera": "kartʃera",
+  "carcerando": "kartʃerando",
+  "carcerante": "kartʃerante",
+  "carceranti": "kartʃeranti",
+  "carcerare": "kartʃerare",
+  "carcerari": "kartʃerari",
+  "carcerario": "kartʃerarjo",
+  "carcerata": "kartʃerata",
+  "carcerate": "kartʃerata",
+  "carcerati": "kartʃerati",
+  "carcerato": "kartʃerato",
+  "carceravi": "kartʃeranvi",
+  "carcerazione": "kartʃeratsjone",
+  "carcerazioni": "kartʃeratsjoni",
+  "carcere": "kartʃere",
+  "carceriere": "kartʃerjɛre",
+  "carcero": "kartʃero",
+  "carcino": "kartʃino",
+  "carcinogenetica": "kartʃinodʒenɛtika",
+  "carcinogenetiche": "kartʃinodʒenɛtike",
+  "carcinogenetici": "kartʃinodʒenɛtitʃi",
+  "carcinogenetico": "kartʃinodʒenɛtiko",
+  "carcinoma": "kartʃinɔma",
+  "carcinomi": "kartʃinɔmi",
+  "carciofaio": "kartʃofajo",
+  "carciofi": "kartʃɔfi",
+  "carciofino": "kartʃofino",
+  "carciofo": "kartʃɔfo",
+  "card": "kard",
+  "cardante": "kardante",
+  "cardare": "kardare",
+  "cardato": "kardato",
+  "cardatore": "kardatɔre",
+  "cardatori": "kardatɔri",
+  "cardatrice": "kardatritʃe",
+  "cardatrici": "kardatritʃe",
+  "cardatura": "kardatura",
+  "cardature": "kardatura",
+  "cardellini": "kardelːini",
+  "cardellino": "kardelːino",
+  "cardi": "kardi",
+  "cardiaca": "kardjaka",
+  "cardiache": "kardjake",
+  "cardiaci": "kardjatʃi",
+  "cardiaco": "kardiako",
+  "cardiaco_2": "kardjako",
+  "cardiale": "kardjale",
+  "cardinale": "kardinale",
+  "cardinali": "kardinali",
+  "cardinalizio": "kardinalitːsjo",
+  "cardine": "kardine",
+  "cardiocentesi": "kardjotʃɛntezi",
+  "cardiochirurga": "kardjokirurɡa",
+  "cardiochirurghe": "kardjokirurɡe",
+  "cardiochirurghi": "kardjokirurɡi",
+  "cardiochirurgia": "kardjokirurdʒa",
+  "cardiochirurgica": "kardjokirurɡika",
+  "cardiochirurgiche": "kardjokirurɡike",
+  "cardiochirurgici": "kardjokirurɡitʃi",
+  "cardiochirurgie": "kardjokirurdʒe",
+  "cardiochirurgo": "kardjokirurɡo",
+  "cardiocinetico": "kardjotʃinɛtiko",
+  "cardiocircolatorio": "kardjotʃirkolatɔrjo",
+  "cardiogeno": "kardiodʒɛno",
+  "cardiografi": "kardjoɡrafi",
+  "cardiografia": "kardjoɡrafia",
+  "cardiografie": "kardjoɡrafie",
+  "cardiogramma": "kardjoɡramːa",
+  "cardiogrammi": "kardjoɡramːi",
+  "cardiologa": "kardjɔloɡa",
+  "cardiologhe": "kardjɔloɡe",
+  "cardiologi": "kardjɔlodʒi",
+  "cardiologia": "kardjolodʒia",
+  "cardiologica": "kardjolɔdʒika",
+  "cardiologiche": "kardjolɔdʒike",
+  "cardiologici": "kardjolɔdʒitʃi",
+  "cardiologico": "kardjolɔdʒiko",
+  "cardiologo": "kardjɔloɡo",
+  "cardiomegalia": "kardjomeɡalia",
+  "cardiomegalie": "kardjomeɡalie",
+  "cardiopalmo": "kardjopalmo",
+  "cardiopatia": "kardjopatia",
+  "cardiopatico": "kardjopatiko",
+  "cardiopatie": "kardjopatie",
+  "cardioplastica": "kardjoplastika",
+  "cardiopolmonare": "kardjopolmonare",
+  "cardiopolmonari": "kardjopolmonari",
+  "cardiorespiratori": "kardjorespiratɔri",
+  "cardiorespiratoria": "kardjorespiratɔria",
+  "cardiorespiratorie": "kardjorespiratɔrie",
+  "cardiorespiratorio": "kardjorespiratɔrjo",
+  "cardioscopi": "kardjoskɔpi",
+  "cardioscopia": "kardjoskɔpja",
+  "cardioscopie": "kardjoskɔpje",
+  "cardioscopio": "kardjoskɔpjo",
+  "cardiostimolante": "kardjostimolante",
+  "cardiostimolanti": "kardjostimolanti",
+  "cardioterapia": "kardjoterapia",
+  "cardiotonica": "kardjotɔnika",
+  "cardiotoniche": "kardjotɔnike",
+  "cardiotonici": "kardjotɔnitʃi",
+  "cardiotonico": "kardjotɔniko",
+  "cardiovascolare": "kardjovaskolare",
+  "cardiovascolari": "kardjovaskolari",
+  "cardo": "kardo",
+  "carducci": "kardutːʃi",
+  "carducciano": "kardutːʃano",
+  "carduccio": "kardutːʃo",
+  "care": "kare",
+  "carena": "karɛna",
+  "carenaggi": "karenadːʒi",
+  "carenaggio": "karenadːʒo",
+  "carenamenti": "karemamenti",
+  "carenamento": "karemamento",
+  "carenante": "karenante",
+  "carenare": "karenare",
+  "carenati": "karenati",
+  "carenato": "karenato",
+  "carenatura": "karenatura",
+  "carenature": "karenature",
+  "carene": "karene",
+  "carente": "karɛnte",
+  "carenti": "karɛnti",
+  "carenza": "karɛntsa",
+  "carenze": "karɛntse",
+  "carestia": "karestia",
+  "carestie": "karestie",
+  "caretteristica": "karatːeristika",
+  "carezza": "karetːsa",
+  "carezzante": "karetːsante",
+  "carezzare": "karetːsare",
+  "carezzato": "karetːsato",
+  "carezze": "karetːse",
+  "carezzevole": "karetːsevole",
+  "carghi": "karɡi",
+  "cargo": "karɡo",
+  "cari": "kari",
+  "cariaco": "karjako",
+  "cariamide": "karjamidi",
+  "cariamidi": "karjamidi",
+  "cariatide": "karjatide",
+  "cariatidi": "karjatidi",
+  "cariato": "karjato",
+  "caribico": "ka",
+  "caribù": "karibu",
+  "carica": "karika",
+  "caricabatteria": "karikabatːeria",
+  "caricabatterie": "karikabatːerie",
+  "caricamenti": "karikamenti",
+  "caricamento": "karikamento",
+  "caricante": "karikante",
+  "caricare": "karikare",
+  "caricarsi": "karikarsi",
+  "caricato": "karikato",
+  "caricatura": "karikatura",
+  "caricaturale": "karikaturale",
+  "caricaturali": "karikaturali",
+  "caricaturalmente": "karikaturalmente",
+  "caricaturare": "karikaturare",
+  "caricature": "karikature",
+  "caricaturista": "karikaturista",
+  "caricaturiste": "karikaturiste",
+  "caricaturisti": "karikaturisti",
+  "cariche": "karike",
+  "carichi": "kariki",
+  "carico": "kariko",
+  "carie": "karje",
+  "carina": "karina",
+  "carine": "karine",
+  "carini": "karini",
+  "carino": "karino",
+  "cariola": "karjɔla",
+  "cariole": "karjɔle",
+  "cariologia": "karjolodʒia",
+  "carioso": "karjoso",
+  "carioso_2": "karjozo",
+  "cariosside": "kariɔsːide",
+  "cariosside_2": "karjɔsːide",
+  "cariossidi": "kariɔsːidi",
+  "carisma": "karizma",
+  "carismaticamente": "karizmatikamente",
+  "carismatico": "karizmatiko",
+  "carisme": "karizme",
+  "carità": "karita",
+  "caritatevole": "karitatevole",
+  "caritatevoli": "karitatevoli",
+  "caritatevolmente": "karitatevolmente",
+  "caritativa": "karitativa",
+  "caritative": "karitative",
+  "caritativi": "karitativi",
+  "caritativo": "karitativo",
+  "carlista": "karlista",
+  "carliste": "karliste",
+  "carlisti": "karlisti",
+  "carlona": "karlona",
+  "carme": "karme",
+  "carmelitano": "karmelitano",
+  "carminativa": "karminativa",
+  "carminative": "karminative",
+  "carminativi": "karminativi",
+  "carminativo": "karminativo",
+  "carmini": "karmini",
+  "carminio": "karminjo",
+  "carnaggio": "karnadːʒo",
+  "carnagione": "karnadʒone",
+  "carnagioni": "karnadʒoni",
+  "carnale": "karnale",
+  "carnali": "karnali",
+  "carnalità": "karnalita",
+  "carnalmente": "karnalmente",
+  "carnaroli": "karnarɔli",
+  "carnascialesco": "karnaʃʃalesko",
+  "carne": "karne",
+  "carneade": "karnɛade",
+  "carnefice": "karnefitʃe",
+  "carneficina": "karnefitʃina",
+  "carneficine": "karnefitʃine",
+  "carnesecca": "karnesekːa",
+  "carnet": "karne",
+  "carnevale": "karnevale",
+  "carnevalesco": "karnevalesko",
+  "carnevali": "karnevali",
+  "carnico": "karniko",
+  "carniere": "karnjɛre",
+  "carnieri": "karnjɛri",
+  "carnificazione": "karnifikatːsjone"
 }

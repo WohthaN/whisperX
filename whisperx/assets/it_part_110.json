@@ -1,1540 +1,540 @@
 {
-  "mantelli": [
-    "mantɛlːi"
-  ],
-  "mantello": [
-    "mantɛlːo"
-  ],
-  "mantenente": [
-    "mantenente"
-  ],
-  "mantenere": [
-    "mantenere"
-  ],
-  "mantenibile": [
-    "mantenibile"
-  ],
-  "mantenibili": [
-    "mantenibili"
-  ],
-  "mantenimenti": [
-    "mantenimenti"
-  ],
-  "mantenimento": [
-    "mantenimento"
-  ],
-  "mantenuto": [
-    "mantenuto"
-  ],
-  "mantice": [
-    "mantitʃe"
-  ],
-  "mantici": [
-    "mantitʃi"
-  ],
-  "manticiaio": [
-    "mantitʃajo"
-  ],
-  "mantide": [
-    "mantide"
-  ],
-  "mantidi": [
-    "mantidi"
-  ],
-  "mantissa": [
-    "mantisːa"
-  ],
-  "manto": [
-    "manto"
-  ],
-  "mantoidei": [
-    "mantojdɛi"
-  ],
-  "mantovano": [
-    "mantovano"
-  ],
-  "manuale": [
-    "manwale"
-  ],
-  "manuali": [
-    "manwali"
-  ],
-  "manualmente": [
-    "manwalmente"
-  ],
-  "manubrio": [
-    "manubrjo"
-  ],
-  "manucare": [
-    "manukare"
-  ],
-  "manucarsi": [
-    "manukarsi"
-  ],
-  "manuela": [
-    "manuɛla"
-  ],
-  "manuele": [
-    "manuɛle"
-  ],
-  "manufatti": [
-    "manufatːi"
-  ],
-  "manufatto": [
-    "manufatːo"
-  ],
-  "manufatturiero": [
-    "manifatːurjɛro"
-  ],
-  "manulateralità": [
-    "manulateralita"
-  ],
-  "manutenere": [
-    "manutenere"
-  ],
-  "manutengolo": [
-    "manutenɡolo"
-  ],
-  "manutenzione": [
-    "manutentsjone"
-  ],
-  "manutenzioni": [
-    "manutentsjoni"
-  ],
-  "manutergio": [
-    "manutɛrdʒo"
-  ],
-  "manzaniglio": [
-    "mantsaniʎo"
-  ],
-  "manzo": [
-    "mandzo",
-    "mantso"
-  ],
-  "manzoni": [
-    "mandzoni"
-  ],
-  "manzoniano": [
-    "mandzonjano"
-  ],
-  "maoismo": [
-    "maoizmo"
-  ],
-  "maoista": [
-    "maoista"
-  ],
-  "maomettana": [
-    "maometːana"
-  ],
-  "maomettane": [
-    "maometːane"
-  ],
-  "maomettani": [
-    "maometːani"
-  ],
-  "maomettano": [
-    "maometːano"
-  ],
-  "maomettismo": [
-    "maometːizmo"
-  ],
-  "maometto": [
-    "maometːo"
-  ],
-  "mapo": [
-    "mapo"
-  ],
-  "mappa": [
-    "mapːa"
-  ],
-  "mappaluna": [
-    "mapːaluna"
-  ],
-  "mappamondo": [
-    "mapːamondo"
-  ],
-  "mappare": [
-    "mapːare"
-  ],
-  "mappatura": [
-    "mapːatura"
-  ],
-  "marà": [
-    "mara"
-  ],
-  "marabù": [
-    "marabu"
-  ],
-  "maraca": [
-    "maraka"
-  ],
-  "maracanazo": [
-    "marakanaso"
-  ],
-  "maracas": [
-    "marakas"
-  ],
-  "marachella": [
-    "marakɛlːa"
-  ],
-  "maracuja": [
-    "marakuja"
-  ],
-  "maragià": [
-    "maradʒa"
-  ],
-  "maramaldo": [
-    "maramaldo"
-  ],
-  "marameo": [
-    "maramɛo"
-  ],
-  "marangone": [
-    "maranɡone"
-  ],
-  "marangoni": [
-    "maranɡoni"
-  ],
-  "maranta": [
-    "maranta"
-  ],
-  "marasma": [
-    "marazma"
-  ],
-  "maratona": [
-    "maratona"
-  ],
-  "maratone": [
-    "maratone"
-  ],
-  "maratoneta": [
-    "maratonɛta"
-  ],
-  "maratonete": [
-    "maratonɛte"
-  ],
-  "maratoneti": [
-    "maratonɛti"
-  ],
-  "maratto": [
-    "maratːo"
-  ],
-  "marca": [
-    "marka"
-  ],
-  "marcantonio": [
-    "markantɔnjo"
-  ],
-  "marcanzia": [
-    "markantsja"
-  ],
-  "marcare": [
-    "markare"
-  ],
-  "marcatamente": [
-    "markatamente"
-  ],
-  "marcatempo": [
-    "markatɛmpo"
-  ],
-  "marcato": [
-    "markato"
-  ],
-  "marcatore": [
-    "markatore"
-  ],
-  "marcatori": [
-    "markatori"
-  ],
-  "marcatrice": [
-    "markatritʃe"
-  ],
-  "marcatrici": [
-    "markatritʃi"
-  ],
-  "marcatura": [
-    "markatura"
-  ],
-  "marcature": [
-    "markature"
-  ],
-  "marce": [
-    "martʃe"
-  ],
-  "marcello": [
-    "martʃelːo",
-    "martʃɛlːo",
-    "martʃɛlːɔ"
-  ],
-  "marcescente": [
-    "martʃeʃʃɛnte"
-  ],
-  "marcescenti": [
-    "martʃeʃʃɛnti"
-  ],
-  "marche": [
-    "marke"
-  ],
-  "marchesa": [
-    "markeza"
-  ],
-  "marchesato": [
-    "markezato"
-  ],
-  "marchese": [
-    "markeze"
-  ],
-  "marchesi": [
-    "markezi"
-  ],
-  "marchiano": [
-    "markjano"
-  ],
-  "marchiare": [
-    "markjare"
-  ],
-  "marchigiana": [
-    "markidʒana"
-  ],
-  "marchigiano": [
-    "markidʒano"
-  ],
-  "marchingegno": [
-    "markindʒeɲɲo"
-  ],
-  "marchio": [
-    "markjo"
-  ],
-  "marci": [
-    "martʃi"
-  ],
-  "marcia": [
-    "martʃa"
-  ],
-  "marciapiede": [
-    "martʃapjede",
-    "martʃapjɛde"
-  ],
-  "marciare": [
-    "martʃare"
-  ],
-  "marcio": [
-    "martʃo"
-  ],
-  "marcire": [
-    "martʃire"
-  ],
-  "marciume": [
-    "martʃume"
-  ],
-  "marco": [
-    "marko"
-  ],
-  "marconista": [
-    "markonista"
-  ],
-  "marconiterapia": [
-    "markoniterapia"
-  ],
-  "mare": [
-    "mare",
-    "marɛ"
-  ],
-  "marea": [
-    "marɛa"
-  ],
-  "maree": [
-    "marɛe"
-  ],
-  "mareggiata": [
-    "maredːʒata"
-  ],
-  "maremma": [
-    "maremːa"
-  ],
-  "maremoti": [
-    "maremoti"
-  ],
-  "maremoto": [
-    "maremoto"
-  ],
-  "mareomotore": [
-    "mareomotore"
-  ],
-  "marescialla": [
-    "mareʃʃalːa"
-  ],
-  "maresciallo": [
-    "mareʃʃalːo"
-  ],
-  "maretta": [
-    "maretːa"
-  ],
-  "marfilo": [
-    "marfilo"
-  ],
-  "margarina": [
-    "marɡarina"
-  ],
-  "margarita": [
-    "marɡarita"
-  ],
-  "margherita": [
-    "marɡerita",
-    "marɡerite"
-  ],
-  "margherite": [
-    "marɡerite"
-  ],
-  "marginale": [
-    "mardʒinale"
-  ],
-  "marginali": [
-    "mardʒinali"
-  ],
-  "marginalissima": [
-    "mardʒinalisːima"
-  ],
-  "marginalissime": [
-    "mardʒinalisːime"
-  ],
-  "marginalissimi": [
-    "mardʒinalisːimi"
-  ],
-  "marginalissimo": [
-    "mardʒinalisːimo"
-  ],
-  "marginalità": [
-    "mardʒinalita"
-  ],
-  "marginalizzato": [
-    "mardʒinalidːzato"
-  ],
-  "marginalmente": [
-    "mardʒinalmente"
-  ],
-  "margine": [
-    "mardʒine"
-  ],
-  "margotta": [
-    "marɡɔtːa"
-  ],
-  "margravio": [
-    "marɡravjo"
-  ],
-  "mari": [
-    "mari"
-  ],
-  "maria": [
-    "maria"
-  ],
-  "mariano": [
-    "mariano",
-    "marjano"
-  ],
-  "marica": [
-    "marika"
-  ],
-  "maricoltura": [
-    "marikoltura"
-  ],
-  "maricolture": [
-    "marikolture"
-  ],
-  "marijuana": [
-    "marijwana",
-    "mariwana",
-    "marjuana"
-  ],
-  "marina": [
-    "marina"
-  ],
-  "marinaio": [
-    "marinajo",
-    "marinajɔ"
-  ],
-  "marinare": [
-    "marinare"
-  ],
-  "marinaro": [
-    "marinaro"
-  ],
-  "marinatura": [
-    "marinatura"
-  ],
-  "marinature": [
-    "marinature"
-  ],
-  "marine": [
-    "marine"
-  ],
-  "marinetta": [
-    "marinetːa"
-  ],
-  "marini": [
-    "marini"
-  ],
-  "marinista": [
-    "marinista"
-  ],
-  "mariniste": [
-    "mariniste"
-  ],
-  "marinisti": [
-    "marinisti"
-  ],
-  "marino": [
-    "marino"
-  ],
-  "mariologia": [
-    "marjolodʒia"
-  ],
-  "marionetta": [
-    "marjonetːa"
-  ],
-  "maritabile": [
-    "maritabile"
-  ],
-  "maritabili": [
-    "maritabili"
-  ],
-  "maritale": [
-    "maritale"
-  ],
-  "maritali": [
-    "maritali"
-  ],
-  "maritare": [
-    "maritare"
-  ],
-  "maritarsi": [
-    "maritarsi"
-  ],
-  "maritato": [
-    "maritato"
-  ],
-  "mariti": [
-    "mariti"
-  ],
-  "marito": [
-    "marito"
-  ],
-  "maritozzo": [
-    "maritɔtːso"
-  ],
-  "marittima": [
-    "maritːima"
-  ],
-  "marittime": [
-    "maritːime"
-  ],
-  "marittimi": [
-    "maritːimi"
-  ],
-  "marittimo": [
-    "maritːimo"
-  ],
-  "marketing": [
-    "makitiɲ",
-    "marketin",
-    "marketinɡ"
-  ],
-  "marmaglia": [
-    "marmaʎa"
-  ],
-  "marmellata": [
-    "marmelːata",
-    "marmɛlata"
-  ],
-  "marmellate": [
-    "marmɛlate"
-  ],
-  "marmi": [
-    "marmo"
-  ],
-  "marmista": [
-    "marmista"
-  ],
-  "marmiste": [
-    "marmiste"
-  ],
-  "marmisti": [
-    "marmisti"
-  ],
-  "marmitta": [
-    "marmitːa"
-  ],
-  "marmo": [
-    "marmo"
-  ],
-  "marmocchi": [
-    "marmokːi"
-  ],
-  "marmocchia": [
-    "marmokːja"
-  ],
-  "marmocchie": [
-    "marmokːje"
-  ],
-  "marmocchio": [
-    "marmokːjo",
-    "marmɔkːjo"
-  ],
-  "marmolada": [
-    "marmolada"
-  ],
-  "marmoreo": [
-    "marmɔreo"
-  ],
-  "marmotta": [
-    "marmɔtːa"
-  ],
-  "marmotte": [
-    "marmɔtːe"
-  ],
-  "marna": [
-    "marna"
-  ],
-  "marocchina": [
-    "marokːina"
-  ],
-  "marocchinare": [
-    "marokːinare"
-  ],
-  "marocchine": [
-    "marokːine"
-  ],
-  "marocchini": [
-    "marokːini",
-    "radjo"
-  ],
-  "marocchino": [
-    "marokːino",
-    "radjo"
-  ],
-  "marocco": [
-    "marɔkːo"
-  ],
-  "marone": [
-    "marone"
-  ],
-  "maroni": [
-    "maroni"
-  ],
-  "maronita": [
-    "maronita"
-  ],
-  "maronite": [
-    "maronite"
-  ],
-  "maroniti": [
-    "maroniti"
-  ],
-  "maroso": [
-    "maroso",
-    "marozo"
-  ],
-  "marra": [
-    "marːa"
-  ],
-  "marrano": [
-    "marːano"
-  ],
-  "marrone": [
-    "marːone",
-    "marːɔne"
-  ],
-  "marroni": [
-    "marːoni"
-  ],
-  "marrubio": [
-    "marːubjo"
-  ],
-  "marsala": [
-    "marsala"
-  ],
-  "marsiglia": [
-    "marsilʎa",
-    "marsiʎa"
-  ],
-  "marsigliese": [
-    "marsilʎɛze",
-    "marsiʎese",
-    "marsiʎeze"
-  ],
-  "marsigliesi": [
-    "marsilʎɛzi"
-  ],
-  "marsina": [
-    "marsina"
-  ],
-  "marsine": [
-    "marsine"
-  ],
-  "marsupiale": [
-    "marsupjale"
-  ],
-  "marsupiali": [
-    "marsupjali"
-  ],
-  "marsupio": [
-    "marsupjo"
-  ],
-  "marte": [
-    "marte"
-  ],
-  "martedì": [
-    "martedi"
-  ],
-  "martellamenti": [
-    "martɛlːamentːi"
-  ],
-  "martellamento": [
-    "martɛlːamentːo"
-  ],
-  "martellante": [
-    "martelːante"
-  ],
-  "martellare": [
-    "martelːare"
-  ],
-  "martellata": [
-    "martelːata"
-  ],
-  "martelletto": [
-    "martelːetːo"
-  ],
-  "martelli": [
-    "martɛlːi"
-  ],
-  "martellista": [
-    "martelːista"
-  ],
-  "martelliste": [
-    "martelːiste"
-  ],
-  "martellisti": [
-    "martelːisti"
-  ],
-  "martello": [
-    "martɛlːo",
-    "martɛlːɔ"
-  ],
-  "martinetta": [
-    "martinetːa"
-  ],
-  "martinetti": [
-    "martinetːi"
-  ],
-  "martinetto": [
-    "martinetːo"
-  ],
-  "martingala": [
-    "martinɡala"
-  ],
-  "martinista": [
-    "martinista"
-  ],
-  "martiniste": [
-    "martiniste"
-  ],
-  "martinisti": [
-    "martinisti"
-  ],
-  "martinitt": [
-    "martinitː"
-  ],
-  "martire": [
-    "martire"
-  ],
-  "martiri": [
-    "martiri"
-  ],
-  "martirio": [
-    "martirjo"
-  ],
-  "martirizzare": [
-    "martiridːzare"
-  ],
-  "martirizzato": [
-    "martiridːzato"
-  ],
-  "martirologica": [
-    "martirolɔdʒika"
-  ],
-  "martirologiche": [
-    "martirolɔdʒike"
-  ],
-  "martirologici": [
-    "martirolɔdʒitʃi"
-  ],
-  "martirologico": [
-    "martirolɔdʒiko"
-  ],
-  "martora": [
-    "martora"
-  ],
-  "martore": [
-    "martore"
-  ],
-  "martoriare": [
-    "martorjare"
-  ],
-  "martoriato": [
-    "martorjato"
-  ],
-  "maruzza": [
-    "marutːsa"
-  ],
-  "marxismo": [
-    "marksizmo"
-  ],
-  "marxista": [
-    "marksista"
-  ],
-  "marxiste": [
-    "marksiste"
-  ],
-  "marxisti": [
-    "marksisti"
-  ],
-  "maryland": [
-    "mɛriland",
-    "mɛrilend"
-  ],
-  "marzaiola": [
-    "martsajɔla"
-  ],
-  "marzapane": [
-    "mardzapane",
-    "martsapane"
-  ],
-  "marziale": [
-    "martsjale"
-  ],
-  "marziane": [
-    "martjane"
-  ],
-  "marziani": [
-    "martjani"
-  ],
-  "marziano": [
-    "martjano",
-    "martsjano"
-  ],
-  "marzio": [
-    "martsjo"
-  ],
-  "marzo": [
-    "martso"
-  ],
-  "mas": [
-    "mas"
-  ],
-  "masaniello": [
-    "mazanjɛlːo"
-  ],
-  "mascagno": [
-    "maskaɲɲo"
-  ],
-  "mascalzonata": [
-    "maskaltsonata"
-  ],
-  "mascalzone": [
-    "maskaltsone"
-  ],
-  "mascalzoni": [
-    "maskaltsoni"
-  ],
-  "mascareta": [
-    "maskareta"
-  ],
-  "mascarpone": [
-    "maskarpone"
-  ],
-  "mascarponi": [
-    "maskarponi"
-  ],
-  "mascella": [
-    "maʃʃɛlːa"
-  ],
-  "mascelle": [
-    "maʃʃɛlːe"
-  ],
-  "maschera": [
-    "maskera"
-  ],
-  "mascherare": [
-    "maskerare"
-  ],
-  "mascherato": [
-    "maskerato"
-  ],
-  "maschere": [
-    "maskere"
-  ],
-  "mascherina": [
-    "maskerina"
-  ],
-  "mascherone": [
-    "maskerone"
-  ],
-  "maschi": [
-    "maski"
-  ],
-  "maschia": [
-    "maskja"
-  ],
-  "maschiacci": [
-    "maskjatːʃi"
-  ],
-  "maschiaccio": [
-    "maskjatːʃo"
-  ],
-  "maschiare": [
-    "maskjare"
-  ],
-  "maschiata": [
-    "maskjata"
-  ],
-  "maschiate": [
-    "maskjate"
-  ],
-  "maschiati": [
-    "maskjati"
-  ],
-  "maschiato": [
-    "maskjato"
-  ],
-  "maschiatore": [
-    "maskjatore"
-  ],
-  "maschiatori": [
-    "maskjatori"
-  ],
-  "maschiatrice": [
-    "maskjatritʃe"
-  ],
-  "maschiatrici": [
-    "maskjatritʃi"
-  ],
-  "maschiatura": [
-    "maskjatura"
-  ],
-  "maschiature": [
-    "maskjature"
-  ],
-  "maschie": [
-    "maskje"
-  ],
-  "maschietta": [
-    "maskjetːa"
-  ],
-  "maschietti": [
-    "maskjetːi"
-  ],
-  "maschietto": [
-    "maskjetːo"
-  ],
-  "maschile": [
-    "maskile"
-  ],
-  "maschili": [
-    "maskile"
-  ],
-  "maschilismo": [
-    "maskilizmo"
-  ],
-  "maschilmente": [
-    "maskilemente"
-  ],
-  "maschio": [
-    "maskjo"
-  ],
-  "mascolinizzante": [
-    "maskolinitːsante"
-  ],
-  "mascolinizzare": [
-    "maskolinitːsare"
-  ],
-  "mascolinizzarsi": [
-    "maskolinitːsarsi"
-  ],
-  "mascolinizzato": [
-    "maskolinitːsato"
-  ],
-  "mascolino": [
-    "maskolino"
-  ],
-  "mascotte": [
-    "maskɔt"
-  ],
-  "masgalano": [
-    "mazɡalano"
-  ],
-  "masnada": [
-    "maznada"
-  ],
-  "masnadiere": [
-    "maznadjɛre"
-  ],
-  "maso": [
-    "mazo"
-  ],
-  "masochismi": [
-    "mazokizmi"
-  ],
-  "masochismo": [
-    "mazokizmo"
-  ],
-  "masochista": [
-    "mazokista"
-  ],
-  "masochiste": [
-    "mazokiste"
-  ],
-  "masochisti": [
-    "mazokisti"
-  ],
-  "masora": [
-    "mazɔra"
-  ],
-  "massa": [
-    "masːa"
-  ],
-  "massachusetts": [
-    "masːatʃusetːs"
-  ],
-  "massacrare": [
-    "masːakrare"
-  ],
-  "massacrato": [
-    "masːakrato"
-  ],
-  "massacratore": [
-    "masːakratore"
-  ],
-  "massacratori": [
-    "masːakratori"
-  ],
-  "massacratrice": [
-    "masːakratritʃe"
-  ],
-  "massacratrici": [
-    "masːakratritʃi"
-  ],
-  "massacro": [
-    "masːakro"
-  ],
-  "massaggi": [
-    "masːadːʒi"
-  ],
-  "massaggiare": [
-    "masːadːʒare"
-  ],
-  "massaggiatore": [
-    "masːadːʒatore"
-  ],
-  "massaggiatori": [
-    "masːadːʒatori"
-  ],
-  "massaggiatrice": [
-    "masːadːʒatritʃe"
-  ],
-  "massaggiatrici": [
-    "masːadːʒatritʃi"
-  ],
-  "massaggiatura": [
-    "masːadːʒatura"
-  ],
-  "massaggiature": [
-    "masːadːʒature"
-  ],
-  "massaggio": [
-    "masːadːʒo"
-  ],
-  "massaia": [
-    "masːaja"
-  ],
-  "massaiola": [
-    "masːajɔla"
-  ],
-  "massare": [
-    "masːare"
-  ],
-  "masse": [
-    "masːe"
-  ],
-  "masseria": [
-    "masːeria"
-  ],
-  "masserie": [
-    "masːerie"
-  ],
-  "masserizia": [
-    "masːeritːsja"
-  ],
-  "massetere": [
-    "masːetɛre"
-  ],
-  "massicce": [
-    "masːitːʃe"
-  ],
-  "massicci": [
-    "masːitːʃi"
-  ],
-  "massiccia": [
-    "masːitːʃa"
-  ],
-  "massicciamente": [
-    "masːitːʃamente"
-  ],
-  "massicciata": [
-    "masːitːʃata"
-  ],
-  "massiccio": [
-    "masːitːʃo"
-  ],
-  "massificato": [
-    "masːifikato"
-  ],
-  "massificazione": [
-    "masːifikatːsjone"
-  ],
-  "massificazioni": [
-    "masːifikatːsjoni"
-  ],
-  "massima": [
-    "masːima"
-  ],
-  "massimale": [
-    "masːimale"
-  ],
-  "massimalismo": [
-    "masːimalizmo"
-  ],
-  "massimalista": [
-    "masːimalista"
-  ],
-  "massimaliste": [
-    "masːimaliste"
-  ],
-  "massimalisti": [
-    "masːimalisti"
-  ],
-  "massimamente": [
-    "masːimamente"
-  ],
-  "massime": [
-    "masːime"
-  ],
-  "massimi": [
-    "masːimi"
-  ],
-  "massimiliano": [
-    "masːimiljano"
-  ],
-  "massimo": [
-    "masːimo"
-  ],
-  "massivamente": [
-    "masːivamente"
-  ],
-  "massivo": [
-    "masːivo"
-  ],
-  "massmediologo": [
-    "masːmedjɔloɡo"
-  ],
-  "masso": [
-    "masːo"
-  ],
-  "massone": [
-    "masːone"
-  ],
-  "massoneria": [
-    "masːoneria"
-  ],
-  "massora": [
-    "masːɔra"
-  ],
-  "massoterapia": [
-    "masːoterapia"
-  ],
-  "mastaba": [
-    "mastaba"
-  ],
-  "mastello": [
-    "mastɛlːo"
-  ],
-  "masterizzare": [
-    "masteridːzare"
-  ],
-  "masterizzatore": [
-    "masteridːzatore"
-  ],
-  "masterizzazione": [
-    "masteridːzatːsjone"
-  ],
-  "masticabile": [
-    "mastikabile"
-  ],
-  "masticabili": [
-    "mastikabili"
-  ],
-  "masticamenti": [
-    "mastikamenti"
-  ],
-  "masticamento": [
-    "mastikamento"
-  ],
-  "masticando": [
-    "mastikando"
-  ],
-  "masticante": [
-    "mastikante"
-  ],
-  "masticare": [
-    "mastikare"
-  ],
-  "masticaticcio": [
-    "mastikatitːʃo"
-  ],
-  "masticato": [
-    "mastikato"
-  ],
-  "masticatore": [
-    "mastikatore"
-  ],
-  "masticatori": [
-    "mastikatori"
-  ],
-  "masticatorio": [
-    "mastikatɔrjo"
-  ],
-  "masticatrice": [
-    "mastikatritʃe"
-  ],
-  "masticatrici": [
-    "mastikatritʃi"
-  ],
-  "masticatura": [
-    "mastikatura"
-  ],
-  "masticazione": [
-    "mastikatsjone",
-    "mastikatːsjone"
-  ],
-  "masticazioni": [
-    "mastikatsjoni"
-  ],
-  "mastice": [
-    "mastitʃe"
-  ],
-  "mastino": [
-    "mastino"
-  ],
-  "mastio": [
-    "mastjo"
-  ],
-  "mastite": [
-    "mastite"
-  ],
-  "mastocita": [
-    "mastotʃita"
-  ],
-  "mastodonte": [
-    "mastodonte"
-  ],
-  "mastodonti": [
-    "mastodonti"
-  ],
-  "mastodontica": [
-    "mastodɔntika"
-  ],
-  "mastodontiche": [
-    "mastodɔntike"
-  ],
-  "mastodontici": [
-    "mastodɔntitʃi"
-  ],
-  "mastodontico": [
-    "mastodɔntiko"
-  ],
-  "mastodontide": [
-    "mastodɔntide"
-  ],
-  "mastografia": [
-    "ma"
-  ],
-  "mastondico": [
-    "mastodɔntiko"
-  ],
-  "mastoplastica": [
-    "mastoplastika"
-  ],
-  "mastoplastiche": [
-    "mastoplastike"
-  ],
-  "mastoplastico": [
-    "mastoplastiko"
-  ],
-  "mastri": [
-    "mastri"
-  ],
-  "mastruca": [
-    "mastruka"
-  ],
-  "masturbando": [
-    "masturbando"
-  ],
-  "masturbante": [
-    "masturbante"
-  ],
-  "masturbare": [
-    "masturbare"
-  ],
-  "masturbarsi": [
-    "masturbarsi"
-  ],
-  "masturbato": [
-    "masturbato"
-  ],
-  "masturbatore": [
-    "masturbatore"
-  ],
-  "masturbazione": [
-    "masturbatsjone",
-    "masturbatːsjone"
-  ],
-  "masturbazioni": [
-    "masturbatsjoni"
-  ],
-  "masturbi": [
-    "masturbi"
-  ],
-  "mataco": [
-    "matako"
-  ],
-  "matassa": [
-    "matasːa"
-  ],
-  "matcha": [
-    "matːʃa"
-  ],
-  "mate": [
-    "mate"
-  ],
-  "matè": [
-    "matɛ"
-  ],
-  "matematica": [
-    "matematika",
-    "matematikoka"
-  ],
-  "matematicamente": [
-    "matematekamente",
-    "matematikamente"
-  ],
-  "matematiche": [
-    "matematike"
-  ],
-  "matematici": [
-    "matematitʃi"
-  ],
-  "matematicismo": [
-    "matematitʃizmo"
-  ],
-  "matematicistico": [
-    "matematitʃistiko"
-  ],
-  "matematico": [
-    "matematiko"
-  ],
-  "matematismo": [
-    "matematizmo"
-  ],
-  "matematistico": [
-    "matematistiko"
-  ],
-  "matematizzabile": [
-    "matematidːzabile"
-  ],
-  "matematizzabili": [
-    "matematidːzabili"
-  ],
-  "matematizzazione": [
-    "matematidːzatːsjone"
-  ],
-  "matematizzazioni": [
-    "matematidːzatːsjoni"
-  ],
-  "matera": [
-    "matɛra"
-  ],
-  "materassi": [
-    "matɛrasːi"
-  ],
-  "materasso": [
-    "materasːo",
-    "matɛrasːo",
-    "matɛrasːɔ"
-  ],
-  "materia": [
-    "matɛrja"
-  ],
-  "materiale": [
-    "materjale",
-    "matɛrjale"
-  ],
-  "materiali": [
-    "matɛrjali"
-  ],
-  "materialismi": [
-    "materjalizmi"
-  ],
-  "materialismo": [
-    "materjalizmo"
-  ],
-  "materialista": [
-    "materjalista"
-  ],
-  "materialiste": [
-    "materjaliste"
-  ],
-  "materialisti": [
-    "materjalisti"
-  ],
-  "materialistico": [
-    "materjalistiko"
-  ],
-  "materializzare": [
-    "materjalidːzare"
-  ],
-  "materializzazione": [
-    "materjalidːzatːsjone"
-  ],
-  "materialmente": [
-    "materjalmente"
-  ],
-  "materico": [
-    "matɛriko"
-  ],
-  "materismo": [
-    "materizmo"
-  ],
-  "maternamente": [
-    "maternamente"
-  ],
-  "maternità": [
-    "maternita"
-  ],
-  "materno": [
-    "matɛrno"
-  ],
-  "matilde": [
-    "matilde"
-  ],
-  "matinee": [
-    "matine"
-  ],
-  "matita": [
-    "matita"
-  ],
-  "matite": [
-    "matita"
-  ],
-  "matraccio": [
-    "matratːʃo"
-  ],
-  "matre": [
-    "matre"
-  ],
-  "matriarca": [
-    "matriarka"
-  ],
-  "matriarcati": [
-    "matrjarkati"
-  ],
-  "matriarcato": [
-    "matrjarkato"
-  ],
-  "matrice": [
-    "matritʃe"
-  ],
-  "matrici": [
-    "matritʃe"
-  ],
-  "matricidi": [
-    "matritʃidi"
-  ],
-  "matricidio": [
-    "matritʃidio",
-    "matritʃidjo"
-  ],
-  "matricola": [
-    "matrikola"
-  ],
-  "matricolare": [
-    "matrikolare"
-  ],
-  "matricolato": [
-    "matrikolato"
-  ],
-  "matricole": [
-    "matrikole"
-  ],
-  "matrigna": [
-    "matriɲɲa",
-    "patriɲɲa"
-  ],
-  "matrigne": [
-    "patriɲɲe"
-  ],
-  "matrimo": [
-    "matrimo"
-  ],
-  "matrimoni": [
-    "matrimɔni",
-    "matrimɔnj"
-  ],
-  "matrimoniale": [
-    "matrimonjale"
-  ],
-  "matrimonialista": [
-    "matrimonjalista"
-  ],
-  "matrimonialmente": [
-    "matrimonjalmente"
-  ],
-  "matrimonio": [
-    "matrimɔnio",
-    "matrimɔnjo",
-    "matrimɔnjɔ"
-  ],
-  "matrioska": [
-    "matriɔska",
-    "matrjɔska"
-  ],
-  "matrizzerebbero": [
-    "matridːzerɛbːero"
-  ],
-  "matrona": [
-    "matrɔna"
-  ],
-  "matrone": [
-    "matrɔne"
-  ],
-  "matroneo": [
-    "matronɛo"
-  ],
-  "matronimico": [
-    "matronimiko"
-  ],
-  "mattanza": [
-    "matːantsa"
-  ],
-  "mattarello": [
-    "matːarɛlːo"
-  ]
+  "mantelli": "mantɛlːi",
+  "mantello": "mantɛlːo",
+  "mantenente": "mantenente",
+  "mantenere": "mantenere",
+  "mantenibile": "mantenibile",
+  "mantenibili": "mantenibili",
+  "mantenimenti": "mantenimenti",
+  "mantenimento": "mantenimento",
+  "mantenuto": "mantenuto",
+  "mantice": "mantitʃe",
+  "mantici": "mantitʃi",
+  "manticiaio": "mantitʃajo",
+  "mantide": "mantide",
+  "mantidi": "mantidi",
+  "mantissa": "mantisːa",
+  "manto": "manto",
+  "mantoidei": "mantojdɛi",
+  "mantovano": "mantovano",
+  "manuale": "manwale",
+  "manuali": "manwali",
+  "manualmente": "manwalmente",
+  "manubrio": "manubrjo",
+  "manucare": "manukare",
+  "manucarsi": "manukarsi",
+  "manuela": "manuɛla",
+  "manuele": "manuɛle",
+  "manufatti": "manufatːi",
+  "manufatto": "manufatːo",
+  "manufatturiero": "manifatːurjɛro",
+  "manulateralità": "manulateralita",
+  "manutenere": "manutenere",
+  "manutengolo": "manutenɡolo",
+  "manutenzione": "manutentsjone",
+  "manutenzioni": "manutentsjoni",
+  "manutergio": "manutɛrdʒo",
+  "manzaniglio": "mantsaniʎo",
+  "manzo": "mandzo",
+  "manzo_2": "mantso",
+  "manzoni": "mandzoni",
+  "manzoniano": "mandzonjano",
+  "maoismo": "maoizmo",
+  "maoista": "maoista",
+  "maomettana": "maometːana",
+  "maomettane": "maometːane",
+  "maomettani": "maometːani",
+  "maomettano": "maometːano",
+  "maomettismo": "maometːizmo",
+  "maometto": "maometːo",
+  "mapo": "mapo",
+  "mappa": "mapːa",
+  "mappaluna": "mapːaluna",
+  "mappamondo": "mapːamondo",
+  "mappare": "mapːare",
+  "mappatura": "mapːatura",
+  "marà": "mara",
+  "marabù": "marabu",
+  "maraca": "maraka",
+  "maracanazo": "marakanaso",
+  "maracas": "marakas",
+  "marachella": "marakɛlːa",
+  "maracuja": "marakuja",
+  "maragià": "maradʒa",
+  "maramaldo": "maramaldo",
+  "marameo": "maramɛo",
+  "marangone": "maranɡone",
+  "marangoni": "maranɡoni",
+  "maranta": "maranta",
+  "marasma": "marazma",
+  "maratona": "maratona",
+  "maratone": "maratone",
+  "maratoneta": "maratonɛta",
+  "maratonete": "maratonɛte",
+  "maratoneti": "maratonɛti",
+  "maratto": "maratːo",
+  "marca": "marka",
+  "marcantonio": "markantɔnjo",
+  "marcanzia": "markantsja",
+  "marcare": "markare",
+  "marcatamente": "markatamente",
+  "marcatempo": "markatɛmpo",
+  "marcato": "markato",
+  "marcatore": "markatore",
+  "marcatori": "markatori",
+  "marcatrice": "markatritʃe",
+  "marcatrici": "markatritʃi",
+  "marcatura": "markatura",
+  "marcature": "markature",
+  "marce": "martʃe",
+  "marcello": "martʃelːo",
+  "marcello_2": "martʃɛlːo",
+  "marcello_3": "martʃɛlːɔ",
+  "marcescente": "martʃeʃʃɛnte",
+  "marcescenti": "martʃeʃʃɛnti",
+  "marche": "marke",
+  "marchesa": "markeza",
+  "marchesato": "markezato",
+  "marchese": "markeze",
+  "marchesi": "markezi",
+  "marchiano": "markjano",
+  "marchiare": "markjare",
+  "marchigiana": "markidʒana",
+  "marchigiano": "markidʒano",
+  "marchingegno": "markindʒeɲɲo",
+  "marchio": "markjo",
+  "marci": "martʃi",
+  "marcia": "martʃa",
+  "marciapiede": "martʃapjede",
+  "marciapiede_2": "martʃapjɛde",
+  "marciare": "martʃare",
+  "marcio": "martʃo",
+  "marcire": "martʃire",
+  "marciume": "martʃume",
+  "marco": "marko",
+  "marconista": "markonista",
+  "marconiterapia": "markoniterapia",
+  "mare": "mare",
+  "mare_2": "marɛ",
+  "marea": "marɛa",
+  "maree": "marɛe",
+  "mareggiata": "maredːʒata",
+  "maremma": "maremːa",
+  "maremoti": "maremoti",
+  "maremoto": "maremoto",
+  "mareomotore": "mareomotore",
+  "marescialla": "mareʃʃalːa",
+  "maresciallo": "mareʃʃalːo",
+  "maretta": "maretːa",
+  "marfilo": "marfilo",
+  "margarina": "marɡarina",
+  "margarita": "marɡarita",
+  "margherita": "marɡerita",
+  "margherita_2": "marɡerite",
+  "margherite": "marɡerite",
+  "marginale": "mardʒinale",
+  "marginali": "mardʒinali",
+  "marginalissima": "mardʒinalisːima",
+  "marginalissime": "mardʒinalisːime",
+  "marginalissimi": "mardʒinalisːimi",
+  "marginalissimo": "mardʒinalisːimo",
+  "marginalità": "mardʒinalita",
+  "marginalizzato": "mardʒinalidːzato",
+  "marginalmente": "mardʒinalmente",
+  "margine": "mardʒine",
+  "margotta": "marɡɔtːa",
+  "margravio": "marɡravjo",
+  "mari": "mari",
+  "maria": "maria",
+  "mariano": "mariano",
+  "mariano_2": "marjano",
+  "marica": "marika",
+  "maricoltura": "marikoltura",
+  "maricolture": "marikolture",
+  "marijuana": "marijwana",
+  "marijuana_2": "mariwana",
+  "marijuana_3": "marjuana",
+  "marina": "marina",
+  "marinaio": "marinajo",
+  "marinaio_2": "marinajɔ",
+  "marinare": "marinare",
+  "marinaro": "marinaro",
+  "marinatura": "marinatura",
+  "marinature": "marinature",
+  "marine": "marine",
+  "marinetta": "marinetːa",
+  "marini": "marini",
+  "marinista": "marinista",
+  "mariniste": "mariniste",
+  "marinisti": "marinisti",
+  "marino": "marino",
+  "mariologia": "marjolodʒia",
+  "marionetta": "marjonetːa",
+  "maritabile": "maritabile",
+  "maritabili": "maritabili",
+  "maritale": "maritale",
+  "maritali": "maritali",
+  "maritare": "maritare",
+  "maritarsi": "maritarsi",
+  "maritato": "maritato",
+  "mariti": "mariti",
+  "marito": "marito",
+  "maritozzo": "maritɔtːso",
+  "marittima": "maritːima",
+  "marittime": "maritːime",
+  "marittimi": "maritːimi",
+  "marittimo": "maritːimo",
+  "marketing": "makitiɲ",
+  "marketing_2": "marketin",
+  "marketing_3": "marketinɡ",
+  "marmaglia": "marmaʎa",
+  "marmellata": "marmelːata",
+  "marmellata_2": "marmɛlata",
+  "marmellate": "marmɛlate",
+  "marmi": "marmo",
+  "marmista": "marmista",
+  "marmiste": "marmiste",
+  "marmisti": "marmisti",
+  "marmitta": "marmitːa",
+  "marmo": "marmo",
+  "marmocchi": "marmokːi",
+  "marmocchia": "marmokːja",
+  "marmocchie": "marmokːje",
+  "marmocchio": "marmokːjo",
+  "marmocchio_2": "marmɔkːjo",
+  "marmolada": "marmolada",
+  "marmoreo": "marmɔreo",
+  "marmotta": "marmɔtːa",
+  "marmotte": "marmɔtːe",
+  "marna": "marna",
+  "marocchina": "marokːina",
+  "marocchinare": "marokːinare",
+  "marocchine": "marokːine",
+  "marocchini": "marokːini",
+  "marocchini_2": "radjo",
+  "marocchino": "marokːino",
+  "marocchino_2": "radjo",
+  "marocco": "marɔkːo",
+  "marone": "marone",
+  "maroni": "maroni",
+  "maronita": "maronita",
+  "maronite": "maronite",
+  "maroniti": "maroniti",
+  "maroso": "maroso",
+  "maroso_2": "marozo",
+  "marra": "marːa",
+  "marrano": "marːano",
+  "marrone": "marːone",
+  "marrone_2": "marːɔne",
+  "marroni": "marːoni",
+  "marrubio": "marːubjo",
+  "marsala": "marsala",
+  "marsiglia": "marsilʎa",
+  "marsiglia_2": "marsiʎa",
+  "marsigliese": "marsilʎɛze",
+  "marsigliese_2": "marsiʎese",
+  "marsigliese_3": "marsiʎeze",
+  "marsigliesi": "marsilʎɛzi",
+  "marsina": "marsina",
+  "marsine": "marsine",
+  "marsupiale": "marsupjale",
+  "marsupiali": "marsupjali",
+  "marsupio": "marsupjo",
+  "marte": "marte",
+  "martedì": "martedi",
+  "martellamenti": "martɛlːamentːi",
+  "martellamento": "martɛlːamentːo",
+  "martellante": "martelːante",
+  "martellare": "martelːare",
+  "martellata": "martelːata",
+  "martelletto": "martelːetːo",
+  "martelli": "martɛlːi",
+  "martellista": "martelːista",
+  "martelliste": "martelːiste",
+  "martellisti": "martelːisti",
+  "martello": "martɛlːo",
+  "martello_2": "martɛlːɔ",
+  "martinetta": "martinetːa",
+  "martinetti": "martinetːi",
+  "martinetto": "martinetːo",
+  "martingala": "martinɡala",
+  "martinista": "martinista",
+  "martiniste": "martiniste",
+  "martinisti": "martinisti",
+  "martinitt": "martinitː",
+  "martire": "martire",
+  "martiri": "martiri",
+  "martirio": "martirjo",
+  "martirizzare": "martiridːzare",
+  "martirizzato": "martiridːzato",
+  "martirologica": "martirolɔdʒika",
+  "martirologiche": "martirolɔdʒike",
+  "martirologici": "martirolɔdʒitʃi",
+  "martirologico": "martirolɔdʒiko",
+  "martora": "martora",
+  "martore": "martore",
+  "martoriare": "martorjare",
+  "martoriato": "martorjato",
+  "maruzza": "marutːsa",
+  "marxismo": "marksizmo",
+  "marxista": "marksista",
+  "marxiste": "marksiste",
+  "marxisti": "marksisti",
+  "maryland": "mɛriland",
+  "maryland_2": "mɛrilend",
+  "marzaiola": "martsajɔla",
+  "marzapane": "mardzapane",
+  "marzapane_2": "martsapane",
+  "marziale": "martsjale",
+  "marziane": "martjane",
+  "marziani": "martjani",
+  "marziano": "martjano",
+  "marziano_2": "martsjano",
+  "marzio": "martsjo",
+  "marzo": "martso",
+  "mas": "mas",
+  "masaniello": "mazanjɛlːo",
+  "mascagno": "maskaɲɲo",
+  "mascalzonata": "maskaltsonata",
+  "mascalzone": "maskaltsone",
+  "mascalzoni": "maskaltsoni",
+  "mascareta": "maskareta",
+  "mascarpone": "maskarpone",
+  "mascarponi": "maskarponi",
+  "mascella": "maʃʃɛlːa",
+  "mascelle": "maʃʃɛlːe",
+  "maschera": "maskera",
+  "mascherare": "maskerare",
+  "mascherato": "maskerato",
+  "maschere": "maskere",
+  "mascherina": "maskerina",
+  "mascherone": "maskerone",
+  "maschi": "maski",
+  "maschia": "maskja",
+  "maschiacci": "maskjatːʃi",
+  "maschiaccio": "maskjatːʃo",
+  "maschiare": "maskjare",
+  "maschiata": "maskjata",
+  "maschiate": "maskjate",
+  "maschiati": "maskjati",
+  "maschiato": "maskjato",
+  "maschiatore": "maskjatore",
+  "maschiatori": "maskjatori",
+  "maschiatrice": "maskjatritʃe",
+  "maschiatrici": "maskjatritʃi",
+  "maschiatura": "maskjatura",
+  "maschiature": "maskjature",
+  "maschie": "maskje",
+  "maschietta": "maskjetːa",
+  "maschietti": "maskjetːi",
+  "maschietto": "maskjetːo",
+  "maschile": "maskile",
+  "maschili": "maskile",
+  "maschilismo": "maskilizmo",
+  "maschilmente": "maskilemente",
+  "maschio": "maskjo",
+  "mascolinizzante": "maskolinitːsante",
+  "mascolinizzare": "maskolinitːsare",
+  "mascolinizzarsi": "maskolinitːsarsi",
+  "mascolinizzato": "maskolinitːsato",
+  "mascolino": "maskolino",
+  "mascotte": "maskɔt",
+  "masgalano": "mazɡalano",
+  "masnada": "maznada",
+  "masnadiere": "maznadjɛre",
+  "maso": "mazo",
+  "masochismi": "mazokizmi",
+  "masochismo": "mazokizmo",
+  "masochista": "mazokista",
+  "masochiste": "mazokiste",
+  "masochisti": "mazokisti",
+  "masora": "mazɔra",
+  "massa": "masːa",
+  "massachusetts": "masːatʃusetːs",
+  "massacrare": "masːakrare",
+  "massacrato": "masːakrato",
+  "massacratore": "masːakratore",
+  "massacratori": "masːakratori",
+  "massacratrice": "masːakratritʃe",
+  "massacratrici": "masːakratritʃi",
+  "massacro": "masːakro",
+  "massaggi": "masːadːʒi",
+  "massaggiare": "masːadːʒare",
+  "massaggiatore": "masːadːʒatore",
+  "massaggiatori": "masːadːʒatori",
+  "massaggiatrice": "masːadːʒatritʃe",
+  "massaggiatrici": "masːadːʒatritʃi",
+  "massaggiatura": "masːadːʒatura",
+  "massaggiature": "masːadːʒature",
+  "massaggio": "masːadːʒo",
+  "massaia": "masːaja",
+  "massaiola": "masːajɔla",
+  "massare": "masːare",
+  "masse": "masːe",
+  "masseria": "masːeria",
+  "masserie": "masːerie",
+  "masserizia": "masːeritːsja",
+  "massetere": "masːetɛre",
+  "massicce": "masːitːʃe",
+  "massicci": "masːitːʃi",
+  "massiccia": "masːitːʃa",
+  "massicciamente": "masːitːʃamente",
+  "massicciata": "masːitːʃata",
+  "massiccio": "masːitːʃo",
+  "massificato": "masːifikato",
+  "massificazione": "masːifikatːsjone",
+  "massificazioni": "masːifikatːsjoni",
+  "massima": "masːima",
+  "massimale": "masːimale",
+  "massimalismo": "masːimalizmo",
+  "massimalista": "masːimalista",
+  "massimaliste": "masːimaliste",
+  "massimalisti": "masːimalisti",
+  "massimamente": "masːimamente",
+  "massime": "masːime",
+  "massimi": "masːimi",
+  "massimiliano": "masːimiljano",
+  "massimo": "masːimo",
+  "massivamente": "masːivamente",
+  "massivo": "masːivo",
+  "massmediologo": "masːmedjɔloɡo",
+  "masso": "masːo",
+  "massone": "masːone",
+  "massoneria": "masːoneria",
+  "massora": "masːɔra",
+  "massoterapia": "masːoterapia",
+  "mastaba": "mastaba",
+  "mastello": "mastɛlːo",
+  "masterizzare": "masteridːzare",
+  "masterizzatore": "masteridːzatore",
+  "masterizzazione": "masteridːzatːsjone",
+  "masticabile": "mastikabile",
+  "masticabili": "mastikabili",
+  "masticamenti": "mastikamenti",
+  "masticamento": "mastikamento",
+  "masticando": "mastikando",
+  "masticante": "mastikante",
+  "masticare": "mastikare",
+  "masticaticcio": "mastikatitːʃo",
+  "masticato": "mastikato",
+  "masticatore": "mastikatore",
+  "masticatori": "mastikatori",
+  "masticatorio": "mastikatɔrjo",
+  "masticatrice": "mastikatritʃe",
+  "masticatrici": "mastikatritʃi",
+  "masticatura": "mastikatura",
+  "masticazione": "mastikatsjone",
+  "masticazione_2": "mastikatːsjone",
+  "masticazioni": "mastikatsjoni",
+  "mastice": "mastitʃe",
+  "mastino": "mastino",
+  "mastio": "mastjo",
+  "mastite": "mastite",
+  "mastocita": "mastotʃita",
+  "mastodonte": "mastodonte",
+  "mastodonti": "mastodonti",
+  "mastodontica": "mastodɔntika",
+  "mastodontiche": "mastodɔntike",
+  "mastodontici": "mastodɔntitʃi",
+  "mastodontico": "mastodɔntiko",
+  "mastodontide": "mastodɔntide",
+  "mastografia": "ma",
+  "mastondico": "mastodɔntiko",
+  "mastoplastica": "mastoplastika",
+  "mastoplastiche": "mastoplastike",
+  "mastoplastico": "mastoplastiko",
+  "mastri": "mastri",
+  "mastruca": "mastruka",
+  "masturbando": "masturbando",
+  "masturbante": "masturbante",
+  "masturbare": "masturbare",
+  "masturbarsi": "masturbarsi",
+  "masturbato": "masturbato",
+  "masturbatore": "masturbatore",
+  "masturbazione": "masturbatsjone",
+  "masturbazione_2": "masturbatːsjone",
+  "masturbazioni": "masturbatsjoni",
+  "masturbi": "masturbi",
+  "mataco": "matako",
+  "matassa": "matasːa",
+  "matcha": "matːʃa",
+  "mate": "mate",
+  "matè": "matɛ",
+  "matematica": "matematika",
+  "matematica_2": "matematikoka",
+  "matematicamente": "matematekamente",
+  "matematicamente_2": "matematikamente",
+  "matematiche": "matematike",
+  "matematici": "matematitʃi",
+  "matematicismo": "matematitʃizmo",
+  "matematicistico": "matematitʃistiko",
+  "matematico": "matematiko",
+  "matematismo": "matematizmo",
+  "matematistico": "matematistiko",
+  "matematizzabile": "matematidːzabile",
+  "matematizzabili": "matematidːzabili",
+  "matematizzazione": "matematidːzatːsjone",
+  "matematizzazioni": "matematidːzatːsjoni",
+  "matera": "matɛra",
+  "materassi": "matɛrasːi",
+  "materasso": "materasːo",
+  "materasso_2": "matɛrasːo",
+  "materasso_3": "matɛrasːɔ",
+  "materia": "matɛrja",
+  "materiale": "materjale",
+  "materiale_2": "matɛrjale",
+  "materiali": "matɛrjali",
+  "materialismi": "materjalizmi",
+  "materialismo": "materjalizmo",
+  "materialista": "materjalista",
+  "materialiste": "materjaliste",
+  "materialisti": "materjalisti",
+  "materialistico": "materjalistiko",
+  "materializzare": "materjalidːzare",
+  "materializzazione": "materjalidːzatːsjone",
+  "materialmente": "materjalmente",
+  "materico": "matɛriko",
+  "materismo": "materizmo",
+  "maternamente": "maternamente",
+  "maternità": "maternita",
+  "materno": "matɛrno",
+  "matilde": "matilde",
+  "matinee": "matine",
+  "matita": "matita",
+  "matite": "matita",
+  "matraccio": "matratːʃo",
+  "matre": "matre",
+  "matriarca": "matriarka",
+  "matriarcati": "matrjarkati",
+  "matriarcato": "matrjarkato",
+  "matrice": "matritʃe",
+  "matrici": "matritʃe",
+  "matricidi": "matritʃidi",
+  "matricidio": "matritʃidio",
+  "matricidio_2": "matritʃidjo",
+  "matricola": "matrikola",
+  "matricolare": "matrikolare",
+  "matricolato": "matrikolato",
+  "matricole": "matrikole",
+  "matrigna": "matriɲɲa",
+  "matrigna_2": "patriɲɲa",
+  "matrigne": "patriɲɲe",
+  "matrimo": "matrimo",
+  "matrimoni": "matrimɔni",
+  "matrimoni_2": "matrimɔnj",
+  "matrimoniale": "matrimonjale",
+  "matrimonialista": "matrimonjalista",
+  "matrimonialmente": "matrimonjalmente",
+  "matrimonio": "matrimɔnio",
+  "matrimonio_2": "matrimɔnjo",
+  "matrimonio_3": "matrimɔnjɔ",
+  "matrioska": "matriɔska",
+  "matrioska_2": "matrjɔska",
+  "matrizzerebbero": "matridːzerɛbːero",
+  "matrona": "matrɔna",
+  "matrone": "matrɔne",
+  "matroneo": "matronɛo",
+  "matronimico": "matronimiko",
+  "mattanza": "matːantsa",
+  "mattarello": "matːarɛlːo"
 }

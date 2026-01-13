@@ -1,1533 +1,533 @@
 {
-  "diastolica": [
-    "diastɔlika"
-  ],
-  "diastolico": [
-    "diastɔliko"
-  ],
-  "diate": [
-    "djate"
-  ],
-  "diateca": [
-    "djatɛka"
-  ],
-  "diateche": [
-    "djatɛke"
-  ],
-  "diatermia": [
-    "diatermia"
-  ],
-  "diatopia": [
-    "iatopia"
-  ],
-  "diatopico": [
-    "diatopiko"
-  ],
-  "diatriba": [
-    "diatriba",
-    "djatriba"
-  ],
-  "diavola": [
-    "djavola"
-  ],
-  "diavole": [
-    "djavole"
-  ],
-  "diavolessa": [
-    "djavolesːa"
-  ],
-  "diavolesse": [
-    "djavolesːe"
-  ],
-  "diavoli": [
-    "djavoli"
-  ],
-  "diavolio": [
-    "djavolio"
-  ],
-  "diavolo": [
-    "diavolo",
-    "djavolo"
-  ],
-  "diazoico": [
-    "diadːzɔjko"
-  ],
-  "diazotare": [
-    "diadːzotare"
-  ],
-  "dibattere": [
-    "dibatːere"
-  ],
-  "dibattimento": [
-    "dibatːimento"
-  ],
-  "dibattiti": [
-    "dibatːiti"
-  ],
-  "dibattito": [
-    "dibatːito"
-  ],
-  "diblastico": [
-    "diblastiko"
-  ],
-  "diborano": [
-    "diborano"
-  ],
-  "diboscamenti": [
-    "diboskamenti"
-  ],
-  "diboscamento": [
-    "diboskamento"
-  ],
-  "diboscante": [
-    "diboskante"
-  ],
-  "diboscare": [
-    "diboskare"
-  ],
-  "diboscata": [
-    "diboskata"
-  ],
-  "diboscate": [
-    "diboskate"
-  ],
-  "diboscati": [
-    "diboskati"
-  ],
-  "diboscato": [
-    "diboskato"
-  ],
-  "dibreve": [
-    "dibrɛve"
-  ],
-  "dibromuro": [
-    "dibromuro"
-  ],
-  "dibucciare": [
-    "dibutːʃare"
-  ],
-  "dica": [
-    "dika"
-  ],
-  "dicano": [
-    "dikano"
-  ],
-  "dicastero": [
-    "dikastɛro"
-  ],
-  "dicci": [
-    "ditːʃi"
-  ],
-  "dice": [
-    "ditʃe"
-  ],
-  "dicembre": [
-    "ditʃɛmbre"
-  ],
-  "dicemmo": [
-    "ditʃemːo"
-  ],
-  "dicendo": [
-    "ditʃendo",
-    "ditʃento"
-  ],
-  "dicente": [
-    "ditʃente"
-  ],
-  "dicentra": [
-    "ditʃɛntra"
-  ],
-  "dicere": [
-    "ditʃere"
-  ],
-  "diceria": [
-    "ditʃeria"
-  ],
-  "dicesse": [
-    "ditʃesːe"
-  ],
-  "dicessero": [
-    "ditʃesːero"
-  ],
-  "dicessi": [
-    "ditʃesːi"
-  ],
-  "dicessimo": [
-    "ditʃesːimo"
-  ],
-  "diceste": [
-    "ditʃeste"
-  ],
-  "dicesti": [
-    "ditʃesti"
-  ],
-  "diceva": [
-    "ditʃeva"
-  ],
-  "dicevamo": [
-    "ditʃevamo"
-  ],
-  "dicevano": [
-    "ditʃevano"
-  ],
-  "dicevate": [
-    "ditʃevate"
-  ],
-  "dicevi": [
-    "ditʃevi"
-  ],
-  "dicevo": [
-    "ditʃevo"
-  ],
-  "dicevole": [
-    "ditʃevole"
-  ],
-  "dicevolmente": [
-    "ditʃevolmente"
-  ],
-  "dichiarante": [
-    "dikjarante"
-  ],
-  "dichiarare": [
-    "dikjarare"
-  ],
-  "dichiararsi": [
-    "dikjararsi"
-  ],
-  "dichiarativo": [
-    "dikjarativo"
-  ],
-  "dichiarato": [
-    "dikjarato"
-  ],
-  "dichiarazione": [
-    "dikjaratsjone",
-    "dikjaratsjɔne",
-    "dikjaratːsjone"
-  ],
-  "dici": [
-    "ditʃi"
-  ],
-  "diciamo": [
-    "ditʃamo",
-    "ditʃiamo"
-  ],
-  "diciannove": [
-    "ditʃanːɔve"
-  ],
-  "diciannovenne": [
-    "ditʃanːovɛnːe"
-  ],
-  "diciannovesimo": [
-    "ditʃanːovɛzimo"
-  ],
-  "diciassette": [
-    "ditʃasːɛtːe"
-  ],
-  "diciassettenne": [
-    "ditʃasːetːɛnːe"
-  ],
-  "diciassettesimo": [
-    "ditʃasːetːɛzimo"
-  ],
-  "diciate": [
-    "ditʃate"
-  ],
-  "dicibile": [
-    "ditʃibile"
-  ],
-  "dicibili": [
-    "ditʃibili"
-  ],
-  "diciclica": [
-    "ditʃiklika"
-  ],
-  "dicicliche": [
-    "ditʃiklike"
-  ],
-  "diciclici": [
-    "ditʃiklitʃi"
-  ],
-  "diciclico": [
-    "ditʃikliko"
-  ],
-  "diciottenne": [
-    "ditʃotːɛnːe"
-  ],
-  "diciottesima": [
-    "ditʃotːɛzima"
-  ],
-  "diciottesime": [
-    "ditʃotːɛzime"
-  ],
-  "diciottesimi": [
-    "ditʃotːɛzimi"
-  ],
-  "diciottesimo": [
-    "ditʃotːɛzimo"
-  ],
-  "diciotto": [
-    "ditʃɔtːo"
-  ],
-  "dicitore": [
-    "ditʃitore"
-  ],
-  "dicitura": [
-    "ditʃitura"
-  ],
-  "diciture": [
-    "ditʃiture"
-  ],
-  "dico": [
-    "diko"
-  ],
-  "dicocero": [
-    "dikɔtʃero"
-  ],
-  "dicono": [
-    "dikono"
-  ],
-  "dicoriale": [
-    "dikorjale"
-  ],
-  "dicotiledone": [
-    "dikotilɛdone"
-  ],
-  "dicotiledoni": [
-    "dikotilɛdoni"
-  ],
-  "dicotilide": [
-    "dikotilide"
-  ],
-  "dicotoma": [
-    "dikotoma"
-  ],
-  "dicotome": [
-    "dikotome"
-  ],
-  "dicotomi": [
-    "dikotomi"
-  ],
-  "dicotomia": [
-    "dikotomia"
-  ],
-  "dicotomica": [
-    "dikotomika"
-  ],
-  "dicotomiche": [
-    "dikotomike"
-  ],
-  "dicotomici": [
-    "dikotomiʃi"
-  ],
-  "dicotomico": [
-    "dikotomiko"
-  ],
-  "dicotomie": [
-    "dikotomie"
-  ],
-  "dicotomo": [
-    "dikotomo"
-  ],
-  "dicroismo": [
-    "dikroizmo"
-  ],
-  "dicrotismo": [
-    "dikrotizmo"
-  ],
-  "didascalia": [
-    "didaskalia"
-  ],
-  "didascalico": [
-    "didaskaliko"
-  ],
-  "didattica": [
-    "didatːika"
-  ],
-  "didatticamente": [
-    "didatːikamente"
-  ],
-  "didatticismo": [
-    "ditatːitʃizmo"
-  ],
-  "didattico": [
-    "didatːiko"
-  ],
-  "didelfide": [
-    "didɛlfide"
-  ],
-  "didelfidi": [
-    "didɛlfidi"
-  ],
-  "die": [
-    "die"
-  ],
-  "diece": [
-    "djɛtʃe"
-  ],
-  "dieci": [
-    "diɛtʃi",
-    "djɛtʃi"
-  ],
-  "diecimila": [
-    "dietʃimila",
-    "djetʃimila"
-  ],
-  "diede": [
-    "djede"
-  ],
-  "diedero": [
-    "djedero"
-  ],
-  "diedi": [
-    "djedi"
-  ],
-  "diedra": [
-    "diɛdra"
-  ],
-  "diedre": [
-    "diɛdre"
-  ],
-  "diedri": [
-    "diɛdri"
-  ],
-  "diedro": [
-    "diedro",
-    "diɛdro",
-    "djedro",
-    "djɛdro"
-  ],
-  "diegetico": [
-    "diedʒɛtiko"
-  ],
-  "diego": [
-    "djɛɡo"
-  ],
-  "dieresi": [
-    "diɛrezi",
-    "djɛrezi"
-  ],
-  "diesare": [
-    "diezare"
-  ],
-  "diesel": [
-    "dizel"
-  ],
-  "diesizzare": [
-    "diezidːzare"
-  ],
-  "dieta": [
-    "djɛta"
-  ],
-  "diete": [
-    "djɛte"
-  ],
-  "dietetica": [
-    "djetetika"
-  ],
-  "dietetiche": [
-    "djetetike"
-  ],
-  "dietetici": [
-    "djetetitʃi"
-  ],
-  "dietetico": [
-    "djetetiko",
-    "djetɛtiko"
-  ],
-  "dietista": [
-    "djetista"
-  ],
-  "dietiste": [
-    "djetiste"
-  ],
-  "dietisti": [
-    "djetisti"
-  ],
-  "dietologo": [
-    "djetɔloɡo"
-  ],
-  "dietoterapia": [
-    "djetoterapia"
-  ],
-  "dietro": [
-    "dietro",
-    "djɛtro",
-    "djɛtrɔ"
-  ],
-  "dietrologica": [
-    "djetrolɔdʒika"
-  ],
-  "dietrologiche": [
-    "djetrolɔdʒike"
-  ],
-  "dietrologici": [
-    "djetrolɔdʒitʃi"
-  ],
-  "dietrologico": [
-    "djetrolɔdʒiko"
-  ],
-  "difendente": [
-    "difɛndente"
-  ],
-  "difendenti": [
-    "difɛndenti"
-  ],
-  "difendere": [
-    "difɛndere",
-    "difɛndɛre"
-  ],
-  "difendersi": [
-    "difɛndersi"
-  ],
-  "difendibile": [
-    "difendibile"
-  ],
-  "difendibili": [
-    "difendibili"
-  ],
-  "difenditrice": [
-    "difenditritʃe"
-  ],
-  "difenditrici": [
-    "difenditritʃi"
-  ],
-  "difensibile": [
-    "difensibile"
-  ],
-  "difensibili": [
-    "difensibili"
-  ],
-  "difensivamente": [
-    "difensivamente"
-  ],
-  "difensivo": [
-    "difensivo"
-  ],
-  "difensore": [
-    "difensore"
-  ],
-  "difensori": [
-    "difensori"
-  ],
-  "difesa": [
-    "difesa",
-    "difeza"
-  ],
-  "difese": [
-    "difese"
-  ],
-  "difeso": [
-    "difeso",
-    "difezo"
-  ],
-  "difettare": [
-    "difetːare"
-  ],
-  "difetti": [
-    "difɛtːi"
-  ],
-  "difettivo": [
-    "difetːivo"
-  ],
-  "difetto": [
-    "difɛtːo",
-    "difɛtːɔ"
-  ],
-  "difettoso": [
-    "difetːoso",
-    "difetːozo"
-  ],
-  "difettuccio": [
-    "difetːutːʃo"
-  ],
-  "diffamante": [
-    "difːamante"
-  ],
-  "diffamanti": [
-    "difːamanti"
-  ],
-  "diffamare": [
-    "difːamare"
-  ],
-  "diffamato": [
-    "difːamato"
-  ],
-  "diffamatore": [
-    "difːamatore"
-  ],
-  "diffamatori": [
-    "difːamatori"
-  ],
-  "diffamatrice": [
-    "difːamatritʃe"
-  ],
-  "diffamatrici": [
-    "difːamatritʃi"
-  ],
-  "diffamazione": [
-    "difːamatsjone",
-    "difːamatːsjone"
-  ],
-  "diffeomorfismo": [
-    "difːeomorfizmo"
-  ],
-  "differente": [
-    "difːerɛnte"
-  ],
-  "differentemente": [
-    "difːerentemente"
-  ],
-  "differenti": [
-    "difːerɛnte"
-  ],
-  "differenza": [
-    "difːerɛntsa"
-  ],
-  "differenze": [
-    "difːerɛntse"
-  ],
-  "differenziabile": [
-    "difːerentsjabile"
-  ],
-  "differenziabili": [
-    "difːerentsjabili"
-  ],
-  "differenziare": [
-    "difːerentsjare"
-  ],
-  "differenziarsi": [
-    "ifːerentsjarsi"
-  ],
-  "differenziata": [
-    "difːerentsjata"
-  ],
-  "differenziate": [
-    "difːerentsjate"
-  ],
-  "differenziati": [
-    "difːerentsjati"
-  ],
-  "differenziato": [
-    "difːerentsjato"
-  ],
-  "differenziazione": [
-    "difːerentsjatːsjone"
-  ],
-  "differibile": [
-    "difːerabile"
-  ],
-  "differibili": [
-    "difːerabili"
-  ],
-  "differimenti": [
-    "difːerimenti"
-  ],
-  "differimento": [
-    "difːerimento"
-  ],
-  "differire": [
-    "difːerire"
-  ],
-  "differita": [
-    "difːerita"
-  ],
-  "differito": [
-    "difːerito"
-  ],
-  "difficile": [
-    "difːitʃile"
-  ],
-  "difficili": [
-    "difːitʃili"
-  ],
-  "difficilissima": [
-    "difːitʃilisːima"
-  ],
-  "difficilissime": [
-    "difːitʃilisːime"
-  ],
-  "difficilissimi": [
-    "difːitʃilisːimi"
-  ],
-  "difficilissimo": [
-    "difːitʃilisːimo"
-  ],
-  "difficilmente": [
-    "difːitʃilmente"
-  ],
-  "difficoltà": [
-    "difːikolta"
-  ],
-  "difficoltoso": [
-    "difːikoltoso",
-    "difːikoltozo"
-  ],
-  "diffida": [
-    "difːida"
-  ],
-  "diffidare": [
-    "difːidare"
-  ],
-  "diffidato": [
-    "difːidato"
-  ],
-  "diffidente": [
-    "difːidente",
-    "difːidɛnte"
-  ],
-  "diffidenti": [
-    "difːidenti"
-  ],
-  "diffidenza": [
-    "difːidɛntsa"
-  ],
-  "diffidenze": [
-    "difːidɛntse"
-  ],
-  "diffingere": [
-    "difːindʒere"
-  ],
-  "diffinire": [
-    "difːinire"
-  ],
-  "diffinito": [
-    "difːinito"
-  ],
-  "difflugia": [
-    "difːludʒa"
-  ],
-  "diffondente": [
-    "difːondente"
-  ],
-  "diffondere": [
-    "difːondere"
-  ],
-  "diffondersi": [
-    "difːondersi"
-  ],
-  "difformare": [
-    "difːormare"
-  ],
-  "difforme": [
-    "difːorme"
-  ],
-  "difformemente": [
-    "difːormemente"
-  ],
-  "diffrangere": [
-    "difːrandʒere"
-  ],
-  "diffrazione": [
-    "difːratːsjone"
-  ],
-  "diffrazioni": [
-    "difːratːsjoni"
-  ],
-  "diffusamente": [
-    "difːuzamente"
-  ],
-  "diffusibile": [
-    "difːuzibile"
-  ],
-  "diffusibili": [
-    "difːuzibili"
-  ],
-  "diffusione": [
-    "difːuzjone"
-  ],
-  "diffusioni": [
-    "difːuzjoni"
-  ],
-  "diffusionismi": [
-    "difːuzjonizmi"
-  ],
-  "diffusionismo": [
-    "difːuzjonizmo"
-  ],
-  "diffuso": [
-    "difːuso",
-    "difːuzo"
-  ],
-  "diffusore": [
-    "difːuzore"
-  ],
-  "dificerco": [
-    "difitʃɛrko"
-  ],
-  "difronte": [
-    "difronte"
-  ],
-  "difterite": [
-    "difterite"
-  ],
-  "difteriti": [
-    "difteriti"
-  ],
-  "diftongo": [
-    "diftɔnɡo"
-  ],
-  "diga": [
-    "diɡa"
-  ],
-  "digerente": [
-    "didʒerɛnte"
-  ],
-  "digerenti": [
-    "didʒerɛnti"
-  ],
-  "digeribile": [
-    "didʒeribile"
-  ],
-  "digeribili": [
-    "didʒeribili"
-  ],
-  "digeribilità": [
-    "didʒeribilita"
-  ],
-  "digerire": [
-    "didʒerire"
-  ],
-  "digerita": [
-    "didʒerita"
-  ],
-  "digerite": [
-    "didʒerite"
-  ],
-  "digeriti": [
-    "didʒeriti"
-  ],
-  "digerito": [
-    "didʒerito"
-  ],
-  "digestibile": [
-    "didʒetibile"
-  ],
-  "digestibili": [
-    "didʒetibili"
-  ],
-  "digestione": [
-    "didʒestjone"
-  ],
-  "digestioni": [
-    "didʒestjoni"
-  ],
-  "digestiva": [
-    "didʒestiva"
-  ],
-  "digestive": [
-    "didʒestive"
-  ],
-  "digestivi": [
-    "didʒestivi"
-  ],
-  "digestivo": [
-    "didʒestivo"
-  ],
-  "digesto": [
-    "didʒɛsto"
-  ],
-  "dighe": [
-    "diɡe"
-  ],
-  "digiambo": [
-    "didʒambo"
-  ],
-  "digitale": [
-    "didʒitale"
-  ],
-  "digitali": [
-    "didʒitali"
-  ],
-  "digitalizzabile": [
-    "didʒitalidːzabile"
-  ],
-  "digitalizzabili": [
-    "didʒitalidːzabili"
-  ],
-  "digitalizzare": [
-    "didʒitalidːzare"
-  ],
-  "digitalizzatore": [
-    "didʒitalidːzatore"
-  ],
-  "digitalizzazione": [
-    "didʒitalidːzatːsjone"
-  ],
-  "digitalmente": [
-    "didʒitalmente"
-  ],
-  "digitazione": [
-    "didʒitatːsjone"
-  ],
-  "digiti": [
-    "didʒiti"
-  ],
-  "digitiforme": [
-    "didʒitiforme"
-  ],
-  "digito": [
-    "didʒito"
-  ],
-  "digiunante": [
-    "didʒunante"
-  ],
-  "digiunare": [
-    "didʒunare"
-  ],
-  "digiunato": [
-    "didʒunato"
-  ],
-  "digiuni": [
-    "didʒuni"
-  ],
-  "digiuno": [
-    "didʒuno"
-  ],
-  "digli": [
-    "diʎi"
-  ],
-  "dignità": [
-    "diɲɲita"
-  ],
-  "dignitario": [
-    "diɲɲitarjo"
-  ],
-  "dignitosamente": [
-    "diɲɲitozamente"
-  ],
-  "dignitoso": [
-    "diɲɲitoso",
-    "diɲɲitozo"
-  ],
-  "digossina": [
-    "diɡosːin"
-  ],
-  "digradando": [
-    "diɡradando"
-  ],
-  "digradare": [
-    "diɡradare"
-  ],
-  "digrassare": [
-    "diɡrasːare"
-  ],
-  "digressione": [
-    "diɡresːjone"
-  ],
-  "digressioni": [
-    "diɡresːjoni"
-  ],
-  "digrignare": [
-    "diɡriɲɲare"
-  ],
-  "digrossare": [
-    "diɡrosːare"
-  ],
-  "digrosso": [
-    "diɡrɔsːo"
-  ],
-  "digrumare": [
-    "diɡrumare"
-  ],
-  "diguazzare": [
-    "diɡwadːzare"
-  ],
-  "diioduro": [
-    "dijoduro"
-  ],
-  "diktat": [
-    "diktat"
-  ],
-  "dilacera": [
-    "dilatʃera"
-  ],
-  "dilacerando": [
-    "dilatʃerando"
-  ],
-  "dilacerante": [
-    "dilatʃerante"
-  ],
-  "dilaceranti": [
-    "dilatʃeranti"
-  ],
-  "dilacerare": [
-    "dilatʃerare"
-  ],
-  "dilacerata": [
-    "dilatʃerata"
-  ],
-  "dilacerate": [
-    "dilatʃerate"
-  ],
-  "dilacerati": [
-    "dilatʃerati"
-  ],
-  "dilacerato": [
-    "dilatʃerato"
-  ],
-  "dilaceravi": [
-    "dilatʃeravi"
-  ],
-  "dilacerazione": [
-    "dilatʃeratːsjone"
-  ],
-  "dilacero": [
-    "dilatʃero"
-  ],
-  "dilagante": [
-    "dilaɡante"
-  ],
-  "dilagare": [
-    "dilaɡare"
-  ],
-  "dilamare": [
-    "dilamare"
-  ],
-  "dilamarsi": [
-    "dilamarsi"
-  ],
-  "dilaniare": [
-    "dilanjare"
-  ],
-  "dilapidato": [
-    "dilapidato"
-  ],
-  "dilata": [
-    "dilata"
-  ],
-  "dilatabile": [
-    "dilatabile"
-  ],
-  "dilatabili": [
-    "dilatabili"
-  ],
-  "dilatai": [
-    "dilatai"
-  ],
-  "dilatammo": [
-    "dilatamːo"
-  ],
-  "dilatando": [
-    "dilatando"
-  ],
-  "dilatano": [
-    "dilatano"
-  ],
-  "dilatante": [
-    "dilatante"
-  ],
-  "dilatanti": [
-    "dilatanti"
-  ],
-  "dilatare": [
-    "dilatare"
-  ],
-  "dilatarono": [
-    "dilatarono"
-  ],
-  "dilatarsi": [
-    "dilatarsi"
-  ],
-  "dilatasse": [
-    "dilatasːe"
-  ],
-  "dilatassero": [
-    "dilatasːero"
-  ],
-  "dilatassi": [
-    "dilatasːi"
-  ],
-  "dilatassimo": [
-    "dilatasːimo"
-  ],
-  "dilataste": [
-    "dilataste"
-  ],
-  "dilatasti": [
-    "dilatasti"
-  ],
-  "dilatate": [
-    "dilatate"
-  ],
-  "dilatato": [
-    "dilatato"
-  ],
-  "dilatava": [
-    "dilatava"
-  ],
-  "dilatavamo": [
-    "dilatavamo"
-  ],
-  "dilatavano": [
-    "dilatavano"
-  ],
-  "dilatavate": [
-    "dilatavate"
-  ],
-  "dilatavi": [
-    "dilatavi"
-  ],
-  "dilatavo": [
-    "dilatavo"
-  ],
-  "dilatazione": [
-    "dilatatsjone"
-  ],
-  "dilaterà": [
-    "dilatera"
-  ],
-  "dilaterai": [
-    "dilaterai"
-  ],
-  "dilateranno": [
-    "dilateranːo"
-  ],
-  "dilaterebbe": [
-    "dilaterebːe"
-  ],
-  "dilaterebbero": [
-    "dilaterebːero"
-  ],
-  "dilaterei": [
-    "dilaterei"
-  ],
-  "dilateremmo": [
-    "dilateremːo"
-  ],
-  "dilateremo": [
-    "dilateremo"
-  ],
-  "dilatereste": [
-    "dilatereste"
-  ],
-  "dilateresti": [
-    "dilateresti"
-  ],
-  "dilaterete": [
-    "dilaterete"
-  ],
-  "dilaterò": [
-    "dilatero"
-  ],
-  "dilati": [
-    "dilati"
-  ],
-  "dilatiamo": [
-    "dilatjamo"
-  ],
-  "dilatiate": [
-    "dilatjate"
-  ],
-  "dilatino": [
-    "dilatino"
-  ],
-  "dilato": [
-    "dilato"
-  ],
-  "dilatò": [
-    "dilato"
-  ],
-  "dilatometri": [
-    "dilatɔmetri"
-  ],
-  "dilatometro": [
-    "dilatɔmetro"
-  ],
-  "dilavare": [
-    "dilavare"
-  ],
-  "dilazionante": [
-    "dilatsante"
-  ],
-  "dilazionare": [
-    "dilatsjonare",
-    "dilatːsjonare"
-  ],
-  "dilazionato": [
-    "dilatsato"
-  ],
-  "dilazione": [
-    "dilatsjone",
-    "dilatːsjone"
-  ],
-  "dilazioni": [
-    "dilatsjoni"
-  ],
-  "dileggiare": [
-    "befːare",
-    "diledːʒare"
-  ],
-  "dileggio": [
-    "diledːʒo"
-  ],
-  "dileguare": [
-    "dileɡware"
-  ],
-  "dileguarsi": [
-    "dileɡwarsi"
-  ],
-  "dilemma": [
-    "dilɛmːa"
-  ],
-  "diletta": [
-    "diletːa"
-  ],
-  "dilettai": [
-    "diletːai"
-  ],
-  "dilettammo": [
-    "diletːamːo"
-  ],
-  "dilettando": [
-    "diletːando"
-  ],
-  "dilettano": [
-    "diletːano"
-  ],
-  "dilettante": [
-    "diletːante"
-  ],
-  "dilettantesca": [
-    "diletːanteska"
-  ],
-  "dilettantesche": [
-    "diletːanteske"
-  ],
-  "dilettanteschi": [
-    "diletːanteski"
-  ],
-  "dilettantesco": [
-    "diletːantesko"
-  ],
-  "dilettanti": [
-    "diletːante"
-  ],
-  "dilettantismo": [
-    "diletːantizmo"
-  ],
-  "dilettantistico": [
-    "diletːantistiko"
-  ],
-  "dilettare": [
-    "diletːare"
-  ],
-  "dilettarono": [
-    "diletːarono"
-  ],
-  "dilettasse": [
-    "diletːasːe"
-  ],
-  "dilettassero": [
-    "diletːasːero"
-  ],
-  "dilettassi": [
-    "diletːasːi"
-  ],
-  "dilettassimo": [
-    "diletːasːimo"
-  ],
-  "dilettaste": [
-    "diletːaste"
-  ],
-  "dilettasti": [
-    "diletːasti"
-  ],
-  "dilettate": [
-    "diletːate"
-  ],
-  "dilettato": [
-    "diletːato"
-  ],
-  "dilettava": [
-    "diletːava"
-  ],
-  "dilettavamo": [
-    "diletːavamo"
-  ],
-  "dilettavano": [
-    "diletːavano"
-  ],
-  "dilettavate": [
-    "diletːavate"
-  ],
-  "dilettavi": [
-    "diletːavi"
-  ],
-  "dilettavo": [
-    "diletːavo"
-  ],
-  "dilettazione": [
-    "diletːatːsjone"
-  ],
-  "diletterà": [
-    "diletːera"
-  ],
-  "diletterai": [
-    "diletːerai"
-  ],
-  "diletteranno": [
-    "diletːeranːo"
-  ],
-  "diletterebbe": [
-    "diletːerebːe"
-  ],
-  "diletterebbero": [
-    "diletːerebːero"
-  ],
-  "diletterei": [
-    "diletːerei"
-  ],
-  "diletteremmo": [
-    "diletːeremːo"
-  ],
-  "diletteremo": [
-    "diletːeremo"
-  ],
-  "dilettereste": [
-    "diletːereste"
-  ],
-  "diletteresti": [
-    "diletːeresti"
-  ],
-  "diletterete": [
-    "diletːerete"
-  ],
-  "diletterò": [
-    "diletːero"
-  ],
-  "dilettevole": [
-    "diletːevole"
-  ],
-  "dilettevoli": [
-    "diletːevoli"
-  ],
-  "dilettevolmente": [
-    "diletːevolmente"
-  ],
-  "diletti": [
-    "diletːi"
-  ],
-  "dilettiamo": [
-    "diletːjamo"
-  ],
-  "dilettiate": [
-    "diletːjate"
-  ],
-  "dilettino": [
-    "diletːino"
-  ],
-  "diletto": [
-    "diletːo",
-    "dilɛtːo"
-  ],
-  "dilettò": [
-    "diletːo"
-  ],
-  "dilezione": [
-    "diletːsjone"
-  ],
-  "diligente": [
-    "dilidʒɛnte"
-  ],
-  "diligentemente": [
-    "dilidʒentemente"
-  ],
-  "diligenza": [
-    "dilidʒɛntsa"
-  ],
-  "diligenze": [
-    "dilidʒɛntse"
-  ],
-  "diliscare": [
-    "diliskare"
-  ],
-  "dilucidare": [
-    "dilutʃidare"
-  ],
-  "diluente": [
-    "diluente"
-  ],
-  "diluenti": [
-    "diluenti"
-  ],
-  "diluibile": [
-    "diluibile"
-  ],
-  "diluibili": [
-    "diluibili"
-  ],
-  "diluire": [
-    "diluire"
-  ],
-  "dilungare": [
-    "dilunɡare"
-  ],
-  "dilungato": [
-    "dilunɡato"
-  ],
-  "diluvi": [
-    "diluvi"
-  ],
-  "diluviare": [
-    "diluvjare"
-  ],
-  "diluvio": [
-    "diluvjo"
-  ],
-  "diluvium": [
-    "diluvjum"
-  ],
-  "dima": [
-    "dima"
-  ],
-  "dimagrante": [
-    "dimaɡrante"
-  ],
-  "dimagranti": [
-    "dimaɡranti"
-  ],
-  "dimagrare": [
-    "dimaɡrare"
-  ],
-  "dimagrimenti": [
-    "dimaɡrimenti"
-  ],
-  "dimagrimento": [
-    "dimaɡrimento"
-  ],
-  "dimagrire": [
-    "dimaɡrire"
-  ],
-  "dimagrita": [
-    "dimaɡrita"
-  ],
-  "dimagrite": [
-    "dimaɡrite"
-  ],
-  "dimagriti": [
-    "dimaɡriti"
-  ],
-  "dimagrito": [
-    "dimaɡrito"
-  ],
-  "dimandare": [
-    "dimandare"
-  ],
-  "dimando": [
-    "dimando"
-  ],
-  "dimane": [
-    "dimane"
-  ],
-  "dimembrare": [
-    "dimembrare"
-  ],
-  "dimenare": [
-    "dimenare"
-  ],
-  "dimenarsi": [
-    "dimenarsi"
-  ],
-  "dimensiona": [
-    "dimensjona"
-  ],
-  "dimensionale": [
-    "dimensjonale"
-  ],
-  "dimensionali": [
-    "dimensjonali"
-  ],
-  "dimensionalità": [
-    "dimensjonalita"
-  ],
-  "dimensionamenti": [
-    "dimensjonamenti"
-  ],
-  "dimensionamento": [
-    "dimensjonamento"
-  ],
-  "dimensionando": [
-    "dimensjonando"
-  ],
-  "dimensionano": [
-    "dimensjonano"
-  ],
-  "dimensionante": [
-    "dimensjonante"
-  ],
-  "dimensionare": [
-    "dimensjonare"
-  ],
-  "dimensionarsi": [
-    "dimensjonarsi"
-  ],
-  "dimensionata": [
-    "dimensjonata"
-  ],
-  "dimensionate": [
-    "dimensjonate"
-  ],
-  "dimensionati": [
-    "dimensjonati"
-  ],
-  "dimensionato": [
-    "dimensjonato"
-  ],
-  "dimensione": [
-    "dimensjone"
-  ],
-  "dimensioni": [
-    "dimensjoni"
-  ],
-  "dimensioniamo": [
-    "dimensjonjamo"
-  ],
-  "dimensioniate": [
-    "dimensjonjate"
-  ],
-  "dimensionino": [
-    "dimensjonino"
-  ],
-  "dimensiono": [
-    "dimensjono"
-  ],
-  "dimenticabile": [
-    "dimentikabile"
-  ],
-  "dimenticabili": [
-    "dimentikabili"
-  ],
-  "dimenticante": [
-    "dimɛntikante"
-  ],
-  "dimenticanza": [
-    "dimentikantsa"
-  ],
-  "dimenticare": [
-    "dimentikare",
-    "dimɛntikare"
-  ],
-  "dimenticarsi": [
-    "dimentikarsi"
-  ],
-  "dimenticata": [
-    "dimɛntikata"
-  ],
-  "dimenticate": [
-    "dimɛntikate"
-  ],
-  "dimenticati": [
-    "dimɛntikati"
-  ],
-  "dimenticato": [
-    "dimentikato",
-    "dimɛntikato"
-  ],
-  "dimenticatoio": [
-    "dimentikatojo"
-  ],
-  "dimentichi": [
-    "dimentiki"
-  ]
+  "diastolica": "diastɔlika",
+  "diastolico": "diastɔliko",
+  "diate": "djate",
+  "diateca": "djatɛka",
+  "diateche": "djatɛke",
+  "diatermia": "diatermia",
+  "diatopia": "iatopia",
+  "diatopico": "diatopiko",
+  "diatriba": "diatriba",
+  "diatriba_2": "djatriba",
+  "diavola": "djavola",
+  "diavole": "djavole",
+  "diavolessa": "djavolesːa",
+  "diavolesse": "djavolesːe",
+  "diavoli": "djavoli",
+  "diavolio": "djavolio",
+  "diavolo": "diavolo",
+  "diavolo_2": "djavolo",
+  "diazoico": "diadːzɔjko",
+  "diazotare": "diadːzotare",
+  "dibattere": "dibatːere",
+  "dibattimento": "dibatːimento",
+  "dibattiti": "dibatːiti",
+  "dibattito": "dibatːito",
+  "diblastico": "diblastiko",
+  "diborano": "diborano",
+  "diboscamenti": "diboskamenti",
+  "diboscamento": "diboskamento",
+  "diboscante": "diboskante",
+  "diboscare": "diboskare",
+  "diboscata": "diboskata",
+  "diboscate": "diboskate",
+  "diboscati": "diboskati",
+  "diboscato": "diboskato",
+  "dibreve": "dibrɛve",
+  "dibromuro": "dibromuro",
+  "dibucciare": "dibutːʃare",
+  "dica": "dika",
+  "dicano": "dikano",
+  "dicastero": "dikastɛro",
+  "dicci": "ditːʃi",
+  "dice": "ditʃe",
+  "dicembre": "ditʃɛmbre",
+  "dicemmo": "ditʃemːo",
+  "dicendo": "ditʃendo",
+  "dicendo_2": "ditʃento",
+  "dicente": "ditʃente",
+  "dicentra": "ditʃɛntra",
+  "dicere": "ditʃere",
+  "diceria": "ditʃeria",
+  "dicesse": "ditʃesːe",
+  "dicessero": "ditʃesːero",
+  "dicessi": "ditʃesːi",
+  "dicessimo": "ditʃesːimo",
+  "diceste": "ditʃeste",
+  "dicesti": "ditʃesti",
+  "diceva": "ditʃeva",
+  "dicevamo": "ditʃevamo",
+  "dicevano": "ditʃevano",
+  "dicevate": "ditʃevate",
+  "dicevi": "ditʃevi",
+  "dicevo": "ditʃevo",
+  "dicevole": "ditʃevole",
+  "dicevolmente": "ditʃevolmente",
+  "dichiarante": "dikjarante",
+  "dichiarare": "dikjarare",
+  "dichiararsi": "dikjararsi",
+  "dichiarativo": "dikjarativo",
+  "dichiarato": "dikjarato",
+  "dichiarazione": "dikjaratsjone",
+  "dichiarazione_2": "dikjaratsjɔne",
+  "dichiarazione_3": "dikjaratːsjone",
+  "dici": "ditʃi",
+  "diciamo": "ditʃamo",
+  "diciamo_2": "ditʃiamo",
+  "diciannove": "ditʃanːɔve",
+  "diciannovenne": "ditʃanːovɛnːe",
+  "diciannovesimo": "ditʃanːovɛzimo",
+  "diciassette": "ditʃasːɛtːe",
+  "diciassettenne": "ditʃasːetːɛnːe",
+  "diciassettesimo": "ditʃasːetːɛzimo",
+  "diciate": "ditʃate",
+  "dicibile": "ditʃibile",
+  "dicibili": "ditʃibili",
+  "diciclica": "ditʃiklika",
+  "dicicliche": "ditʃiklike",
+  "diciclici": "ditʃiklitʃi",
+  "diciclico": "ditʃikliko",
+  "diciottenne": "ditʃotːɛnːe",
+  "diciottesima": "ditʃotːɛzima",
+  "diciottesime": "ditʃotːɛzime",
+  "diciottesimi": "ditʃotːɛzimi",
+  "diciottesimo": "ditʃotːɛzimo",
+  "diciotto": "ditʃɔtːo",
+  "dicitore": "ditʃitore",
+  "dicitura": "ditʃitura",
+  "diciture": "ditʃiture",
+  "dico": "diko",
+  "dicocero": "dikɔtʃero",
+  "dicono": "dikono",
+  "dicoriale": "dikorjale",
+  "dicotiledone": "dikotilɛdone",
+  "dicotiledoni": "dikotilɛdoni",
+  "dicotilide": "dikotilide",
+  "dicotoma": "dikotoma",
+  "dicotome": "dikotome",
+  "dicotomi": "dikotomi",
+  "dicotomia": "dikotomia",
+  "dicotomica": "dikotomika",
+  "dicotomiche": "dikotomike",
+  "dicotomici": "dikotomiʃi",
+  "dicotomico": "dikotomiko",
+  "dicotomie": "dikotomie",
+  "dicotomo": "dikotomo",
+  "dicroismo": "dikroizmo",
+  "dicrotismo": "dikrotizmo",
+  "didascalia": "didaskalia",
+  "didascalico": "didaskaliko",
+  "didattica": "didatːika",
+  "didatticamente": "didatːikamente",
+  "didatticismo": "ditatːitʃizmo",
+  "didattico": "didatːiko",
+  "didelfide": "didɛlfide",
+  "didelfidi": "didɛlfidi",
+  "die": "die",
+  "diece": "djɛtʃe",
+  "dieci": "diɛtʃi",
+  "dieci_2": "djɛtʃi",
+  "diecimila": "dietʃimila",
+  "diecimila_2": "djetʃimila",
+  "diede": "djede",
+  "diedero": "djedero",
+  "diedi": "djedi",
+  "diedra": "diɛdra",
+  "diedre": "diɛdre",
+  "diedri": "diɛdri",
+  "diedro": "diedro",
+  "diedro_2": "diɛdro",
+  "diedro_3": "djedro",
+  "diedro_4": "djɛdro",
+  "diegetico": "diedʒɛtiko",
+  "diego": "djɛɡo",
+  "dieresi": "diɛrezi",
+  "dieresi_2": "djɛrezi",
+  "diesare": "diezare",
+  "diesel": "dizel",
+  "diesizzare": "diezidːzare",
+  "dieta": "djɛta",
+  "diete": "djɛte",
+  "dietetica": "djetetika",
+  "dietetiche": "djetetike",
+  "dietetici": "djetetitʃi",
+  "dietetico": "djetetiko",
+  "dietetico_2": "djetɛtiko",
+  "dietista": "djetista",
+  "dietiste": "djetiste",
+  "dietisti": "djetisti",
+  "dietologo": "djetɔloɡo",
+  "dietoterapia": "djetoterapia",
+  "dietro": "dietro",
+  "dietro_2": "djɛtro",
+  "dietro_3": "djɛtrɔ",
+  "dietrologica": "djetrolɔdʒika",
+  "dietrologiche": "djetrolɔdʒike",
+  "dietrologici": "djetrolɔdʒitʃi",
+  "dietrologico": "djetrolɔdʒiko",
+  "difendente": "difɛndente",
+  "difendenti": "difɛndenti",
+  "difendere": "difɛndere",
+  "difendere_2": "difɛndɛre",
+  "difendersi": "difɛndersi",
+  "difendibile": "difendibile",
+  "difendibili": "difendibili",
+  "difenditrice": "difenditritʃe",
+  "difenditrici": "difenditritʃi",
+  "difensibile": "difensibile",
+  "difensibili": "difensibili",
+  "difensivamente": "difensivamente",
+  "difensivo": "difensivo",
+  "difensore": "difensore",
+  "difensori": "difensori",
+  "difesa": "difesa",
+  "difesa_2": "difeza",
+  "difese": "difese",
+  "difeso": "difeso",
+  "difeso_2": "difezo",
+  "difettare": "difetːare",
+  "difetti": "difɛtːi",
+  "difettivo": "difetːivo",
+  "difetto": "difɛtːo",
+  "difetto_2": "difɛtːɔ",
+  "difettoso": "difetːoso",
+  "difettoso_2": "difetːozo",
+  "difettuccio": "difetːutːʃo",
+  "diffamante": "difːamante",
+  "diffamanti": "difːamanti",
+  "diffamare": "difːamare",
+  "diffamato": "difːamato",
+  "diffamatore": "difːamatore",
+  "diffamatori": "difːamatori",
+  "diffamatrice": "difːamatritʃe",
+  "diffamatrici": "difːamatritʃi",
+  "diffamazione": "difːamatsjone",
+  "diffamazione_2": "difːamatːsjone",
+  "diffeomorfismo": "difːeomorfizmo",
+  "differente": "difːerɛnte",
+  "differentemente": "difːerentemente",
+  "differenti": "difːerɛnte",
+  "differenza": "difːerɛntsa",
+  "differenze": "difːerɛntse",
+  "differenziabile": "difːerentsjabile",
+  "differenziabili": "difːerentsjabili",
+  "differenziare": "difːerentsjare",
+  "differenziarsi": "ifːerentsjarsi",
+  "differenziata": "difːerentsjata",
+  "differenziate": "difːerentsjate",
+  "differenziati": "difːerentsjati",
+  "differenziato": "difːerentsjato",
+  "differenziazione": "difːerentsjatːsjone",
+  "differibile": "difːerabile",
+  "differibili": "difːerabili",
+  "differimenti": "difːerimenti",
+  "differimento": "difːerimento",
+  "differire": "difːerire",
+  "differita": "difːerita",
+  "differito": "difːerito",
+  "difficile": "difːitʃile",
+  "difficili": "difːitʃili",
+  "difficilissima": "difːitʃilisːima",
+  "difficilissime": "difːitʃilisːime",
+  "difficilissimi": "difːitʃilisːimi",
+  "difficilissimo": "difːitʃilisːimo",
+  "difficilmente": "difːitʃilmente",
+  "difficoltà": "difːikolta",
+  "difficoltoso": "difːikoltoso",
+  "difficoltoso_2": "difːikoltozo",
+  "diffida": "difːida",
+  "diffidare": "difːidare",
+  "diffidato": "difːidato",
+  "diffidente": "difːidente",
+  "diffidente_2": "difːidɛnte",
+  "diffidenti": "difːidenti",
+  "diffidenza": "difːidɛntsa",
+  "diffidenze": "difːidɛntse",
+  "diffingere": "difːindʒere",
+  "diffinire": "difːinire",
+  "diffinito": "difːinito",
+  "difflugia": "difːludʒa",
+  "diffondente": "difːondente",
+  "diffondere": "difːondere",
+  "diffondersi": "difːondersi",
+  "difformare": "difːormare",
+  "difforme": "difːorme",
+  "difformemente": "difːormemente",
+  "diffrangere": "difːrandʒere",
+  "diffrazione": "difːratːsjone",
+  "diffrazioni": "difːratːsjoni",
+  "diffusamente": "difːuzamente",
+  "diffusibile": "difːuzibile",
+  "diffusibili": "difːuzibili",
+  "diffusione": "difːuzjone",
+  "diffusioni": "difːuzjoni",
+  "diffusionismi": "difːuzjonizmi",
+  "diffusionismo": "difːuzjonizmo",
+  "diffuso": "difːuso",
+  "diffuso_2": "difːuzo",
+  "diffusore": "difːuzore",
+  "dificerco": "difitʃɛrko",
+  "difronte": "difronte",
+  "difterite": "difterite",
+  "difteriti": "difteriti",
+  "diftongo": "diftɔnɡo",
+  "diga": "diɡa",
+  "digerente": "didʒerɛnte",
+  "digerenti": "didʒerɛnti",
+  "digeribile": "didʒeribile",
+  "digeribili": "didʒeribili",
+  "digeribilità": "didʒeribilita",
+  "digerire": "didʒerire",
+  "digerita": "didʒerita",
+  "digerite": "didʒerite",
+  "digeriti": "didʒeriti",
+  "digerito": "didʒerito",
+  "digestibile": "didʒetibile",
+  "digestibili": "didʒetibili",
+  "digestione": "didʒestjone",
+  "digestioni": "didʒestjoni",
+  "digestiva": "didʒestiva",
+  "digestive": "didʒestive",
+  "digestivi": "didʒestivi",
+  "digestivo": "didʒestivo",
+  "digesto": "didʒɛsto",
+  "dighe": "diɡe",
+  "digiambo": "didʒambo",
+  "digitale": "didʒitale",
+  "digitali": "didʒitali",
+  "digitalizzabile": "didʒitalidːzabile",
+  "digitalizzabili": "didʒitalidːzabili",
+  "digitalizzare": "didʒitalidːzare",
+  "digitalizzatore": "didʒitalidːzatore",
+  "digitalizzazione": "didʒitalidːzatːsjone",
+  "digitalmente": "didʒitalmente",
+  "digitazione": "didʒitatːsjone",
+  "digiti": "didʒiti",
+  "digitiforme": "didʒitiforme",
+  "digito": "didʒito",
+  "digiunante": "didʒunante",
+  "digiunare": "didʒunare",
+  "digiunato": "didʒunato",
+  "digiuni": "didʒuni",
+  "digiuno": "didʒuno",
+  "digli": "diʎi",
+  "dignità": "diɲɲita",
+  "dignitario": "diɲɲitarjo",
+  "dignitosamente": "diɲɲitozamente",
+  "dignitoso": "diɲɲitoso",
+  "dignitoso_2": "diɲɲitozo",
+  "digossina": "diɡosːin",
+  "digradando": "diɡradando",
+  "digradare": "diɡradare",
+  "digrassare": "diɡrasːare",
+  "digressione": "diɡresːjone",
+  "digressioni": "diɡresːjoni",
+  "digrignare": "diɡriɲɲare",
+  "digrossare": "diɡrosːare",
+  "digrosso": "diɡrɔsːo",
+  "digrumare": "diɡrumare",
+  "diguazzare": "diɡwadːzare",
+  "diioduro": "dijoduro",
+  "diktat": "diktat",
+  "dilacera": "dilatʃera",
+  "dilacerando": "dilatʃerando",
+  "dilacerante": "dilatʃerante",
+  "dilaceranti": "dilatʃeranti",
+  "dilacerare": "dilatʃerare",
+  "dilacerata": "dilatʃerata",
+  "dilacerate": "dilatʃerate",
+  "dilacerati": "dilatʃerati",
+  "dilacerato": "dilatʃerato",
+  "dilaceravi": "dilatʃeravi",
+  "dilacerazione": "dilatʃeratːsjone",
+  "dilacero": "dilatʃero",
+  "dilagante": "dilaɡante",
+  "dilagare": "dilaɡare",
+  "dilamare": "dilamare",
+  "dilamarsi": "dilamarsi",
+  "dilaniare": "dilanjare",
+  "dilapidato": "dilapidato",
+  "dilata": "dilata",
+  "dilatabile": "dilatabile",
+  "dilatabili": "dilatabili",
+  "dilatai": "dilatai",
+  "dilatammo": "dilatamːo",
+  "dilatando": "dilatando",
+  "dilatano": "dilatano",
+  "dilatante": "dilatante",
+  "dilatanti": "dilatanti",
+  "dilatare": "dilatare",
+  "dilatarono": "dilatarono",
+  "dilatarsi": "dilatarsi",
+  "dilatasse": "dilatasːe",
+  "dilatassero": "dilatasːero",
+  "dilatassi": "dilatasːi",
+  "dilatassimo": "dilatasːimo",
+  "dilataste": "dilataste",
+  "dilatasti": "dilatasti",
+  "dilatate": "dilatate",
+  "dilatato": "dilatato",
+  "dilatava": "dilatava",
+  "dilatavamo": "dilatavamo",
+  "dilatavano": "dilatavano",
+  "dilatavate": "dilatavate",
+  "dilatavi": "dilatavi",
+  "dilatavo": "dilatavo",
+  "dilatazione": "dilatatsjone",
+  "dilaterà": "dilatera",
+  "dilaterai": "dilaterai",
+  "dilateranno": "dilateranːo",
+  "dilaterebbe": "dilaterebːe",
+  "dilaterebbero": "dilaterebːero",
+  "dilaterei": "dilaterei",
+  "dilateremmo": "dilateremːo",
+  "dilateremo": "dilateremo",
+  "dilatereste": "dilatereste",
+  "dilateresti": "dilateresti",
+  "dilaterete": "dilaterete",
+  "dilaterò": "dilatero",
+  "dilati": "dilati",
+  "dilatiamo": "dilatjamo",
+  "dilatiate": "dilatjate",
+  "dilatino": "dilatino",
+  "dilato": "dilato",
+  "dilatò": "dilato",
+  "dilatometri": "dilatɔmetri",
+  "dilatometro": "dilatɔmetro",
+  "dilavare": "dilavare",
+  "dilazionante": "dilatsante",
+  "dilazionare": "dilatsjonare",
+  "dilazionare_2": "dilatːsjonare",
+  "dilazionato": "dilatsato",
+  "dilazione": "dilatsjone",
+  "dilazione_2": "dilatːsjone",
+  "dilazioni": "dilatsjoni",
+  "dileggiare": "befːare",
+  "dileggiare_2": "diledːʒare",
+  "dileggio": "diledːʒo",
+  "dileguare": "dileɡware",
+  "dileguarsi": "dileɡwarsi",
+  "dilemma": "dilɛmːa",
+  "diletta": "diletːa",
+  "dilettai": "diletːai",
+  "dilettammo": "diletːamːo",
+  "dilettando": "diletːando",
+  "dilettano": "diletːano",
+  "dilettante": "diletːante",
+  "dilettantesca": "diletːanteska",
+  "dilettantesche": "diletːanteske",
+  "dilettanteschi": "diletːanteski",
+  "dilettantesco": "diletːantesko",
+  "dilettanti": "diletːante",
+  "dilettantismo": "diletːantizmo",
+  "dilettantistico": "diletːantistiko",
+  "dilettare": "diletːare",
+  "dilettarono": "diletːarono",
+  "dilettasse": "diletːasːe",
+  "dilettassero": "diletːasːero",
+  "dilettassi": "diletːasːi",
+  "dilettassimo": "diletːasːimo",
+  "dilettaste": "diletːaste",
+  "dilettasti": "diletːasti",
+  "dilettate": "diletːate",
+  "dilettato": "diletːato",
+  "dilettava": "diletːava",
+  "dilettavamo": "diletːavamo",
+  "dilettavano": "diletːavano",
+  "dilettavate": "diletːavate",
+  "dilettavi": "diletːavi",
+  "dilettavo": "diletːavo",
+  "dilettazione": "diletːatːsjone",
+  "diletterà": "diletːera",
+  "diletterai": "diletːerai",
+  "diletteranno": "diletːeranːo",
+  "diletterebbe": "diletːerebːe",
+  "diletterebbero": "diletːerebːero",
+  "diletterei": "diletːerei",
+  "diletteremmo": "diletːeremːo",
+  "diletteremo": "diletːeremo",
+  "dilettereste": "diletːereste",
+  "diletteresti": "diletːeresti",
+  "diletterete": "diletːerete",
+  "diletterò": "diletːero",
+  "dilettevole": "diletːevole",
+  "dilettevoli": "diletːevoli",
+  "dilettevolmente": "diletːevolmente",
+  "diletti": "diletːi",
+  "dilettiamo": "diletːjamo",
+  "dilettiate": "diletːjate",
+  "dilettino": "diletːino",
+  "diletto": "diletːo",
+  "diletto_2": "dilɛtːo",
+  "dilettò": "diletːo",
+  "dilezione": "diletːsjone",
+  "diligente": "dilidʒɛnte",
+  "diligentemente": "dilidʒentemente",
+  "diligenza": "dilidʒɛntsa",
+  "diligenze": "dilidʒɛntse",
+  "diliscare": "diliskare",
+  "dilucidare": "dilutʃidare",
+  "diluente": "diluente",
+  "diluenti": "diluenti",
+  "diluibile": "diluibile",
+  "diluibili": "diluibili",
+  "diluire": "diluire",
+  "dilungare": "dilunɡare",
+  "dilungato": "dilunɡato",
+  "diluvi": "diluvi",
+  "diluviare": "diluvjare",
+  "diluvio": "diluvjo",
+  "diluvium": "diluvjum",
+  "dima": "dima",
+  "dimagrante": "dimaɡrante",
+  "dimagranti": "dimaɡranti",
+  "dimagrare": "dimaɡrare",
+  "dimagrimenti": "dimaɡrimenti",
+  "dimagrimento": "dimaɡrimento",
+  "dimagrire": "dimaɡrire",
+  "dimagrita": "dimaɡrita",
+  "dimagrite": "dimaɡrite",
+  "dimagriti": "dimaɡriti",
+  "dimagrito": "dimaɡrito",
+  "dimandare": "dimandare",
+  "dimando": "dimando",
+  "dimane": "dimane",
+  "dimembrare": "dimembrare",
+  "dimenare": "dimenare",
+  "dimenarsi": "dimenarsi",
+  "dimensiona": "dimensjona",
+  "dimensionale": "dimensjonale",
+  "dimensionali": "dimensjonali",
+  "dimensionalità": "dimensjonalita",
+  "dimensionamenti": "dimensjonamenti",
+  "dimensionamento": "dimensjonamento",
+  "dimensionando": "dimensjonando",
+  "dimensionano": "dimensjonano",
+  "dimensionante": "dimensjonante",
+  "dimensionare": "dimensjonare",
+  "dimensionarsi": "dimensjonarsi",
+  "dimensionata": "dimensjonata",
+  "dimensionate": "dimensjonate",
+  "dimensionati": "dimensjonati",
+  "dimensionato": "dimensjonato",
+  "dimensione": "dimensjone",
+  "dimensioni": "dimensjoni",
+  "dimensioniamo": "dimensjonjamo",
+  "dimensioniate": "dimensjonjate",
+  "dimensionino": "dimensjonino",
+  "dimensiono": "dimensjono",
+  "dimenticabile": "dimentikabile",
+  "dimenticabili": "dimentikabili",
+  "dimenticante": "dimɛntikante",
+  "dimenticanza": "dimentikantsa",
+  "dimenticare": "dimentikare",
+  "dimenticare_2": "dimɛntikare",
+  "dimenticarsi": "dimentikarsi",
+  "dimenticata": "dimɛntikata",
+  "dimenticate": "dimɛntikate",
+  "dimenticati": "dimɛntikati",
+  "dimenticato": "dimentikato",
+  "dimenticato_2": "dimɛntikato",
+  "dimenticatoio": "dimentikatojo",
+  "dimentichi": "dimentiki"
 }

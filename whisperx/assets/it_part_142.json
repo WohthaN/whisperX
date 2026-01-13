@@ -1,1546 +1,546 @@
 {
-  "radiotrasmettiamo": [
-    "radjotrazmetːjamo"
-  ],
-  "radiotrasmettiate": [
-    "radjotrazmetːjate"
-  ],
-  "radiotrasmettitore": [
-    "radjotrazmetːitore"
-  ],
-  "radiotrasmetto": [
-    "radjotrazmetːo"
-  ],
-  "radiotrasmettono": [
-    "radjotrazmetːono"
-  ],
-  "radiotrasmise": [
-    "radjotrazmize"
-  ],
-  "radiotrasmisero": [
-    "radjotrazmizero"
-  ],
-  "radiotrasmisi": [
-    "radjotrazmizi"
-  ],
-  "radiotrasmissione": [
-    "radjotrazmisːjone"
-  ],
-  "radiotrasmissioni": [
-    "radjotrazmisːjoni"
-  ],
-  "radiotrasmittente": [
-    "radjotrazmitːɛnte"
-  ],
-  "radiovisivo": [
-    "radjovizivo"
-  ],
-  "rado": [
-    "rado"
-  ],
-  "radon": [
-    "radon",
-    "radɔn"
-  ],
-  "radunare": [
-    "radunare"
-  ],
-  "raduno": [
-    "raduno"
-  ],
-  "radura": [
-    "radura"
-  ],
-  "rafani": [
-    "rafani"
-  ],
-  "rafano": [
-    "rafano"
-  ],
-  "raffaele": [
-    "rafːaɛle"
-  ],
-  "raffaellesca": [
-    "rafːaelːeska"
-  ],
-  "raffaellesche": [
-    "rafːaelːeske"
-  ],
-  "raffaelleschi": [
-    "rafːaelːeski"
-  ],
-  "raffaellesco": [
-    "rafːaelːesko"
-  ],
-  "raffaellismo": [
-    "rafːaelːizmo"
-  ],
-  "raffaello": [
-    "rafːaɛlːo"
-  ],
-  "raffazzonare": [
-    "rafːatːsonare"
-  ],
-  "raffazzonato": [
-    "rafːatːsonato"
-  ],
-  "raffermo": [
-    "rafːermo"
-  ],
-  "raffica": [
-    "rafːika"
-  ],
-  "raffigurare": [
-    "rafːiɡurare"
-  ],
-  "raffigurato": [
-    "rafːiɡurato"
-  ],
-  "raffigurazione": [
-    "rafːiɡuratːsjone"
-  ],
-  "raffinamento": [
-    "rafːinamento"
-  ],
-  "raffinare": [
-    "rafːinare"
-  ],
-  "raffinatamente": [
-    "rafːinatamente"
-  ],
-  "raffinatezza": [
-    "rafːinatetːsa"
-  ],
-  "raffinatezze": [
-    "rafːinatetːse"
-  ],
-  "raffinato": [
-    "rafːinato"
-  ],
-  "raffinazione": [
-    "rafːinatːsjone"
-  ],
-  "raffineria": [
-    "rafːineria"
-  ],
-  "rafforzamenti": [
-    "rafːortsamenti"
-  ],
-  "rafforzamento": [
-    "rafːortsamento"
-  ],
-  "rafforzare": [
-    "rafːortsare"
-  ],
-  "rafforzativo": [
-    "rafːortsativo"
-  ],
-  "rafforzato": [
-    "rafːortsato"
-  ],
-  "raffreddamenti": [
-    "rafːredːamenti"
-  ],
-  "raffreddamento": [
-    "rafːredːamento"
-  ],
-  "raffreddare": [
-    "rafːredːare",
-    "rafːrɛdːare"
-  ],
-  "raffreddato": [
-    "rafːredːato"
-  ],
-  "raffreddo": [
-    "rafːredːo"
-  ],
-  "raffreddore": [
-    "rafːredːore",
-    "rafːrɛdːɔre"
-  ],
-  "raffreddori": [
-    "rafːrɛdːɔri"
-  ],
-  "raffrontare": [
-    "rafːrontare"
-  ],
-  "raffronto": [
-    "rafːronto"
-  ],
-  "rafting": [
-    "raftinɡ"
-  ],
-  "raga": [
-    "raɡa"
-  ],
-  "ragamuffin": [
-    "raɡamafːin"
-  ],
-  "raganella": [
-    "raɡanɛlːa"
-  ],
-  "ragano": [
-    "raɡano"
-  ],
-  "ragazza": [
-    "raɡatːsa"
-  ],
-  "ragazzaccio": [
-    "raɡatːsatːʃo"
-  ],
-  "ragazzata": [
-    "raɡatːsata"
-  ],
-  "ragazze": [
-    "raɡatːsa"
-  ],
-  "ragazzi": [
-    "raɡatːsi"
-  ],
-  "ragazzo": [
-    "raɡatːso"
-  ],
-  "ragazzotto": [
-    "raɡatːsɔtːo"
-  ],
-  "ragga": [
-    "raɡːa"
-  ],
-  "raggamuffin": [
-    "raɡːamafːin"
-  ],
-  "raggera": [
-    "radːʒɛra"
-  ],
-  "raggere": [
-    "radːʒɛre"
-  ],
-  "raggi": [
-    "radːʒi"
-  ],
-  "raggiante": [
-    "radʒante",
-    "radːʒante"
-  ],
-  "raggianti": [
-    "radʒanti",
-    "radːʒanti"
-  ],
-  "raggiare": [
-    "radʒare"
-  ],
-  "raggiato": [
-    "radːʒato"
-  ],
-  "raggiera": [
-    "radːʒɛra"
-  ],
-  "raggio": [
-    "radːʒo"
-  ],
-  "raggirante": [
-    "radːʒirante"
-  ],
-  "raggirare": [
-    "radːʒirare"
-  ],
-  "raggirato": [
-    "radːʒirato"
-  ],
-  "raggiratore": [
-    "radːʒiratore"
-  ],
-  "raggiro": [
-    "radːʒiro"
-  ],
-  "raggiungente": [
-    "radːʒuɲdʒente"
-  ],
-  "raggiungere": [
-    "radʒdʒuɲdʒere",
-    "radːʒundʒere"
-  ],
-  "raggiungersi": [
-    "radːʒundʒersi"
-  ],
-  "raggiungibile": [
-    "radːʒundʒibile"
-  ],
-  "raggiungibili": [
-    "radːʒundʒibili"
-  ],
-  "raggiungimento": [
-    "radːʒundʒimento"
-  ],
-  "raggiunto": [
-    "radːʒunto"
-  ],
-  "raggomitolare": [
-    "raɡːomitolare"
-  ],
-  "raggranellare": [
-    "raɡːranelːare"
-  ],
-  "raggrinzire": [
-    "raɡːrintsire"
-  ],
-  "raggruma": [
-    "raɡːruma"
-  ],
-  "raggrumai": [
-    "raɡːrumai"
-  ],
-  "raggrumammo": [
-    "raɡːrumamːo"
-  ],
-  "raggrumando": [
-    "raɡːrumando"
-  ],
-  "raggrumano": [
-    "raɡːrumano"
-  ],
-  "raggrumare": [
-    "raɡːrumare"
-  ],
-  "raggrumarono": [
-    "raɡːrumarono"
-  ],
-  "raggrumasse": [
-    "raɡːrumasːe"
-  ],
-  "raggrumassero": [
-    "raɡːrumasːero"
-  ],
-  "raggrumassi": [
-    "raɡːrumasːi"
-  ],
-  "raggrumassimo": [
-    "raɡːrumasːimo"
-  ],
-  "raggrumaste": [
-    "raɡːrumaste"
-  ],
-  "raggrumasti": [
-    "raɡːrumasti"
-  ],
-  "raggrumate": [
-    "raɡːrumate"
-  ],
-  "raggrumato": [
-    "raɡːrumato"
-  ],
-  "raggrumava": [
-    "raɡːrumava"
-  ],
-  "raggrumavamo": [
-    "raɡːrumavamo"
-  ],
-  "raggrumavano": [
-    "raɡːrumavano"
-  ],
-  "raggrumavate": [
-    "raɡːrumavate"
-  ],
-  "raggrumavi": [
-    "raɡːrumavi"
-  ],
-  "raggrumavo": [
-    "raɡːrumavo"
-  ],
-  "raggrumerà": [
-    "raɡːrumera"
-  ],
-  "raggrumerai": [
-    "raɡːrumerai"
-  ],
-  "raggrumeranno": [
-    "raɡːrumeranːo"
-  ],
-  "raggrumerebbe": [
-    "raɡːrumerebːe"
-  ],
-  "raggrumerebbero": [
-    "raɡːrumerebːero"
-  ],
-  "raggrumerei": [
-    "raɡːrumerei"
-  ],
-  "raggrumeremmo": [
-    "raɡːrumeremːo"
-  ],
-  "raggrumeremo": [
-    "raɡːrumeremo"
-  ],
-  "raggrumereste": [
-    "raɡːrumereste"
-  ],
-  "raggrumeresti": [
-    "raɡːrumeresti"
-  ],
-  "raggrumerete": [
-    "raɡːrumerete"
-  ],
-  "raggrumerò": [
-    "raɡːrumero"
-  ],
-  "raggrumi": [
-    "raɡːrumi"
-  ],
-  "raggrumiamo": [
-    "raɡːrumjamo"
-  ],
-  "raggrumiate": [
-    "raɡːrumjate"
-  ],
-  "raggrumino": [
-    "raɡːrumino"
-  ],
-  "raggrumo": [
-    "raɡːrumo"
-  ],
-  "raggrumò": [
-    "raɡːrumo"
-  ],
-  "raggruppamenti": [
-    "raɡːrupːamenti"
-  ],
-  "raggruppamento": [
-    "raɡːrupːamento"
-  ],
-  "raggruppare": [
-    "raɡːrupːare"
-  ],
-  "ragguaglio": [
-    "raɡːwaʎo"
-  ],
-  "ragguardare": [
-    "raɡːwardare"
-  ],
-  "ragguardevole": [
-    "raɡːwardevole",
-    "raɡːwardɛvɔle"
-  ],
-  "ragionamenti": [
-    "raɡʒonamenti"
-  ],
-  "ragionamento": [
-    "radʒonamento",
-    "raɡʒonamento"
-  ],
-  "ragionare": [
-    "radʒonare"
-  ],
-  "ragionatamente": [
-    "radʒonatamente"
-  ],
-  "ragionato": [
-    "radʒonato"
-  ],
-  "ragionatore": [
-    "radʒonatore"
-  ],
-  "ragione": [
-    "radʒone",
-    "radʒɔne"
-  ],
-  "ragioneria": [
-    "radʒoneria"
-  ],
-  "ragionevole": [
-    "radʒonevole"
-  ],
-  "ragionevolezza": [
-    "radʒonevoletːsa"
-  ],
-  "ragionevolmente": [
-    "radʒonevolmente"
-  ],
-  "ragioni": [
-    "radʒɔni"
-  ],
-  "ragioniere": [
-    "radʒonjɛre"
-  ],
-  "ragliare": [
-    "raʎare"
-  ],
-  "raglio": [
-    "raʎo"
-  ],
-  "ragnatela": [
-    "raɲɲatela"
-  ],
-  "ragni": [
-    "raɲi"
-  ],
-  "ragno": [
-    "raɲɲo",
-    "raɲo"
-  ],
-  "ragoideo": [
-    "raɡojdɛo"
-  ],
-  "ragù": [
-    "raɡu"
-  ],
-  "ragusa": [
-    "raɡuza"
-  ],
-  "ragusano": [
-    "raɡuzano"
-  ],
-  "ragusea": [
-    "raɡuzea"
-  ],
-  "ragusee": [
-    "raɡuzee"
-  ],
-  "ragusei": [
-    "raɡuzei"
-  ],
-  "raguseo": [
-    "raɡuzeo"
-  ],
-  "ragutiera": [
-    "raɡutjɛra"
-  ],
-  "rai": [
-    "rai"
-  ],
-  "raiba": [
-    "rajba"
-  ],
-  "raid": [
-    "rajd",
-    "rɛjd"
-  ],
-  "raimondo": [
-    "rajmondo"
-  ],
-  "rais": [
-    "rais"
-  ],
-  "rallegramento": [
-    "ralːeɡramento"
-  ],
-  "rallegrante": [
-    "ralːeɡrante"
-  ],
-  "rallegrare": [
-    "ralːeɡrare"
-  ],
-  "rallegrarsi": [
-    "ralːeɡrarsi"
-  ],
-  "rallegrato": [
-    "ralːeɡrato"
-  ],
-  "rallentamenti": [
-    "ralːentamenti"
-  ],
-  "rallentamento": [
-    "ralːentamento"
-  ],
-  "rallentando": [
-    "ralːentando"
-  ],
-  "rallentante": [
-    "ralːentante"
-  ],
-  "rallentare": [
-    "ralːentare"
-  ],
-  "rallentato": [
-    "ralːentato"
-  ],
-  "rallentatore": [
-    "ralːentatore"
-  ],
-  "rallide": [
-    "ralːide"
-  ],
-  "rallidi": [
-    "ralːidi"
-  ],
-  "ralliforme": [
-    "ralːiforme"
-  ],
-  "ralliformi": [
-    "ralːiformi"
-  ],
-  "rallista": [
-    "ralːista"
-  ],
-  "ralliste": [
-    "ralːiste"
-  ],
-  "rallisti": [
-    "ralːisti"
-  ],
-  "rallo": [
-    "ralːo"
-  ],
-  "rally": [
-    "rɛlːi"
-  ],
-  "ram": [
-    "ram"
-  ],
-  "ramaia": [
-    "ramaja"
-  ],
-  "ramante": [
-    "ramante"
-  ],
-  "ramanzina": [
-    "ramandzina"
-  ],
-  "ramapitechi": [
-    "ramapiteki"
-  ],
-  "ramapiteco": [
-    "ramapiteko"
-  ],
-  "ramare": [
-    "ramare"
-  ],
-  "ramarro": [
-    "ramarːo"
-  ],
-  "ramato": [
-    "ramato"
-  ],
-  "ramazza": [
-    "ramatːsa"
-  ],
-  "ramazzare": [
-    "ramatːsare"
-  ],
-  "rambismo": [
-    "rambizmo"
-  ],
-  "rame": [
-    "rame"
-  ],
-  "rameico": [
-    "ramɛjko"
-  ],
-  "rameoso": [
-    "rameozo"
-  ],
-  "ramerino": [
-    "ramerino"
-  ],
-  "rametto": [
-    "rametːo"
-  ],
-  "ramificato": [
-    "ramifikato"
-  ],
-  "ramificazione": [
-    "ramifikatːsjone"
-  ],
-  "ramingo": [
-    "ramiɲɡo"
-  ],
-  "ramino": [
-    "ramino"
-  ],
-  "rammaricato": [
-    "ramːarikato"
-  ],
-  "rammarici": [
-    "ramːaritʃi"
-  ],
-  "rammarico": [
-    "ramːariko"
-  ],
-  "rammendare": [
-    "ramːmendare"
-  ],
-  "rammendato": [
-    "ramːendato"
-  ],
-  "rammendo": [
-    "ramːendo",
-    "ramːɛndo"
-  ],
-  "rammentare": [
-    "ramːentare"
-  ],
-  "rammentato": [
-    "ramːentato"
-  ],
-  "rammollito": [
-    "ramːolːito"
-  ],
-  "rammorbidare": [
-    "ramːorbidare"
-  ],
-  "ramo": [
-    "ramo",
-    "ramɔ"
-  ],
-  "ramoscello": [
-    "ramoʃʃɛlːo"
-  ],
-  "ramoso": [
-    "ramoso",
-    "ramozo"
-  ],
-  "rampa": [
-    "rampa"
-  ],
-  "rampante": [
-    "rampante"
-  ],
-  "rampicante": [
-    "rampikante"
-  ],
-  "rampino": [
-    "rampino"
-  ],
-  "rampollo": [
-    "rampolːo"
-  ],
-  "rampone": [
-    "rampone"
-  ],
-  "ramulo": [
-    "ramulo"
-  ],
-  "ramuscolo": [
-    "ramuskolo"
-  ],
-  "rana": [
-    "rana"
-  ],
-  "ranceo": [
-    "rantʃeo"
-  ],
-  "rancho": [
-    "rantʃo"
-  ],
-  "rancido": [
-    "rantʃido"
-  ],
-  "rancidume": [
-    "rantʃidume"
-  ],
-  "rancio": [
-    "rantʃo"
-  ],
-  "rancore": [
-    "rankore",
-    "raɲkore"
-  ],
-  "rancori": [
-    "raɲkori"
-  ],
-  "rancorosamente": [
-    "rankorozamente",
-    "raɲkorozamente"
-  ],
-  "rancoroso": [
-    "rankorozo"
-  ],
-  "rancura": [
-    "rankura"
-  ],
-  "randagi": [
-    "randadʒi"
-  ],
-  "randagia": [
-    "randadʒa"
-  ],
-  "randagie": [
-    "randadʒe"
-  ],
-  "randagio": [
-    "randadʒo"
-  ],
-  "randello": [
-    "randɛlːo"
-  ],
-  "rane": [
-    "rane"
-  ],
-  "ranfoteca": [
-    "ranfotɛka"
-  ],
-  "ranfoteche": [
-    "ranfotɛke"
-  ],
-  "ranger": [
-    "rɛndʒer"
-  ],
-  "rango": [
-    "ranɡo"
-  ],
-  "ranista": [
-    "ranista"
-  ],
-  "raniste": [
-    "raniste"
-  ],
-  "ranisti": [
-    "ranisti"
-  ],
-  "rannicchiare": [
-    "ranːikːjare"
-  ],
-  "rannicchiarsi": [
-    "ranːikːjarsi"
-  ],
-  "rannicchiato": [
-    "ranːikːjato"
-  ],
-  "rannodare": [
-    "ranːodare"
-  ],
-  "rannuvolarsi": [
-    "ranːuvolarsi"
-  ],
-  "rannuvolato": [
-    "ranːuvolato"
-  ],
-  "ranocchi": [
-    "ranɔkːi"
-  ],
-  "ranocchia": [
-    "ranɔkːja"
-  ],
-  "ranocchiaia": [
-    "ranokːjaja"
-  ],
-  "ranocchio": [
-    "ranɔkːjo",
-    "ranɔkːjɔ"
-  ],
-  "rantolo": [
-    "rantolo"
-  ],
-  "ranuncolacea": [
-    "ranunkolatʃea"
-  ],
-  "ranuncolale": [
-    "ranunkolale"
-  ],
-  "ranuncolo": [
-    "ranunkolo",
-    "ranuɲkolo"
-  ],
-  "rap": [
-    "rɛp"
-  ],
-  "rapa": [
-    "rapa"
-  ],
-  "rapace": [
-    "rapatʃe"
-  ],
-  "rapaci": [
-    "rapatʃi"
-  ],
-  "rapacità": [
-    "rapatʃita"
-  ],
-  "rapallizzazione": [
-    "rapalːidːzatːsjone"
-  ],
-  "rapando": [
-    "rapando"
-  ],
-  "rapazzola": [
-    "rapatːsɔla"
-  ],
-  "rape": [
-    "rape"
-  ],
-  "raperonzolo": [
-    "raperontsolo"
-  ],
-  "rapi": [
-    "rapi"
-  ],
-  "rapì": [
-    "rapi"
-  ],
-  "rapida": [
-    "rapida"
-  ],
-  "rapidamente": [
-    "rapidamente"
-  ],
-  "rapide": [
-    "rapide"
-  ],
-  "rapidi": [
-    "rapidi"
-  ],
-  "rapidità": [
-    "rapidita"
-  ],
-  "rapido": [
-    "rapido"
-  ],
-  "rapimento": [
-    "rapimento"
-  ],
-  "rapina": [
-    "rapina"
-  ],
-  "rapinare": [
-    "rapinare"
-  ],
-  "rapinatore": [
-    "rapinatore"
-  ],
-  "rapire": [
-    "rapire"
-  ],
-  "rapito": [
-    "rapito"
-  ],
-  "rapitore": [
-    "rapitore"
-  ],
-  "rappacificare": [
-    "rapːatʃifikare"
-  ],
-  "rappattumare": [
-    "rapːatːumare"
-  ],
-  "rapper": [
-    "rapːer"
-  ],
-  "rappezzare": [
-    "rapːetːsato"
-  ],
-  "rappezzato": [
-    "rapːetːsato"
-  ],
-  "rappezzo": [
-    "rapːɛtːso"
-  ],
-  "rapportante": [
-    "rapːortante"
-  ],
-  "rapportare": [
-    "rapːortare"
-  ],
-  "rapportato": [
-    "rapːortato"
-  ],
-  "rapporti": [
-    "rapːorti"
-  ],
-  "rapporto": [
-    "rapːorto",
-    "rapːɔrto"
-  ],
-  "rapprendente": [
-    "rapːrɛndente"
-  ],
-  "rapprendere": [
-    "rapːrɛndere"
-  ],
-  "rappresaglia": [
-    "rapːrezaʎa"
-  ],
-  "rappresaglie": [
-    "rapːrezaʎe"
-  ],
-  "rappresentante": [
-    "rapːrezentante"
-  ],
-  "rappresentanza": [
-    "rapːrezentantsa"
-  ],
-  "rappresentare": [
-    "rapːrezentare",
-    "rapːrɛzɛntare"
-  ],
-  "rappresentative": [
-    "rapːrezentativa"
-  ],
-  "rappresentativo": [
-    "rapːrezentativo"
-  ],
-  "rappresentato": [
-    "rapːrezentato"
-  ],
-  "rappresentazione": [
-    "rapːrezentatsjone"
-  ],
-  "rappreso": [
-    "rapːreso"
-  ],
-  "rapsodia": [
-    "rapsodia"
-  ],
-  "rapsodica": [
-    "rapsɔdika"
-  ],
-  "rapsodiche": [
-    "rapsɔdike"
-  ],
-  "rapsodici": [
-    "rapsɔditʃi"
-  ],
-  "rapsodico": [
-    "rapsɔdiko"
-  ],
-  "rapsodie": [
-    "rapsodie"
-  ],
-  "rapsodista": [
-    "rapsodista"
-  ],
-  "rapsodo": [
-    "rapsɔdo"
-  ],
-  "raptus": [
-    "raptus"
-  ],
-  "rara": [
-    "rara"
-  ],
-  "raramente": [
-    "raramente",
-    "raramɛnte"
-  ],
-  "rare": [
-    "rare"
-  ],
-  "rarefabile": [
-    "rarefabile"
-  ],
-  "rarefabili": [
-    "rarefabili"
-  ],
-  "rarefare": [
-    "rarefare"
-  ],
-  "rarefatto": [
-    "rarefatːo"
-  ],
-  "rarefazione": [
-    "rarefatːsjone"
-  ],
-  "rari": [
-    "rari"
-  ],
-  "rarissima": [
-    "rarisːima"
-  ],
-  "rarissimamente": [
-    "rararisːimamɛnte"
-  ],
-  "rarissime": [
-    "rarisːime"
-  ],
-  "rarissimi": [
-    "rarisːimi"
-  ],
-  "rarissimo": [
-    "rarisːimo"
-  ],
-  "rarità": [
-    "rarita"
-  ],
-  "raro": [
-    "raro",
-    "rarɔ"
-  ],
-  "ras": [
-    "ras"
-  ],
-  "rasa": [
-    "raza"
-  ],
-  "rasare": [
-    "rasare",
-    "razare"
-  ],
-  "rasato": [
-    "rasato",
-    "razato"
-  ],
-  "rasatura": [
-    "razatura"
-  ],
-  "rasature": [
-    "razature"
-  ],
-  "raschiare": [
-    "raskjare"
-  ],
-  "raschiato": [
-    "raskjato"
-  ],
-  "raschiatura": [
-    "raskjatura"
-  ],
-  "raschietti": [
-    "raskjetːi"
-  ],
-  "raschietto": [
-    "raskjetːo"
-  ],
-  "raschio": [
-    "raskjo"
-  ],
-  "rascia": [
-    "raʃʃa"
-  ],
-  "rase": [
-    "raze"
-  ],
-  "rasente": [
-    "razɛnte"
-  ],
-  "rasi": [
-    "razi"
-  ],
-  "raso": [
-    "raso",
-    "razo"
-  ],
-  "rasoi": [
-    "razoi"
-  ],
-  "rasoio": [
-    "rasojo",
-    "razojo"
-  ],
-  "raspa": [
-    "raspa"
-  ],
-  "raspando": [
-    "raspando"
-  ],
-  "raspante": [
-    "raspante"
-  ],
-  "raspare": [
-    "raspare"
-  ],
-  "raspato": [
-    "raspato"
-  ],
-  "raspe": [
-    "raspe"
-  ],
-  "raspi": [
-    "raspi"
-  ],
-  "raspo": [
-    "raspo"
-  ],
-  "raspollo": [
-    "raspolːo"
-  ],
-  "rassegna": [
-    "rasːeɲɲa"
-  ],
-  "rassegnante": [
-    "asːeɲɲante"
-  ],
-  "rassegnare": [
-    "rasːeɲɲare"
-  ],
-  "rassegnatamente": [
-    "rasːeɲɲatamente"
-  ],
-  "rassegnato": [
-    "rasːeɲɲato"
-  ],
-  "rassegnazione": [
-    "rasːeɲɲatːsjone"
-  ],
-  "rassegnazioni": [
-    "rasːeɲɲatːsjoni"
-  ],
-  "rasserenante": [
-    "rasːerenante"
-  ],
-  "rasserenare": [
-    "rasːerenare"
-  ],
-  "rasserenarsi": [
-    "rasːerenarsi"
-  ],
-  "rassettare": [
-    "rasːetːare"
-  ],
-  "rassettarsi": [
-    "rasːetːarsi"
-  ],
-  "rassicurante": [
-    "asːikurante",
-    "rasːikurante"
-  ],
-  "rassicuranti": [
-    "asːikuranti"
-  ],
-  "rassicurare": [
-    "rasːikurare"
-  ],
-  "rassicurato": [
-    "rasːikurato"
-  ],
-  "rassodato": [
-    "rasːodato"
-  ],
-  "rassomiglare": [
-    "rasːɔmiɡlare"
-  ],
-  "rassomiglianza": [
-    "rasːomiʎantsa"
-  ],
-  "rassomigliare": [
-    "rasːomiʎare"
-  ],
-  "rassomigliato": [
-    "rasːomiʎato"
-  ],
-  "rassumente": [
-    "rasːumente"
-  ],
-  "rassunto": [
-    "rasːunto"
-  ],
-  "rastrellamento": [
-    "rastrelːamento"
-  ],
-  "rastrellare": [
-    "rastrelːare"
-  ],
-  "rastrellato": [
-    "rastrelːato"
-  ],
-  "rastrelli": [
-    "rastrɛlːi"
-  ],
-  "rastrelliera": [
-    "rastrelːjɛra"
-  ],
-  "rastrello": [
-    "rastrɛlːo"
-  ],
-  "rastremare": [
-    "rastremare"
-  ],
-  "rastremato": [
-    "rastremato"
-  ],
-  "rastrematura": [
-    "rastrematura"
-  ],
-  "rasura": [
-    "rasurarazura"
-  ],
-  "rata": [
-    "rata"
-  ],
-  "rate": [
-    "rate",
-    "reit"
-  ],
-  "rateale": [
-    "rateale"
-  ],
-  "rateazione": [
-    "rateatːsjone"
-  ],
-  "rateo": [
-    "rateo"
-  ],
-  "ratificare": [
-    "ratifikare"
-  ],
-  "ratificato": [
-    "ratifikato"
-  ],
-  "ratificazione": [
-    "ratifikatsjone"
-  ],
-  "ratificazioni": [
-    "ratifikatsjoni"
-  ],
-  "ratio": [
-    "ratio",
-    "ratsio",
-    "ratːsjo"
-  ],
-  "ratite": [
-    "ratite"
-  ],
-  "ratiti": [
-    "ratiti"
-  ],
-  "rato": [
-    "rato"
-  ],
-  "rattenere": [
-    "ratːenere"
-  ],
-  "ratti": [
-    "ratːi"
-  ],
-  "ratto": [
-    "ratːo"
-  ],
-  "rattoppato": [
-    "ratːopːato"
-  ],
-  "rattoppo": [
-    "ratːɔpːo"
-  ],
-  "rattrappire": [
-    "ratːrapːire"
-  ],
-  "rattrappirsi": [
-    "ratːrapːirsi"
-  ],
-  "rattristante": [
-    "ratːristante"
-  ],
-  "rattristanti": [
-    "ratːristanti"
-  ],
-  "rattristare": [
-    "ratːristare"
-  ],
-  "rattristarsi": [
-    "ratːristarsi"
-  ],
-  "raucedine": [
-    "rawtʃɛdine"
-  ],
-  "rauco": [
-    "rauka",
-    "rauko",
-    "rawko"
-  ],
-  "ravanelli": [
-    "ravanɛlːi"
-  ],
-  "ravanello": [
-    "ravanɛlːo"
-  ],
-  "ravastrello": [
-    "ravastrɛlːo"
-  ],
-  "ravenna": [
-    "ravenːa"
-  ],
-  "raviggiolo": [
-    "ravidːʒɔlo"
-  ],
-  "ravioli": [
-    "raviɔli",
-    "ravjɔli"
-  ],
-  "raviolo": [
-    "raviɔlo",
-    "ravjɔlo"
-  ],
-  "ravvedersi": [
-    "ravːedersi"
-  ],
-  "ravvedimenti": [
-    "ravːedimenti"
-  ],
-  "ravvedimento": [
-    "ravːedimente",
-    "ravːedimento"
-  ],
-  "ravvicinante": [
-    "avːitʃante"
-  ],
-  "ravvicinare": [
-    "ravːitʃinare"
-  ],
-  "ravvicinato": [
-    "ravːitʃato",
-    "ravːitʃinato"
-  ],
-  "ravvisabile": [
-    "ravːizabile"
-  ],
-  "ravvisabili": [
-    "ravːizabili"
-  ],
-  "ravvisante": [
-    "ravːisante"
-  ],
-  "ravvisare": [
-    "ravːizare"
-  ],
-  "ravvisato": [
-    "ravːisato",
-    "ravːizato"
-  ],
-  "ravvolgere": [
-    "ravːɔldʒere"
-  ],
-  "raziocinante": [
-    "ratːsjotʃinante"
-  ],
-  "raziocinio": [
-    "ratːsjotʃinjo"
-  ],
-  "razionalismi": [
-    "ratsjonalizmi"
-  ],
-  "razionalismo": [
-    "ratsjonalizmo"
-  ],
-  "razionalista": [
-    "ratsjonalista"
-  ],
-  "razionalità": [
-    "ratːsjonalita"
-  ],
-  "razionalizzante": [
-    "ratːsjonalidːzante"
-  ],
-  "razionalizzanti": [
-    "ratːsjonalidːzanti"
-  ],
-  "razionalizzazione": [
-    "ratːsjonalidːzatːsjone"
-  ],
-  "razionalmente": [
-    "ratsjonalmente",
-    "ratːsjonalmente"
-  ],
-  "razionare": [
-    "ratːsjonare"
-  ],
-  "razione": [
-    "ratːsjone"
-  ],
-  "razza": [
-    "radːsa",
-    "radːza",
-    "ratːsa"
-  ],
-  "razzatore": [
-    "ratːsatore"
-  ],
-  "razzatori": [
-    "ratːsatori"
-  ],
-  "razze": [
-    "ratːsa"
-  ],
-  "razzi": [
-    "radːzi"
-  ],
-  "razzia": [
-    "ratːsia"
-  ],
-  "razziale": [
-    "ratːsjale"
-  ],
-  "razziali": [
-    "ratːsjali"
-  ],
-  "razziatore": [
-    "ratːsjatore"
-  ],
-  "razzismi": [
-    "ratːsizmi"
-  ],
-  "razzismo": [
-    "ratːsizmo"
-  ],
-  "razzista": [
-    "ratːsista"
-  ],
-  "razziste": [
-    "ratːsiste",
-    "ratːsisti"
-  ],
-  "razzisti": [
-    "ratːsisti"
-  ],
-  "razzo": [
-    "radːzo",
-    "ratːso"
-  ],
-  "razzolare": [
-    "ratːsolare"
-  ],
-  "re": [
-    "re",
-    "rɛ"
-  ],
-  "reagente": [
-    "readʒɛnte"
-  ],
-  "reagenti": [
-    "readʒɛnti"
-  ],
-  "reagire": [
-    "readʒire"
-  ],
-  "reagito": [
-    "readʒito"
-  ],
-  "reale": [
-    "reale",
-    "rɛale"
-  ],
-  "reali": [
-    "reali"
-  ],
-  "realismi": [
-    "realizmi"
-  ],
-  "realismo": [
-    "realizmo"
-  ],
-  "realista": [
-    "realista"
-  ],
-  "realiste": [
-    "realiste"
-  ],
-  "realisti": [
-    "realisti"
-  ],
-  "realisticamente": [
-    "realistikamente"
-  ],
-  "realistici": [
-    "realistiki"
-  ],
-  "realistico": [
-    "realistiko"
-  ],
-  "realizzabile": [
-    "realidːzabile"
-  ],
-  "realizzabili": [
-    "realidːzabili"
-  ],
-  "realizzare": [
-    "realidːzare"
-  ],
-  "realizzarsi": [
-    "realidːzarsi"
-  ],
-  "realizzato": [
-    "realidːzato"
-  ],
-  "realizzatore": [
-    "realidːzatore"
-  ],
-  "realizzatori": [
-    "realidːzatori"
-  ]
+  "radiotrasmettiamo": "radjotrazmetːjamo",
+  "radiotrasmettiate": "radjotrazmetːjate",
+  "radiotrasmettitore": "radjotrazmetːitore",
+  "radiotrasmetto": "radjotrazmetːo",
+  "radiotrasmettono": "radjotrazmetːono",
+  "radiotrasmise": "radjotrazmize",
+  "radiotrasmisero": "radjotrazmizero",
+  "radiotrasmisi": "radjotrazmizi",
+  "radiotrasmissione": "radjotrazmisːjone",
+  "radiotrasmissioni": "radjotrazmisːjoni",
+  "radiotrasmittente": "radjotrazmitːɛnte",
+  "radiovisivo": "radjovizivo",
+  "rado": "rado",
+  "radon": "radon",
+  "radon_2": "radɔn",
+  "radunare": "radunare",
+  "raduno": "raduno",
+  "radura": "radura",
+  "rafani": "rafani",
+  "rafano": "rafano",
+  "raffaele": "rafːaɛle",
+  "raffaellesca": "rafːaelːeska",
+  "raffaellesche": "rafːaelːeske",
+  "raffaelleschi": "rafːaelːeski",
+  "raffaellesco": "rafːaelːesko",
+  "raffaellismo": "rafːaelːizmo",
+  "raffaello": "rafːaɛlːo",
+  "raffazzonare": "rafːatːsonare",
+  "raffazzonato": "rafːatːsonato",
+  "raffermo": "rafːermo",
+  "raffica": "rafːika",
+  "raffigurare": "rafːiɡurare",
+  "raffigurato": "rafːiɡurato",
+  "raffigurazione": "rafːiɡuratːsjone",
+  "raffinamento": "rafːinamento",
+  "raffinare": "rafːinare",
+  "raffinatamente": "rafːinatamente",
+  "raffinatezza": "rafːinatetːsa",
+  "raffinatezze": "rafːinatetːse",
+  "raffinato": "rafːinato",
+  "raffinazione": "rafːinatːsjone",
+  "raffineria": "rafːineria",
+  "rafforzamenti": "rafːortsamenti",
+  "rafforzamento": "rafːortsamento",
+  "rafforzare": "rafːortsare",
+  "rafforzativo": "rafːortsativo",
+  "rafforzato": "rafːortsato",
+  "raffreddamenti": "rafːredːamenti",
+  "raffreddamento": "rafːredːamento",
+  "raffreddare": "rafːredːare",
+  "raffreddare_2": "rafːrɛdːare",
+  "raffreddato": "rafːredːato",
+  "raffreddo": "rafːredːo",
+  "raffreddore": "rafːredːore",
+  "raffreddore_2": "rafːrɛdːɔre",
+  "raffreddori": "rafːrɛdːɔri",
+  "raffrontare": "rafːrontare",
+  "raffronto": "rafːronto",
+  "rafting": "raftinɡ",
+  "raga": "raɡa",
+  "ragamuffin": "raɡamafːin",
+  "raganella": "raɡanɛlːa",
+  "ragano": "raɡano",
+  "ragazza": "raɡatːsa",
+  "ragazzaccio": "raɡatːsatːʃo",
+  "ragazzata": "raɡatːsata",
+  "ragazze": "raɡatːsa",
+  "ragazzi": "raɡatːsi",
+  "ragazzo": "raɡatːso",
+  "ragazzotto": "raɡatːsɔtːo",
+  "ragga": "raɡːa",
+  "raggamuffin": "raɡːamafːin",
+  "raggera": "radːʒɛra",
+  "raggere": "radːʒɛre",
+  "raggi": "radːʒi",
+  "raggiante": "radʒante",
+  "raggiante_2": "radːʒante",
+  "raggianti": "radʒanti",
+  "raggianti_2": "radːʒanti",
+  "raggiare": "radʒare",
+  "raggiato": "radːʒato",
+  "raggiera": "radːʒɛra",
+  "raggio": "radːʒo",
+  "raggirante": "radːʒirante",
+  "raggirare": "radːʒirare",
+  "raggirato": "radːʒirato",
+  "raggiratore": "radːʒiratore",
+  "raggiro": "radːʒiro",
+  "raggiungente": "radːʒuɲdʒente",
+  "raggiungere": "radʒdʒuɲdʒere",
+  "raggiungere_2": "radːʒundʒere",
+  "raggiungersi": "radːʒundʒersi",
+  "raggiungibile": "radːʒundʒibile",
+  "raggiungibili": "radːʒundʒibili",
+  "raggiungimento": "radːʒundʒimento",
+  "raggiunto": "radːʒunto",
+  "raggomitolare": "raɡːomitolare",
+  "raggranellare": "raɡːranelːare",
+  "raggrinzire": "raɡːrintsire",
+  "raggruma": "raɡːruma",
+  "raggrumai": "raɡːrumai",
+  "raggrumammo": "raɡːrumamːo",
+  "raggrumando": "raɡːrumando",
+  "raggrumano": "raɡːrumano",
+  "raggrumare": "raɡːrumare",
+  "raggrumarono": "raɡːrumarono",
+  "raggrumasse": "raɡːrumasːe",
+  "raggrumassero": "raɡːrumasːero",
+  "raggrumassi": "raɡːrumasːi",
+  "raggrumassimo": "raɡːrumasːimo",
+  "raggrumaste": "raɡːrumaste",
+  "raggrumasti": "raɡːrumasti",
+  "raggrumate": "raɡːrumate",
+  "raggrumato": "raɡːrumato",
+  "raggrumava": "raɡːrumava",
+  "raggrumavamo": "raɡːrumavamo",
+  "raggrumavano": "raɡːrumavano",
+  "raggrumavate": "raɡːrumavate",
+  "raggrumavi": "raɡːrumavi",
+  "raggrumavo": "raɡːrumavo",
+  "raggrumerà": "raɡːrumera",
+  "raggrumerai": "raɡːrumerai",
+  "raggrumeranno": "raɡːrumeranːo",
+  "raggrumerebbe": "raɡːrumerebːe",
+  "raggrumerebbero": "raɡːrumerebːero",
+  "raggrumerei": "raɡːrumerei",
+  "raggrumeremmo": "raɡːrumeremːo",
+  "raggrumeremo": "raɡːrumeremo",
+  "raggrumereste": "raɡːrumereste",
+  "raggrumeresti": "raɡːrumeresti",
+  "raggrumerete": "raɡːrumerete",
+  "raggrumerò": "raɡːrumero",
+  "raggrumi": "raɡːrumi",
+  "raggrumiamo": "raɡːrumjamo",
+  "raggrumiate": "raɡːrumjate",
+  "raggrumino": "raɡːrumino",
+  "raggrumo": "raɡːrumo",
+  "raggrumò": "raɡːrumo",
+  "raggruppamenti": "raɡːrupːamenti",
+  "raggruppamento": "raɡːrupːamento",
+  "raggruppare": "raɡːrupːare",
+  "ragguaglio": "raɡːwaʎo",
+  "ragguardare": "raɡːwardare",
+  "ragguardevole": "raɡːwardevole",
+  "ragguardevole_2": "raɡːwardɛvɔle",
+  "ragionamenti": "raɡʒonamenti",
+  "ragionamento": "radʒonamento",
+  "ragionamento_2": "raɡʒonamento",
+  "ragionare": "radʒonare",
+  "ragionatamente": "radʒonatamente",
+  "ragionato": "radʒonato",
+  "ragionatore": "radʒonatore",
+  "ragione": "radʒone",
+  "ragione_2": "radʒɔne",
+  "ragioneria": "radʒoneria",
+  "ragionevole": "radʒonevole",
+  "ragionevolezza": "radʒonevoletːsa",
+  "ragionevolmente": "radʒonevolmente",
+  "ragioni": "radʒɔni",
+  "ragioniere": "radʒonjɛre",
+  "ragliare": "raʎare",
+  "raglio": "raʎo",
+  "ragnatela": "raɲɲatela",
+  "ragni": "raɲi",
+  "ragno": "raɲɲo",
+  "ragno_2": "raɲo",
+  "ragoideo": "raɡojdɛo",
+  "ragù": "raɡu",
+  "ragusa": "raɡuza",
+  "ragusano": "raɡuzano",
+  "ragusea": "raɡuzea",
+  "ragusee": "raɡuzee",
+  "ragusei": "raɡuzei",
+  "raguseo": "raɡuzeo",
+  "ragutiera": "raɡutjɛra",
+  "rai": "rai",
+  "raiba": "rajba",
+  "raid": "rajd",
+  "raid_2": "rɛjd",
+  "raimondo": "rajmondo",
+  "rais": "rais",
+  "rallegramento": "ralːeɡramento",
+  "rallegrante": "ralːeɡrante",
+  "rallegrare": "ralːeɡrare",
+  "rallegrarsi": "ralːeɡrarsi",
+  "rallegrato": "ralːeɡrato",
+  "rallentamenti": "ralːentamenti",
+  "rallentamento": "ralːentamento",
+  "rallentando": "ralːentando",
+  "rallentante": "ralːentante",
+  "rallentare": "ralːentare",
+  "rallentato": "ralːentato",
+  "rallentatore": "ralːentatore",
+  "rallide": "ralːide",
+  "rallidi": "ralːidi",
+  "ralliforme": "ralːiforme",
+  "ralliformi": "ralːiformi",
+  "rallista": "ralːista",
+  "ralliste": "ralːiste",
+  "rallisti": "ralːisti",
+  "rallo": "ralːo",
+  "rally": "rɛlːi",
+  "ram": "ram",
+  "ramaia": "ramaja",
+  "ramante": "ramante",
+  "ramanzina": "ramandzina",
+  "ramapitechi": "ramapiteki",
+  "ramapiteco": "ramapiteko",
+  "ramare": "ramare",
+  "ramarro": "ramarːo",
+  "ramato": "ramato",
+  "ramazza": "ramatːsa",
+  "ramazzare": "ramatːsare",
+  "rambismo": "rambizmo",
+  "rame": "rame",
+  "rameico": "ramɛjko",
+  "rameoso": "rameozo",
+  "ramerino": "ramerino",
+  "rametto": "rametːo",
+  "ramificato": "ramifikato",
+  "ramificazione": "ramifikatːsjone",
+  "ramingo": "ramiɲɡo",
+  "ramino": "ramino",
+  "rammaricato": "ramːarikato",
+  "rammarici": "ramːaritʃi",
+  "rammarico": "ramːariko",
+  "rammendare": "ramːmendare",
+  "rammendato": "ramːendato",
+  "rammendo": "ramːendo",
+  "rammendo_2": "ramːɛndo",
+  "rammentare": "ramːentare",
+  "rammentato": "ramːentato",
+  "rammollito": "ramːolːito",
+  "rammorbidare": "ramːorbidare",
+  "ramo": "ramo",
+  "ramo_2": "ramɔ",
+  "ramoscello": "ramoʃʃɛlːo",
+  "ramoso": "ramoso",
+  "ramoso_2": "ramozo",
+  "rampa": "rampa",
+  "rampante": "rampante",
+  "rampicante": "rampikante",
+  "rampino": "rampino",
+  "rampollo": "rampolːo",
+  "rampone": "rampone",
+  "ramulo": "ramulo",
+  "ramuscolo": "ramuskolo",
+  "rana": "rana",
+  "ranceo": "rantʃeo",
+  "rancho": "rantʃo",
+  "rancido": "rantʃido",
+  "rancidume": "rantʃidume",
+  "rancio": "rantʃo",
+  "rancore": "rankore",
+  "rancore_2": "raɲkore",
+  "rancori": "raɲkori",
+  "rancorosamente": "rankorozamente",
+  "rancorosamente_2": "raɲkorozamente",
+  "rancoroso": "rankorozo",
+  "rancura": "rankura",
+  "randagi": "randadʒi",
+  "randagia": "randadʒa",
+  "randagie": "randadʒe",
+  "randagio": "randadʒo",
+  "randello": "randɛlːo",
+  "rane": "rane",
+  "ranfoteca": "ranfotɛka",
+  "ranfoteche": "ranfotɛke",
+  "ranger": "rɛndʒer",
+  "rango": "ranɡo",
+  "ranista": "ranista",
+  "raniste": "raniste",
+  "ranisti": "ranisti",
+  "rannicchiare": "ranːikːjare",
+  "rannicchiarsi": "ranːikːjarsi",
+  "rannicchiato": "ranːikːjato",
+  "rannodare": "ranːodare",
+  "rannuvolarsi": "ranːuvolarsi",
+  "rannuvolato": "ranːuvolato",
+  "ranocchi": "ranɔkːi",
+  "ranocchia": "ranɔkːja",
+  "ranocchiaia": "ranokːjaja",
+  "ranocchio": "ranɔkːjo",
+  "ranocchio_2": "ranɔkːjɔ",
+  "rantolo": "rantolo",
+  "ranuncolacea": "ranunkolatʃea",
+  "ranuncolale": "ranunkolale",
+  "ranuncolo": "ranunkolo",
+  "ranuncolo_2": "ranuɲkolo",
+  "rap": "rɛp",
+  "rapa": "rapa",
+  "rapace": "rapatʃe",
+  "rapaci": "rapatʃi",
+  "rapacità": "rapatʃita",
+  "rapallizzazione": "rapalːidːzatːsjone",
+  "rapando": "rapando",
+  "rapazzola": "rapatːsɔla",
+  "rape": "rape",
+  "raperonzolo": "raperontsolo",
+  "rapi": "rapi",
+  "rapì": "rapi",
+  "rapida": "rapida",
+  "rapidamente": "rapidamente",
+  "rapide": "rapide",
+  "rapidi": "rapidi",
+  "rapidità": "rapidita",
+  "rapido": "rapido",
+  "rapimento": "rapimento",
+  "rapina": "rapina",
+  "rapinare": "rapinare",
+  "rapinatore": "rapinatore",
+  "rapire": "rapire",
+  "rapito": "rapito",
+  "rapitore": "rapitore",
+  "rappacificare": "rapːatʃifikare",
+  "rappattumare": "rapːatːumare",
+  "rapper": "rapːer",
+  "rappezzare": "rapːetːsato",
+  "rappezzato": "rapːetːsato",
+  "rappezzo": "rapːɛtːso",
+  "rapportante": "rapːortante",
+  "rapportare": "rapːortare",
+  "rapportato": "rapːortato",
+  "rapporti": "rapːorti",
+  "rapporto": "rapːorto",
+  "rapporto_2": "rapːɔrto",
+  "rapprendente": "rapːrɛndente",
+  "rapprendere": "rapːrɛndere",
+  "rappresaglia": "rapːrezaʎa",
+  "rappresaglie": "rapːrezaʎe",
+  "rappresentante": "rapːrezentante",
+  "rappresentanza": "rapːrezentantsa",
+  "rappresentare": "rapːrezentare",
+  "rappresentare_2": "rapːrɛzɛntare",
+  "rappresentative": "rapːrezentativa",
+  "rappresentativo": "rapːrezentativo",
+  "rappresentato": "rapːrezentato",
+  "rappresentazione": "rapːrezentatsjone",
+  "rappreso": "rapːreso",
+  "rapsodia": "rapsodia",
+  "rapsodica": "rapsɔdika",
+  "rapsodiche": "rapsɔdike",
+  "rapsodici": "rapsɔditʃi",
+  "rapsodico": "rapsɔdiko",
+  "rapsodie": "rapsodie",
+  "rapsodista": "rapsodista",
+  "rapsodo": "rapsɔdo",
+  "raptus": "raptus",
+  "rara": "rara",
+  "raramente": "raramente",
+  "raramente_2": "raramɛnte",
+  "rare": "rare",
+  "rarefabile": "rarefabile",
+  "rarefabili": "rarefabili",
+  "rarefare": "rarefare",
+  "rarefatto": "rarefatːo",
+  "rarefazione": "rarefatːsjone",
+  "rari": "rari",
+  "rarissima": "rarisːima",
+  "rarissimamente": "rararisːimamɛnte",
+  "rarissime": "rarisːime",
+  "rarissimi": "rarisːimi",
+  "rarissimo": "rarisːimo",
+  "rarità": "rarita",
+  "raro": "raro",
+  "raro_2": "rarɔ",
+  "ras": "ras",
+  "rasa": "raza",
+  "rasare": "rasare",
+  "rasare_2": "razare",
+  "rasato": "rasato",
+  "rasato_2": "razato",
+  "rasatura": "razatura",
+  "rasature": "razature",
+  "raschiare": "raskjare",
+  "raschiato": "raskjato",
+  "raschiatura": "raskjatura",
+  "raschietti": "raskjetːi",
+  "raschietto": "raskjetːo",
+  "raschio": "raskjo",
+  "rascia": "raʃʃa",
+  "rase": "raze",
+  "rasente": "razɛnte",
+  "rasi": "razi",
+  "raso": "raso",
+  "raso_2": "razo",
+  "rasoi": "razoi",
+  "rasoio": "rasojo",
+  "rasoio_2": "razojo",
+  "raspa": "raspa",
+  "raspando": "raspando",
+  "raspante": "raspante",
+  "raspare": "raspare",
+  "raspato": "raspato",
+  "raspe": "raspe",
+  "raspi": "raspi",
+  "raspo": "raspo",
+  "raspollo": "raspolːo",
+  "rassegna": "rasːeɲɲa",
+  "rassegnante": "asːeɲɲante",
+  "rassegnare": "rasːeɲɲare",
+  "rassegnatamente": "rasːeɲɲatamente",
+  "rassegnato": "rasːeɲɲato",
+  "rassegnazione": "rasːeɲɲatːsjone",
+  "rassegnazioni": "rasːeɲɲatːsjoni",
+  "rasserenante": "rasːerenante",
+  "rasserenare": "rasːerenare",
+  "rasserenarsi": "rasːerenarsi",
+  "rassettare": "rasːetːare",
+  "rassettarsi": "rasːetːarsi",
+  "rassicurante": "asːikurante",
+  "rassicurante_2": "rasːikurante",
+  "rassicuranti": "asːikuranti",
+  "rassicurare": "rasːikurare",
+  "rassicurato": "rasːikurato",
+  "rassodato": "rasːodato",
+  "rassomiglare": "rasːɔmiɡlare",
+  "rassomiglianza": "rasːomiʎantsa",
+  "rassomigliare": "rasːomiʎare",
+  "rassomigliato": "rasːomiʎato",
+  "rassumente": "rasːumente",
+  "rassunto": "rasːunto",
+  "rastrellamento": "rastrelːamento",
+  "rastrellare": "rastrelːare",
+  "rastrellato": "rastrelːato",
+  "rastrelli": "rastrɛlːi",
+  "rastrelliera": "rastrelːjɛra",
+  "rastrello": "rastrɛlːo",
+  "rastremare": "rastremare",
+  "rastremato": "rastremato",
+  "rastrematura": "rastrematura",
+  "rasura": "rasurarazura",
+  "rata": "rata",
+  "rate": "rate",
+  "rate_2": "reit",
+  "rateale": "rateale",
+  "rateazione": "rateatːsjone",
+  "rateo": "rateo",
+  "ratificare": "ratifikare",
+  "ratificato": "ratifikato",
+  "ratificazione": "ratifikatsjone",
+  "ratificazioni": "ratifikatsjoni",
+  "ratio": "ratio",
+  "ratio_2": "ratsio",
+  "ratio_3": "ratːsjo",
+  "ratite": "ratite",
+  "ratiti": "ratiti",
+  "rato": "rato",
+  "rattenere": "ratːenere",
+  "ratti": "ratːi",
+  "ratto": "ratːo",
+  "rattoppato": "ratːopːato",
+  "rattoppo": "ratːɔpːo",
+  "rattrappire": "ratːrapːire",
+  "rattrappirsi": "ratːrapːirsi",
+  "rattristante": "ratːristante",
+  "rattristanti": "ratːristanti",
+  "rattristare": "ratːristare",
+  "rattristarsi": "ratːristarsi",
+  "raucedine": "rawtʃɛdine",
+  "rauco": "rauka",
+  "rauco_2": "rauko",
+  "rauco_3": "rawko",
+  "ravanelli": "ravanɛlːi",
+  "ravanello": "ravanɛlːo",
+  "ravastrello": "ravastrɛlːo",
+  "ravenna": "ravenːa",
+  "raviggiolo": "ravidːʒɔlo",
+  "ravioli": "raviɔli",
+  "ravioli_2": "ravjɔli",
+  "raviolo": "raviɔlo",
+  "raviolo_2": "ravjɔlo",
+  "ravvedersi": "ravːedersi",
+  "ravvedimenti": "ravːedimenti",
+  "ravvedimento": "ravːedimente",
+  "ravvedimento_2": "ravːedimento",
+  "ravvicinante": "avːitʃante",
+  "ravvicinare": "ravːitʃinare",
+  "ravvicinato": "ravːitʃato",
+  "ravvicinato_2": "ravːitʃinato",
+  "ravvisabile": "ravːizabile",
+  "ravvisabili": "ravːizabili",
+  "ravvisante": "ravːisante",
+  "ravvisare": "ravːizare",
+  "ravvisato": "ravːisato",
+  "ravvisato_2": "ravːizato",
+  "ravvolgere": "ravːɔldʒere",
+  "raziocinante": "ratːsjotʃinante",
+  "raziocinio": "ratːsjotʃinjo",
+  "razionalismi": "ratsjonalizmi",
+  "razionalismo": "ratsjonalizmo",
+  "razionalista": "ratsjonalista",
+  "razionalità": "ratːsjonalita",
+  "razionalizzante": "ratːsjonalidːzante",
+  "razionalizzanti": "ratːsjonalidːzanti",
+  "razionalizzazione": "ratːsjonalidːzatːsjone",
+  "razionalmente": "ratsjonalmente",
+  "razionalmente_2": "ratːsjonalmente",
+  "razionare": "ratːsjonare",
+  "razione": "ratːsjone",
+  "razza": "radːsa",
+  "razza_2": "radːza",
+  "razza_3": "ratːsa",
+  "razzatore": "ratːsatore",
+  "razzatori": "ratːsatori",
+  "razze": "ratːsa",
+  "razzi": "radːzi",
+  "razzia": "ratːsia",
+  "razziale": "ratːsjale",
+  "razziali": "ratːsjali",
+  "razziatore": "ratːsjatore",
+  "razzismi": "ratːsizmi",
+  "razzismo": "ratːsizmo",
+  "razzista": "ratːsista",
+  "razziste": "ratːsiste",
+  "razziste_2": "ratːsisti",
+  "razzisti": "ratːsisti",
+  "razzo": "radːzo",
+  "razzo_2": "ratːso",
+  "razzolare": "ratːsolare",
+  "re": "re",
+  "re_2": "rɛ",
+  "reagente": "readʒɛnte",
+  "reagenti": "readʒɛnti",
+  "reagire": "readʒire",
+  "reagito": "readʒito",
+  "reale": "reale",
+  "reale_2": "rɛale",
+  "reali": "reali",
+  "realismi": "realizmi",
+  "realismo": "realizmo",
+  "realista": "realista",
+  "realiste": "realiste",
+  "realisti": "realisti",
+  "realisticamente": "realistikamente",
+  "realistici": "realistiki",
+  "realistico": "realistiko",
+  "realizzabile": "realidːzabile",
+  "realizzabili": "realidːzabili",
+  "realizzare": "realidːzare",
+  "realizzarsi": "realidːzarsi",
+  "realizzato": "realidːzato",
+  "realizzatore": "realidːzatore",
+  "realizzatori": "realidːzatori"
 }

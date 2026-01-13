@@ -1,1515 +1,515 @@
 {
-  "panchetta": [
-    "panketːa"
-  ],
-  "panchina": [
-    "paɲkina"
-  ],
-  "panchine": [
-    "paɲkine"
-  ],
-  "pancia": [
-    "pantʃa"
-  ],
-  "pancianera": [
-    "pantʃanera"
-  ],
-  "pancie": [
-    "pantʃe"
-  ],
-  "pancione": [
-    "pantʃone"
-  ],
-  "panciotti": [
-    "pantʃɔtːi"
-  ],
-  "panciotto": [
-    "pantʃɔtːo"
-  ],
-  "panciuto": [
-    "pantʃuto"
-  ],
-  "pancosmismo": [
-    "pankozmizmo"
-  ],
-  "pancotto": [
-    "pankɔtːo"
-  ],
-  "pancrazio": [
-    "pankratːsjo"
-  ],
-  "pancreas": [
-    "pankreas",
-    "paɲkreas"
-  ],
-  "pancreatica": [
-    "pankreatika"
-  ],
-  "pancreatiche": [
-    "pankreatike"
-  ],
-  "pancreatici": [
-    "pankreatiki",
-    "pankreatitʃi"
-  ],
-  "pancreatico": [
-    "pankreatiko"
-  ],
-  "pancreatite": [
-    "pankreatite"
-  ],
-  "panda": [
-    "panda"
-  ],
-  "pandeismi": [
-    "pandeizmi"
-  ],
-  "pandeismo": [
-    "pandeizmo"
-  ],
-  "pandeista": [
-    "pandeista"
-  ],
-  "pandeiste": [
-    "pandeiste"
-  ],
-  "pandeisti": [
-    "pandeisti"
-  ],
-  "pandemia": [
-    "pandemia"
-  ],
-  "pandemico": [
-    "pandɛmiko"
-  ],
-  "pandemie": [
-    "pandemie"
-  ],
-  "pandemonio": [
-    "pandemɔnjo"
-  ],
-  "pandemonismo": [
-    "pandemonizmo"
-  ],
-  "pandispagna": [
-    "pandispaɲɲa"
-  ],
-  "pandolo": [
-    "pandolo"
-  ],
-  "pandoro": [
-    "pandɔro"
-  ],
-  "pandura": [
-    "pandura"
-  ],
-  "pane": [
-    "pane"
-  ],
-  "panegirico": [
-    "panedʒiriko"
-  ],
-  "panegirista": [
-    "panedʒirista"
-  ],
-  "panegiriste": [
-    "panedʒiriste"
-  ],
-  "panegiristi": [
-    "panedʒiristi"
-  ],
-  "panellenico": [
-    "panelːɛniko"
-  ],
-  "panellenismo": [
-    "panelːenizmo"
-  ],
-  "panenteismo": [
-    "panentejzmo"
-  ],
-  "panerigista": [
-    "panedʒirista"
-  ],
-  "panettatrice": [
-    "panetːatritʃe"
-  ],
-  "panetteria": [
-    "panetːeria"
-  ],
-  "panetterie": [
-    "panetːerie"
-  ],
-  "panettiera": [
-    "panetːjɛra"
-  ],
-  "panettiere": [
-    "panetːjɛre"
-  ],
-  "panettieri": [
-    "panetːjɛri"
-  ],
-  "panettone": [
-    "panetːone"
-  ],
-  "panettoni": [
-    "panetːoni"
-  ],
-  "panfilo": [
-    "panfilo"
-  ],
-  "panforte": [
-    "panfɔrte"
-  ],
-  "panforti": [
-    "panfɔrti"
-  ],
-  "pangalattica": [
-    "panɡalatːika"
-  ],
-  "pangalattiche": [
-    "panɡalatːike"
-  ],
-  "pangalattici": [
-    "panɡalatːitʃi"
-  ],
-  "pangalattico": [
-    "panɡalatːiko"
-  ],
-  "pangenesi": [
-    "pandʒɛnezi"
-  ],
-  "pangiallo": [
-    "pandʒalːo"
-  ],
-  "pangolino": [
-    "panɡolino"
-  ],
-  "pani": [
-    "pani"
-  ],
-  "pania": [
-    "panja"
-  ],
-  "panico": [
-    "paniko"
-  ],
-  "paniere": [
-    "panjɛre"
-  ],
-  "panieri": [
-    "panjɛri"
-  ],
-  "panierino": [
-    "panjerino"
-  ],
-  "panificare": [
-    "panifikare"
-  ],
-  "panificatore": [
-    "panifikatore"
-  ],
-  "panificatori": [
-    "panifikatori"
-  ],
-  "panificatrice": [
-    "panifikatritʃe"
-  ],
-  "panificatrici": [
-    "panifikatritʃi"
-  ],
-  "panificazione": [
-    "panifikatsjone",
-    "panifikatːsjone"
-  ],
-  "panifici": [
-    "panifitʃi"
-  ],
-  "panificio": [
-    "panifitʃo"
-  ],
-  "paniforte": [
-    "panifɔrte"
-  ],
-  "paninaro": [
-    "paninaro"
-  ],
-  "panini": [
-    "panini"
-  ],
-  "panino": [
-    "panino"
-  ],
-  "paninoteca": [
-    "paninotɛka"
-  ],
-  "paninoteche": [
-    "paninotɛke"
-  ],
-  "paniscia": [
-    "paniʃʃa"
-  ],
-  "panislamico": [
-    "panizlamiko"
-  ],
-  "panismo": [
-    "panizmo"
-  ],
-  "panlogismo": [
-    "panlodʒizmo"
-  ],
-  "panna": [
-    "panːa"
-  ],
-  "panne": [
-    "pan",
-    "panːe"
-  ],
-  "pannegro": [
-    "panːeɡro"
-  ],
-  "pannelbagio": [
-    "panːelbadʒo"
-  ],
-  "pannello": [
-    "panːɛlːo"
-  ],
-  "pannicolo": [
-    "panːikolo"
-  ],
-  "panno": [
-    "panːo"
-  ],
-  "pannocchia": [
-    "panːɔkːja"
-  ],
-  "pannolenci": [
-    "panːolɛntʃi"
-  ],
-  "pannolini": [
-    "panːɔlini"
-  ],
-  "pannolino": [
-    "panːɔlino"
-  ],
-  "pannoniano": [
-    "panːonjano"
-  ],
-  "pannoso": [
-    "panːozo"
-  ],
-  "panoplia": [
-    "panɔplja"
-  ],
-  "panorama": [
-    "panorama"
-  ],
-  "panorami": [
-    "panorami"
-  ],
-  "panoramica": [
-    "panoramika"
-  ],
-  "panoramico": [
-    "panoramiko"
-  ],
-  "panorpidi": [
-    "panɔrpidi"
-  ],
-  "panpsichismo": [
-    "panpsikizmo"
-  ],
-  "pansessualismi": [
-    "pansesːualismi"
-  ],
-  "pansessualismo": [
-    "pansesːualismo"
-  ],
-  "pansindacalismo": [
-    "pansindakalizmo"
-  ],
-  "panslavismo": [
-    "panzlavizmo"
-  ],
-  "pantagruelico": [
-    "pantaɡruɛliko"
-  ],
-  "pantaloncino": [
-    "pantalontʃino"
-  ],
-  "pantalone": [
-    "pantalone"
-  ],
-  "pantaloni": [
-    "pantaloni"
-  ],
-  "pantano": [
-    "pantano"
-  ],
-  "pantedesco": [
-    "pantedesko"
-  ],
-  "pantegana": [
-    "panteɡana"
-  ],
-  "panteismi": [
-    "panteizmi"
-  ],
-  "panteismo": [
-    "panteizmo"
-  ],
-  "panteista": [
-    "panteista"
-  ],
-  "panteiste": [
-    "panteiste"
-  ],
-  "panteisti": [
-    "panteisti"
-  ],
-  "panteistico": [
-    "panteistiko"
-  ],
-  "pantera": [
-    "pantɛra"
-  ],
-  "pantesca": [
-    "panteska"
-  ],
-  "pantesche": [
-    "panteske"
-  ],
-  "panteschi": [
-    "panteski"
-  ],
-  "pantesco": [
-    "pantisko"
-  ],
-  "pantheon": [
-    "panteon"
-  ],
-  "pantoclastia": [
-    "pantoklastia"
-  ],
-  "pantoclastico": [
-    "pantoklastiko"
-  ],
-  "pantocratore": [
-    "pantokratore"
-  ],
-  "pantofobia": [
-    "pantofobia"
-  ],
-  "pantofola": [
-    "pantofola",
-    "pantɔfola"
-  ],
-  "pantofolaio": [
-    "pantofolajo"
-  ],
-  "pantofole": [
-    "pantofole"
-  ],
-  "pantografo": [
-    "pantɔɡrafo"
-  ],
-  "pantomima": [
-    "pantomima"
-  ],
-  "pantomimo": [
-    "pantomimo"
-  ],
-  "pantotenica": [
-    "pantotɛnike"
-  ],
-  "pantoteniche": [
-    "pantotɛnike"
-  ],
-  "pantotenici": [
-    "pantotɛnitʃi"
-  ],
-  "pantotenico": [
-    "pantotɛniko"
-  ],
-  "panunto": [
-    "panunto"
-  ],
-  "panza": [
-    "pantsa"
-  ],
-  "panzana": [
-    "pantsana"
-  ],
-  "panzerotto": [
-    "pantserɔtːo"
-  ],
-  "paolinismo": [
-    "paolinizmo"
-  ],
-  "paolino": [
-    "paolino"
-  ],
-  "paolo": [
-    "paolo"
-  ],
-  "paonazzo": [
-    "paonatːso"
-  ],
-  "papa": [
-    "papa"
-  ],
-  "papà": [
-    "papa"
-  ],
-  "papabile": [
-    "papabile"
-  ],
-  "papabili": [
-    "papabilei",
-    "papabili"
-  ],
-  "papale": [
-    "papale"
-  ],
-  "papali": [
-    "papali"
-  ],
-  "papalina": [
-    "papalina"
-  ],
-  "papalino": [
-    "papalino"
-  ],
-  "papamobile": [
-    "papamɔbile"
-  ],
-  "papamobili": [
-    "papamɔbili"
-  ],
-  "paparazza": [
-    "paparatːsa"
-  ],
-  "paparazzo": [
-    "paparatːso"
-  ],
-  "paparino": [
-    "paparino"
-  ],
-  "papato": [
-    "papato"
-  ],
-  "papaveri": [
-    "papaveri"
-  ],
-  "papavero": [
-    "papavero"
-  ],
-  "papera": [
-    "papera"
-  ],
-  "paperina": [
-    "paperina"
-  ],
-  "paperino": [
-    "paperino"
-  ],
-  "papero": [
-    "papero"
-  ],
-  "paperone": [
-    "paperone"
-  ],
-  "paperopolese": [
-    "paperopolese",
-    "paperopoleze"
-  ],
-  "paperopoli": [
-    "paperɔpoli"
-  ],
-  "papessa": [
-    "papesːa"
-  ],
-  "papesse": [
-    "papesːe"
-  ],
-  "papi": [
-    "papi"
-  ],
-  "papiamento": [
-    "papjamento"
-  ],
-  "papilionide": [
-    "papiljɔnide"
-  ],
-  "papilionidi": [
-    "papiljɔnidi"
-  ],
-  "papilla": [
-    "papilːa"
-  ],
-  "papille": [
-    "papilːe"
-  ],
-  "papilloma": [
-    "papilːoma",
-    "papilːɔma"
-  ],
-  "papillomi": [
-    "papilːomi"
-  ],
-  "papionidi": [
-    "papjɔnidi"
-  ],
-  "papiriforme": [
-    "papiriforme"
-  ],
-  "papiriformi": [
-    "papiriformi"
-  ],
-  "papiro": [
-    "papiro"
-  ],
-  "papirologia": [
-    "papirolodʒia"
-  ],
-  "papirologica": [
-    "papirolɔdʒika"
-  ],
-  "papirologiche": [
-    "papirolɔdʒike"
-  ],
-  "papirologici": [
-    "papirolɔdʒitʃi"
-  ],
-  "papirologico": [
-    "papirolɔdʒiko"
-  ],
-  "papismi": [
-    "papizmi"
-  ],
-  "papismo": [
-    "papizmo"
-  ],
-  "papista": [
-    "papista"
-  ],
-  "papiste": [
-    "papiste"
-  ],
-  "papisti": [
-    "papisti"
-  ],
-  "pappa": [
-    "papːa"
-  ],
-  "pappafico": [
-    "papːafiko"
-  ],
-  "pappagallare": [
-    "papːaɡalːare"
-  ],
-  "pappagallesco": [
-    "papːaɡalːesko"
-  ],
-  "pappagallessa": [
-    "papːaɡalːesːa"
-  ],
-  "pappagalli": [
-    "papːaɡalːi"
-  ],
-  "pappagallino": [
-    "papːaɡalːino"
-  ],
-  "pappagallo": [
-    "papːaɡalːo"
-  ],
-  "pappagorgia": [
-    "papːaɡɔrdʒa"
-  ],
-  "pappalardo": [
-    "papːalardo"
-  ],
-  "pappalecchi": [
-    "papːalekːi"
-  ],
-  "pappalecco": [
-    "papːalekːo"
-  ],
-  "pappardella": [
-    "papːardɛlːa"
-  ],
-  "pappataci": [
-    "papːatatʃi"
-  ],
-  "pappino": [
-    "papːino"
-  ],
-  "pappo": [
-    "papːo"
-  ],
-  "pappone": [
-    "papːone"
-  ],
-  "papuana": [
-    "papuana"
-  ],
-  "papuane": [
-    "papuane"
-  ],
-  "papuani": [
-    "papuani"
-  ],
-  "papuano": [
-    "papuano"
-  ],
-  "papuasa": [
-    "papuaza"
-  ],
-  "papuase": [
-    "papuaze"
-  ],
-  "papuasi": [
-    "papuazi"
-  ],
-  "papuasia": [
-    "papuazja"
-  ],
-  "papuaso": [
-    "papuazo"
-  ],
-  "papula": [
-    "papula"
-  ],
-  "para": [
-    "para"
-  ],
-  "parà": [
-    "para"
-  ],
-  "parabanico": [
-    "parabaniko"
-  ],
-  "parabile": [
-    "parabile"
-  ],
-  "parabili": [
-    "parabili"
-  ],
-  "parabola": [
-    "parabola"
-  ],
-  "parabolica": [
-    "parabɔlika"
-  ],
-  "parabolicamente": [
-    "parabolikamente",
-    "parabɔlikamente"
-  ],
-  "paraboliche": [
-    "parabɔlike"
-  ],
-  "parabolici": [
-    "parabɔlitʃi"
-  ],
-  "parabolico": [
-    "parabɔliko"
-  ],
-  "paraboloide": [
-    "parabolɔjde"
-  ],
-  "parabordo": [
-    "parabordo"
-  ],
-  "parabrezza": [
-    "parabredːza"
-  ],
-  "parabronco": [
-    "parabronko"
-  ],
-  "paracadutabile": [
-    "parakadutabile"
-  ],
-  "paracadutabili": [
-    "parakadutabili"
-  ],
-  "paracadutaggi": [
-    "parakadutadːʒi"
-  ],
-  "paracadutaggio": [
-    "parakadutadːʒo"
-  ],
-  "paracadutante": [
-    "parakadutante"
-  ],
-  "paracadutare": [
-    "parakadutare"
-  ],
-  "paracadutata": [
-    "parakadutata"
-  ],
-  "paracadutate": [
-    "parakadutate"
-  ],
-  "paracadutati": [
-    "parakadutati"
-  ],
-  "paracadutato": [
-    "parakadutato"
-  ],
-  "paracadute": [
-    "parakadute"
-  ],
-  "paracadutismi": [
-    "parakadutizmi"
-  ],
-  "paracadutismo": [
-    "parakadutizmo"
-  ],
-  "paracadutista": [
-    "parakadutista"
-  ],
-  "paracadutiste": [
-    "parakadutiste"
-  ],
-  "paracadutisti": [
-    "parakadutisti"
-  ],
-  "paracappacismo": [
-    "parakapːatʃizmo"
-  ],
-  "paracentesi": [
-    "paratʃentɛzi",
-    "paratʃɛntezi"
-  ],
-  "paracetamolo": [
-    "paratʃetamɔlo"
-  ],
-  "paraciclismi": [
-    "paratʃiklizmi"
-  ],
-  "paraciclismo": [
-    "paratʃiklizmo"
-  ],
-  "paraciclista": [
-    "paratʃiklista"
-  ],
-  "paracicliste": [
-    "paratʃikliste"
-  ],
-  "paraciclisti": [
-    "paratʃiklisti"
-  ],
-  "paraclasi": [
-    "paraklazi"
-  ],
-  "paraclito": [
-    "paraklito"
-  ],
-  "paraconsistente": [
-    "parakonsistɛnte"
-  ],
-  "paracqua": [
-    "parakːwa"
-  ],
-  "paracrino": [
-    "parakrino"
-  ],
-  "paraculo": [
-    "parakulo"
-  ],
-  "paradigma": [
-    "paradiɡma"
-  ],
-  "paradigmatica": [
-    "paradiɡmatika"
-  ],
-  "paradigmatiche": [
-    "paradiɡmatike"
-  ],
-  "paradigmatici": [
-    "paradiɡmatiki"
-  ],
-  "paradigmatico": [
-    "paradiɡmatiko"
-  ],
-  "paradigmi": [
-    "paradiɡmi"
-  ],
-  "paradisea": [
-    "paradizɛa"
-  ],
-  "paradiseide": [
-    "paradizɛjde"
-  ],
-  "paradiseidei": [
-    "paradizɛjdi"
-  ],
-  "paradiseidi": [
-    "paradizɛjdi"
-  ],
-  "paradisi": [
-    "paradizi"
-  ],
-  "paradisiaca": [
-    "paradiziaka"
-  ],
-  "paradisiache": [
-    "paradiziake"
-  ],
-  "paradisiaci": [
-    "paradiziatʃi"
-  ],
-  "paradisiaco": [
-    "paradiziako"
-  ],
-  "paradiso": [
-    "paradizo"
-  ],
-  "paradontale": [
-    "paradontale"
-  ],
-  "paradontite": [
-    "paradontite"
-  ],
-  "paradontologia": [
-    "paradontolodʒia"
-  ],
-  "paradossale": [
-    "paradosːale"
-  ],
-  "paradossalmente": [
-    "kompetitivita"
-  ],
-  "paradossastico": [
-    "paradosːastiko"
-  ],
-  "paradossi": [
-    "paradɔsːi"
-  ],
-  "paradosso": [
-    "paradɔsːo"
-  ],
-  "parafanghi": [
-    "parafanɡi"
-  ],
-  "parafango": [
-    "parafanɡo",
-    "parafaɲɡo"
-  ],
-  "parafare": [
-    "parafare"
-  ],
-  "parafasia": [
-    "parafazia"
-  ],
-  "parafernale": [
-    "parafernale"
-  ],
-  "paraffinico": [
-    "parafːiniko"
-  ],
-  "parafonia": [
-    "parafonia"
-  ],
-  "parafrasabile": [
-    "parafrazabile"
-  ],
-  "parafrasabili": [
-    "parafrazabili"
-  ],
-  "parafrasare": [
-    "parafrazare"
-  ],
-  "parafrasi": [
-    "parafrazi"
-  ],
-  "parafulmine": [
-    "parafulmine"
-  ],
-  "parafulmini": [
-    "parafulmini"
-  ],
-  "paragammacismo": [
-    "paraɡamːatʃizmo"
-  ],
-  "paraggio": [
-    "paradːʒo"
-  ],
-  "parago": [
-    "paraɡo"
-  ],
-  "paragoge": [
-    "paraɡɔdʒe"
-  ],
-  "paragonabile": [
-    "paraɡonabile"
-  ],
-  "paragonabili": [
-    "paraɡonabili"
-  ],
-  "paragonante": [
-    "paraɡonante"
-  ],
-  "paragonare": [
-    "paraɡonare"
-  ],
-  "paragonarsi": [
-    "paraɡonarsi"
-  ],
-  "paragonato": [
-    "paraɡonato"
-  ],
-  "paragone": [
-    "paraɡone"
-  ],
-  "paragoni": [
-    "paraɡoni"
-  ],
-  "paragrafare": [
-    "paraɡrafare"
-  ],
-  "paragrafi": [
-    "paraɡrafi"
-  ],
-  "paragrafo": [
-    "paraɡrafo"
-  ],
-  "paraguaiana": [
-    "paraɡwajana"
-  ],
-  "paraguaiane": [
-    "paraɡwajane"
-  ],
-  "paraguaiani": [
-    "paraɡwajani"
-  ],
-  "paraguaiano": [
-    "paraɡwajano"
-  ],
-  "paraguayana": [
-    "paraɡwajana"
-  ],
-  "paraguayane": [
-    "paraɡwajane"
-  ],
-  "paraguayani": [
-    "paraɡwajani"
-  ],
-  "paraguayano": [
-    "paraɡwajano"
-  ],
-  "paralambdacismo": [
-    "paralambdatʃizmo"
-  ],
-  "paralinguistico": [
-    "paralinɡwistiko"
-  ],
-  "paralisi": [
-    "paralizi"
-  ],
-  "paralitico": [
-    "paralitiko"
-  ],
-  "paralizzante": [
-    "paralidːzante"
-  ],
-  "paralizzanti": [
-    "paralidːzanti"
-  ],
-  "paralizzare": [
-    "paralidːzare"
-  ],
-  "paralizzato": [
-    "paralidːzato"
-  ],
-  "parallasse": [
-    "paralːasːe"
-  ],
-  "parallela": [
-    "paralːɛla"
-  ],
-  "parallelamente": [
-    "paralːelamente"
-  ],
-  "parallele": [
-    "paralːele",
-    "paralːɛle"
-  ],
-  "parallelepipedo": [
-    "paralːelepipedo"
-  ],
-  "paralleli": [
-    "paralːɛli"
-  ],
-  "parallelismo": [
-    "paralːelizmo"
-  ],
-  "parallellismo": [
-    "paralːelizmo"
-  ],
-  "parallelo": [
-    "paralːɛlo",
-    "paralːɛlɔ"
-  ],
-  "paralume": [
-    "paralume"
-  ],
-  "paramagnetica": [
-    "paramaɲɲɛtika"
-  ],
-  "paramagnetiche": [
-    "paramaɲɲɛtike"
-  ],
-  "paramagnetici": [
-    "paramaɲɲɛtitʃi"
-  ],
-  "paramagnetico": [
-    "paramaɲɲɛtiko"
-  ],
-  "paramagnetismo": [
-    "paramaɲɲetizmo"
-  ],
-  "paramecio": [
-    "paramɛtʃo"
-  ],
-  "paramedico": [
-    "paramɛdiko"
-  ],
-  "paramenti": [
-    "paramenti"
-  ],
-  "paramento": [
-    "paramento"
-  ],
-  "parametrabile": [
-    "parametrabile"
-  ],
-  "parametrabili": [
-    "parametrabili"
-  ],
-  "parametrico": [
-    "paramɛtriko"
-  ],
-  "parametrizzante": [
-    "parametridːzante"
-  ],
-  "parametrizzare": [
-    "parametridːzare"
-  ],
-  "parametrizzato": [
-    "parametridːzato"
-  ],
-  "parametro": [
-    "parametro"
-  ],
-  "paramilitare": [
-    "paramilitare"
-  ],
-  "paramotorista": [
-    "paramotorist"
-  ],
-  "paramotoriste": [
-    "paramotoriste"
-  ],
-  "paramotoristi": [
-    "paramotoristi"
-  ],
-  "parancare": [
-    "parankare"
-  ],
-  "paranchi": [
-    "paranki"
-  ],
-  "paranco": [
-    "paranko"
-  ],
-  "paranefrio": [
-    "paranɛfrjo"
-  ],
-  "paraneoplastico": [
-    "paraneoplastiko"
-  ],
-  "paraneotteri": [
-    "paranɛɔtːeri"
-  ],
-  "paraneottero": [
-    "paranɛɔtːero"
-  ],
-  "paraninfo": [
-    "paraninfo"
-  ],
-  "paranoia": [
-    "paranɔja"
-  ],
-  "paranoico": [
-    "paranɔiko"
-  ],
-  "paranoide": [
-    "paranɔjde"
-  ],
-  "paranoie": [
-    "paranɔje"
-  ],
-  "paranormale": [
-    "paranormale"
-  ],
-  "paranormali": [
-    "paranormali"
-  ],
-  "paranormalità": [
-    "paranormalita"
-  ],
-  "parantropo": [
-    "parantropo"
-  ],
-  "paraocchi": [
-    "paraɔkːi"
-  ],
-  "paraonde": [
-    "paraonde"
-  ],
-  "parapatrico": [
-    "parapatriko"
-  ],
-  "parapendista": [
-    "parapendista"
-  ],
-  "parapendiste": [
-    "parapendiste"
-  ],
-  "parapendisti": [
-    "parapendisti"
-  ],
-  "parapetti": [
-    "parapɛtːi"
-  ],
-  "parapetto": [
-    "parapɛtːo"
-  ],
-  "parapiglia": [
-    "parapiʎa"
-  ],
-  "paraplegia": [
-    "parapledʒia"
-  ],
-  "paraplegica": [
-    "paraplɛdʒika"
-  ],
-  "paraplegiche": [
-    "paraplɛdʒike"
-  ],
-  "paraplegici": [
-    "paraplɛdʒitʃi"
-  ],
-  "paraplegico": [
-    "paraplɛdʒiko"
-  ],
-  "paraplegie": [
-    "parapledʒie"
-  ],
-  "parapsicologia": [
-    "parapsikolodʒia"
-  ],
-  "parare": [
-    "parare"
-  ],
-  "parasceve": [
-    "paraʃʃɛve"
-  ],
-  "parassita": [
-    "parasːita"
-  ],
-  "parassitante": [
-    "parasːitante"
-  ],
-  "parassitare": [
-    "parasːitare"
-  ],
-  "parassitari": [
-    "parasːitari"
-  ],
-  "parassitaria": [
-    "parasːitarja"
-  ],
-  "parassitariamente": [
-    "parasːitarjamente"
-  ],
-  "parassitarie": [
-    "parasːitarje"
-  ],
-  "parassitarii": [
-    "parasːitarji"
-  ],
-  "parassitario": [
-    "parasːitarjo"
-  ],
-  "parassitato": [
-    "parasːitato"
-  ],
-  "parassite": [
-    "parasːite"
-  ],
-  "parassiti": [
-    "parasːiti"
-  ],
-  "parassitica": [
-    "parasːitika"
-  ],
-  "parassiticamente": [
-    "parasːitikamente"
-  ],
-  "parassitiche": [
-    "parasːitike"
-  ],
-  "parassitici": [
-    "parasːititʃi"
-  ],
-  "parassiticida": [
-    "parasːititʃida"
-  ],
-  "parassiticide": [
-    "parasːititʃida"
-  ],
-  "parassiticidi": [
-    "parasːititʃidi"
-  ],
-  "parassitico": [
-    "parasːitiko"
-  ],
-  "parassitismi": [
-    "parasːitizmi"
-  ],
-  "parassitismo": [
-    "parasːitizmo"
-  ],
-  "parassitoide": [
-    "parasːitoide"
-  ],
-  "parassitoidi": [
-    "parasːitoidi"
-  ],
-  "parassitologa": [
-    "parasːitɔloɡa"
-  ],
-  "parassitologhe": [
-    "parasːitɔloɡe"
-  ],
-  "parassitologi": [
-    "parasːitɔlodʒi"
-  ],
-  "parassitologia": [
-    "parasːitolodʒia"
-  ],
-  "parassitologica": [
-    "parasːitolɔdʒika"
-  ],
-  "parassitologiche": [
-    "parasːitolɔdʒike"
-  ],
-  "parassitologici": [
-    "parasːitolɔdʒitʃi"
-  ],
-  "parassitologico": [
-    "parasːitolɔdʒiko"
-  ],
-  "parassitologie": [
-    "parasːitolodʒie"
-  ],
-  "parassitologo": [
-    "parasːitɔloɡo"
-  ],
-  "parassitosi": [
-    "parasːitosi"
-  ],
-  "parastico": [
-    "parastiko"
-  ],
-  "parata": [
-    "parata"
-  ],
-  "paratassi": [
-    "paratasːi"
-  ],
-  "parate": [
-    "parate"
-  ],
-  "paratia": [
-    "paratia"
-  ],
-  "paratifo": [
-    "paratifo"
-  ],
-  "paratiroide": [
-    "paratirɔjde"
-  ],
-  "paratiroidectomia": [
-    "paratirojdektomia"
-  ],
-  "parato": [
-    "parato"
-  ],
-  "paraurti": [
-    "paraurti"
-  ],
-  "paravenosa": [
-    "paravenosa"
-  ],
-  "paravenose": [
-    "paravenose"
-  ],
-  "paravenosi": [
-    "paravenosi"
-  ],
-  "paravenoso": [
-    "paravenoso"
-  ],
-  "paravento": [
-    "paravɛnto"
-  ],
-  "paravertebrale": [
-    "paravertebrale"
-  ],
-  "paravertebrali": [
-    "paravertebrali"
-  ],
-  "parca": [
-    "parka"
-  ],
-  "parcamente": [
-    "parkamente"
-  ],
-  "parcella": [
-    "partʃɛlːa"
-  ],
-  "parcellizzare": [
-    "partʃelːidːzare"
-  ],
-  "parcellizzato": [
-    "partʃelːidːzato"
-  ],
-  "parcellizzazione": [
-    "partʃelːidːzatːsjone"
-  ],
-  "parche": [
-    "parke"
-  ],
-  "parcheggerà": [
-    "parkedːʒera"
-  ],
-  "parcheggerai": [
-    "parkedːʒerai"
-  ],
-  "parcheggeranno": [
-    "parkedːʒeranːo"
-  ],
-  "parcheggerebbe": [
-    "parkedːʒerebːe"
-  ],
-  "parcheggerebbero": [
-    "parkedːʒerebːero"
-  ],
-  "parcheggerei": [
-    "parkedːʒerei"
-  ],
-  "parcheggeremmo": [
-    "parkedːʒeremːo"
-  ],
-  "parcheggeremo": [
-    "parkedːʒeremo"
-  ],
-  "parcheggereste": [
-    "parkedːʒereste"
-  ],
-  "parcheggeresti": [
-    "parkedːʒeresti"
-  ],
-  "parcheggerete": [
-    "parkedːʒerete"
-  ],
-  "parcheggerò": [
-    "parkedːʒero"
-  ],
-  "parcheggi": [
-    "parkedːʒi"
-  ],
-  "parcheggia": [
-    "parkedːʒa"
-  ],
-  "parcheggiabile": [
-    "parkedːʒabile"
-  ],
-  "parcheggiabili": [
-    "parkedːʒabili"
-  ],
-  "parcheggiai": [
-    "parkedːʒai"
-  ],
-  "parcheggiammo": [
-    "parkedːʒamːo"
-  ],
-  "parcheggiamo": [
-    "parkedːʒjamo"
-  ],
-  "parcheggiando": [
-    "parkedːʒando"
-  ],
-  "parcheggiano": [
-    "parkedːʒano"
-  ],
-  "parcheggiante": [
-    "parkedːʒante"
-  ],
-  "parcheggiare": [
-    "parkedːʒare"
-  ],
-  "parcheggiarono": [
-    "parkedːʒarono"
-  ],
-  "parcheggiasse": [
-    "parkedːʒasːe"
-  ],
-  "parcheggiassero": [
-    "parkedːʒasːero"
-  ],
-  "parcheggiassi": [
-    "parkedːʒasːe"
-  ],
-  "parcheggiassimo": [
-    "parkedːʒasːimo"
-  ],
-  "parcheggiaste": [
-    "parkedːʒaste"
-  ],
-  "parcheggiasti": [
-    "parkedːʒasti"
-  ],
-  "parcheggiata": [
-    "parkedːʒata"
-  ],
-  "parcheggiate": [
-    "parkedːʒate"
-  ],
-  "parcheggiati": [
-    "parkedːʒati"
-  ],
-  "parcheggiato": [
-    "parkedːʒato"
-  ],
-  "parcheggiava": [
-    "parkedːʒava"
-  ],
-  "parcheggiavamo": [
-    "parkedːʒavamo"
-  ],
-  "parcheggiavano": [
-    "parkedːʒavano"
-  ],
-  "parcheggiavate": [
-    "parkedːʒavate"
-  ],
-  "parcheggiavi": [
-    "parkedːʒavi"
-  ],
-  "parcheggiavo": [
-    "parkedːʒavo"
-  ]
+  "panchetta": "panketːa",
+  "panchina": "paɲkina",
+  "panchine": "paɲkine",
+  "pancia": "pantʃa",
+  "pancianera": "pantʃanera",
+  "pancie": "pantʃe",
+  "pancione": "pantʃone",
+  "panciotti": "pantʃɔtːi",
+  "panciotto": "pantʃɔtːo",
+  "panciuto": "pantʃuto",
+  "pancosmismo": "pankozmizmo",
+  "pancotto": "pankɔtːo",
+  "pancrazio": "pankratːsjo",
+  "pancreas": "pankreas",
+  "pancreas_2": "paɲkreas",
+  "pancreatica": "pankreatika",
+  "pancreatiche": "pankreatike",
+  "pancreatici": "pankreatiki",
+  "pancreatici_2": "pankreatitʃi",
+  "pancreatico": "pankreatiko",
+  "pancreatite": "pankreatite",
+  "panda": "panda",
+  "pandeismi": "pandeizmi",
+  "pandeismo": "pandeizmo",
+  "pandeista": "pandeista",
+  "pandeiste": "pandeiste",
+  "pandeisti": "pandeisti",
+  "pandemia": "pandemia",
+  "pandemico": "pandɛmiko",
+  "pandemie": "pandemie",
+  "pandemonio": "pandemɔnjo",
+  "pandemonismo": "pandemonizmo",
+  "pandispagna": "pandispaɲɲa",
+  "pandolo": "pandolo",
+  "pandoro": "pandɔro",
+  "pandura": "pandura",
+  "pane": "pane",
+  "panegirico": "panedʒiriko",
+  "panegirista": "panedʒirista",
+  "panegiriste": "panedʒiriste",
+  "panegiristi": "panedʒiristi",
+  "panellenico": "panelːɛniko",
+  "panellenismo": "panelːenizmo",
+  "panenteismo": "panentejzmo",
+  "panerigista": "panedʒirista",
+  "panettatrice": "panetːatritʃe",
+  "panetteria": "panetːeria",
+  "panetterie": "panetːerie",
+  "panettiera": "panetːjɛra",
+  "panettiere": "panetːjɛre",
+  "panettieri": "panetːjɛri",
+  "panettone": "panetːone",
+  "panettoni": "panetːoni",
+  "panfilo": "panfilo",
+  "panforte": "panfɔrte",
+  "panforti": "panfɔrti",
+  "pangalattica": "panɡalatːika",
+  "pangalattiche": "panɡalatːike",
+  "pangalattici": "panɡalatːitʃi",
+  "pangalattico": "panɡalatːiko",
+  "pangenesi": "pandʒɛnezi",
+  "pangiallo": "pandʒalːo",
+  "pangolino": "panɡolino",
+  "pani": "pani",
+  "pania": "panja",
+  "panico": "paniko",
+  "paniere": "panjɛre",
+  "panieri": "panjɛri",
+  "panierino": "panjerino",
+  "panificare": "panifikare",
+  "panificatore": "panifikatore",
+  "panificatori": "panifikatori",
+  "panificatrice": "panifikatritʃe",
+  "panificatrici": "panifikatritʃi",
+  "panificazione": "panifikatsjone",
+  "panificazione_2": "panifikatːsjone",
+  "panifici": "panifitʃi",
+  "panificio": "panifitʃo",
+  "paniforte": "panifɔrte",
+  "paninaro": "paninaro",
+  "panini": "panini",
+  "panino": "panino",
+  "paninoteca": "paninotɛka",
+  "paninoteche": "paninotɛke",
+  "paniscia": "paniʃʃa",
+  "panislamico": "panizlamiko",
+  "panismo": "panizmo",
+  "panlogismo": "panlodʒizmo",
+  "panna": "panːa",
+  "panne": "pan",
+  "panne_2": "panːe",
+  "pannegro": "panːeɡro",
+  "pannelbagio": "panːelbadʒo",
+  "pannello": "panːɛlːo",
+  "pannicolo": "panːikolo",
+  "panno": "panːo",
+  "pannocchia": "panːɔkːja",
+  "pannolenci": "panːolɛntʃi",
+  "pannolini": "panːɔlini",
+  "pannolino": "panːɔlino",
+  "pannoniano": "panːonjano",
+  "pannoso": "panːozo",
+  "panoplia": "panɔplja",
+  "panorama": "panorama",
+  "panorami": "panorami",
+  "panoramica": "panoramika",
+  "panoramico": "panoramiko",
+  "panorpidi": "panɔrpidi",
+  "panpsichismo": "panpsikizmo",
+  "pansessualismi": "pansesːualismi",
+  "pansessualismo": "pansesːualismo",
+  "pansindacalismo": "pansindakalizmo",
+  "panslavismo": "panzlavizmo",
+  "pantagruelico": "pantaɡruɛliko",
+  "pantaloncino": "pantalontʃino",
+  "pantalone": "pantalone",
+  "pantaloni": "pantaloni",
+  "pantano": "pantano",
+  "pantedesco": "pantedesko",
+  "pantegana": "panteɡana",
+  "panteismi": "panteizmi",
+  "panteismo": "panteizmo",
+  "panteista": "panteista",
+  "panteiste": "panteiste",
+  "panteisti": "panteisti",
+  "panteistico": "panteistiko",
+  "pantera": "pantɛra",
+  "pantesca": "panteska",
+  "pantesche": "panteske",
+  "panteschi": "panteski",
+  "pantesco": "pantisko",
+  "pantheon": "panteon",
+  "pantoclastia": "pantoklastia",
+  "pantoclastico": "pantoklastiko",
+  "pantocratore": "pantokratore",
+  "pantofobia": "pantofobia",
+  "pantofola": "pantofola",
+  "pantofola_2": "pantɔfola",
+  "pantofolaio": "pantofolajo",
+  "pantofole": "pantofole",
+  "pantografo": "pantɔɡrafo",
+  "pantomima": "pantomima",
+  "pantomimo": "pantomimo",
+  "pantotenica": "pantotɛnike",
+  "pantoteniche": "pantotɛnike",
+  "pantotenici": "pantotɛnitʃi",
+  "pantotenico": "pantotɛniko",
+  "panunto": "panunto",
+  "panza": "pantsa",
+  "panzana": "pantsana",
+  "panzerotto": "pantserɔtːo",
+  "paolinismo": "paolinizmo",
+  "paolino": "paolino",
+  "paolo": "paolo",
+  "paonazzo": "paonatːso",
+  "papa": "papa",
+  "papà": "papa",
+  "papabile": "papabile",
+  "papabili": "papabilei",
+  "papabili_2": "papabili",
+  "papale": "papale",
+  "papali": "papali",
+  "papalina": "papalina",
+  "papalino": "papalino",
+  "papamobile": "papamɔbile",
+  "papamobili": "papamɔbili",
+  "paparazza": "paparatːsa",
+  "paparazzo": "paparatːso",
+  "paparino": "paparino",
+  "papato": "papato",
+  "papaveri": "papaveri",
+  "papavero": "papavero",
+  "papera": "papera",
+  "paperina": "paperina",
+  "paperino": "paperino",
+  "papero": "papero",
+  "paperone": "paperone",
+  "paperopolese": "paperopolese",
+  "paperopolese_2": "paperopoleze",
+  "paperopoli": "paperɔpoli",
+  "papessa": "papesːa",
+  "papesse": "papesːe",
+  "papi": "papi",
+  "papiamento": "papjamento",
+  "papilionide": "papiljɔnide",
+  "papilionidi": "papiljɔnidi",
+  "papilla": "papilːa",
+  "papille": "papilːe",
+  "papilloma": "papilːoma",
+  "papilloma_2": "papilːɔma",
+  "papillomi": "papilːomi",
+  "papionidi": "papjɔnidi",
+  "papiriforme": "papiriforme",
+  "papiriformi": "papiriformi",
+  "papiro": "papiro",
+  "papirologia": "papirolodʒia",
+  "papirologica": "papirolɔdʒika",
+  "papirologiche": "papirolɔdʒike",
+  "papirologici": "papirolɔdʒitʃi",
+  "papirologico": "papirolɔdʒiko",
+  "papismi": "papizmi",
+  "papismo": "papizmo",
+  "papista": "papista",
+  "papiste": "papiste",
+  "papisti": "papisti",
+  "pappa": "papːa",
+  "pappafico": "papːafiko",
+  "pappagallare": "papːaɡalːare",
+  "pappagallesco": "papːaɡalːesko",
+  "pappagallessa": "papːaɡalːesːa",
+  "pappagalli": "papːaɡalːi",
+  "pappagallino": "papːaɡalːino",
+  "pappagallo": "papːaɡalːo",
+  "pappagorgia": "papːaɡɔrdʒa",
+  "pappalardo": "papːalardo",
+  "pappalecchi": "papːalekːi",
+  "pappalecco": "papːalekːo",
+  "pappardella": "papːardɛlːa",
+  "pappataci": "papːatatʃi",
+  "pappino": "papːino",
+  "pappo": "papːo",
+  "pappone": "papːone",
+  "papuana": "papuana",
+  "papuane": "papuane",
+  "papuani": "papuani",
+  "papuano": "papuano",
+  "papuasa": "papuaza",
+  "papuase": "papuaze",
+  "papuasi": "papuazi",
+  "papuasia": "papuazja",
+  "papuaso": "papuazo",
+  "papula": "papula",
+  "para": "para",
+  "parà": "para",
+  "parabanico": "parabaniko",
+  "parabile": "parabile",
+  "parabili": "parabili",
+  "parabola": "parabola",
+  "parabolica": "parabɔlika",
+  "parabolicamente": "parabolikamente",
+  "parabolicamente_2": "parabɔlikamente",
+  "paraboliche": "parabɔlike",
+  "parabolici": "parabɔlitʃi",
+  "parabolico": "parabɔliko",
+  "paraboloide": "parabolɔjde",
+  "parabordo": "parabordo",
+  "parabrezza": "parabredːza",
+  "parabronco": "parabronko",
+  "paracadutabile": "parakadutabile",
+  "paracadutabili": "parakadutabili",
+  "paracadutaggi": "parakadutadːʒi",
+  "paracadutaggio": "parakadutadːʒo",
+  "paracadutante": "parakadutante",
+  "paracadutare": "parakadutare",
+  "paracadutata": "parakadutata",
+  "paracadutate": "parakadutate",
+  "paracadutati": "parakadutati",
+  "paracadutato": "parakadutato",
+  "paracadute": "parakadute",
+  "paracadutismi": "parakadutizmi",
+  "paracadutismo": "parakadutizmo",
+  "paracadutista": "parakadutista",
+  "paracadutiste": "parakadutiste",
+  "paracadutisti": "parakadutisti",
+  "paracappacismo": "parakapːatʃizmo",
+  "paracentesi": "paratʃentɛzi",
+  "paracentesi_2": "paratʃɛntezi",
+  "paracetamolo": "paratʃetamɔlo",
+  "paraciclismi": "paratʃiklizmi",
+  "paraciclismo": "paratʃiklizmo",
+  "paraciclista": "paratʃiklista",
+  "paracicliste": "paratʃikliste",
+  "paraciclisti": "paratʃiklisti",
+  "paraclasi": "paraklazi",
+  "paraclito": "paraklito",
+  "paraconsistente": "parakonsistɛnte",
+  "paracqua": "parakːwa",
+  "paracrino": "parakrino",
+  "paraculo": "parakulo",
+  "paradigma": "paradiɡma",
+  "paradigmatica": "paradiɡmatika",
+  "paradigmatiche": "paradiɡmatike",
+  "paradigmatici": "paradiɡmatiki",
+  "paradigmatico": "paradiɡmatiko",
+  "paradigmi": "paradiɡmi",
+  "paradisea": "paradizɛa",
+  "paradiseide": "paradizɛjde",
+  "paradiseidei": "paradizɛjdi",
+  "paradiseidi": "paradizɛjdi",
+  "paradisi": "paradizi",
+  "paradisiaca": "paradiziaka",
+  "paradisiache": "paradiziake",
+  "paradisiaci": "paradiziatʃi",
+  "paradisiaco": "paradiziako",
+  "paradiso": "paradizo",
+  "paradontale": "paradontale",
+  "paradontite": "paradontite",
+  "paradontologia": "paradontolodʒia",
+  "paradossale": "paradosːale",
+  "paradossalmente": "kompetitivita",
+  "paradossastico": "paradosːastiko",
+  "paradossi": "paradɔsːi",
+  "paradosso": "paradɔsːo",
+  "parafanghi": "parafanɡi",
+  "parafango": "parafanɡo",
+  "parafango_2": "parafaɲɡo",
+  "parafare": "parafare",
+  "parafasia": "parafazia",
+  "parafernale": "parafernale",
+  "paraffinico": "parafːiniko",
+  "parafonia": "parafonia",
+  "parafrasabile": "parafrazabile",
+  "parafrasabili": "parafrazabili",
+  "parafrasare": "parafrazare",
+  "parafrasi": "parafrazi",
+  "parafulmine": "parafulmine",
+  "parafulmini": "parafulmini",
+  "paragammacismo": "paraɡamːatʃizmo",
+  "paraggio": "paradːʒo",
+  "parago": "paraɡo",
+  "paragoge": "paraɡɔdʒe",
+  "paragonabile": "paraɡonabile",
+  "paragonabili": "paraɡonabili",
+  "paragonante": "paraɡonante",
+  "paragonare": "paraɡonare",
+  "paragonarsi": "paraɡonarsi",
+  "paragonato": "paraɡonato",
+  "paragone": "paraɡone",
+  "paragoni": "paraɡoni",
+  "paragrafare": "paraɡrafare",
+  "paragrafi": "paraɡrafi",
+  "paragrafo": "paraɡrafo",
+  "paraguaiana": "paraɡwajana",
+  "paraguaiane": "paraɡwajane",
+  "paraguaiani": "paraɡwajani",
+  "paraguaiano": "paraɡwajano",
+  "paraguayana": "paraɡwajana",
+  "paraguayane": "paraɡwajane",
+  "paraguayani": "paraɡwajani",
+  "paraguayano": "paraɡwajano",
+  "paralambdacismo": "paralambdatʃizmo",
+  "paralinguistico": "paralinɡwistiko",
+  "paralisi": "paralizi",
+  "paralitico": "paralitiko",
+  "paralizzante": "paralidːzante",
+  "paralizzanti": "paralidːzanti",
+  "paralizzare": "paralidːzare",
+  "paralizzato": "paralidːzato",
+  "parallasse": "paralːasːe",
+  "parallela": "paralːɛla",
+  "parallelamente": "paralːelamente",
+  "parallele": "paralːele",
+  "parallele_2": "paralːɛle",
+  "parallelepipedo": "paralːelepipedo",
+  "paralleli": "paralːɛli",
+  "parallelismo": "paralːelizmo",
+  "parallellismo": "paralːelizmo",
+  "parallelo": "paralːɛlo",
+  "parallelo_2": "paralːɛlɔ",
+  "paralume": "paralume",
+  "paramagnetica": "paramaɲɲɛtika",
+  "paramagnetiche": "paramaɲɲɛtike",
+  "paramagnetici": "paramaɲɲɛtitʃi",
+  "paramagnetico": "paramaɲɲɛtiko",
+  "paramagnetismo": "paramaɲɲetizmo",
+  "paramecio": "paramɛtʃo",
+  "paramedico": "paramɛdiko",
+  "paramenti": "paramenti",
+  "paramento": "paramento",
+  "parametrabile": "parametrabile",
+  "parametrabili": "parametrabili",
+  "parametrico": "paramɛtriko",
+  "parametrizzante": "parametridːzante",
+  "parametrizzare": "parametridːzare",
+  "parametrizzato": "parametridːzato",
+  "parametro": "parametro",
+  "paramilitare": "paramilitare",
+  "paramotorista": "paramotorist",
+  "paramotoriste": "paramotoriste",
+  "paramotoristi": "paramotoristi",
+  "parancare": "parankare",
+  "paranchi": "paranki",
+  "paranco": "paranko",
+  "paranefrio": "paranɛfrjo",
+  "paraneoplastico": "paraneoplastiko",
+  "paraneotteri": "paranɛɔtːeri",
+  "paraneottero": "paranɛɔtːero",
+  "paraninfo": "paraninfo",
+  "paranoia": "paranɔja",
+  "paranoico": "paranɔiko",
+  "paranoide": "paranɔjde",
+  "paranoie": "paranɔje",
+  "paranormale": "paranormale",
+  "paranormali": "paranormali",
+  "paranormalità": "paranormalita",
+  "parantropo": "parantropo",
+  "paraocchi": "paraɔkːi",
+  "paraonde": "paraonde",
+  "parapatrico": "parapatriko",
+  "parapendista": "parapendista",
+  "parapendiste": "parapendiste",
+  "parapendisti": "parapendisti",
+  "parapetti": "parapɛtːi",
+  "parapetto": "parapɛtːo",
+  "parapiglia": "parapiʎa",
+  "paraplegia": "parapledʒia",
+  "paraplegica": "paraplɛdʒika",
+  "paraplegiche": "paraplɛdʒike",
+  "paraplegici": "paraplɛdʒitʃi",
+  "paraplegico": "paraplɛdʒiko",
+  "paraplegie": "parapledʒie",
+  "parapsicologia": "parapsikolodʒia",
+  "parare": "parare",
+  "parasceve": "paraʃʃɛve",
+  "parassita": "parasːita",
+  "parassitante": "parasːitante",
+  "parassitare": "parasːitare",
+  "parassitari": "parasːitari",
+  "parassitaria": "parasːitarja",
+  "parassitariamente": "parasːitarjamente",
+  "parassitarie": "parasːitarje",
+  "parassitarii": "parasːitarji",
+  "parassitario": "parasːitarjo",
+  "parassitato": "parasːitato",
+  "parassite": "parasːite",
+  "parassiti": "parasːiti",
+  "parassitica": "parasːitika",
+  "parassiticamente": "parasːitikamente",
+  "parassitiche": "parasːitike",
+  "parassitici": "parasːititʃi",
+  "parassiticida": "parasːititʃida",
+  "parassiticide": "parasːititʃida",
+  "parassiticidi": "parasːititʃidi",
+  "parassitico": "parasːitiko",
+  "parassitismi": "parasːitizmi",
+  "parassitismo": "parasːitizmo",
+  "parassitoide": "parasːitoide",
+  "parassitoidi": "parasːitoidi",
+  "parassitologa": "parasːitɔloɡa",
+  "parassitologhe": "parasːitɔloɡe",
+  "parassitologi": "parasːitɔlodʒi",
+  "parassitologia": "parasːitolodʒia",
+  "parassitologica": "parasːitolɔdʒika",
+  "parassitologiche": "parasːitolɔdʒike",
+  "parassitologici": "parasːitolɔdʒitʃi",
+  "parassitologico": "parasːitolɔdʒiko",
+  "parassitologie": "parasːitolodʒie",
+  "parassitologo": "parasːitɔloɡo",
+  "parassitosi": "parasːitosi",
+  "parastico": "parastiko",
+  "parata": "parata",
+  "paratassi": "paratasːi",
+  "parate": "parate",
+  "paratia": "paratia",
+  "paratifo": "paratifo",
+  "paratiroide": "paratirɔjde",
+  "paratiroidectomia": "paratirojdektomia",
+  "parato": "parato",
+  "paraurti": "paraurti",
+  "paravenosa": "paravenosa",
+  "paravenose": "paravenose",
+  "paravenosi": "paravenosi",
+  "paravenoso": "paravenoso",
+  "paravento": "paravɛnto",
+  "paravertebrale": "paravertebrale",
+  "paravertebrali": "paravertebrali",
+  "parca": "parka",
+  "parcamente": "parkamente",
+  "parcella": "partʃɛlːa",
+  "parcellizzare": "partʃelːidːzare",
+  "parcellizzato": "partʃelːidːzato",
+  "parcellizzazione": "partʃelːidːzatːsjone",
+  "parche": "parke",
+  "parcheggerà": "parkedːʒera",
+  "parcheggerai": "parkedːʒerai",
+  "parcheggeranno": "parkedːʒeranːo",
+  "parcheggerebbe": "parkedːʒerebːe",
+  "parcheggerebbero": "parkedːʒerebːero",
+  "parcheggerei": "parkedːʒerei",
+  "parcheggeremmo": "parkedːʒeremːo",
+  "parcheggeremo": "parkedːʒeremo",
+  "parcheggereste": "parkedːʒereste",
+  "parcheggeresti": "parkedːʒeresti",
+  "parcheggerete": "parkedːʒerete",
+  "parcheggerò": "parkedːʒero",
+  "parcheggi": "parkedːʒi",
+  "parcheggia": "parkedːʒa",
+  "parcheggiabile": "parkedːʒabile",
+  "parcheggiabili": "parkedːʒabili",
+  "parcheggiai": "parkedːʒai",
+  "parcheggiammo": "parkedːʒamːo",
+  "parcheggiamo": "parkedːʒjamo",
+  "parcheggiando": "parkedːʒando",
+  "parcheggiano": "parkedːʒano",
+  "parcheggiante": "parkedːʒante",
+  "parcheggiare": "parkedːʒare",
+  "parcheggiarono": "parkedːʒarono",
+  "parcheggiasse": "parkedːʒasːe",
+  "parcheggiassero": "parkedːʒasːero",
+  "parcheggiassi": "parkedːʒasːe",
+  "parcheggiassimo": "parkedːʒasːimo",
+  "parcheggiaste": "parkedːʒaste",
+  "parcheggiasti": "parkedːʒasti",
+  "parcheggiata": "parkedːʒata",
+  "parcheggiate": "parkedːʒate",
+  "parcheggiati": "parkedːʒati",
+  "parcheggiato": "parkedːʒato",
+  "parcheggiava": "parkedːʒava",
+  "parcheggiavamo": "parkedːʒavamo",
+  "parcheggiavano": "parkedːʒavano",
+  "parcheggiavate": "parkedːʒavate",
+  "parcheggiavi": "parkedːʒavi",
+  "parcheggiavo": "parkedːʒavo"
 }

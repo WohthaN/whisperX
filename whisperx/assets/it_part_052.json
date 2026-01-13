@@ -1,1529 +1,529 @@
 {
-  "citomorfosi": [
-    "tʃitomorfɔzi",
-    "tʃitomɔrfosi"
-  ],
-  "citopatia": [
-    "tʃitopatia"
-  ],
-  "citoplasma": [
-    "tʃitoplazma"
-  ],
-  "citoplasmi": [
-    "tʃitoplazmi"
-  ],
-  "citoscheletri": [
-    "tʃitoskɛletri"
-  ],
-  "citoscheletro": [
-    "tʃitoskɛletro"
-  ],
-  "citosina": [
-    "tʃitozina"
-  ],
-  "citosoma": [
-    "tʃitosɔma"
-  ],
-  "citossico": [
-    "tʃitɔsːiko"
-  ],
-  "citotossica": [
-    "tʃitotɔsːika"
-  ],
-  "citotossiche": [
-    "tʃitotɔsːike"
-  ],
-  "citotossici": [
-    "tʃitotɔsːitʃi"
-  ],
-  "citotossicità": [
-    "tʃitotosːitʃita"
-  ],
-  "citotossico": [
-    "tʃitotɔsːiko"
-  ],
-  "citotossina": [
-    "tʃitotosːina"
-  ],
-  "citrati": [
-    "tʃitrati"
-  ],
-  "citrato": [
-    "tʃitrato"
-  ],
-  "citraurina": [
-    "tʃitrawrina"
-  ],
-  "citrica": [
-    "tʃitrika"
-  ],
-  "citriche": [
-    "tʃitrike"
-  ],
-  "citrici": [
-    "tʃitritʃi"
-  ],
-  "citrico": [
-    "tʃitriko"
-  ],
-  "citrino": [
-    "tʃitrino"
-  ],
-  "citrografia": [
-    "tʃitroɡrafia"
-  ],
-  "citronella": [
-    "tʃitronɛlːa"
-  ],
-  "citrulla": [
-    "tʃitrulːa"
-  ],
-  "citrulle": [
-    "tʃitrulːe"
-  ],
-  "citrulli": [
-    "tʃitrulːi"
-  ],
-  "citrullo": [
-    "tʃitrulːo"
-  ],
-  "citta": [
-    "ʃitːa",
-    "tʃitːa"
-  ],
-  "città": [
-    "tʃitːa"
-  ],
-  "cittade": [
-    "tʃitːade"
-  ],
-  "cittadella": [
-    "tʃitːadɛlːa"
-  ],
-  "cittadina": [
-    "tʃitːadina"
-  ],
-  "cittadinanza": [
-    "tʃitːadinantsa"
-  ],
-  "cittadinanze": [
-    "tʃitːadinantse"
-  ],
-  "cittadine": [
-    "tʃitːadine"
-  ],
-  "cittadini": [
-    "tʃitːadini"
-  ],
-  "cittadino": [
-    "tʃitːadino"
-  ],
-  "citto": [
-    "ʃitːo",
-    "tʃitːo"
-  ],
-  "ciuca": [
-    "tʃuka"
-  ],
-  "ciuccia": [
-    "tʃutːʃa"
-  ],
-  "ciucciare": [
-    "tʃutːʃare"
-  ],
-  "ciuccio": [
-    "tʃutːʃo"
-  ],
-  "ciucco": [
-    "tʃukːo"
-  ],
-  "ciuche": [
-    "tʃuke"
-  ],
-  "ciuchi": [
-    "tʃuki"
-  ],
-  "ciuchino": [
-    "tʃukino"
-  ],
-  "ciuco": [
-    "tʃuko"
-  ],
-  "ciuffaia": [
-    "tʃufːaja"
-  ],
-  "ciuffetto": [
-    "tʃufːetːo"
-  ],
-  "ciuffo": [
-    "tʃufːo"
-  ],
-  "ciuffolotto": [
-    "tʃufːolɔtːo"
-  ],
-  "ciulare": [
-    "tʃulare"
-  ],
-  "ciurlare": [
-    "tʃurlare"
-  ],
-  "ciurma": [
-    "tʃurma"
-  ],
-  "cive": [
-    "tʃive"
-  ],
-  "civetta": [
-    "tʃivetːa",
-    "tʃivɛtːa"
-  ],
-  "civettare": [
-    "tʃivetːare"
-  ],
-  "civetteria": [
-    "tʃivetːeria"
-  ],
-  "civetterie": [
-    "tʃivetːerie"
-  ],
-  "civettino": [
-    "tʃivetːino"
-  ],
-  "civettone": [
-    "tʃivetːone"
-  ],
-  "civica": [
-    "tʃivika"
-  ],
-  "civicamente": [
-    "tʃivikamente"
-  ],
-  "civiche": [
-    "tʃivike"
-  ],
-  "civici": [
-    "tʃivitʃi"
-  ],
-  "civico": [
-    "tʃiviko"
-  ],
-  "civile": [
-    "tʃivile"
-  ],
-  "civili": [
-    "tʃivili"
-  ],
-  "civilista": [
-    "tʃivilista"
-  ],
-  "civiliste": [
-    "tʃiviliste"
-  ],
-  "civilistico": [
-    "tʃivilistiko"
-  ],
-  "civilizzabile": [
-    "tʃivilidːzabile"
-  ],
-  "civilizzabili": [
-    "tʃivilidːzabili"
-  ],
-  "civilizzare": [
-    "tʃivilidːzare"
-  ],
-  "civilizzarsi": [
-    "tʃivilidːzarsi"
-  ],
-  "civilizzata": [
-    "tʃivilidːzata"
-  ],
-  "civilizzate": [
-    "tʃivilidːzate"
-  ],
-  "civilizzati": [
-    "tʃivilidːzati"
-  ],
-  "civilizzato": [
-    "tʃivilidːzato"
-  ],
-  "civilizzazione": [
-    "tʃivilidːzatːsjone"
-  ],
-  "civilizzazioni": [
-    "tʃivilidːzatːsjoni"
-  ],
-  "civilmente": [
-    "tʃivilmente"
-  ],
-  "civiltà": [
-    "tʃivilta"
-  ],
-  "civismo": [
-    "tʃivizmo"
-  ],
-  "civitavecchia": [
-    "tʃivitavɛkːja"
-  ],
-  "clacsonare": [
-    "klaksonare"
-  ],
-  "cladismo": [
-    "kladizmo"
-  ],
-  "cladista": [
-    "kladista"
-  ],
-  "cladistica": [
-    "kladistika"
-  ],
-  "cladistico": [
-    "kladistiko"
-  ],
-  "cladoceri": [
-    "kladɔtʃeri"
-  ],
-  "cladocero": [
-    "kladɔtʃero"
-  ],
-  "cladogenesi": [
-    "kladodʒɛnezi"
-  ],
-  "cladogenetico": [
-    "kladodʒenɛtiko"
-  ],
-  "claim": [
-    "klɛjm"
-  ],
-  "clamare": [
-    "klamare"
-  ],
-  "clamore": [
-    "klamore"
-  ],
-  "clamori": [
-    "klamori"
-  ],
-  "clamorosa": [
-    "klamorosa"
-  ],
-  "clamorosamente": [
-    "klamorosamente"
-  ],
-  "clamorose": [
-    "klamorose"
-  ],
-  "clamorosi": [
-    "klamorosi"
-  ],
-  "clamoroso": [
-    "klamoroso",
-    "klamorozo"
-  ],
-  "clan": [
-    "klan"
-  ],
-  "clandestina": [
-    "klandestina"
-  ],
-  "clandestinamente": [
-    "klandestinamente"
-  ],
-  "clandestine": [
-    "klandestine"
-  ],
-  "clandestini": [
-    "klandestini"
-  ],
-  "clandestinità": [
-    "klandestinita"
-  ],
-  "clandestino": [
-    "klandestino"
-  ],
-  "clangere": [
-    "klandʒere"
-  ],
-  "clarinetti": [
-    "klarinetːi"
-  ],
-  "clarinettista": [
-    "klarinetːista"
-  ],
-  "clarinettiste": [
-    "klarinetːiste"
-  ],
-  "clarinettisti": [
-    "klarinetːisti"
-  ],
-  "clarinetto": [
-    "klarinetːo"
-  ],
-  "clarino": [
-    "klarino"
-  ],
-  "clarissa": [
-    "klarisːa"
-  ],
-  "classare": [
-    "klasːare"
-  ],
-  "classe": [
-    "klasːe"
-  ],
-  "classi": [
-    "klasːi"
-  ],
-  "classica": [
-    "klasːika"
-  ],
-  "classicamente": [
-    "klasːikalːu",
-    "klasːikamente"
-  ],
-  "classicheggiare": [
-    "klasːikedːʒare"
-  ],
-  "classici": [
-    "klasːitʃi"
-  ],
-  "classicismi": [
-    "klasːitʃizmi"
-  ],
-  "classicismo": [
-    "klasːitʃizmo"
-  ],
-  "classicista": [
-    "klasːitʃista"
-  ],
-  "classiciste": [
-    "klasːitʃiste"
-  ],
-  "classicisti": [
-    "klasːitʃisti"
-  ],
-  "classicistico": [
-    "klasːitʃistiko"
-  ],
-  "classicità": [
-    "klasːitʃita"
-  ],
-  "classicizzare": [
-    "klasːitʃidːzare"
-  ],
-  "classico": [
-    "klasːiko"
-  ],
-  "classifica": [
-    "klasːifika"
-  ],
-  "classificabile": [
-    "klasːifikabile"
-  ],
-  "classificabili": [
-    "klasːifikabili"
-  ],
-  "classificante": [
-    "klasːifikante"
-  ],
-  "classificare": [
-    "klasːifikare"
-  ],
-  "classificarsi": [
-    "klasːifikarsi"
-  ],
-  "classificato": [
-    "klasːifikato"
-  ],
-  "classificatore": [
-    "klasːifikatore"
-  ],
-  "classificatori": [
-    "klasːifikatori"
-  ],
-  "classificatrice": [
-    "klasːifikatritʃe"
-  ],
-  "classificatrici": [
-    "klasːifikatritʃi"
-  ],
-  "classificazione": [
-    "klasːifikatsjone"
-  ],
-  "classifiche": [
-    "klasːifike"
-  ],
-  "classismo": [
-    "klasːizmo"
-  ],
-  "classiste": [
-    "klasːiste"
-  ],
-  "classisti": [
-    "klasːisti"
-  ],
-  "claudia": [
-    "klawdja"
-  ],
-  "claudicante": [
-    "klawdikante"
-  ],
-  "claudicare": [
-    "klawdikare"
-  ],
-  "clausola": [
-    "klauzola",
-    "klawzola"
-  ],
-  "clausole": [
-    "klauzole"
-  ],
-  "claustrale": [
-    "klawstrale"
-  ],
-  "claustro": [
-    "klawstro"
-  ],
-  "claustrofilia": [
-    "klawstrofilia"
-  ],
-  "claustrofilo": [
-    "klawstrɔfilo"
-  ],
-  "claustrofobia": [
-    "klaustrofobia",
-    "klawstrofobia"
-  ],
-  "claustrofobico": [
-    "klaustrofobiko",
-    "klawstrofɔbiko"
-  ],
-  "claustrofobie": [
-    "klaustrofobie",
-    "klawstrofobie"
-  ],
-  "clausula": [
-    "klauzula"
-  ],
-  "clausule": [
-    "klauzule"
-  ],
-  "clausura": [
-    "klawzura"
-  ],
-  "clava": [
-    "klava"
-  ],
-  "clave": [
-    "klave"
-  ],
-  "clavicembali": [
-    "klavitʃembali"
-  ],
-  "clavicembalista": [
-    "klavitʃembalista"
-  ],
-  "clavicembaliste": [
-    "klavitʃembaliste"
-  ],
-  "clavicembalisti": [
-    "klavitʃembalisti"
-  ],
-  "clavicembalo": [
-    "klavitʃembalo"
-  ],
-  "clavicola": [
-    "klavikola"
-  ],
-  "clavicolare": [
-    "klavikolare"
-  ],
-  "clavicole": [
-    "klavikole"
-  ],
-  "claviforme": [
-    "klaviforme"
-  ],
-  "claviformi": [
-    "klaviformi"
-  ],
-  "clemente": [
-    "klemɛnte"
-  ],
-  "clementi": [
-    "klemɛnti"
-  ],
-  "clementina": [
-    "klementina",
-    "klemɛntina"
-  ],
-  "clementine": [
-    "klemɛntin"
-  ],
-  "clemenza": [
-    "klemɛntsa"
-  ],
-  "clemenze": [
-    "klemɛntse"
-  ],
-  "cleptomania": [
-    "kleptomania"
-  ],
-  "cleptoparassita": [
-    "kleptɔparasːita"
-  ],
-  "cleptoparassite": [
-    "kleptɔparasːite"
-  ],
-  "cleptoparassiti": [
-    "kleptɔparasːiti"
-  ],
-  "cleptoparassitismi": [
-    "kleptɔparasːitizmi"
-  ],
-  "cleptoparassitismo": [
-    "kleptɔparasːitizmo"
-  ],
-  "cleri": [
-    "klɛri"
-  ],
-  "clericale": [
-    "klerikale"
-  ],
-  "clericali": [
-    "klerikali"
-  ],
-  "clericalismi": [
-    "klerikalizmi"
-  ],
-  "clericalismo": [
-    "klerikalizmo"
-  ],
-  "clericalizzazione": [
-    "klerikalidːzatːsjone"
-  ],
-  "clericalizzazioni": [
-    "klerikalidːzatːsjoni"
-  ],
-  "clericalmente": [
-    "klerikalmente"
-  ],
-  "clero": [
-    "klɛro"
-  ],
-  "clerocrazia": [
-    "klerokratːsia"
-  ],
-  "clessidra": [
-    "klesːidra"
-  ],
-  "clessidre": [
-    "klesːidre"
-  ],
-  "clic": [
-    "klik"
-  ],
-  "cliccabile": [
-    "klikːabile"
-  ],
-  "cliccabili": [
-    "klikːabili"
-  ],
-  "cliccare": [
-    "klikːare"
-  ],
-  "cliché": [
-    "kliʃe"
-  ],
-  "cliente": [
-    "kliɛnte"
-  ],
-  "clientela": [
-    "klientɛla",
-    "kljentɛla"
-  ],
-  "clientele": [
-    "kljentɛle"
-  ],
-  "clientelismi": [
-    "kljentelizmi"
-  ],
-  "clientelismo": [
-    "klientelizmo",
-    "kljentelizmo"
-  ],
-  "clienti": [
-    "kliɛnti"
-  ],
-  "clima": [
-    "klima"
-  ],
-  "climaterica": [
-    "klimatɛrika"
-  ],
-  "climateriche": [
-    "klimatɛrike"
-  ],
-  "climaterici": [
-    "klimatɛritʃi"
-  ],
-  "climaterico": [
-    "klimatɛriko"
-  ],
-  "climaterio": [
-    "klimatɛrjo"
-  ],
-  "climatica": [
-    "klimatika"
-  ],
-  "climaticamente": [
-    "klimatikamente"
-  ],
-  "climatiche": [
-    "klimatike"
-  ],
-  "climatici": [
-    "klimatitʃi"
-  ],
-  "climatico": [
-    "klimatiko"
-  ],
-  "climatizzare": [
-    "klimatidːzare"
-  ],
-  "climatizzato": [
-    "klimatidːzato"
-  ],
-  "climatizzazione": [
-    "klimatidːzatːsjone"
-  ],
-  "climatizzazioni": [
-    "klimatidːzatːsjoni"
-  ],
-  "climatologia": [
-    "klimatolodʒia",
-    "klimatoloɡia"
-  ],
-  "climatologica": [
-    "klimatolɔdʒika"
-  ],
-  "climatologiche": [
-    "klimatolɔdʒike"
-  ],
-  "climatologici": [
-    "klimatolɔdʒitʃi"
-  ],
-  "climatologico": [
-    "klimatolɔdʒiko"
-  ],
-  "climatologie": [
-    "klimatoloɡie"
-  ],
-  "climatologo": [
-    "klimatɔloɡo"
-  ],
-  "climax": [
-    "klimaks"
-  ],
-  "climb": [
-    "klajm",
-    "klajmb"
-  ],
-  "climi": [
-    "klimi"
-  ],
-  "clinica": [
-    "klinika"
-  ],
-  "clinicamente": [
-    "klinikamente"
-  ],
-  "cliniche": [
-    "klinike"
-  ],
-  "clinici": [
-    "klinitʃi"
-  ],
-  "clinico": [
-    "kliniko"
-  ],
-  "clinostatico": [
-    "klinostatiko"
-  ],
-  "clinostatismo": [
-    "klinostatizmo"
-  ],
-  "clip": [
-    "klip"
-  ],
-  "clisigoniometro": [
-    "kliziɡonjɔmetro"
-  ],
-  "clisimetri": [
-    "klizimetri"
-  ],
-  "clisimetro": [
-    "klizimetro"
-  ],
-  "clistere": [
-    "klistɛre"
-  ],
-  "clisteri": [
-    "klistɛri"
-  ],
-  "clitica": [
-    "klitika"
-  ],
-  "clitiche": [
-    "klitike"
-  ],
-  "clitici": [
-    "klititʃi"
-  ],
-  "clitico": [
-    "klitiko"
-  ],
-  "clitoride": [
-    "klitoride"
-  ],
-  "clitoridi": [
-    "klitoridi"
-  ],
-  "clivia": [
-    "klivia"
-  ],
-  "clivo": [
-    "klivo"
-  ],
-  "cloaca": [
-    "kloaka"
-  ],
-  "cloche": [
-    "klotʃe",
-    "klɔʃ"
-  ],
-  "clonabile": [
-    "klonabile"
-  ],
-  "clonabili": [
-    "klonabili"
-  ],
-  "clonaggi": [
-    "klonadːʒi"
-  ],
-  "clonaggio": [
-    "klonadːʒo"
-  ],
-  "clonando": [
-    "klonando"
-  ],
-  "clonante": [
-    "klonante"
-  ],
-  "clonare": [
-    "klonare"
-  ],
-  "clonata": [
-    "klonata"
-  ],
-  "clonate": [
-    "klonate"
-  ],
-  "clonati": [
-    "klonati"
-  ],
-  "clonato": [
-    "klonato"
-  ],
-  "clonazione": [
-    "klonatːsjone"
-  ],
-  "clone": [
-    "klone"
-  ],
-  "cloracne": [
-    "klorakne"
-  ],
-  "clorazione": [
-    "kloratːsjone"
-  ],
-  "clorazioni": [
-    "kloratːsjoni"
-  ],
-  "clorico": [
-    "klɔriko"
-  ],
-  "cloridrati": [
-    "kloridrati"
-  ],
-  "cloridrato": [
-    "kloridrato"
-  ],
-  "cloridrica": [
-    "kloridrika"
-  ],
-  "cloridriche": [
-    "kloridrike"
-  ],
-  "cloridrici": [
-    "kloridritʃi"
-  ],
-  "cloridrico": [
-    "kloridriko"
-  ],
-  "cloro": [
-    "klɔro"
-  ],
-  "cloroacetica": [
-    "kloroatʃɛtika"
-  ],
-  "cloroacetiche": [
-    "kloroatʃɛtike"
-  ],
-  "cloroacetici": [
-    "kloroatʃɛtitʃi"
-  ],
-  "cloroacetico": [
-    "kloroatʃɛtiko"
-  ],
-  "cloroacidi": [
-    "kloroatʃidi"
-  ],
-  "cloroacido": [
-    "kloroatʃido"
-  ],
-  "cloroaurico": [
-    "kloroawriko"
-  ],
-  "clorobenzilico": [
-    "klɔrobendziliko"
-  ],
-  "clorobenzoato": [
-    "klorobendzoato"
-  ],
-  "clorobutadiene": [
-    "klɔrobutadiɛne"
-  ],
-  "clorocanfora": [
-    "klɔrokanfora"
-  ],
-  "cloroderivato": [
-    "klɔroderivato"
-  ],
-  "cloroetanolo": [
-    "klɔroetanɔlo"
-  ],
-  "clorofilla": [
-    "klorofilːa",
-    "klɔrofilːa"
-  ],
-  "clorofluorocarburo": [
-    "klorofluɔrokarburo"
-  ],
-  "cloroformi": [
-    "klorofɔrmi"
-  ],
-  "cloroformio": [
-    "klorofɔrmjo"
-  ],
-  "cloroformizzante": [
-    "kloroformidːzante"
-  ],
-  "cloroformizzare": [
-    "kloroformidːzare"
-  ],
-  "cloroformizzato": [
-    "kloroformidːzato"
-  ],
-  "clorometani": [
-    "klorometani"
-  ],
-  "clorometano": [
-    "klorometano"
-  ],
-  "cloroprene": [
-    "kloroprɛne",
-    "klɔroprɛne"
-  ],
-  "clorurare": [
-    "klorurare"
-  ],
-  "clorurato": [
-    "klorurato"
-  ],
-  "clorurazione": [
-    "kloruratːsjone"
-  ],
-  "cloruri": [
-    "kloruri"
-  ],
-  "cloruria": [
-    "klorurja"
-  ],
-  "cloruro": [
-    "kloruro"
-  ],
-  "clotoide": [
-    "klotɔjde"
-  ],
-  "clown": [
-    "klawn"
-  ],
-  "clownterapia": [
-    "klaunterapia"
-  ],
-  "club": [
-    "klab",
-    "klɛb"
-  ],
-  "clune": [
-    "klune"
-  ],
-  "clupeiformi": [
-    "klupejformi"
-  ],
-  "cluster": [
-    "klaster"
-  ],
-  "cnidoblasto": [
-    "knidoblasto"
-  ],
-  "cnr": [
-    "tʃiɛnːeɛrːe"
-  ],
-  "coabitare": [
-    "koabitare"
-  ],
-  "coabitazione": [
-    "kɔabitatsjone"
-  ],
-  "coabitazioni": [
-    "kɔabitatsjoni"
-  ],
-  "coacervare": [
-    "koatʃervare"
-  ],
-  "coacervo": [
-    "koatʃɛrvo"
-  ],
-  "coadiutore": [
-    "koadjutore"
-  ],
-  "coadiuvante": [
-    "koadjuvante"
-  ],
-  "coadunare": [
-    "koadunare"
-  ],
-  "coagglutinazione": [
-    "koaɡːlutinatsjone"
-  ],
-  "coagglutinazioni": [
-    "koaɡːlutinatsjoni"
-  ],
-  "coagulabile": [
-    "koaɡulabile"
-  ],
-  "coagulabili": [
-    "koaɡulabili"
-  ],
-  "coagulante": [
-    "koaɡulante"
-  ],
-  "coagulanti": [
-    "koaɡulanti"
-  ],
-  "coagulare": [
-    "koaɡulare"
-  ],
-  "coagulato": [
-    "koaɡulato"
-  ],
-  "coagulazione": [
-    "koaɡulatsjone"
-  ],
-  "coagulo": [
-    "koaɡulo"
-  ],
-  "coala": [
-    "koala"
-  ],
-  "coalescente": [
-    "koaleʃʃɛnte"
-  ],
-  "coalescenza": [
-    "koaleʃɛntsa"
-  ],
-  "coalizione": [
-    "koalitsjone",
-    "koalitːsjone"
-  ],
-  "coalizzare": [
-    "koalidːzare",
-    "oalidːzare"
-  ],
-  "coalizzato": [
-    "koalidːzato"
-  ],
-  "coartare": [
-    "koartare"
-  ],
-  "coartazione": [
-    "koartatsjone"
-  ],
-  "coassiale": [
-    "koasːjale"
-  ],
-  "coassiali": [
-    "koasːjali"
-  ],
-  "coassicurazione": [
-    "koasːikuratsjone"
-  ],
-  "coassicurazioni": [
-    "koasːikuratsjoni"
-  ],
-  "coattivo": [
-    "koatːivo"
-  ],
-  "coatto": [
-    "koatːo"
-  ],
-  "coautore": [
-    "koautore",
-    "koawtore"
-  ],
-  "coautori": [
-    "koautori"
-  ],
-  "coautrice": [
-    "koautritʃe",
-    "koawtritʃe"
-  ],
-  "coautrici": [
-    "koautritʃi"
-  ],
-  "coazione": [
-    "koatsjone"
-  ],
-  "coazionista": [
-    "koatsjɔnista"
-  ],
-  "coazioniste": [
-    "koatsjɔniste"
-  ],
-  "coazionisti": [
-    "koatsjɔnisti"
-  ],
-  "cobaltatura": [
-    "kobaltatura"
-  ],
-  "cobaltico": [
-    "kobaltiko"
-  ],
-  "cobalto": [
-    "kobalto"
-  ],
-  "cobaltocalcite": [
-    "kobaltokaltʃite"
-  ],
-  "cobaltoso": [
-    "kobaltoso",
-    "kobaltozo"
-  ],
-  "cobbola": [
-    "kɔbːola"
-  ],
-  "cobbole": [
-    "kɔbːole"
-  ],
-  "cobelligerante": [
-    "kobelːidʒerante"
-  ],
-  "cobelligeranti": [
-    "kobelːidʒeranti"
-  ],
-  "cobelligeranza": [
-    "kobelːidʒerantsa"
-  ],
-  "cobelligeranze": [
-    "kobelːidʒerantse"
-  ],
-  "cobo": [
-    "kɔbo"
-  ],
-  "cobra": [
-    "kɔbra"
-  ],
-  "cobralisina": [
-    "kobralizina"
-  ],
-  "cobraterapia": [
-    "kobraterapia"
-  ],
-  "cobratossina": [
-    "kobratosːina"
-  ],
-  "coca": [
-    "kɔka"
-  ],
-  "cocacolonizzazione": [
-    "kokakolonidːzatːsjone"
-  ],
-  "cocacolonizzazioni": [
-    "kokakolonidːzatːsjoni"
-  ],
-  "cocaina": [
-    "kokaina"
-  ],
-  "cocainismi": [
-    "kokainizmi"
-  ],
-  "cocainismo": [
-    "kokainizmo"
-  ],
-  "cocainizzare": [
-    "kokainidːzare"
-  ],
-  "cocainizzazione": [
-    "kokainidːzatsjone"
-  ],
-  "cocainizzazioni": [
-    "kokainidːzatsjoni"
-  ],
-  "cocainomania": [
-    "kokainomania"
-  ],
-  "cocainomanie": [
-    "kokainomanie"
-  ],
-  "cocaismi": [
-    "kokaizmi"
-  ],
-  "cocaismo": [
-    "kokaizmo"
-  ],
-  "cocalina": [
-    "kokalina"
-  ],
-  "cocca": [
-    "kokːa",
-    "kɔkːa"
-  ],
-  "coccarda": [
-    "kokːarda"
-  ],
-  "cocce": [
-    "kɔtːʃe"
-  ],
-  "cocchi": [
-    "kɔkːi"
-  ],
-  "cocchiera": [
-    "kokːjɛra"
-  ],
-  "cocchiere": [
-    "kokːjɛre"
-  ],
-  "cocchieri": [
-    "kokːjɛri"
-  ],
-  "cocchio": [
-    "kɔkːjo"
-  ],
-  "cocchiumare": [
-    "kokːjumare"
-  ],
-  "cocchiume": [
-    "kokːjume"
-  ],
-  "cocci": [
-    "kɔtːʃo"
-  ],
-  "coccia": [
-    "kɔtːʃa"
-  ],
-  "cocciaia": [
-    "kotːʃaja"
-  ],
-  "coccide": [
-    "kɔtːʃide"
-  ],
-  "coccidi": [
-    "kɔtːʃidi"
-  ],
-  "coccigi": [
-    "kotːʃidʒi"
-  ],
-  "coccinella": [
-    "kotːʃinɛlːa"
-  ],
-  "coccinelle": [
-    "kotːʃinɛlːe"
-  ],
-  "coccinellidi": [
-    "kotːʃinɛlːidi"
-  ],
-  "cocciniglia": [
-    "kotːʃiniʎa"
-  ],
-  "cocciniglie": [
-    "kotːʃiniʎe"
-  ],
-  "coccio": [
-    "kɔtːʃo"
-  ],
-  "cocciuta": [
-    "kotːʃuta"
-  ],
-  "cocciutaggine": [
-    "kotːʃutadːʒine"
-  ],
-  "cocciutaggini": [
-    "kotːʃutadːʒini"
-  ],
-  "cocciutamente": [
-    "kotːʃutamente"
-  ],
-  "cocciute": [
-    "kotːʃute"
-  ],
-  "cocciuti": [
-    "kotːʃuti"
-  ],
-  "cocciuto": [
-    "kotːʃuto"
-  ],
-  "cocco": [
-    "kɔkːo"
-  ],
-  "coccobacilli": [
-    "kokːobatʃilːi"
-  ],
-  "coccobacillo": [
-    "kokːobatʃilːo"
-  ],
-  "coccodrilli": [
-    "kɔkːodrilːi"
-  ],
-  "coccodrillo": [
-    "kokːodrilːo"
-  ],
-  "coccola": [
-    "kɔkːola"
-  ],
-  "coccolare": [
-    "kokːolare"
-  ],
-  "coccolo": [
-    "kɔkːolo"
-  ],
-  "cocente": [
-    "kotʃɛnte"
-  ],
-  "cocere": [
-    "kɔtʃere"
-  ],
-  "coche": [
-    "kɔke"
-  ],
-  "cocimento": [
-    "kotʃimento"
-  ],
-  "cocincina": [
-    "koʃintʃina"
-  ],
-  "cocincinese": [
-    "koʃintʃineze"
-  ],
-  "cocincinesi": [
-    "koʃintʃineze"
-  ],
-  "cocktail": [
-    "kɔkteil"
-  ],
-  "cocomeraio": [
-    "kokomerajo"
-  ],
-  "cocomeri": [
-    "kokomeri"
-  ],
-  "cocomero": [
-    "kokomero"
-  ],
-  "cocuzza": [
-    "kokutːsa"
-  ],
-  "cocuzzo": [
-    "kokutːso"
-  ],
-  "cocuzzolo": [
-    "kokutːsolo"
-  ],
-  "coda": [
-    "koda",
-    "kɔda"
-  ],
-  "codaforcuta": [
-    "kodaforkuta"
-  ],
-  "codarda": [
-    "kodarda"
-  ],
-  "codardamente": [
-    "kodardamente"
-  ],
-  "codarde": [
-    "kodarde"
-  ],
-  "codardi": [
-    "kodardi"
-  ],
-  "codardia": [
-    "kodardia",
-    "kɔdardja"
-  ],
-  "codardo": [
-    "kodardo"
-  ],
-  "codazzo": [
-    "kodatːso"
-  ],
-  "code": [
-    "kɔde"
-  ],
-  "codestei": [
-    "kodestɛj"
-  ],
-  "codesto": [
-    "kodesto"
-  ],
-  "codestoro": [
-    "kodestoro"
-  ],
-  "codestui": [
-    "kodestuj"
-  ],
-  "codetta": [
-    "kodetːa"
-  ],
-  "codibianco": [
-    "kodibjanko"
-  ],
-  "codice": [
-    "kɔditʃe"
-  ],
-  "codici": [
-    "kɔditʃi"
-  ],
-  "codicologia": [
-    "kodikolodʒia"
-  ],
-  "codicologica": [
-    "kodikolɔdʒika"
-  ],
-  "codicologiche": [
-    "kodikolɔdʒike"
-  ],
-  "codicologici": [
-    "kodikolɔdʒitʃi"
-  ],
-  "codicologico": [
-    "kodikolɔdʒiko"
-  ],
-  "codificare": [
-    "kodifikare"
-  ],
-  "codificato": [
-    "kodifikato"
-  ],
-  "codificazione": [
-    "kodifikatːsjone"
-  ],
-  "codimozzo": [
-    "kodimotːso"
-  ],
-  "codino": [
-    "kodino"
-  ],
-  "codipendenza": [
-    "kodipendɛntsa"
-  ],
-  "codirettore": [
-    "kodirɛtːore"
-  ],
-  "codirettori": [
-    "kodirɛtːori"
-  ],
-  "codirettrice": [
-    "kodirɛtːritʃe"
-  ],
-  "codirettrici": [
-    "kodirɛtːritʃi"
-  ],
-  "codirossi": [
-    "kodirosːi"
-  ],
-  "codirosso": [
-    "kodirosːo"
-  ],
-  "coditremola": [
-    "koditrɛmola"
-  ],
-  "codomini": [
-    "kodomini"
-  ],
-  "codominio": [
-    "kodominjo"
-  ],
-  "coeditare": [
-    "koeditare"
-  ],
-  "coeditore": [
-    "koeditore"
-  ],
-  "coeditori": [
-    "koeditore"
-  ],
-  "coeditrice": [
-    "koeditritʃe"
-  ],
-  "coeditrici": [
-    "koeditritʃi"
-  ],
-  "coedizione": [
-    "koeditsjone"
-  ],
-  "coedizioni": [
-    "koeditsjoni"
-  ],
-  "coeducazione": [
-    "koedukatsjone"
-  ],
-  "coeducazioni": [
-    "koedukatsjoni"
-  ],
-  "coefficiente": [
-    "koefːitʃɛnte"
-  ],
-  "coefficienti": [
-    "koefːitʃɛnti"
-  ],
-  "coenzima": [
-    "koendzima"
-  ],
-  "coenzimi": [
-    "koendzimi"
-  ],
-  "coercibile": [
-    "koertʃibile"
-  ],
-  "coercibili": [
-    "koertʃibili"
-  ],
-  "coercibilità": [
-    "koertʃibilita"
-  ],
-  "coercitivamente": [
-    "koertʃitivamente"
-  ]
+  "citomorfosi": "tʃitomorfɔzi",
+  "citomorfosi_2": "tʃitomɔrfosi",
+  "citopatia": "tʃitopatia",
+  "citoplasma": "tʃitoplazma",
+  "citoplasmi": "tʃitoplazmi",
+  "citoscheletri": "tʃitoskɛletri",
+  "citoscheletro": "tʃitoskɛletro",
+  "citosina": "tʃitozina",
+  "citosoma": "tʃitosɔma",
+  "citossico": "tʃitɔsːiko",
+  "citotossica": "tʃitotɔsːika",
+  "citotossiche": "tʃitotɔsːike",
+  "citotossici": "tʃitotɔsːitʃi",
+  "citotossicità": "tʃitotosːitʃita",
+  "citotossico": "tʃitotɔsːiko",
+  "citotossina": "tʃitotosːina",
+  "citrati": "tʃitrati",
+  "citrato": "tʃitrato",
+  "citraurina": "tʃitrawrina",
+  "citrica": "tʃitrika",
+  "citriche": "tʃitrike",
+  "citrici": "tʃitritʃi",
+  "citrico": "tʃitriko",
+  "citrino": "tʃitrino",
+  "citrografia": "tʃitroɡrafia",
+  "citronella": "tʃitronɛlːa",
+  "citrulla": "tʃitrulːa",
+  "citrulle": "tʃitrulːe",
+  "citrulli": "tʃitrulːi",
+  "citrullo": "tʃitrulːo",
+  "citta": "ʃitːa",
+  "citta_2": "tʃitːa",
+  "città": "tʃitːa",
+  "cittade": "tʃitːade",
+  "cittadella": "tʃitːadɛlːa",
+  "cittadina": "tʃitːadina",
+  "cittadinanza": "tʃitːadinantsa",
+  "cittadinanze": "tʃitːadinantse",
+  "cittadine": "tʃitːadine",
+  "cittadini": "tʃitːadini",
+  "cittadino": "tʃitːadino",
+  "citto": "ʃitːo",
+  "citto_2": "tʃitːo",
+  "ciuca": "tʃuka",
+  "ciuccia": "tʃutːʃa",
+  "ciucciare": "tʃutːʃare",
+  "ciuccio": "tʃutːʃo",
+  "ciucco": "tʃukːo",
+  "ciuche": "tʃuke",
+  "ciuchi": "tʃuki",
+  "ciuchino": "tʃukino",
+  "ciuco": "tʃuko",
+  "ciuffaia": "tʃufːaja",
+  "ciuffetto": "tʃufːetːo",
+  "ciuffo": "tʃufːo",
+  "ciuffolotto": "tʃufːolɔtːo",
+  "ciulare": "tʃulare",
+  "ciurlare": "tʃurlare",
+  "ciurma": "tʃurma",
+  "cive": "tʃive",
+  "civetta": "tʃivetːa",
+  "civetta_2": "tʃivɛtːa",
+  "civettare": "tʃivetːare",
+  "civetteria": "tʃivetːeria",
+  "civetterie": "tʃivetːerie",
+  "civettino": "tʃivetːino",
+  "civettone": "tʃivetːone",
+  "civica": "tʃivika",
+  "civicamente": "tʃivikamente",
+  "civiche": "tʃivike",
+  "civici": "tʃivitʃi",
+  "civico": "tʃiviko",
+  "civile": "tʃivile",
+  "civili": "tʃivili",
+  "civilista": "tʃivilista",
+  "civiliste": "tʃiviliste",
+  "civilistico": "tʃivilistiko",
+  "civilizzabile": "tʃivilidːzabile",
+  "civilizzabili": "tʃivilidːzabili",
+  "civilizzare": "tʃivilidːzare",
+  "civilizzarsi": "tʃivilidːzarsi",
+  "civilizzata": "tʃivilidːzata",
+  "civilizzate": "tʃivilidːzate",
+  "civilizzati": "tʃivilidːzati",
+  "civilizzato": "tʃivilidːzato",
+  "civilizzazione": "tʃivilidːzatːsjone",
+  "civilizzazioni": "tʃivilidːzatːsjoni",
+  "civilmente": "tʃivilmente",
+  "civiltà": "tʃivilta",
+  "civismo": "tʃivizmo",
+  "civitavecchia": "tʃivitavɛkːja",
+  "clacsonare": "klaksonare",
+  "cladismo": "kladizmo",
+  "cladista": "kladista",
+  "cladistica": "kladistika",
+  "cladistico": "kladistiko",
+  "cladoceri": "kladɔtʃeri",
+  "cladocero": "kladɔtʃero",
+  "cladogenesi": "kladodʒɛnezi",
+  "cladogenetico": "kladodʒenɛtiko",
+  "claim": "klɛjm",
+  "clamare": "klamare",
+  "clamore": "klamore",
+  "clamori": "klamori",
+  "clamorosa": "klamorosa",
+  "clamorosamente": "klamorosamente",
+  "clamorose": "klamorose",
+  "clamorosi": "klamorosi",
+  "clamoroso": "klamoroso",
+  "clamoroso_2": "klamorozo",
+  "clan": "klan",
+  "clandestina": "klandestina",
+  "clandestinamente": "klandestinamente",
+  "clandestine": "klandestine",
+  "clandestini": "klandestini",
+  "clandestinità": "klandestinita",
+  "clandestino": "klandestino",
+  "clangere": "klandʒere",
+  "clarinetti": "klarinetːi",
+  "clarinettista": "klarinetːista",
+  "clarinettiste": "klarinetːiste",
+  "clarinettisti": "klarinetːisti",
+  "clarinetto": "klarinetːo",
+  "clarino": "klarino",
+  "clarissa": "klarisːa",
+  "classare": "klasːare",
+  "classe": "klasːe",
+  "classi": "klasːi",
+  "classica": "klasːika",
+  "classicamente": "klasːikalːu",
+  "classicamente_2": "klasːikamente",
+  "classicheggiare": "klasːikedːʒare",
+  "classici": "klasːitʃi",
+  "classicismi": "klasːitʃizmi",
+  "classicismo": "klasːitʃizmo",
+  "classicista": "klasːitʃista",
+  "classiciste": "klasːitʃiste",
+  "classicisti": "klasːitʃisti",
+  "classicistico": "klasːitʃistiko",
+  "classicità": "klasːitʃita",
+  "classicizzare": "klasːitʃidːzare",
+  "classico": "klasːiko",
+  "classifica": "klasːifika",
+  "classificabile": "klasːifikabile",
+  "classificabili": "klasːifikabili",
+  "classificante": "klasːifikante",
+  "classificare": "klasːifikare",
+  "classificarsi": "klasːifikarsi",
+  "classificato": "klasːifikato",
+  "classificatore": "klasːifikatore",
+  "classificatori": "klasːifikatori",
+  "classificatrice": "klasːifikatritʃe",
+  "classificatrici": "klasːifikatritʃi",
+  "classificazione": "klasːifikatsjone",
+  "classifiche": "klasːifike",
+  "classismo": "klasːizmo",
+  "classiste": "klasːiste",
+  "classisti": "klasːisti",
+  "claudia": "klawdja",
+  "claudicante": "klawdikante",
+  "claudicare": "klawdikare",
+  "clausola": "klauzola",
+  "clausola_2": "klawzola",
+  "clausole": "klauzole",
+  "claustrale": "klawstrale",
+  "claustro": "klawstro",
+  "claustrofilia": "klawstrofilia",
+  "claustrofilo": "klawstrɔfilo",
+  "claustrofobia": "klaustrofobia",
+  "claustrofobia_2": "klawstrofobia",
+  "claustrofobico": "klaustrofobiko",
+  "claustrofobico_2": "klawstrofɔbiko",
+  "claustrofobie": "klaustrofobie",
+  "claustrofobie_2": "klawstrofobie",
+  "clausula": "klauzula",
+  "clausule": "klauzule",
+  "clausura": "klawzura",
+  "clava": "klava",
+  "clave": "klave",
+  "clavicembali": "klavitʃembali",
+  "clavicembalista": "klavitʃembalista",
+  "clavicembaliste": "klavitʃembaliste",
+  "clavicembalisti": "klavitʃembalisti",
+  "clavicembalo": "klavitʃembalo",
+  "clavicola": "klavikola",
+  "clavicolare": "klavikolare",
+  "clavicole": "klavikole",
+  "claviforme": "klaviforme",
+  "claviformi": "klaviformi",
+  "clemente": "klemɛnte",
+  "clementi": "klemɛnti",
+  "clementina": "klementina",
+  "clementina_2": "klemɛntina",
+  "clementine": "klemɛntin",
+  "clemenza": "klemɛntsa",
+  "clemenze": "klemɛntse",
+  "cleptomania": "kleptomania",
+  "cleptoparassita": "kleptɔparasːita",
+  "cleptoparassite": "kleptɔparasːite",
+  "cleptoparassiti": "kleptɔparasːiti",
+  "cleptoparassitismi": "kleptɔparasːitizmi",
+  "cleptoparassitismo": "kleptɔparasːitizmo",
+  "cleri": "klɛri",
+  "clericale": "klerikale",
+  "clericali": "klerikali",
+  "clericalismi": "klerikalizmi",
+  "clericalismo": "klerikalizmo",
+  "clericalizzazione": "klerikalidːzatːsjone",
+  "clericalizzazioni": "klerikalidːzatːsjoni",
+  "clericalmente": "klerikalmente",
+  "clero": "klɛro",
+  "clerocrazia": "klerokratːsia",
+  "clessidra": "klesːidra",
+  "clessidre": "klesːidre",
+  "clic": "klik",
+  "cliccabile": "klikːabile",
+  "cliccabili": "klikːabili",
+  "cliccare": "klikːare",
+  "cliché": "kliʃe",
+  "cliente": "kliɛnte",
+  "clientela": "klientɛla",
+  "clientela_2": "kljentɛla",
+  "clientele": "kljentɛle",
+  "clientelismi": "kljentelizmi",
+  "clientelismo": "klientelizmo",
+  "clientelismo_2": "kljentelizmo",
+  "clienti": "kliɛnti",
+  "clima": "klima",
+  "climaterica": "klimatɛrika",
+  "climateriche": "klimatɛrike",
+  "climaterici": "klimatɛritʃi",
+  "climaterico": "klimatɛriko",
+  "climaterio": "klimatɛrjo",
+  "climatica": "klimatika",
+  "climaticamente": "klimatikamente",
+  "climatiche": "klimatike",
+  "climatici": "klimatitʃi",
+  "climatico": "klimatiko",
+  "climatizzare": "klimatidːzare",
+  "climatizzato": "klimatidːzato",
+  "climatizzazione": "klimatidːzatːsjone",
+  "climatizzazioni": "klimatidːzatːsjoni",
+  "climatologia": "klimatolodʒia",
+  "climatologia_2": "klimatoloɡia",
+  "climatologica": "klimatolɔdʒika",
+  "climatologiche": "klimatolɔdʒike",
+  "climatologici": "klimatolɔdʒitʃi",
+  "climatologico": "klimatolɔdʒiko",
+  "climatologie": "klimatoloɡie",
+  "climatologo": "klimatɔloɡo",
+  "climax": "klimaks",
+  "climb": "klajm",
+  "climb_2": "klajmb",
+  "climi": "klimi",
+  "clinica": "klinika",
+  "clinicamente": "klinikamente",
+  "cliniche": "klinike",
+  "clinici": "klinitʃi",
+  "clinico": "kliniko",
+  "clinostatico": "klinostatiko",
+  "clinostatismo": "klinostatizmo",
+  "clip": "klip",
+  "clisigoniometro": "kliziɡonjɔmetro",
+  "clisimetri": "klizimetri",
+  "clisimetro": "klizimetro",
+  "clistere": "klistɛre",
+  "clisteri": "klistɛri",
+  "clitica": "klitika",
+  "clitiche": "klitike",
+  "clitici": "klititʃi",
+  "clitico": "klitiko",
+  "clitoride": "klitoride",
+  "clitoridi": "klitoridi",
+  "clivia": "klivia",
+  "clivo": "klivo",
+  "cloaca": "kloaka",
+  "cloche": "klotʃe",
+  "cloche_2": "klɔʃ",
+  "clonabile": "klonabile",
+  "clonabili": "klonabili",
+  "clonaggi": "klonadːʒi",
+  "clonaggio": "klonadːʒo",
+  "clonando": "klonando",
+  "clonante": "klonante",
+  "clonare": "klonare",
+  "clonata": "klonata",
+  "clonate": "klonate",
+  "clonati": "klonati",
+  "clonato": "klonato",
+  "clonazione": "klonatːsjone",
+  "clone": "klone",
+  "cloracne": "klorakne",
+  "clorazione": "kloratːsjone",
+  "clorazioni": "kloratːsjoni",
+  "clorico": "klɔriko",
+  "cloridrati": "kloridrati",
+  "cloridrato": "kloridrato",
+  "cloridrica": "kloridrika",
+  "cloridriche": "kloridrike",
+  "cloridrici": "kloridritʃi",
+  "cloridrico": "kloridriko",
+  "cloro": "klɔro",
+  "cloroacetica": "kloroatʃɛtika",
+  "cloroacetiche": "kloroatʃɛtike",
+  "cloroacetici": "kloroatʃɛtitʃi",
+  "cloroacetico": "kloroatʃɛtiko",
+  "cloroacidi": "kloroatʃidi",
+  "cloroacido": "kloroatʃido",
+  "cloroaurico": "kloroawriko",
+  "clorobenzilico": "klɔrobendziliko",
+  "clorobenzoato": "klorobendzoato",
+  "clorobutadiene": "klɔrobutadiɛne",
+  "clorocanfora": "klɔrokanfora",
+  "cloroderivato": "klɔroderivato",
+  "cloroetanolo": "klɔroetanɔlo",
+  "clorofilla": "klorofilːa",
+  "clorofilla_2": "klɔrofilːa",
+  "clorofluorocarburo": "klorofluɔrokarburo",
+  "cloroformi": "klorofɔrmi",
+  "cloroformio": "klorofɔrmjo",
+  "cloroformizzante": "kloroformidːzante",
+  "cloroformizzare": "kloroformidːzare",
+  "cloroformizzato": "kloroformidːzato",
+  "clorometani": "klorometani",
+  "clorometano": "klorometano",
+  "cloroprene": "kloroprɛne",
+  "cloroprene_2": "klɔroprɛne",
+  "clorurare": "klorurare",
+  "clorurato": "klorurato",
+  "clorurazione": "kloruratːsjone",
+  "cloruri": "kloruri",
+  "cloruria": "klorurja",
+  "cloruro": "kloruro",
+  "clotoide": "klotɔjde",
+  "clown": "klawn",
+  "clownterapia": "klaunterapia",
+  "club": "klab",
+  "club_2": "klɛb",
+  "clune": "klune",
+  "clupeiformi": "klupejformi",
+  "cluster": "klaster",
+  "cnidoblasto": "knidoblasto",
+  "cnr": "tʃiɛnːeɛrːe",
+  "coabitare": "koabitare",
+  "coabitazione": "kɔabitatsjone",
+  "coabitazioni": "kɔabitatsjoni",
+  "coacervare": "koatʃervare",
+  "coacervo": "koatʃɛrvo",
+  "coadiutore": "koadjutore",
+  "coadiuvante": "koadjuvante",
+  "coadunare": "koadunare",
+  "coagglutinazione": "koaɡːlutinatsjone",
+  "coagglutinazioni": "koaɡːlutinatsjoni",
+  "coagulabile": "koaɡulabile",
+  "coagulabili": "koaɡulabili",
+  "coagulante": "koaɡulante",
+  "coagulanti": "koaɡulanti",
+  "coagulare": "koaɡulare",
+  "coagulato": "koaɡulato",
+  "coagulazione": "koaɡulatsjone",
+  "coagulo": "koaɡulo",
+  "coala": "koala",
+  "coalescente": "koaleʃʃɛnte",
+  "coalescenza": "koaleʃɛntsa",
+  "coalizione": "koalitsjone",
+  "coalizione_2": "koalitːsjone",
+  "coalizzare": "koalidːzare",
+  "coalizzare_2": "oalidːzare",
+  "coalizzato": "koalidːzato",
+  "coartare": "koartare",
+  "coartazione": "koartatsjone",
+  "coassiale": "koasːjale",
+  "coassiali": "koasːjali",
+  "coassicurazione": "koasːikuratsjone",
+  "coassicurazioni": "koasːikuratsjoni",
+  "coattivo": "koatːivo",
+  "coatto": "koatːo",
+  "coautore": "koautore",
+  "coautore_2": "koawtore",
+  "coautori": "koautori",
+  "coautrice": "koautritʃe",
+  "coautrice_2": "koawtritʃe",
+  "coautrici": "koautritʃi",
+  "coazione": "koatsjone",
+  "coazionista": "koatsjɔnista",
+  "coazioniste": "koatsjɔniste",
+  "coazionisti": "koatsjɔnisti",
+  "cobaltatura": "kobaltatura",
+  "cobaltico": "kobaltiko",
+  "cobalto": "kobalto",
+  "cobaltocalcite": "kobaltokaltʃite",
+  "cobaltoso": "kobaltoso",
+  "cobaltoso_2": "kobaltozo",
+  "cobbola": "kɔbːola",
+  "cobbole": "kɔbːole",
+  "cobelligerante": "kobelːidʒerante",
+  "cobelligeranti": "kobelːidʒeranti",
+  "cobelligeranza": "kobelːidʒerantsa",
+  "cobelligeranze": "kobelːidʒerantse",
+  "cobo": "kɔbo",
+  "cobra": "kɔbra",
+  "cobralisina": "kobralizina",
+  "cobraterapia": "kobraterapia",
+  "cobratossina": "kobratosːina",
+  "coca": "kɔka",
+  "cocacolonizzazione": "kokakolonidːzatːsjone",
+  "cocacolonizzazioni": "kokakolonidːzatːsjoni",
+  "cocaina": "kokaina",
+  "cocainismi": "kokainizmi",
+  "cocainismo": "kokainizmo",
+  "cocainizzare": "kokainidːzare",
+  "cocainizzazione": "kokainidːzatsjone",
+  "cocainizzazioni": "kokainidːzatsjoni",
+  "cocainomania": "kokainomania",
+  "cocainomanie": "kokainomanie",
+  "cocaismi": "kokaizmi",
+  "cocaismo": "kokaizmo",
+  "cocalina": "kokalina",
+  "cocca": "kokːa",
+  "cocca_2": "kɔkːa",
+  "coccarda": "kokːarda",
+  "cocce": "kɔtːʃe",
+  "cocchi": "kɔkːi",
+  "cocchiera": "kokːjɛra",
+  "cocchiere": "kokːjɛre",
+  "cocchieri": "kokːjɛri",
+  "cocchio": "kɔkːjo",
+  "cocchiumare": "kokːjumare",
+  "cocchiume": "kokːjume",
+  "cocci": "kɔtːʃo",
+  "coccia": "kɔtːʃa",
+  "cocciaia": "kotːʃaja",
+  "coccide": "kɔtːʃide",
+  "coccidi": "kɔtːʃidi",
+  "coccigi": "kotːʃidʒi",
+  "coccinella": "kotːʃinɛlːa",
+  "coccinelle": "kotːʃinɛlːe",
+  "coccinellidi": "kotːʃinɛlːidi",
+  "cocciniglia": "kotːʃiniʎa",
+  "cocciniglie": "kotːʃiniʎe",
+  "coccio": "kɔtːʃo",
+  "cocciuta": "kotːʃuta",
+  "cocciutaggine": "kotːʃutadːʒine",
+  "cocciutaggini": "kotːʃutadːʒini",
+  "cocciutamente": "kotːʃutamente",
+  "cocciute": "kotːʃute",
+  "cocciuti": "kotːʃuti",
+  "cocciuto": "kotːʃuto",
+  "cocco": "kɔkːo",
+  "coccobacilli": "kokːobatʃilːi",
+  "coccobacillo": "kokːobatʃilːo",
+  "coccodrilli": "kɔkːodrilːi",
+  "coccodrillo": "kokːodrilːo",
+  "coccola": "kɔkːola",
+  "coccolare": "kokːolare",
+  "coccolo": "kɔkːolo",
+  "cocente": "kotʃɛnte",
+  "cocere": "kɔtʃere",
+  "coche": "kɔke",
+  "cocimento": "kotʃimento",
+  "cocincina": "koʃintʃina",
+  "cocincinese": "koʃintʃineze",
+  "cocincinesi": "koʃintʃineze",
+  "cocktail": "kɔkteil",
+  "cocomeraio": "kokomerajo",
+  "cocomeri": "kokomeri",
+  "cocomero": "kokomero",
+  "cocuzza": "kokutːsa",
+  "cocuzzo": "kokutːso",
+  "cocuzzolo": "kokutːsolo",
+  "coda": "koda",
+  "coda_2": "kɔda",
+  "codaforcuta": "kodaforkuta",
+  "codarda": "kodarda",
+  "codardamente": "kodardamente",
+  "codarde": "kodarde",
+  "codardi": "kodardi",
+  "codardia": "kodardia",
+  "codardia_2": "kɔdardja",
+  "codardo": "kodardo",
+  "codazzo": "kodatːso",
+  "code": "kɔde",
+  "codestei": "kodestɛj",
+  "codesto": "kodesto",
+  "codestoro": "kodestoro",
+  "codestui": "kodestuj",
+  "codetta": "kodetːa",
+  "codibianco": "kodibjanko",
+  "codice": "kɔditʃe",
+  "codici": "kɔditʃi",
+  "codicologia": "kodikolodʒia",
+  "codicologica": "kodikolɔdʒika",
+  "codicologiche": "kodikolɔdʒike",
+  "codicologici": "kodikolɔdʒitʃi",
+  "codicologico": "kodikolɔdʒiko",
+  "codificare": "kodifikare",
+  "codificato": "kodifikato",
+  "codificazione": "kodifikatːsjone",
+  "codimozzo": "kodimotːso",
+  "codino": "kodino",
+  "codipendenza": "kodipendɛntsa",
+  "codirettore": "kodirɛtːore",
+  "codirettori": "kodirɛtːori",
+  "codirettrice": "kodirɛtːritʃe",
+  "codirettrici": "kodirɛtːritʃi",
+  "codirossi": "kodirosːi",
+  "codirosso": "kodirosːo",
+  "coditremola": "koditrɛmola",
+  "codomini": "kodomini",
+  "codominio": "kodominjo",
+  "coeditare": "koeditare",
+  "coeditore": "koeditore",
+  "coeditori": "koeditore",
+  "coeditrice": "koeditritʃe",
+  "coeditrici": "koeditritʃi",
+  "coedizione": "koeditsjone",
+  "coedizioni": "koeditsjoni",
+  "coeducazione": "koedukatsjone",
+  "coeducazioni": "koedukatsjoni",
+  "coefficiente": "koefːitʃɛnte",
+  "coefficienti": "koefːitʃɛnti",
+  "coenzima": "koendzima",
+  "coenzimi": "koendzimi",
+  "coercibile": "koertʃibile",
+  "coercibili": "koertʃibili",
+  "coercibilità": "koertʃibilita",
+  "coercitivamente": "koertʃitivamente"
 }

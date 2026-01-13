@@ -1,1547 +1,547 @@
 {
-  "incolpevole": [
-    "inkolpevole"
-  ],
-  "incoltamente": [
-    "inkoltamente"
-  ],
-  "incoltivabile": [
-    "inkoltivabile"
-  ],
-  "incoltivabili": [
-    "inkoltivabili"
-  ],
-  "incolto": [
-    "inkolto"
-  ],
-  "incolume": [
-    "inkɔlume"
-  ],
-  "incolumità": [
-    "inkolumita"
-  ],
-  "incombente": [
-    "inkombɛnte"
-  ],
-  "incombenza": [
-    "inkombɛntsa"
-  ],
-  "incombere": [
-    "inkombere"
-  ],
-  "incombustibile": [
-    "inkombustibile"
-  ],
-  "incombustibili": [
-    "inkombustibili"
-  ],
-  "incombusto": [
-    "inkombusto"
-  ],
-  "incomiciare": [
-    "inkomintʃare"
-  ],
-  "incominciare": [
-    "inkomintʃare"
-  ],
-  "incommensurabile": [
-    "inkomːensurabile"
-  ],
-  "incommensurabili": [
-    "inkomːensurabili"
-  ],
-  "incommensurabilità": [
-    "inkomːensurabilita"
-  ],
-  "incommerciabile": [
-    "inkomːertʃabil"
-  ],
-  "incommerciabili": [
-    "inkomːertʃabili"
-  ],
-  "incommestibile": [
-    "inkomːestibile"
-  ],
-  "incommestibili": [
-    "inkomːestibili"
-  ],
-  "incomodo": [
-    "inkɔmodo"
-  ],
-  "incomparabile": [
-    "inkomparabile"
-  ],
-  "incomparabili": [
-    "inkomparabili"
-  ],
-  "incomparabilità": [
-    "inkomparabilita"
-  ],
-  "incomparabilmente": [
-    "inkomparabilmente"
-  ],
-  "incompatibile": [
-    "inkompatibile"
-  ],
-  "incompatibilità": [
-    "inkompatibilita"
-  ],
-  "incompensabile": [
-    "inkompensabile"
-  ],
-  "incompensabili": [
-    "inkompensabili"
-  ],
-  "incompetente": [
-    "inkompetɛnte"
-  ],
-  "incompetenti": [
-    "inkompetɛnti"
-  ],
-  "incompetenza": [
-    "inkompetɛntsa",
-    "inkonpetɛntsa"
-  ],
-  "incompetenze": [
-    "inkonpetɛntsa"
-  ],
-  "incompiuto": [
-    "inkompjuto"
-  ],
-  "incompleta": [
-    "inkomplɛta"
-  ],
-  "incomplete": [
-    "inkomplɛte"
-  ],
-  "incompleti": [
-    "inkomplɛti"
-  ],
-  "incompleto": [
-    "inkomplɛto"
-  ],
-  "incomposto": [
-    "inkomposto"
-  ],
-  "incomprensibile": [
-    "inkomprensibile"
-  ],
-  "incomprensibili": [
-    "inkomprensibili"
-  ],
-  "incomprensibilissima": [
-    "inkomprensibilisːima"
-  ],
-  "incomprensibilissime": [
-    "inkomprensibilisːime"
-  ],
-  "incomprensibilissimi": [
-    "inkomprensibilisːimi"
-  ],
-  "incomprensibilissimo": [
-    "inkomprensibilisːimo"
-  ],
-  "incomprensibilmente": [
-    "inkomprensibilmente"
-  ],
-  "incomprensione": [
-    "inkomprensjone"
-  ],
-  "incomprensioni": [
-    "inkomprensjoni"
-  ],
-  "incompresi": [
-    "inkompresi"
-  ],
-  "incompreso": [
-    "inkompreso",
-    "inkomprezo"
-  ],
-  "incompressibile": [
-    "inkompresːibile"
-  ],
-  "incompressibili": [
-    "inkompresːibili"
-  ],
-  "incompressibilità": [
-    "inkompresːibilita"
-  ],
-  "incomprimibile": [
-    "inkomprimibile"
-  ],
-  "incomprimibili": [
-    "inkomprimibili"
-  ],
-  "incomprimibilità": [
-    "inkomprimibilita"
-  ],
-  "incomunicabile": [
-    "inkomunikabile"
-  ],
-  "incomunicabili": [
-    "inkomunikabili"
-  ],
-  "incomunicabilità": [
-    "inkomurikabilita"
-  ],
-  "inconcare": [
-    "inkonkare"
-  ],
-  "inconcepibile": [
-    "inkontʃepibile"
-  ],
-  "inconcepibili": [
-    "inkontʃepibili"
-  ],
-  "inconcepibilmente": [
-    "inkontʃepibilmente"
-  ],
-  "inconciliabile": [
-    "inkontʃiljabile",
-    "iɲkontʃiljabile"
-  ],
-  "inconciliabili": [
-    "inkontʃiljabili"
-  ],
-  "inconciliabilità": [
-    "inkontʃiljabilita"
-  ],
-  "inconciliante": [
-    "inkontʃiljante"
-  ],
-  "inconcilianti": [
-    "inkontʃiljanti"
-  ],
-  "inconcludente": [
-    "inkonkludɛnte"
-  ],
-  "inconcludenza": [
-    "inkonkludɛntsa"
-  ],
-  "inconcusso": [
-    "inkonkusːo"
-  ],
-  "incondizionato": [
-    "inkonditːsjonato"
-  ],
-  "inconfessabile": [
-    "inkonfesːabile"
-  ],
-  "inconfessabili": [
-    "inkonfesːabili"
-  ],
-  "inconfessato": [
-    "inkonfesːato"
-  ],
-  "inconfondibile": [
-    "iɲkoɲfondibile"
-  ],
-  "inconfondibili": [
-    "iɲkoɲfondibili"
-  ],
-  "inconfrontabile": [
-    "inkonfrontabile"
-  ],
-  "inconfrontabili": [
-    "inkonfrontabili"
-  ],
-  "inconfutabile": [
-    "inkonfutabile"
-  ],
-  "incongelabile": [
-    "inkondʒelabile"
-  ],
-  "incongelabili": [
-    "inkondʒelabili"
-  ],
-  "incongruamente": [
-    "inkonɡruamente"
-  ],
-  "incongruente": [
-    "inkonɡruɛnte"
-  ],
-  "incongruenza": [
-    "inkonɡruɛntsa"
-  ],
-  "incongruo": [
-    "inkɔnɡruo",
-    "inkɔnɡrwo"
-  ],
-  "inconiugabile": [
-    "inkonjuɡabile"
-  ],
-  "inconiugabili": [
-    "inkonjuɡabili"
-  ],
-  "inconoscibile": [
-    "inkonoʃʃibile"
-  ],
-  "inconoscibili": [
-    "inkonoʃʃibili"
-  ],
-  "inconquistabile": [
-    "inkonkwistabile"
-  ],
-  "inconquistabili": [
-    "inkonkwistabili"
-  ],
-  "inconsapevole": [
-    "inkonsapevole"
-  ],
-  "inconsapevolezza": [
-    "inkonsapevoletːsa"
-  ],
-  "inconsapevolmente": [
-    "inkonsapevolmente"
-  ],
-  "inconsce": [
-    "iɲkɔnʃʃe"
-  ],
-  "inconsci": [
-    "inkɔnʃi",
-    "iɲkɔnʃʃi"
-  ],
-  "inconscia": [
-    "iɲkɔnʃʃ"
-  ],
-  "inconsciamente": [
-    "inkonʃamente"
-  ],
-  "inconscio": [
-    "iɲkɔnʃʃo"
-  ],
-  "inconseguente": [
-    "inkonseɡwɛnte"
-  ],
-  "inconsiderabile": [
-    "inkonsiderabile"
-  ],
-  "inconsiderabili": [
-    "inkonsiderabili"
-  ],
-  "inconsiderato": [
-    "inkonsiderato"
-  ],
-  "inconsistente": [
-    "inkonsistɛnte",
-    "iɲkonsistɛnte"
-  ],
-  "inconsistenti": [
-    "inkonsistɛnti"
-  ],
-  "inconsistenza": [
-    "inkonsistɛntsa",
-    "iɲkonsistɛntsa"
-  ],
-  "inconsistenze": [
-    "inkonsistɛntse"
-  ],
-  "inconsolabile": [
-    "inkonsolabile"
-  ],
-  "inconsolabili": [
-    "inkonsolabili"
-  ],
-  "inconsueto": [
-    "inkonsuɛto",
-    "inkonswɛto",
-    "iɲkonsuɛto"
-  ],
-  "inconsulto": [
-    "inkonsulto"
-  ],
-  "inconsutile": [
-    "inkonsutile"
-  ],
-  "incontaminato": [
-    "inkontaminato"
-  ],
-  "incontenibile": [
-    "inkontenibile"
-  ],
-  "incontenibili": [
-    "inkontenibili"
-  ],
-  "incontentabile": [
-    "inkontentabile"
-  ],
-  "incontestabile": [
-    "inkontestabile"
-  ],
-  "incontestabili": [
-    "inkontestabili"
-  ],
-  "incontestabilmente": [
-    "inkontestabilmente"
-  ],
-  "incontestata": [
-    "inkontestata"
-  ],
-  "incontestate": [
-    "inkontestate"
-  ],
-  "incontestati": [
-    "inkontestati"
-  ],
-  "incontestato": [
-    "inkontestato"
-  ],
-  "incontinentemente": [
-    "inkontinentemente"
-  ],
-  "incontinenza": [
-    "iɲkontinɛntsa"
-  ],
-  "incontinenze": [
-    "iɲkontinɛntse"
-  ],
-  "incontra": [
-    "inkontra"
-  ],
-  "incontrante": [
-    "iɲkontante"
-  ],
-  "incontrare": [
-    "inkontrare",
-    "iɲkontrare"
-  ],
-  "incontrarsi": [
-    "inkontrarsi",
-    "iɲkontrarsi"
-  ],
-  "incontrastabile": [
-    "inkontrastabile"
-  ],
-  "incontrastato": [
-    "inkontrastato"
-  ],
-  "incontrato": [
-    "inkontrato",
-    "iɲkontato"
-  ],
-  "incontri": [
-    "inkɔntri"
-  ],
-  "incontro": [
-    "inkontro",
-    "inkɔntrɔ",
-    "iɲkontro"
-  ],
-  "incontrollabile": [
-    "inkontrolːabile"
-  ],
-  "incontrollabili": [
-    "inkontrolːabili"
-  ],
-  "incontrollata": [
-    "inkontrolːata"
-  ],
-  "incontrollate": [
-    "inkontrolːate"
-  ],
-  "incontrollati": [
-    "inkontrolːati"
-  ],
-  "incontrollato": [
-    "inkontrolːato"
-  ],
-  "incontrovertibile": [
-    "inkontrovertibile"
-  ],
-  "incontrovertibili": [
-    "inkontrovertibili"
-  ],
-  "inconveniente": [
-    "inkonvenjɛnte"
-  ],
-  "inconvenienti": [
-    "inkonvenjɛnti"
-  ],
-  "inconvertibile": [
-    "inkonvertibile"
-  ],
-  "inconvertibili": [
-    "inkonvertibili"
-  ],
-  "inconvincibile": [
-    "inkonvintʃibile"
-  ],
-  "inconvincibili": [
-    "inkonvintʃibili"
-  ],
-  "incoordinazione": [
-    "inkoordinatsjone"
-  ],
-  "incoordinazioni": [
-    "inkoordinatsjoni"
-  ],
-  "incoraggiabile": [
-    "inkoradːʒabile"
-  ],
-  "incoraggiabili": [
-    "inkoradːʒabili"
-  ],
-  "incoraggiamento": [
-    "inkoradːʒamento"
-  ],
-  "incoraggiante": [
-    "inkoradːʒante"
-  ],
-  "incoraggianti": [
-    "inkoradːʒanti"
-  ],
-  "incoraggiare": [
-    "inkoradːʒare"
-  ],
-  "incoraggiato": [
-    "inkoradːʒato"
-  ],
-  "incornare": [
-    "iɲkornare"
-  ],
-  "incorniciato": [
-    "inkornitʃato"
-  ],
-  "incoronante": [
-    "inkoronante"
-  ],
-  "incoronare": [
-    "inkoronare",
-    "iɲkoronare"
-  ],
-  "incoronato": [
-    "inkoronato"
-  ],
-  "incoronazione": [
-    "iɲkoronatsjone"
-  ],
-  "incorporabile": [
-    "inkorporabile"
-  ],
-  "incorporabili": [
-    "inkorporabili"
-  ],
-  "incorporante": [
-    "inkorporante"
-  ],
-  "incorporare": [
-    "inkorporare"
-  ],
-  "incorporato": [
-    "inkorporato",
-    "iɲkorporata"
-  ],
-  "incorporazione": [
-    "iɲkorporatsjone"
-  ],
-  "incorporazioni": [
-    "iɲkorporatsjoni"
-  ],
-  "incorpori": [
-    "inkorpori"
-  ],
-  "incorraggiamenti": [
-    "inkorːadːʒamenti"
-  ],
-  "incorraggiamento": [
-    "inkoradːʒamento",
-    "inkorːadːʒamento"
-  ],
-  "incorreggibile": [
-    "inkorːedɡʒibile",
-    "inkorːedːʒibile"
-  ],
-  "incorreggibili": [
-    "inkorːedɡʒibili"
-  ],
-  "incorreggibilmente": [
-    "inkorːedːʒibilmente"
-  ],
-  "incorrere": [
-    "inkorːere"
-  ],
-  "incorretto": [
-    "inkorːɛtːo"
-  ],
-  "incorrotta": [
-    "inkorːotː"
-  ],
-  "incorrotto": [
-    "inkorːotːo"
-  ],
-  "incorruttibile": [
-    "inkorːutːibile"
-  ],
-  "incorruttibili": [
-    "inkorːutːibili"
-  ],
-  "incorruttibilità": [
-    "inkorːutːibilita"
-  ],
-  "incorruttibilmente": [
-    "inkorːutːibilmente"
-  ],
-  "incosciente": [
-    "inkoskiente",
-    "inkoʃʃɛnte"
-  ],
-  "incoscientemente": [
-    "inkoʃʃentemente",
-    "inkoʃʃɛntemente"
-  ],
-  "incoscienti": [
-    "inkoʃʃɛnti"
-  ],
-  "incoscienza": [
-    "iɲkoʃʃɛntsa"
-  ],
-  "incostante": [
-    "inkostante"
-  ],
-  "incostanti": [
-    "inkostanti"
-  ],
-  "incostanza": [
-    "inkostantsa"
-  ],
-  "incostanze": [
-    "inkostantse"
-  ],
-  "incostituzionale": [
-    "inkostitutːsjonale"
-  ],
-  "incostituzionalità": [
-    "inkostitutːsjonalita"
-  ],
-  "incravattato": [
-    "inkravatːato"
-  ],
-  "incredibile": [
-    "inkredibile",
-    "inkrɛdibile"
-  ],
-  "incredibili": [
-    "inkrɛdibili"
-  ],
-  "incredibilità": [
-    "inkredibilita"
-  ],
-  "incredibilmente": [
-    "inkredibilmente"
-  ],
-  "incredula": [
-    "inkrɛdula"
-  ],
-  "incredulità": [
-    "inkredulita"
-  ],
-  "incredulo": [
-    "inkrɛdulo"
-  ],
-  "incrementabile": [
-    "inkrementabile"
-  ],
-  "incrementabili": [
-    "inkrementabili"
-  ],
-  "incrementale": [
-    "inkrementale"
-  ],
-  "incrementare": [
-    "inkrementare"
-  ],
-  "incrementato": [
-    "inkrementato"
-  ],
-  "incrementi": [
-    "inkremento"
-  ],
-  "incremento": [
-    "inkremento"
-  ],
-  "increscere": [
-    "inkreʃʃere"
-  ],
-  "incresciosamente": [
-    "inkreʃʃosamente"
-  ],
-  "increscioso": [
-    "inkreʃʃoso",
-    "inkreʃʃozo"
-  ],
-  "increspare": [
-    "inkrespare"
-  ],
-  "increspato": [
-    "inkrespato"
-  ],
-  "increspatura": [
-    "inkrespatura"
-  ],
-  "increspature": [
-    "inkrespature"
-  ],
-  "incriminabile": [
-    "inkriminabile"
-  ],
-  "incriminabili": [
-    "inkriminabili"
-  ],
-  "incriminando": [
-    "inkriminando"
-  ],
-  "incriminante": [
-    "inkriminante"
-  ],
-  "incriminanti": [
-    "inkriminanti"
-  ],
-  "incriminare": [
-    "inkriminare"
-  ],
-  "incriminato": [
-    "inkriminato"
-  ],
-  "incriminazione": [
-    "inkriminatsjone",
-    "inkriminatːsjone"
-  ],
-  "incriminazioni": [
-    "inkriminatsjoni"
-  ],
-  "incrinante": [
-    "inkrinante"
-  ],
-  "incrinare": [
-    "inkrinare"
-  ],
-  "incrinarsi": [
-    "inkrinarsi",
-    "inkrinrsi"
-  ],
-  "incrinata": [
-    "inkrinata"
-  ],
-  "incrinate": [
-    "inkrinate"
-  ],
-  "incrinati": [
-    "inkrinati"
-  ],
-  "incrinato": [
-    "inkrinato"
-  ],
-  "incrinatura": [
-    "inkrinatura"
-  ],
-  "incriticabile": [
-    "inkritikabile"
-  ],
-  "incriticabili": [
-    "inkritikabili"
-  ],
-  "incrociato": [
-    "inkrotʃato"
-  ],
-  "incrociatore": [
-    "inkrotʃatore"
-  ],
-  "incrocio": [
-    "inkrotʃo"
-  ],
-  "incrollabile": [
-    "inkrolːabile"
-  ],
-  "incrollabili": [
-    "inkrolːabili"
-  ],
-  "incrostare": [
-    "inkrostare"
-  ],
-  "incrostato": [
-    "inkrostato"
-  ],
-  "incrostazione": [
-    "inkrostatːsjone"
-  ],
-  "incrudelire": [
-    "inkrudelire"
-  ],
-  "incruento": [
-    "inkruɛnto"
-  ],
-  "incubatore": [
-    "inkubatore"
-  ],
-  "incubatrice": [
-    "inkubatritʃe"
-  ],
-  "incubazione": [
-    "inkubatːsjone"
-  ],
-  "incubi": [
-    "iɲkubi"
-  ],
-  "incubo": [
-    "iɲkubo"
-  ],
-  "incude": [
-    "inkude"
-  ],
-  "incudine": [
-    "inkudine",
-    "iɲkudine"
-  ],
-  "incudini": [
-    "inkudini"
-  ],
-  "inculare": [
-    "inkulare"
-  ],
-  "inculata": [
-    "inkulata"
-  ],
-  "inculate": [
-    "inkulata"
-  ],
-  "inculati": [
-    "inkulato"
-  ],
-  "inculato": [
-    "inkulato"
-  ],
-  "inculcare": [
-    "iɲkulkare"
-  ],
-  "inculcato": [
-    "inkulkato"
-  ],
-  "incultura": [
-    "inkultura"
-  ],
-  "incumulabile": [
-    "inkumulabile"
-  ],
-  "incumulabili": [
-    "inkumulabili"
-  ],
-  "incunaboli": [
-    "inkunaboli",
-    "iɲkunaboli"
-  ],
-  "incunabolo": [
-    "inkunabolo",
-    "iɲkunabolo"
-  ],
-  "incunabuli": [
-    "inkunabuli"
-  ],
-  "incunabulo": [
-    "inkunabulo"
-  ],
-  "incuocere": [
-    "inkwɔtʃere"
-  ],
-  "incurabile": [
-    "inkurabile",
-    "iɲkurabile"
-  ],
-  "incurabili": [
-    "iɲkurabili"
-  ],
-  "incurabilità": [
-    "iɲkurabilita"
-  ],
-  "incurabilmente": [
-    "iɲkurabilmente"
-  ],
-  "incurante": [
-    "inkurante"
-  ],
-  "incuranti": [
-    "inkurante"
-  ],
-  "incuria": [
-    "inkurja",
-    "iɲkurja"
-  ],
-  "incuriosire": [
-    "inkurjosire"
-  ],
-  "incuriosirsi": [
-    "inkurjosirsi"
-  ],
-  "incuriosito": [
-    "inkurjosito"
-  ],
-  "incursione": [
-    "inkursjone",
-    "inkursjɔne"
-  ],
-  "incursioni": [
-    "inkursioni",
-    "inkursjɔni"
-  ],
-  "incurvare": [
-    "inkurvare"
-  ],
-  "incurvo": [
-    "inkurvo"
-  ],
-  "incustodito": [
-    "inkustodito"
-  ],
-  "incutere": [
-    "inkutere"
-  ],
-  "indaco": [
-    "indako"
-  ],
-  "indaffarato": [
-    "indafːarato"
-  ],
-  "indagare": [
-    "indaɡare"
-  ],
-  "indagato": [
-    "indaɡato"
-  ],
-  "indagatore": [
-    "indaɡatore"
-  ],
-  "indagine": [
-    "indadʒine"
-  ],
-  "indagini": [
-    "indadʒini"
-  ],
-  "indarno": [
-    "indarno"
-  ],
-  "indatabile": [
-    "indatabile"
-  ],
-  "indatabili": [
-    "indatabili"
-  ],
-  "indebita": [
-    "indebita"
-  ],
-  "indebitamente": [
-    "indebitamente"
-  ],
-  "indebitamenti": [
-    "indebitamenti"
-  ],
-  "indebitamento": [
-    "indebitamento"
-  ],
-  "indebitare": [
-    "indebitare"
-  ],
-  "indebitarsi": [
-    "indebitarsi"
-  ],
-  "indebite": [
-    "indebite"
-  ],
-  "indebiti": [
-    "indebiti"
-  ],
-  "indebito": [
-    "indebito"
-  ],
-  "indebolimento": [
-    "indebolimento"
-  ],
-  "indebolire": [
-    "indebolire"
-  ],
-  "indebolirsi": [
-    "indebolirsi"
-  ],
-  "indebolito": [
-    "indebolito"
-  ],
-  "indecente": [
-    "indetʃɛnte",
-    "indɛtʃɛnte"
-  ],
-  "indecentemente": [
-    "indetʃentemente"
-  ],
-  "indecidibile": [
-    "indetʃidibile"
-  ],
-  "indecifrabile": [
-    "indetʃifrabile"
-  ],
-  "indecifrabili": [
-    "indetʃifrabili"
-  ],
-  "indecisamente": [
-    "indetʃizamente"
-  ],
-  "indecisione": [
-    "indetʃizjone",
-    "indɛtʃizjɔne"
-  ],
-  "indecisioni": [
-    "indɛtʃizjɔni"
-  ],
-  "indeciso": [
-    "indetʃizo"
-  ],
-  "indeclinabile": [
-    "indeklinabile"
-  ],
-  "indeclinabili": [
-    "indeklinabili"
-  ],
-  "indecomponibile": [
-    "indekomponibile"
-  ],
-  "indecomponibili": [
-    "indekomponibili"
-  ],
-  "indecorosa": [
-    "indekorosa",
-    "indekoroza"
-  ],
-  "indecorosamente": [
-    "indekorosamente"
-  ],
-  "indecorose": [
-    "indekorose",
-    "indekoroze"
-  ],
-  "indecorosi": [
-    "indekorosi",
-    "indekorozi"
-  ],
-  "indecoroso": [
-    "indekoroso",
-    "indekorozo"
-  ],
-  "indefessa": [
-    "indefɛsːa"
-  ],
-  "indefessamente": [
-    "indefesːamente"
-  ],
-  "indefesse": [
-    "indefɛsːe"
-  ],
-  "indefessi": [
-    "indefɛsːi"
-  ],
-  "indefesso": [
-    "indefɛsːo"
-  ],
-  "indefettibile": [
-    "indefetːibile"
-  ],
-  "indefettibili": [
-    "indefetːibili"
-  ],
-  "indefinibile": [
-    "indefinibile"
-  ],
-  "indefinibili": [
-    "indefinibili"
-  ],
-  "indefinita": [
-    "indefinita"
-  ],
-  "indefinitamente": [
-    "indefinitamente"
-  ],
-  "indefinite": [
-    "indefinite"
-  ],
-  "indefiniti": [
-    "indefiniti"
-  ],
-  "indefinito": [
-    "indefinito"
-  ],
-  "indeformabile": [
-    "indeformabile"
-  ],
-  "indeformabili": [
-    "indeformabili"
-  ],
-  "indegnità": [
-    "indeɲɲita"
-  ],
-  "indegno": [
-    "indeɲɲo"
-  ],
-  "indeiscente": [
-    "indeiʃʃɛnte"
-  ],
-  "indeiscenti": [
-    "indeiʃʃɛnti"
-  ],
-  "indelebile": [
-    "indelebile",
-    "indelɛbile"
-  ],
-  "indelebili": [
-    "indelebili"
-  ],
-  "indelicata": [
-    "indelikata"
-  ],
-  "indelicatamente": [
-    "indelikatamente"
-  ],
-  "indelicate": [
-    "indelikate"
-  ],
-  "indelicatezza": [
-    "indelikatetːsa"
-  ],
-  "indelicatezze": [
-    "indelikatetːse"
-  ],
-  "indelicati": [
-    "indelikati"
-  ],
-  "indelicato": [
-    "indelikato"
-  ],
-  "indemoniata": [
-    "indemonjato"
-  ],
-  "indemoniate": [
-    "indemonjate"
-  ],
-  "indemoniati": [
-    "indemonjati"
-  ],
-  "indemoniato": [
-    "indemonjato"
-  ],
-  "indenne": [
-    "indɛnːe"
-  ],
-  "indenni": [
-    "indɛnːi"
-  ],
-  "indennità": [
-    "indenːita"
-  ],
-  "indennizza": [
-    "indenːitːsa"
-  ],
-  "indennizzabile": [
-    "indenːidːzabile"
-  ],
-  "indennizzabili": [
-    "indenːidːzabili"
-  ],
-  "indennizzai": [
-    "indenːitːsai"
-  ],
-  "indennizzammo": [
-    "indenːitːsamːo"
-  ],
-  "indennizzando": [
-    "indenːitːsando"
-  ],
-  "indennizzano": [
-    "indenːitːsano"
-  ],
-  "indennizzante": [
-    "indenːidːzante"
-  ],
-  "indennizzare": [
-    "indenːidːzare"
-  ],
-  "indennizzarono": [
-    "indenːitːsarono"
-  ],
-  "indennizzasse": [
-    "indenːitːsasːe"
-  ],
-  "indennizzassero": [
-    "indenːitːsasːero"
-  ],
-  "indennizzassi": [
-    "indenːitːsasːi"
-  ],
-  "indennizzassimo": [
-    "indenːitːsasːimo"
-  ],
-  "indennizzaste": [
-    "indenːitːsaste"
-  ],
-  "indennizzasti": [
-    "indenːitːsasti"
-  ],
-  "indennizzata": [
-    "indenːitːsata"
-  ],
-  "indennizzate": [
-    "indenːitːsate"
-  ],
-  "indennizzati": [
-    "indenːitːsati"
-  ],
-  "indennizzato": [
-    "indenːidːzato",
-    "indenːitːsato"
-  ],
-  "indennizzava": [
-    "indenːitːsava"
-  ],
-  "indennizzavamo": [
-    "indenːitːsavamo"
-  ],
-  "indennizzavano": [
-    "indenːitːsavano"
-  ],
-  "indennizzavate": [
-    "indenːitːsavate"
-  ],
-  "indennizzavi": [
-    "indenːitːsavi"
-  ],
-  "indennizzavo": [
-    "indenːitːsavo"
-  ],
-  "indennizzazione": [
-    "indenːidːzatsjone"
-  ],
-  "indennizzerà": [
-    "indenːitːsera"
-  ],
-  "indennizzerai": [
-    "indenːitːserai"
-  ],
-  "indennizzeranno": [
-    "indenːitːseranːo"
-  ],
-  "indennizzerebbe": [
-    "indenːitːserebːe"
-  ],
-  "indennizzerebbero": [
-    "indenːitːserebːero"
-  ],
-  "indennizzerei": [
-    "indenːitːserei"
-  ],
-  "indennizzeremmo": [
-    "indenːitːseremːo"
-  ],
-  "indennizzeremo": [
-    "indenːitːseremo"
-  ],
-  "indennizzereste": [
-    "indenːitːsereste"
-  ],
-  "indennizzeresti": [
-    "indenːitːseresti"
-  ],
-  "indennizzerete": [
-    "indenːitːserete"
-  ],
-  "indennizzerò": [
-    "indenːitːsero"
-  ],
-  "indennizzi": [
-    "indenːitːsi"
-  ],
-  "indennizziamo": [
-    "indenːitːsiamo"
-  ],
-  "indennizziate": [
-    "indenːitːsiate"
-  ],
-  "indennizzino": [
-    "indenːitːsino"
-  ],
-  "indennizzo": [
-    "indenːidːzo",
-    "indenːitːso"
-  ],
-  "indennizzò": [
-    "indenːitːso"
-  ],
-  "inderogabile": [
-    "inderoɡabile"
-  ],
-  "inderogabili": [
-    "inderoɡabili"
-  ],
-  "indescrivibile": [
-    "indeskriptibile",
-    "indeskrivibile"
-  ],
-  "indescrivibili": [
-    "indeskriptibili"
-  ],
-  "indesiderato": [
-    "indesiderato"
-  ],
-  "indeterminabile": [
-    "indeterminabile"
-  ],
-  "indeterminabili": [
-    "indeterminabili"
-  ],
-  "indeterminatamente": [
-    "indeterminatamente"
-  ],
-  "indeterminato": [
-    "indeterminato"
-  ],
-  "indetonante": [
-    "indetonante"
-  ],
-  "indetonanti": [
-    "indetonanti"
-  ],
-  "indetto": [
-    "indetːo"
-  ],
-  "indeuropea": [
-    "indeuropɛa"
-  ],
-  "indeuropee": [
-    "indeuropɛe"
-  ],
-  "indeuropei": [
-    "indeuropɛi"
-  ],
-  "indeuropeo": [
-    "indeuropɛo",
-    "indewropɛo"
-  ],
-  "indi": [
-    "indi"
-  ],
-  "india": [
-    "indja"
-  ],
-  "indiana": [
-    "indjana"
-  ],
-  "indiane": [
-    "indjane"
-  ],
-  "indiani": [
-    "indjani"
-  ],
-  "indiano": [
-    "indjano"
-  ],
-  "indicabile": [
-    "indikabile"
-  ],
-  "indicabili": [
-    "indikabili"
-  ],
-  "indicante": [
-    "indikante"
-  ],
-  "indicare": [
-    "indikare"
-  ],
-  "indicarsi": [
-    "indikare"
-  ],
-  "indicata": [
-    "indikata"
-  ],
-  "indicate": [
-    "indikate"
-  ],
-  "indicati": [
-    "indikati"
-  ],
-  "indicativa": [
-    "indikativa"
-  ],
-  "indicativamente": [
-    "indikativamente"
-  ],
-  "indicative": [
-    "indikative"
-  ],
-  "indicativi": [
-    "indikativi"
-  ],
-  "indicativo": [
-    "indikativo"
-  ],
-  "indicato": [
-    "indikato"
-  ],
-  "indicatore": [
-    "indikatore"
-  ],
-  "indicatori": [
-    "indikatori"
-  ],
-  "indicatoride": [
-    "indikatɔride"
-  ],
-  "indicatoridi": [
-    "indikatɔridi"
-  ],
-  "indicatrice": [
-    "indikatritʃe"
-  ],
-  "indicatrici": [
-    "indikatritʃi"
-  ],
-  "indicazione": [
-    "indikatsjone",
-    "indikatːsjone"
-  ],
-  "indicazioni": [
-    "indikatsjoni"
-  ],
-  "indice": [
-    "inditʃe"
-  ],
-  "indicibile": [
-    "inditʃibile"
-  ],
-  "indicibili": [
-    "inditʃibili"
-  ],
-  "indicibilmente": [
-    "inditʃibilmente"
-  ],
-  "indicizzato": [
-    "inditʃidːzato"
-  ],
-  "indico": [
-    "indiko"
-  ],
-  "indie": [
-    "indje"
-  ],
-  "indietreggiare": [
-    "indjetredːʒare"
-  ],
-  "indietro": [
-    "indiɛtro",
-    "indjɛtro"
-  ],
-  "indifendibile": [
-    "indifendibil"
-  ],
-  "indifendibili": [
-    "indifendibili"
-  ],
-  "indifensibile": [
-    "indifensibile"
-  ],
-  "indifensibili": [
-    "indifensibili"
-  ],
-  "indifeso": [
-    "indifeso",
-    "indifezo"
-  ],
-  "indifferente": [
-    "indifːerɛnte"
-  ],
-  "indifferentemente": [
-    "indifːerentemente"
-  ],
-  "indifferenza": [
-    "indifːerɛntsa"
-  ],
-  "indifferenze": [
-    "indifːerɛntse"
-  ],
-  "indifferenziata": [
-    "indifːerentsjata"
-  ],
-  "indifferenziate": [
-    "indifːerentsjate"
-  ],
-  "indifferenziati": [
-    "indifːerentsjati"
-  ],
-  "indifferenziato": [
-    "indifːerentsjato"
-  ],
-  "indifferibile": [
-    "indifːeribile"
-  ],
-  "indifferibili": [
-    "indifːeribili"
-  ],
-  "indigeno": [
-    "indidʒeno"
-  ],
-  "indigente": [
-    "indidʒɛnte"
-  ],
-  "indigenti": [
-    "indidʒɛnti"
-  ],
-  "indigenza": [
-    "indidʒɛntsa"
-  ],
-  "indigenze": [
-    "indidʒɛntse"
-  ],
-  "indigeribile": [
-    "indidʒeribile"
-  ],
-  "indigeribili": [
-    "indidʒeribili"
-  ],
-  "indigesta": [
-    "indidʒɛsta"
-  ],
-  "indigeste": [
-    "indidʒɛste"
-  ],
-  "indigesti": [
-    "indidʒɛsti"
-  ],
-  "indigestibilità": [
-    "indidʒestibilita"
-  ],
-  "indigestione": [
-    "indidʒestjone"
-  ],
-  "indigestissima": [
-    "indidʒɛstisːima"
-  ],
-  "indigestissime": [
-    "indidʒɛstisːime"
-  ],
-  "indigestissimi": [
-    "indidʒɛstisːimi"
-  ],
-  "indigestissimo": [
-    "indidʒɛstisːimo"
-  ],
-  "indigesto": [
-    "indidʒɛsto"
-  ],
-  "indigitamenti": [
-    "indidʒitamenti"
-  ],
-  "indignando": [
-    "indiɲɲando"
-  ],
-  "indignante": [
-    "indiɲɲante"
-  ],
-  "indignare": [
-    "indiɲɲare"
-  ],
-  "indignato": [
-    "indiɲɲato"
-  ]
+  "incolpevole": "inkolpevole",
+  "incoltamente": "inkoltamente",
+  "incoltivabile": "inkoltivabile",
+  "incoltivabili": "inkoltivabili",
+  "incolto": "inkolto",
+  "incolume": "inkɔlume",
+  "incolumità": "inkolumita",
+  "incombente": "inkombɛnte",
+  "incombenza": "inkombɛntsa",
+  "incombere": "inkombere",
+  "incombustibile": "inkombustibile",
+  "incombustibili": "inkombustibili",
+  "incombusto": "inkombusto",
+  "incomiciare": "inkomintʃare",
+  "incominciare": "inkomintʃare",
+  "incommensurabile": "inkomːensurabile",
+  "incommensurabili": "inkomːensurabili",
+  "incommensurabilità": "inkomːensurabilita",
+  "incommerciabile": "inkomːertʃabil",
+  "incommerciabili": "inkomːertʃabili",
+  "incommestibile": "inkomːestibile",
+  "incommestibili": "inkomːestibili",
+  "incomodo": "inkɔmodo",
+  "incomparabile": "inkomparabile",
+  "incomparabili": "inkomparabili",
+  "incomparabilità": "inkomparabilita",
+  "incomparabilmente": "inkomparabilmente",
+  "incompatibile": "inkompatibile",
+  "incompatibilità": "inkompatibilita",
+  "incompensabile": "inkompensabile",
+  "incompensabili": "inkompensabili",
+  "incompetente": "inkompetɛnte",
+  "incompetenti": "inkompetɛnti",
+  "incompetenza": "inkompetɛntsa",
+  "incompetenza_2": "inkonpetɛntsa",
+  "incompetenze": "inkonpetɛntsa",
+  "incompiuto": "inkompjuto",
+  "incompleta": "inkomplɛta",
+  "incomplete": "inkomplɛte",
+  "incompleti": "inkomplɛti",
+  "incompleto": "inkomplɛto",
+  "incomposto": "inkomposto",
+  "incomprensibile": "inkomprensibile",
+  "incomprensibili": "inkomprensibili",
+  "incomprensibilissima": "inkomprensibilisːima",
+  "incomprensibilissime": "inkomprensibilisːime",
+  "incomprensibilissimi": "inkomprensibilisːimi",
+  "incomprensibilissimo": "inkomprensibilisːimo",
+  "incomprensibilmente": "inkomprensibilmente",
+  "incomprensione": "inkomprensjone",
+  "incomprensioni": "inkomprensjoni",
+  "incompresi": "inkompresi",
+  "incompreso": "inkompreso",
+  "incompreso_2": "inkomprezo",
+  "incompressibile": "inkompresːibile",
+  "incompressibili": "inkompresːibili",
+  "incompressibilità": "inkompresːibilita",
+  "incomprimibile": "inkomprimibile",
+  "incomprimibili": "inkomprimibili",
+  "incomprimibilità": "inkomprimibilita",
+  "incomunicabile": "inkomunikabile",
+  "incomunicabili": "inkomunikabili",
+  "incomunicabilità": "inkomurikabilita",
+  "inconcare": "inkonkare",
+  "inconcepibile": "inkontʃepibile",
+  "inconcepibili": "inkontʃepibili",
+  "inconcepibilmente": "inkontʃepibilmente",
+  "inconciliabile": "inkontʃiljabile",
+  "inconciliabile_2": "iɲkontʃiljabile",
+  "inconciliabili": "inkontʃiljabili",
+  "inconciliabilità": "inkontʃiljabilita",
+  "inconciliante": "inkontʃiljante",
+  "inconcilianti": "inkontʃiljanti",
+  "inconcludente": "inkonkludɛnte",
+  "inconcludenza": "inkonkludɛntsa",
+  "inconcusso": "inkonkusːo",
+  "incondizionato": "inkonditːsjonato",
+  "inconfessabile": "inkonfesːabile",
+  "inconfessabili": "inkonfesːabili",
+  "inconfessato": "inkonfesːato",
+  "inconfondibile": "iɲkoɲfondibile",
+  "inconfondibili": "iɲkoɲfondibili",
+  "inconfrontabile": "inkonfrontabile",
+  "inconfrontabili": "inkonfrontabili",
+  "inconfutabile": "inkonfutabile",
+  "incongelabile": "inkondʒelabile",
+  "incongelabili": "inkondʒelabili",
+  "incongruamente": "inkonɡruamente",
+  "incongruente": "inkonɡruɛnte",
+  "incongruenza": "inkonɡruɛntsa",
+  "incongruo": "inkɔnɡruo",
+  "incongruo_2": "inkɔnɡrwo",
+  "inconiugabile": "inkonjuɡabile",
+  "inconiugabili": "inkonjuɡabili",
+  "inconoscibile": "inkonoʃʃibile",
+  "inconoscibili": "inkonoʃʃibili",
+  "inconquistabile": "inkonkwistabile",
+  "inconquistabili": "inkonkwistabili",
+  "inconsapevole": "inkonsapevole",
+  "inconsapevolezza": "inkonsapevoletːsa",
+  "inconsapevolmente": "inkonsapevolmente",
+  "inconsce": "iɲkɔnʃʃe",
+  "inconsci": "inkɔnʃi",
+  "inconsci_2": "iɲkɔnʃʃi",
+  "inconscia": "iɲkɔnʃʃ",
+  "inconsciamente": "inkonʃamente",
+  "inconscio": "iɲkɔnʃʃo",
+  "inconseguente": "inkonseɡwɛnte",
+  "inconsiderabile": "inkonsiderabile",
+  "inconsiderabili": "inkonsiderabili",
+  "inconsiderato": "inkonsiderato",
+  "inconsistente": "inkonsistɛnte",
+  "inconsistente_2": "iɲkonsistɛnte",
+  "inconsistenti": "inkonsistɛnti",
+  "inconsistenza": "inkonsistɛntsa",
+  "inconsistenza_2": "iɲkonsistɛntsa",
+  "inconsistenze": "inkonsistɛntse",
+  "inconsolabile": "inkonsolabile",
+  "inconsolabili": "inkonsolabili",
+  "inconsueto": "inkonsuɛto",
+  "inconsueto_2": "inkonswɛto",
+  "inconsueto_3": "iɲkonsuɛto",
+  "inconsulto": "inkonsulto",
+  "inconsutile": "inkonsutile",
+  "incontaminato": "inkontaminato",
+  "incontenibile": "inkontenibile",
+  "incontenibili": "inkontenibili",
+  "incontentabile": "inkontentabile",
+  "incontestabile": "inkontestabile",
+  "incontestabili": "inkontestabili",
+  "incontestabilmente": "inkontestabilmente",
+  "incontestata": "inkontestata",
+  "incontestate": "inkontestate",
+  "incontestati": "inkontestati",
+  "incontestato": "inkontestato",
+  "incontinentemente": "inkontinentemente",
+  "incontinenza": "iɲkontinɛntsa",
+  "incontinenze": "iɲkontinɛntse",
+  "incontra": "inkontra",
+  "incontrante": "iɲkontante",
+  "incontrare": "inkontrare",
+  "incontrare_2": "iɲkontrare",
+  "incontrarsi": "inkontrarsi",
+  "incontrarsi_2": "iɲkontrarsi",
+  "incontrastabile": "inkontrastabile",
+  "incontrastato": "inkontrastato",
+  "incontrato": "inkontrato",
+  "incontrato_2": "iɲkontato",
+  "incontri": "inkɔntri",
+  "incontro": "inkontro",
+  "incontro_2": "inkɔntrɔ",
+  "incontro_3": "iɲkontro",
+  "incontrollabile": "inkontrolːabile",
+  "incontrollabili": "inkontrolːabili",
+  "incontrollata": "inkontrolːata",
+  "incontrollate": "inkontrolːate",
+  "incontrollati": "inkontrolːati",
+  "incontrollato": "inkontrolːato",
+  "incontrovertibile": "inkontrovertibile",
+  "incontrovertibili": "inkontrovertibili",
+  "inconveniente": "inkonvenjɛnte",
+  "inconvenienti": "inkonvenjɛnti",
+  "inconvertibile": "inkonvertibile",
+  "inconvertibili": "inkonvertibili",
+  "inconvincibile": "inkonvintʃibile",
+  "inconvincibili": "inkonvintʃibili",
+  "incoordinazione": "inkoordinatsjone",
+  "incoordinazioni": "inkoordinatsjoni",
+  "incoraggiabile": "inkoradːʒabile",
+  "incoraggiabili": "inkoradːʒabili",
+  "incoraggiamento": "inkoradːʒamento",
+  "incoraggiante": "inkoradːʒante",
+  "incoraggianti": "inkoradːʒanti",
+  "incoraggiare": "inkoradːʒare",
+  "incoraggiato": "inkoradːʒato",
+  "incornare": "iɲkornare",
+  "incorniciato": "inkornitʃato",
+  "incoronante": "inkoronante",
+  "incoronare": "inkoronare",
+  "incoronare_2": "iɲkoronare",
+  "incoronato": "inkoronato",
+  "incoronazione": "iɲkoronatsjone",
+  "incorporabile": "inkorporabile",
+  "incorporabili": "inkorporabili",
+  "incorporante": "inkorporante",
+  "incorporare": "inkorporare",
+  "incorporato": "inkorporato",
+  "incorporato_2": "iɲkorporata",
+  "incorporazione": "iɲkorporatsjone",
+  "incorporazioni": "iɲkorporatsjoni",
+  "incorpori": "inkorpori",
+  "incorraggiamenti": "inkorːadːʒamenti",
+  "incorraggiamento": "inkoradːʒamento",
+  "incorraggiamento_2": "inkorːadːʒamento",
+  "incorreggibile": "inkorːedɡʒibile",
+  "incorreggibile_2": "inkorːedːʒibile",
+  "incorreggibili": "inkorːedɡʒibili",
+  "incorreggibilmente": "inkorːedːʒibilmente",
+  "incorrere": "inkorːere",
+  "incorretto": "inkorːɛtːo",
+  "incorrotta": "inkorːotː",
+  "incorrotto": "inkorːotːo",
+  "incorruttibile": "inkorːutːibile",
+  "incorruttibili": "inkorːutːibili",
+  "incorruttibilità": "inkorːutːibilita",
+  "incorruttibilmente": "inkorːutːibilmente",
+  "incosciente": "inkoskiente",
+  "incosciente_2": "inkoʃʃɛnte",
+  "incoscientemente": "inkoʃʃentemente",
+  "incoscientemente_2": "inkoʃʃɛntemente",
+  "incoscienti": "inkoʃʃɛnti",
+  "incoscienza": "iɲkoʃʃɛntsa",
+  "incostante": "inkostante",
+  "incostanti": "inkostanti",
+  "incostanza": "inkostantsa",
+  "incostanze": "inkostantse",
+  "incostituzionale": "inkostitutːsjonale",
+  "incostituzionalità": "inkostitutːsjonalita",
+  "incravattato": "inkravatːato",
+  "incredibile": "inkredibile",
+  "incredibile_2": "inkrɛdibile",
+  "incredibili": "inkrɛdibili",
+  "incredibilità": "inkredibilita",
+  "incredibilmente": "inkredibilmente",
+  "incredula": "inkrɛdula",
+  "incredulità": "inkredulita",
+  "incredulo": "inkrɛdulo",
+  "incrementabile": "inkrementabile",
+  "incrementabili": "inkrementabili",
+  "incrementale": "inkrementale",
+  "incrementare": "inkrementare",
+  "incrementato": "inkrementato",
+  "incrementi": "inkremento",
+  "incremento": "inkremento",
+  "increscere": "inkreʃʃere",
+  "incresciosamente": "inkreʃʃosamente",
+  "increscioso": "inkreʃʃoso",
+  "increscioso_2": "inkreʃʃozo",
+  "increspare": "inkrespare",
+  "increspato": "inkrespato",
+  "increspatura": "inkrespatura",
+  "increspature": "inkrespature",
+  "incriminabile": "inkriminabile",
+  "incriminabili": "inkriminabili",
+  "incriminando": "inkriminando",
+  "incriminante": "inkriminante",
+  "incriminanti": "inkriminanti",
+  "incriminare": "inkriminare",
+  "incriminato": "inkriminato",
+  "incriminazione": "inkriminatsjone",
+  "incriminazione_2": "inkriminatːsjone",
+  "incriminazioni": "inkriminatsjoni",
+  "incrinante": "inkrinante",
+  "incrinare": "inkrinare",
+  "incrinarsi": "inkrinarsi",
+  "incrinarsi_2": "inkrinrsi",
+  "incrinata": "inkrinata",
+  "incrinate": "inkrinate",
+  "incrinati": "inkrinati",
+  "incrinato": "inkrinato",
+  "incrinatura": "inkrinatura",
+  "incriticabile": "inkritikabile",
+  "incriticabili": "inkritikabili",
+  "incrociato": "inkrotʃato",
+  "incrociatore": "inkrotʃatore",
+  "incrocio": "inkrotʃo",
+  "incrollabile": "inkrolːabile",
+  "incrollabili": "inkrolːabili",
+  "incrostare": "inkrostare",
+  "incrostato": "inkrostato",
+  "incrostazione": "inkrostatːsjone",
+  "incrudelire": "inkrudelire",
+  "incruento": "inkruɛnto",
+  "incubatore": "inkubatore",
+  "incubatrice": "inkubatritʃe",
+  "incubazione": "inkubatːsjone",
+  "incubi": "iɲkubi",
+  "incubo": "iɲkubo",
+  "incude": "inkude",
+  "incudine": "inkudine",
+  "incudine_2": "iɲkudine",
+  "incudini": "inkudini",
+  "inculare": "inkulare",
+  "inculata": "inkulata",
+  "inculate": "inkulata",
+  "inculati": "inkulato",
+  "inculato": "inkulato",
+  "inculcare": "iɲkulkare",
+  "inculcato": "inkulkato",
+  "incultura": "inkultura",
+  "incumulabile": "inkumulabile",
+  "incumulabili": "inkumulabili",
+  "incunaboli": "inkunaboli",
+  "incunaboli_2": "iɲkunaboli",
+  "incunabolo": "inkunabolo",
+  "incunabolo_2": "iɲkunabolo",
+  "incunabuli": "inkunabuli",
+  "incunabulo": "inkunabulo",
+  "incuocere": "inkwɔtʃere",
+  "incurabile": "inkurabile",
+  "incurabile_2": "iɲkurabile",
+  "incurabili": "iɲkurabili",
+  "incurabilità": "iɲkurabilita",
+  "incurabilmente": "iɲkurabilmente",
+  "incurante": "inkurante",
+  "incuranti": "inkurante",
+  "incuria": "inkurja",
+  "incuria_2": "iɲkurja",
+  "incuriosire": "inkurjosire",
+  "incuriosirsi": "inkurjosirsi",
+  "incuriosito": "inkurjosito",
+  "incursione": "inkursjone",
+  "incursione_2": "inkursjɔne",
+  "incursioni": "inkursioni",
+  "incursioni_2": "inkursjɔni",
+  "incurvare": "inkurvare",
+  "incurvo": "inkurvo",
+  "incustodito": "inkustodito",
+  "incutere": "inkutere",
+  "indaco": "indako",
+  "indaffarato": "indafːarato",
+  "indagare": "indaɡare",
+  "indagato": "indaɡato",
+  "indagatore": "indaɡatore",
+  "indagine": "indadʒine",
+  "indagini": "indadʒini",
+  "indarno": "indarno",
+  "indatabile": "indatabile",
+  "indatabili": "indatabili",
+  "indebita": "indebita",
+  "indebitamente": "indebitamente",
+  "indebitamenti": "indebitamenti",
+  "indebitamento": "indebitamento",
+  "indebitare": "indebitare",
+  "indebitarsi": "indebitarsi",
+  "indebite": "indebite",
+  "indebiti": "indebiti",
+  "indebito": "indebito",
+  "indebolimento": "indebolimento",
+  "indebolire": "indebolire",
+  "indebolirsi": "indebolirsi",
+  "indebolito": "indebolito",
+  "indecente": "indetʃɛnte",
+  "indecente_2": "indɛtʃɛnte",
+  "indecentemente": "indetʃentemente",
+  "indecidibile": "indetʃidibile",
+  "indecifrabile": "indetʃifrabile",
+  "indecifrabili": "indetʃifrabili",
+  "indecisamente": "indetʃizamente",
+  "indecisione": "indetʃizjone",
+  "indecisione_2": "indɛtʃizjɔne",
+  "indecisioni": "indɛtʃizjɔni",
+  "indeciso": "indetʃizo",
+  "indeclinabile": "indeklinabile",
+  "indeclinabili": "indeklinabili",
+  "indecomponibile": "indekomponibile",
+  "indecomponibili": "indekomponibili",
+  "indecorosa": "indekorosa",
+  "indecorosa_2": "indekoroza",
+  "indecorosamente": "indekorosamente",
+  "indecorose": "indekorose",
+  "indecorose_2": "indekoroze",
+  "indecorosi": "indekorosi",
+  "indecorosi_2": "indekorozi",
+  "indecoroso": "indekoroso",
+  "indecoroso_2": "indekorozo",
+  "indefessa": "indefɛsːa",
+  "indefessamente": "indefesːamente",
+  "indefesse": "indefɛsːe",
+  "indefessi": "indefɛsːi",
+  "indefesso": "indefɛsːo",
+  "indefettibile": "indefetːibile",
+  "indefettibili": "indefetːibili",
+  "indefinibile": "indefinibile",
+  "indefinibili": "indefinibili",
+  "indefinita": "indefinita",
+  "indefinitamente": "indefinitamente",
+  "indefinite": "indefinite",
+  "indefiniti": "indefiniti",
+  "indefinito": "indefinito",
+  "indeformabile": "indeformabile",
+  "indeformabili": "indeformabili",
+  "indegnità": "indeɲɲita",
+  "indegno": "indeɲɲo",
+  "indeiscente": "indeiʃʃɛnte",
+  "indeiscenti": "indeiʃʃɛnti",
+  "indelebile": "indelebile",
+  "indelebile_2": "indelɛbile",
+  "indelebili": "indelebili",
+  "indelicata": "indelikata",
+  "indelicatamente": "indelikatamente",
+  "indelicate": "indelikate",
+  "indelicatezza": "indelikatetːsa",
+  "indelicatezze": "indelikatetːse",
+  "indelicati": "indelikati",
+  "indelicato": "indelikato",
+  "indemoniata": "indemonjato",
+  "indemoniate": "indemonjate",
+  "indemoniati": "indemonjati",
+  "indemoniato": "indemonjato",
+  "indenne": "indɛnːe",
+  "indenni": "indɛnːi",
+  "indennità": "indenːita",
+  "indennizza": "indenːitːsa",
+  "indennizzabile": "indenːidːzabile",
+  "indennizzabili": "indenːidːzabili",
+  "indennizzai": "indenːitːsai",
+  "indennizzammo": "indenːitːsamːo",
+  "indennizzando": "indenːitːsando",
+  "indennizzano": "indenːitːsano",
+  "indennizzante": "indenːidːzante",
+  "indennizzare": "indenːidːzare",
+  "indennizzarono": "indenːitːsarono",
+  "indennizzasse": "indenːitːsasːe",
+  "indennizzassero": "indenːitːsasːero",
+  "indennizzassi": "indenːitːsasːi",
+  "indennizzassimo": "indenːitːsasːimo",
+  "indennizzaste": "indenːitːsaste",
+  "indennizzasti": "indenːitːsasti",
+  "indennizzata": "indenːitːsata",
+  "indennizzate": "indenːitːsate",
+  "indennizzati": "indenːitːsati",
+  "indennizzato": "indenːidːzato",
+  "indennizzato_2": "indenːitːsato",
+  "indennizzava": "indenːitːsava",
+  "indennizzavamo": "indenːitːsavamo",
+  "indennizzavano": "indenːitːsavano",
+  "indennizzavate": "indenːitːsavate",
+  "indennizzavi": "indenːitːsavi",
+  "indennizzavo": "indenːitːsavo",
+  "indennizzazione": "indenːidːzatsjone",
+  "indennizzerà": "indenːitːsera",
+  "indennizzerai": "indenːitːserai",
+  "indennizzeranno": "indenːitːseranːo",
+  "indennizzerebbe": "indenːitːserebːe",
+  "indennizzerebbero": "indenːitːserebːero",
+  "indennizzerei": "indenːitːserei",
+  "indennizzeremmo": "indenːitːseremːo",
+  "indennizzeremo": "indenːitːseremo",
+  "indennizzereste": "indenːitːsereste",
+  "indennizzeresti": "indenːitːseresti",
+  "indennizzerete": "indenːitːserete",
+  "indennizzerò": "indenːitːsero",
+  "indennizzi": "indenːitːsi",
+  "indennizziamo": "indenːitːsiamo",
+  "indennizziate": "indenːitːsiate",
+  "indennizzino": "indenːitːsino",
+  "indennizzo": "indenːidːzo",
+  "indennizzo_2": "indenːitːso",
+  "indennizzò": "indenːitːso",
+  "inderogabile": "inderoɡabile",
+  "inderogabili": "inderoɡabili",
+  "indescrivibile": "indeskriptibile",
+  "indescrivibile_2": "indeskrivibile",
+  "indescrivibili": "indeskriptibili",
+  "indesiderato": "indesiderato",
+  "indeterminabile": "indeterminabile",
+  "indeterminabili": "indeterminabili",
+  "indeterminatamente": "indeterminatamente",
+  "indeterminato": "indeterminato",
+  "indetonante": "indetonante",
+  "indetonanti": "indetonanti",
+  "indetto": "indetːo",
+  "indeuropea": "indeuropɛa",
+  "indeuropee": "indeuropɛe",
+  "indeuropei": "indeuropɛi",
+  "indeuropeo": "indeuropɛo",
+  "indeuropeo_2": "indewropɛo",
+  "indi": "indi",
+  "india": "indja",
+  "indiana": "indjana",
+  "indiane": "indjane",
+  "indiani": "indjani",
+  "indiano": "indjano",
+  "indicabile": "indikabile",
+  "indicabili": "indikabili",
+  "indicante": "indikante",
+  "indicare": "indikare",
+  "indicarsi": "indikare",
+  "indicata": "indikata",
+  "indicate": "indikate",
+  "indicati": "indikati",
+  "indicativa": "indikativa",
+  "indicativamente": "indikativamente",
+  "indicative": "indikative",
+  "indicativi": "indikativi",
+  "indicativo": "indikativo",
+  "indicato": "indikato",
+  "indicatore": "indikatore",
+  "indicatori": "indikatori",
+  "indicatoride": "indikatɔride",
+  "indicatoridi": "indikatɔridi",
+  "indicatrice": "indikatritʃe",
+  "indicatrici": "indikatritʃi",
+  "indicazione": "indikatsjone",
+  "indicazione_2": "indikatːsjone",
+  "indicazioni": "indikatsjoni",
+  "indice": "inditʃe",
+  "indicibile": "inditʃibile",
+  "indicibili": "inditʃibili",
+  "indicibilmente": "inditʃibilmente",
+  "indicizzato": "inditʃidːzato",
+  "indico": "indiko",
+  "indie": "indje",
+  "indietreggiare": "indjetredːʒare",
+  "indietro": "indiɛtro",
+  "indietro_2": "indjɛtro",
+  "indifendibile": "indifendibil",
+  "indifendibili": "indifendibili",
+  "indifensibile": "indifensibile",
+  "indifensibili": "indifensibili",
+  "indifeso": "indifeso",
+  "indifeso_2": "indifezo",
+  "indifferente": "indifːerɛnte",
+  "indifferentemente": "indifːerentemente",
+  "indifferenza": "indifːerɛntsa",
+  "indifferenze": "indifːerɛntse",
+  "indifferenziata": "indifːerentsjata",
+  "indifferenziate": "indifːerentsjate",
+  "indifferenziati": "indifːerentsjati",
+  "indifferenziato": "indifːerentsjato",
+  "indifferibile": "indifːeribile",
+  "indifferibili": "indifːeribili",
+  "indigeno": "indidʒeno",
+  "indigente": "indidʒɛnte",
+  "indigenti": "indidʒɛnti",
+  "indigenza": "indidʒɛntsa",
+  "indigenze": "indidʒɛntse",
+  "indigeribile": "indidʒeribile",
+  "indigeribili": "indidʒeribili",
+  "indigesta": "indidʒɛsta",
+  "indigeste": "indidʒɛste",
+  "indigesti": "indidʒɛsti",
+  "indigestibilità": "indidʒestibilita",
+  "indigestione": "indidʒestjone",
+  "indigestissima": "indidʒɛstisːima",
+  "indigestissime": "indidʒɛstisːime",
+  "indigestissimi": "indidʒɛstisːimi",
+  "indigestissimo": "indidʒɛstisːimo",
+  "indigesto": "indidʒɛsto",
+  "indigitamenti": "indidʒitamenti",
+  "indignando": "indiɲɲando",
+  "indignante": "indiɲɲante",
+  "indignare": "indiɲɲare",
+  "indignato": "indiɲɲato"
 }

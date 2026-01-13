@@ -1,1533 +1,533 @@
 {
-  "dotti": [
-    "dotːi",
-    "dɔtːi",
-    "dɔtːo"
-  ],
-  "dotto": [
-    "dotːo",
-    "dɔtːo"
-  ],
-  "dottorando": [
-    "dotːorando"
-  ],
-  "dottorare": [
-    "dotːorare"
-  ],
-  "dottorati": [
-    "dotːorati"
-  ],
-  "dottorato": [
-    "dotːorato"
-  ],
-  "dottore": [
-    "dotːore",
-    "dɔtːɔre"
-  ],
-  "dottoresco": [
-    "dotːoresko"
-  ],
-  "dottoressa": [
-    "dotːoresːa"
-  ],
-  "dottoresse": [
-    "dotːoresːe"
-  ],
-  "dottori": [
-    "dotːori",
-    "dɔtːɔri"
-  ],
-  "dottrina": [
-    "dotːrina"
-  ],
-  "dottrinale": [
-    "dotːrinale"
-  ],
-  "dottrinali": [
-    "dotːrinali"
-  ],
-  "dottrinare": [
-    "dotːrinare"
-  ],
-  "dottrinari": [
-    "dotːrinari"
-  ],
-  "dottrinaria": [
-    "dotːrinarja"
-  ],
-  "dottrinarie": [
-    "dotːrinarje"
-  ],
-  "dottrinario": [
-    "dotːrinarjo"
-  ],
-  "dottrinarismi": [
-    "dotːriranizmi"
-  ],
-  "dottrinarismo": [
-    "dotːriranizmo"
-  ],
-  "dottrine": [
-    "dotːrine"
-  ],
-  "dov’è": [
-    "dovɛ"
-  ],
-  "dove": [
-    "dove"
-  ],
-  "dové": [
-    "dove"
-  ],
-  "dovei": [
-    "dovetːi"
-  ],
-  "dovemmo": [
-    "dovemːo"
-  ],
-  "dovendo": [
-    "dovendo"
-  ],
-  "dovere": [
-    "dovere",
-    "dɔvɛre"
-  ],
-  "doveri": [
-    "doveri"
-  ],
-  "doverono": [
-    "doverono"
-  ],
-  "doverosamente": [
-    "doverosamente",
-    "doverozamente"
-  ],
-  "doveroso": [
-    "doverozo"
-  ],
-  "dovesse": [
-    "dovesːe"
-  ],
-  "dovessero": [
-    "dovesːero"
-  ],
-  "dovessi": [
-    "dovesːi"
-  ],
-  "dovessimo": [
-    "dovesːimo"
-  ],
-  "doveste": [
-    "doveste"
-  ],
-  "dovesti": [
-    "dovesti"
-  ],
-  "dovete": [
-    "dovete"
-  ],
-  "dovette": [
-    "dovetːe"
-  ],
-  "dovettero": [
-    "dovetːero"
-  ],
-  "dovetti": [
-    "dovei"
-  ],
-  "doveva": [
-    "doveva"
-  ],
-  "dovevamo": [
-    "dovevamo"
-  ],
-  "dovevano": [
-    "dovevano"
-  ],
-  "dovevate": [
-    "dovevate"
-  ],
-  "dovevi": [
-    "dovevi"
-  ],
-  "dovevo": [
-    "dovevo"
-  ],
-  "dovizia": [
-    "dovitsja"
-  ],
-  "doviziosamente": [
-    "dovitːsjozamente"
-  ],
-  "dovizioso": [
-    "dovitsjozo"
-  ],
-  "dovrà": [
-    "dora"
-  ],
-  "dovrai": [
-    "dovrai"
-  ],
-  "dovranno": [
-    "dovranːo"
-  ],
-  "dovrebbe": [
-    "dovrebːe",
-    "dovrɛbːe"
-  ],
-  "dovrebbero": [
-    "dovrebːero"
-  ],
-  "dovrei": [
-    "dovrei"
-  ],
-  "dovremmo": [
-    "dovremːo"
-  ],
-  "dovremo": [
-    "dovremo"
-  ],
-  "dovreste": [
-    "dovreste"
-  ],
-  "dovresti": [
-    "dovresti"
-  ],
-  "dovrete": [
-    "dovrete"
-  ],
-  "dovrò": [
-    "dovro",
-    "dovrɔ"
-  ],
-  "dovunque": [
-    "dovunkwe"
-  ],
-  "dovuta": [
-    "dovuta"
-  ],
-  "dovute": [
-    "dovute"
-  ],
-  "dovuti": [
-    "dovuti"
-  ],
-  "dovuto": [
-    "dovuto"
-  ],
-  "dozzina": [
-    "dodːzina",
-    "dɔtːsina"
-  ],
-  "dozzinale": [
-    "dodːzinale"
-  ],
-  "dozzine": [
-    "dodːzine"
-  ],
-  "dracena": [
-    "dratʃɛna"
-  ],
-  "draco": [
-    "drako"
-  ],
-  "dracone": [
-    "drakone"
-  ],
-  "draconiano": [
-    "drakonjano"
-  ],
-  "dragaggi": [
-    "draɡadːʒi"
-  ],
-  "dragaggio": [
-    "draɡadːʒo"
-  ],
-  "dragamine": [
-    "draɡamine"
-  ],
-  "draghi": [
-    "draɡi"
-  ],
-  "draghinassa": [
-    "draɡinasːa"
-  ],
-  "draglia": [
-    "draʎa"
-  ],
-  "drago": [
-    "draɡo"
-  ],
-  "dragomanno": [
-    "draɡomanːo"
-  ],
-  "dragonaccio": [
-    "draɡonatːʃo"
-  ],
-  "dragonato": [
-    "draɡonato"
-  ],
-  "dragoncelli": [
-    "draɡontʃɛlːi"
-  ],
-  "dragoncello": [
-    "draɡontʃɛlːo"
-  ],
-  "dragoncino": [
-    "draɡontʃino"
-  ],
-  "dragone": [
-    "draɡone"
-  ],
-  "dragonessa": [
-    "draɡonesːa"
-  ],
-  "dragontea": [
-    "draɡontɛa"
-  ],
-  "drakar": [
-    "drakar"
-  ],
-  "drakkar": [
-    "drakːar"
-  ],
-  "dramma": [
-    "dramːa"
-  ],
-  "drammaticamente": [
-    "dramːatikamente"
-  ],
-  "drammaticità": [
-    "dramːatitʃita"
-  ],
-  "drammatico": [
-    "dramːatiko"
-  ],
-  "drammatizzare": [
-    "dramːatidːzare"
-  ],
-  "drammatizzato": [
-    "dramːatidːzato"
-  ],
-  "drammaturga": [
-    "dramːaturɡa"
-  ],
-  "drammaturghe": [
-    "dramːaturɡe"
-  ],
-  "drammaturghi": [
-    "dramːaturɡi"
-  ],
-  "drammaturgia": [
-    "dramːaturdʒia"
-  ],
-  "drammaturgo": [
-    "dramːaturɡo"
-  ],
-  "dramme": [
-    "dramːe"
-  ],
-  "drammi": [
-    "dramːi"
-  ],
-  "drapetomania": [
-    "drapevomania"
-  ],
-  "drappeggio": [
-    "drapːedːʒo"
-  ],
-  "drappeggiò": [
-    "drapːedːʒo"
-  ],
-  "drappello": [
-    "drapːɛlːo"
-  ],
-  "drappo": [
-    "drapːo"
-  ],
-  "drasticamente": [
-    "drastikamente"
-  ],
-  "drastico": [
-    "drastiko"
-  ],
-  "dreadnought": [
-    "drɛdnot"
-  ],
-  "drenaggi": [
-    "drenadːʒi"
-  ],
-  "drenaggio": [
-    "drenadːʒo"
-  ],
-  "drenare": [
-    "drenare"
-  ],
-  "drepanocitico": [
-    "drepanotʃitiko"
-  ],
-  "dressage": [
-    "dresːaʒ"
-  ],
-  "driade": [
-    "driade"
-  ],
-  "dribblare": [
-    "dribːlare"
-  ],
-  "drillo": [
-    "drilːo"
-  ],
-  "drink": [
-    "drink"
-  ],
-  "driopitechi": [
-    "drjopiteki"
-  ],
-  "driopitecino": [
-    "driopitetʃino"
-  ],
-  "driopiteco": [
-    "drjopiteko"
-  ],
-  "dritta": [
-    "dritːa"
-  ],
-  "dritte": [
-    "dritːe"
-  ],
-  "dritti": [
-    "dritːi"
-  ],
-  "dritto": [
-    "dritːo"
-  ],
-  "driver": [
-    "drajver"
-  ],
-  "drizzante": [
-    "dritːsante"
-  ],
-  "drizzare": [
-    "dritːsare"
-  ],
-  "drizzarsi": [
-    "dritːsarsi"
-  ],
-  "drizzato": [
-    "dritːsato"
-  ],
-  "droga": [
-    "drɔɡa"
-  ],
-  "drogaggi": [
-    "droɡadːʒi"
-  ],
-  "drogaggio": [
-    "droɡadːʒo"
-  ],
-  "drogare": [
-    "droɡare"
-  ],
-  "drogarsi": [
-    "droɡarsi"
-  ],
-  "drogato": [
-    "droɡato"
-  ],
-  "droghe": [
-    "drɔɡe"
-  ],
-  "drogheria": [
-    "droɡeria"
-  ],
-  "droghiera": [
-    "droɡjɛra"
-  ],
-  "droghiere": [
-    "droɡjɛre"
-  ],
-  "droghieri": [
-    "droɡjɛre"
-  ],
-  "dromaide": [
-    "dromajde"
-  ],
-  "dromedari": [
-    "dromedari"
-  ],
-  "dromedaria": [
-    "dromedarja"
-  ],
-  "dromedarie": [
-    "dromedarje"
-  ],
-  "dromedario": [
-    "dromedarjo"
-  ],
-  "dromiceide": [
-    "dromitʃɛjde"
-  ],
-  "dromo": [
-    "drɔmo"
-  ],
-  "dromomane": [
-    "dromomane"
-  ],
-  "dromomani": [
-    "dromomani"
-  ],
-  "dromos": [
-    "drɔmos"
-  ],
-  "dromotropo": [
-    "dromɔtropo"
-  ],
-  "drone": [
-    "drone"
-  ],
-  "drongo": [
-    "drɔnɡo"
-  ],
-  "dronista": [
-    "dronista"
-  ],
-  "dronisti": [
-    "dronisti"
-  ],
-  "druda": [
-    "druda"
-  ],
-  "drudo": [
-    "drudo"
-  ],
-  "druidessa": [
-    "drwidesːa"
-  ],
-  "druidesse": [
-    "drujdesːe",
-    "drwidesːe"
-  ],
-  "drusa": [
-    "druza"
-  ],
-  "drusiana": [
-    "druzjana"
-  ],
-  "druso": [
-    "druzo"
-  ],
-  "dry": [
-    "draj"
-  ],
-  "duale": [
-    "duale"
-  ],
-  "dualismo": [
-    "dwalizmo"
-  ],
-  "dualistico": [
-    "dualistiko"
-  ],
-  "dualmente": [
-    "dwalmente"
-  ],
-  "dubbi": [
-    "dubːi"
-  ],
-  "dubbia": [
-    "dubːja"
-  ],
-  "dubbiamente": [
-    "dubːjamente"
-  ],
-  "dubbiare": [
-    "dubːjare"
-  ],
-  "dubbie": [
-    "dubːje"
-  ],
-  "dubbietà": [
-    "dubːjeta"
-  ],
-  "dubbiezza": [
-    "dubːjetːsa"
-  ],
-  "dubbio": [
-    "dubːjo"
-  ],
-  "dubbiosa": [
-    "dubːjoza"
-  ],
-  "dubbiosamente": [
-    "dubːjozamente"
-  ],
-  "dubbiose": [
-    "dubːjoze"
-  ],
-  "dubbiosi": [
-    "dubːjozi"
-  ],
-  "dubbiosità": [
-    "dubːjozita"
-  ],
-  "dubbioso": [
-    "dubːjozo"
-  ],
-  "dubita": [
-    "dubita"
-  ],
-  "dubitabile": [
-    "dubitabile"
-  ],
-  "dubitai": [
-    "dubitai"
-  ],
-  "dubitammo": [
-    "dubitamːo"
-  ],
-  "dubitando": [
-    "dubitando"
-  ],
-  "dubitano": [
-    "dubitano"
-  ],
-  "dubitante": [
-    "dubitante"
-  ],
-  "dubitare": [
-    "dubitare"
-  ],
-  "dubitarono": [
-    "dubitarono"
-  ],
-  "dubitasse": [
-    "dubitasːe"
-  ],
-  "dubitassero": [
-    "dubitasːero"
-  ],
-  "dubitassi": [
-    "dubitasːi"
-  ],
-  "dubitassimo": [
-    "dubitasːimo"
-  ],
-  "dubitaste": [
-    "dubitaste"
-  ],
-  "dubitasti": [
-    "dubitasti"
-  ],
-  "dubitate": [
-    "dubitate"
-  ],
-  "dubitativo": [
-    "dubitativo"
-  ],
-  "dubitato": [
-    "dubitato"
-  ],
-  "dubitatore": [
-    "dubitatore"
-  ],
-  "dubitava": [
-    "dubitava"
-  ],
-  "dubitavamo": [
-    "dubitavamo"
-  ],
-  "dubitavano": [
-    "dubitavano"
-  ],
-  "dubitavate": [
-    "dubitavate"
-  ],
-  "dubitavi": [
-    "dubitavi"
-  ],
-  "dubitavo": [
-    "dubitavo"
-  ],
-  "dubitazione": [
-    "dubitatːsjone"
-  ],
-  "dubiterà": [
-    "dubitera"
-  ],
-  "dubiterai": [
-    "dubiterai"
-  ],
-  "dubiteranno": [
-    "dubiteranːo"
-  ],
-  "dubiterebbe": [
-    "dubiterebːe"
-  ],
-  "dubiterebbero": [
-    "dubiterebːero"
-  ],
-  "dubiterei": [
-    "dubiterei"
-  ],
-  "dubiteremmo": [
-    "dubiteremːo"
-  ],
-  "dubiteremo": [
-    "dubiteremo"
-  ],
-  "dubitereste": [
-    "dubitereste"
-  ],
-  "dubiteresti": [
-    "dubiteresti"
-  ],
-  "dubiterete": [
-    "dubiterete"
-  ],
-  "dubiterò": [
-    "dubitero"
-  ],
-  "dubiti": [
-    "dubiti"
-  ],
-  "dubitiamo": [
-    "dubitjamo"
-  ],
-  "dubitiate": [
-    "dubitjate"
-  ],
-  "dubitino": [
-    "dubitino"
-  ],
-  "dubito": [
-    "dubito"
-  ],
-  "dubitò": [
-    "dubito"
-  ],
-  "dublinese": [
-    "dublinese"
-  ],
-  "dublinesi": [
-    "dublinesi"
-  ],
-  "dublino": [
-    "dublino"
-  ],
-  "dubnio": [
-    "dubnjo"
-  ],
-  "duca": [
-    "duka"
-  ],
-  "ducale": [
-    "dukale"
-  ],
-  "ducato": [
-    "dukato"
-  ],
-  "ducatone": [
-    "dukatone"
-  ],
-  "duce": [
-    "dutʃe"
-  ],
-  "ducere": [
-    "dutʃere"
-  ],
-  "duchessa": [
-    "dukesːa"
-  ],
-  "duchesse": [
-    "dukesːa",
-    "dukesːe"
-  ],
-  "duchi": [
-    "duki"
-  ],
-  "duci": [
-    "dutʃi"
-  ],
-  "due": [
-    "due"
-  ],
-  "duecentesimo": [
-    "duetʃentɛzimo"
-  ],
-  "duecento": [
-    "duetʃɛnto",
-    "dwetʃɛnto"
-  ],
-  "duecentometrista": [
-    "duetʃɛentometrista"
-  ],
-  "duellante": [
-    "duelːante"
-  ],
-  "duellanti": [
-    "duelːanti"
-  ],
-  "duellare": [
-    "duelːare"
-  ],
-  "duellarsi": [
-    "duelːarsi"
-  ],
-  "duellato": [
-    "duelːato"
-  ],
-  "duelli": [
-    "duɛlːi"
-  ],
-  "duello": [
-    "duɛlːo"
-  ],
-  "duemila": [
-    "duemila"
-  ],
-  "duerno": [
-    "duɛrno"
-  ],
-  "duetti": [
-    "duetːi"
-  ],
-  "duettista": [
-    "duetːista"
-  ],
-  "duettiste": [
-    "duetːiste"
-  ],
-  "duettisti": [
-    "duetːisti"
-  ],
-  "duetto": [
-    "duetːo"
-  ],
-  "dugo": [
-    "duɡo"
-  ],
-  "dugongo": [
-    "duɡɔnɡo",
-    "duɡɔɲɡo"
-  ],
-  "dulosi": [
-    "dulɔzi"
-  ],
-  "duma": [
-    "duma"
-  ],
-  "duna": [
-    "duna"
-  ],
-  "dunite": [
-    "dunite"
-  ],
-  "dunque": [
-    "dunkwe"
-  ],
-  "duo": [
-    "duo"
-  ],
-  "duodeno": [
-    "duodɛno"
-  ],
-  "duolo": [
-    "dwɔlo"
-  ],
-  "duomo": [
-    "dwɔmo",
-    "dwɔmɔ"
-  ],
-  "duopolio": [
-    "duopɔljo"
-  ],
-  "dupla": [
-    "dupla"
-  ],
-  "duple": [
-    "duple"
-  ],
-  "duplex": [
-    "dupleks"
-  ],
-  "dupli": [
-    "dupli"
-  ],
-  "duplicabile": [
-    "duplikabile"
-  ],
-  "duplicabili": [
-    "duplikabili"
-  ],
-  "duplicando": [
-    "duplikando"
-  ],
-  "duplicante": [
-    "duplikante"
-  ],
-  "duplicare": [
-    "duplikare"
-  ],
-  "duplicativa": [
-    "duplikativa"
-  ],
-  "duplicative": [
-    "duplikative"
-  ],
-  "duplicativi": [
-    "duplikativi"
-  ],
-  "duplicato": [
-    "duplikato"
-  ],
-  "duplice": [
-    "duplitʃe"
-  ],
-  "duplichi": [
-    "dupliki"
-  ],
-  "duplicidentati": [
-    "duplitʃidentati"
-  ],
-  "duplicità": [
-    "duplitʃita"
-  ],
-  "duplico": [
-    "dupliko"
-  ],
-  "dura": [
-    "dura"
-  ],
-  "durabile": [
-    "durabile"
-  ],
-  "durabili": [
-    "durabili"
-  ],
-  "duralluminio": [
-    "duralːuminjo"
-  ],
-  "duramadre": [
-    "duramadre"
-  ],
-  "duramente": [
-    "duramente"
-  ],
-  "durando": [
-    "durando"
-  ],
-  "durante": [
-    "durante"
-  ],
-  "durare": [
-    "durare"
-  ],
-  "durata": [
-    "durata"
-  ],
-  "durate": [
-    "durate"
-  ],
-  "durato": [
-    "durato"
-  ],
-  "duratura": [
-    "duratura"
-  ],
-  "durature": [
-    "durature"
-  ],
-  "duraturi": [
-    "duraturi"
-  ],
-  "duraturo": [
-    "duraturo"
-  ],
-  "durazzo": [
-    "duratːso"
-  ],
-  "dure": [
-    "dure"
-  ],
-  "durevole": [
-    "durevole",
-    "durɛvɔle"
-  ],
-  "durevoli": [
-    "durevoli"
-  ],
-  "durevolmente": [
-    "durevolmente"
-  ],
-  "durezza": [
-    "duretːsa"
-  ],
-  "duri": [
-    "duri"
-  ],
-  "durissima": [
-    "durisːima"
-  ],
-  "durissimamente": [
-    "durisːimamente"
-  ],
-  "durissime": [
-    "durisːime"
-  ],
-  "durissimi": [
-    "durisːimi"
-  ],
-  "durissimo": [
-    "durisːimo"
-  ],
-  "duro": [
-    "duro"
-  ],
-  "durone": [
-    "durone"
-  ],
-  "duttile": [
-    "dutːile"
-  ],
-  "duttili": [
-    "dutːili"
-  ],
-  "duttilità": [
-    "dutːilita"
-  ],
-  "duttilmente": [
-    "dutːilmente"
-  ],
-  "e": [
-    "e",
-    "ɛ"
-  ],
-  "è": [
-    "ɛ"
-  ],
-  "eastwoodiana": [
-    "istwudjana"
-  ],
-  "eastwoodiane": [
-    "istwudjane"
-  ],
-  "eastwoodiani": [
-    "istwudjani"
-  ],
-  "eastwoodiano": [
-    "istwudjano"
-  ],
-  "eau": [
-    "eau"
-  ],
-  "ebani": [
-    "ɛbano"
-  ],
-  "ebanista": [
-    "ebanista"
-  ],
-  "ebaniste": [
-    "ebaniste"
-  ],
-  "ebanisti": [
-    "ebanisti"
-  ],
-  "ebano": [
-    "ɛbano"
-  ],
-  "ebbe": [
-    "ebːe"
-  ],
-  "ebbene": [
-    "ebːɛne"
-  ],
-  "ebbero": [
-    "ebːero"
-  ],
-  "ebbi": [
-    "ebːi",
-    "ɛbːi"
-  ],
-  "ebbio": [
-    "ɛbːjo"
-  ],
-  "ebbrezza": [
-    "ebːretːsa"
-  ],
-  "ebbrietà": [
-    "ebːrjeta"
-  ],
-  "ebbro": [
-    "ɛbːro"
-  ],
-  "ebdomada": [
-    "ebdɔmada"
-  ],
-  "ebdomadari": [
-    "ebdomadari"
-  ],
-  "ebdomadaria": [
-    "ebdomadarja"
-  ],
-  "ebdomadariamente": [
-    "ebdomadarjamente"
-  ],
-  "ebdomadarie": [
-    "ebdomadarje"
-  ],
-  "ebdomadario": [
-    "ebdomadarjo"
-  ],
-  "ebere": [
-    "ebere",
-    "ɛbere"
-  ],
-  "ebete": [
-    "ɛbete"
-  ],
-  "ebeti": [
-    "ɛbeti"
-  ],
-  "ebetudine": [
-    "ebetudine"
-  ],
-  "ebola": [
-    "ɛbola"
-  ],
-  "ebollizione": [
-    "ebolːitsjone"
-  ],
-  "ebraica": [
-    "ebraika"
-  ],
-  "ebraiche": [
-    "ebraike"
-  ],
-  "ebraici": [
-    "ebraitʃi"
-  ],
-  "ebraico": [
-    "ebraiko",
-    "ebrajko"
-  ],
-  "ebraismo": [
-    "ebraizmo"
-  ],
-  "ebrea": [
-    "ebrɛa"
-  ],
-  "ebree": [
-    "ebrɛe"
-  ],
-  "ebrei": [
-    "ebrei",
-    "ebrɛo"
-  ],
-  "ebreo": [
-    "ebrɛa",
-    "ebrɛo"
-  ],
-  "ebrietà": [
-    "ebrjeta"
-  ],
-  "ebro": [
-    "ɛbro"
-  ],
-  "ebulliometri": [
-    "ebulːjomɛtri"
-  ],
-  "ebulliometrica": [
-    "ebulːjomɛtrika"
-  ],
-  "ebulliometriche": [
-    "ebulːjomɛtrike"
-  ],
-  "ebulliometrici": [
-    "ebulːjomɛtritʃi"
-  ],
-  "ebulliometrico": [
-    "ebulːjomɛtriko"
-  ],
-  "ebulliometro": [
-    "ebulːjomɛtro",
-    "ebulːjɔmetro"
-  ],
-  "ebullioscopi": [
-    "ebulːjoskɔpi"
-  ],
-  "ebullioscopia": [
-    "ebulːjoskopia"
-  ],
-  "ebullioscopica": [
-    "ebulːjoskɔpika"
-  ],
-  "ebullioscopiche": [
-    "ebulːjoskɔpike"
-  ],
-  "ebullioscopici": [
-    "ebulːjoskɔpitʃi"
-  ],
-  "ebullioscopico": [
-    "ebulːjoskɔpiko"
-  ],
-  "ebullioscopio": [
-    "ebulːjoskɔpjo"
-  ],
-  "eburneo": [
-    "eburneo"
-  ],
-  "ecatombe": [
-    "ekatombe"
-  ],
-  "ecatostilo": [
-    "ekatɔstilo"
-  ],
-  "eccedente": [
-    "etːʃedɛnte",
-    "etːʃɛdente"
-  ],
-  "eccedenti": [
-    "etːʃɛdenti"
-  ],
-  "eccedenza": [
-    "etːʃedɛntsa"
-  ],
-  "eccedere": [
-    "etːʃɛdere"
-  ],
-  "ecceduto": [
-    "etːʃɛduto"
-  ],
-  "ecceità": [
-    "etːʃejta"
-  ],
-  "eccellente": [
-    "etːʃelːɛnte"
-  ],
-  "eccellentemente": [
-    "etːʃelːentemente"
-  ],
-  "eccellenti": [
-    "etːʃelːɛnti"
-  ],
-  "eccellentissima": [
-    "etːʃelːentisːima"
-  ],
-  "eccellentissime": [
-    "etːʃelːentisːime"
-  ],
-  "eccellentissimi": [
-    "etːʃelːentisːimi"
-  ],
-  "eccellentissimo": [
-    "etːʃelːentisːimo"
-  ],
-  "eccellenza": [
-    "etːʃelːɛntsa"
-  ],
-  "eccellere": [
-    "etːʃɛlːere"
-  ],
-  "eccelso": [
-    "etːʃɛlso"
-  ],
-  "eccentrica": [
-    "etːʃɛntrika"
-  ],
-  "eccentricamente": [
-    "etːʃentrikamente"
-  ],
-  "eccentriche": [
-    "etːʃɛntrike"
-  ],
-  "eccentrici": [
-    "etːʃɛntritʃi"
-  ],
-  "eccentricità": [
-    "eʃʃentritʃita"
-  ],
-  "eccentrico": [
-    "etːʃɛntriko"
-  ],
-  "eccepire": [
-    "etːʃepire"
-  ],
-  "eccepite": [
-    "etːʃepite"
-  ],
-  "eccepito": [
-    "etːʃepito"
-  ],
-  "eccessivamente": [
-    "etːʃesːivamente"
-  ],
-  "eccessivo": [
-    "etːʃesːivo"
-  ],
-  "eccesso": [
-    "etːʃɛsːo"
-  ],
-  "eccetera": [
-    "etːʃɛtera"
-  ],
-  "eccetto": [
-    "etːʃɛtːo"
-  ],
-  "eccettuato": [
-    "etːʃetːuato"
-  ],
-  "eccezionale": [
-    "etːʃetsjonale",
-    "etːʃetːsjonale"
-  ],
-  "eccezionali": [
-    "etːʃetsjonali"
-  ],
-  "eccezionalissima": [
-    "etːʃetsjonalisːima"
-  ],
-  "eccezionalissime": [
-    "etːʃetsjonalisːime"
-  ],
-  "eccezionalissimi": [
-    "etːʃetsjonalisːimi"
-  ],
-  "eccezionalissimo": [
-    "etːʃetsjonalisːimo"
-  ],
-  "eccezionalmente": [
-    "etːʃetsjonalmente",
-    "etːʃetːsjonalmente"
-  ],
-  "eccezione": [
-    "etːʃetsjone",
-    "etːʃetːsione"
-  ],
-  "eccezioni": [
-    "etːʃetsjoni"
-  ],
-  "ecchi": [
-    "ɛkːi"
-  ],
-  "ecchimosi": [
-    "ekːimozi",
-    "ekːimɔzi"
-  ],
-  "eccidio": [
-    "etːʃidio",
-    "etːʃidjo"
-  ],
-  "eccipiente": [
-    "etːʃipjɛnte"
-  ],
-  "eccipienti": [
-    "etːʃipjɛnti"
-  ],
-  "eccitabile": [
-    "etːʃitabile"
-  ],
-  "eccitabili": [
-    "etːʃitabili"
-  ],
-  "eccitamento": [
-    "etːʃitamento"
-  ],
-  "eccitante": [
-    "etːʃitante"
-  ],
-  "eccitanti": [
-    "etːʃitanti"
-  ],
-  "eccitare": [
-    "etːʃitare"
-  ],
-  "eccitato": [
-    "etːʃitato"
-  ],
-  "eccitazione": [
-    "etːʃitatsjone",
-    "etːʃitatːsjone"
-  ],
-  "eccitazioni": [
-    "etːʃitatsjoni"
-  ],
-  "eccitone": [
-    "etːʃitone"
-  ],
-  "eccitotossica": [
-    "etːʃitotɔsːika"
-  ],
-  "eccitotossiche": [
-    "etːʃitotɔsːike"
-  ],
-  "eccitotossici": [
-    "etːʃitotɔsːitʃi"
-  ],
-  "eccitotossicità": [
-    "etːʃitotosːitʃita"
-  ],
-  "eccitotossico": [
-    "etːʃitotɔsːiko"
-  ],
-  "ecclesiastica": [
-    "ɛkːlɛzjastika"
-  ],
-  "ecclesiastiche": [
-    "ɛkːlɛzjastike"
-  ],
-  "ecclesiastici": [
-    "ɛkːlɛzjastiktʃi"
-  ],
-  "ecclesiastico": [
-    "ekːlezjastiko",
-    "ɛkːlɛzjastiko"
-  ],
-  "ecclesiologica": [
-    "ekːlezjolɔdʒika"
-  ],
-  "ecclesiologiche": [
-    "ekːlezjolɔdʒike"
-  ],
-  "ecclesiologici": [
-    "ekːlezjolɔdʒitʃi"
-  ],
-  "ecclesiologico": [
-    "ekːlezjolɔdʒiko"
-  ],
-  "ecco": [
-    "ɛkːo"
-  ],
-  "eccocela": [
-    "ɛkːotʃela"
-  ],
-  "eccoci": [
-    "ɛkːotʃi"
-  ],
-  "eccogli": [
-    "ɛkːoʎi"
-  ],
-  "eccogliela": [
-    "ɛkːoʎela"
-  ],
-  "eccogliele": [
-    "ɛkːoʎele"
-  ],
-  "eccoglieli": [
-    "ɛkːoʎeli"
-  ],
-  "eccoglielo": [
-    "ɛkːoʎelo"
-  ],
-  "eccogliene": [
-    "ɛkːoʎene"
-  ],
-  "eccola": [
-    "ɛkːola"
-  ],
-  "eccole": [
-    "ɛkːole"
-  ],
-  "eccoli": [
-    "ɛkːoli"
-  ],
-  "eccolo": [
-    "ɛkːolo"
-  ],
-  "eccome": [
-    "ekːome"
-  ],
-  "eccomela": [
-    "ɛkːomela"
-  ],
-  "eccomele": [
-    "ɛkːomele"
-  ],
-  "eccomeli": [
-    "ɛkːomeli"
-  ],
-  "eccomelo": [
-    "ɛkːomelo"
-  ],
-  "eccomene": [
-    "ɛkːomene"
-  ],
-  "eccomi": [
-    "ɛkːomi"
-  ],
-  "eccone": [
-    "ɛkːone"
-  ],
-  "eccotela": [
-    "ɛkːotela"
-  ],
-  "eccotele": [
-    "ɛkːotele"
-  ],
-  "eccoteli": [
-    "ɛkːoteli"
-  ],
-  "eccotelo": [
-    "ɛkːotelo"
-  ],
-  "eccotene": [
-    "ɛkːotene"
-  ],
-  "eccoti": [
-    "ɛkːoti"
-  ],
-  "eccovi": [
-    "ɛkːovi"
-  ],
-  "eccrina": [
-    "ɛkːrina"
-  ],
-  "eccrine": [
-    "ɛkːrine"
-  ],
-  "eccrini": [
-    "ɛkːrini"
-  ],
-  "eccrino": [
-    "ɛkːrino"
-  ],
-  "ecfrastico": [
-    "ekfrastiko"
-  ],
-  "ecgonina": [
-    "ekɡonina"
-  ],
-  "echeggiare": [
-    "ekedːʒare"
-  ],
-  "echeneidiformi": [
-    "ekenejdiformi"
-  ],
-  "echeneiformi": [
-    "ekeneiformi"
-  ],
-  "echi": [
-    "eki"
-  ],
-  "echidna": [
-    "ekidna"
-  ],
-  "echidne": [
-    "ekidne"
-  ],
-  "echinococchi": [
-    "ekinokɔkːi"
-  ],
-  "echinococco": [
-    "ekinokɔkːo"
-  ],
-  "echinodermi": [
-    "ekinodɛrmi"
-  ],
-  "eclatante": [
-    "eklatante"
-  ],
-  "eclatanti": [
-    "eklatanti"
-  ]
+  "dotti": "dotːi",
+  "dotti_2": "dɔtːi",
+  "dotti_3": "dɔtːo",
+  "dotto": "dotːo",
+  "dotto_2": "dɔtːo",
+  "dottorando": "dotːorando",
+  "dottorare": "dotːorare",
+  "dottorati": "dotːorati",
+  "dottorato": "dotːorato",
+  "dottore": "dotːore",
+  "dottore_2": "dɔtːɔre",
+  "dottoresco": "dotːoresko",
+  "dottoressa": "dotːoresːa",
+  "dottoresse": "dotːoresːe",
+  "dottori": "dotːori",
+  "dottori_2": "dɔtːɔri",
+  "dottrina": "dotːrina",
+  "dottrinale": "dotːrinale",
+  "dottrinali": "dotːrinali",
+  "dottrinare": "dotːrinare",
+  "dottrinari": "dotːrinari",
+  "dottrinaria": "dotːrinarja",
+  "dottrinarie": "dotːrinarje",
+  "dottrinario": "dotːrinarjo",
+  "dottrinarismi": "dotːriranizmi",
+  "dottrinarismo": "dotːriranizmo",
+  "dottrine": "dotːrine",
+  "dov’è": "dovɛ",
+  "dove": "dove",
+  "dové": "dove",
+  "dovei": "dovetːi",
+  "dovemmo": "dovemːo",
+  "dovendo": "dovendo",
+  "dovere": "dovere",
+  "dovere_2": "dɔvɛre",
+  "doveri": "doveri",
+  "doverono": "doverono",
+  "doverosamente": "doverosamente",
+  "doverosamente_2": "doverozamente",
+  "doveroso": "doverozo",
+  "dovesse": "dovesːe",
+  "dovessero": "dovesːero",
+  "dovessi": "dovesːi",
+  "dovessimo": "dovesːimo",
+  "doveste": "doveste",
+  "dovesti": "dovesti",
+  "dovete": "dovete",
+  "dovette": "dovetːe",
+  "dovettero": "dovetːero",
+  "dovetti": "dovei",
+  "doveva": "doveva",
+  "dovevamo": "dovevamo",
+  "dovevano": "dovevano",
+  "dovevate": "dovevate",
+  "dovevi": "dovevi",
+  "dovevo": "dovevo",
+  "dovizia": "dovitsja",
+  "doviziosamente": "dovitːsjozamente",
+  "dovizioso": "dovitsjozo",
+  "dovrà": "dora",
+  "dovrai": "dovrai",
+  "dovranno": "dovranːo",
+  "dovrebbe": "dovrebːe",
+  "dovrebbe_2": "dovrɛbːe",
+  "dovrebbero": "dovrebːero",
+  "dovrei": "dovrei",
+  "dovremmo": "dovremːo",
+  "dovremo": "dovremo",
+  "dovreste": "dovreste",
+  "dovresti": "dovresti",
+  "dovrete": "dovrete",
+  "dovrò": "dovro",
+  "dovrò_2": "dovrɔ",
+  "dovunque": "dovunkwe",
+  "dovuta": "dovuta",
+  "dovute": "dovute",
+  "dovuti": "dovuti",
+  "dovuto": "dovuto",
+  "dozzina": "dodːzina",
+  "dozzina_2": "dɔtːsina",
+  "dozzinale": "dodːzinale",
+  "dozzine": "dodːzine",
+  "dracena": "dratʃɛna",
+  "draco": "drako",
+  "dracone": "drakone",
+  "draconiano": "drakonjano",
+  "dragaggi": "draɡadːʒi",
+  "dragaggio": "draɡadːʒo",
+  "dragamine": "draɡamine",
+  "draghi": "draɡi",
+  "draghinassa": "draɡinasːa",
+  "draglia": "draʎa",
+  "drago": "draɡo",
+  "dragomanno": "draɡomanːo",
+  "dragonaccio": "draɡonatːʃo",
+  "dragonato": "draɡonato",
+  "dragoncelli": "draɡontʃɛlːi",
+  "dragoncello": "draɡontʃɛlːo",
+  "dragoncino": "draɡontʃino",
+  "dragone": "draɡone",
+  "dragonessa": "draɡonesːa",
+  "dragontea": "draɡontɛa",
+  "drakar": "drakar",
+  "drakkar": "drakːar",
+  "dramma": "dramːa",
+  "drammaticamente": "dramːatikamente",
+  "drammaticità": "dramːatitʃita",
+  "drammatico": "dramːatiko",
+  "drammatizzare": "dramːatidːzare",
+  "drammatizzato": "dramːatidːzato",
+  "drammaturga": "dramːaturɡa",
+  "drammaturghe": "dramːaturɡe",
+  "drammaturghi": "dramːaturɡi",
+  "drammaturgia": "dramːaturdʒia",
+  "drammaturgo": "dramːaturɡo",
+  "dramme": "dramːe",
+  "drammi": "dramːi",
+  "drapetomania": "drapevomania",
+  "drappeggio": "drapːedːʒo",
+  "drappeggiò": "drapːedːʒo",
+  "drappello": "drapːɛlːo",
+  "drappo": "drapːo",
+  "drasticamente": "drastikamente",
+  "drastico": "drastiko",
+  "dreadnought": "drɛdnot",
+  "drenaggi": "drenadːʒi",
+  "drenaggio": "drenadːʒo",
+  "drenare": "drenare",
+  "drepanocitico": "drepanotʃitiko",
+  "dressage": "dresːaʒ",
+  "driade": "driade",
+  "dribblare": "dribːlare",
+  "drillo": "drilːo",
+  "drink": "drink",
+  "driopitechi": "drjopiteki",
+  "driopitecino": "driopitetʃino",
+  "driopiteco": "drjopiteko",
+  "dritta": "dritːa",
+  "dritte": "dritːe",
+  "dritti": "dritːi",
+  "dritto": "dritːo",
+  "driver": "drajver",
+  "drizzante": "dritːsante",
+  "drizzare": "dritːsare",
+  "drizzarsi": "dritːsarsi",
+  "drizzato": "dritːsato",
+  "droga": "drɔɡa",
+  "drogaggi": "droɡadːʒi",
+  "drogaggio": "droɡadːʒo",
+  "drogare": "droɡare",
+  "drogarsi": "droɡarsi",
+  "drogato": "droɡato",
+  "droghe": "drɔɡe",
+  "drogheria": "droɡeria",
+  "droghiera": "droɡjɛra",
+  "droghiere": "droɡjɛre",
+  "droghieri": "droɡjɛre",
+  "dromaide": "dromajde",
+  "dromedari": "dromedari",
+  "dromedaria": "dromedarja",
+  "dromedarie": "dromedarje",
+  "dromedario": "dromedarjo",
+  "dromiceide": "dromitʃɛjde",
+  "dromo": "drɔmo",
+  "dromomane": "dromomane",
+  "dromomani": "dromomani",
+  "dromos": "drɔmos",
+  "dromotropo": "dromɔtropo",
+  "drone": "drone",
+  "drongo": "drɔnɡo",
+  "dronista": "dronista",
+  "dronisti": "dronisti",
+  "druda": "druda",
+  "drudo": "drudo",
+  "druidessa": "drwidesːa",
+  "druidesse": "drujdesːe",
+  "druidesse_2": "drwidesːe",
+  "drusa": "druza",
+  "drusiana": "druzjana",
+  "druso": "druzo",
+  "dry": "draj",
+  "duale": "duale",
+  "dualismo": "dwalizmo",
+  "dualistico": "dualistiko",
+  "dualmente": "dwalmente",
+  "dubbi": "dubːi",
+  "dubbia": "dubːja",
+  "dubbiamente": "dubːjamente",
+  "dubbiare": "dubːjare",
+  "dubbie": "dubːje",
+  "dubbietà": "dubːjeta",
+  "dubbiezza": "dubːjetːsa",
+  "dubbio": "dubːjo",
+  "dubbiosa": "dubːjoza",
+  "dubbiosamente": "dubːjozamente",
+  "dubbiose": "dubːjoze",
+  "dubbiosi": "dubːjozi",
+  "dubbiosità": "dubːjozita",
+  "dubbioso": "dubːjozo",
+  "dubita": "dubita",
+  "dubitabile": "dubitabile",
+  "dubitai": "dubitai",
+  "dubitammo": "dubitamːo",
+  "dubitando": "dubitando",
+  "dubitano": "dubitano",
+  "dubitante": "dubitante",
+  "dubitare": "dubitare",
+  "dubitarono": "dubitarono",
+  "dubitasse": "dubitasːe",
+  "dubitassero": "dubitasːero",
+  "dubitassi": "dubitasːi",
+  "dubitassimo": "dubitasːimo",
+  "dubitaste": "dubitaste",
+  "dubitasti": "dubitasti",
+  "dubitate": "dubitate",
+  "dubitativo": "dubitativo",
+  "dubitato": "dubitato",
+  "dubitatore": "dubitatore",
+  "dubitava": "dubitava",
+  "dubitavamo": "dubitavamo",
+  "dubitavano": "dubitavano",
+  "dubitavate": "dubitavate",
+  "dubitavi": "dubitavi",
+  "dubitavo": "dubitavo",
+  "dubitazione": "dubitatːsjone",
+  "dubiterà": "dubitera",
+  "dubiterai": "dubiterai",
+  "dubiteranno": "dubiteranːo",
+  "dubiterebbe": "dubiterebːe",
+  "dubiterebbero": "dubiterebːero",
+  "dubiterei": "dubiterei",
+  "dubiteremmo": "dubiteremːo",
+  "dubiteremo": "dubiteremo",
+  "dubitereste": "dubitereste",
+  "dubiteresti": "dubiteresti",
+  "dubiterete": "dubiterete",
+  "dubiterò": "dubitero",
+  "dubiti": "dubiti",
+  "dubitiamo": "dubitjamo",
+  "dubitiate": "dubitjate",
+  "dubitino": "dubitino",
+  "dubito": "dubito",
+  "dubitò": "dubito",
+  "dublinese": "dublinese",
+  "dublinesi": "dublinesi",
+  "dublino": "dublino",
+  "dubnio": "dubnjo",
+  "duca": "duka",
+  "ducale": "dukale",
+  "ducato": "dukato",
+  "ducatone": "dukatone",
+  "duce": "dutʃe",
+  "ducere": "dutʃere",
+  "duchessa": "dukesːa",
+  "duchesse": "dukesːa",
+  "duchesse_2": "dukesːe",
+  "duchi": "duki",
+  "duci": "dutʃi",
+  "due": "due",
+  "duecentesimo": "duetʃentɛzimo",
+  "duecento": "duetʃɛnto",
+  "duecento_2": "dwetʃɛnto",
+  "duecentometrista": "duetʃɛentometrista",
+  "duellante": "duelːante",
+  "duellanti": "duelːanti",
+  "duellare": "duelːare",
+  "duellarsi": "duelːarsi",
+  "duellato": "duelːato",
+  "duelli": "duɛlːi",
+  "duello": "duɛlːo",
+  "duemila": "duemila",
+  "duerno": "duɛrno",
+  "duetti": "duetːi",
+  "duettista": "duetːista",
+  "duettiste": "duetːiste",
+  "duettisti": "duetːisti",
+  "duetto": "duetːo",
+  "dugo": "duɡo",
+  "dugongo": "duɡɔnɡo",
+  "dugongo_2": "duɡɔɲɡo",
+  "dulosi": "dulɔzi",
+  "duma": "duma",
+  "duna": "duna",
+  "dunite": "dunite",
+  "dunque": "dunkwe",
+  "duo": "duo",
+  "duodeno": "duodɛno",
+  "duolo": "dwɔlo",
+  "duomo": "dwɔmo",
+  "duomo_2": "dwɔmɔ",
+  "duopolio": "duopɔljo",
+  "dupla": "dupla",
+  "duple": "duple",
+  "duplex": "dupleks",
+  "dupli": "dupli",
+  "duplicabile": "duplikabile",
+  "duplicabili": "duplikabili",
+  "duplicando": "duplikando",
+  "duplicante": "duplikante",
+  "duplicare": "duplikare",
+  "duplicativa": "duplikativa",
+  "duplicative": "duplikative",
+  "duplicativi": "duplikativi",
+  "duplicato": "duplikato",
+  "duplice": "duplitʃe",
+  "duplichi": "dupliki",
+  "duplicidentati": "duplitʃidentati",
+  "duplicità": "duplitʃita",
+  "duplico": "dupliko",
+  "dura": "dura",
+  "durabile": "durabile",
+  "durabili": "durabili",
+  "duralluminio": "duralːuminjo",
+  "duramadre": "duramadre",
+  "duramente": "duramente",
+  "durando": "durando",
+  "durante": "durante",
+  "durare": "durare",
+  "durata": "durata",
+  "durate": "durate",
+  "durato": "durato",
+  "duratura": "duratura",
+  "durature": "durature",
+  "duraturi": "duraturi",
+  "duraturo": "duraturo",
+  "durazzo": "duratːso",
+  "dure": "dure",
+  "durevole": "durevole",
+  "durevole_2": "durɛvɔle",
+  "durevoli": "durevoli",
+  "durevolmente": "durevolmente",
+  "durezza": "duretːsa",
+  "duri": "duri",
+  "durissima": "durisːima",
+  "durissimamente": "durisːimamente",
+  "durissime": "durisːime",
+  "durissimi": "durisːimi",
+  "durissimo": "durisːimo",
+  "duro": "duro",
+  "durone": "durone",
+  "duttile": "dutːile",
+  "duttili": "dutːili",
+  "duttilità": "dutːilita",
+  "duttilmente": "dutːilmente",
+  "e": "e",
+  "e_2": "ɛ",
+  "è": "ɛ",
+  "eastwoodiana": "istwudjana",
+  "eastwoodiane": "istwudjane",
+  "eastwoodiani": "istwudjani",
+  "eastwoodiano": "istwudjano",
+  "eau": "eau",
+  "ebani": "ɛbano",
+  "ebanista": "ebanista",
+  "ebaniste": "ebaniste",
+  "ebanisti": "ebanisti",
+  "ebano": "ɛbano",
+  "ebbe": "ebːe",
+  "ebbene": "ebːɛne",
+  "ebbero": "ebːero",
+  "ebbi": "ebːi",
+  "ebbi_2": "ɛbːi",
+  "ebbio": "ɛbːjo",
+  "ebbrezza": "ebːretːsa",
+  "ebbrietà": "ebːrjeta",
+  "ebbro": "ɛbːro",
+  "ebdomada": "ebdɔmada",
+  "ebdomadari": "ebdomadari",
+  "ebdomadaria": "ebdomadarja",
+  "ebdomadariamente": "ebdomadarjamente",
+  "ebdomadarie": "ebdomadarje",
+  "ebdomadario": "ebdomadarjo",
+  "ebere": "ebere",
+  "ebere_2": "ɛbere",
+  "ebete": "ɛbete",
+  "ebeti": "ɛbeti",
+  "ebetudine": "ebetudine",
+  "ebola": "ɛbola",
+  "ebollizione": "ebolːitsjone",
+  "ebraica": "ebraika",
+  "ebraiche": "ebraike",
+  "ebraici": "ebraitʃi",
+  "ebraico": "ebraiko",
+  "ebraico_2": "ebrajko",
+  "ebraismo": "ebraizmo",
+  "ebrea": "ebrɛa",
+  "ebree": "ebrɛe",
+  "ebrei": "ebrei",
+  "ebrei_2": "ebrɛo",
+  "ebreo": "ebrɛa",
+  "ebreo_2": "ebrɛo",
+  "ebrietà": "ebrjeta",
+  "ebro": "ɛbro",
+  "ebulliometri": "ebulːjomɛtri",
+  "ebulliometrica": "ebulːjomɛtrika",
+  "ebulliometriche": "ebulːjomɛtrike",
+  "ebulliometrici": "ebulːjomɛtritʃi",
+  "ebulliometrico": "ebulːjomɛtriko",
+  "ebulliometro": "ebulːjomɛtro",
+  "ebulliometro_2": "ebulːjɔmetro",
+  "ebullioscopi": "ebulːjoskɔpi",
+  "ebullioscopia": "ebulːjoskopia",
+  "ebullioscopica": "ebulːjoskɔpika",
+  "ebullioscopiche": "ebulːjoskɔpike",
+  "ebullioscopici": "ebulːjoskɔpitʃi",
+  "ebullioscopico": "ebulːjoskɔpiko",
+  "ebullioscopio": "ebulːjoskɔpjo",
+  "eburneo": "eburneo",
+  "ecatombe": "ekatombe",
+  "ecatostilo": "ekatɔstilo",
+  "eccedente": "etːʃedɛnte",
+  "eccedente_2": "etːʃɛdente",
+  "eccedenti": "etːʃɛdenti",
+  "eccedenza": "etːʃedɛntsa",
+  "eccedere": "etːʃɛdere",
+  "ecceduto": "etːʃɛduto",
+  "ecceità": "etːʃejta",
+  "eccellente": "etːʃelːɛnte",
+  "eccellentemente": "etːʃelːentemente",
+  "eccellenti": "etːʃelːɛnti",
+  "eccellentissima": "etːʃelːentisːima",
+  "eccellentissime": "etːʃelːentisːime",
+  "eccellentissimi": "etːʃelːentisːimi",
+  "eccellentissimo": "etːʃelːentisːimo",
+  "eccellenza": "etːʃelːɛntsa",
+  "eccellere": "etːʃɛlːere",
+  "eccelso": "etːʃɛlso",
+  "eccentrica": "etːʃɛntrika",
+  "eccentricamente": "etːʃentrikamente",
+  "eccentriche": "etːʃɛntrike",
+  "eccentrici": "etːʃɛntritʃi",
+  "eccentricità": "eʃʃentritʃita",
+  "eccentrico": "etːʃɛntriko",
+  "eccepire": "etːʃepire",
+  "eccepite": "etːʃepite",
+  "eccepito": "etːʃepito",
+  "eccessivamente": "etːʃesːivamente",
+  "eccessivo": "etːʃesːivo",
+  "eccesso": "etːʃɛsːo",
+  "eccetera": "etːʃɛtera",
+  "eccetto": "etːʃɛtːo",
+  "eccettuato": "etːʃetːuato",
+  "eccezionale": "etːʃetsjonale",
+  "eccezionale_2": "etːʃetːsjonale",
+  "eccezionali": "etːʃetsjonali",
+  "eccezionalissima": "etːʃetsjonalisːima",
+  "eccezionalissime": "etːʃetsjonalisːime",
+  "eccezionalissimi": "etːʃetsjonalisːimi",
+  "eccezionalissimo": "etːʃetsjonalisːimo",
+  "eccezionalmente": "etːʃetsjonalmente",
+  "eccezionalmente_2": "etːʃetːsjonalmente",
+  "eccezione": "etːʃetsjone",
+  "eccezione_2": "etːʃetːsione",
+  "eccezioni": "etːʃetsjoni",
+  "ecchi": "ɛkːi",
+  "ecchimosi": "ekːimozi",
+  "ecchimosi_2": "ekːimɔzi",
+  "eccidio": "etːʃidio",
+  "eccidio_2": "etːʃidjo",
+  "eccipiente": "etːʃipjɛnte",
+  "eccipienti": "etːʃipjɛnti",
+  "eccitabile": "etːʃitabile",
+  "eccitabili": "etːʃitabili",
+  "eccitamento": "etːʃitamento",
+  "eccitante": "etːʃitante",
+  "eccitanti": "etːʃitanti",
+  "eccitare": "etːʃitare",
+  "eccitato": "etːʃitato",
+  "eccitazione": "etːʃitatsjone",
+  "eccitazione_2": "etːʃitatːsjone",
+  "eccitazioni": "etːʃitatsjoni",
+  "eccitone": "etːʃitone",
+  "eccitotossica": "etːʃitotɔsːika",
+  "eccitotossiche": "etːʃitotɔsːike",
+  "eccitotossici": "etːʃitotɔsːitʃi",
+  "eccitotossicità": "etːʃitotosːitʃita",
+  "eccitotossico": "etːʃitotɔsːiko",
+  "ecclesiastica": "ɛkːlɛzjastika",
+  "ecclesiastiche": "ɛkːlɛzjastike",
+  "ecclesiastici": "ɛkːlɛzjastiktʃi",
+  "ecclesiastico": "ekːlezjastiko",
+  "ecclesiastico_2": "ɛkːlɛzjastiko",
+  "ecclesiologica": "ekːlezjolɔdʒika",
+  "ecclesiologiche": "ekːlezjolɔdʒike",
+  "ecclesiologici": "ekːlezjolɔdʒitʃi",
+  "ecclesiologico": "ekːlezjolɔdʒiko",
+  "ecco": "ɛkːo",
+  "eccocela": "ɛkːotʃela",
+  "eccoci": "ɛkːotʃi",
+  "eccogli": "ɛkːoʎi",
+  "eccogliela": "ɛkːoʎela",
+  "eccogliele": "ɛkːoʎele",
+  "eccoglieli": "ɛkːoʎeli",
+  "eccoglielo": "ɛkːoʎelo",
+  "eccogliene": "ɛkːoʎene",
+  "eccola": "ɛkːola",
+  "eccole": "ɛkːole",
+  "eccoli": "ɛkːoli",
+  "eccolo": "ɛkːolo",
+  "eccome": "ekːome",
+  "eccomela": "ɛkːomela",
+  "eccomele": "ɛkːomele",
+  "eccomeli": "ɛkːomeli",
+  "eccomelo": "ɛkːomelo",
+  "eccomene": "ɛkːomene",
+  "eccomi": "ɛkːomi",
+  "eccone": "ɛkːone",
+  "eccotela": "ɛkːotela",
+  "eccotele": "ɛkːotele",
+  "eccoteli": "ɛkːoteli",
+  "eccotelo": "ɛkːotelo",
+  "eccotene": "ɛkːotene",
+  "eccoti": "ɛkːoti",
+  "eccovi": "ɛkːovi",
+  "eccrina": "ɛkːrina",
+  "eccrine": "ɛkːrine",
+  "eccrini": "ɛkːrini",
+  "eccrino": "ɛkːrino",
+  "ecfrastico": "ekfrastiko",
+  "ecgonina": "ekɡonina",
+  "echeggiare": "ekedːʒare",
+  "echeneidiformi": "ekenejdiformi",
+  "echeneiformi": "ekeneiformi",
+  "echi": "eki",
+  "echidna": "ekidna",
+  "echidne": "ekidne",
+  "echinococchi": "ekinokɔkːi",
+  "echinococco": "ekinokɔkːo",
+  "echinodermi": "ekinodɛrmi",
+  "eclatante": "eklatante",
+  "eclatanti": "eklatanti"
 }

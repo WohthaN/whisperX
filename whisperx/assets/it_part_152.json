@@ -1,1528 +1,528 @@
 {
-  "santa": [
-    "santa"
-  ],
-  "santaluciana": [
-    "santalutʃiana"
-  ],
-  "santaluciane": [
-    "santalutʃiane"
-  ],
-  "santaluciani": [
-    "santalutʃiani"
-  ],
-  "santaluciano": [
-    "santalutʃiano"
-  ],
-  "santarellina": [
-    "santarelːina"
-  ],
-  "santarello": [
-    "santarɛlːo"
-  ],
-  "sante": [
-    "sante",
-    "sate"
-  ],
-  "santerello": [
-    "santerɛlːo"
-  ],
-  "santi": [
-    "santi"
-  ],
-  "santificando": [
-    "santifikando"
-  ],
-  "santificante": [
-    "santifikante"
-  ],
-  "santificanti": [
-    "santifikanti"
-  ],
-  "santificare": [
-    "santifikare"
-  ],
-  "santificarsi": [
-    "santifikarsi"
-  ],
-  "santificato": [
-    "santifikato"
-  ],
-  "santificazione": [
-    "santifikatːsjone"
-  ],
-  "santino": [
-    "santino"
-  ],
-  "santippe": [
-    "santipːe"
-  ],
-  "santissima": [
-    "santisːima"
-  ],
-  "santissime": [
-    "santisːime"
-  ],
-  "santissimi": [
-    "santisːimi"
-  ],
-  "santissimo": [
-    "santisːimo"
-  ],
-  "santità": [
-    "santita"
-  ],
-  "santo": [
-    "santo"
-  ],
-  "santocchio": [
-    "santɔkːjo"
-  ],
-  "santomense": [
-    "santomɛnse"
-  ],
-  "santomensi": [
-    "santomɛnsi"
-  ],
-  "santoreggia": [
-    "santoredːʒa"
-  ],
-  "santuario": [
-    "santuarjo"
-  ],
-  "sanvincentina": [
-    "sanvintʃentina"
-  ],
-  "sanvincentine": [
-    "sanvintʃentine"
-  ],
-  "sanvincentini": [
-    "sanvintʃentini"
-  ],
-  "sanvincentino": [
-    "sanvintʃentino"
-  ],
-  "sanza": [
-    "santsa"
-  ],
-  "sanzionabile": [
-    "santsjonabile"
-  ],
-  "sanzionabili": [
-    "santsjonabili"
-  ],
-  "sanzionato": [
-    "santsjonato"
-  ],
-  "sanzione": [
-    "santsjone"
-  ],
-  "sanzioni": [
-    "santsjoni"
-  ],
-  "saotomense": [
-    "saotomɛnse"
-  ],
-  "saotomensi": [
-    "saotomɛnsi"
-  ],
-  "saoudienne": [
-    "saudjɛ"
-  ],
-  "saoudiennes": [
-    "saudjɛ"
-  ],
-  "saoudiens": [
-    "saudjɛ"
-  ],
-  "sapa": [
-    "sapa"
-  ],
-  "sapemmo": [
-    "sapemːo"
-  ],
-  "sapendo": [
-    "sapendo"
-  ],
-  "sapendoti": [
-    "sapɛndoti"
-  ],
-  "sapere": [
-    "sapere",
-    "sapɛre"
-  ],
-  "sapersi": [
-    "sapersi"
-  ],
-  "sapesse": [
-    "sapesːe"
-  ],
-  "sapessero": [
-    "sapesːero"
-  ],
-  "sapessi": [
-    "sapesːi"
-  ],
-  "sapessimo": [
-    "sapesːimo"
-  ],
-  "sapeste": [
-    "sapeste"
-  ],
-  "sapesti": [
-    "sapesti"
-  ],
-  "sapete": [
-    "sapete"
-  ],
-  "sapeva": [
-    "sapeva"
-  ],
-  "sapevamo": [
-    "sapevamo"
-  ],
-  "sapevano": [
-    "sapevano"
-  ],
-  "sapevate": [
-    "sapevate"
-  ],
-  "sapevi": [
-    "sapevi"
-  ],
-  "sapevo": [
-    "sapevo"
-  ],
-  "sapidità": [
-    "sapidita"
-  ],
-  "sapido": [
-    "sapido"
-  ],
-  "sapiente": [
-    "sapjɛnte"
-  ],
-  "sapientemente": [
-    "sapjentemente"
-  ],
-  "sapienza": [
-    "sapjɛntsa"
-  ],
-  "sapienze": [
-    "sapjɛntse"
-  ],
-  "sapienziale": [
-    "sapjentsjale"
-  ],
-  "saponata": [
-    "saponata"
-  ],
-  "saponate": [
-    "saponate"
-  ],
-  "saponati": [
-    "saponati"
-  ],
-  "saponato": [
-    "saponato"
-  ],
-  "sapone": [
-    "sapone"
-  ],
-  "saponetta": [
-    "saponetːa",
-    "sapɔnetːa"
-  ],
-  "saponette": [
-    "sapɔnetːe"
-  ],
-  "saponi": [
-    "saponi"
-  ],
-  "saponiero": [
-    "saponjɛro"
-  ],
-  "saponificabile": [
-    "saponifikabile"
-  ],
-  "saponificabili": [
-    "saponifikabili"
-  ],
-  "saponificante": [
-    "saponifikante"
-  ],
-  "saponificare": [
-    "saponifikare"
-  ],
-  "saponificato": [
-    "saponifikato"
-  ],
-  "saponificazione": [
-    "saponifikatːsjone"
-  ],
-  "saponificio": [
-    "saponifitʃo"
-  ],
-  "saponina": [
-    "saponina"
-  ],
-  "saporaccio": [
-    "saporatːʃo"
-  ],
-  "saporare": [
-    "saporare"
-  ],
-  "sapore": [
-    "sapore"
-  ],
-  "sapori": [
-    "sapori"
-  ],
-  "saporire": [
-    "saporire"
-  ],
-  "saporita": [
-    "saporita"
-  ],
-  "saporite": [
-    "saporite"
-  ],
-  "saporiti": [
-    "saporiti"
-  ],
-  "saporito": [
-    "saporito"
-  ],
-  "sappi": [
-    "sapːi"
-  ],
-  "sappia": [
-    "sapːja"
-  ],
-  "sappiamo": [
-    "sapːiamo",
-    "sapːjamo"
-  ],
-  "sappiano": [
-    "sapːjano"
-  ],
-  "sappiate": [
-    "sapjate"
-  ],
-  "saprà": [
-    "sapra"
-  ],
-  "saprai": [
-    "saprai"
-  ],
-  "sapranno": [
-    "sapranːo"
-  ],
-  "saprebbe": [
-    "saprebːe",
-    "saprɛbːe"
-  ],
-  "saprebbero": [
-    "saprebːero"
-  ],
-  "saprei": [
-    "saprei"
-  ],
-  "sapremmo": [
-    "sapremːo"
-  ],
-  "sapremo": [
-    "sapremo"
-  ],
-  "sapreste": [
-    "sapreste"
-  ],
-  "sapresti": [
-    "sapresti"
-  ],
-  "saprete": [
-    "saprete"
-  ],
-  "saprò": [
-    "sapro"
-  ],
-  "saprofaga": [
-    "saprɔfaɡa"
-  ],
-  "saprofaghe": [
-    "saprɔfaɡe"
-  ],
-  "saprofagi": [
-    "saprɔfadʒi"
-  ],
-  "saprofago": [
-    "saprɔfaɡo"
-  ],
-  "saprofita": [
-    "saprɔfita"
-  ],
-  "saputa": [
-    "saputa"
-  ],
-  "sapute": [
-    "sapute"
-  ],
-  "saputello": [
-    "saputɛlːo"
-  ],
-  "saputi": [
-    "saputi"
-  ],
-  "saputo": [
-    "saputo"
-  ],
-  "sarà": [
-    "sara"
-  ],
-  "sarabanda": [
-    "sarabanda"
-  ],
-  "saracco": [
-    "sarakːo"
-  ],
-  "saraceno": [
-    "saratʃɛno"
-  ],
-  "saracinesca": [
-    "saratʃineska"
-  ],
-  "sarago": [
-    "saraɡo"
-  ],
-  "sarai": [
-    "sarai"
-  ],
-  "sarajevese": [
-    "sarajevɛse"
-  ],
-  "sarajevesi": [
-    "sarajevɛsi"
-  ],
-  "sarajevo": [
-    "sarajevo"
-  ],
-  "saranno": [
-    "saranːo"
-  ],
-  "sarcasmi": [
-    "sarkazmi"
-  ],
-  "sarcasmo": [
-    "sarkastiko",
-    "sarkazmo"
-  ],
-  "sarcastica": [
-    "sarkastika"
-  ],
-  "sarcasticamente": [
-    "sarkastikamente"
-  ],
-  "sarcastiche": [
-    "sarkastike"
-  ],
-  "sarcastici": [
-    "sarkastitʃi"
-  ],
-  "sarcastico": [
-    "sarkastiko"
-  ],
-  "sarchi": [
-    "sarki"
-  ],
-  "sarchiante": [
-    "sarkjante"
-  ],
-  "sarchiare": [
-    "sarkjare"
-  ],
-  "sarchiato": [
-    "sarkjato"
-  ],
-  "sarchiatore": [
-    "sarkjatore"
-  ],
-  "sarchiatori": [
-    "sarkjatori"
-  ],
-  "sarchiatrice": [
-    "sarkjatritʃe"
-  ],
-  "sarchiatrici": [
-    "sarkjatritʃi"
-  ],
-  "sarchiatura": [
-    "sarkjatura"
-  ],
-  "sarchiature": [
-    "sarkjature"
-  ],
-  "sarchiello": [
-    "sarkjɛlːo"
-  ],
-  "sarchio": [
-    "sarkjo"
-  ],
-  "sarcofaghi": [
-    "sarkɔfaɡi"
-  ],
-  "sarcofago": [
-    "sarkɔfaɡo"
-  ],
-  "sarcologia": [
-    "sarkolodʒia"
-  ],
-  "sarcoma": [
-    "sarkɔma"
-  ],
-  "sarcomatoso": [
-    "sarkomatoso",
-    "sarkomatozo"
-  ],
-  "sarcomero": [
-    "sarkɔmero"
-  ],
-  "sarcomi": [
-    "sarkɔma"
-  ],
-  "sarcoplasma": [
-    "sarkoplazma"
-  ],
-  "sarda": [
-    "sarda"
-  ],
-  "sardanapalesco": [
-    "sardanapalesko"
-  ],
-  "sarde": [
-    "sarde"
-  ],
-  "sardegna": [
-    "sardeɲɲa"
-  ],
-  "sardegnolo": [
-    "sardeɲɔlo"
-  ],
-  "sardella": [
-    "sardɛlːa"
-  ],
-  "sardesco": [
-    "sardesko"
-  ],
-  "sardi": [
-    "sardi"
-  ],
-  "sardina": [
-    "sardina"
-  ],
-  "sardismo": [
-    "sardizmo"
-  ],
-  "sardo": [
-    "sardo"
-  ],
-  "sardofona": [
-    "sardɔfona"
-  ],
-  "sardofone": [
-    "sardɔfone"
-  ],
-  "sardofoni": [
-    "sardɔfoni"
-  ],
-  "sardofono": [
-    "sardɔfono"
-  ],
-  "sardonica": [
-    "sardɔnika"
-  ],
-  "sardoniche": [
-    "sardɔnike"
-  ],
-  "sardonici": [
-    "sardɔnitʃi"
-  ],
-  "sardonico": [
-    "sardɔniko"
-  ],
-  "sarebbe": [
-    "sarebːe"
-  ],
-  "sarebbero": [
-    "sarebːero"
-  ],
-  "sarei": [
-    "sarei",
-    "sarɛi"
-  ],
-  "saremmo": [
-    "saremːo"
-  ],
-  "saremo": [
-    "saremo"
-  ],
-  "sareste": [
-    "sareste"
-  ],
-  "saresti": [
-    "saresti"
-  ],
-  "sarete": [
-    "sarete"
-  ],
-  "sargasso": [
-    "sarɡasːo"
-  ],
-  "sargia": [
-    "sardʒa"
-  ],
-  "sargo": [
-    "sarɡo"
-  ],
-  "sari": [
-    "sari"
-  ],
-  "sariga": [
-    "sariɡa"
-  ],
-  "sarighe": [
-    "sariɡe"
-  ],
-  "sarmata": [
-    "sarmata"
-  ],
-  "sarmenti": [
-    "sarmenti"
-  ],
-  "sarmento": [
-    "sarmento"
-  ],
-  "sarò": [
-    "saro"
-  ],
-  "sarta": [
-    "sarta"
-  ],
-  "sarte": [
-    "sarte"
-  ],
-  "sarti": [
-    "sarti"
-  ],
-  "sartia": [
-    "sartja"
-  ],
-  "sarto": [
-    "sarto"
-  ],
-  "sartoria": [
-    "sartoria"
-  ],
-  "sartriana": [
-    "sartriana"
-  ],
-  "sartriane": [
-    "sartriane"
-  ],
-  "sartriani": [
-    "sartriani"
-  ],
-  "sartriano": [
-    "sartriano"
-  ],
-  "sarzanese": [
-    "sardzanese",
-    "sardzaneze"
-  ],
-  "sasanide": [
-    "sasanide"
-  ],
-  "sashimi": [
-    "saʃʃimi"
-  ],
-  "sassafrasso": [
-    "sasːafrasːo"
-  ],
-  "sassaiola": [
-    "sasːajɔla"
-  ],
-  "sassarese": [
-    "sasːarese",
-    "sasːareze"
-  ],
-  "sassaresi": [
-    "sasːaresi"
-  ],
-  "sassari": [
-    "sasːari"
-  ],
-  "sassata": [
-    "sasːata"
-  ],
-  "sassi": [
-    "sasːi"
-  ],
-  "sasso": [
-    "sasːo"
-  ],
-  "sassofoni": [
-    "sasːɔfoni"
-  ],
-  "sassofonista": [
-    "sasːafonista",
-    "sasːofonista"
-  ],
-  "sassofoniste": [
-    "sasːafoniste"
-  ],
-  "sassofonisti": [
-    "sasːafonisti"
-  ],
-  "sassofono": [
-    "sasːɔfono"
-  ],
-  "sassofrasso": [
-    "sasːofrasːo"
-  ],
-  "sassolino": [
-    "sasːolino"
-  ],
-  "sassone": [
-    "sasːone"
-  ],
-  "sassoni": [
-    "sasːoni"
-  ],
-  "sassonia": [
-    "sasːonja",
-    "sasːɔnja"
-  ],
-  "sassoso": [
-    "sasːozo"
-  ],
-  "satana": [
-    "satana"
-  ],
-  "satanasso": [
-    "satanasːo"
-  ],
-  "satanica": [
-    "satanika"
-  ],
-  "satanicamente": [
-    "satanikamente"
-  ],
-  "sataniche": [
-    "satanike"
-  ],
-  "satanici": [
-    "satanitʃi"
-  ],
-  "satanico": [
-    "sataniko"
-  ],
-  "satanismi": [
-    "satanizmi"
-  ],
-  "satanismo": [
-    "satanizmo"
-  ],
-  "satanista": [
-    "satanista"
-  ],
-  "sataniste": [
-    "sataniste"
-  ],
-  "satanisti": [
-    "satanisti"
-  ],
-  "satellitare": [
-    "satelːitare"
-  ],
-  "satellite": [
-    "satɛlːite"
-  ],
-  "satelliti": [
-    "satɛlːiti"
-  ],
-  "satellizzato": [
-    "satelːidːzato"
-  ],
-  "satellizzazione": [
-    "satelːidːzatːsjone"
-  ],
-  "satellizzazioni": [
-    "satelːidːzatːsjoni"
-  ],
-  "satelloide": [
-    "satelːɔjde"
-  ],
-  "satira": [
-    "satira"
-  ],
-  "satireggiare": [
-    "satiredːʒare"
-  ],
-  "satiri": [
-    "satiri"
-  ],
-  "satirico": [
-    "satiriko"
-  ],
-  "satirista": [
-    "satirista"
-  ],
-  "satiriste": [
-    "satiriste"
-  ],
-  "satiristi": [
-    "satiristi"
-  ],
-  "satiro": [
-    "satiro"
-  ],
-  "satisfare": [
-    "satisfare"
-  ],
-  "satisfatto": [
-    "satisfatːo"
-  ],
-  "satolla": [
-    "satolːe"
-  ],
-  "satolle": [
-    "satolːa"
-  ],
-  "satolli": [
-    "satolːi"
-  ],
-  "satollo": [
-    "satolːo"
-  ],
-  "satrapo": [
-    "satrapo"
-  ],
-  "satsuma": [
-    "satːsuma"
-  ],
-  "satura": [
-    "satura"
-  ],
-  "saturabile": [
-    "saturabile"
-  ],
-  "saturabili": [
-    "saturabili"
-  ],
-  "saturai": [
-    "saturaj"
-  ],
-  "saturando": [
-    "saturando"
-  ],
-  "saturare": [
-    "saturare"
-  ],
-  "saturasse": [
-    "saturasːe"
-  ],
-  "saturaste": [
-    "saturaste"
-  ],
-  "saturata": [
-    "saturata"
-  ],
-  "saturate": [
-    "saturate"
-  ],
-  "saturati": [
-    "saturati"
-  ],
-  "saturato": [
-    "saturato"
-  ],
-  "saturava": [
-    "saturava"
-  ],
-  "saturazione": [
-    "saturatːsjone"
-  ],
-  "sature": [
-    "sature"
-  ],
-  "saturi": [
-    "saturi"
-  ],
-  "saturnale": [
-    "saturnale"
-  ],
-  "saturnia": [
-    "saturnja"
-  ],
-  "saturniano": [
-    "saturnjano"
-  ],
-  "saturnide": [
-    "saturnide"
-  ],
-  "saturnidi": [
-    "saturnidi"
-  ],
-  "saturnino": [
-    "saturnino"
-  ],
-  "saturnismi": [
-    "saturnizmi"
-  ],
-  "saturnismo": [
-    "saturnizmo"
-  ],
-  "saturno": [
-    "saturno"
-  ],
-  "saturo": [
-    "saturo"
-  ],
-  "saudiana": [
-    "saudjana"
-  ],
-  "saudiane": [
-    "saudjane"
-  ],
-  "saudiani": [
-    "saudjani"
-  ],
-  "saudiano": [
-    "saudjano",
-    "sawdjano"
-  ],
-  "saudita": [
-    "saudita",
-    "sawdita"
-  ],
-  "saudite": [
-    "saudite"
-  ],
-  "sauditi": [
-    "sauditi"
-  ],
-  "sauna": [
-    "sauna"
-  ],
-  "sauro": [
-    "sawro"
-  ],
-  "sauropside": [
-    "sawrɔpside"
-  ],
-  "saussurea": [
-    "sosːurea"
-  ],
-  "savana": [
-    "savana"
-  ],
-  "saverio": [
-    "savɛrjo"
-  ],
-  "savio": [
-    "savjo"
-  ],
-  "savoiardi": [
-    "savojardi"
-  ],
-  "savoiardo": [
-    "savojardo"
-  ],
-  "savonaroliano": [
-    "savonaroljano"
-  ],
-  "savonese": [
-    "savonese",
-    "savoneze"
-  ],
-  "savoreggia": [
-    "savoredːʒa"
-  ],
-  "sax": [
-    "saks"
-  ],
-  "saxofonista": [
-    "saksofonista"
-  ],
-  "saziabile": [
-    "satsjabile"
-  ],
-  "saziabili": [
-    "satsjabili"
-  ],
-  "saziante": [
-    "satːsjante"
-  ],
-  "sazianti": [
-    "satːsjanti"
-  ],
-  "saziare": [
-    "satːsjare"
-  ],
-  "sazietà": [
-    "satːsjeta"
-  ],
-  "sazio": [
-    "satːsjo"
-  ],
-  "sbacchettare": [
-    "zbakːetːare"
-  ],
-  "sbacchettata": [
-    "zbakːetːata"
-  ],
-  "sbacchettatura": [
-    "zbakːetːatura"
-  ],
-  "sbaciucchiante": [
-    "zbatʃukːjante"
-  ],
-  "sbaciucchiare": [
-    "zbatʃukːjare"
-  ],
-  "sbadacchiare": [
-    "zbadakːjare"
-  ],
-  "sbadacchio": [
-    "zbadakːjo"
-  ],
-  "sbadagliare": [
-    "zbadaʎare"
-  ],
-  "sbadata": [
-    "zbadata"
-  ],
-  "sbadataggine": [
-    "zbadatadːʒine"
-  ],
-  "sbadatamente": [
-    "zbadatamente"
-  ],
-  "sbadate": [
-    "zbadate"
-  ],
-  "sbadati": [
-    "zbadati"
-  ],
-  "sbadato": [
-    "zbadato"
-  ],
-  "sbadigli": [
-    "zbadiʎi"
-  ],
-  "sbadigliare": [
-    "sbadiʎjare",
-    "zbadiʎare"
-  ],
-  "sbadiglio": [
-    "sbadiʎjɔ",
-    "zbadiʎo"
-  ],
-  "sbadigliò": [
-    "sbadiʎɔ",
-    "zbadiʎɔ"
-  ],
-  "sbafare": [
-    "zbafare"
-  ],
-  "sbafo": [
-    "zbafo"
-  ],
-  "sbagli": [
-    "zbaʎi"
-  ],
-  "sbagliare": [
-    "zbaʎare"
-  ],
-  "sbagliarsi": [
-    "sbaʎjarsi",
-    "zbaʎarsi"
-  ],
-  "sbagliata": [
-    "zbaʎata"
-  ],
-  "sbagliate": [
-    "zbaʎate"
-  ],
-  "sbagliati": [
-    "zbaʎati"
-  ],
-  "sbagliato": [
-    "zbaʎato"
-  ],
-  "sbaglio": [
-    "zbaʎo",
-    "zbaʎɔ"
-  ],
-  "sballato": [
-    "zbalːato"
-  ],
-  "sballottante": [
-    "zbalːotːante"
-  ],
-  "sballottare": [
-    "zbalːotːare"
-  ],
-  "sbalordimento": [
-    "zbalordimento"
-  ],
-  "sbalordire": [
-    "sbalɔrdire",
-    "zbalordire"
-  ],
-  "sbalordita": [
-    "zbalordita"
-  ],
-  "sbalorditivo": [
-    "zbalorditivo"
-  ],
-  "sbalordito": [
-    "zbalordito"
-  ],
-  "sbalzo": [
-    "zbaltso"
-  ],
-  "sbancare": [
-    "zbankare"
-  ],
-  "sbandamento": [
-    "zbandamento"
-  ],
-  "sbandare": [
-    "zbandare"
-  ],
-  "sbandato": [
-    "zbandato"
-  ],
-  "sbandieramento": [
-    "zbandjeramento"
-  ],
-  "sbandierare": [
-    "zbandjerare"
-  ],
-  "sbandieratore": [
-    "zbandjeratore"
-  ],
-  "sbaragliare": [
-    "zbaraʎare"
-  ],
-  "sbaragliato": [
-    "zbaraʎato"
-  ],
-  "sbaraglino": [
-    "zbaraʎino"
-  ],
-  "sbaraglio": [
-    "zbaraʎo"
-  ],
-  "sbarazzare": [
-    "zbaratːsare"
-  ],
-  "sbarazzino": [
-    "zbaratːsino"
-  ],
-  "sbarazzo": [
-    "zbaratːso"
-  ],
-  "sbarbata": [
-    "zbarbata"
-  ],
-  "sbarbate": [
-    "zbarbate"
-  ],
-  "sbarbatella": [
-    "zbarbatɛlːa"
-  ],
-  "sbarbatelle": [
-    "zbarbatɛlːe"
-  ],
-  "sbarbatelli": [
-    "zbarbatɛlːi"
-  ],
-  "sbarbatello": [
-    "zbarbatɛlːo"
-  ],
-  "sbarbati": [
-    "zbarbati"
-  ],
-  "sbarbato": [
-    "zbarbato"
-  ],
-  "sbarcare": [
-    "zbarkare"
-  ],
-  "sbarchi": [
-    "zbarki"
-  ],
-  "sbarco": [
-    "zbarko"
-  ],
-  "sbarra": [
-    "zbarːa"
-  ],
-  "sbarramenti": [
-    "sbarːamenti"
-  ],
-  "sbarramento": [
-    "sbarːamento"
-  ],
-  "sbarrante": [
-    "zbarːante"
-  ],
-  "sbarrare": [
-    "zbarːare"
-  ],
-  "sbarrata": [
-    "zbarːata"
-  ],
-  "sbarrate": [
-    "zbarːate"
-  ],
-  "sbarrati": [
-    "zbarːati"
-  ],
-  "sbarrato": [
-    "zbarːato"
-  ],
-  "sbarre": [
-    "zbarːe"
-  ],
-  "sbassa": [
-    "zbasːa"
-  ],
-  "sbassai": [
-    "zbasːai"
-  ],
-  "sbassammo": [
-    "zbasːamːo"
-  ],
-  "sbassando": [
-    "zbasːando"
-  ],
-  "sbassano": [
-    "zbasːano"
-  ],
-  "sbassante": [
-    "zbasːante"
-  ],
-  "sbassanti": [
-    "zbasːanti"
-  ],
-  "sbassare": [
-    "zbasːare"
-  ],
-  "sbassarono": [
-    "zbasːarono"
-  ],
-  "sbassasse": [
-    "zbasːasːe"
-  ],
-  "sbassassero": [
-    "zbasːasːero"
-  ],
-  "sbassassi": [
-    "zbasːasːi"
-  ],
-  "sbassassimo": [
-    "zbasːasːimo"
-  ],
-  "sbassaste": [
-    "zbasːaste"
-  ],
-  "sbassasti": [
-    "zbasːasti"
-  ],
-  "sbassata": [
-    "zbasːata"
-  ],
-  "sbassate": [
-    "zbasːate"
-  ],
-  "sbassati": [
-    "zbasːati"
-  ],
-  "sbassato": [
-    "zbasːato"
-  ],
-  "sbassatura": [
-    "zbasːatura"
-  ],
-  "sbassava": [
-    "zbasːava"
-  ],
-  "sbassavamo": [
-    "zbasːavamo"
-  ],
-  "sbassavano": [
-    "zbasːavano"
-  ],
-  "sbassavate": [
-    "zbasːavate"
-  ],
-  "sbassavi": [
-    "zbasːavi"
-  ],
-  "sbassavo": [
-    "zbasːavo"
-  ],
-  "sbasserà": [
-    "zbasːera"
-  ],
-  "sbasserai": [
-    "zbasːerai"
-  ],
-  "sbasseranno": [
-    "zbasːeranːo"
-  ],
-  "sbasserebbe": [
-    "zbasːerebːe"
-  ],
-  "sbasserebbero": [
-    "zbasːerebːero"
-  ],
-  "sbasserei": [
-    "zbasːerei"
-  ],
-  "sbasseremmo": [
-    "zbasːeremːo"
-  ],
-  "sbasseremo": [
-    "zbasːeremo"
-  ],
-  "sbassereste": [
-    "zbasːereste"
-  ],
-  "sbasseresti": [
-    "zbasːeresti"
-  ],
-  "sbasserete": [
-    "zbasːerete"
-  ],
-  "sbasserò": [
-    "zbasːero"
-  ],
-  "sbassi": [
-    "zbasːi"
-  ],
-  "sbassiamo": [
-    "zbasːiamo"
-  ],
-  "sbassiate": [
-    "zbasːiate"
-  ],
-  "sbassino": [
-    "zbasːino"
-  ],
-  "sbasso": [
-    "zbasːo"
-  ],
-  "sbassò": [
-    "zbasːo"
-  ],
-  "sbattuto": [
-    "zbatːuto"
-  ],
-  "sbatufolare": [
-    "zbatufolare"
-  ],
-  "sbavante": [
-    "zbavante"
-  ],
-  "sbavanti": [
-    "zbavanti"
-  ],
-  "sbavare": [
-    "zbavare"
-  ],
-  "sbavigliare": [
-    "zbaviʎare"
-  ],
-  "sbeccamenti": [
-    "zbekːamɛnti"
-  ],
-  "sbeccamento": [
-    "zbekːamɛnto"
-  ],
-  "sbeffa": [
-    "zbɛfːa"
-  ],
-  "sbeffe": [
-    "sbɛfːe"
-  ],
-  "sbeffeggiamento": [
-    "zbefːedːʒamento"
-  ],
-  "sbeffeggiare": [
-    "zbefːedːʒare"
-  ],
-  "sbeffeggiarsi": [
-    "zbefːedːʒarsi"
-  ],
-  "sbeffeggiato": [
-    "zbefːedːʒato"
-  ],
-  "sbellicare": [
-    "zbelːikare"
-  ],
-  "sbellicarsi": [
-    "zbelːikarsi"
-  ],
-  "sbergia": [
-    "zbɛrdʒa"
-  ],
-  "sberla": [
-    "zbɛrla"
-  ],
-  "sberleffo": [
-    "zberlɛfːo"
-  ],
-  "sbertucciare": [
-    "zbertutːʃare"
-  ],
-  "sbevazzare": [
-    "zbevatːsare"
-  ],
-  "sbiadire": [
-    "zbjadire"
-  ],
-  "sbiadito": [
-    "zbjadito"
-  ],
-  "sbiancare": [
-    "zbjankare"
-  ],
-  "sbiecano": [
-    "sbjɛkano"
-  ],
-  "sbieco": [
-    "zbjeko",
-    "zbjɛko"
-  ],
-  "sbiennare": [
-    "sbienːare"
-  ],
-  "sbigottimento": [
-    "zbiɡotːimento"
-  ],
-  "sbigottire": [
-    "zbiɡotːire"
-  ],
-  "sbigottita": [
-    "zbiɡotːita"
-  ],
-  "sbigottite": [
-    "zbiɡotːite"
-  ],
-  "sbigottiti": [
-    "zbiɡotːita"
-  ],
-  "sbigottito": [
-    "zbiɡotːito"
-  ],
-  "sbilanciato": [
-    "zbilantʃato"
-  ],
-  "sbillacco": [
-    "zbilːlakːo"
-  ],
-  "sbirciare": [
-    "zbirtʃare"
-  ],
-  "sbirri": [
-    "sbirːi"
-  ],
-  "sbirro": [
-    "sbirːo",
-    "zbirːo"
-  ],
-  "sbizzarrire": [
-    "zbidːzarrire"
-  ],
-  "sbizzarrirsi": [
-    "zbidːzarrirsi"
-  ],
-  "sbizzarrito": [
-    "sbidːzarːito"
-  ],
-  "sbloccaggi": [
-    "zblokːadːʒi"
-  ],
-  "sbloccaggio": [
-    "zblokːadːʒo"
-  ],
-  "sbloccante": [
-    "sblokːante"
-  ],
-  "sbloccare": [
-    "sblokːare",
-    "zblokːare"
-  ],
-  "sbloccarsi": [
-    "zblokːarsi"
-  ],
-  "sbloccato": [
-    "sblokːato",
-    "zblokːat"
-  ],
-  "sblocco": [
-    "zblɔkːo"
-  ],
-  "sbobba": [
-    "zbɔbːa"
-  ],
-  "sbobinare": [
-    "zbobinare"
-  ],
-  "sboccato": [
-    "bokːato"
-  ],
-  "sbocchi": [
-    "sbɔkːi"
-  ],
-  "sbocciare": [
-    "zbotːʃare"
-  ],
-  "sbocco": [
-    "sbɔkːo",
-    "zbokːo"
-  ],
-  "sbolgiare": [
-    "zboldʒare"
-  ],
-  "sbollire": [
-    "zbolːire"
-  ],
-  "sbolognare": [
-    "zboloɲɲare"
-  ],
-  "sbornia": [
-    "zbɔrnja"
-  ],
-  "sborone": [
-    "zburone"
-  ],
-  "sborrare": [
-    "zborːare"
-  ],
-  "sborsante": [
-    "zborsante"
-  ],
-  "sborsare": [
-    "zborsare"
-  ],
-  "sborsato": [
-    "zborsato"
-  ],
-  "sboscare": [
-    "sboskare"
-  ]
+  "santa": "santa",
+  "santaluciana": "santalutʃiana",
+  "santaluciane": "santalutʃiane",
+  "santaluciani": "santalutʃiani",
+  "santaluciano": "santalutʃiano",
+  "santarellina": "santarelːina",
+  "santarello": "santarɛlːo",
+  "sante": "sante",
+  "sante_2": "sate",
+  "santerello": "santerɛlːo",
+  "santi": "santi",
+  "santificando": "santifikando",
+  "santificante": "santifikante",
+  "santificanti": "santifikanti",
+  "santificare": "santifikare",
+  "santificarsi": "santifikarsi",
+  "santificato": "santifikato",
+  "santificazione": "santifikatːsjone",
+  "santino": "santino",
+  "santippe": "santipːe",
+  "santissima": "santisːima",
+  "santissime": "santisːime",
+  "santissimi": "santisːimi",
+  "santissimo": "santisːimo",
+  "santità": "santita",
+  "santo": "santo",
+  "santocchio": "santɔkːjo",
+  "santomense": "santomɛnse",
+  "santomensi": "santomɛnsi",
+  "santoreggia": "santoredːʒa",
+  "santuario": "santuarjo",
+  "sanvincentina": "sanvintʃentina",
+  "sanvincentine": "sanvintʃentine",
+  "sanvincentini": "sanvintʃentini",
+  "sanvincentino": "sanvintʃentino",
+  "sanza": "santsa",
+  "sanzionabile": "santsjonabile",
+  "sanzionabili": "santsjonabili",
+  "sanzionato": "santsjonato",
+  "sanzione": "santsjone",
+  "sanzioni": "santsjoni",
+  "saotomense": "saotomɛnse",
+  "saotomensi": "saotomɛnsi",
+  "saoudienne": "saudjɛ",
+  "saoudiennes": "saudjɛ",
+  "saoudiens": "saudjɛ",
+  "sapa": "sapa",
+  "sapemmo": "sapemːo",
+  "sapendo": "sapendo",
+  "sapendoti": "sapɛndoti",
+  "sapere": "sapere",
+  "sapere_2": "sapɛre",
+  "sapersi": "sapersi",
+  "sapesse": "sapesːe",
+  "sapessero": "sapesːero",
+  "sapessi": "sapesːi",
+  "sapessimo": "sapesːimo",
+  "sapeste": "sapeste",
+  "sapesti": "sapesti",
+  "sapete": "sapete",
+  "sapeva": "sapeva",
+  "sapevamo": "sapevamo",
+  "sapevano": "sapevano",
+  "sapevate": "sapevate",
+  "sapevi": "sapevi",
+  "sapevo": "sapevo",
+  "sapidità": "sapidita",
+  "sapido": "sapido",
+  "sapiente": "sapjɛnte",
+  "sapientemente": "sapjentemente",
+  "sapienza": "sapjɛntsa",
+  "sapienze": "sapjɛntse",
+  "sapienziale": "sapjentsjale",
+  "saponata": "saponata",
+  "saponate": "saponate",
+  "saponati": "saponati",
+  "saponato": "saponato",
+  "sapone": "sapone",
+  "saponetta": "saponetːa",
+  "saponetta_2": "sapɔnetːa",
+  "saponette": "sapɔnetːe",
+  "saponi": "saponi",
+  "saponiero": "saponjɛro",
+  "saponificabile": "saponifikabile",
+  "saponificabili": "saponifikabili",
+  "saponificante": "saponifikante",
+  "saponificare": "saponifikare",
+  "saponificato": "saponifikato",
+  "saponificazione": "saponifikatːsjone",
+  "saponificio": "saponifitʃo",
+  "saponina": "saponina",
+  "saporaccio": "saporatːʃo",
+  "saporare": "saporare",
+  "sapore": "sapore",
+  "sapori": "sapori",
+  "saporire": "saporire",
+  "saporita": "saporita",
+  "saporite": "saporite",
+  "saporiti": "saporiti",
+  "saporito": "saporito",
+  "sappi": "sapːi",
+  "sappia": "sapːja",
+  "sappiamo": "sapːiamo",
+  "sappiamo_2": "sapːjamo",
+  "sappiano": "sapːjano",
+  "sappiate": "sapjate",
+  "saprà": "sapra",
+  "saprai": "saprai",
+  "sapranno": "sapranːo",
+  "saprebbe": "saprebːe",
+  "saprebbe_2": "saprɛbːe",
+  "saprebbero": "saprebːero",
+  "saprei": "saprei",
+  "sapremmo": "sapremːo",
+  "sapremo": "sapremo",
+  "sapreste": "sapreste",
+  "sapresti": "sapresti",
+  "saprete": "saprete",
+  "saprò": "sapro",
+  "saprofaga": "saprɔfaɡa",
+  "saprofaghe": "saprɔfaɡe",
+  "saprofagi": "saprɔfadʒi",
+  "saprofago": "saprɔfaɡo",
+  "saprofita": "saprɔfita",
+  "saputa": "saputa",
+  "sapute": "sapute",
+  "saputello": "saputɛlːo",
+  "saputi": "saputi",
+  "saputo": "saputo",
+  "sarà": "sara",
+  "sarabanda": "sarabanda",
+  "saracco": "sarakːo",
+  "saraceno": "saratʃɛno",
+  "saracinesca": "saratʃineska",
+  "sarago": "saraɡo",
+  "sarai": "sarai",
+  "sarajevese": "sarajevɛse",
+  "sarajevesi": "sarajevɛsi",
+  "sarajevo": "sarajevo",
+  "saranno": "saranːo",
+  "sarcasmi": "sarkazmi",
+  "sarcasmo": "sarkastiko",
+  "sarcasmo_2": "sarkazmo",
+  "sarcastica": "sarkastika",
+  "sarcasticamente": "sarkastikamente",
+  "sarcastiche": "sarkastike",
+  "sarcastici": "sarkastitʃi",
+  "sarcastico": "sarkastiko",
+  "sarchi": "sarki",
+  "sarchiante": "sarkjante",
+  "sarchiare": "sarkjare",
+  "sarchiato": "sarkjato",
+  "sarchiatore": "sarkjatore",
+  "sarchiatori": "sarkjatori",
+  "sarchiatrice": "sarkjatritʃe",
+  "sarchiatrici": "sarkjatritʃi",
+  "sarchiatura": "sarkjatura",
+  "sarchiature": "sarkjature",
+  "sarchiello": "sarkjɛlːo",
+  "sarchio": "sarkjo",
+  "sarcofaghi": "sarkɔfaɡi",
+  "sarcofago": "sarkɔfaɡo",
+  "sarcologia": "sarkolodʒia",
+  "sarcoma": "sarkɔma",
+  "sarcomatoso": "sarkomatoso",
+  "sarcomatoso_2": "sarkomatozo",
+  "sarcomero": "sarkɔmero",
+  "sarcomi": "sarkɔma",
+  "sarcoplasma": "sarkoplazma",
+  "sarda": "sarda",
+  "sardanapalesco": "sardanapalesko",
+  "sarde": "sarde",
+  "sardegna": "sardeɲɲa",
+  "sardegnolo": "sardeɲɔlo",
+  "sardella": "sardɛlːa",
+  "sardesco": "sardesko",
+  "sardi": "sardi",
+  "sardina": "sardina",
+  "sardismo": "sardizmo",
+  "sardo": "sardo",
+  "sardofona": "sardɔfona",
+  "sardofone": "sardɔfone",
+  "sardofoni": "sardɔfoni",
+  "sardofono": "sardɔfono",
+  "sardonica": "sardɔnika",
+  "sardoniche": "sardɔnike",
+  "sardonici": "sardɔnitʃi",
+  "sardonico": "sardɔniko",
+  "sarebbe": "sarebːe",
+  "sarebbero": "sarebːero",
+  "sarei": "sarei",
+  "sarei_2": "sarɛi",
+  "saremmo": "saremːo",
+  "saremo": "saremo",
+  "sareste": "sareste",
+  "saresti": "saresti",
+  "sarete": "sarete",
+  "sargasso": "sarɡasːo",
+  "sargia": "sardʒa",
+  "sargo": "sarɡo",
+  "sari": "sari",
+  "sariga": "sariɡa",
+  "sarighe": "sariɡe",
+  "sarmata": "sarmata",
+  "sarmenti": "sarmenti",
+  "sarmento": "sarmento",
+  "sarò": "saro",
+  "sarta": "sarta",
+  "sarte": "sarte",
+  "sarti": "sarti",
+  "sartia": "sartja",
+  "sarto": "sarto",
+  "sartoria": "sartoria",
+  "sartriana": "sartriana",
+  "sartriane": "sartriane",
+  "sartriani": "sartriani",
+  "sartriano": "sartriano",
+  "sarzanese": "sardzanese",
+  "sarzanese_2": "sardzaneze",
+  "sasanide": "sasanide",
+  "sashimi": "saʃʃimi",
+  "sassafrasso": "sasːafrasːo",
+  "sassaiola": "sasːajɔla",
+  "sassarese": "sasːarese",
+  "sassarese_2": "sasːareze",
+  "sassaresi": "sasːaresi",
+  "sassari": "sasːari",
+  "sassata": "sasːata",
+  "sassi": "sasːi",
+  "sasso": "sasːo",
+  "sassofoni": "sasːɔfoni",
+  "sassofonista": "sasːafonista",
+  "sassofonista_2": "sasːofonista",
+  "sassofoniste": "sasːafoniste",
+  "sassofonisti": "sasːafonisti",
+  "sassofono": "sasːɔfono",
+  "sassofrasso": "sasːofrasːo",
+  "sassolino": "sasːolino",
+  "sassone": "sasːone",
+  "sassoni": "sasːoni",
+  "sassonia": "sasːonja",
+  "sassonia_2": "sasːɔnja",
+  "sassoso": "sasːozo",
+  "satana": "satana",
+  "satanasso": "satanasːo",
+  "satanica": "satanika",
+  "satanicamente": "satanikamente",
+  "sataniche": "satanike",
+  "satanici": "satanitʃi",
+  "satanico": "sataniko",
+  "satanismi": "satanizmi",
+  "satanismo": "satanizmo",
+  "satanista": "satanista",
+  "sataniste": "sataniste",
+  "satanisti": "satanisti",
+  "satellitare": "satelːitare",
+  "satellite": "satɛlːite",
+  "satelliti": "satɛlːiti",
+  "satellizzato": "satelːidːzato",
+  "satellizzazione": "satelːidːzatːsjone",
+  "satellizzazioni": "satelːidːzatːsjoni",
+  "satelloide": "satelːɔjde",
+  "satira": "satira",
+  "satireggiare": "satiredːʒare",
+  "satiri": "satiri",
+  "satirico": "satiriko",
+  "satirista": "satirista",
+  "satiriste": "satiriste",
+  "satiristi": "satiristi",
+  "satiro": "satiro",
+  "satisfare": "satisfare",
+  "satisfatto": "satisfatːo",
+  "satolla": "satolːe",
+  "satolle": "satolːa",
+  "satolli": "satolːi",
+  "satollo": "satolːo",
+  "satrapo": "satrapo",
+  "satsuma": "satːsuma",
+  "satura": "satura",
+  "saturabile": "saturabile",
+  "saturabili": "saturabili",
+  "saturai": "saturaj",
+  "saturando": "saturando",
+  "saturare": "saturare",
+  "saturasse": "saturasːe",
+  "saturaste": "saturaste",
+  "saturata": "saturata",
+  "saturate": "saturate",
+  "saturati": "saturati",
+  "saturato": "saturato",
+  "saturava": "saturava",
+  "saturazione": "saturatːsjone",
+  "sature": "sature",
+  "saturi": "saturi",
+  "saturnale": "saturnale",
+  "saturnia": "saturnja",
+  "saturniano": "saturnjano",
+  "saturnide": "saturnide",
+  "saturnidi": "saturnidi",
+  "saturnino": "saturnino",
+  "saturnismi": "saturnizmi",
+  "saturnismo": "saturnizmo",
+  "saturno": "saturno",
+  "saturo": "saturo",
+  "saudiana": "saudjana",
+  "saudiane": "saudjane",
+  "saudiani": "saudjani",
+  "saudiano": "saudjano",
+  "saudiano_2": "sawdjano",
+  "saudita": "saudita",
+  "saudita_2": "sawdita",
+  "saudite": "saudite",
+  "sauditi": "sauditi",
+  "sauna": "sauna",
+  "sauro": "sawro",
+  "sauropside": "sawrɔpside",
+  "saussurea": "sosːurea",
+  "savana": "savana",
+  "saverio": "savɛrjo",
+  "savio": "savjo",
+  "savoiardi": "savojardi",
+  "savoiardo": "savojardo",
+  "savonaroliano": "savonaroljano",
+  "savonese": "savonese",
+  "savonese_2": "savoneze",
+  "savoreggia": "savoredːʒa",
+  "sax": "saks",
+  "saxofonista": "saksofonista",
+  "saziabile": "satsjabile",
+  "saziabili": "satsjabili",
+  "saziante": "satːsjante",
+  "sazianti": "satːsjanti",
+  "saziare": "satːsjare",
+  "sazietà": "satːsjeta",
+  "sazio": "satːsjo",
+  "sbacchettare": "zbakːetːare",
+  "sbacchettata": "zbakːetːata",
+  "sbacchettatura": "zbakːetːatura",
+  "sbaciucchiante": "zbatʃukːjante",
+  "sbaciucchiare": "zbatʃukːjare",
+  "sbadacchiare": "zbadakːjare",
+  "sbadacchio": "zbadakːjo",
+  "sbadagliare": "zbadaʎare",
+  "sbadata": "zbadata",
+  "sbadataggine": "zbadatadːʒine",
+  "sbadatamente": "zbadatamente",
+  "sbadate": "zbadate",
+  "sbadati": "zbadati",
+  "sbadato": "zbadato",
+  "sbadigli": "zbadiʎi",
+  "sbadigliare": "sbadiʎjare",
+  "sbadigliare_2": "zbadiʎare",
+  "sbadiglio": "sbadiʎjɔ",
+  "sbadiglio_2": "zbadiʎo",
+  "sbadigliò": "sbadiʎɔ",
+  "sbadigliò_2": "zbadiʎɔ",
+  "sbafare": "zbafare",
+  "sbafo": "zbafo",
+  "sbagli": "zbaʎi",
+  "sbagliare": "zbaʎare",
+  "sbagliarsi": "sbaʎjarsi",
+  "sbagliarsi_2": "zbaʎarsi",
+  "sbagliata": "zbaʎata",
+  "sbagliate": "zbaʎate",
+  "sbagliati": "zbaʎati",
+  "sbagliato": "zbaʎato",
+  "sbaglio": "zbaʎo",
+  "sbaglio_2": "zbaʎɔ",
+  "sballato": "zbalːato",
+  "sballottante": "zbalːotːante",
+  "sballottare": "zbalːotːare",
+  "sbalordimento": "zbalordimento",
+  "sbalordire": "sbalɔrdire",
+  "sbalordire_2": "zbalordire",
+  "sbalordita": "zbalordita",
+  "sbalorditivo": "zbalorditivo",
+  "sbalordito": "zbalordito",
+  "sbalzo": "zbaltso",
+  "sbancare": "zbankare",
+  "sbandamento": "zbandamento",
+  "sbandare": "zbandare",
+  "sbandato": "zbandato",
+  "sbandieramento": "zbandjeramento",
+  "sbandierare": "zbandjerare",
+  "sbandieratore": "zbandjeratore",
+  "sbaragliare": "zbaraʎare",
+  "sbaragliato": "zbaraʎato",
+  "sbaraglino": "zbaraʎino",
+  "sbaraglio": "zbaraʎo",
+  "sbarazzare": "zbaratːsare",
+  "sbarazzino": "zbaratːsino",
+  "sbarazzo": "zbaratːso",
+  "sbarbata": "zbarbata",
+  "sbarbate": "zbarbate",
+  "sbarbatella": "zbarbatɛlːa",
+  "sbarbatelle": "zbarbatɛlːe",
+  "sbarbatelli": "zbarbatɛlːi",
+  "sbarbatello": "zbarbatɛlːo",
+  "sbarbati": "zbarbati",
+  "sbarbato": "zbarbato",
+  "sbarcare": "zbarkare",
+  "sbarchi": "zbarki",
+  "sbarco": "zbarko",
+  "sbarra": "zbarːa",
+  "sbarramenti": "sbarːamenti",
+  "sbarramento": "sbarːamento",
+  "sbarrante": "zbarːante",
+  "sbarrare": "zbarːare",
+  "sbarrata": "zbarːata",
+  "sbarrate": "zbarːate",
+  "sbarrati": "zbarːati",
+  "sbarrato": "zbarːato",
+  "sbarre": "zbarːe",
+  "sbassa": "zbasːa",
+  "sbassai": "zbasːai",
+  "sbassammo": "zbasːamːo",
+  "sbassando": "zbasːando",
+  "sbassano": "zbasːano",
+  "sbassante": "zbasːante",
+  "sbassanti": "zbasːanti",
+  "sbassare": "zbasːare",
+  "sbassarono": "zbasːarono",
+  "sbassasse": "zbasːasːe",
+  "sbassassero": "zbasːasːero",
+  "sbassassi": "zbasːasːi",
+  "sbassassimo": "zbasːasːimo",
+  "sbassaste": "zbasːaste",
+  "sbassasti": "zbasːasti",
+  "sbassata": "zbasːata",
+  "sbassate": "zbasːate",
+  "sbassati": "zbasːati",
+  "sbassato": "zbasːato",
+  "sbassatura": "zbasːatura",
+  "sbassava": "zbasːava",
+  "sbassavamo": "zbasːavamo",
+  "sbassavano": "zbasːavano",
+  "sbassavate": "zbasːavate",
+  "sbassavi": "zbasːavi",
+  "sbassavo": "zbasːavo",
+  "sbasserà": "zbasːera",
+  "sbasserai": "zbasːerai",
+  "sbasseranno": "zbasːeranːo",
+  "sbasserebbe": "zbasːerebːe",
+  "sbasserebbero": "zbasːerebːero",
+  "sbasserei": "zbasːerei",
+  "sbasseremmo": "zbasːeremːo",
+  "sbasseremo": "zbasːeremo",
+  "sbassereste": "zbasːereste",
+  "sbasseresti": "zbasːeresti",
+  "sbasserete": "zbasːerete",
+  "sbasserò": "zbasːero",
+  "sbassi": "zbasːi",
+  "sbassiamo": "zbasːiamo",
+  "sbassiate": "zbasːiate",
+  "sbassino": "zbasːino",
+  "sbasso": "zbasːo",
+  "sbassò": "zbasːo",
+  "sbattuto": "zbatːuto",
+  "sbatufolare": "zbatufolare",
+  "sbavante": "zbavante",
+  "sbavanti": "zbavanti",
+  "sbavare": "zbavare",
+  "sbavigliare": "zbaviʎare",
+  "sbeccamenti": "zbekːamɛnti",
+  "sbeccamento": "zbekːamɛnto",
+  "sbeffa": "zbɛfːa",
+  "sbeffe": "sbɛfːe",
+  "sbeffeggiamento": "zbefːedːʒamento",
+  "sbeffeggiare": "zbefːedːʒare",
+  "sbeffeggiarsi": "zbefːedːʒarsi",
+  "sbeffeggiato": "zbefːedːʒato",
+  "sbellicare": "zbelːikare",
+  "sbellicarsi": "zbelːikarsi",
+  "sbergia": "zbɛrdʒa",
+  "sberla": "zbɛrla",
+  "sberleffo": "zberlɛfːo",
+  "sbertucciare": "zbertutːʃare",
+  "sbevazzare": "zbevatːsare",
+  "sbiadire": "zbjadire",
+  "sbiadito": "zbjadito",
+  "sbiancare": "zbjankare",
+  "sbiecano": "sbjɛkano",
+  "sbieco": "zbjeko",
+  "sbieco_2": "zbjɛko",
+  "sbiennare": "sbienːare",
+  "sbigottimento": "zbiɡotːimento",
+  "sbigottire": "zbiɡotːire",
+  "sbigottita": "zbiɡotːita",
+  "sbigottite": "zbiɡotːite",
+  "sbigottiti": "zbiɡotːita",
+  "sbigottito": "zbiɡotːito",
+  "sbilanciato": "zbilantʃato",
+  "sbillacco": "zbilːlakːo",
+  "sbirciare": "zbirtʃare",
+  "sbirri": "sbirːi",
+  "sbirro": "sbirːo",
+  "sbirro_2": "zbirːo",
+  "sbizzarrire": "zbidːzarrire",
+  "sbizzarrirsi": "zbidːzarrirsi",
+  "sbizzarrito": "sbidːzarːito",
+  "sbloccaggi": "zblokːadːʒi",
+  "sbloccaggio": "zblokːadːʒo",
+  "sbloccante": "sblokːante",
+  "sbloccare": "sblokːare",
+  "sbloccare_2": "zblokːare",
+  "sbloccarsi": "zblokːarsi",
+  "sbloccato": "sblokːato",
+  "sbloccato_2": "zblokːat",
+  "sblocco": "zblɔkːo",
+  "sbobba": "zbɔbːa",
+  "sbobinare": "zbobinare",
+  "sboccato": "bokːato",
+  "sbocchi": "sbɔkːi",
+  "sbocciare": "zbotːʃare",
+  "sbocco": "sbɔkːo",
+  "sbocco_2": "zbokːo",
+  "sbolgiare": "zboldʒare",
+  "sbollire": "zbolːire",
+  "sbolognare": "zboloɲɲare",
+  "sbornia": "zbɔrnja",
+  "sborone": "zburone",
+  "sborrare": "zborːare",
+  "sborsante": "zborsante",
+  "sborsare": "zborsare",
+  "sborsato": "zborsato",
+  "sboscare": "sboskare"
 }

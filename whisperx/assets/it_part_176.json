@@ -1,1537 +1,537 @@
 {
-  "trinitarismo": [
-    "trinitarizmo"
-  ],
-  "trino": [
-    "trino"
-  ],
-  "trinomiale": [
-    "trinɔmjale"
-  ],
-  "trinomio": [
-    "trinɔmjo"
-  ],
-  "trio": [
-    "trio"
-  ],
-  "triodio": [
-    "triɔdjo"
-  ],
-  "triodo": [
-    "triodo"
-  ],
-  "trionfale": [
-    "trionfale",
-    "trjonfale"
-  ],
-  "trionfali": [
-    "trionfali"
-  ],
-  "trionfalismo": [
-    "trionfalizmo"
-  ],
-  "trionfante": [
-    "trionfante",
-    "trjonfante"
-  ],
-  "trionfanti": [
-    "trjonfanti"
-  ],
-  "trionfare": [
-    "trionfare",
-    "trjonfare"
-  ],
-  "trionfato": [
-    "trionfato"
-  ],
-  "trionfatore": [
-    "trionfatore"
-  ],
-  "trionfi": [
-    "trioɲfi"
-  ],
-  "trionfo": [
-    "trioɲfo",
-    "trjonfo"
-  ],
-  "triotto": [
-    "triɔtːo"
-  ],
-  "tripanosi": [
-    "tripanɔzi"
-  ],
-  "tripanosoma": [
-    "tripanosɔma"
-  ],
-  "tripanosomatidi": [
-    "tripanosomatidi"
-  ],
-  "tripartitismo": [
-    "tripartitizmo"
-  ],
-  "triplano": [
-    "triplano"
-  ],
-  "tripletta": [
-    "tripletːa"
-  ],
-  "triplicare": [
-    "triplikare"
-  ],
-  "triplicato": [
-    "triplikato"
-  ],
-  "triplice": [
-    "triplitʃe"
-  ],
-  "triplista": [
-    "triplista"
-  ],
-  "tripliste": [
-    "tripliste"
-  ],
-  "triplisti": [
-    "triplisti"
-  ],
-  "triplo": [
-    "triplo"
-  ],
-  "triploblastico": [
-    "triploblastiko"
-  ],
-  "tripode": [
-    "tripode"
-  ],
-  "tripolare": [
-    "tripolare"
-  ],
-  "triposto": [
-    "triposto"
-  ],
-  "trippa": [
-    "tripːa"
-  ],
-  "trippaia": [
-    "tripːaja"
-  ],
-  "trippe": [
-    "tripːe"
-  ],
-  "trippone": [
-    "tripːone"
-  ],
-  "tripudiato": [
-    "tripudjato"
-  ],
-  "tripudio": [
-    "tripudjo"
-  ],
-  "trireattore": [
-    "trireatːore"
-  ],
-  "trireattori": [
-    "trireatːori"
-  ],
-  "triregni": [
-    "trireɲɲi"
-  ],
-  "triregno": [
-    "trireɲɲo"
-  ],
-  "trireme": [
-    "trirɛme"
-  ],
-  "triremi": [
-    "trirɛmi"
-  ],
-  "trirettangolo": [
-    "triretːanɡolo"
-  ],
-  "tris": [
-    "tris"
-  ],
-  "trisaccaride": [
-    "trisakːaride"
-  ],
-  "trisavola": [
-    "trizavola"
-  ],
-  "trisavolo": [
-    "trizavolo"
-  ],
-  "triscele": [
-    "triʃʃele"
-  ],
-  "trisdrucciolo": [
-    "trizdrutːʃolo"
-  ],
-  "trisnonna": [
-    "trisnɔnːa",
-    "triznɔnːa"
-  ],
-  "trisnonne": [
-    "trisnɔnːe",
-    "triznɔnːe"
-  ],
-  "trisnonni": [
-    "trisnɔnːi"
-  ],
-  "trisnonno": [
-    "trisnɔnːo",
-    "triznɔnːo"
-  ],
-  "trista": [
-    "trista"
-  ],
-  "tristamente": [
-    "tristamente"
-  ],
-  "triste": [
-    "triste"
-  ],
-  "tristezza": [
-    "tristetːsa"
-  ],
-  "tristi": [
-    "tristi"
-  ],
-  "tristico": [
-    "tristiko"
-  ],
-  "tristissima": [
-    "tristisːima"
-  ],
-  "tristissime": [
-    "tristisːime"
-  ],
-  "tristissimi": [
-    "tristisːimi"
-  ],
-  "tristissimo": [
-    "tristisːimo"
-  ],
-  "tristizia": [
-    "tristitːsja"
-  ],
-  "tristo": [
-    "tristo"
-  ],
-  "tritacarne": [
-    "tritakarne"
-  ],
-  "tritagonista": [
-    "tritaɡonista"
-  ],
-  "tritare": [
-    "tritare"
-  ],
-  "tritato": [
-    "tritato"
-  ],
-  "tritatura": [
-    "tritatura"
-  ],
-  "triteismo": [
-    "triteizmo"
-  ],
-  "trito": [
-    "trito"
-  ],
-  "tritolo": [
-    "ritɔlo"
-  ],
-  "tritone": [
-    "tritone"
-  ],
-  "tritoni": [
-    "tritoni"
-  ],
-  "trittia": [
-    "tritːja"
-  ],
-  "trittico": [
-    "tritːiko"
-  ],
-  "trittongo": [
-    "tritːɔnɡo"
-  ],
-  "tritura": [
-    "tritura"
-  ],
-  "triturante": [
-    "triturante"
-  ],
-  "triturare": [
-    "triturare"
-  ],
-  "triturato": [
-    "triturato"
-  ],
-  "trituratore": [
-    "trituratore"
-  ],
-  "triturazione": [
-    "trituratsjone",
-    "trituratːsjone"
-  ],
-  "triturazioni": [
-    "trituratsjoni"
-  ],
-  "triumviro": [
-    "triumviro"
-  ],
-  "trivalente": [
-    "trivalɛnte"
-  ],
-  "trivalenti": [
-    "trivalɛnti"
-  ],
-  "trivella": [
-    "trivɛlːa"
-  ],
-  "trivellante": [
-    "trivelːante"
-  ],
-  "trivellare": [
-    "trivelːare"
-  ],
-  "trivellato": [
-    "trivelːato"
-  ],
-  "trivellazione": [
-    "trivelːatsjone"
-  ],
-  "trivelle": [
-    "trivɛlːe"
-  ],
-  "triviale": [
-    "trivjale"
-  ],
-  "trivialità": [
-    "trivjalita"
-  ],
-  "trivializzare": [
-    "trivjalidːzare"
-  ],
-  "trivializzazione": [
-    "trivjalidːzatːsjone"
-  ],
-  "trivio": [
-    "trivjo"
-  ],
-  "trizio": [
-    "tritːsjo"
-  ],
-  "trocheo": [
-    "trokɛo"
-  ],
-  "trochilide": [
-    "trokilide"
-  ],
-  "trochilidi": [
-    "trokilidi"
-  ],
-  "trochiliforme": [
-    "trokiliforme"
-  ],
-  "trochiliformi": [
-    "trokiliformi"
-  ],
-  "trofeo": [
-    "trofɛo"
-  ],
-  "trofico": [
-    "trɔfiko"
-  ],
-  "trofismo": [
-    "trofizmo"
-  ],
-  "trofoblasto": [
-    "trofoblasto"
-  ],
-  "trofologia": [
-    "trofolodʒia"
-  ],
-  "trogliare": [
-    "troʎare"
-  ],
-  "troglio": [
-    "trɔʎo"
-  ],
-  "troglodita": [
-    "troɡlodita"
-  ],
-  "trogloditide": [
-    "troɡloditide"
-  ],
-  "trogloditidi": [
-    "troɡloditidi"
-  ],
-  "trogolo": [
-    "trɔɡolo"
-  ],
-  "trogone": [
-    "troɡone"
-  ],
-  "trogonide": [
-    "troɡɔnide"
-  ],
-  "trogonidi": [
-    "troɡɔnidi"
-  ],
-  "trogoniforme": [
-    "troɡoniforme"
-  ],
-  "trogoniformi": [
-    "troɡoniformi"
-  ],
-  "trogononiforme": [
-    "troɡoniforme"
-  ],
-  "troia": [
-    "trɔja"
-  ],
-  "troiano": [
-    "trojano"
-  ],
-  "troja": [
-    "trɔja"
-  ],
-  "trolley": [
-    "trolːei"
-  ],
-  "tromba": [
-    "tromba",
-    "trɔmba"
-  ],
-  "trombare": [
-    "trombare"
-  ],
-  "trombe": [
-    "trɔmbe"
-  ],
-  "trombetta": [
-    "trombetːa"
-  ],
-  "trombettiere": [
-    "trombetːjɛre"
-  ],
-  "trombettista": [
-    "trombetːista"
-  ],
-  "trombettiste": [
-    "trombetːiste"
-  ],
-  "trombettisti": [
-    "trombetːisti"
-  ],
-  "trombizzare": [
-    "trombidːzare"
-  ],
-  "trombo": [
-    "trombo"
-  ],
-  "trombocita": [
-    "trombotʃita"
-  ],
-  "tromboendoarteriectomia": [
-    "tromboendoarterjektomia"
-  ],
-  "tromboendocardite": [
-    "tromboendokardite"
-  ],
-  "trombolisi": [
-    "trombolizi"
-  ],
-  "trombolisina": [
-    "trombolizina"
-  ],
-  "trombonata": [
-    "trombonata"
-  ],
-  "trombone": [
-    "trombone"
-  ],
-  "trombonista": [
-    "trombonista"
-  ],
-  "tromboniste": [
-    "tromboniste"
-  ],
-  "trombonisti": [
-    "trombonisti"
-  ],
-  "tromboplastico": [
-    "tromboplastiko"
-  ],
-  "tromboplastina": [
-    "tromboplastina"
-  ],
-  "trombosi": [
-    "trombɔzi"
-  ],
-  "tronca": [
-    "tronka",
-    "troɲka"
-  ],
-  "troncamenti": [
-    "tronkamenti"
-  ],
-  "troncamento": [
-    "tronkamento"
-  ],
-  "troncare": [
-    "tronkare"
-  ],
-  "troncato": [
-    "tronkato"
-  ],
-  "tronche": [
-    "tronke"
-  ],
-  "tronchese": [
-    "tronkese",
-    "troɲkeze"
-  ],
-  "tronchesi": [
-    "tronkesi"
-  ],
-  "tronchesina": [
-    "tronkesina"
-  ],
-  "tronchesine": [
-    "tronkesine"
-  ],
-  "tronchesini": [
-    "tronkesini"
-  ],
-  "tronchesino": [
-    "tronkesino"
-  ],
-  "tronchetto": [
-    "tronketːo"
-  ],
-  "tronchi": [
-    "tronki",
-    "trɔnko"
-  ],
-  "tronco": [
-    "tronko",
-    "trɔnkɔ"
-  ],
-  "troncopiramidale": [
-    "tronkopiramidale"
-  ],
-  "troneggiare": [
-    "tronedːʒare"
-  ],
-  "tronfiamente": [
-    "tronfjamente"
-  ],
-  "tronfiare": [
-    "tronfjare"
-  ],
-  "tronfio": [
-    "tronfjo"
-  ],
-  "troni": [
-    "trɔni"
-  ],
-  "trono": [
-    "trɔno"
-  ],
-  "tropicale": [
-    "tropikale"
-  ],
-  "tropicalizzato": [
-    "tropikalidːzato"
-  ],
-  "tropismo": [
-    "tropizmo"
-  ],
-  "tropo": [
-    "trɔpo"
-  ],
-  "tropologica": [
-    "tropolɔdʒika"
-  ],
-  "tropologiche": [
-    "tropolɔdʒike"
-  ],
-  "tropologici": [
-    "tropolɔdʒitʃi"
-  ],
-  "tropologico": [
-    "tropolɔdʒiko"
-  ],
-  "troposfera": [
-    "troposfɛra"
-  ],
-  "troposfere": [
-    "troposfɛra"
-  ],
-  "troposferica": [
-    "troposfɛrika"
-  ],
-  "troposferiche": [
-    "troposfɛrike"
-  ],
-  "troposferici": [
-    "troposfɛritʃi"
-  ],
-  "troposferico": [
-    "troposfɛriko"
-  ],
-  "troppo": [
-    "trɔpːo"
-  ],
-  "troppopieno": [
-    "trɔpːopjeno",
-    "trɔpːopjɛno"
-  ],
-  "trota": [
-    "trɔta"
-  ],
-  "trotskismo": [
-    "trotskizmo"
-  ],
-  "trotskista": [
-    "trotskista"
-  ],
-  "trotskiste": [
-    "trotskiste"
-  ],
-  "trotskisti": [
-    "trotskisti"
-  ],
-  "trottare": [
-    "trotːare"
-  ],
-  "trottatore": [
-    "trotːatore"
-  ],
-  "trottatori": [
-    "trotːatori"
-  ],
-  "trotterellare": [
-    "trotːerelːare"
-  ],
-  "trotto": [
-    "trɔtːo"
-  ],
-  "trottola": [
-    "trɔtːola"
-  ],
-  "trotzkismo": [
-    "trotzkizmo"
-  ],
-  "troupe": [
-    "trup"
-  ],
-  "trova": [
-    "trova",
-    "trɔva"
-  ],
-  "trovabile": [
-    "trovabile"
-  ],
-  "trovabili": [
-    "trovabili"
-  ],
-  "trovadore": [
-    "trovadore"
-  ],
-  "trovare": [
-    "trovare",
-    "trɔvare"
-  ],
-  "trovarsi": [
-    "trovarsi"
-  ],
-  "trovata": [
-    "trovata"
-  ],
-  "trovato": [
-    "trovato"
-  ],
-  "trovatora": [
-    "trovatora"
-  ],
-  "trovatore": [
-    "trovatore"
-  ],
-  "trovatori": [
-    "trovatore",
-    "trovatori"
-  ],
-  "trovatrice": [
-    "trovatritʃe"
-  ],
-  "trovero": [
-    "trovɛro"
-  ],
-  "trovieri": [
-    "trovjɛri"
-  ],
-  "troviero": [
-    "trovjɛro"
-  ],
-  "truccare": [
-    "trukːare"
-  ],
-  "truccato": [
-    "trukːato"
-  ],
-  "truccatore": [
-    "trukːatore"
-  ],
-  "truccatori": [
-    "trukːatori"
-  ],
-  "truccatrice": [
-    "trukːatritʃe"
-  ],
-  "truccatrici": [
-    "trukːatritʃi"
-  ],
-  "truccatura": [
-    "trukːatura"
-  ],
-  "truccature": [
-    "trukːature"
-  ],
-  "trucchetto": [
-    "trukːetːo"
-  ],
-  "trucchi": [
-    "trukːi"
-  ],
-  "trucco": [
-    "trukːo"
-  ],
-  "truce": [
-    "trutʃe"
-  ],
-  "trucemente": [
-    "trutʃemente"
-  ],
-  "trucidare": [
-    "trutʃidare"
-  ],
-  "trucidato": [
-    "trutʃidato"
-  ],
-  "trucido": [
-    "trutʃido"
-  ],
-  "truciolo": [
-    "trutʃolo"
-  ],
-  "truculento": [
-    "trukulɛnto"
-  ],
-  "truffa": [
-    "trufːa"
-  ],
-  "truffaldino": [
-    "trufːaldino"
-  ],
-  "truffare": [
-    "trufːare"
-  ],
-  "truffato": [
-    "trufːato"
-  ],
-  "truffatore": [
-    "trufːatore",
-    "trufːatɔre"
-  ],
-  "truffatori": [
-    "trufːatɔri"
-  ],
-  "truffatrice": [
-    "trufːatritʃe"
-  ],
-  "truffatrici": [
-    "trufːatritʃi"
-  ],
-  "trufolare": [
-    "trufolare"
-  ],
-  "truglio": [
-    "truʎo"
-  ],
-  "trulli": [
-    "trulːi"
-  ],
-  "trullo": [
-    "trulːo"
-  ],
-  "trumpismo": [
-    "trampizmo"
-  ],
-  "trumpista": [
-    "trumpista"
-  ],
-  "trumpiste": [
-    "trumpiste"
-  ],
-  "trumpisti": [
-    "trumpisti"
-  ],
-  "truono": [
-    "trwɔno"
-  ],
-  "truppa": [
-    "trupːa"
-  ],
-  "trust": [
-    "trast"
-  ],
-  "truzzi": [
-    "truzzi"
-  ],
-  "truzzo": [
-    "trutso",
-    "trutːso"
-  ],
-  "tso": [
-    "tiɛsːeɔ"
-  ],
-  "tsunami": [
-    "tsunami"
-  ],
-  "tu": [
-    "tu"
-  ],
-  "tua": [
-    "tua"
-  ],
-  "tuba": [
-    "tuba"
-  ],
-  "tubare": [
-    "tubare"
-  ],
-  "tubatura": [
-    "tubatura"
-  ],
-  "tubature": [
-    "tubature"
-  ],
-  "tubazione": [
-    "tubatːsjone"
-  ],
-  "tube": [
-    "tube"
-  ],
-  "tubercoli": [
-    "tubɛrkoli"
-  ],
-  "tubercolo": [
-    "tubɛrkolo"
-  ],
-  "tubercolosa": [
-    "tuberkoloza"
-  ],
-  "tubercolose": [
-    "tuberkoloze"
-  ],
-  "tubercolosi": [
-    "tuberkolɔzi",
-    "tuberkulozi"
-  ],
-  "tuberi": [
-    "tuberi"
-  ],
-  "tubero": [
-    "tubero"
-  ],
-  "tubetto": [
-    "tubetːo"
-  ],
-  "tubicine": [
-    "tubitʃine"
-  ],
-  "tubicino": [
-    "tubitʃino"
-  ],
-  "tubificio": [
-    "tubifitʃo"
-  ],
-  "tubiforme": [
-    "tubiforme"
-  ],
-  "tubiformi": [
-    "tubiformi"
-  ],
-  "tubista": [
-    "tubista"
-  ],
-  "tubiste": [
-    "tubiste"
-  ],
-  "tubisti": [
-    "tubisti"
-  ],
-  "tubo": [
-    "tubo"
-  ],
-  "tubolare": [
-    "tubolare"
-  ],
-  "tubolari": [
-    "tubolare"
-  ],
-  "tubulare": [
-    "tubulare"
-  ],
-  "tubulari": [
-    "tubulari"
-  ],
-  "tubuli": [
-    "tubuli"
-  ],
-  "tubulo": [
-    "tubulɔ"
-  ],
-  "tucani": [
-    "tukani"
-  ],
-  "tucano": [
-    "tukano"
-  ],
-  "tucidideo": [
-    "tutʃididɛo"
-  ],
-  "tucul": [
-    "tukul"
-  ],
-  "tue": [
-    "tue"
-  ],
-  "tuffare": [
-    "tufːare"
-  ],
-  "tuffarsi": [
-    "tufːarsi"
-  ],
-  "tuffatore": [
-    "tufːatore"
-  ],
-  "tuffetti": [
-    "tufːetːi"
-  ],
-  "tuffetto": [
-    "tufːetːo"
-  ],
-  "tuffo": [
-    "tufːo"
-  ],
-  "tufo": [
-    "tufo"
-  ],
-  "tugurio": [
-    "tuɡurio",
-    "tuɡurjo"
-  ],
-  "tuia": [
-    "tuja"
-  ],
-  "tulio": [
-    "tuljo"
-  ],
-  "tulipano": [
-    "tulipano"
-  ],
-  "tullia": [
-    "tulːia"
-  ],
-  "tullio": [
-    "tulːjo"
-  ],
-  "tumbergia": [
-    "tumbɛrdʒa"
-  ],
-  "tumefatto": [
-    "tumefatːo"
-  ],
-  "tumefazione": [
-    "tumefatːsjone"
-  ],
-  "tumido": [
-    "tumido"
-  ],
-  "tumorale": [
-    "tumorale"
-  ],
-  "tumorali": [
-    "antitumorali"
-  ],
-  "tumore": [
-    "tumore"
-  ],
-  "tumorectomia": [
-    "tumorektomia"
-  ],
-  "tumorectomie": [
-    "tumorektomie"
-  ],
-  "tumori": [
-    "tumori"
-  ],
-  "tumorigeno": [
-    "tumoridʒeno"
-  ],
-  "tumulato": [
-    "tumulato"
-  ],
-  "tumulazione": [
-    "tumulatːsjone"
-  ],
-  "tumulo": [
-    "tumulo"
-  ],
-  "tumulto": [
-    "tumulto"
-  ],
-  "tumultuante": [
-    "tumultuante"
-  ],
-  "tumultuato": [
-    "tumultuato"
-  ],
-  "tundra": [
-    "tundra"
-  ],
-  "tungstato": [
-    "tunɡstato"
-  ],
-  "tungsteno": [
-    "tunɡstɛno",
-    "tunstɛno",
-    "tuɲɡstɛno"
-  ],
-  "tunica": [
-    "tunika"
-  ],
-  "tunicati": [
-    "tunikati"
-  ],
-  "tunicato": [
-    "tunikato"
-  ],
-  "tunisia": [
-    "tunizja"
-  ],
-  "tunisina": [
-    "tunizina"
-  ],
-  "tunisine": [
-    "tunizine"
-  ],
-  "tunisini": [
-    "tunizini"
-  ],
-  "tunisino": [
-    "tunizino"
-  ],
-  "tunnel": [
-    "tunːel"
-  ],
-  "tuo": [
-    "tuo",
-    "twɔ"
-  ],
-  "tuoi": [
-    "tuoi",
-    "twɔi"
-  ],
-  "tuonare": [
-    "twonare",
-    "twɔnare"
-  ],
-  "tuoni": [
-    "twɔni"
-  ],
-  "tuono": [
-    "tuɔno",
-    "twɔno",
-    "twɔnɔ"
-  ],
-  "tuorli": [
-    "twɔrli"
-  ],
-  "tuorlo": [
-    "twɔrlo"
-  ],
-  "turacciolo": [
-    "turatːʃolo"
-  ],
-  "turaco": [
-    "turako"
-  ],
-  "turare": [
-    "turare"
-  ],
-  "turati": [
-    "turati"
-  ],
-  "turba": [
-    "turba"
-  ],
-  "turbamento": [
-    "turbamento"
-  ],
-  "turbando": [
-    "turbando"
-  ],
-  "turbante": [
-    "turbante"
-  ],
-  "turbanti": [
-    "turbanti"
-  ],
-  "turbare": [
-    "turbare"
-  ],
-  "turbarsi": [
-    "turbarsi"
-  ],
-  "turbato": [
-    "turbato"
-  ],
-  "turbazione": [
-    "turbatːsjone"
-  ],
-  "turbe": [
-    "turbe"
-  ],
-  "turbina": [
-    "turbina"
-  ],
-  "turbine": [
-    "turbine"
-  ],
-  "turbinio": [
-    "turbinio"
-  ],
-  "turbinoso": [
-    "turbinoso",
-    "turbinozo"
-  ],
-  "turbo": [
-    "turbo"
-  ],
-  "turboalternatore": [
-    "turboalternatore"
-  ],
-  "turboalternatori": [
-    "turboalternatori"
-  ],
-  "turbocapitalismo": [
-    "turbokapitalizmo"
-  ],
-  "turbocompresso": [
-    "turbokomprɛsːo"
-  ],
-  "turbocompressore": [
-    "turbokompresːore"
-  ],
-  "turbodiesel": [
-    "turbodizel"
-  ],
-  "turboelica": [
-    "turboɛlika"
-  ],
-  "turboelice": [
-    "turboɛlike"
-  ],
-  "turbofan": [
-    "turbofan"
-  ],
-  "turbogas": [
-    "turboɡas"
-  ],
-  "turbogetti": [
-    "turbodʒɛtːi"
-  ],
-  "turbogetto": [
-    "turbodʒɛtːo"
-  ],
-  "turbolente": [
-    "turbovalɛnte"
-  ],
-  "turbolenti": [
-    "turbovalɛnti"
-  ],
-  "turbolento": [
-    "turbolɛnto"
-  ],
-  "turbolenza": [
-    "turbolɛntsa"
-  ],
-  "turbomacchina": [
-    "turbomakːina"
-  ],
-  "turbomacchine": [
-    "turbomakːine"
-  ],
-  "turbomescolatore": [
-    "turbomeskolatore"
-  ],
-  "turbomescolatori": [
-    "turbomeskolatori"
-  ],
-  "turbomotore": [
-    "turbomotore"
-  ],
-  "turbopompa": [
-    "turbopompa"
-  ],
-  "turbopompe": [
-    "turbopompe"
-  ],
-  "turbopropulsore": [
-    "turbopropulsore"
-  ],
-  "turbopropulsori": [
-    "turbopropulsori"
-  ],
-  "turboreattore": [
-    "turboreatːore"
-  ],
-  "turboreattori": [
-    "turboreatːori",
-    "turboreatːorj"
-  ],
-  "turbostatoreattore": [
-    "superstatoreatːore"
-  ],
-  "turbostatoreattori": [
-    "superstatoreatːori"
-  ],
-  "turca": [
-    "turka"
-  ],
-  "turcasso": [
-    "tur",
-    "turkasːo"
-  ],
-  "turche": [
-    "turke"
-  ],
-  "turcheggiare": [
-    "turkedːʒare"
-  ],
-  "turcheggiato": [
-    "turkedːʒato"
-  ],
-  "turchese": [
-    "turkese",
-    "turkeze"
-  ],
-  "turchi": [
-    "turki"
-  ],
-  "turchia": [
-    "turkia"
-  ],
-  "turchina": [
-    "turkina"
-  ],
-  "turchine": [
-    "turkine"
-  ],
-  "turchini": [
-    "turkini"
-  ],
-  "turchino": [
-    "turkino"
-  ],
-  "turcmena": [
-    "turkmɛna"
-  ],
-  "turcmene": [
-    "turkmɛne"
-  ],
-  "turcmeni": [
-    "turkmɛni"
-  ],
-  "turcmeno": [
-    "turkmɛno"
-  ],
-  "turco": [
-    "radjo",
-    "turko"
-  ],
-  "turcologica": [
-    "turkolɔdʒika"
-  ],
-  "turcologiche": [
-    "turkolɔdʒike"
-  ],
-  "turcologici": [
-    "turkolɔdʒitʃi"
-  ],
-  "turcologico": [
-    "turkolɔdʒiko"
-  ],
-  "turdide": [
-    "turdide"
-  ],
-  "turdidi": [
-    "turdidi"
-  ],
-  "turfa": [
-    "turfa"
-  ],
-  "turficolo": [
-    "turfikolo"
-  ],
-  "turfofilo": [
-    "turfɔfilo"
-  ],
-  "turgere": [
-    "turdʒere"
-  ],
-  "turgido": [
-    "turdʒido"
-  ],
-  "turibolo": [
-    "turibolo"
-  ],
-  "turiferari": [
-    "turiferari"
-  ],
-  "turiferario": [
-    "turiferarjo"
-  ],
-  "turingio": [
-    "turindʒo"
-  ],
-  "turismi": [
-    "turizmi"
-  ],
-  "turismo": [
-    "turizmo"
-  ],
-  "turista": [
-    "turista"
-  ],
-  "turiste": [
-    "turiste"
-  ],
-  "turisti": [
-    "turisti"
-  ],
-  "turistica": [
-    "turistika"
-  ],
-  "turistiche": [
-    "turistike"
-  ],
-  "turistici": [
-    "turistitʃi"
-  ],
-  "turistico": [
-    "turistiko"
-  ],
-  "turkmena": [
-    "turkmɛna"
-  ],
-  "turkmene": [
-    "turkmɛne"
-  ],
-  "turkmeni": [
-    "turkmɛni"
-  ],
-  "turkmenistan": [
-    "kurdistan"
-  ],
-  "turkmeno": [
-    "turkmɛno"
-  ],
-  "turlupinare": [
-    "turlupinare"
-  ],
-  "turma": [
-    "turma"
-  ],
-  "turnare": [
-    "turnare"
-  ],
-  "turnazione": [
-    "turnatːsjone"
-  ],
-  "turno": [
-    "turno"
-  ],
-  "turnover": [
-    "turnover"
-  ],
-  "turpe": [
-    "turpe"
-  ],
-  "turpemente": [
-    "turpemente"
-  ],
-  "turpiloqui": [
-    "turpilokwi"
-  ],
-  "turpiloquio": [
-    "turpilokwjo"
-  ],
-  "turpitudine": [
-    "turpitudine"
-  ],
-  "turrito": [
-    "turːito"
-  ],
-  "tursiope": [
-    "tursiope"
-  ],
-  "tuscia": [
-    "tuʃʃa"
-  ],
-  "tuta": [
-    "tuta"
-  ],
-  "tute": [
-    "tute"
-  ],
-  "tutela": [
-    "tutɛla"
-  ],
-  "tutelare": [
-    "tutelare"
-  ],
-  "tutelarsi": [
-    "tutelarsi"
-  ],
-  "tutelato": [
-    "tutelato"
-  ],
-  "tutolo": [
-    "tutolo"
-  ],
-  "tutor": [
-    "tutor"
-  ],
-  "tutore": [
-    "tutore"
-  ],
-  "tutori": [
-    "tutori"
-  ],
-  "tutrice": [
-    "tutritʃe"
-  ],
-  "tutrici": [
-    "tutritʃi"
-  ],
-  "tutsi": [
-    "tutsi"
-  ],
-  "tutta": [
-    "tutːa"
-  ],
-  "tuttavia": [
-    "tutːavia"
-  ],
-  "tutte": [
-    "tutːe"
-  ],
-  "tutti": [
-    "tutːi"
-  ],
-  "tutto": [
-    "tutːo"
-  ],
-  "tuttofare": [
-    "tutːofare"
-  ],
-  "tuttologa": [
-    "tutːɔloɡa"
-  ],
-  "tuttologhe": [
-    "tutːɔloɡe"
-  ],
-  "tuttologi": [
-    "tutːɔloɡi"
-  ],
-  "tuttologo": [
-    "tutːɔloɡo"
-  ],
-  "tuttora": [
-    "tutːora"
-  ],
-  "tuttotondo": [
-    "tutːotondo"
-  ],
-  "tutù": [
-    "tutu"
-  ],
-  "tuvalu": [
-    "tuvalu"
-  ],
-  "tuvaluana": [
-    "tuvaluana"
-  ],
-  "tuvaluane": [
-    "tuvaluane"
-  ],
-  "tuvaluani": [
-    "tuvaluani"
-  ],
-  "tuvaluano": [
-    "tuvaluano"
-  ],
-  "tuziorismi": [
-    "tutsjorizmi"
-  ],
-  "tuziorismo": [
-    "tutːsjorizmo"
-  ],
-  "tv": [
-    "tivi",
-    "tivu"
-  ],
-  "u": [
-    "u"
-  ],
-  "u’": [
-    "u"
-  ],
-  "uabaio": [
-    "wabajo"
-  ],
-  "uanderù": [
-    "wanderu"
-  ],
-  "ubbia": [
-    "ubːia"
-  ],
-  "ubbidente": [
-    "ubːidente"
-  ],
-  "ubbidiente": [
-    "ubidjɛnte",
-    "ubːidjɛnte"
-  ],
-  "ubbidienti": [
-    "ubidjɛnti"
-  ],
-  "ubbidienza": [
-    "ubːidjɛntsa"
-  ],
-  "ubbidienze": [
-    "ubːidjɛntsa"
-  ],
-  "ubbidire": [
-    "ubːidire"
-  ],
-  "ubbidito": [
-    "ubːidito"
-  ]
+  "trinitarismo": "trinitarizmo",
+  "trino": "trino",
+  "trinomiale": "trinɔmjale",
+  "trinomio": "trinɔmjo",
+  "trio": "trio",
+  "triodio": "triɔdjo",
+  "triodo": "triodo",
+  "trionfale": "trionfale",
+  "trionfale_2": "trjonfale",
+  "trionfali": "trionfali",
+  "trionfalismo": "trionfalizmo",
+  "trionfante": "trionfante",
+  "trionfante_2": "trjonfante",
+  "trionfanti": "trjonfanti",
+  "trionfare": "trionfare",
+  "trionfare_2": "trjonfare",
+  "trionfato": "trionfato",
+  "trionfatore": "trionfatore",
+  "trionfi": "trioɲfi",
+  "trionfo": "trioɲfo",
+  "trionfo_2": "trjonfo",
+  "triotto": "triɔtːo",
+  "tripanosi": "tripanɔzi",
+  "tripanosoma": "tripanosɔma",
+  "tripanosomatidi": "tripanosomatidi",
+  "tripartitismo": "tripartitizmo",
+  "triplano": "triplano",
+  "tripletta": "tripletːa",
+  "triplicare": "triplikare",
+  "triplicato": "triplikato",
+  "triplice": "triplitʃe",
+  "triplista": "triplista",
+  "tripliste": "tripliste",
+  "triplisti": "triplisti",
+  "triplo": "triplo",
+  "triploblastico": "triploblastiko",
+  "tripode": "tripode",
+  "tripolare": "tripolare",
+  "triposto": "triposto",
+  "trippa": "tripːa",
+  "trippaia": "tripːaja",
+  "trippe": "tripːe",
+  "trippone": "tripːone",
+  "tripudiato": "tripudjato",
+  "tripudio": "tripudjo",
+  "trireattore": "trireatːore",
+  "trireattori": "trireatːori",
+  "triregni": "trireɲɲi",
+  "triregno": "trireɲɲo",
+  "trireme": "trirɛme",
+  "triremi": "trirɛmi",
+  "trirettangolo": "triretːanɡolo",
+  "tris": "tris",
+  "trisaccaride": "trisakːaride",
+  "trisavola": "trizavola",
+  "trisavolo": "trizavolo",
+  "triscele": "triʃʃele",
+  "trisdrucciolo": "trizdrutːʃolo",
+  "trisnonna": "trisnɔnːa",
+  "trisnonna_2": "triznɔnːa",
+  "trisnonne": "trisnɔnːe",
+  "trisnonne_2": "triznɔnːe",
+  "trisnonni": "trisnɔnːi",
+  "trisnonno": "trisnɔnːo",
+  "trisnonno_2": "triznɔnːo",
+  "trista": "trista",
+  "tristamente": "tristamente",
+  "triste": "triste",
+  "tristezza": "tristetːsa",
+  "tristi": "tristi",
+  "tristico": "tristiko",
+  "tristissima": "tristisːima",
+  "tristissime": "tristisːime",
+  "tristissimi": "tristisːimi",
+  "tristissimo": "tristisːimo",
+  "tristizia": "tristitːsja",
+  "tristo": "tristo",
+  "tritacarne": "tritakarne",
+  "tritagonista": "tritaɡonista",
+  "tritare": "tritare",
+  "tritato": "tritato",
+  "tritatura": "tritatura",
+  "triteismo": "triteizmo",
+  "trito": "trito",
+  "tritolo": "ritɔlo",
+  "tritone": "tritone",
+  "tritoni": "tritoni",
+  "trittia": "tritːja",
+  "trittico": "tritːiko",
+  "trittongo": "tritːɔnɡo",
+  "tritura": "tritura",
+  "triturante": "triturante",
+  "triturare": "triturare",
+  "triturato": "triturato",
+  "trituratore": "trituratore",
+  "triturazione": "trituratsjone",
+  "triturazione_2": "trituratːsjone",
+  "triturazioni": "trituratsjoni",
+  "triumviro": "triumviro",
+  "trivalente": "trivalɛnte",
+  "trivalenti": "trivalɛnti",
+  "trivella": "trivɛlːa",
+  "trivellante": "trivelːante",
+  "trivellare": "trivelːare",
+  "trivellato": "trivelːato",
+  "trivellazione": "trivelːatsjone",
+  "trivelle": "trivɛlːe",
+  "triviale": "trivjale",
+  "trivialità": "trivjalita",
+  "trivializzare": "trivjalidːzare",
+  "trivializzazione": "trivjalidːzatːsjone",
+  "trivio": "trivjo",
+  "trizio": "tritːsjo",
+  "trocheo": "trokɛo",
+  "trochilide": "trokilide",
+  "trochilidi": "trokilidi",
+  "trochiliforme": "trokiliforme",
+  "trochiliformi": "trokiliformi",
+  "trofeo": "trofɛo",
+  "trofico": "trɔfiko",
+  "trofismo": "trofizmo",
+  "trofoblasto": "trofoblasto",
+  "trofologia": "trofolodʒia",
+  "trogliare": "troʎare",
+  "troglio": "trɔʎo",
+  "troglodita": "troɡlodita",
+  "trogloditide": "troɡloditide",
+  "trogloditidi": "troɡloditidi",
+  "trogolo": "trɔɡolo",
+  "trogone": "troɡone",
+  "trogonide": "troɡɔnide",
+  "trogonidi": "troɡɔnidi",
+  "trogoniforme": "troɡoniforme",
+  "trogoniformi": "troɡoniformi",
+  "trogononiforme": "troɡoniforme",
+  "troia": "trɔja",
+  "troiano": "trojano",
+  "troja": "trɔja",
+  "trolley": "trolːei",
+  "tromba": "tromba",
+  "tromba_2": "trɔmba",
+  "trombare": "trombare",
+  "trombe": "trɔmbe",
+  "trombetta": "trombetːa",
+  "trombettiere": "trombetːjɛre",
+  "trombettista": "trombetːista",
+  "trombettiste": "trombetːiste",
+  "trombettisti": "trombetːisti",
+  "trombizzare": "trombidːzare",
+  "trombo": "trombo",
+  "trombocita": "trombotʃita",
+  "tromboendoarteriectomia": "tromboendoarterjektomia",
+  "tromboendocardite": "tromboendokardite",
+  "trombolisi": "trombolizi",
+  "trombolisina": "trombolizina",
+  "trombonata": "trombonata",
+  "trombone": "trombone",
+  "trombonista": "trombonista",
+  "tromboniste": "tromboniste",
+  "trombonisti": "trombonisti",
+  "tromboplastico": "tromboplastiko",
+  "tromboplastina": "tromboplastina",
+  "trombosi": "trombɔzi",
+  "tronca": "tronka",
+  "tronca_2": "troɲka",
+  "troncamenti": "tronkamenti",
+  "troncamento": "tronkamento",
+  "troncare": "tronkare",
+  "troncato": "tronkato",
+  "tronche": "tronke",
+  "tronchese": "tronkese",
+  "tronchese_2": "troɲkeze",
+  "tronchesi": "tronkesi",
+  "tronchesina": "tronkesina",
+  "tronchesine": "tronkesine",
+  "tronchesini": "tronkesini",
+  "tronchesino": "tronkesino",
+  "tronchetto": "tronketːo",
+  "tronchi": "tronki",
+  "tronchi_2": "trɔnko",
+  "tronco": "tronko",
+  "tronco_2": "trɔnkɔ",
+  "troncopiramidale": "tronkopiramidale",
+  "troneggiare": "tronedːʒare",
+  "tronfiamente": "tronfjamente",
+  "tronfiare": "tronfjare",
+  "tronfio": "tronfjo",
+  "troni": "trɔni",
+  "trono": "trɔno",
+  "tropicale": "tropikale",
+  "tropicalizzato": "tropikalidːzato",
+  "tropismo": "tropizmo",
+  "tropo": "trɔpo",
+  "tropologica": "tropolɔdʒika",
+  "tropologiche": "tropolɔdʒike",
+  "tropologici": "tropolɔdʒitʃi",
+  "tropologico": "tropolɔdʒiko",
+  "troposfera": "troposfɛra",
+  "troposfere": "troposfɛra",
+  "troposferica": "troposfɛrika",
+  "troposferiche": "troposfɛrike",
+  "troposferici": "troposfɛritʃi",
+  "troposferico": "troposfɛriko",
+  "troppo": "trɔpːo",
+  "troppopieno": "trɔpːopjeno",
+  "troppopieno_2": "trɔpːopjɛno",
+  "trota": "trɔta",
+  "trotskismo": "trotskizmo",
+  "trotskista": "trotskista",
+  "trotskiste": "trotskiste",
+  "trotskisti": "trotskisti",
+  "trottare": "trotːare",
+  "trottatore": "trotːatore",
+  "trottatori": "trotːatori",
+  "trotterellare": "trotːerelːare",
+  "trotto": "trɔtːo",
+  "trottola": "trɔtːola",
+  "trotzkismo": "trotzkizmo",
+  "troupe": "trup",
+  "trova": "trova",
+  "trova_2": "trɔva",
+  "trovabile": "trovabile",
+  "trovabili": "trovabili",
+  "trovadore": "trovadore",
+  "trovare": "trovare",
+  "trovare_2": "trɔvare",
+  "trovarsi": "trovarsi",
+  "trovata": "trovata",
+  "trovato": "trovato",
+  "trovatora": "trovatora",
+  "trovatore": "trovatore",
+  "trovatori": "trovatore",
+  "trovatori_2": "trovatori",
+  "trovatrice": "trovatritʃe",
+  "trovero": "trovɛro",
+  "trovieri": "trovjɛri",
+  "troviero": "trovjɛro",
+  "truccare": "trukːare",
+  "truccato": "trukːato",
+  "truccatore": "trukːatore",
+  "truccatori": "trukːatori",
+  "truccatrice": "trukːatritʃe",
+  "truccatrici": "trukːatritʃi",
+  "truccatura": "trukːatura",
+  "truccature": "trukːature",
+  "trucchetto": "trukːetːo",
+  "trucchi": "trukːi",
+  "trucco": "trukːo",
+  "truce": "trutʃe",
+  "trucemente": "trutʃemente",
+  "trucidare": "trutʃidare",
+  "trucidato": "trutʃidato",
+  "trucido": "trutʃido",
+  "truciolo": "trutʃolo",
+  "truculento": "trukulɛnto",
+  "truffa": "trufːa",
+  "truffaldino": "trufːaldino",
+  "truffare": "trufːare",
+  "truffato": "trufːato",
+  "truffatore": "trufːatore",
+  "truffatore_2": "trufːatɔre",
+  "truffatori": "trufːatɔri",
+  "truffatrice": "trufːatritʃe",
+  "truffatrici": "trufːatritʃi",
+  "trufolare": "trufolare",
+  "truglio": "truʎo",
+  "trulli": "trulːi",
+  "trullo": "trulːo",
+  "trumpismo": "trampizmo",
+  "trumpista": "trumpista",
+  "trumpiste": "trumpiste",
+  "trumpisti": "trumpisti",
+  "truono": "trwɔno",
+  "truppa": "trupːa",
+  "trust": "trast",
+  "truzzi": "truzzi",
+  "truzzo": "trutso",
+  "truzzo_2": "trutːso",
+  "tso": "tiɛsːeɔ",
+  "tsunami": "tsunami",
+  "tu": "tu",
+  "tua": "tua",
+  "tuba": "tuba",
+  "tubare": "tubare",
+  "tubatura": "tubatura",
+  "tubature": "tubature",
+  "tubazione": "tubatːsjone",
+  "tube": "tube",
+  "tubercoli": "tubɛrkoli",
+  "tubercolo": "tubɛrkolo",
+  "tubercolosa": "tuberkoloza",
+  "tubercolose": "tuberkoloze",
+  "tubercolosi": "tuberkolɔzi",
+  "tubercolosi_2": "tuberkulozi",
+  "tuberi": "tuberi",
+  "tubero": "tubero",
+  "tubetto": "tubetːo",
+  "tubicine": "tubitʃine",
+  "tubicino": "tubitʃino",
+  "tubificio": "tubifitʃo",
+  "tubiforme": "tubiforme",
+  "tubiformi": "tubiformi",
+  "tubista": "tubista",
+  "tubiste": "tubiste",
+  "tubisti": "tubisti",
+  "tubo": "tubo",
+  "tubolare": "tubolare",
+  "tubolari": "tubolare",
+  "tubulare": "tubulare",
+  "tubulari": "tubulari",
+  "tubuli": "tubuli",
+  "tubulo": "tubulɔ",
+  "tucani": "tukani",
+  "tucano": "tukano",
+  "tucidideo": "tutʃididɛo",
+  "tucul": "tukul",
+  "tue": "tue",
+  "tuffare": "tufːare",
+  "tuffarsi": "tufːarsi",
+  "tuffatore": "tufːatore",
+  "tuffetti": "tufːetːi",
+  "tuffetto": "tufːetːo",
+  "tuffo": "tufːo",
+  "tufo": "tufo",
+  "tugurio": "tuɡurio",
+  "tugurio_2": "tuɡurjo",
+  "tuia": "tuja",
+  "tulio": "tuljo",
+  "tulipano": "tulipano",
+  "tullia": "tulːia",
+  "tullio": "tulːjo",
+  "tumbergia": "tumbɛrdʒa",
+  "tumefatto": "tumefatːo",
+  "tumefazione": "tumefatːsjone",
+  "tumido": "tumido",
+  "tumorale": "tumorale",
+  "tumorali": "antitumorali",
+  "tumore": "tumore",
+  "tumorectomia": "tumorektomia",
+  "tumorectomie": "tumorektomie",
+  "tumori": "tumori",
+  "tumorigeno": "tumoridʒeno",
+  "tumulato": "tumulato",
+  "tumulazione": "tumulatːsjone",
+  "tumulo": "tumulo",
+  "tumulto": "tumulto",
+  "tumultuante": "tumultuante",
+  "tumultuato": "tumultuato",
+  "tundra": "tundra",
+  "tungstato": "tunɡstato",
+  "tungsteno": "tunɡstɛno",
+  "tungsteno_2": "tunstɛno",
+  "tungsteno_3": "tuɲɡstɛno",
+  "tunica": "tunika",
+  "tunicati": "tunikati",
+  "tunicato": "tunikato",
+  "tunisia": "tunizja",
+  "tunisina": "tunizina",
+  "tunisine": "tunizine",
+  "tunisini": "tunizini",
+  "tunisino": "tunizino",
+  "tunnel": "tunːel",
+  "tuo": "tuo",
+  "tuo_2": "twɔ",
+  "tuoi": "tuoi",
+  "tuoi_2": "twɔi",
+  "tuonare": "twonare",
+  "tuonare_2": "twɔnare",
+  "tuoni": "twɔni",
+  "tuono": "tuɔno",
+  "tuono_2": "twɔno",
+  "tuono_3": "twɔnɔ",
+  "tuorli": "twɔrli",
+  "tuorlo": "twɔrlo",
+  "turacciolo": "turatːʃolo",
+  "turaco": "turako",
+  "turare": "turare",
+  "turati": "turati",
+  "turba": "turba",
+  "turbamento": "turbamento",
+  "turbando": "turbando",
+  "turbante": "turbante",
+  "turbanti": "turbanti",
+  "turbare": "turbare",
+  "turbarsi": "turbarsi",
+  "turbato": "turbato",
+  "turbazione": "turbatːsjone",
+  "turbe": "turbe",
+  "turbina": "turbina",
+  "turbine": "turbine",
+  "turbinio": "turbinio",
+  "turbinoso": "turbinoso",
+  "turbinoso_2": "turbinozo",
+  "turbo": "turbo",
+  "turboalternatore": "turboalternatore",
+  "turboalternatori": "turboalternatori",
+  "turbocapitalismo": "turbokapitalizmo",
+  "turbocompresso": "turbokomprɛsːo",
+  "turbocompressore": "turbokompresːore",
+  "turbodiesel": "turbodizel",
+  "turboelica": "turboɛlika",
+  "turboelice": "turboɛlike",
+  "turbofan": "turbofan",
+  "turbogas": "turboɡas",
+  "turbogetti": "turbodʒɛtːi",
+  "turbogetto": "turbodʒɛtːo",
+  "turbolente": "turbovalɛnte",
+  "turbolenti": "turbovalɛnti",
+  "turbolento": "turbolɛnto",
+  "turbolenza": "turbolɛntsa",
+  "turbomacchina": "turbomakːina",
+  "turbomacchine": "turbomakːine",
+  "turbomescolatore": "turbomeskolatore",
+  "turbomescolatori": "turbomeskolatori",
+  "turbomotore": "turbomotore",
+  "turbopompa": "turbopompa",
+  "turbopompe": "turbopompe",
+  "turbopropulsore": "turbopropulsore",
+  "turbopropulsori": "turbopropulsori",
+  "turboreattore": "turboreatːore",
+  "turboreattori": "turboreatːori",
+  "turboreattori_2": "turboreatːorj",
+  "turbostatoreattore": "superstatoreatːore",
+  "turbostatoreattori": "superstatoreatːori",
+  "turca": "turka",
+  "turcasso": "tur",
+  "turcasso_2": "turkasːo",
+  "turche": "turke",
+  "turcheggiare": "turkedːʒare",
+  "turcheggiato": "turkedːʒato",
+  "turchese": "turkese",
+  "turchese_2": "turkeze",
+  "turchi": "turki",
+  "turchia": "turkia",
+  "turchina": "turkina",
+  "turchine": "turkine",
+  "turchini": "turkini",
+  "turchino": "turkino",
+  "turcmena": "turkmɛna",
+  "turcmene": "turkmɛne",
+  "turcmeni": "turkmɛni",
+  "turcmeno": "turkmɛno",
+  "turco": "radjo",
+  "turco_2": "turko",
+  "turcologica": "turkolɔdʒika",
+  "turcologiche": "turkolɔdʒike",
+  "turcologici": "turkolɔdʒitʃi",
+  "turcologico": "turkolɔdʒiko",
+  "turdide": "turdide",
+  "turdidi": "turdidi",
+  "turfa": "turfa",
+  "turficolo": "turfikolo",
+  "turfofilo": "turfɔfilo",
+  "turgere": "turdʒere",
+  "turgido": "turdʒido",
+  "turibolo": "turibolo",
+  "turiferari": "turiferari",
+  "turiferario": "turiferarjo",
+  "turingio": "turindʒo",
+  "turismi": "turizmi",
+  "turismo": "turizmo",
+  "turista": "turista",
+  "turiste": "turiste",
+  "turisti": "turisti",
+  "turistica": "turistika",
+  "turistiche": "turistike",
+  "turistici": "turistitʃi",
+  "turistico": "turistiko",
+  "turkmena": "turkmɛna",
+  "turkmene": "turkmɛne",
+  "turkmeni": "turkmɛni",
+  "turkmenistan": "kurdistan",
+  "turkmeno": "turkmɛno",
+  "turlupinare": "turlupinare",
+  "turma": "turma",
+  "turnare": "turnare",
+  "turnazione": "turnatːsjone",
+  "turno": "turno",
+  "turnover": "turnover",
+  "turpe": "turpe",
+  "turpemente": "turpemente",
+  "turpiloqui": "turpilokwi",
+  "turpiloquio": "turpilokwjo",
+  "turpitudine": "turpitudine",
+  "turrito": "turːito",
+  "tursiope": "tursiope",
+  "tuscia": "tuʃʃa",
+  "tuta": "tuta",
+  "tute": "tute",
+  "tutela": "tutɛla",
+  "tutelare": "tutelare",
+  "tutelarsi": "tutelarsi",
+  "tutelato": "tutelato",
+  "tutolo": "tutolo",
+  "tutor": "tutor",
+  "tutore": "tutore",
+  "tutori": "tutori",
+  "tutrice": "tutritʃe",
+  "tutrici": "tutritʃi",
+  "tutsi": "tutsi",
+  "tutta": "tutːa",
+  "tuttavia": "tutːavia",
+  "tutte": "tutːe",
+  "tutti": "tutːi",
+  "tutto": "tutːo",
+  "tuttofare": "tutːofare",
+  "tuttologa": "tutːɔloɡa",
+  "tuttologhe": "tutːɔloɡe",
+  "tuttologi": "tutːɔloɡi",
+  "tuttologo": "tutːɔloɡo",
+  "tuttora": "tutːora",
+  "tuttotondo": "tutːotondo",
+  "tutù": "tutu",
+  "tuvalu": "tuvalu",
+  "tuvaluana": "tuvaluana",
+  "tuvaluane": "tuvaluane",
+  "tuvaluani": "tuvaluani",
+  "tuvaluano": "tuvaluano",
+  "tuziorismi": "tutsjorizmi",
+  "tuziorismo": "tutːsjorizmo",
+  "tv": "tivi",
+  "tv_2": "tivu",
+  "u": "u",
+  "u’": "u",
+  "uabaio": "wabajo",
+  "uanderù": "wanderu",
+  "ubbia": "ubːia",
+  "ubbidente": "ubːidente",
+  "ubbidiente": "ubidjɛnte",
+  "ubbidiente_2": "ubːidjɛnte",
+  "ubbidienti": "ubidjɛnti",
+  "ubbidienza": "ubːidjɛntsa",
+  "ubbidienze": "ubːidjɛntsa",
+  "ubbidire": "ubːidire",
+  "ubbidito": "ubːidito"
 }

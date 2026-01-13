@@ -1,1550 +1,550 @@
 {
-  "percorribile": [
-    "perkorːibile"
-  ],
-  "percorribili": [
-    "perkorːibili"
-  ],
-  "percorsi": [
-    "perkorsi"
-  ],
-  "percorso": [
-    "perkorso"
-  ],
-  "percossa": [
-    "perkɔsːa"
-  ],
-  "percosso": [
-    "perkɔsːo"
-  ],
-  "percuotere": [
-    "perkwɔtere"
-  ],
-  "percussionista": [
-    "perkusːjonista"
-  ],
-  "percussioniste": [
-    "perkusːjoniste"
-  ],
-  "percussionisti": [
-    "perkusːjonisti"
-  ],
-  "percussivo": [
-    "perkusːivo"
-  ],
-  "percussore": [
-    "perkusːore"
-  ],
-  "percutaneo": [
-    "perkutaneo"
-  ],
-  "perdente": [
-    "perdɛnte",
-    "pɛrdente"
-  ],
-  "perdenti": [
-    "pɛrdenti"
-  ],
-  "perdere": [
-    "pɛrdere"
-  ],
-  "perdersi": [
-    "pɛrdere"
-  ],
-  "perdiana": [
-    "perdjana"
-  ],
-  "perdibile": [
-    "perdibile"
-  ],
-  "perdibili": [
-    "perdibili"
-  ],
-  "perdicini": [
-    "perditʃini"
-  ],
-  "perdicino": [
-    "perditʃino"
-  ],
-  "perdigiorno": [
-    "pɛrdidʒorno"
-  ],
-  "perdilegno": [
-    "perdileɲɲo"
-  ],
-  "perdinci": [
-    "perdintʃi"
-  ],
-  "perdindirindina": [
-    "perdindirindina"
-  ],
-  "perdio": [
-    "perdio"
-  ],
-  "perdita": [
-    "pɛrdita"
-  ],
-  "perditempo": [
-    "perditɛmpo"
-  ],
-  "perdizione": [
-    "perditːsjone"
-  ],
-  "perdonabile": [
-    "perdonabile"
-  ],
-  "perdonabili": [
-    "perdonabili"
-  ],
-  "perdonamento": [
-    "perdonamento"
-  ],
-  "perdonanza": [
-    "perdonantsa"
-  ],
-  "perdonare": [
-    "perdonare"
-  ],
-  "perdonato": [
-    "perdonato"
-  ],
-  "perdonismo": [
-    "perdonizmo"
-  ],
-  "perdono": [
-    "perdono",
-    "pɛrdono"
-  ],
-  "perdurabile": [
-    "perdurabile"
-  ],
-  "perdurabili": [
-    "perdurabili"
-  ],
-  "perdurare": [
-    "perdurare"
-  ],
-  "perdutamente": [
-    "perdutamente"
-  ],
-  "perduto": [
-    "perduto"
-  ],
-  "pere": [
-    "pere"
-  ],
-  "peregrina": [
-    "pereɡrina"
-  ],
-  "peregrinando": [
-    "pereɡrinando"
-  ],
-  "peregrinante": [
-    "pereɡrinante"
-  ],
-  "peregrinanti": [
-    "pereɡrinanti"
-  ],
-  "peregrinare": [
-    "pereɡrinare"
-  ],
-  "peregrinate": [
-    "pereɡrinate"
-  ],
-  "peregrinato": [
-    "pereɡrinato"
-  ],
-  "peregrinazione": [
-    "pereɡrinatːsjone"
-  ],
-  "peregrine": [
-    "pereɡrine"
-  ],
-  "peregrini": [
-    "pereɡrini"
-  ],
-  "peregrino": [
-    "pereɡrino"
-  ],
-  "perennare": [
-    "perenːare"
-  ],
-  "perenne": [
-    "perɛnːe"
-  ],
-  "perennemente": [
-    "perɛnːemente"
-  ],
-  "perenni": [
-    "perɛnːi"
-  ],
-  "perennità": [
-    "perenːita"
-  ],
-  "perento": [
-    "perɛnto"
-  ],
-  "perentorio": [
-    "perentɔrjo"
-  ],
-  "perenzione": [
-    "perentsjone"
-  ],
-  "perenzioni": [
-    "perentsjoni"
-  ],
-  "perequativo": [
-    "perekwativo"
-  ],
-  "perequazione": [
-    "perekwatːsjone"
-  ],
-  "perequazioni": [
-    "perekwatːsjoni"
-  ],
-  "perestroika": [
-    "perestrɔjka"
-  ],
-  "perestrojka": [
-    "perestrojka",
-    "perestrɔjka"
-  ],
-  "peretta": [
-    "peretːa"
-  ],
-  "perfetta": [
-    "pɛrfɛtːa"
-  ],
-  "perfettamente": [
-    "perfetːamente",
-    "pɛrfɛtːamente"
-  ],
-  "perfette": [
-    "pɛrfɛtːe"
-  ],
-  "perfetti": [
-    "pɛrfɛtːi"
-  ],
-  "perfettibile": [
-    "perfetːibile"
-  ],
-  "perfettibili": [
-    "perfetːibili"
-  ],
-  "perfettissima": [
-    "pɛrfɛtːisːima"
-  ],
-  "perfettissime": [
-    "pɛrfɛtːisːime"
-  ],
-  "perfettissimi": [
-    "pɛrfɛtːisːimi"
-  ],
-  "perfettissimo": [
-    "pɛrfɛtːisːimo"
-  ],
-  "perfettivo": [
-    "perfetːivo"
-  ],
-  "perfetto": [
-    "perfɛtːo",
-    "pɛrfɛtːo"
-  ],
-  "perfezionabile": [
-    "perfetsjonabile"
-  ],
-  "perfezionabili": [
-    "perfetsjonabili"
-  ],
-  "perfezionamenti": [
-    "perfetsjonamenti"
-  ],
-  "perfezionamento": [
-    "perfetsjonamento",
-    "perfetːsjonamento"
-  ],
-  "perfezionanda": [
-    "perfetːsjonanda"
-  ],
-  "perfezionando": [
-    "perfetːsjonando"
-  ],
-  "perfezionare": [
-    "perfetsjonare",
-    "perfetːsjonare"
-  ],
-  "perfezionato": [
-    "perfetːsjonato"
-  ],
-  "perfezione": [
-    "perfetsjone",
-    "perfetːsjone"
-  ],
-  "perfezioni": [
-    "perfetsjone"
-  ],
-  "perfezionismi": [
-    "perfetsjonizmi"
-  ],
-  "perfezionismo": [
-    "perfetsjonizmo",
-    "perfetːsjonizmo"
-  ],
-  "perfezionista": [
-    "perfetsjonista",
-    "perfetːsjonista"
-  ],
-  "perfezioniste": [
-    "perfetsjoniste"
-  ],
-  "perfezionisti": [
-    "perfetsjonisti"
-  ],
-  "perfidamente": [
-    "perfidamente"
-  ],
-  "perfidi": [
-    "pɛrfidi"
-  ],
-  "perfidia": [
-    "perfidja"
-  ],
-  "perfido": [
-    "pɛrfido"
-  ],
-  "perfino": [
-    "perfino",
-    "pɛrfinɔ"
-  ],
-  "perforabile": [
-    "perforabile"
-  ],
-  "perforabili": [
-    "perforabili"
-  ],
-  "perforare": [
-    "perforare"
-  ],
-  "perforatrice": [
-    "perforatritʃe"
-  ],
-  "perforatrici": [
-    "perforatritʃi"
-  ],
-  "perforazione": [
-    "perforatːsjone"
-  ],
-  "perforazioni": [
-    "perforatːsjoni"
-  ],
-  "performance": [
-    "performans",
-    "pɛrformans"
-  ],
-  "performante": [
-    "performante"
-  ],
-  "performanti": [
-    "performanti"
-  ],
-  "pergamena": [
-    "perɡamɛna"
-  ],
-  "pergamene": [
-    "perɡamɛne"
-  ],
-  "pergiura": [
-    "perdʒura"
-  ],
-  "pergiurare": [
-    "perdʒurare"
-  ],
-  "pergiurio": [
-    "perdʒurjo"
-  ],
-  "pergiuro": [
-    "perdʒuro"
-  ],
-  "pergola": [
-    "pɛrɡola"
-  ],
-  "pergolato": [
-    "perɡolato"
-  ],
-  "pergula": [
-    "pɛrɡula"
-  ],
-  "perianale": [
-    "perianale"
-  ],
-  "perianali": [
-    "perianali"
-  ],
-  "perianzio": [
-    "periantsjo"
-  ],
-  "periblastico": [
-    "periblastiko"
-  ],
-  "periblasto": [
-    "periblasto"
-  ],
-  "pericardi": [
-    "perikardi"
-  ],
-  "pericardio": [
-    "perikardjo"
-  ],
-  "pericardiocentesi": [
-    "perikardjotʃentɛzi"
-  ],
-  "pericardite": [
-    "perikardite"
-  ],
-  "pericarditi": [
-    "perikarditi"
-  ],
-  "pericarpi": [
-    "perikarpo"
-  ],
-  "pericarpio": [
-    "perikarpjo"
-  ],
-  "pericarpo": [
-    "perikarpo"
-  ],
-  "perichezi": [
-    "perikɛtːsi"
-  ],
-  "perichezio": [
-    "perikɛtːsjo"
-  ],
-  "pericleo": [
-    "periklɛo"
-  ],
-  "periclitante": [
-    "periklitante"
-  ],
-  "pericolante": [
-    "perikolante"
-  ],
-  "pericolare": [
-    "perikolare"
-  ],
-  "pericoli": [
-    "perikoli"
-  ],
-  "pericolo": [
-    "perikolo",
-    "pɛrikolo"
-  ],
-  "pericolosa": [
-    "pɛrikɔlɔza"
-  ],
-  "pericolosamente": [
-    "perikolosamente"
-  ],
-  "pericolose": [
-    "pɛrikɔlɔze"
-  ],
-  "pericolosi": [
-    "pɛrikɔlɔzi"
-  ],
-  "pericoloso": [
-    "perikoloso",
-    "perikolozo"
-  ],
-  "peridrolo": [
-    "peridrɔlo"
-  ],
-  "peridromo": [
-    "peridrɔmo"
-  ],
-  "perieco": [
-    "periɛko"
-  ],
-  "perielio": [
-    "periɛljo"
-  ],
-  "periferia": [
-    "periferia"
-  ],
-  "periferica": [
-    "perifɛrika"
-  ],
-  "perifericamente": [
-    "periferikamente"
-  ],
-  "periferiche": [
-    "perifɛrike"
-  ],
-  "periferici": [
-    "perifɛritʃi"
-  ],
-  "periferico": [
-    "perifɛriko"
-  ],
-  "perifrasi": [
-    "perifrazi"
-  ],
-  "perifrastico": [
-    "perifrastiko"
-  ],
-  "perigei": [
-    "peridʒɛi"
-  ],
-  "perigeo": [
-    "peridʒɛo"
-  ],
-  "perigli": [
-    "periʎi"
-  ],
-  "periglio": [
-    "periʎo"
-  ],
-  "perigliosamente": [
-    "periʎozamente"
-  ],
-  "periglioso": [
-    "periʎozo"
-  ],
-  "perilunio": [
-    "perilunjo"
-  ],
-  "perimetri": [
-    "perimetri"
-  ],
-  "perimetro": [
-    "perimetro"
-  ],
-  "perinatale": [
-    "perinatale"
-  ],
-  "perinatali": [
-    "perinatali"
-  ],
-  "perinefrio": [
-    "perinɛfrjo"
-  ],
-  "perineo": [
-    "perineo",
-    "perinɛo"
-  ],
-  "periodi": [
-    "periodi"
-  ],
-  "periodica": [
-    "periɔdika"
-  ],
-  "periodiche": [
-    "periɔdike"
-  ],
-  "periodici": [
-    "periɔditʃi"
-  ],
-  "periodicità": [
-    "perjoditʃita"
-  ],
-  "periodico": [
-    "periɔdiko"
-  ],
-  "periodismo": [
-    "periodizmo"
-  ],
-  "periodizzare": [
-    "periodidːzare"
-  ],
-  "periodo": [
-    "periodo"
-  ],
-  "periodonto": [
-    "perjodɔnto"
-  ],
-  "peripatetica": [
-    "peripatɛtika"
-  ],
-  "peripatetiche": [
-    "peripatɛtikːe"
-  ],
-  "peripateticismo": [
-    "peripatetitʃizmo"
-  ],
-  "peripatetico": [
-    "peripatɛtiko"
-  ],
-  "peripezia": [
-    "peripetːsia"
-  ],
-  "periplasmodio": [
-    "periplazmɔdjo"
-  ],
-  "periplo": [
-    "periplo",
-    "pɛriplo"
-  ],
-  "periptero": [
-    "periptero"
-  ],
-  "perire": [
-    "perire"
-  ],
-  "periscopica": [
-    "periskɔpika"
-  ],
-  "periscopiche": [
-    "periskɔpike"
-  ],
-  "periscopici": [
-    "periskɔpitʃi"
-  ],
-  "periscopico": [
-    "periskɔpiko"
-  ],
-  "perispomena": [
-    "perispɔmena"
-  ],
-  "perissodattili": [
-    "perisːodatːili"
-  ],
-  "perissodattilo": [
-    "perisːodatːilo"
-  ],
-  "peristaltico": [
-    "peristaltiko"
-  ],
-  "peristilio": [
-    "peristiljo"
-  ],
-  "perita": [
-    "perita"
-  ],
-  "perito": [
-    "perito"
-  ],
-  "peritoneale": [
-    "peritoneale"
-  ],
-  "peritoneali": [
-    "peritoneali"
-  ],
-  "peritonei": [
-    "peritonɛi"
-  ],
-  "peritoneizzazione": [
-    "peritoneidːzatːsjone"
-  ],
-  "peritoneizzazioni": [
-    "peritoneidːzatːsjoni"
-  ],
-  "peritoneo": [
-    "peritonɛo"
-  ],
-  "peritoneoscopi": [
-    "peritoneoskɔpi"
-  ],
-  "peritoneoscopia": [
-    "peritoneoskopia"
-  ],
-  "peritoneoscopie": [
-    "peritoneoskopie"
-  ],
-  "peritoneoscopio": [
-    "peritoneoskɔpjo"
-  ],
-  "peritonismi": [
-    "peritonːizmi"
-  ],
-  "peritonismo": [
-    "peritonizmo",
-    "peritonːizmo"
-  ],
-  "peritonite": [
-    "peritonite"
-  ],
-  "peritoniti": [
-    "peritoniti"
-  ],
-  "peritteri": [
-    "peritːeri"
-  ],
-  "perittero": [
-    "peritːero"
-  ],
-  "perituro": [
-    "perituro"
-  ],
-  "periuro": [
-    "perjuro"
-  ],
-  "perivascolare": [
-    "perivaskolare"
-  ],
-  "perivascolari": [
-    "perivaskolari"
-  ],
-  "perizia": [
-    "peritsja"
-  ],
-  "perizoma": [
-    "peridzɔma"
-  ],
-  "perizomi": [
-    "peridzɔmi"
-  ],
-  "perla": [
-    "pɛrla"
-  ],
-  "perlaceo": [
-    "perlatʃeo"
-  ],
-  "perlaia": [
-    "perlaja"
-  ],
-  "perle": [
-    "pɛrle"
-  ],
-  "perlicoltura": [
-    "perlikoltura"
-  ],
-  "perlicolture": [
-    "perlikolture"
-  ],
-  "perlomeno": [
-    "perlomeno"
-  ],
-  "perlopiù": [
-    "perlopju"
-  ],
-  "perlustrare": [
-    "perlustrare"
-  ],
-  "perlustrato": [
-    "perlustrato"
-  ],
-  "perlustrazione": [
-    "perlustratːsjone"
-  ],
-  "permacoltura": [
-    "permakoltura"
-  ],
-  "permacolture": [
-    "permakolture"
-  ],
-  "permalosamente": [
-    "permalosamente"
-  ],
-  "permalosità": [
-    "permalosita",
-    "permalozita"
-  ],
-  "permaloso": [
-    "permaloso",
-    "permalozo"
-  ],
-  "permanente": [
-    "permanɛnte"
-  ],
-  "permanentemente": [
-    "permanentemente"
-  ],
-  "permanenti": [
-    "permanɛnti"
-  ],
-  "permanenza": [
-    "permanɛntsa"
-  ],
-  "permanenze": [
-    "permanɛntse"
-  ],
-  "permanere": [
-    "permanere"
-  ],
-  "permeabile": [
-    "permeabile"
-  ],
-  "permeabili": [
-    "permeabili"
-  ],
-  "permeabilità": [
-    "permeabilita"
-  ],
-  "permeare": [
-    "permeare"
-  ],
-  "permeato": [
-    "permeato"
-  ],
-  "permessa": [
-    "permesːa"
-  ],
-  "permesse": [
-    "permesːe"
-  ],
-  "permessi": [
-    "permesːi"
-  ],
-  "permesso": [
-    "permesːo",
-    "pɛrmɛsːɔ"
-  ],
-  "permetta": [
-    "permetːa"
-  ],
-  "permettano": [
-    "permetːano"
-  ],
-  "permette": [
-    "permetːe"
-  ],
-  "permettemmo": [
-    "permetːemːo"
-  ],
-  "permettendo": [
-    "permetːendo"
-  ],
-  "permettente": [
-    "permetːente"
-  ],
-  "permetterà": [
-    "permetːera"
-  ],
-  "permetterai": [
-    "permetːerai"
-  ],
-  "permetteranno": [
-    "permetːeranːo"
-  ],
-  "permettere": [
-    "permetːere"
-  ],
-  "permetterebbe": [
-    "permetːerebːe"
-  ],
-  "permetterebbero": [
-    "permetːerebːero"
-  ],
-  "permetterei": [
-    "permetːerei"
-  ],
-  "permetteremmo": [
-    "permetːeremːo"
-  ],
-  "permetteremo": [
-    "permetːeremo"
-  ],
-  "permettereste": [
-    "permetːereste"
-  ],
-  "permetteresti": [
-    "permetːeresti"
-  ],
-  "permetterete": [
-    "permetːerete"
-  ],
-  "permetterò": [
-    "permetːero"
-  ],
-  "permettersi": [
-    "permetːersi"
-  ],
-  "permettesse": [
-    "permetːesːe"
-  ],
-  "permettessero": [
-    "permetːesːero"
-  ],
-  "permettessi": [
-    "permetːesːi"
-  ],
-  "permettessimo": [
-    "permetːesːimo"
-  ],
-  "permetteste": [
-    "permetːeste"
-  ],
-  "permettesti": [
-    "permetːesti"
-  ],
-  "permettete": [
-    "permetːete"
-  ],
-  "permetteva": [
-    "permetːeva"
-  ],
-  "permettevamo": [
-    "permetːevamo"
-  ],
-  "permettevano": [
-    "permetːevano"
-  ],
-  "permettevate": [
-    "permetːevate"
-  ],
-  "permettevi": [
-    "permetːevi"
-  ],
-  "permettevo": [
-    "permetːevo"
-  ],
-  "permetti": [
-    "permetːi"
-  ],
-  "permettiamo": [
-    "permetːjamo"
-  ],
-  "permettiate": [
-    "permetːjate"
-  ],
-  "permetto": [
-    "permetːo"
-  ],
-  "permettono": [
-    "permetːono"
-  ],
-  "permiano": [
-    "permjano"
-  ],
-  "permischiare": [
-    "permiskjare"
-  ],
-  "permise": [
-    "permize"
-  ],
-  "permisero": [
-    "permizero"
-  ],
-  "permisi": [
-    "permizi"
-  ],
-  "permissivamente": [
-    "permisːivamente"
-  ],
-  "permissivismo": [
-    "permisːivizmo"
-  ],
-  "permuta": [
-    "permuta",
-    "pɛrmuta"
-  ],
-  "permutare": [
-    "permutare"
-  ],
-  "permute": [
-    "permute"
-  ],
-  "pernacchia": [
-    "pernakːja"
-  ],
-  "pernacchie": [
-    "pernakːje"
-  ],
-  "perni": [
-    "pɛrno"
-  ],
-  "pernice": [
-    "pernitʃe",
-    "pɛrnitʃe"
-  ],
-  "pernici": [
-    "pɛrnitʃi"
-  ],
-  "pernicie": [
-    "pernitʃe"
-  ],
-  "perniciosamente": [
-    "pernitʃozamente"
-  ],
-  "perniciosità": [
-    "pernitʃozita"
-  ],
-  "pernicioso": [
-    "pernitʃozo"
-  ],
-  "perno": [
-    "pɛrno",
-    "pɛrnɔ"
-  ],
-  "pernottamenti": [
-    "pernotːamenti"
-  ],
-  "pernottamento": [
-    "pernotːamento"
-  ],
-  "pero": [
-    "pero",
-    "pɛro",
-    "pɛrɔ"
-  ],
-  "però": [
-    "perɔ"
-  ],
-  "perocché": [
-    "perokːe"
-  ],
-  "perone": [
-    "perone",
-    "pɛrone"
-  ],
-  "peroni": [
-    "peroni"
-  ],
-  "peronismo": [
-    "peronizmo"
-  ],
-  "peronista": [
-    "peronista"
-  ],
-  "peroniste": [
-    "peroniste"
-  ],
-  "peronisti": [
-    "peronisti"
-  ],
-  "perorare": [
-    "perorare"
-  ],
-  "perossiacidi": [
-    "perɔsːiatʃidi"
-  ],
-  "perossiacido": [
-    "perɔsːiatʃido"
-  ],
-  "perossidi": [
-    "perɔsːidi"
-  ],
-  "perossido": [
-    "perɔsːido"
-  ],
-  "perossisoma": [
-    "perosːisɔma"
-  ],
-  "perossisomi": [
-    "perosːisɔmi"
-  ],
-  "perpendicolare": [
-    "perpendikolare"
-  ],
-  "perpendicolari": [
-    "perpendikolari"
-  ],
-  "perpendicolarità": [
-    "perpendikolarita"
-  ],
-  "perpetrando": [
-    "perpetrando"
-  ],
-  "perpetrante": [
-    "perpetrante"
-  ],
-  "perpetrare": [
-    "perpetrare"
-  ],
-  "perpetrato": [
-    "perpetrato"
-  ],
-  "perpetua": [
-    "perpɛtua",
-    "perpɛtwa"
-  ],
-  "perpetuabile": [
-    "perpetuabile",
-    "perpetwabile"
-  ],
-  "perpetuità": [
-    "perpetujta",
-    "perpetwita"
-  ],
-  "perpetuo": [
-    "perpɛtuo"
-  ],
-  "perpignano": [
-    "perpiɲɲano"
-  ],
-  "perplessa": [
-    "perplɛsːa"
-  ],
-  "perplessamente": [
-    "perplesːamente"
-  ],
-  "perplesse": [
-    "perplɛsːe"
-  ],
-  "perplessi": [
-    "perplɛsːi"
-  ],
-  "perplessità": [
-    "perplesːita"
-  ],
-  "perplesso": [
-    "perplɛsːo"
-  ],
-  "perplimere": [
-    "perplimere"
-  ],
-  "perquisire": [
-    "perkwizire"
-  ],
-  "perquisizione": [
-    "perkwizitsjone"
-  ],
-  "perquisizioni": [
-    "perkwizitsjoni"
-  ],
-  "persa": [
-    "pɛrsa"
-  ],
-  "perse": [
-    "pɛrse"
-  ],
-  "persecutore": [
-    "persekutore"
-  ],
-  "persecutori": [
-    "persekutori"
-  ],
-  "persecutrice": [
-    "persekutritʃe"
-  ],
-  "persecutrici": [
-    "persekutritʃi"
-  ],
-  "persecuzione": [
-    "persekutːsjone"
-  ],
-  "perseguire": [
-    "perseɡwire",
-    "pɛrsɛɡwire"
-  ],
-  "perseguitare": [
-    "perseɡwitare",
-    "pɛrsɛɡwitare"
-  ],
-  "perseguitato": [
-    "perseɡwitato"
-  ],
-  "persesco": [
-    "persesko"
-  ],
-  "perseverante": [
-    "perseverante"
-  ],
-  "perseveranti": [
-    "perseveranti"
-  ],
-  "perseveranza": [
-    "perseverantsa"
-  ],
-  "perseveranze": [
-    "perseverantse"
-  ],
-  "perseverare": [
-    "perseverare"
-  ],
-  "persia": [
-    "pɛrsja"
-  ],
-  "persiana": [
-    "persjana",
-    "pɛrsjana"
-  ],
-  "persiano": [
-    "persjano"
-  ],
-  "persica": [
-    "pɛrsika"
-  ],
-  "persiche": [
-    "pɛrsike"
-  ],
-  "persichi": [
-    "pɛrsiki"
-  ],
-  "persici": [
-    "pɛrsitʃi"
-  ],
-  "persico": [
-    "pɛrsiko"
-  ],
-  "persino": [
-    "persino"
-  ],
-  "persistente": [
-    "persistɛnte"
-  ],
-  "persistentemente": [
-    "persistentemente"
-  ],
-  "persistenti": [
-    "persistɛnti"
-  ],
-  "persistere": [
-    "persistere"
-  ],
-  "persistito": [
-    "persistito"
-  ],
-  "perso": [
-    "pɛrso"
-  ],
-  "persona": [
-    "persona",
-    "pɛrsɔna"
-  ],
-  "personaggi": [
-    "personadːʒi"
-  ],
-  "personaggio": [
-    "personadːʒo"
-  ],
-  "personale": [
-    "personale"
-  ],
-  "personali": [
-    "personali"
-  ],
-  "personalismo": [
-    "personalizmo"
-  ],
-  "personalista": [
-    "personalista"
-  ],
-  "personalità": [
-    "personalita"
-  ],
-  "personalizzabile": [
-    "personalidːzabile"
-  ],
-  "personalizzabili": [
-    "personalidːzabili"
-  ],
-  "personalizzante": [
-    "personalidːzante"
-  ],
-  "personalizzare": [
-    "personalidːzare"
-  ],
-  "personalizzata": [
-    "personalidːzata"
-  ],
-  "personalizzate": [
-    "personalidːzate"
-  ],
-  "personalizzati": [
-    "personalidːzati"
-  ],
-  "personalizzato": [
-    "personalidːzato"
-  ],
-  "personalizzazione": [
-    "personalidːzatsjone",
-    "personalidːzatːsjone"
-  ],
-  "personalizzazioni": [
-    "personalidːzatsjoni"
-  ],
-  "personalmente": [
-    "personalmente"
-  ],
-  "personificazione": [
-    "personifikatsjone"
-  ],
-  "perspicace": [
-    "perspikatʃe"
-  ],
-  "perspicacemente": [
-    "perspikatʃemente"
-  ],
-  "perspicacia": [
-    "perspikatʃa"
-  ],
-  "perspicuo": [
-    "perspikuo"
-  ],
-  "persuadere": [
-    "persuadere",
-    "perswadere"
-  ],
-  "persuadersi": [
-    "persuadersi"
-  ],
-  "persuasibile": [
-    "persuazibile"
-  ],
-  "persuasibili": [
-    "persuazibili"
-  ],
-  "persuasione": [
-    "persuazjone"
-  ],
-  "persuasioni": [
-    "persuazjoni"
-  ],
-  "persuasivamente": [
-    "persuazivamente",
-    "perswazivamente"
-  ],
-  "persuasivo": [
-    "persuazivo"
-  ],
-  "persuaso": [
-    "persuazo"
-  ],
-  "pertanto": [
-    "pertanto"
-  ],
-  "pertenere": [
-    "pertenere"
-  ],
-  "pertica": [
-    "pɛrtika"
-  ],
-  "perticara": [
-    "pertikara"
-  ],
-  "pertinace": [
-    "pertinatʃe"
-  ],
-  "pertinacia": [
-    "pertinatʃa"
-  ],
-  "pertinente": [
-    "pertinɛnte"
-  ],
-  "pertinenti": [
-    "pertinɛnti"
-  ],
-  "pertinenza": [
-    "pertinɛntsa"
-  ],
-  "pertosse": [
-    "pertosːe"
-  ],
-  "pertugio": [
-    "pertudʒjo"
-  ],
-  "perturbabile": [
-    "perturbabile"
-  ],
-  "perturbabili": [
-    "perturbabili"
-  ],
-  "perturbare": [
-    "perturbare"
-  ],
-  "perturbarsi": [
-    "perturbarsi"
-  ],
-  "perturbato": [
-    "perturbato"
-  ],
-  "perturbatore": [
-    "perturbatore"
-  ],
-  "perturbatori": [
-    "perturbatori"
-  ],
-  "perturbatrice": [
-    "perturbatritʃe"
-  ],
-  "perturbatrici": [
-    "perturbatritʃi"
-  ],
-  "perturbazione": [
-    "perturbatːsjone"
-  ],
-  "perù": [
-    "peru"
-  ],
-  "perugia": [
-    "perudʒa"
-  ],
-  "perugino": [
-    "perudʒino"
-  ],
-  "perusto": [
-    "perusto"
-  ],
-  "peruviana": [
-    "peruvjana"
-  ],
-  "peruviane": [
-    "peruvjane"
-  ],
-  "peruviani": [
-    "peruvjani"
-  ],
-  "peruviano": [
-    "peruvjano"
-  ],
-  "pervadere": [
-    "pervadere"
-  ],
-  "pervaso": [
-    "pervazo"
-  ],
-  "perversamente": [
-    "perversamente"
-  ],
-  "perversione": [
-    "perversjone"
-  ],
-  "perversioni": [
-    "perversjoni"
-  ],
-  "perversità": [
-    "perversita"
-  ],
-  "perverso": [
-    "pervɛrso"
-  ],
-  "pervertente": [
-    "pervertɛnte"
-  ],
-  "pervertenti": [
-    "pervertɛnti"
-  ],
-  "pervertire": [
-    "pervertire"
-  ],
-  "pervertita": [
-    "pervertita"
-  ],
-  "pervertite": [
-    "pervertite"
-  ],
-  "pervertiti": [
-    "pervertiti"
-  ],
-  "pervertito": [
-    "pervertito"
-  ],
-  "pervicace": [
-    "pervikatʃe"
-  ],
-  "pervicacia": [
-    "pervikatʃa"
-  ],
-  "pervietà": [
-    "pervjeta"
-  ],
-  "pervio": [
-    "pɛrvjo"
-  ],
-  "pesa": [
-    "pesa",
-    "peza"
-  ],
-  "pesabambini": [
-    "pezabambini"
-  ],
-  "pesabile": [
-    "pezabile"
-  ],
-  "pesabili": [
-    "pezabili"
-  ],
-  "pesafiltro": [
-    "pesafiltro",
-    "pezafiltro"
-  ],
-  "pesante": [
-    "pesante",
-    "pezante"
-  ],
-  "pesantemente": [
-    "pesantemente"
-  ],
-  "pesantezza": [
-    "pesantetːsa",
-    "pezantetːsa"
-  ],
-  "pesantezze": [
-    "pezantetːse"
-  ],
-  "pesanti": [
-    "pezanti"
-  ],
-  "pesantissima": [
-    "pezantisːima"
-  ],
-  "pesantissime": [
-    "pezantisːime"
-  ],
-  "pesantissimi": [
-    "pezantisːimi"
-  ],
-  "pesantissimo": [
-    "pezantisːimo"
-  ],
-  "pesare": [
-    "pezare",
-    "pɛzare"
-  ],
-  "pesarese": [
-    "pesarese",
-    "pesareze",
-    "pezarese",
-    "pezareze"
-  ],
-  "pesato": [
-    "pesato"
-  ],
-  "pesatura": [
-    "pezatura"
-  ],
-  "pesature": [
-    "pezature"
-  ],
-  "pesca": [
-    "peska",
-    "pɛska"
-  ],
-  "pescabile": [
-    "peskabile"
-  ],
-  "pescabili": [
-    "peskabili"
-  ],
-  "pescaggi": [
-    "peʃʃadːʒi"
-  ],
-  "pescaggio": [
-    "peʃʃadːʒo"
-  ],
-  "pescanoce": [
-    "peskanotʃe"
-  ],
-  "pescante": [
-    "peskante"
-  ],
-  "pescare": [
-    "pɛskare"
-  ],
-  "pescarese": [
-    "peskarese",
-    "peskareze"
-  ],
-  "pescata": [
-    "peskata"
-  ],
-  "pescato": [
-    "peskato"
-  ],
-  "pescatore": [
-    "peskatore",
-    "pɛskatore"
-  ],
-  "pescatori": [
-    "pɛskatori"
-  ],
-  "pescatrice": [
-    "pɛskatritʃe"
-  ],
-  "pescatrici": [
-    "pɛskatritʃi"
-  ],
-  "pesce": [
-    "peʃe",
-    "peʃʃe"
-  ]
+  "percorribile": "perkorːibile",
+  "percorribili": "perkorːibili",
+  "percorsi": "perkorsi",
+  "percorso": "perkorso",
+  "percossa": "perkɔsːa",
+  "percosso": "perkɔsːo",
+  "percuotere": "perkwɔtere",
+  "percussionista": "perkusːjonista",
+  "percussioniste": "perkusːjoniste",
+  "percussionisti": "perkusːjonisti",
+  "percussivo": "perkusːivo",
+  "percussore": "perkusːore",
+  "percutaneo": "perkutaneo",
+  "perdente": "perdɛnte",
+  "perdente_2": "pɛrdente",
+  "perdenti": "pɛrdenti",
+  "perdere": "pɛrdere",
+  "perdersi": "pɛrdere",
+  "perdiana": "perdjana",
+  "perdibile": "perdibile",
+  "perdibili": "perdibili",
+  "perdicini": "perditʃini",
+  "perdicino": "perditʃino",
+  "perdigiorno": "pɛrdidʒorno",
+  "perdilegno": "perdileɲɲo",
+  "perdinci": "perdintʃi",
+  "perdindirindina": "perdindirindina",
+  "perdio": "perdio",
+  "perdita": "pɛrdita",
+  "perditempo": "perditɛmpo",
+  "perdizione": "perditːsjone",
+  "perdonabile": "perdonabile",
+  "perdonabili": "perdonabili",
+  "perdonamento": "perdonamento",
+  "perdonanza": "perdonantsa",
+  "perdonare": "perdonare",
+  "perdonato": "perdonato",
+  "perdonismo": "perdonizmo",
+  "perdono": "perdono",
+  "perdono_2": "pɛrdono",
+  "perdurabile": "perdurabile",
+  "perdurabili": "perdurabili",
+  "perdurare": "perdurare",
+  "perdutamente": "perdutamente",
+  "perduto": "perduto",
+  "pere": "pere",
+  "peregrina": "pereɡrina",
+  "peregrinando": "pereɡrinando",
+  "peregrinante": "pereɡrinante",
+  "peregrinanti": "pereɡrinanti",
+  "peregrinare": "pereɡrinare",
+  "peregrinate": "pereɡrinate",
+  "peregrinato": "pereɡrinato",
+  "peregrinazione": "pereɡrinatːsjone",
+  "peregrine": "pereɡrine",
+  "peregrini": "pereɡrini",
+  "peregrino": "pereɡrino",
+  "perennare": "perenːare",
+  "perenne": "perɛnːe",
+  "perennemente": "perɛnːemente",
+  "perenni": "perɛnːi",
+  "perennità": "perenːita",
+  "perento": "perɛnto",
+  "perentorio": "perentɔrjo",
+  "perenzione": "perentsjone",
+  "perenzioni": "perentsjoni",
+  "perequativo": "perekwativo",
+  "perequazione": "perekwatːsjone",
+  "perequazioni": "perekwatːsjoni",
+  "perestroika": "perestrɔjka",
+  "perestrojka": "perestrojka",
+  "perestrojka_2": "perestrɔjka",
+  "peretta": "peretːa",
+  "perfetta": "pɛrfɛtːa",
+  "perfettamente": "perfetːamente",
+  "perfettamente_2": "pɛrfɛtːamente",
+  "perfette": "pɛrfɛtːe",
+  "perfetti": "pɛrfɛtːi",
+  "perfettibile": "perfetːibile",
+  "perfettibili": "perfetːibili",
+  "perfettissima": "pɛrfɛtːisːima",
+  "perfettissime": "pɛrfɛtːisːime",
+  "perfettissimi": "pɛrfɛtːisːimi",
+  "perfettissimo": "pɛrfɛtːisːimo",
+  "perfettivo": "perfetːivo",
+  "perfetto": "perfɛtːo",
+  "perfetto_2": "pɛrfɛtːo",
+  "perfezionabile": "perfetsjonabile",
+  "perfezionabili": "perfetsjonabili",
+  "perfezionamenti": "perfetsjonamenti",
+  "perfezionamento": "perfetsjonamento",
+  "perfezionamento_2": "perfetːsjonamento",
+  "perfezionanda": "perfetːsjonanda",
+  "perfezionando": "perfetːsjonando",
+  "perfezionare": "perfetsjonare",
+  "perfezionare_2": "perfetːsjonare",
+  "perfezionato": "perfetːsjonato",
+  "perfezione": "perfetsjone",
+  "perfezione_2": "perfetːsjone",
+  "perfezioni": "perfetsjone",
+  "perfezionismi": "perfetsjonizmi",
+  "perfezionismo": "perfetsjonizmo",
+  "perfezionismo_2": "perfetːsjonizmo",
+  "perfezionista": "perfetsjonista",
+  "perfezionista_2": "perfetːsjonista",
+  "perfezioniste": "perfetsjoniste",
+  "perfezionisti": "perfetsjonisti",
+  "perfidamente": "perfidamente",
+  "perfidi": "pɛrfidi",
+  "perfidia": "perfidja",
+  "perfido": "pɛrfido",
+  "perfino": "perfino",
+  "perfino_2": "pɛrfinɔ",
+  "perforabile": "perforabile",
+  "perforabili": "perforabili",
+  "perforare": "perforare",
+  "perforatrice": "perforatritʃe",
+  "perforatrici": "perforatritʃi",
+  "perforazione": "perforatːsjone",
+  "perforazioni": "perforatːsjoni",
+  "performance": "performans",
+  "performance_2": "pɛrformans",
+  "performante": "performante",
+  "performanti": "performanti",
+  "pergamena": "perɡamɛna",
+  "pergamene": "perɡamɛne",
+  "pergiura": "perdʒura",
+  "pergiurare": "perdʒurare",
+  "pergiurio": "perdʒurjo",
+  "pergiuro": "perdʒuro",
+  "pergola": "pɛrɡola",
+  "pergolato": "perɡolato",
+  "pergula": "pɛrɡula",
+  "perianale": "perianale",
+  "perianali": "perianali",
+  "perianzio": "periantsjo",
+  "periblastico": "periblastiko",
+  "periblasto": "periblasto",
+  "pericardi": "perikardi",
+  "pericardio": "perikardjo",
+  "pericardiocentesi": "perikardjotʃentɛzi",
+  "pericardite": "perikardite",
+  "pericarditi": "perikarditi",
+  "pericarpi": "perikarpo",
+  "pericarpio": "perikarpjo",
+  "pericarpo": "perikarpo",
+  "perichezi": "perikɛtːsi",
+  "perichezio": "perikɛtːsjo",
+  "pericleo": "periklɛo",
+  "periclitante": "periklitante",
+  "pericolante": "perikolante",
+  "pericolare": "perikolare",
+  "pericoli": "perikoli",
+  "pericolo": "perikolo",
+  "pericolo_2": "pɛrikolo",
+  "pericolosa": "pɛrikɔlɔza",
+  "pericolosamente": "perikolosamente",
+  "pericolose": "pɛrikɔlɔze",
+  "pericolosi": "pɛrikɔlɔzi",
+  "pericoloso": "perikoloso",
+  "pericoloso_2": "perikolozo",
+  "peridrolo": "peridrɔlo",
+  "peridromo": "peridrɔmo",
+  "perieco": "periɛko",
+  "perielio": "periɛljo",
+  "periferia": "periferia",
+  "periferica": "perifɛrika",
+  "perifericamente": "periferikamente",
+  "periferiche": "perifɛrike",
+  "periferici": "perifɛritʃi",
+  "periferico": "perifɛriko",
+  "perifrasi": "perifrazi",
+  "perifrastico": "perifrastiko",
+  "perigei": "peridʒɛi",
+  "perigeo": "peridʒɛo",
+  "perigli": "periʎi",
+  "periglio": "periʎo",
+  "perigliosamente": "periʎozamente",
+  "periglioso": "periʎozo",
+  "perilunio": "perilunjo",
+  "perimetri": "perimetri",
+  "perimetro": "perimetro",
+  "perinatale": "perinatale",
+  "perinatali": "perinatali",
+  "perinefrio": "perinɛfrjo",
+  "perineo": "perineo",
+  "perineo_2": "perinɛo",
+  "periodi": "periodi",
+  "periodica": "periɔdika",
+  "periodiche": "periɔdike",
+  "periodici": "periɔditʃi",
+  "periodicità": "perjoditʃita",
+  "periodico": "periɔdiko",
+  "periodismo": "periodizmo",
+  "periodizzare": "periodidːzare",
+  "periodo": "periodo",
+  "periodonto": "perjodɔnto",
+  "peripatetica": "peripatɛtika",
+  "peripatetiche": "peripatɛtikːe",
+  "peripateticismo": "peripatetitʃizmo",
+  "peripatetico": "peripatɛtiko",
+  "peripezia": "peripetːsia",
+  "periplasmodio": "periplazmɔdjo",
+  "periplo": "periplo",
+  "periplo_2": "pɛriplo",
+  "periptero": "periptero",
+  "perire": "perire",
+  "periscopica": "periskɔpika",
+  "periscopiche": "periskɔpike",
+  "periscopici": "periskɔpitʃi",
+  "periscopico": "periskɔpiko",
+  "perispomena": "perispɔmena",
+  "perissodattili": "perisːodatːili",
+  "perissodattilo": "perisːodatːilo",
+  "peristaltico": "peristaltiko",
+  "peristilio": "peristiljo",
+  "perita": "perita",
+  "perito": "perito",
+  "peritoneale": "peritoneale",
+  "peritoneali": "peritoneali",
+  "peritonei": "peritonɛi",
+  "peritoneizzazione": "peritoneidːzatːsjone",
+  "peritoneizzazioni": "peritoneidːzatːsjoni",
+  "peritoneo": "peritonɛo",
+  "peritoneoscopi": "peritoneoskɔpi",
+  "peritoneoscopia": "peritoneoskopia",
+  "peritoneoscopie": "peritoneoskopie",
+  "peritoneoscopio": "peritoneoskɔpjo",
+  "peritonismi": "peritonːizmi",
+  "peritonismo": "peritonizmo",
+  "peritonismo_2": "peritonːizmo",
+  "peritonite": "peritonite",
+  "peritoniti": "peritoniti",
+  "peritteri": "peritːeri",
+  "perittero": "peritːero",
+  "perituro": "perituro",
+  "periuro": "perjuro",
+  "perivascolare": "perivaskolare",
+  "perivascolari": "perivaskolari",
+  "perizia": "peritsja",
+  "perizoma": "peridzɔma",
+  "perizomi": "peridzɔmi",
+  "perla": "pɛrla",
+  "perlaceo": "perlatʃeo",
+  "perlaia": "perlaja",
+  "perle": "pɛrle",
+  "perlicoltura": "perlikoltura",
+  "perlicolture": "perlikolture",
+  "perlomeno": "perlomeno",
+  "perlopiù": "perlopju",
+  "perlustrare": "perlustrare",
+  "perlustrato": "perlustrato",
+  "perlustrazione": "perlustratːsjone",
+  "permacoltura": "permakoltura",
+  "permacolture": "permakolture",
+  "permalosamente": "permalosamente",
+  "permalosità": "permalosita",
+  "permalosità_2": "permalozita",
+  "permaloso": "permaloso",
+  "permaloso_2": "permalozo",
+  "permanente": "permanɛnte",
+  "permanentemente": "permanentemente",
+  "permanenti": "permanɛnti",
+  "permanenza": "permanɛntsa",
+  "permanenze": "permanɛntse",
+  "permanere": "permanere",
+  "permeabile": "permeabile",
+  "permeabili": "permeabili",
+  "permeabilità": "permeabilita",
+  "permeare": "permeare",
+  "permeato": "permeato",
+  "permessa": "permesːa",
+  "permesse": "permesːe",
+  "permessi": "permesːi",
+  "permesso": "permesːo",
+  "permesso_2": "pɛrmɛsːɔ",
+  "permetta": "permetːa",
+  "permettano": "permetːano",
+  "permette": "permetːe",
+  "permettemmo": "permetːemːo",
+  "permettendo": "permetːendo",
+  "permettente": "permetːente",
+  "permetterà": "permetːera",
+  "permetterai": "permetːerai",
+  "permetteranno": "permetːeranːo",
+  "permettere": "permetːere",
+  "permetterebbe": "permetːerebːe",
+  "permetterebbero": "permetːerebːero",
+  "permetterei": "permetːerei",
+  "permetteremmo": "permetːeremːo",
+  "permetteremo": "permetːeremo",
+  "permettereste": "permetːereste",
+  "permetteresti": "permetːeresti",
+  "permetterete": "permetːerete",
+  "permetterò": "permetːero",
+  "permettersi": "permetːersi",
+  "permettesse": "permetːesːe",
+  "permettessero": "permetːesːero",
+  "permettessi": "permetːesːi",
+  "permettessimo": "permetːesːimo",
+  "permetteste": "permetːeste",
+  "permettesti": "permetːesti",
+  "permettete": "permetːete",
+  "permetteva": "permetːeva",
+  "permettevamo": "permetːevamo",
+  "permettevano": "permetːevano",
+  "permettevate": "permetːevate",
+  "permettevi": "permetːevi",
+  "permettevo": "permetːevo",
+  "permetti": "permetːi",
+  "permettiamo": "permetːjamo",
+  "permettiate": "permetːjate",
+  "permetto": "permetːo",
+  "permettono": "permetːono",
+  "permiano": "permjano",
+  "permischiare": "permiskjare",
+  "permise": "permize",
+  "permisero": "permizero",
+  "permisi": "permizi",
+  "permissivamente": "permisːivamente",
+  "permissivismo": "permisːivizmo",
+  "permuta": "permuta",
+  "permuta_2": "pɛrmuta",
+  "permutare": "permutare",
+  "permute": "permute",
+  "pernacchia": "pernakːja",
+  "pernacchie": "pernakːje",
+  "perni": "pɛrno",
+  "pernice": "pernitʃe",
+  "pernice_2": "pɛrnitʃe",
+  "pernici": "pɛrnitʃi",
+  "pernicie": "pernitʃe",
+  "perniciosamente": "pernitʃozamente",
+  "perniciosità": "pernitʃozita",
+  "pernicioso": "pernitʃozo",
+  "perno": "pɛrno",
+  "perno_2": "pɛrnɔ",
+  "pernottamenti": "pernotːamenti",
+  "pernottamento": "pernotːamento",
+  "pero": "pero",
+  "pero_2": "pɛro",
+  "pero_3": "pɛrɔ",
+  "però": "perɔ",
+  "perocché": "perokːe",
+  "perone": "perone",
+  "perone_2": "pɛrone",
+  "peroni": "peroni",
+  "peronismo": "peronizmo",
+  "peronista": "peronista",
+  "peroniste": "peroniste",
+  "peronisti": "peronisti",
+  "perorare": "perorare",
+  "perossiacidi": "perɔsːiatʃidi",
+  "perossiacido": "perɔsːiatʃido",
+  "perossidi": "perɔsːidi",
+  "perossido": "perɔsːido",
+  "perossisoma": "perosːisɔma",
+  "perossisomi": "perosːisɔmi",
+  "perpendicolare": "perpendikolare",
+  "perpendicolari": "perpendikolari",
+  "perpendicolarità": "perpendikolarita",
+  "perpetrando": "perpetrando",
+  "perpetrante": "perpetrante",
+  "perpetrare": "perpetrare",
+  "perpetrato": "perpetrato",
+  "perpetua": "perpɛtua",
+  "perpetua_2": "perpɛtwa",
+  "perpetuabile": "perpetuabile",
+  "perpetuabile_2": "perpetwabile",
+  "perpetuità": "perpetujta",
+  "perpetuità_2": "perpetwita",
+  "perpetuo": "perpɛtuo",
+  "perpignano": "perpiɲɲano",
+  "perplessa": "perplɛsːa",
+  "perplessamente": "perplesːamente",
+  "perplesse": "perplɛsːe",
+  "perplessi": "perplɛsːi",
+  "perplessità": "perplesːita",
+  "perplesso": "perplɛsːo",
+  "perplimere": "perplimere",
+  "perquisire": "perkwizire",
+  "perquisizione": "perkwizitsjone",
+  "perquisizioni": "perkwizitsjoni",
+  "persa": "pɛrsa",
+  "perse": "pɛrse",
+  "persecutore": "persekutore",
+  "persecutori": "persekutori",
+  "persecutrice": "persekutritʃe",
+  "persecutrici": "persekutritʃi",
+  "persecuzione": "persekutːsjone",
+  "perseguire": "perseɡwire",
+  "perseguire_2": "pɛrsɛɡwire",
+  "perseguitare": "perseɡwitare",
+  "perseguitare_2": "pɛrsɛɡwitare",
+  "perseguitato": "perseɡwitato",
+  "persesco": "persesko",
+  "perseverante": "perseverante",
+  "perseveranti": "perseveranti",
+  "perseveranza": "perseverantsa",
+  "perseveranze": "perseverantse",
+  "perseverare": "perseverare",
+  "persia": "pɛrsja",
+  "persiana": "persjana",
+  "persiana_2": "pɛrsjana",
+  "persiano": "persjano",
+  "persica": "pɛrsika",
+  "persiche": "pɛrsike",
+  "persichi": "pɛrsiki",
+  "persici": "pɛrsitʃi",
+  "persico": "pɛrsiko",
+  "persino": "persino",
+  "persistente": "persistɛnte",
+  "persistentemente": "persistentemente",
+  "persistenti": "persistɛnti",
+  "persistere": "persistere",
+  "persistito": "persistito",
+  "perso": "pɛrso",
+  "persona": "persona",
+  "persona_2": "pɛrsɔna",
+  "personaggi": "personadːʒi",
+  "personaggio": "personadːʒo",
+  "personale": "personale",
+  "personali": "personali",
+  "personalismo": "personalizmo",
+  "personalista": "personalista",
+  "personalità": "personalita",
+  "personalizzabile": "personalidːzabile",
+  "personalizzabili": "personalidːzabili",
+  "personalizzante": "personalidːzante",
+  "personalizzare": "personalidːzare",
+  "personalizzata": "personalidːzata",
+  "personalizzate": "personalidːzate",
+  "personalizzati": "personalidːzati",
+  "personalizzato": "personalidːzato",
+  "personalizzazione": "personalidːzatsjone",
+  "personalizzazione_2": "personalidːzatːsjone",
+  "personalizzazioni": "personalidːzatsjoni",
+  "personalmente": "personalmente",
+  "personificazione": "personifikatsjone",
+  "perspicace": "perspikatʃe",
+  "perspicacemente": "perspikatʃemente",
+  "perspicacia": "perspikatʃa",
+  "perspicuo": "perspikuo",
+  "persuadere": "persuadere",
+  "persuadere_2": "perswadere",
+  "persuadersi": "persuadersi",
+  "persuasibile": "persuazibile",
+  "persuasibili": "persuazibili",
+  "persuasione": "persuazjone",
+  "persuasioni": "persuazjoni",
+  "persuasivamente": "persuazivamente",
+  "persuasivamente_2": "perswazivamente",
+  "persuasivo": "persuazivo",
+  "persuaso": "persuazo",
+  "pertanto": "pertanto",
+  "pertenere": "pertenere",
+  "pertica": "pɛrtika",
+  "perticara": "pertikara",
+  "pertinace": "pertinatʃe",
+  "pertinacia": "pertinatʃa",
+  "pertinente": "pertinɛnte",
+  "pertinenti": "pertinɛnti",
+  "pertinenza": "pertinɛntsa",
+  "pertosse": "pertosːe",
+  "pertugio": "pertudʒjo",
+  "perturbabile": "perturbabile",
+  "perturbabili": "perturbabili",
+  "perturbare": "perturbare",
+  "perturbarsi": "perturbarsi",
+  "perturbato": "perturbato",
+  "perturbatore": "perturbatore",
+  "perturbatori": "perturbatori",
+  "perturbatrice": "perturbatritʃe",
+  "perturbatrici": "perturbatritʃi",
+  "perturbazione": "perturbatːsjone",
+  "perù": "peru",
+  "perugia": "perudʒa",
+  "perugino": "perudʒino",
+  "perusto": "perusto",
+  "peruviana": "peruvjana",
+  "peruviane": "peruvjane",
+  "peruviani": "peruvjani",
+  "peruviano": "peruvjano",
+  "pervadere": "pervadere",
+  "pervaso": "pervazo",
+  "perversamente": "perversamente",
+  "perversione": "perversjone",
+  "perversioni": "perversjoni",
+  "perversità": "perversita",
+  "perverso": "pervɛrso",
+  "pervertente": "pervertɛnte",
+  "pervertenti": "pervertɛnti",
+  "pervertire": "pervertire",
+  "pervertita": "pervertita",
+  "pervertite": "pervertite",
+  "pervertiti": "pervertiti",
+  "pervertito": "pervertito",
+  "pervicace": "pervikatʃe",
+  "pervicacia": "pervikatʃa",
+  "pervietà": "pervjeta",
+  "pervio": "pɛrvjo",
+  "pesa": "pesa",
+  "pesa_2": "peza",
+  "pesabambini": "pezabambini",
+  "pesabile": "pezabile",
+  "pesabili": "pezabili",
+  "pesafiltro": "pesafiltro",
+  "pesafiltro_2": "pezafiltro",
+  "pesante": "pesante",
+  "pesante_2": "pezante",
+  "pesantemente": "pesantemente",
+  "pesantezza": "pesantetːsa",
+  "pesantezza_2": "pezantetːsa",
+  "pesantezze": "pezantetːse",
+  "pesanti": "pezanti",
+  "pesantissima": "pezantisːima",
+  "pesantissime": "pezantisːime",
+  "pesantissimi": "pezantisːimi",
+  "pesantissimo": "pezantisːimo",
+  "pesare": "pezare",
+  "pesare_2": "pɛzare",
+  "pesarese": "pesarese",
+  "pesarese_2": "pesareze",
+  "pesarese_3": "pezarese",
+  "pesarese_4": "pezareze",
+  "pesato": "pesato",
+  "pesatura": "pezatura",
+  "pesature": "pezature",
+  "pesca": "peska",
+  "pesca_2": "pɛska",
+  "pescabile": "peskabile",
+  "pescabili": "peskabili",
+  "pescaggi": "peʃʃadːʒi",
+  "pescaggio": "peʃʃadːʒo",
+  "pescanoce": "peskanotʃe",
+  "pescante": "peskante",
+  "pescare": "pɛskare",
+  "pescarese": "peskarese",
+  "pescarese_2": "peskareze",
+  "pescata": "peskata",
+  "pescato": "peskato",
+  "pescatore": "peskatore",
+  "pescatore_2": "pɛskatore",
+  "pescatori": "pɛskatori",
+  "pescatrice": "pɛskatritʃe",
+  "pescatrici": "pɛskatritʃi",
+  "pesce": "peʃe",
+  "pesce_2": "peʃʃe"
 }

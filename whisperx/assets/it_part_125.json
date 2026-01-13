@@ -1,1523 +1,523 @@
 {
-  "oscurantismo": [
-    "oskurantizmo"
-  ],
-  "oscurantista": [
-    "oskurantista"
-  ],
-  "oscurantiste": [
-    "oskurantiste"
-  ],
-  "oscurantisti": [
-    "oskurantisti"
-  ],
-  "oscurantistica": [
-    "oskurantistika"
-  ],
-  "oscurantistiche": [
-    "oskurantistike"
-  ],
-  "oscurantistici": [
-    "oskurantistitʃi"
-  ],
-  "oscurantistico": [
-    "oskurantistiko"
-  ],
-  "oscurare": [
-    "oskurare"
-  ],
-  "oscurarsi": [
-    "oskurarsi"
-  ],
-  "oscurati": [
-    "oskurati"
-  ],
-  "oscurato": [
-    "oskurato"
-  ],
-  "oscure": [
-    "ɔskure"
-  ],
-  "oscuri": [
-    "ɔskuri"
-  ],
-  "oscurità": [
-    "oskurita",
-    "ɔskurita"
-  ],
-  "oscuro": [
-    "oskuro",
-    "ɔskurɔ"
-  ],
-  "osé": [
-    "oze"
-  ],
-  "osea": [
-    "ozɛa"
-  ],
-  "osio": [
-    "ɔzjo"
-  ],
-  "osmanico": [
-    "ozmaniko"
-  ],
-  "osmio": [
-    "ɔzmjo"
-  ],
-  "osmolalità": [
-    "ɔzmolalita"
-  ],
-  "osmolarità": [
-    "ɔzmolarita"
-  ],
-  "osmometria": [
-    "ozmometria"
-  ],
-  "osmometro": [
-    "ozmɔmetro"
-  ],
-  "osmoregolatore": [
-    "ɔzmoreɡolatore"
-  ],
-  "osmosi": [
-    "ozmɔzi"
-  ],
-  "oso": [
-    "ɔzo"
-  ],
-  "ospedale": [
-    "ospedale",
-    "ɔspɛdale"
-  ],
-  "ospedali": [
-    "ɔspɛdali"
-  ],
-  "ospedaliero": [
-    "ospedaljɛro"
-  ],
-  "ospedalizzare": [
-    "ospedalidːzare"
-  ],
-  "ospedalizzato": [
-    "ospedalidːzato"
-  ],
-  "ospedalizzazione": [
-    "ospedalidːzatːsjone"
-  ],
-  "ospitale": [
-    "ospitale"
-  ],
-  "ospitalità": [
-    "ospitalita"
-  ],
-  "ospitare": [
-    "ospitare"
-  ],
-  "ospitato": [
-    "ospitato"
-  ],
-  "ospite": [
-    "ɔspite"
-  ],
-  "ospiti": [
-    "ɔspiti"
-  ],
-  "ospizio": [
-    "ospitsjo",
-    "ospitːsjo"
-  ],
-  "ossa": [
-    "ɔsːa"
-  ],
-  "ossalacetica": [
-    "osːalatʃɛtika"
-  ],
-  "ossalacetiche": [
-    "osːalatʃɛtike"
-  ],
-  "ossalacetici": [
-    "osːalatʃɛtitʃi"
-  ],
-  "ossalacetico": [
-    "osːalatʃɛtiko"
-  ],
-  "ossalica": [
-    "osːalika"
-  ],
-  "ossaliche": [
-    "osːalike"
-  ],
-  "ossalici": [
-    "osːaliktʃi"
-  ],
-  "ossalico": [
-    "osːaliko"
-  ],
-  "ossalile": [
-    "osːalile"
-  ],
-  "ossaluria": [
-    "osːalurja"
-  ],
-  "ossari": [
-    "osːari"
-  ],
-  "ossario": [
-    "osːarjo"
-  ],
-  "ossatura": [
-    "osːatura"
-  ],
-  "ossature": [
-    "osːature"
-  ],
-  "osseo": [
-    "ɔsːeo"
-  ],
-  "ossequio": [
-    "osːɛkwjo"
-  ],
-  "ossequiosa": [
-    "osːekwjosa"
-  ],
-  "ossequiose": [
-    "osːekwjose"
-  ],
-  "ossequiosi": [
-    "osːekwjosi"
-  ],
-  "ossequioso": [
-    "osːekwjoso"
-  ],
-  "osservabile": [
-    "osːervabile"
-  ],
-  "osservabili": [
-    "osːervabili"
-  ],
-  "osservabilmente": [
-    "osːervabilmente"
-  ],
-  "osservando": [
-    "osːervando"
-  ],
-  "osservante": [
-    "osːervante",
-    "osːɛrvante"
-  ],
-  "osservanza": [
-    "osːervantsa"
-  ],
-  "osservanze": [
-    "osːervantse"
-  ],
-  "osservare": [
-    "osːervare",
-    "osːɛrvare"
-  ],
-  "osservato": [
-    "osːervato",
-    "osːɛrvato"
-  ],
-  "osservatore": [
-    "osːervatore"
-  ],
-  "osservatorio": [
-    "osːervatɔrjo"
-  ],
-  "osservazione": [
-    "osːervatsjone",
-    "ɔsːɛrvatsjɔne"
-  ],
-  "osservazioni": [
-    "ɔsːɛrvatsjɔne"
-  ],
-  "ossessionante": [
-    "osːesːjonante"
-  ],
-  "ossessionare": [
-    "osːesːjonare"
-  ],
-  "ossessionarsi": [
-    "osːesːjonarsi"
-  ],
-  "ossessionato": [
-    "osːesːjonato"
-  ],
-  "ossessione": [
-    "osːesːjone"
-  ],
-  "ossessioni": [
-    "osːesːjoni"
-  ],
-  "ossessiva": [
-    "osːesːiva"
-  ],
-  "ossessive": [
-    "osːesːive"
-  ],
-  "ossessivi": [
-    "osːesːivi"
-  ],
-  "ossessivo": [
-    "osːesːivo"
-  ],
-  "ossesso": [
-    "osːɛsːo"
-  ],
-  "osseto": [
-    "osːɛto"
-  ],
-  "ossezia": [
-    "osːɛtːsja"
-  ],
-  "ossi": [
-    "ɔsːi"
-  ],
-  "ossia": [
-    "osːia"
-  ],
-  "ossiacetilenica": [
-    "osːiatʃetilenika"
-  ],
-  "ossiacetileniche": [
-    "osːiatʃetilenike"
-  ],
-  "ossiacetilenici": [
-    "osːiatʃetilenitʃi"
-  ],
-  "ossiacetilenico": [
-    "osːiatʃetileniko"
-  ],
-  "ossiacidi": [
-    "osːiatʃidi"
-  ],
-  "ossiacido": [
-    "osːiatʃido"
-  ],
-  "ossicodone": [
-    "osːikodone"
-  ],
-  "ossidabile": [
-    "osːidabile"
-  ],
-  "ossidabili": [
-    "osːidabili"
-  ],
-  "ossidante": [
-    "osːidante"
-  ],
-  "ossidanti": [
-    "osːidanti"
-  ],
-  "ossidare": [
-    "osːidare"
-  ],
-  "ossidarsi": [
-    "osːidarsi"
-  ],
-  "ossidasi": [
-    "osːidazi"
-  ],
-  "ossidato": [
-    "osːidato"
-  ],
-  "ossidazione": [
-    "osːidatsjone"
-  ],
-  "ossidiana": [
-    "osːidjana"
-  ],
-  "ossido": [
-    "ɔsːido"
-  ],
-  "ossidoriduzione": [
-    "ɔsːidoridutːsjone"
-  ],
-  "ossidrico": [
-    "osːidriko"
-  ],
-  "ossidrile": [
-    "osːidrile"
-  ],
-  "ossidrili": [
-    "osːidrili"
-  ],
-  "ossiemoglobina": [
-    "ɔsːiemoɡlobina"
-  ],
-  "ossificare": [
-    "osːifikare"
-  ],
-  "ossificata": [
-    "osːifikata"
-  ],
-  "ossificate": [
-    "osːifikate"
-  ],
-  "ossificati": [
-    "osːifikati"
-  ],
-  "ossificato": [
-    "osːifikato"
-  ],
-  "ossigenare": [
-    "osːidʒenare"
-  ],
-  "ossigenata": [
-    "osːidʒenata"
-  ],
-  "ossigenate": [
-    "osːidʒenate"
-  ],
-  "ossigenati": [
-    "osːidʒenati"
-  ],
-  "ossigenatore": [
-    "osːidʒenatore"
-  ],
-  "ossigenatori": [
-    "osːidʒenatori"
-  ],
-  "ossigenista": [
-    "osːidʒenista"
-  ],
-  "ossigeno": [
-    "osːidʒeno"
-  ],
-  "ossigenoterapia": [
-    "osːidʒenoterapia"
-  ],
-  "ossimetria": [
-    "osːimetria"
-  ],
-  "ossimetro": [
-    "osːimetro"
-  ],
-  "ossimori": [
-    "osːimori"
-  ],
-  "ossimoro": [
-    "osːimoro",
-    "osːimɔro"
-  ],
-  "ossitocia": [
-    "osːitotʃia"
-  ],
-  "ossitocina": [
-    "osːitotʃina"
-  ],
-  "ossitono": [
-    "osːitono"
-  ],
-  "ossiuriasi": [
-    "osːiuriazi"
-  ],
-  "ossiuro": [
-    "osːiuro"
-  ],
-  "osso": [
-    "ɔsːo"
-  ],
-  "ossobuco": [
-    "osːobuko",
-    "ɔsːobuko"
-  ],
-  "ossolano": [
-    "osːolano"
-  ],
-  "ossuto": [
-    "osːuto"
-  ],
-  "ostacolare": [
-    "ostakolare"
-  ],
-  "ostacolato": [
-    "ostakolato"
-  ],
-  "ostacoli": [
-    "ostakoli"
-  ],
-  "ostacolista": [
-    "ostakolista"
-  ],
-  "ostacoliste": [
-    "ostakoliste"
-  ],
-  "ostacolisti": [
-    "ostakolisti"
-  ],
-  "ostacolo": [
-    "ostakolo"
-  ],
-  "ostaggi": [
-    "ostadːʒi"
-  ],
-  "ostaggio": [
-    "ostadːʒo"
-  ],
-  "ostante": [
-    "ostante"
-  ],
-  "ostare": [
-    "ostare"
-  ],
-  "ostativa": [
-    "ostative"
-  ],
-  "ostative": [
-    "ostativa"
-  ],
-  "ostativi": [
-    "ostativi"
-  ],
-  "ostativo": [
-    "ostativo"
-  ],
-  "oste": [
-    "ɔste"
-  ],
-  "osteggiamento": [
-    "ostedːʒamento"
-  ],
-  "osteggiare": [
-    "ostedːʒare"
-  ],
-  "osteggiato": [
-    "ostedːʒato"
-  ],
-  "osteite": [
-    "osteite"
-  ],
-  "osteitti": [
-    "osteitːi"
-  ],
-  "ostello": [
-    "ostɛlːo"
-  ],
-  "ostendere": [
-    "ostɛndere"
-  ],
-  "ostensibile": [
-    "ostensibile"
-  ],
-  "ostensibili": [
-    "ostensibili"
-  ],
-  "ostensione": [
-    "ostensjone"
-  ],
-  "ostensori": [
-    "ostensɔri"
-  ],
-  "ostensorio": [
-    "ostensɔrjo"
-  ],
-  "ostentare": [
-    "ostentare"
-  ],
-  "ostentato": [
-    "ostentato"
-  ],
-  "ostentazione": [
-    "ostentatsjone"
-  ],
-  "osteoartrite": [
-    "ɔsteoartrite"
-  ],
-  "osteoartriti": [
-    "ɔsteoartriti"
-  ],
-  "osteoblasto": [
-    "osteoblasto"
-  ],
-  "osteocalcina": [
-    "osteokaltʃina"
-  ],
-  "osteologia": [
-    "osteolodʒia"
-  ],
-  "osteologo": [
-    "osteɔloɡo"
-  ],
-  "osteomielite": [
-    "ɔsteomielite"
-  ],
-  "osteomieliti": [
-    "ɔsteomieliti"
-  ],
-  "osteopata": [
-    "osteɔpata"
-  ],
-  "osteopatia": [
-    "osteopatia"
-  ],
-  "osteoplastica": [
-    "osteoplastika"
-  ],
-  "osteoplastiche": [
-    "osteoplastike"
-  ],
-  "osteoporosi": [
-    "ɔsteoporozi",
-    "ɔsteoporɔzi"
-  ],
-  "osteosarcoma": [
-    "ɔsteosarkɔma"
-  ],
-  "osteosarcomi": [
-    "ɔsteosarkɔmi"
-  ],
-  "osteospermo": [
-    "osteospɛrmo"
-  ],
-  "osteria": [
-    "osteria"
-  ],
-  "osterie": [
-    "osterie"
-  ],
-  "osteriggio": [
-    "osteridːʒo"
-  ],
-  "osterlicchi": [
-    "osterlikːi"
-  ],
-  "ostessa": [
-    "ostesːa",
-    "ɔstesːa"
-  ],
-  "ostesse": [
-    "ɔstesːe"
-  ],
-  "ostetrica": [
-    "ostɛtrika"
-  ],
-  "ostetricia": [
-    "ostetritʃa"
-  ],
-  "ostetrico": [
-    "ostɛtriko"
-  ],
-  "ostia": [
-    "ɔstja"
-  ],
-  "ostiario": [
-    "ostjarjo"
-  ],
-  "ostichezza": [
-    "ostiketːsa"
-  ],
-  "ostico": [
-    "ɔstiko"
-  ],
-  "ostiense": [
-    "ostjɛnse"
-  ],
-  "ostile": [
-    "ostile"
-  ],
-  "ostili": [
-    "ostili"
-  ],
-  "ostilissima": [
-    "ostilisːima"
-  ],
-  "ostilissime": [
-    "ostilisːime"
-  ],
-  "ostilissimi": [
-    "ostilisːimi"
-  ],
-  "ostilissimo": [
-    "ostilisːimo"
-  ],
-  "ostilità": [
-    "ostilita"
-  ],
-  "ostilmente": [
-    "ostilmente"
-  ],
-  "ostinare": [
-    "ostinare"
-  ],
-  "ostinarsi": [
-    "ostinarsi"
-  ],
-  "ostinata": [
-    "ostinata"
-  ],
-  "ostinatamente": [
-    "ostinatamente"
-  ],
-  "ostinate": [
-    "ostinate"
-  ],
-  "ostinati": [
-    "ostinati"
-  ],
-  "ostinato": [
-    "ostinato"
-  ],
-  "ostinazione": [
-    "ostinatsjone"
-  ],
-  "ostinazioni": [
-    "ostinatsjoni"
-  ],
-  "ostracismi": [
-    "ostratʃizmi"
-  ],
-  "ostracismo": [
-    "ostratʃizmo"
-  ],
-  "ostrica": [
-    "ɔstrika"
-  ],
-  "ostricaia": [
-    "ostrikaja"
-  ],
-  "ostricaio": [
-    "ostrikajo"
-  ],
-  "ostriche": [
-    "ɔstrike"
-  ],
-  "ostricoltura": [
-    "ostrikoltura"
-  ],
-  "ostricolture": [
-    "ostrikolture"
-  ],
-  "ostro": [
-    "ɔstro"
-  ],
-  "ostrogotico": [
-    "ostroɡɔtiko"
-  ],
-  "ostrogoto": [
-    "ostroɡɔto"
-  ],
-  "ostruimento": [
-    "ostruimento"
-  ],
-  "ostruire": [
-    "ostruire"
-  ],
-  "ostruito": [
-    "ostruito"
-  ],
-  "ostruzione": [
-    "ostrutsjone"
-  ],
-  "ostruzionismo": [
-    "ostrutːsjonizmo"
-  ],
-  "otaku": [
-    "otaku"
-  ],
-  "otalgia": [
-    "otaldʒia"
-  ],
-  "otarda": [
-    "otarda"
-  ],
-  "otaria": [
-    "otarja"
-  ],
-  "otaride": [
-    "otaride"
-  ],
-  "otaridi": [
-    "otaridi"
-  ],
-  "otidide": [
-    "otidide"
-  ],
-  "otididi": [
-    "otididi"
-  ],
-  "otidifaba": [
-    "otidifaba"
-  ],
-  "otite": [
-    "otite"
-  ],
-  "otoconio": [
-    "otokɔnjo"
-  ],
-  "otologica": [
-    "otolɔdʒika"
-  ],
-  "otologiche": [
-    "otolɔdʒike"
-  ],
-  "otologici": [
-    "otolɔdʒitʃi"
-  ],
-  "otologico": [
-    "otolɔdʒiko"
-  ],
-  "otoplastica": [
-    "otoplastika"
-  ],
-  "otoplastiche": [
-    "otoplastike"
-  ],
-  "otorinolaringoiatra": [
-    "otorinolariɲɡojatra"
-  ],
-  "otorinolaringoiatria": [
-    "otorinolariɲɡojatria"
-  ],
-  "otoscopi": [
-    "otoskɔpi"
-  ],
-  "otoscopia": [
-    "otoskɔpja"
-  ],
-  "otoscopica": [
-    "otoskɔpika"
-  ],
-  "otoscopiche": [
-    "otoskɔpika"
-  ],
-  "otoscopici": [
-    "otoskɔpitʃi"
-  ],
-  "otoscopico": [
-    "otoskɔpiko"
-  ],
-  "otoscopie": [
-    "otoskɔpje"
-  ],
-  "otoscopio": [
-    "otoskɔpjo"
-  ],
-  "ototossica": [
-    "ototɔsːika"
-  ],
-  "ototossiche": [
-    "ototɔsːike"
-  ],
-  "ototossici": [
-    "ototɔsːitʃi"
-  ],
-  "ototossicità": [
-    "ototosːitʃita"
-  ],
-  "ototossico": [
-    "ototɔsːiko"
-  ],
-  "otre": [
-    "otre"
-  ],
-  "otri": [
-    "ɔtri"
-  ],
-  "otta": [
-    "ɔtːa"
-  ],
-  "ottacordo": [
-    "otːakɔrdo"
-  ],
-  "ottaedrico": [
-    "otːaɛdriko"
-  ],
-  "ottaedro": [
-    "otːaɛdro"
-  ],
-  "ottagonale": [
-    "otːaɡonale"
-  ],
-  "ottagono": [
-    "otːaɡono"
-  ],
-  "ottale": [
-    "otːale"
-  ],
-  "ottalmologia": [
-    "otːalmolodʒia"
-  ],
-  "ottalmologie": [
-    "otːalmolodʒie"
-  ],
-  "ottangolo": [
-    "otːanɡolo"
-  ],
-  "ottano": [
-    "otːano"
-  ],
-  "ottanta": [
-    "otːanta"
-  ],
-  "ottantacinque": [
-    "otːantatʃinkwe"
-  ],
-  "ottantamila": [
-    "otːantamila"
-  ],
-  "ottantanove": [
-    "otːantanɔve"
-  ],
-  "ottante": [
-    "otːante"
-  ],
-  "ottantenne": [
-    "otːantɛnːe"
-  ],
-  "ottanti": [
-    "otːanti"
-  ],
-  "ottantotto": [
-    "otːantɔtːo"
-  ],
-  "ottantuno": [
-    "otːantuno"
-  ],
-  "ottativa": [
-    "otːativa"
-  ],
-  "ottative": [
-    "otːative"
-  ],
-  "ottativi": [
-    "otːativi"
-  ],
-  "ottativo": [
-    "otːativo"
-  ],
-  "ottava": [
-    "otːava"
-  ],
-  "ottave": [
-    "otːave"
-  ],
-  "ottavi": [
-    "otːavi"
-  ],
-  "ottavia": [
-    "otːavja"
-  ],
-  "ottavino": [
-    "otːavino"
-  ],
-  "ottavio": [
-    "otːavjo"
-  ],
-  "ottavo": [
-    "otːavo"
-  ],
-  "ottemperare": [
-    "otːemperare"
-  ],
-  "ottemperato": [
-    "otːemperato"
-  ],
-  "ottenebrare": [
-    "otːenebrare"
-  ],
-  "ottenebrarsi": [
-    "otːenebrarsi"
-  ],
-  "ottenebrata": [
-    "otːenebrata"
-  ],
-  "ottenebrate": [
-    "otːenebrate"
-  ],
-  "ottenebrati": [
-    "otːenebrati"
-  ],
-  "ottenebrato": [
-    "otːenebrato"
-  ],
-  "ottenebrazione": [
-    "otːenebratːsjone"
-  ],
-  "ottenente": [
-    "otːenente"
-  ],
-  "ottenere": [
-    "otːenere"
-  ],
-  "ottenibile": [
-    "otːenibile"
-  ],
-  "ottenibili": [
-    "otːenibili"
-  ],
-  "ottenimenti": [
-    "otːenimenti"
-  ],
-  "ottenimento": [
-    "otːenimento"
-  ],
-  "ottenne": [
-    "otːenːe",
-    "otːɛnːe"
-  ],
-  "ottentotto": [
-    "otːentɔtːo"
-  ],
-  "ottenuto": [
-    "otːenuto"
-  ],
-  "ottetto": [
-    "otːetːo"
-  ],
-  "ottica": [
-    "ɔtːika"
-  ],
-  "ottiche": [
-    "ɔtːike"
-  ],
-  "ottici": [
-    "ɔtːitʃi"
-  ],
-  "ottico": [
-    "ɔtːiko"
-  ],
-  "ottima": [
-    "ɔtːima"
-  ],
-  "ottimale": [
-    "otːimale"
-  ],
-  "ottimali": [
-    "otːimali"
-  ],
-  "ottimalizzare": [
-    "otːimalidːʒare"
-  ],
-  "ottimamente": [
-    "otːimamente"
-  ],
-  "ottimare": [
-    "otːimare"
-  ],
-  "ottimate": [
-    "otːimate"
-  ],
-  "ottimato": [
-    "otːimato"
-  ],
-  "ottime": [
-    "ɔtːime"
-  ],
-  "ottimi": [
-    "ɔtːimi"
-  ],
-  "ottimismi": [
-    "otːimizmi"
-  ],
-  "ottimismo": [
-    "otːimizmo"
-  ],
-  "ottimista": [
-    "otːimista"
-  ],
-  "ottimiste": [
-    "otːimiste"
-  ],
-  "ottimisti": [
-    "otːimisti"
-  ],
-  "ottimistico": [
-    "otːimistiko"
-  ],
-  "ottimizzabile": [
-    "otːimidːzabile"
-  ],
-  "ottimizzabili": [
-    "otːimidːzabili"
-  ],
-  "ottimizzante": [
-    "otːimidːʒante"
-  ],
-  "ottimizzare": [
-    "otːimidːzare",
-    "otːimidːʒare"
-  ],
-  "ottimizzata": [
-    "otːimidːʒata"
-  ],
-  "ottimizzate": [
-    "otːimidːʒate"
-  ],
-  "ottimizzati": [
-    "otːimidːʒati"
-  ],
-  "ottimizzato": [
-    "otːimidːzato",
-    "otːimidːʒato"
-  ],
-  "ottimizzazione": [
-    "otːimidːʒatsjone"
-  ],
-  "ottimizzazioni": [
-    "otːimidːʒatsjoni"
-  ],
-  "ottimo": [
-    "ɔtːimo"
-  ],
-  "otto": [
-    "ɔtːo"
-  ],
-  "ottobrare": [
-    "otːobrare"
-  ],
-  "ottobre": [
-    "otːobre"
-  ],
-  "ottocentesco": [
-    "otːotʃentesko"
-  ],
-  "ottocento": [
-    "otːotʃɛnto"
-  ],
-  "ottocentomila": [
-    "otːotʃɛntomila"
-  ],
-  "ottodontide": [
-    "otktodɔntide"
-  ],
-  "ottodontidi": [
-    "otktodɔntidi"
-  ],
-  "ottomana": [
-    "otːomana"
-  ],
-  "ottomano": [
-    "otːomano"
-  ],
-  "ottomila": [
-    "otːomila"
-  ],
-  "ottonaia": [
-    "otːonaja"
-  ],
-  "ottonaio": [
-    "otːonajo"
-  ],
-  "ottonare": [
-    "otːonare"
-  ],
-  "ottone": [
-    "otːone",
-    "ɔtːɔne"
-  ],
-  "ottoni": [
-    "otːoni",
-    "ɔtːɔni"
-  ],
-  "ottovolante": [
-    "otːovolante",
-    "ɔtːovolante"
-  ],
-  "ottovolanti": [
-    "otːovolanti"
-  ],
-  "ottriare": [
-    "otːriare"
-  ],
-  "ottundere": [
-    "otːundere"
-  ],
-  "otturare": [
-    "otːurare"
-  ],
-  "otturatore": [
-    "otːuratore"
-  ],
-  "otturatori": [
-    "otːuratorei",
-    "otːuratori"
-  ],
-  "otturazione": [
-    "otːuratsjone",
-    "otːuratːsjone"
-  ],
-  "ottusamente": [
-    "otːuzamente"
-  ],
-  "ottusangolo": [
-    "otːuzanɡolo"
-  ],
-  "ottusità": [
-    "otːuzita"
-  ],
-  "ottuso": [
-    "otːuzo"
-  ],
-  "outsider": [
-    "awtsajder"
-  ],
-  "ouverture": [
-    "uvertur"
-  ],
-  "ova": [
-    "ɔva"
-  ],
-  "ovaia": [
-    "ovaja"
-  ],
-  "ovaie": [
-    "ovaje"
-  ],
-  "ovale": [
-    "ovale"
-  ],
-  "ovali": [
-    "ovali"
-  ],
-  "ovario": [
-    "ovarjo"
-  ],
-  "ovarite": [
-    "ovarite"
-  ],
-  "ovatta": [
-    "ovatːa"
-  ],
-  "ovattato": [
-    "ovatːato"
-  ],
-  "ovazione": [
-    "ovatːsjone"
-  ],
-  "ove": [
-    "ove"
-  ],
-  "ovest": [
-    "ɔvest",
-    "ɔvɛst"
-  ],
-  "ovetto": [
-    "ovetːo"
-  ],
-  "ovidepone": [
-    "ovidepone"
-  ],
-  "ovideponemmo": [
-    "ovideponemːo"
-  ],
-  "ovideponendo": [
-    "ovideponendo"
-  ],
-  "ovideponente": [
-    "ovideponente"
-  ],
-  "ovideponesse": [
-    "ovideponesːe"
-  ],
-  "ovideponessero": [
-    "ovideponesːero"
-  ],
-  "ovideponessi": [
-    "ovideponesːi"
-  ],
-  "ovideponessimo": [
-    "ovideponesːimo"
-  ],
-  "ovideponeste": [
-    "ovideponːeste"
-  ],
-  "ovideponesti": [
-    "ovideponesti"
-  ],
-  "ovideponete": [
-    "ovideponete"
-  ],
-  "ovideponeva": [
-    "ovideponeva"
-  ],
-  "ovideponevamo": [
-    "ovideponevamo"
-  ],
-  "ovideponevano": [
-    "ovideponevano"
-  ],
-  "ovideponevate": [
-    "ovideponevate"
-  ],
-  "ovideponevi": [
-    "ovideponevi"
-  ],
-  "ovideponevo": [
-    "ovideponevo"
-  ],
-  "ovideponga": [
-    "ovideponɡa"
-  ],
-  "ovidepongano": [
-    "ovideponɡano"
-  ],
-  "ovidepongo": [
-    "ovideponɡo"
-  ],
-  "ovidepongono": [
-    "ovideponɡono"
-  ],
-  "ovideponi": [
-    "ovideponi"
-  ],
-  "ovideponiamo": [
-    "ovideponjamo"
-  ],
-  "ovideponiate": [
-    "ovideponjate"
-  ],
-  "ovideporrà": [
-    "porːa"
-  ],
-  "ovideporrai": [
-    "ovideporːai"
-  ],
-  "ovideporranno": [
-    "ovideporːanːo"
-  ],
-  "ovideporre": [
-    "ovideporːe"
-  ],
-  "ovideporrebbe": [
-    "ovideporːebːe"
-  ],
-  "ovideporrebbero": [
-    "ovideporːebːero"
-  ],
-  "ovideporrei": [
-    "ovideporːei"
-  ],
-  "ovideporremmo": [
-    "ovideporːemo"
-  ],
-  "ovideporremo": [
-    "ovideporːemo"
-  ],
-  "ovideporreste": [
-    "ovideporːeste"
-  ],
-  "ovideporresti": [
-    "ovideporːesti"
-  ],
-  "ovideporrete": [
-    "ovideporːete"
-  ],
-  "ovideporrò": [
-    "ovideporːo"
-  ],
-  "ovidepose": [
-    "ovidepose"
-  ],
-  "ovideposero": [
-    "ovideposero"
-  ],
-  "ovideposi": [
-    "ovideposi"
-  ],
-  "ovideposta": [
-    "ovideposta"
-  ],
-  "ovideposte": [
-    "ovideposte"
-  ],
-  "ovideposti": [
-    "ovideposti"
-  ],
-  "ovideposto": [
-    "ovideposto"
-  ],
-  "ovidotti": [
-    "ovidotːi"
-  ],
-  "ovidotto": [
-    "ovidotːo"
-  ],
-  "ovidutti": [
-    "ovidutːi"
-  ],
-  "ovidutto": [
-    "ovidutːo"
-  ],
-  "oviforme": [
-    "oviforme"
-  ],
-  "oviformi": [
-    "oviformi"
-  ],
-  "ovile": [
-    "ovile"
-  ],
-  "ovina": [
-    "ovina"
-  ],
-  "ovine": [
-    "ovine"
-  ],
-  "ovini": [
-    "ovini"
-  ],
-  "ovino": [
-    "ovino"
-  ],
-  "ovipara": [
-    "ovipara"
-  ],
-  "ovipare": [
-    "ovipare"
-  ],
-  "ovipari": [
-    "ovipari"
-  ],
-  "oviparità": [
-    "oviparita"
-  ],
-  "oviparo": [
-    "oviparo"
-  ],
-  "ovo": [
-    "ɔvo"
-  ],
-  "ovodepone": [
-    "ovodepone"
-  ],
-  "ovodeponemmo": [
-    "ovodeponemːo"
-  ],
-  "ovodeponendo": [
-    "ovodeponendo"
-  ],
-  "ovodeponente": [
-    "ovodeponente"
-  ],
-  "ovodeponesse": [
-    "ovodeponesːe"
-  ],
-  "ovodeponessero": [
-    "ovodeponesːero"
-  ],
-  "ovodeponessi": [
-    "ovodeponesːi"
-  ],
-  "ovodeponessimo": [
-    "ovodeponesːimo"
-  ],
-  "ovodeponeste": [
-    "ovodeponːeste"
-  ],
-  "ovodeponesti": [
-    "ovodeponesti"
-  ],
-  "ovodeponete": [
-    "ovodeponete"
-  ],
-  "ovodeponeva": [
-    "ovodeponeva"
-  ],
-  "ovodeponevamo": [
-    "ovodeponevamo"
-  ],
-  "ovodeponevano": [
-    "ovodeponevano"
-  ],
-  "ovodeponevate": [
-    "ovodeponevate"
-  ],
-  "ovodeponevi": [
-    "ovodeponevi"
-  ],
-  "ovodeponevo": [
-    "ovodeponevo"
-  ],
-  "ovodeponga": [
-    "ovodeponɡa"
-  ],
-  "ovodepongano": [
-    "ovodeponɡano"
-  ],
-  "ovodepongo": [
-    "ovodeponɡo"
-  ],
-  "ovodepongono": [
-    "ovodeponɡono"
-  ],
-  "ovodeponi": [
-    "ovodeponi"
-  ],
-  "ovodeponiamo": [
-    "ovodeponjamo"
-  ],
-  "ovodeponiate": [
-    "ovodeponjate"
-  ],
-  "ovodeporrà": [
-    "porːa"
-  ],
-  "ovodeporrai": [
-    "ovodeporːai"
-  ],
-  "ovodeporranno": [
-    "ovodeporːanːo"
-  ],
-  "ovodeporre": [
-    "ovodeporːe"
-  ],
-  "ovodeporrebbe": [
-    "ovodeporːebːe"
-  ],
-  "ovodeporrebbero": [
-    "ovodeporːebːero"
-  ],
-  "ovodeporrei": [
-    "ovodeporːei"
-  ],
-  "ovodeporremmo": [
-    "ovodeporːemo"
-  ],
-  "ovodeporremo": [
-    "ovodeporːemo"
-  ],
-  "ovodeporreste": [
-    "ovodeporːeste"
-  ],
-  "ovodeporresti": [
-    "ovodeporːesti"
-  ],
-  "ovodeporrete": [
-    "ovodeporːete"
-  ],
-  "ovodeporrò": [
-    "ovodeporːo"
-  ],
-  "ovodepose": [
-    "ovodepose"
-  ],
-  "ovodeposero": [
-    "ovodeposero"
-  ],
-  "ovodeposi": [
-    "ovodeposi"
-  ],
-  "ovodeposta": [
-    "ovodeposta"
-  ],
-  "ovodeposte": [
-    "ovodeposte"
-  ],
-  "ovodeposti": [
-    "ovodeposti"
-  ],
-  "ovodeposto": [
-    "ovodeposto"
-  ],
-  "ovodonazione": [
-    "ɔvodonatsjone"
-  ],
-  "ovodonazioni": [
-    "ɔvodonatsjone"
-  ],
-  "ovogamia": [
-    "ovoɡamia"
-  ]
+  "oscurantismo": "oskurantizmo",
+  "oscurantista": "oskurantista",
+  "oscurantiste": "oskurantiste",
+  "oscurantisti": "oskurantisti",
+  "oscurantistica": "oskurantistika",
+  "oscurantistiche": "oskurantistike",
+  "oscurantistici": "oskurantistitʃi",
+  "oscurantistico": "oskurantistiko",
+  "oscurare": "oskurare",
+  "oscurarsi": "oskurarsi",
+  "oscurati": "oskurati",
+  "oscurato": "oskurato",
+  "oscure": "ɔskure",
+  "oscuri": "ɔskuri",
+  "oscurità": "oskurita",
+  "oscurità_2": "ɔskurita",
+  "oscuro": "oskuro",
+  "oscuro_2": "ɔskurɔ",
+  "osé": "oze",
+  "osea": "ozɛa",
+  "osio": "ɔzjo",
+  "osmanico": "ozmaniko",
+  "osmio": "ɔzmjo",
+  "osmolalità": "ɔzmolalita",
+  "osmolarità": "ɔzmolarita",
+  "osmometria": "ozmometria",
+  "osmometro": "ozmɔmetro",
+  "osmoregolatore": "ɔzmoreɡolatore",
+  "osmosi": "ozmɔzi",
+  "oso": "ɔzo",
+  "ospedale": "ospedale",
+  "ospedale_2": "ɔspɛdale",
+  "ospedali": "ɔspɛdali",
+  "ospedaliero": "ospedaljɛro",
+  "ospedalizzare": "ospedalidːzare",
+  "ospedalizzato": "ospedalidːzato",
+  "ospedalizzazione": "ospedalidːzatːsjone",
+  "ospitale": "ospitale",
+  "ospitalità": "ospitalita",
+  "ospitare": "ospitare",
+  "ospitato": "ospitato",
+  "ospite": "ɔspite",
+  "ospiti": "ɔspiti",
+  "ospizio": "ospitsjo",
+  "ospizio_2": "ospitːsjo",
+  "ossa": "ɔsːa",
+  "ossalacetica": "osːalatʃɛtika",
+  "ossalacetiche": "osːalatʃɛtike",
+  "ossalacetici": "osːalatʃɛtitʃi",
+  "ossalacetico": "osːalatʃɛtiko",
+  "ossalica": "osːalika",
+  "ossaliche": "osːalike",
+  "ossalici": "osːaliktʃi",
+  "ossalico": "osːaliko",
+  "ossalile": "osːalile",
+  "ossaluria": "osːalurja",
+  "ossari": "osːari",
+  "ossario": "osːarjo",
+  "ossatura": "osːatura",
+  "ossature": "osːature",
+  "osseo": "ɔsːeo",
+  "ossequio": "osːɛkwjo",
+  "ossequiosa": "osːekwjosa",
+  "ossequiose": "osːekwjose",
+  "ossequiosi": "osːekwjosi",
+  "ossequioso": "osːekwjoso",
+  "osservabile": "osːervabile",
+  "osservabili": "osːervabili",
+  "osservabilmente": "osːervabilmente",
+  "osservando": "osːervando",
+  "osservante": "osːervante",
+  "osservante_2": "osːɛrvante",
+  "osservanza": "osːervantsa",
+  "osservanze": "osːervantse",
+  "osservare": "osːervare",
+  "osservare_2": "osːɛrvare",
+  "osservato": "osːervato",
+  "osservato_2": "osːɛrvato",
+  "osservatore": "osːervatore",
+  "osservatorio": "osːervatɔrjo",
+  "osservazione": "osːervatsjone",
+  "osservazione_2": "ɔsːɛrvatsjɔne",
+  "osservazioni": "ɔsːɛrvatsjɔne",
+  "ossessionante": "osːesːjonante",
+  "ossessionare": "osːesːjonare",
+  "ossessionarsi": "osːesːjonarsi",
+  "ossessionato": "osːesːjonato",
+  "ossessione": "osːesːjone",
+  "ossessioni": "osːesːjoni",
+  "ossessiva": "osːesːiva",
+  "ossessive": "osːesːive",
+  "ossessivi": "osːesːivi",
+  "ossessivo": "osːesːivo",
+  "ossesso": "osːɛsːo",
+  "osseto": "osːɛto",
+  "ossezia": "osːɛtːsja",
+  "ossi": "ɔsːi",
+  "ossia": "osːia",
+  "ossiacetilenica": "osːiatʃetilenika",
+  "ossiacetileniche": "osːiatʃetilenike",
+  "ossiacetilenici": "osːiatʃetilenitʃi",
+  "ossiacetilenico": "osːiatʃetileniko",
+  "ossiacidi": "osːiatʃidi",
+  "ossiacido": "osːiatʃido",
+  "ossicodone": "osːikodone",
+  "ossidabile": "osːidabile",
+  "ossidabili": "osːidabili",
+  "ossidante": "osːidante",
+  "ossidanti": "osːidanti",
+  "ossidare": "osːidare",
+  "ossidarsi": "osːidarsi",
+  "ossidasi": "osːidazi",
+  "ossidato": "osːidato",
+  "ossidazione": "osːidatsjone",
+  "ossidiana": "osːidjana",
+  "ossido": "ɔsːido",
+  "ossidoriduzione": "ɔsːidoridutːsjone",
+  "ossidrico": "osːidriko",
+  "ossidrile": "osːidrile",
+  "ossidrili": "osːidrili",
+  "ossiemoglobina": "ɔsːiemoɡlobina",
+  "ossificare": "osːifikare",
+  "ossificata": "osːifikata",
+  "ossificate": "osːifikate",
+  "ossificati": "osːifikati",
+  "ossificato": "osːifikato",
+  "ossigenare": "osːidʒenare",
+  "ossigenata": "osːidʒenata",
+  "ossigenate": "osːidʒenate",
+  "ossigenati": "osːidʒenati",
+  "ossigenatore": "osːidʒenatore",
+  "ossigenatori": "osːidʒenatori",
+  "ossigenista": "osːidʒenista",
+  "ossigeno": "osːidʒeno",
+  "ossigenoterapia": "osːidʒenoterapia",
+  "ossimetria": "osːimetria",
+  "ossimetro": "osːimetro",
+  "ossimori": "osːimori",
+  "ossimoro": "osːimoro",
+  "ossimoro_2": "osːimɔro",
+  "ossitocia": "osːitotʃia",
+  "ossitocina": "osːitotʃina",
+  "ossitono": "osːitono",
+  "ossiuriasi": "osːiuriazi",
+  "ossiuro": "osːiuro",
+  "osso": "ɔsːo",
+  "ossobuco": "osːobuko",
+  "ossobuco_2": "ɔsːobuko",
+  "ossolano": "osːolano",
+  "ossuto": "osːuto",
+  "ostacolare": "ostakolare",
+  "ostacolato": "ostakolato",
+  "ostacoli": "ostakoli",
+  "ostacolista": "ostakolista",
+  "ostacoliste": "ostakoliste",
+  "ostacolisti": "ostakolisti",
+  "ostacolo": "ostakolo",
+  "ostaggi": "ostadːʒi",
+  "ostaggio": "ostadːʒo",
+  "ostante": "ostante",
+  "ostare": "ostare",
+  "ostativa": "ostative",
+  "ostative": "ostativa",
+  "ostativi": "ostativi",
+  "ostativo": "ostativo",
+  "oste": "ɔste",
+  "osteggiamento": "ostedːʒamento",
+  "osteggiare": "ostedːʒare",
+  "osteggiato": "ostedːʒato",
+  "osteite": "osteite",
+  "osteitti": "osteitːi",
+  "ostello": "ostɛlːo",
+  "ostendere": "ostɛndere",
+  "ostensibile": "ostensibile",
+  "ostensibili": "ostensibili",
+  "ostensione": "ostensjone",
+  "ostensori": "ostensɔri",
+  "ostensorio": "ostensɔrjo",
+  "ostentare": "ostentare",
+  "ostentato": "ostentato",
+  "ostentazione": "ostentatsjone",
+  "osteoartrite": "ɔsteoartrite",
+  "osteoartriti": "ɔsteoartriti",
+  "osteoblasto": "osteoblasto",
+  "osteocalcina": "osteokaltʃina",
+  "osteologia": "osteolodʒia",
+  "osteologo": "osteɔloɡo",
+  "osteomielite": "ɔsteomielite",
+  "osteomieliti": "ɔsteomieliti",
+  "osteopata": "osteɔpata",
+  "osteopatia": "osteopatia",
+  "osteoplastica": "osteoplastika",
+  "osteoplastiche": "osteoplastike",
+  "osteoporosi": "ɔsteoporozi",
+  "osteoporosi_2": "ɔsteoporɔzi",
+  "osteosarcoma": "ɔsteosarkɔma",
+  "osteosarcomi": "ɔsteosarkɔmi",
+  "osteospermo": "osteospɛrmo",
+  "osteria": "osteria",
+  "osterie": "osterie",
+  "osteriggio": "osteridːʒo",
+  "osterlicchi": "osterlikːi",
+  "ostessa": "ostesːa",
+  "ostessa_2": "ɔstesːa",
+  "ostesse": "ɔstesːe",
+  "ostetrica": "ostɛtrika",
+  "ostetricia": "ostetritʃa",
+  "ostetrico": "ostɛtriko",
+  "ostia": "ɔstja",
+  "ostiario": "ostjarjo",
+  "ostichezza": "ostiketːsa",
+  "ostico": "ɔstiko",
+  "ostiense": "ostjɛnse",
+  "ostile": "ostile",
+  "ostili": "ostili",
+  "ostilissima": "ostilisːima",
+  "ostilissime": "ostilisːime",
+  "ostilissimi": "ostilisːimi",
+  "ostilissimo": "ostilisːimo",
+  "ostilità": "ostilita",
+  "ostilmente": "ostilmente",
+  "ostinare": "ostinare",
+  "ostinarsi": "ostinarsi",
+  "ostinata": "ostinata",
+  "ostinatamente": "ostinatamente",
+  "ostinate": "ostinate",
+  "ostinati": "ostinati",
+  "ostinato": "ostinato",
+  "ostinazione": "ostinatsjone",
+  "ostinazioni": "ostinatsjoni",
+  "ostracismi": "ostratʃizmi",
+  "ostracismo": "ostratʃizmo",
+  "ostrica": "ɔstrika",
+  "ostricaia": "ostrikaja",
+  "ostricaio": "ostrikajo",
+  "ostriche": "ɔstrike",
+  "ostricoltura": "ostrikoltura",
+  "ostricolture": "ostrikolture",
+  "ostro": "ɔstro",
+  "ostrogotico": "ostroɡɔtiko",
+  "ostrogoto": "ostroɡɔto",
+  "ostruimento": "ostruimento",
+  "ostruire": "ostruire",
+  "ostruito": "ostruito",
+  "ostruzione": "ostrutsjone",
+  "ostruzionismo": "ostrutːsjonizmo",
+  "otaku": "otaku",
+  "otalgia": "otaldʒia",
+  "otarda": "otarda",
+  "otaria": "otarja",
+  "otaride": "otaride",
+  "otaridi": "otaridi",
+  "otidide": "otidide",
+  "otididi": "otididi",
+  "otidifaba": "otidifaba",
+  "otite": "otite",
+  "otoconio": "otokɔnjo",
+  "otologica": "otolɔdʒika",
+  "otologiche": "otolɔdʒike",
+  "otologici": "otolɔdʒitʃi",
+  "otologico": "otolɔdʒiko",
+  "otoplastica": "otoplastika",
+  "otoplastiche": "otoplastike",
+  "otorinolaringoiatra": "otorinolariɲɡojatra",
+  "otorinolaringoiatria": "otorinolariɲɡojatria",
+  "otoscopi": "otoskɔpi",
+  "otoscopia": "otoskɔpja",
+  "otoscopica": "otoskɔpika",
+  "otoscopiche": "otoskɔpika",
+  "otoscopici": "otoskɔpitʃi",
+  "otoscopico": "otoskɔpiko",
+  "otoscopie": "otoskɔpje",
+  "otoscopio": "otoskɔpjo",
+  "ototossica": "ototɔsːika",
+  "ototossiche": "ototɔsːike",
+  "ototossici": "ototɔsːitʃi",
+  "ototossicità": "ototosːitʃita",
+  "ototossico": "ototɔsːiko",
+  "otre": "otre",
+  "otri": "ɔtri",
+  "otta": "ɔtːa",
+  "ottacordo": "otːakɔrdo",
+  "ottaedrico": "otːaɛdriko",
+  "ottaedro": "otːaɛdro",
+  "ottagonale": "otːaɡonale",
+  "ottagono": "otːaɡono",
+  "ottale": "otːale",
+  "ottalmologia": "otːalmolodʒia",
+  "ottalmologie": "otːalmolodʒie",
+  "ottangolo": "otːanɡolo",
+  "ottano": "otːano",
+  "ottanta": "otːanta",
+  "ottantacinque": "otːantatʃinkwe",
+  "ottantamila": "otːantamila",
+  "ottantanove": "otːantanɔve",
+  "ottante": "otːante",
+  "ottantenne": "otːantɛnːe",
+  "ottanti": "otːanti",
+  "ottantotto": "otːantɔtːo",
+  "ottantuno": "otːantuno",
+  "ottativa": "otːativa",
+  "ottative": "otːative",
+  "ottativi": "otːativi",
+  "ottativo": "otːativo",
+  "ottava": "otːava",
+  "ottave": "otːave",
+  "ottavi": "otːavi",
+  "ottavia": "otːavja",
+  "ottavino": "otːavino",
+  "ottavio": "otːavjo",
+  "ottavo": "otːavo",
+  "ottemperare": "otːemperare",
+  "ottemperato": "otːemperato",
+  "ottenebrare": "otːenebrare",
+  "ottenebrarsi": "otːenebrarsi",
+  "ottenebrata": "otːenebrata",
+  "ottenebrate": "otːenebrate",
+  "ottenebrati": "otːenebrati",
+  "ottenebrato": "otːenebrato",
+  "ottenebrazione": "otːenebratːsjone",
+  "ottenente": "otːenente",
+  "ottenere": "otːenere",
+  "ottenibile": "otːenibile",
+  "ottenibili": "otːenibili",
+  "ottenimenti": "otːenimenti",
+  "ottenimento": "otːenimento",
+  "ottenne": "otːenːe",
+  "ottenne_2": "otːɛnːe",
+  "ottentotto": "otːentɔtːo",
+  "ottenuto": "otːenuto",
+  "ottetto": "otːetːo",
+  "ottica": "ɔtːika",
+  "ottiche": "ɔtːike",
+  "ottici": "ɔtːitʃi",
+  "ottico": "ɔtːiko",
+  "ottima": "ɔtːima",
+  "ottimale": "otːimale",
+  "ottimali": "otːimali",
+  "ottimalizzare": "otːimalidːʒare",
+  "ottimamente": "otːimamente",
+  "ottimare": "otːimare",
+  "ottimate": "otːimate",
+  "ottimato": "otːimato",
+  "ottime": "ɔtːime",
+  "ottimi": "ɔtːimi",
+  "ottimismi": "otːimizmi",
+  "ottimismo": "otːimizmo",
+  "ottimista": "otːimista",
+  "ottimiste": "otːimiste",
+  "ottimisti": "otːimisti",
+  "ottimistico": "otːimistiko",
+  "ottimizzabile": "otːimidːzabile",
+  "ottimizzabili": "otːimidːzabili",
+  "ottimizzante": "otːimidːʒante",
+  "ottimizzare": "otːimidːzare",
+  "ottimizzare_2": "otːimidːʒare",
+  "ottimizzata": "otːimidːʒata",
+  "ottimizzate": "otːimidːʒate",
+  "ottimizzati": "otːimidːʒati",
+  "ottimizzato": "otːimidːzato",
+  "ottimizzato_2": "otːimidːʒato",
+  "ottimizzazione": "otːimidːʒatsjone",
+  "ottimizzazioni": "otːimidːʒatsjoni",
+  "ottimo": "ɔtːimo",
+  "otto": "ɔtːo",
+  "ottobrare": "otːobrare",
+  "ottobre": "otːobre",
+  "ottocentesco": "otːotʃentesko",
+  "ottocento": "otːotʃɛnto",
+  "ottocentomila": "otːotʃɛntomila",
+  "ottodontide": "otktodɔntide",
+  "ottodontidi": "otktodɔntidi",
+  "ottomana": "otːomana",
+  "ottomano": "otːomano",
+  "ottomila": "otːomila",
+  "ottonaia": "otːonaja",
+  "ottonaio": "otːonajo",
+  "ottonare": "otːonare",
+  "ottone": "otːone",
+  "ottone_2": "ɔtːɔne",
+  "ottoni": "otːoni",
+  "ottoni_2": "ɔtːɔni",
+  "ottovolante": "otːovolante",
+  "ottovolante_2": "ɔtːovolante",
+  "ottovolanti": "otːovolanti",
+  "ottriare": "otːriare",
+  "ottundere": "otːundere",
+  "otturare": "otːurare",
+  "otturatore": "otːuratore",
+  "otturatori": "otːuratorei",
+  "otturatori_2": "otːuratori",
+  "otturazione": "otːuratsjone",
+  "otturazione_2": "otːuratːsjone",
+  "ottusamente": "otːuzamente",
+  "ottusangolo": "otːuzanɡolo",
+  "ottusità": "otːuzita",
+  "ottuso": "otːuzo",
+  "outsider": "awtsajder",
+  "ouverture": "uvertur",
+  "ova": "ɔva",
+  "ovaia": "ovaja",
+  "ovaie": "ovaje",
+  "ovale": "ovale",
+  "ovali": "ovali",
+  "ovario": "ovarjo",
+  "ovarite": "ovarite",
+  "ovatta": "ovatːa",
+  "ovattato": "ovatːato",
+  "ovazione": "ovatːsjone",
+  "ove": "ove",
+  "ovest": "ɔvest",
+  "ovest_2": "ɔvɛst",
+  "ovetto": "ovetːo",
+  "ovidepone": "ovidepone",
+  "ovideponemmo": "ovideponemːo",
+  "ovideponendo": "ovideponendo",
+  "ovideponente": "ovideponente",
+  "ovideponesse": "ovideponesːe",
+  "ovideponessero": "ovideponesːero",
+  "ovideponessi": "ovideponesːi",
+  "ovideponessimo": "ovideponesːimo",
+  "ovideponeste": "ovideponːeste",
+  "ovideponesti": "ovideponesti",
+  "ovideponete": "ovideponete",
+  "ovideponeva": "ovideponeva",
+  "ovideponevamo": "ovideponevamo",
+  "ovideponevano": "ovideponevano",
+  "ovideponevate": "ovideponevate",
+  "ovideponevi": "ovideponevi",
+  "ovideponevo": "ovideponevo",
+  "ovideponga": "ovideponɡa",
+  "ovidepongano": "ovideponɡano",
+  "ovidepongo": "ovideponɡo",
+  "ovidepongono": "ovideponɡono",
+  "ovideponi": "ovideponi",
+  "ovideponiamo": "ovideponjamo",
+  "ovideponiate": "ovideponjate",
+  "ovideporrà": "porːa",
+  "ovideporrai": "ovideporːai",
+  "ovideporranno": "ovideporːanːo",
+  "ovideporre": "ovideporːe",
+  "ovideporrebbe": "ovideporːebːe",
+  "ovideporrebbero": "ovideporːebːero",
+  "ovideporrei": "ovideporːei",
+  "ovideporremmo": "ovideporːemo",
+  "ovideporremo": "ovideporːemo",
+  "ovideporreste": "ovideporːeste",
+  "ovideporresti": "ovideporːesti",
+  "ovideporrete": "ovideporːete",
+  "ovideporrò": "ovideporːo",
+  "ovidepose": "ovidepose",
+  "ovideposero": "ovideposero",
+  "ovideposi": "ovideposi",
+  "ovideposta": "ovideposta",
+  "ovideposte": "ovideposte",
+  "ovideposti": "ovideposti",
+  "ovideposto": "ovideposto",
+  "ovidotti": "ovidotːi",
+  "ovidotto": "ovidotːo",
+  "ovidutti": "ovidutːi",
+  "ovidutto": "ovidutːo",
+  "oviforme": "oviforme",
+  "oviformi": "oviformi",
+  "ovile": "ovile",
+  "ovina": "ovina",
+  "ovine": "ovine",
+  "ovini": "ovini",
+  "ovino": "ovino",
+  "ovipara": "ovipara",
+  "ovipare": "ovipare",
+  "ovipari": "ovipari",
+  "oviparità": "oviparita",
+  "oviparo": "oviparo",
+  "ovo": "ɔvo",
+  "ovodepone": "ovodepone",
+  "ovodeponemmo": "ovodeponemːo",
+  "ovodeponendo": "ovodeponendo",
+  "ovodeponente": "ovodeponente",
+  "ovodeponesse": "ovodeponesːe",
+  "ovodeponessero": "ovodeponesːero",
+  "ovodeponessi": "ovodeponesːi",
+  "ovodeponessimo": "ovodeponesːimo",
+  "ovodeponeste": "ovodeponːeste",
+  "ovodeponesti": "ovodeponesti",
+  "ovodeponete": "ovodeponete",
+  "ovodeponeva": "ovodeponeva",
+  "ovodeponevamo": "ovodeponevamo",
+  "ovodeponevano": "ovodeponevano",
+  "ovodeponevate": "ovodeponevate",
+  "ovodeponevi": "ovodeponevi",
+  "ovodeponevo": "ovodeponevo",
+  "ovodeponga": "ovodeponɡa",
+  "ovodepongano": "ovodeponɡano",
+  "ovodepongo": "ovodeponɡo",
+  "ovodepongono": "ovodeponɡono",
+  "ovodeponi": "ovodeponi",
+  "ovodeponiamo": "ovodeponjamo",
+  "ovodeponiate": "ovodeponjate",
+  "ovodeporrà": "porːa",
+  "ovodeporrai": "ovodeporːai",
+  "ovodeporranno": "ovodeporːanːo",
+  "ovodeporre": "ovodeporːe",
+  "ovodeporrebbe": "ovodeporːebːe",
+  "ovodeporrebbero": "ovodeporːebːero",
+  "ovodeporrei": "ovodeporːei",
+  "ovodeporremmo": "ovodeporːemo",
+  "ovodeporremo": "ovodeporːemo",
+  "ovodeporreste": "ovodeporːeste",
+  "ovodeporresti": "ovodeporːesti",
+  "ovodeporrete": "ovodeporːete",
+  "ovodeporrò": "ovodeporːo",
+  "ovodepose": "ovodepose",
+  "ovodeposero": "ovodeposero",
+  "ovodeposi": "ovodeposi",
+  "ovodeposta": "ovodeposta",
+  "ovodeposte": "ovodeposte",
+  "ovodeposti": "ovodeposti",
+  "ovodeposto": "ovodeposto",
+  "ovodonazione": "ɔvodonatsjone",
+  "ovodonazioni": "ɔvodonatsjone",
+  "ovogamia": "ovoɡamia"
 }

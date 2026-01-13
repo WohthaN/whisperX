@@ -1,1527 +1,527 @@
 {
-  "appartenendo": [
-    "apːartenendo"
-  ],
-  "appartenente": [
-    "apːartenante",
-    "apːartenente",
-    "apːartenɛnte"
-  ],
-  "appartenenti": [
-    "apːartenenti"
-  ],
-  "appartenenza": [
-    "apːartenɛntsa"
-  ],
-  "appartenere": [
-    "apːartenere",
-    "apːartɛnere"
-  ],
-  "appartenesse": [
-    "apːartenesːe"
-  ],
-  "appartenessero": [
-    "apːartenesːero"
-  ],
-  "appartenessi": [
-    "apːartenesːi"
-  ],
-  "appartenessimo": [
-    "apːartenesːimo"
-  ],
-  "apparteneste": [
-    "apːarteneste"
-  ],
-  "appartenesti": [
-    "apːartenesti"
-  ],
-  "appartenete": [
-    "apːartenete"
-  ],
-  "apparteneva": [
-    "apːarteneva"
-  ],
-  "appartenevamo": [
-    "apːartenevamo"
-  ],
-  "appartenevano": [
-    "apːartenevano"
-  ],
-  "appartenevate": [
-    "apːartenːevate"
-  ],
-  "appartenevi": [
-    "apːartenevi"
-  ],
-  "appartenevo": [
-    "apːartenevo"
-  ],
-  "appartenga": [
-    "apːartenɡa"
-  ],
-  "appartengano": [
-    "apːartenino"
-  ],
-  "appartengo": [
-    "apːartenɡo"
-  ],
-  "appartengono": [
-    "apːartenano"
-  ],
-  "apparteniamo": [
-    "apːartenjamo"
-  ],
-  "apparteniate": [
-    "apːartenjate"
-  ],
-  "appartenne": [
-    "apːartenːe"
-  ],
-  "appartennero": [
-    "apːartenːero"
-  ],
-  "appartenni": [
-    "apːartenːi"
-  ],
-  "appartenuta": [
-    "apːartenuta"
-  ],
-  "appartenute": [
-    "apːartenute"
-  ],
-  "appartenuti": [
-    "apːartenuti"
-  ],
-  "appartenuto": [
-    "apːartenuto"
-  ],
-  "apparterà": [
-    "apːartera"
-  ],
-  "apparterai": [
-    "apːarterai"
-  ],
-  "apparteranno": [
-    "apːarteranːo"
-  ],
-  "apparterebbe": [
-    "apːarterebːe"
-  ],
-  "apparterebbero": [
-    "apːarterebːero"
-  ],
-  "apparterei": [
-    "apːarterei"
-  ],
-  "apparteremmo": [
-    "apːarteremːo"
-  ],
-  "apparteremo": [
-    "apːarteremo"
-  ],
-  "appartereste": [
-    "apːartereste"
-  ],
-  "apparteresti": [
-    "apːarteresti"
-  ],
-  "apparterete": [
-    "apːarterete"
-  ],
-  "apparterò": [
-    "apːartero"
-  ],
-  "apparterrà": [
-    "apːarterːa"
-  ],
-  "apparterrai": [
-    "apːarterːai"
-  ],
-  "apparterranno": [
-    "apːarterːanːo"
-  ],
-  "apparterrebbe": [
-    "apːarterːebːe"
-  ],
-  "apparterrebbero": [
-    "apːarterːebːero"
-  ],
-  "apparterrei": [
-    "apːarterːei"
-  ],
-  "apparterremmo": [
-    "apːarterːemːo"
-  ],
-  "apparterremo": [
-    "apːarterːemo"
-  ],
-  "apparterreste": [
-    "apːarterːeste"
-  ],
-  "apparterresti": [
-    "apːarterːesti"
-  ],
-  "apparterrete": [
-    "apːarterːete"
-  ],
-  "apparterrò": [
-    "apːarterːo"
-  ],
-  "apparti": [
-    "apːarti"
-  ],
-  "appartiamo": [
-    "apːartjamo"
-  ],
-  "appartiate": [
-    "apːartjate"
-  ],
-  "appartiene": [
-    "apːartjene"
-  ],
-  "appartieni": [
-    "apːartjeni"
-  ],
-  "appartino": [
-    "apːartino"
-  ],
-  "apparto": [
-    "apːarto"
-  ],
-  "appartò": [
-    "apːarto"
-  ],
-  "appassimento": [
-    "apːasːimento"
-  ],
-  "appassiona": [
-    "apːasːjona"
-  ],
-  "appassionai": [
-    "apːasːjonai"
-  ],
-  "appassionammo": [
-    "apːasːjonamːo"
-  ],
-  "appassionando": [
-    "apːasːjonando"
-  ],
-  "appassionano": [
-    "apːasːjonano"
-  ],
-  "appassionante": [
-    "apːasːjonante"
-  ],
-  "appassionanti": [
-    "apːasːjonanti"
-  ],
-  "appassionare": [
-    "apːasːjonare"
-  ],
-  "appassionarono": [
-    "apːasːjonarono"
-  ],
-  "appassionarsi": [
-    "apːasːjonarsi"
-  ],
-  "appassionasse": [
-    "apːasːjonasːe"
-  ],
-  "appassionassero": [
-    "apːasːjonasːero"
-  ],
-  "appassionassi": [
-    "apːasːjonasːi"
-  ],
-  "appassionassimo": [
-    "apːasːjonasːimo"
-  ],
-  "appassionaste": [
-    "apːasːjonaste"
-  ],
-  "appassionasti": [
-    "apːasːjonasti"
-  ],
-  "appassionata": [
-    "apːasːjonata"
-  ],
-  "appassionatamente": [
-    "apːasːjonatamente"
-  ],
-  "appassionate": [
-    "apːasːjonate"
-  ],
-  "appassionati": [
-    "apːasːjonati"
-  ],
-  "appassionato": [
-    "apːasːjonato"
-  ],
-  "appassionava": [
-    "apːasːjonava"
-  ],
-  "appassionavamo": [
-    "apːasːjonavamo"
-  ],
-  "appassionavano": [
-    "apːasːjonavano"
-  ],
-  "appassionavate": [
-    "apːasːjonavate"
-  ],
-  "appassionavi": [
-    "apːasːjonavi"
-  ],
-  "appassionavo": [
-    "apːasːjonavo"
-  ],
-  "appassionerà": [
-    "apːasːjonera"
-  ],
-  "appassionerai": [
-    "apːasːjonerai"
-  ],
-  "appassioneranno": [
-    "apːasːjoneranːo"
-  ],
-  "appassionerebbe": [
-    "apːasːjonerebːe"
-  ],
-  "appassionerebbero": [
-    "apːasːjonerebːero"
-  ],
-  "appassionerei": [
-    "apːasːjonerei"
-  ],
-  "appassioneremmo": [
-    "apːasːjoneremːo"
-  ],
-  "appassioneremo": [
-    "apːasːjoneremo"
-  ],
-  "appassionereste": [
-    "apːasːjonereste"
-  ],
-  "appassioneresti": [
-    "apːasːjoneresti"
-  ],
-  "appassionerete": [
-    "apːasːjonerete"
-  ],
-  "appassionerò": [
-    "apːasːjonero"
-  ],
-  "appassioni": [
-    "apːasːjoni"
-  ],
-  "appassioniamo": [
-    "apːasːjonjamo"
-  ],
-  "appassioniate": [
-    "apːasːjonjate"
-  ],
-  "appassionino": [
-    "apːasːjonino"
-  ],
-  "appassiono": [
-    "apːasːjono"
-  ],
-  "appassionò": [
-    "apːasːjono"
-  ],
-  "appassire": [
-    "apːasːire"
-  ],
-  "appassirsi": [
-    "apːasːirsi"
-  ],
-  "appassito": [
-    "apːasːito"
-  ],
-  "appasta": [
-    "apːasta"
-  ],
-  "appastai": [
-    "apːastai"
-  ],
-  "appastammo": [
-    "apːastamːo"
-  ],
-  "appastando": [
-    "apːastando"
-  ],
-  "appastano": [
-    "apːastano"
-  ],
-  "appastante": [
-    "apːastante"
-  ],
-  "appastare": [
-    "apːastare"
-  ],
-  "appastarono": [
-    "apːastarono"
-  ],
-  "appastasse": [
-    "apːastasːe"
-  ],
-  "appastassero": [
-    "apːastasːero"
-  ],
-  "appastassi": [
-    "apːastasːi"
-  ],
-  "appastassimo": [
-    "apːastasːimo"
-  ],
-  "appastaste": [
-    "apːastaste"
-  ],
-  "appastasti": [
-    "apːastasti"
-  ],
-  "appastata": [
-    "apːastata"
-  ],
-  "appastate": [
-    "apːastate"
-  ],
-  "appastati": [
-    "apːastati"
-  ],
-  "appastato": [
-    "apːastato"
-  ],
-  "appastava": [
-    "apːastava"
-  ],
-  "appastavamo": [
-    "apːastavamo"
-  ],
-  "appastavano": [
-    "apːastavano"
-  ],
-  "appastavate": [
-    "apːastavate"
-  ],
-  "appastavi": [
-    "apːastavi"
-  ],
-  "appastavo": [
-    "apːastavo"
-  ],
-  "appasterà": [
-    "apːastera"
-  ],
-  "appasterai": [
-    "apːasterai"
-  ],
-  "appasteranno": [
-    "apːasteranːo"
-  ],
-  "appasterebbe": [
-    "apːasterebːe"
-  ],
-  "appasterebbero": [
-    "apːasterebːero"
-  ],
-  "appasterei": [
-    "apːasterei"
-  ],
-  "appasteremmo": [
-    "apːasteremːo"
-  ],
-  "appasteremo": [
-    "apːasteremo"
-  ],
-  "appastereste": [
-    "apːastereste"
-  ],
-  "appasteresti": [
-    "apːasteresti"
-  ],
-  "appasterete": [
-    "apːasterete"
-  ],
-  "appasterò": [
-    "apːastero"
-  ],
-  "appasti": [
-    "apːasti"
-  ],
-  "appastiamo": [
-    "apːastjamo"
-  ],
-  "appastiate": [
-    "apːastjate"
-  ],
-  "appastino": [
-    "apːastino"
-  ],
-  "appasto": [
-    "apːasto"
-  ],
-  "appastò": [
-    "apːasto"
-  ],
-  "appellare": [
-    "apːelːare"
-  ],
-  "appellarsi": [
-    "apːelːarsi"
-  ],
-  "appellativo": [
-    "apːelːativo"
-  ],
-  "appelli": [
-    "apːɛlːi"
-  ],
-  "appello": [
-    "apːɛlːo",
-    "apːɛlːɔ"
-  ],
-  "appena": [
-    "apːena",
-    "apːɛna"
-  ],
-  "appendere": [
-    "apːɛndere"
-  ],
-  "appendice": [
-    "apːenditʃe"
-  ],
-  "appendici": [
-    "apːenditʃi"
-  ],
-  "appendicite": [
-    "apːenditʃite"
-  ],
-  "appendiciti": [
-    "apːenditʃiti"
-  ],
-  "appendicolare": [
-    "apːendikolare"
-  ],
-  "appendicolari": [
-    "apːendikolari"
-  ],
-  "appendino": [
-    "apːendino"
-  ],
-  "appennellare": [
-    "apːenːelːare"
-  ],
-  "appenninico": [
-    "apːenːiniko"
-  ],
-  "appercezione": [
-    "apːertʃetːsjone"
-  ],
-  "appercezioni": [
-    "apːertʃetːsjoni"
-  ],
-  "appertizza": [
-    "apːertidːza"
-  ],
-  "appertizzai": [
-    "apːertidːzai"
-  ],
-  "appertizzammo": [
-    "apːertidːzamːo"
-  ],
-  "appertizzando": [
-    "apːertidːzando"
-  ],
-  "appertizzano": [
-    "apːertidːzano"
-  ],
-  "appertizzante": [
-    "apːertidːzante"
-  ],
-  "appertizzare": [
-    "apːertidːzare"
-  ],
-  "appertizzarono": [
-    "apːertidːzarono"
-  ],
-  "appertizzasse": [
-    "apːertidːzasːe"
-  ],
-  "appertizzassero": [
-    "apːertidːzasːero"
-  ],
-  "appertizzassi": [
-    "apːertidːzasːi"
-  ],
-  "appertizzassimo": [
-    "apːertidːzasːimo"
-  ],
-  "appertizzaste": [
-    "apːertidːzaste"
-  ],
-  "appertizzasti": [
-    "apːertidːzasti"
-  ],
-  "appertizzata": [
-    "apːertidːzata"
-  ],
-  "appertizzate": [
-    "apːertidːzate"
-  ],
-  "appertizzati": [
-    "apːertidːzati"
-  ],
-  "appertizzato": [
-    "apːertidːzato"
-  ],
-  "appertizzava": [
-    "apːertidːzava"
-  ],
-  "appertizzavamo": [
-    "apːertidːzavamo"
-  ],
-  "appertizzavano": [
-    "apːertidːzavano"
-  ],
-  "appertizzavate": [
-    "apːertidːzavate"
-  ],
-  "appertizzavi": [
-    "apːertidːzavi"
-  ],
-  "appertizzavo": [
-    "apːertidːzavo"
-  ],
-  "appertizzerà": [
-    "apːertidːzera"
-  ],
-  "appertizzerai": [
-    "apːertidːzerai"
-  ],
-  "appertizzeranno": [
-    "apːertidːzeranːo"
-  ],
-  "appertizzerebbe": [
-    "apːertidːzerebːe"
-  ],
-  "appertizzerebbero": [
-    "apːertidːzerebːero"
-  ],
-  "appertizzerei": [
-    "apːertidːzerei"
-  ],
-  "appertizzeremmo": [
-    "apːertidːzeremːo"
-  ],
-  "appertizzeremo": [
-    "apːertidːzeremo"
-  ],
-  "appertizzereste": [
-    "apːertidːzereste"
-  ],
-  "appertizzeresti": [
-    "apːertidːzeresti"
-  ],
-  "appertizzerete": [
-    "apːertidːzerete"
-  ],
-  "appertizzerò": [
-    "apːertidːzero"
-  ],
-  "appertizzi": [
-    "apːertidːzi"
-  ],
-  "appertizziamo": [
-    "apːertidːzjamo"
-  ],
-  "appertizziate": [
-    "apːertidːzjate"
-  ],
-  "appertizzino": [
-    "apːertidːzino"
-  ],
-  "appertizzo": [
-    "apːertidːzo"
-  ],
-  "appertizzò": [
-    "apːertidːzo"
-  ],
-  "appesantire": [
-    "apːesantire"
-  ],
-  "appesantito": [
-    "apːesantito"
-  ],
-  "appeso": [
-    "apːeso"
-  ],
-  "appestante": [
-    "apːestante"
-  ],
-  "appestare": [
-    "apːestare"
-  ],
-  "appestato": [
-    "apːestato"
-  ],
-  "appetendo": [
-    "apːetendo"
-  ],
-  "appetente": [
-    "apːetente"
-  ],
-  "appetenti": [
-    "apːetenti"
-  ],
-  "appetibile": [
-    "apːetibile"
-  ],
-  "appetibili": [
-    "apːetibili"
-  ],
-  "appetire": [
-    "apːetire"
-  ],
-  "appetita": [
-    "apːetita"
-  ],
-  "appetiti": [
-    "apːetiti",
-    "apːɛtiti"
-  ],
-  "appetito": [
-    "apːetito",
-    "apːɛtito"
-  ],
-  "appetitosa": [
-    "apːetitosa",
-    "apːetitoza"
-  ],
-  "appetitose": [
-    "apːetitose",
-    "apːetitoze"
-  ],
-  "appetitosi": [
-    "apːetitosi",
-    "apːetitozoi"
-  ],
-  "appetitoso": [
-    "apːetitoso",
-    "apːetitozo"
-  ],
-  "appetizione": [
-    "apːetitːsjone"
-  ],
-  "appia": [
-    "apːja"
-  ],
-  "appianare": [
-    "apːjanare"
-  ],
-  "appiattente": [
-    "apːjatːente"
-  ],
-  "appiattire": [
-    "apːjatːire"
-  ],
-  "appiattito": [
-    "apːjatːito"
-  ],
-  "appiccante": [
-    "apːikːante"
-  ],
-  "appiccare": [
-    "apːikːare"
-  ],
-  "appiccarsi": [
-    "apːikːarsi"
-  ],
-  "appiccato": [
-    "apːikːato"
-  ],
-  "appiccicante": [
-    "apːitːʃikante"
-  ],
-  "appiccicare": [
-    "apːitːʃikare"
-  ],
-  "appiccicarsi": [
-    "apːitːʃikarsi"
-  ],
-  "appiccicaticcio": [
-    "apːitːʃikatitːʃo"
-  ],
-  "appiccicato": [
-    "apːitːʃikato"
-  ],
-  "appiccicoso": [
-    "apːitʃikoso",
-    "apːitːʃikoso",
-    "apːitːʃikozo"
-  ],
-  "appiedare": [
-    "apːjedare"
-  ],
-  "appigionare": [
-    "apːidʒonare"
-  ],
-  "appiglio": [
-    "apːiʎo"
-  ],
-  "appio": [
-    "apːjo"
-  ],
-  "appioppa": [
-    "apːjopːa"
-  ],
-  "appioppai": [
-    "apːjopːai"
-  ],
-  "appioppammo": [
-    "apːjopːamːo"
-  ],
-  "appioppando": [
-    "apːjopːando"
-  ],
-  "appioppano": [
-    "apːjopːano"
-  ],
-  "appioppante": [
-    "apːjopːante"
-  ],
-  "appioppare": [
-    "apːiopːare",
-    "apːjopːare"
-  ],
-  "appiopparono": [
-    "apːjopːarono"
-  ],
-  "appioppasse": [
-    "apːjopːasːe"
-  ],
-  "appioppassero": [
-    "apːjopːasːero"
-  ],
-  "appioppassi": [
-    "apːjopːasːi"
-  ],
-  "appioppassimo": [
-    "apːjopːasːimo"
-  ],
-  "appioppaste": [
-    "apːjopːaste"
-  ],
-  "appioppasti": [
-    "apːjopːasti"
-  ],
-  "appioppata": [
-    "apːjopːata"
-  ],
-  "appioppate": [
-    "apːjopːate"
-  ],
-  "appioppati": [
-    "apːjopːati"
-  ],
-  "appioppato": [
-    "apːjopːato"
-  ],
-  "appioppava": [
-    "apːjopːava"
-  ],
-  "appioppavamo": [
-    "apːjopːavamo"
-  ],
-  "appioppavano": [
-    "apːjopːavano"
-  ],
-  "appioppavate": [
-    "apːjopːavate"
-  ],
-  "appioppavi": [
-    "apːjopːavi"
-  ],
-  "appioppavo": [
-    "apːjopːavo"
-  ],
-  "appiopperà": [
-    "apːjopːera"
-  ],
-  "appiopperai": [
-    "apːjopːerai"
-  ],
-  "appiopperanno": [
-    "apːjopːeranːo"
-  ],
-  "appiopperebbe": [
-    "apːjopːerebːe"
-  ],
-  "appiopperebbero": [
-    "apːjopːerebːero"
-  ],
-  "appiopperei": [
-    "apːjopːerei"
-  ],
-  "appiopperemmo": [
-    "apːjopːeremːo"
-  ],
-  "appiopperemo": [
-    "apːjopːeremo"
-  ],
-  "appioppereste": [
-    "apːjopːereste"
-  ],
-  "appiopperesti": [
-    "apːjopːeresti"
-  ],
-  "appiopperete": [
-    "apːjopːerete"
-  ],
-  "appiopperò": [
-    "apːjopːero"
-  ],
-  "appioppi": [
-    "apːjopːi"
-  ],
-  "appioppiamo": [
-    "apːjopːjamo"
-  ],
-  "appioppiate": [
-    "apːjopːjate"
-  ],
-  "appioppino": [
-    "apːjopːino"
-  ],
-  "appioppo": [
-    "apːjopːo"
-  ],
-  "appioppò": [
-    "apːjopːo"
-  ],
-  "appisolarsi": [
-    "apːizolarsi"
-  ],
-  "applaudente": [
-    "apːlaudente",
-    "apːlawdente"
-  ],
-  "applaudenti": [
-    "apːlawdenti"
-  ],
-  "applaudire": [
-    "apːlaudire",
-    "apːlawdire"
-  ],
-  "applaudita": [
-    "apːlawdita"
-  ],
-  "applaudite": [
-    "apːlawdite"
-  ],
-  "applauditi": [
-    "apːlawditi"
-  ],
-  "applaudito": [
-    "apːlawdito"
-  ],
-  "applausi": [
-    "apːlawzi"
-  ],
-  "applauso": [
-    "apːlauzo",
-    "apːlawzo"
-  ],
-  "applausometro": [
-    "apːlawzɔmetro"
-  ],
-  "applicabile": [
-    "apːlikabile"
-  ],
-  "applicabili": [
-    "apːlikabili"
-  ],
-  "applicante": [
-    "apːlikante"
-  ],
-  "applicare": [
-    "apːlikare"
-  ],
-  "applicarsi": [
-    "apːlikarsi"
-  ],
-  "applicatamente": [
-    "apːlikatamente"
-  ],
-  "applicativo": [
-    "apːlikativo"
-  ],
-  "applicato": [
-    "apːlikato"
-  ],
-  "applicatore": [
-    "apːlikatore"
-  ],
-  "applicatori": [
-    "apːlikatori"
-  ],
-  "applicazione": [
-    "apːlikatsjone",
-    "apːlikatsjɔne"
-  ],
-  "applico": [
-    "apːliko"
-  ],
-  "appo": [
-    "apːo",
-    "apːɔ"
-  ],
-  "appoderare": [
-    "apːoderare"
-  ],
-  "appodiare": [
-    "apːodjare"
-  ],
-  "appoggerà": [
-    "apːodːʒera"
-  ],
-  "appoggerai": [
-    "apːodːʒerai"
-  ],
-  "appoggeranno": [
-    "apːodːʒeranːo"
-  ],
-  "appoggerebbe": [
-    "apːodːʒerebːe"
-  ],
-  "appoggerebbero": [
-    "apːodːʒerebːero"
-  ],
-  "appoggerei": [
-    "apːodːʒerei"
-  ],
-  "appoggeremmo": [
-    "apːodːʒeremːo"
-  ],
-  "appoggeremo": [
-    "apːodːʒeremo"
-  ],
-  "appoggereste": [
-    "apːodːʒereste"
-  ],
-  "appoggeresti": [
-    "apːodːʒeresti"
-  ],
-  "appoggerete": [
-    "apːodːʒerete"
-  ],
-  "appoggerò": [
-    "apːodːʒero"
-  ],
-  "appoggi": [
-    "apːodːʒi"
-  ],
-  "appoggia": [
-    "apːodːʒa"
-  ],
-  "appoggiacapo": [
-    "apːodːʒakapo"
-  ],
-  "appoggiai": [
-    "apːodːʒai"
-  ],
-  "appoggiammo": [
-    "apːodːʒamːo"
-  ],
-  "appoggiamo": [
-    "apːodːʒamo"
-  ],
-  "appoggiando": [
-    "apːodːʒando"
-  ],
-  "appoggiano": [
-    "apːodːʒano"
-  ],
-  "appoggiante": [
-    "apːodːʒante"
-  ],
-  "appoggiare": [
-    "apːodːʒare"
-  ],
-  "appoggiarono": [
-    "apːodːʒarono"
-  ],
-  "appoggiarsi": [
-    "apːodːʒarsi",
-    "apːoɡdʒarsi"
-  ],
-  "appoggiasse": [
-    "apːodːʒasːe"
-  ],
-  "appoggiassero": [
-    "apːodːʒasːero"
-  ],
-  "appoggiassi": [
-    "apːodːʒasːi"
-  ],
-  "appoggiassimo": [
-    "apːodːʒasːimo"
-  ],
-  "appoggiaste": [
-    "apːodːʒaste"
-  ],
-  "appoggiasti": [
-    "apːodːʒasti"
-  ],
-  "appoggiata": [
-    "apːodːʒata"
-  ],
-  "appoggiate": [
-    "apːodːʒate"
-  ],
-  "appoggiati": [
-    "apːodːʒati"
-  ],
-  "appoggiato": [
-    "apːodːʒato"
-  ],
-  "appoggiava": [
-    "apːodːʒava"
-  ],
-  "appoggiavamo": [
-    "apːodːʒavamo"
-  ],
-  "appoggiavano": [
-    "apːodːʒavano"
-  ],
-  "appoggiavate": [
-    "apːodːʒavate"
-  ],
-  "appoggiavi": [
-    "apːodːʒavi"
-  ],
-  "appoggiavo": [
-    "apːodːʒavo"
-  ],
-  "appoggino": [
-    "apːodːʒino"
-  ],
-  "appoggio": [
-    "apːodːʒo",
-    "apːɔdːʒo"
-  ],
-  "appoggiò": [
-    "apːodːʒo"
-  ],
-  "appollaiarsi": [
-    "apːolːajarsi"
-  ],
-  "appollaiato": [
-    "apːolːajato"
-  ],
-  "appone": [
-    "apːone"
-  ],
-  "apponemmo": [
-    "apːonemːo"
-  ],
-  "apponendo": [
-    "apːonendo"
-  ],
-  "apponente": [
-    "apːonente"
-  ],
-  "apponesse": [
-    "apːonesːe"
-  ],
-  "apponessero": [
-    "apːonesːero"
-  ],
-  "apponessi": [
-    "apːonesːi"
-  ],
-  "apponessimo": [
-    "apːonesːimo"
-  ],
-  "apponeste": [
-    "apːonːeste"
-  ],
-  "apponesti": [
-    "apːonesti"
-  ],
-  "apponete": [
-    "apːonete"
-  ],
-  "apponeva": [
-    "apːoneva"
-  ],
-  "apponevamo": [
-    "apːonevamo"
-  ],
-  "apponevano": [
-    "apːonevano"
-  ],
-  "apponevate": [
-    "apːonevate"
-  ],
-  "apponevi": [
-    "apːonevi"
-  ],
-  "apponevo": [
-    "apːonevo"
-  ],
-  "apponga": [
-    "apːonɡa"
-  ],
-  "appongano": [
-    "apːonɡano"
-  ],
-  "appongo": [
-    "apːonɡo"
-  ],
-  "appongono": [
-    "apːonɡono"
-  ],
-  "apponi": [
-    "apːoni"
-  ],
-  "apponiamo": [
-    "apːonjamo"
-  ],
-  "apponiate": [
-    "apːonjate"
-  ],
-  "appontaggi": [
-    "apːontadːʒi"
-  ],
-  "appontaggio": [
-    "apːontadːʒo"
-  ],
-  "appontare": [
-    "apːontare"
-  ],
-  "appoppare": [
-    "apːopːare"
-  ],
-  "apporrà": [
-    "porːa"
-  ],
-  "apporrai": [
-    "apːorːai"
-  ],
-  "apporranno": [
-    "apːorːanːo"
-  ],
-  "apporre": [
-    "apːorːe"
-  ],
-  "apporrebbe": [
-    "apːorːebːe"
-  ],
-  "apporrebbero": [
-    "apːorːebːero"
-  ],
-  "apporrei": [
-    "apːorːei"
-  ],
-  "apporremmo": [
-    "apːorːemo"
-  ],
-  "apporremo": [
-    "apːorːemo"
-  ],
-  "apporreste": [
-    "apːorːeste"
-  ],
-  "apporresti": [
-    "apːorːesti"
-  ],
-  "apporrete": [
-    "apːorːete"
-  ],
-  "apporrò": [
-    "apːorːo"
-  ],
-  "apporta": [
-    "apːorta"
-  ],
-  "apportai": [
-    "apːortai"
-  ],
-  "apportammo": [
-    "apːortamːo"
-  ],
-  "apportando": [
-    "apːortando"
-  ],
-  "apportano": [
-    "apːortano"
-  ],
-  "apportante": [
-    "apːortante"
-  ],
-  "apportare": [
-    "apːortare"
-  ],
-  "apportarono": [
-    "apːortarono"
-  ],
-  "apportasse": [
-    "apːortasːe"
-  ],
-  "apportassero": [
-    "apːortasːero"
-  ],
-  "apportassi": [
-    "apːortasːi"
-  ],
-  "apportassimo": [
-    "apːortasːimo"
-  ],
-  "apportaste": [
-    "apːortaste"
-  ],
-  "apportasti": [
-    "apːortasti"
-  ],
-  "apportate": [
-    "apːortate"
-  ],
-  "apportato": [
-    "apːortato"
-  ],
-  "apportava": [
-    "apːortava"
-  ],
-  "apportavamo": [
-    "apːortavamo"
-  ],
-  "apportavano": [
-    "apːortavano"
-  ],
-  "apportavate": [
-    "apːortavate"
-  ],
-  "apportavi": [
-    "apːortavi"
-  ],
-  "apportavo": [
-    "apːortavo"
-  ],
-  "apporterà": [
-    "apːortera"
-  ],
-  "apporterai": [
-    "apːorterai"
-  ],
-  "apporteranno": [
-    "apːorteranːo"
-  ],
-  "apporterebbe": [
-    "apːorterebːe"
-  ],
-  "apporterebbero": [
-    "apːorterebːero"
-  ],
-  "apporterei": [
-    "apːorterei"
-  ],
-  "apporteremmo": [
-    "apːorteremːo"
-  ],
-  "apporteremo": [
-    "apːorteremo"
-  ],
-  "apportereste": [
-    "apːortereste"
-  ],
-  "apporteresti": [
-    "apːorteresti"
-  ],
-  "apporterete": [
-    "apːorterete"
-  ],
-  "apporterò": [
-    "apːortero"
-  ],
-  "apporti": [
-    "apːorti"
-  ],
-  "apportiamo": [
-    "apːortjamo"
-  ],
-  "apportiate": [
-    "apːortjate"
-  ],
-  "apportino": [
-    "apːortino"
-  ],
-  "apporto": [
-    "apːorto"
-  ],
-  "apportò": [
-    "apːorto"
-  ],
-  "appose": [
-    "apːose"
-  ],
-  "apposero": [
-    "apːosero"
-  ],
-  "apposi": [
-    "apːosi"
-  ],
-  "apposita": [
-    "apːɔzita"
-  ],
-  "appositamente": [
-    "apːozitamente"
-  ],
-  "apposite": [
-    "apːɔzite"
-  ],
-  "appositi": [
-    "apːɔziti"
-  ],
-  "appositiva": [
-    "apːozitiva"
-  ],
-  "appositive": [
-    "apːozitive"
-  ],
-  "appositivi": [
-    "apːozitivi"
-  ],
-  "appositivo": [
-    "apːozitivo"
-  ],
-  "apposito": [
-    "apːɔzito"
-  ],
-  "apposizione": [
-    "apːozitːsjone"
-  ],
-  "apposizioni": [
-    "apːozitːsjoni"
-  ],
-  "apposta": [
-    "apːosta",
-    "apːɔsta"
-  ],
-  "appostamenti": [
-    "apːostamenti"
-  ],
-  "appostamento": [
-    "apːostamento"
-  ],
-  "appostare": [
-    "apːostare"
-  ],
-  "apposte": [
-    "apːoste"
-  ],
-  "apposti": [
-    "apːosti"
-  ],
-  "apposto": [
-    "apːosto"
-  ],
-  "appozzare": [
-    "apːotsːare"
-  ],
-  "appratire": [
-    "apːratire"
-  ],
-  "apprendente": [
-    "apːrɛndente"
-  ],
-  "apprendere": [
-    "apːrɛndere"
-  ],
-  "apprendibile": [
-    "apːrendibile"
-  ],
-  "apprendibili": [
-    "apːrendibili"
-  ],
-  "apprendimenti": [
-    "apːrendimenti"
-  ],
-  "apprendimento": [
-    "apːrendimento"
-  ],
-  "apprendista": [
-    "apːrendista",
-    "apːrɛndista"
-  ],
-  "apprendiste": [
-    "apːrɛndiste"
-  ],
-  "apprendisti": [
-    "apːrɛndisti"
-  ],
-  "apprendo": [
-    "apːrɛndo"
-  ],
-  "apprensibile": [
-    "apːrensibile"
-  ],
-  "apprensibili": [
-    "apːrensibili"
-  ],
-  "apprensione": [
-    "apːrensjone"
-  ],
-  "apprensivo": [
-    "apːrensivo"
-  ],
-  "appreso": [
-    "apːreso",
-    "apːrezo"
-  ],
-  "appressare": [
-    "apːresːare"
-  ],
-  "appressarsi": [
-    "apːresːarsi"
-  ],
-  "appresso": [
-    "apːrɛsːo"
-  ],
-  "appresta": [
-    "apːrɛsta"
-  ],
-  "apprestai": [
-    "apːrɛstai"
-  ],
-  "apprestammo": [
-    "apːrɛstamːo"
-  ],
-  "apprestando": [
-    "apːrɛstando"
-  ],
-  "apprestano": [
-    "apːrɛstano"
-  ],
-  "apprestante": [
-    "apːrɛstante"
-  ],
-  "apprestare": [
-    "apːrestare",
-    "apːrɛstare"
-  ],
-  "apprestarono": [
-    "apːrɛstarono"
-  ],
-  "apprestasse": [
-    "apːrɛstasːe"
-  ],
-  "apprestassero": [
-    "apːrɛstasːero"
-  ],
-  "apprestassi": [
-    "apːrɛstasːi"
-  ],
-  "apprestassimo": [
-    "apːrɛstasːimo"
-  ]
+  "appartenendo": "apːartenendo",
+  "appartenente": "apːartenante",
+  "appartenente_2": "apːartenente",
+  "appartenente_3": "apːartenɛnte",
+  "appartenenti": "apːartenenti",
+  "appartenenza": "apːartenɛntsa",
+  "appartenere": "apːartenere",
+  "appartenere_2": "apːartɛnere",
+  "appartenesse": "apːartenesːe",
+  "appartenessero": "apːartenesːero",
+  "appartenessi": "apːartenesːi",
+  "appartenessimo": "apːartenesːimo",
+  "apparteneste": "apːarteneste",
+  "appartenesti": "apːartenesti",
+  "appartenete": "apːartenete",
+  "apparteneva": "apːarteneva",
+  "appartenevamo": "apːartenevamo",
+  "appartenevano": "apːartenevano",
+  "appartenevate": "apːartenːevate",
+  "appartenevi": "apːartenevi",
+  "appartenevo": "apːartenevo",
+  "appartenga": "apːartenɡa",
+  "appartengano": "apːartenino",
+  "appartengo": "apːartenɡo",
+  "appartengono": "apːartenano",
+  "apparteniamo": "apːartenjamo",
+  "apparteniate": "apːartenjate",
+  "appartenne": "apːartenːe",
+  "appartennero": "apːartenːero",
+  "appartenni": "apːartenːi",
+  "appartenuta": "apːartenuta",
+  "appartenute": "apːartenute",
+  "appartenuti": "apːartenuti",
+  "appartenuto": "apːartenuto",
+  "apparterà": "apːartera",
+  "apparterai": "apːarterai",
+  "apparteranno": "apːarteranːo",
+  "apparterebbe": "apːarterebːe",
+  "apparterebbero": "apːarterebːero",
+  "apparterei": "apːarterei",
+  "apparteremmo": "apːarteremːo",
+  "apparteremo": "apːarteremo",
+  "appartereste": "apːartereste",
+  "apparteresti": "apːarteresti",
+  "apparterete": "apːarterete",
+  "apparterò": "apːartero",
+  "apparterrà": "apːarterːa",
+  "apparterrai": "apːarterːai",
+  "apparterranno": "apːarterːanːo",
+  "apparterrebbe": "apːarterːebːe",
+  "apparterrebbero": "apːarterːebːero",
+  "apparterrei": "apːarterːei",
+  "apparterremmo": "apːarterːemːo",
+  "apparterremo": "apːarterːemo",
+  "apparterreste": "apːarterːeste",
+  "apparterresti": "apːarterːesti",
+  "apparterrete": "apːarterːete",
+  "apparterrò": "apːarterːo",
+  "apparti": "apːarti",
+  "appartiamo": "apːartjamo",
+  "appartiate": "apːartjate",
+  "appartiene": "apːartjene",
+  "appartieni": "apːartjeni",
+  "appartino": "apːartino",
+  "apparto": "apːarto",
+  "appartò": "apːarto",
+  "appassimento": "apːasːimento",
+  "appassiona": "apːasːjona",
+  "appassionai": "apːasːjonai",
+  "appassionammo": "apːasːjonamːo",
+  "appassionando": "apːasːjonando",
+  "appassionano": "apːasːjonano",
+  "appassionante": "apːasːjonante",
+  "appassionanti": "apːasːjonanti",
+  "appassionare": "apːasːjonare",
+  "appassionarono": "apːasːjonarono",
+  "appassionarsi": "apːasːjonarsi",
+  "appassionasse": "apːasːjonasːe",
+  "appassionassero": "apːasːjonasːero",
+  "appassionassi": "apːasːjonasːi",
+  "appassionassimo": "apːasːjonasːimo",
+  "appassionaste": "apːasːjonaste",
+  "appassionasti": "apːasːjonasti",
+  "appassionata": "apːasːjonata",
+  "appassionatamente": "apːasːjonatamente",
+  "appassionate": "apːasːjonate",
+  "appassionati": "apːasːjonati",
+  "appassionato": "apːasːjonato",
+  "appassionava": "apːasːjonava",
+  "appassionavamo": "apːasːjonavamo",
+  "appassionavano": "apːasːjonavano",
+  "appassionavate": "apːasːjonavate",
+  "appassionavi": "apːasːjonavi",
+  "appassionavo": "apːasːjonavo",
+  "appassionerà": "apːasːjonera",
+  "appassionerai": "apːasːjonerai",
+  "appassioneranno": "apːasːjoneranːo",
+  "appassionerebbe": "apːasːjonerebːe",
+  "appassionerebbero": "apːasːjonerebːero",
+  "appassionerei": "apːasːjonerei",
+  "appassioneremmo": "apːasːjoneremːo",
+  "appassioneremo": "apːasːjoneremo",
+  "appassionereste": "apːasːjonereste",
+  "appassioneresti": "apːasːjoneresti",
+  "appassionerete": "apːasːjonerete",
+  "appassionerò": "apːasːjonero",
+  "appassioni": "apːasːjoni",
+  "appassioniamo": "apːasːjonjamo",
+  "appassioniate": "apːasːjonjate",
+  "appassionino": "apːasːjonino",
+  "appassiono": "apːasːjono",
+  "appassionò": "apːasːjono",
+  "appassire": "apːasːire",
+  "appassirsi": "apːasːirsi",
+  "appassito": "apːasːito",
+  "appasta": "apːasta",
+  "appastai": "apːastai",
+  "appastammo": "apːastamːo",
+  "appastando": "apːastando",
+  "appastano": "apːastano",
+  "appastante": "apːastante",
+  "appastare": "apːastare",
+  "appastarono": "apːastarono",
+  "appastasse": "apːastasːe",
+  "appastassero": "apːastasːero",
+  "appastassi": "apːastasːi",
+  "appastassimo": "apːastasːimo",
+  "appastaste": "apːastaste",
+  "appastasti": "apːastasti",
+  "appastata": "apːastata",
+  "appastate": "apːastate",
+  "appastati": "apːastati",
+  "appastato": "apːastato",
+  "appastava": "apːastava",
+  "appastavamo": "apːastavamo",
+  "appastavano": "apːastavano",
+  "appastavate": "apːastavate",
+  "appastavi": "apːastavi",
+  "appastavo": "apːastavo",
+  "appasterà": "apːastera",
+  "appasterai": "apːasterai",
+  "appasteranno": "apːasteranːo",
+  "appasterebbe": "apːasterebːe",
+  "appasterebbero": "apːasterebːero",
+  "appasterei": "apːasterei",
+  "appasteremmo": "apːasteremːo",
+  "appasteremo": "apːasteremo",
+  "appastereste": "apːastereste",
+  "appasteresti": "apːasteresti",
+  "appasterete": "apːasterete",
+  "appasterò": "apːastero",
+  "appasti": "apːasti",
+  "appastiamo": "apːastjamo",
+  "appastiate": "apːastjate",
+  "appastino": "apːastino",
+  "appasto": "apːasto",
+  "appastò": "apːasto",
+  "appellare": "apːelːare",
+  "appellarsi": "apːelːarsi",
+  "appellativo": "apːelːativo",
+  "appelli": "apːɛlːi",
+  "appello": "apːɛlːo",
+  "appello_2": "apːɛlːɔ",
+  "appena": "apːena",
+  "appena_2": "apːɛna",
+  "appendere": "apːɛndere",
+  "appendice": "apːenditʃe",
+  "appendici": "apːenditʃi",
+  "appendicite": "apːenditʃite",
+  "appendiciti": "apːenditʃiti",
+  "appendicolare": "apːendikolare",
+  "appendicolari": "apːendikolari",
+  "appendino": "apːendino",
+  "appennellare": "apːenːelːare",
+  "appenninico": "apːenːiniko",
+  "appercezione": "apːertʃetːsjone",
+  "appercezioni": "apːertʃetːsjoni",
+  "appertizza": "apːertidːza",
+  "appertizzai": "apːertidːzai",
+  "appertizzammo": "apːertidːzamːo",
+  "appertizzando": "apːertidːzando",
+  "appertizzano": "apːertidːzano",
+  "appertizzante": "apːertidːzante",
+  "appertizzare": "apːertidːzare",
+  "appertizzarono": "apːertidːzarono",
+  "appertizzasse": "apːertidːzasːe",
+  "appertizzassero": "apːertidːzasːero",
+  "appertizzassi": "apːertidːzasːi",
+  "appertizzassimo": "apːertidːzasːimo",
+  "appertizzaste": "apːertidːzaste",
+  "appertizzasti": "apːertidːzasti",
+  "appertizzata": "apːertidːzata",
+  "appertizzate": "apːertidːzate",
+  "appertizzati": "apːertidːzati",
+  "appertizzato": "apːertidːzato",
+  "appertizzava": "apːertidːzava",
+  "appertizzavamo": "apːertidːzavamo",
+  "appertizzavano": "apːertidːzavano",
+  "appertizzavate": "apːertidːzavate",
+  "appertizzavi": "apːertidːzavi",
+  "appertizzavo": "apːertidːzavo",
+  "appertizzerà": "apːertidːzera",
+  "appertizzerai": "apːertidːzerai",
+  "appertizzeranno": "apːertidːzeranːo",
+  "appertizzerebbe": "apːertidːzerebːe",
+  "appertizzerebbero": "apːertidːzerebːero",
+  "appertizzerei": "apːertidːzerei",
+  "appertizzeremmo": "apːertidːzeremːo",
+  "appertizzeremo": "apːertidːzeremo",
+  "appertizzereste": "apːertidːzereste",
+  "appertizzeresti": "apːertidːzeresti",
+  "appertizzerete": "apːertidːzerete",
+  "appertizzerò": "apːertidːzero",
+  "appertizzi": "apːertidːzi",
+  "appertizziamo": "apːertidːzjamo",
+  "appertizziate": "apːertidːzjate",
+  "appertizzino": "apːertidːzino",
+  "appertizzo": "apːertidːzo",
+  "appertizzò": "apːertidːzo",
+  "appesantire": "apːesantire",
+  "appesantito": "apːesantito",
+  "appeso": "apːeso",
+  "appestante": "apːestante",
+  "appestare": "apːestare",
+  "appestato": "apːestato",
+  "appetendo": "apːetendo",
+  "appetente": "apːetente",
+  "appetenti": "apːetenti",
+  "appetibile": "apːetibile",
+  "appetibili": "apːetibili",
+  "appetire": "apːetire",
+  "appetita": "apːetita",
+  "appetiti": "apːetiti",
+  "appetiti_2": "apːɛtiti",
+  "appetito": "apːetito",
+  "appetito_2": "apːɛtito",
+  "appetitosa": "apːetitosa",
+  "appetitosa_2": "apːetitoza",
+  "appetitose": "apːetitose",
+  "appetitose_2": "apːetitoze",
+  "appetitosi": "apːetitosi",
+  "appetitosi_2": "apːetitozoi",
+  "appetitoso": "apːetitoso",
+  "appetitoso_2": "apːetitozo",
+  "appetizione": "apːetitːsjone",
+  "appia": "apːja",
+  "appianare": "apːjanare",
+  "appiattente": "apːjatːente",
+  "appiattire": "apːjatːire",
+  "appiattito": "apːjatːito",
+  "appiccante": "apːikːante",
+  "appiccare": "apːikːare",
+  "appiccarsi": "apːikːarsi",
+  "appiccato": "apːikːato",
+  "appiccicante": "apːitːʃikante",
+  "appiccicare": "apːitːʃikare",
+  "appiccicarsi": "apːitːʃikarsi",
+  "appiccicaticcio": "apːitːʃikatitːʃo",
+  "appiccicato": "apːitːʃikato",
+  "appiccicoso": "apːitʃikoso",
+  "appiccicoso_2": "apːitːʃikoso",
+  "appiccicoso_3": "apːitːʃikozo",
+  "appiedare": "apːjedare",
+  "appigionare": "apːidʒonare",
+  "appiglio": "apːiʎo",
+  "appio": "apːjo",
+  "appioppa": "apːjopːa",
+  "appioppai": "apːjopːai",
+  "appioppammo": "apːjopːamːo",
+  "appioppando": "apːjopːando",
+  "appioppano": "apːjopːano",
+  "appioppante": "apːjopːante",
+  "appioppare": "apːiopːare",
+  "appioppare_2": "apːjopːare",
+  "appiopparono": "apːjopːarono",
+  "appioppasse": "apːjopːasːe",
+  "appioppassero": "apːjopːasːero",
+  "appioppassi": "apːjopːasːi",
+  "appioppassimo": "apːjopːasːimo",
+  "appioppaste": "apːjopːaste",
+  "appioppasti": "apːjopːasti",
+  "appioppata": "apːjopːata",
+  "appioppate": "apːjopːate",
+  "appioppati": "apːjopːati",
+  "appioppato": "apːjopːato",
+  "appioppava": "apːjopːava",
+  "appioppavamo": "apːjopːavamo",
+  "appioppavano": "apːjopːavano",
+  "appioppavate": "apːjopːavate",
+  "appioppavi": "apːjopːavi",
+  "appioppavo": "apːjopːavo",
+  "appiopperà": "apːjopːera",
+  "appiopperai": "apːjopːerai",
+  "appiopperanno": "apːjopːeranːo",
+  "appiopperebbe": "apːjopːerebːe",
+  "appiopperebbero": "apːjopːerebːero",
+  "appiopperei": "apːjopːerei",
+  "appiopperemmo": "apːjopːeremːo",
+  "appiopperemo": "apːjopːeremo",
+  "appioppereste": "apːjopːereste",
+  "appiopperesti": "apːjopːeresti",
+  "appiopperete": "apːjopːerete",
+  "appiopperò": "apːjopːero",
+  "appioppi": "apːjopːi",
+  "appioppiamo": "apːjopːjamo",
+  "appioppiate": "apːjopːjate",
+  "appioppino": "apːjopːino",
+  "appioppo": "apːjopːo",
+  "appioppò": "apːjopːo",
+  "appisolarsi": "apːizolarsi",
+  "applaudente": "apːlaudente",
+  "applaudente_2": "apːlawdente",
+  "applaudenti": "apːlawdenti",
+  "applaudire": "apːlaudire",
+  "applaudire_2": "apːlawdire",
+  "applaudita": "apːlawdita",
+  "applaudite": "apːlawdite",
+  "applauditi": "apːlawditi",
+  "applaudito": "apːlawdito",
+  "applausi": "apːlawzi",
+  "applauso": "apːlauzo",
+  "applauso_2": "apːlawzo",
+  "applausometro": "apːlawzɔmetro",
+  "applicabile": "apːlikabile",
+  "applicabili": "apːlikabili",
+  "applicante": "apːlikante",
+  "applicare": "apːlikare",
+  "applicarsi": "apːlikarsi",
+  "applicatamente": "apːlikatamente",
+  "applicativo": "apːlikativo",
+  "applicato": "apːlikato",
+  "applicatore": "apːlikatore",
+  "applicatori": "apːlikatori",
+  "applicazione": "apːlikatsjone",
+  "applicazione_2": "apːlikatsjɔne",
+  "applico": "apːliko",
+  "appo": "apːo",
+  "appo_2": "apːɔ",
+  "appoderare": "apːoderare",
+  "appodiare": "apːodjare",
+  "appoggerà": "apːodːʒera",
+  "appoggerai": "apːodːʒerai",
+  "appoggeranno": "apːodːʒeranːo",
+  "appoggerebbe": "apːodːʒerebːe",
+  "appoggerebbero": "apːodːʒerebːero",
+  "appoggerei": "apːodːʒerei",
+  "appoggeremmo": "apːodːʒeremːo",
+  "appoggeremo": "apːodːʒeremo",
+  "appoggereste": "apːodːʒereste",
+  "appoggeresti": "apːodːʒeresti",
+  "appoggerete": "apːodːʒerete",
+  "appoggerò": "apːodːʒero",
+  "appoggi": "apːodːʒi",
+  "appoggia": "apːodːʒa",
+  "appoggiacapo": "apːodːʒakapo",
+  "appoggiai": "apːodːʒai",
+  "appoggiammo": "apːodːʒamːo",
+  "appoggiamo": "apːodːʒamo",
+  "appoggiando": "apːodːʒando",
+  "appoggiano": "apːodːʒano",
+  "appoggiante": "apːodːʒante",
+  "appoggiare": "apːodːʒare",
+  "appoggiarono": "apːodːʒarono",
+  "appoggiarsi": "apːodːʒarsi",
+  "appoggiarsi_2": "apːoɡdʒarsi",
+  "appoggiasse": "apːodːʒasːe",
+  "appoggiassero": "apːodːʒasːero",
+  "appoggiassi": "apːodːʒasːi",
+  "appoggiassimo": "apːodːʒasːimo",
+  "appoggiaste": "apːodːʒaste",
+  "appoggiasti": "apːodːʒasti",
+  "appoggiata": "apːodːʒata",
+  "appoggiate": "apːodːʒate",
+  "appoggiati": "apːodːʒati",
+  "appoggiato": "apːodːʒato",
+  "appoggiava": "apːodːʒava",
+  "appoggiavamo": "apːodːʒavamo",
+  "appoggiavano": "apːodːʒavano",
+  "appoggiavate": "apːodːʒavate",
+  "appoggiavi": "apːodːʒavi",
+  "appoggiavo": "apːodːʒavo",
+  "appoggino": "apːodːʒino",
+  "appoggio": "apːodːʒo",
+  "appoggio_2": "apːɔdːʒo",
+  "appoggiò": "apːodːʒo",
+  "appollaiarsi": "apːolːajarsi",
+  "appollaiato": "apːolːajato",
+  "appone": "apːone",
+  "apponemmo": "apːonemːo",
+  "apponendo": "apːonendo",
+  "apponente": "apːonente",
+  "apponesse": "apːonesːe",
+  "apponessero": "apːonesːero",
+  "apponessi": "apːonesːi",
+  "apponessimo": "apːonesːimo",
+  "apponeste": "apːonːeste",
+  "apponesti": "apːonesti",
+  "apponete": "apːonete",
+  "apponeva": "apːoneva",
+  "apponevamo": "apːonevamo",
+  "apponevano": "apːonevano",
+  "apponevate": "apːonevate",
+  "apponevi": "apːonevi",
+  "apponevo": "apːonevo",
+  "apponga": "apːonɡa",
+  "appongano": "apːonɡano",
+  "appongo": "apːonɡo",
+  "appongono": "apːonɡono",
+  "apponi": "apːoni",
+  "apponiamo": "apːonjamo",
+  "apponiate": "apːonjate",
+  "appontaggi": "apːontadːʒi",
+  "appontaggio": "apːontadːʒo",
+  "appontare": "apːontare",
+  "appoppare": "apːopːare",
+  "apporrà": "porːa",
+  "apporrai": "apːorːai",
+  "apporranno": "apːorːanːo",
+  "apporre": "apːorːe",
+  "apporrebbe": "apːorːebːe",
+  "apporrebbero": "apːorːebːero",
+  "apporrei": "apːorːei",
+  "apporremmo": "apːorːemo",
+  "apporremo": "apːorːemo",
+  "apporreste": "apːorːeste",
+  "apporresti": "apːorːesti",
+  "apporrete": "apːorːete",
+  "apporrò": "apːorːo",
+  "apporta": "apːorta",
+  "apportai": "apːortai",
+  "apportammo": "apːortamːo",
+  "apportando": "apːortando",
+  "apportano": "apːortano",
+  "apportante": "apːortante",
+  "apportare": "apːortare",
+  "apportarono": "apːortarono",
+  "apportasse": "apːortasːe",
+  "apportassero": "apːortasːero",
+  "apportassi": "apːortasːi",
+  "apportassimo": "apːortasːimo",
+  "apportaste": "apːortaste",
+  "apportasti": "apːortasti",
+  "apportate": "apːortate",
+  "apportato": "apːortato",
+  "apportava": "apːortava",
+  "apportavamo": "apːortavamo",
+  "apportavano": "apːortavano",
+  "apportavate": "apːortavate",
+  "apportavi": "apːortavi",
+  "apportavo": "apːortavo",
+  "apporterà": "apːortera",
+  "apporterai": "apːorterai",
+  "apporteranno": "apːorteranːo",
+  "apporterebbe": "apːorterebːe",
+  "apporterebbero": "apːorterebːero",
+  "apporterei": "apːorterei",
+  "apporteremmo": "apːorteremːo",
+  "apporteremo": "apːorteremo",
+  "apportereste": "apːortereste",
+  "apporteresti": "apːorteresti",
+  "apporterete": "apːorterete",
+  "apporterò": "apːortero",
+  "apporti": "apːorti",
+  "apportiamo": "apːortjamo",
+  "apportiate": "apːortjate",
+  "apportino": "apːortino",
+  "apporto": "apːorto",
+  "apportò": "apːorto",
+  "appose": "apːose",
+  "apposero": "apːosero",
+  "apposi": "apːosi",
+  "apposita": "apːɔzita",
+  "appositamente": "apːozitamente",
+  "apposite": "apːɔzite",
+  "appositi": "apːɔziti",
+  "appositiva": "apːozitiva",
+  "appositive": "apːozitive",
+  "appositivi": "apːozitivi",
+  "appositivo": "apːozitivo",
+  "apposito": "apːɔzito",
+  "apposizione": "apːozitːsjone",
+  "apposizioni": "apːozitːsjoni",
+  "apposta": "apːosta",
+  "apposta_2": "apːɔsta",
+  "appostamenti": "apːostamenti",
+  "appostamento": "apːostamento",
+  "appostare": "apːostare",
+  "apposte": "apːoste",
+  "apposti": "apːosti",
+  "apposto": "apːosto",
+  "appozzare": "apːotsːare",
+  "appratire": "apːratire",
+  "apprendente": "apːrɛndente",
+  "apprendere": "apːrɛndere",
+  "apprendibile": "apːrendibile",
+  "apprendibili": "apːrendibili",
+  "apprendimenti": "apːrendimenti",
+  "apprendimento": "apːrendimento",
+  "apprendista": "apːrendista",
+  "apprendista_2": "apːrɛndista",
+  "apprendiste": "apːrɛndiste",
+  "apprendisti": "apːrɛndisti",
+  "apprendo": "apːrɛndo",
+  "apprensibile": "apːrensibile",
+  "apprensibili": "apːrensibili",
+  "apprensione": "apːrensjone",
+  "apprensivo": "apːrensivo",
+  "appreso": "apːreso",
+  "appreso_2": "apːrezo",
+  "appressare": "apːresːare",
+  "appressarsi": "apːresːarsi",
+  "appresso": "apːrɛsːo",
+  "appresta": "apːrɛsta",
+  "apprestai": "apːrɛstai",
+  "apprestammo": "apːrɛstamːo",
+  "apprestando": "apːrɛstando",
+  "apprestano": "apːrɛstano",
+  "apprestante": "apːrɛstante",
+  "apprestare": "apːrestare",
+  "apprestare_2": "apːrɛstare",
+  "apprestarono": "apːrɛstarono",
+  "apprestasse": "apːrɛstasːe",
+  "apprestassero": "apːrɛstasːero",
+  "apprestassi": "apːrɛstasːi",
+  "apprestassimo": "apːrɛstasːimo"
 }

@@ -1,1537 +1,537 @@
 {
-  "branzino": [
-    "brantsino"
-  ],
-  "brasare": [
-    "brazare"
-  ],
-  "brasata": [
-    "brazata"
-  ],
-  "brasate": [
-    "brazate"
-  ],
-  "brasati": [
-    "brazati"
-  ],
-  "brasato": [
-    "brazato"
-  ],
-  "brasatura": [
-    "brazatura"
-  ],
-  "brasature": [
-    "brazature"
-  ],
-  "brasile": [
-    "brazile"
-  ],
-  "brasiliana": [
-    "braziljana"
-  ],
-  "brasiliane": [
-    "braziljane"
-  ],
-  "brasiliani": [
-    "braziljani"
-  ],
-  "brasiliano": [
-    "braziljano"
-  ],
-  "bratislava": [
-    "bratiʃlava"
-  ],
-  "brattare": [
-    "bratːare"
-  ],
-  "brava": [
-    "brava"
-  ],
-  "bravamente": [
-    "bravamente"
-  ],
-  "bravata": [
-    "bravata"
-  ],
-  "brave": [
-    "brave"
-  ],
-  "bravi": [
-    "bravi"
-  ],
-  "bravino": [
-    "bravino"
-  ],
-  "bravo": [
-    "bravo"
-  ],
-  "bravura": [
-    "bravura"
-  ],
-  "break": [
-    "brɛk"
-  ],
-  "brecchi": [
-    "brekːi"
-  ],
-  "breccia": [
-    "bretːʃa",
-    "brɛtːʃa"
-  ],
-  "brecciaio": [
-    "bretːʃajo"
-  ],
-  "brecciame": [
-    "bretːʃame"
-  ],
-  "breccie": [
-    "brɛtːʃe"
-  ],
-  "breccioso": [
-    "bretːʃoso",
-    "bretːʃozo"
-  ],
-  "brecco": [
-    "brekːo"
-  ],
-  "brefotrofio": [
-    "brefotrɔfjo"
-  ],
-  "bregnanese": [
-    "breɲɲanese",
-    "breɲɲaneze"
-  ],
-  "brema": [
-    "brema"
-  ],
-  "breme": [
-    "brɛme"
-  ],
-  "bremese": [
-    "bremese"
-  ],
-  "bremesi": [
-    "bremesi"
-  ],
-  "brendola": [
-    "brɛndola"
-  ],
-  "brenna": [
-    "brenːa"
-  ],
-  "brenta": [
-    "brɛnta"
-  ],
-  "bresaola": [
-    "brezaola"
-  ],
-  "bresaole": [
-    "brezaole"
-  ],
-  "brescia": [
-    "breʃʃa"
-  ],
-  "bresciana": [
-    "breʃʃana"
-  ],
-  "bresciano": [
-    "breʃʃano"
-  ],
-  "bressanone": [
-    "bresːanone"
-  ],
-  "bretagna": [
-    "bretaɲɲa"
-  ],
-  "bretella": [
-    "bretɛlːa",
-    "brɛtɛlːa"
-  ],
-  "bretelle": [
-    "brɛtɛlːe"
-  ],
-  "bretellina": [
-    "bretelːina"
-  ],
-  "bretone": [
-    "bretone",
-    "brɛtone"
-  ],
-  "bretoni": [
-    "bretoni"
-  ],
-  "breva": [
-    "breva"
-  ],
-  "breve": [
-    "breve",
-    "brɛve"
-  ],
-  "brevemente": [
-    "brevemente"
-  ],
-  "brevettabile": [
-    "brevetːabile"
-  ],
-  "brevettabili": [
-    "brevetːabili"
-  ],
-  "brevettata": [
-    "brevetːata"
-  ],
-  "brevettate": [
-    "brevetːate"
-  ],
-  "brevettati": [
-    "brevetːati"
-  ],
-  "brevettato": [
-    "brevetːat",
-    "brevetːato"
-  ],
-  "brevetti": [
-    "brevetːi"
-  ],
-  "brevetto": [
-    "brevetːo"
-  ],
-  "brevi": [
-    "brɛvi"
-  ],
-  "breviare": [
-    "brevjare"
-  ],
-  "breviario": [
-    "brevjarjo"
-  ],
-  "brevio": [
-    "brɛvjo"
-  ],
-  "brevissima": [
-    "brɛvisːima"
-  ],
-  "brevissime": [
-    "brɛvisːime"
-  ],
-  "brevissimi": [
-    "brɛvisːimi"
-  ],
-  "brevissimo": [
-    "brɛvisːimo"
-  ],
-  "brevità": [
-    "brevita"
-  ],
-  "brezneviano": [
-    "breznevjano"
-  ],
-  "brezza": [
-    "bredːsa",
-    "bredːza",
-    "bretːsa",
-    "brɛtːsa"
-  ],
-  "brezze": [
-    "bretːse"
-  ],
-  "brianzolo": [
-    "briantsɔlo"
-  ],
-  "bricco": [
-    "brikːo"
-  ],
-  "briccola": [
-    "brikːola"
-  ],
-  "bricconcella": [
-    "brikːontʃɛlːa"
-  ],
-  "bricconcello": [
-    "brikːontʃɛlːo"
-  ],
-  "briccone": [
-    "brikːone",
-    "brikːɔne"
-  ],
-  "bricconesco": [
-    "brikːonesko"
-  ],
-  "bricconi": [
-    "brikːoni"
-  ],
-  "briciola": [
-    "britʃola"
-  ],
-  "briciole": [
-    "britʃole"
-  ],
-  "briciolo": [
-    "britʃolo"
-  ],
-  "brida": [
-    "brida"
-  ],
-  "bridge": [
-    "bridʒ"
-  ],
-  "bridgista": [
-    "bridːʒista"
-  ],
-  "bridgiste": [
-    "bridːʒiste"
-  ],
-  "bridgisti": [
-    "bridːʒisti"
-  ],
-  "brie": [
-    "bri"
-  ],
-  "briefing": [
-    "brifin",
-    "brifinɡ",
-    "brifiɲ"
-  ],
-  "briga": [
-    "briɡa"
-  ],
-  "brigadiera": [
-    "briɡadjɛra"
-  ],
-  "brigadiere": [
-    "briɡadjɛre"
-  ],
-  "brigadieri": [
-    "briɡadjɛre"
-  ],
-  "brigantaggi": [
-    "briɡantadːʒi"
-  ],
-  "brigantaggio": [
-    "briɡantadːʒo"
-  ],
-  "brigante": [
-    "briɡante"
-  ],
-  "brigantesco": [
-    "briɡantesko"
-  ],
-  "brigantessa": [
-    "briɡantesːa"
-  ],
-  "brigantesse": [
-    "briɡantesːe"
-  ],
-  "briganti": [
-    "briɡanti"
-  ],
-  "brigantino": [
-    "briɡantino"
-  ],
-  "brigata": [
-    "briɡata"
-  ],
-  "brigate": [
-    "briɡate"
-  ],
-  "brigatista": [
-    "briɡatista"
-  ],
-  "brighella": [
-    "briɡɛlːa"
-  ],
-  "brigidinaia": [
-    "bridʒidinaja"
-  ],
-  "brigidinaio": [
-    "bridʒidinajo"
-  ],
-  "briglia": [
-    "brilʎja",
-    "briʎa",
-    "briʎja"
-  ],
-  "briglie": [
-    "brilʎje"
-  ],
-  "brilla": [
-    "brilːa"
-  ],
-  "brillantare": [
-    "brilːantare"
-  ],
-  "brillante": [
-    "brilːante"
-  ],
-  "brillantemente": [
-    "brilːantemente"
-  ],
-  "brillantezza": [
-    "brilːantetːsa"
-  ],
-  "brillanti": [
-    "brilːanti"
-  ],
-  "brillantina": [
-    "brilːantina"
-  ],
-  "brillantissima": [
-    "brilːantisːima"
-  ],
-  "brillantissimamente": [
-    "brilːantisːimamente"
-  ],
-  "brillantissime": [
-    "brilːantisːime"
-  ],
-  "brillantissimi": [
-    "brilːantisːimi"
-  ],
-  "brillantissimo": [
-    "brilːantisːimo"
-  ],
-  "brillanza": [
-    "brilːantsa"
-  ],
-  "brillare": [
-    "brilːare"
-  ],
-  "brillato": [
-    "brilːato"
-  ],
-  "brille": [
-    "brilːe"
-  ],
-  "brilli": [
-    "brilːi"
-  ],
-  "brillo": [
-    "brilːa",
-    "brilːo"
-  ],
-  "brina": [
-    "brina"
-  ],
-  "brinare": [
-    "brinare"
-  ],
-  "brindante": [
-    "brindante"
-  ],
-  "brindare": [
-    "brindare"
-  ],
-  "brindato": [
-    "brindato"
-  ],
-  "brindisi": [
-    "brindizi"
-  ],
-  "brindisina": [
-    "brindizina"
-  ],
-  "brindisino": [
-    "brindizino"
-  ],
-  "brinoso": [
-    "brinoso",
-    "brinozo"
-  ],
-  "brio": [
-    "brio"
-  ],
-  "brioche": [
-    "briɔʃ",
-    "briɔʃʃ"
-  ],
-  "briosa": [
-    "briɔsa"
-  ],
-  "briosamente": [
-    "briosamente"
-  ],
-  "briose": [
-    "briɔse"
-  ],
-  "briosi": [
-    "briɔsi"
-  ],
-  "brioso": [
-    "brioso",
-    "briozo",
-    "briɔso"
-  ],
-  "briscola": [
-    "briskola"
-  ],
-  "brissottino": [
-    "brisːotːino"
-  ],
-  "britanna": [
-    "britanːa"
-  ],
-  "britanne": [
-    "britanːe"
-  ],
-  "britanni": [
-    "britanːi"
-  ],
-  "britannia": [
-    "britanːja"
-  ],
-  "britannica": [
-    "britanːika"
-  ],
-  "britanniche": [
-    "britanːike"
-  ],
-  "britannici": [
-    "britanːitʃi"
-  ],
-  "britannico": [
-    "britanːiko"
-  ],
-  "britanno": [
-    "britanːo"
-  ],
-  "brividante": [
-    "brividante"
-  ],
-  "brividi": [
-    "brividi"
-  ],
-  "brividio": [
-    "brividio"
-  ],
-  "brivido": [
-    "brivido"
-  ],
-  "brividoso": [
-    "brividozo"
-  ],
-  "brizzolata": [
-    "britːsolata"
-  ],
-  "brizzolate": [
-    "britːsolate"
-  ],
-  "brizzolati": [
-    "britːsolati"
-  ],
-  "brizzolato": [
-    "britːsolato"
-  ],
-  "brocardo": [
-    "brokardo"
-  ],
-  "brocca": [
-    "brɔkːa"
-  ],
-  "broccare": [
-    "brokːare"
-  ],
-  "brocche": [
-    "brɔkːe"
-  ],
-  "brocciare": [
-    "brotːʃare"
-  ],
-  "broccio": [
-    "brɔtːʃo"
-  ],
-  "brocciolo": [
-    "brɔtːʃolo"
-  ],
-  "brocco": [
-    "brɔkːo"
-  ],
-  "broccoli": [
-    "brɔkːoli"
-  ],
-  "broccolo": [
-    "brɔkːolo"
-  ],
-  "brochure": [
-    "broʃur"
-  ],
-  "broda": [
-    "brɔda"
-  ],
-  "brodaio": [
-    "brodajo"
-  ],
-  "brode": [
-    "brɔde"
-  ],
-  "brodetto": [
-    "brodetːo"
-  ],
-  "brodi": [
-    "brɔdi"
-  ],
-  "brodo": [
-    "brɔdo",
-    "brɔdɔ"
-  ],
-  "brodoso": [
-    "brodoso",
-    "brodozo"
-  ],
-  "brogli": [
-    "brɔʎi"
-  ],
-  "brogliaccio": [
-    "broʎatːʃo"
-  ],
-  "brogliare": [
-    "broʎare"
-  ],
-  "broglio": [
-    "brɔʎo"
-  ],
-  "brokeraggio": [
-    "brokeradːʒo"
-  ],
-  "broletti": [
-    "broletːi"
-  ],
-  "broletto": [
-    "broletːo"
-  ],
-  "bromatologia": [
-    "bromatolodʒia"
-  ],
-  "bromatologo": [
-    "bromatɔloɡo"
-  ],
-  "bromeliacee": [
-    "bromeljatʃee"
-  ],
-  "bromo": [
-    "brɔmo"
-  ],
-  "bromoformio": [
-    "brɔmofɔrmjo"
-  ],
-  "bromoindaco": [
-    "brɔmoindako"
-  ],
-  "bromomercurico": [
-    "brɔmomerkuriko"
-  ],
-  "bromometano": [
-    "brɔmometano"
-  ],
-  "bromotoluene": [
-    "brɔmotoluɛne"
-  ],
-  "bromurante": [
-    "bromurante"
-  ],
-  "bromurare": [
-    "bromurare"
-  ],
-  "bromurato": [
-    "bromurato"
-  ],
-  "bromuro": [
-    "bromuro"
-  ],
-  "bronchi": [
-    "brɔnki"
-  ],
-  "bronchiale": [
-    "bronkjale"
-  ],
-  "bronchiolo": [
-    "bronkiolo"
-  ],
-  "bronchite": [
-    "bronkite",
-    "broɲkite"
-  ],
-  "bronchiti": [
-    "bronkiti"
-  ],
-  "broncio": [
-    "brontʃo"
-  ],
-  "bronco": [
-    "bronko",
-    "brɔnko"
-  ],
-  "broncopolmonare": [
-    "bronkopolmonare"
-  ],
-  "broncopolmonari": [
-    "bronkopolmonari"
-  ],
-  "broncopolmonite": [
-    "bronkopolmonite"
-  ],
-  "broncoscopi": [
-    "bronkoskɔpi"
-  ],
-  "broncoscopia": [
-    "bronkoskɔpja"
-  ],
-  "broncoscopica": [
-    "bronkoskɔpika"
-  ],
-  "broncoscopiche": [
-    "bronkoskɔpike"
-  ],
-  "broncoscopici": [
-    "bronkoskɔpitʃi"
-  ],
-  "broncoscopico": [
-    "bronkoskɔpiko"
-  ],
-  "broncoscopio": [
-    "bronkoskɔpjo"
-  ],
-  "brontolare": [
-    "brontolare"
-  ],
-  "brontolato": [
-    "brontolato"
-  ],
-  "brontolio": [
-    "brontolio"
-  ],
-  "brontolone": [
-    "brontolone"
-  ],
-  "brontosauro": [
-    "brontosawro"
-  ],
-  "bronzare": [
-    "brondzare"
-  ],
-  "bronzato": [
-    "brondzato"
-  ],
-  "bronzea": [
-    "brondzea"
-  ],
-  "bronzee": [
-    "brondzee"
-  ],
-  "bronzei": [
-    "brondzei"
-  ],
-  "bronzeo": [
-    "brondzeo"
-  ],
-  "bronzi": [
-    "brɔntso"
-  ],
-  "bronzina": [
-    "brondzina"
-  ],
-  "bronzine": [
-    "brondzine"
-  ],
-  "bronzini": [
-    "brondzini"
-  ],
-  "bronzino": [
-    "brondzino"
-  ],
-  "bronzista": [
-    "brondzista"
-  ],
-  "bronziste": [
-    "brondziste"
-  ],
-  "bronzisti": [
-    "brondzisti"
-  ],
-  "bronzo": [
-    "brondzo"
-  ],
-  "broscia": [
-    "brɔʃʃa"
-  ],
-  "brucare": [
-    "brukare"
-  ],
-  "brucellosi": [
-    "brutʃelːɔzi"
-  ],
-  "brucetiforme": [
-    "butʃerotiforme"
-  ],
-  "bruchi": [
-    "bruki"
-  ],
-  "bruciacchiare": [
-    "brutʃakːjare"
-  ],
-  "bruciacchiarsi": [
-    "brutʃakːjarsi"
-  ],
-  "bruciacchiato": [
-    "brutʃakːjato"
-  ],
-  "bruciacchiatura": [
-    "brutʃakːjatura"
-  ],
-  "bruciaferro": [
-    "brutʃafɛrːo"
-  ],
-  "bruciante": [
-    "brutʃante"
-  ],
-  "brucianti": [
-    "brutʃanti"
-  ],
-  "bruciare": [
-    "brutʃare"
-  ],
-  "bruciarsi": [
-    "brutʃarsi"
-  ],
-  "bruciata": [
-    "brutʃata"
-  ],
-  "bruciate": [
-    "brutʃate"
-  ],
-  "bruciati": [
-    "brutʃati"
-  ],
-  "bruciato": [
-    "brutʃato"
-  ],
-  "bruciatore": [
-    "brutʃatore"
-  ],
-  "bruciatura": [
-    "brutʃatura"
-  ],
-  "bruciature": [
-    "brutʃature"
-  ],
-  "bruciore": [
-    "brutʃore"
-  ],
-  "bruciori": [
-    "brutʃori"
-  ],
-  "bruco": [
-    "bruko"
-  ],
-  "brufoli": [
-    "brufɔli"
-  ],
-  "brufolo": [
-    "brufolo",
-    "brufɔlo"
-  ],
-  "brufoloso": [
-    "brufoloso",
-    "brufolozo"
-  ],
-  "bruggia": [
-    "brudːʒa"
-  ],
-  "brughiera": [
-    "bruɡjɛra"
-  ],
-  "brugmansia": [
-    "bruɡmansja"
-  ],
-  "brugo": [
-    "bruɡo"
-  ],
-  "brugola": [
-    "bruɡola"
-  ],
-  "brulicante": [
-    "brulikante"
-  ],
-  "brulicare": [
-    "brulikare"
-  ],
-  "brulicato": [
-    "brulikato"
-  ],
-  "brullo": [
-    "brulːo"
-  ],
-  "brulotto": [
-    "brulɔtːo"
-  ],
-  "bruma": [
-    "bruma"
-  ],
-  "brumaio": [
-    "brumajo"
-  ],
-  "brumazione": [
-    "brumatːsjone"
-  ],
-  "brumazioni": [
-    "brumatːsjoni"
-  ],
-  "brumeggio": [
-    "brumedːʒo"
-  ],
-  "brumoso": [
-    "brumoso",
-    "brumozo"
-  ],
-  "bruna": [
-    "bruna"
-  ],
-  "brunelda": [
-    "brunelda"
-  ],
-  "brunello": [
-    "brunɛlːo"
-  ],
-  "brunente": [
-    "brunente"
-  ],
-  "bruniccio": [
-    "brunitːʃo"
-  ],
-  "brunilda": [
-    "brunilda"
-  ],
-  "brunilde": [
-    "brunilde"
-  ],
-  "brunildo": [
-    "brunildo"
-  ],
-  "brunire": [
-    "brunire"
-  ],
-  "brunito": [
-    "brunito"
-  ],
-  "bruno": [
-    "bruno",
-    "brunɔ"
-  ],
-  "brusca": [
-    "bruska"
-  ],
-  "bruscamente": [
-    "bruskamente"
-  ],
-  "bruscandolo": [
-    "bruskandolo"
-  ],
-  "bruscare": [
-    "bruskare"
-  ],
-  "brusche": [
-    "bruske"
-  ],
-  "bruschetta": [
-    "brusketːa"
-  ],
-  "bruschezza": [
-    "brusketːsa"
-  ],
-  "bruschi": [
-    "bruski"
-  ],
-  "bruschinare": [
-    "bruskinare"
-  ],
-  "brusco": [
-    "brusko"
-  ],
-  "brusio": [
-    "bruzio"
-  ],
-  "brussellese": [
-    "brusːelːese",
-    "brusːelːeze"
-  ],
-  "brussellesi": [
-    "brusːelːesi"
-  ],
-  "bruta": [
-    "bruta"
-  ],
-  "brutale": [
-    "brutale"
-  ],
-  "brutali": [
-    "brutali"
-  ],
-  "brutalismi": [
-    "brutalizmi"
-  ],
-  "brutalismo": [
-    "brutalizmo"
-  ],
-  "brutalità": [
-    "brutalita"
-  ],
-  "brutalizzare": [
-    "brutalidːzare"
-  ],
-  "brutalizzato": [
-    "brutalidːzato"
-  ],
-  "brutalizzazione": [
-    "brutalidːzazjone"
-  ],
-  "brutalizzazioni": [
-    "brutalidːzazjoni"
-  ],
-  "brutalmente": [
-    "brutalmente"
-  ],
-  "brute": [
-    "brute"
-  ],
-  "bruteggiare": [
-    "brutedːʒare"
-  ],
-  "bruti": [
-    "bruti"
-  ],
-  "bruto": [
-    "bruto"
-  ],
-  "brutta": [
-    "brutːa"
-  ],
-  "brutte": [
-    "brutːe"
-  ],
-  "bruttezza": [
-    "brutːetːsa"
-  ],
-  "bruttezze": [
-    "brutːetːse"
-  ],
-  "brutti": [
-    "brutːi"
-  ],
-  "bruttino": [
-    "brutːino"
-  ],
-  "bruttissima": [
-    "brutːisːima"
-  ],
-  "bruttissime": [
-    "brutːisːime"
-  ],
-  "bruttissimi": [
-    "brutːisːimi"
-  ],
-  "bruttissimo": [
-    "brutːisːimo"
-  ],
-  "brutto": [
-    "brutːo"
-  ],
-  "bruttura": [
-    "brutːura"
-  ],
-  "bruxelles": [
-    "bruksɛl",
-    "brusːɛl"
-  ],
-  "bruxismo": [
-    "bruksizmo"
-  ],
-  "bu": [
-    "bu"
-  ],
-  "bua": [
-    "bua"
-  ],
-  "bubbolina": [
-    "bubːolina"
-  ],
-  "bubbone": [
-    "bubːone"
-  ],
-  "bubboni": [
-    "bubːoni"
-  ],
-  "bubbonica": [
-    "bubːɔnika"
-  ],
-  "bubboniche": [
-    "bubːɔnike"
-  ],
-  "bubbonici": [
-    "bubːɔnitʃi"
-  ],
-  "bubbonico": [
-    "bubːɔniko"
-  ],
-  "buca": [
-    "buka"
-  ],
-  "bucacchiare": [
-    "bukakːjare"
-  ],
-  "bucalettere": [
-    "bukaletːere"
-  ],
-  "bucaneve": [
-    "bukaneve"
-  ],
-  "bucare": [
-    "bukare"
-  ],
-  "bucata": [
-    "bukata"
-  ],
-  "bucate": [
-    "bukate"
-  ],
-  "bucati": [
-    "bukati"
-  ],
-  "bucatino": [
-    "bukatino"
-  ],
-  "bucato": [
-    "bukato"
-  ],
-  "bucazio": [
-    "bukatːsjo"
-  ],
-  "buccaro": [
-    "bukːaro"
-  ],
-  "bucce": [
-    "butːʃe"
-  ],
-  "buccheri": [
-    "bukːeri"
-  ],
-  "bucchero": [
-    "bukːero"
-  ],
-  "buccia": [
-    "butːʃa"
-  ],
-  "buccio": [
-    "butːʃo"
-  ],
-  "buccolica": [
-    "bukːɔlika"
-  ],
-  "buccolicamente": [
-    "bukːolikamente"
-  ],
-  "buccoliche": [
-    "bukːɔlike"
-  ],
-  "buccolici": [
-    "bukːɔlitʃi"
-  ],
-  "buccolico": [
-    "bukːɔliko"
-  ],
-  "bucefalo": [
-    "butʃɛfalo"
-  ],
-  "bucero": [
-    "butʃero"
-  ],
-  "bucerotide": [
-    "butʃerɔtide"
-  ],
-  "bucerotidi": [
-    "butʃerɔtidi"
-  ],
-  "bucerotiforme": [
-    "butʃerotiforme"
-  ],
-  "bucerotiformi": [
-    "butʃerotiformi"
-  ],
-  "buche": [
-    "buke"
-  ],
-  "bucherellare": [
-    "bukerelːare"
-  ],
-  "buchetto": [
-    "buketːo"
-  ],
-  "buchi": [
-    "buki"
-  ],
-  "buchino": [
-    "bukino"
-  ],
-  "bucintoro": [
-    "butʃintɔro"
-  ],
-  "buco": [
-    "buko"
-  ],
-  "bucolica": [
-    "bukɔlika"
-  ],
-  "bucolicamente": [
-    "bukolikamente"
-  ],
-  "bucoliche": [
-    "bukɔlike"
-  ],
-  "bucolici": [
-    "bukɔlitʃi"
-  ],
-  "bucolico": [
-    "bukɔliko"
-  ],
-  "bucorvo": [
-    "bukɔrvo"
-  ],
-  "bucranio": [
-    "bukranjo"
-  ],
-  "budapest": [
-    "budapɛst"
-  ],
-  "budda": [
-    "budːa"
-  ],
-  "buddhismi": [
-    "budːizmi"
-  ],
-  "buddhismo": [
-    "budːizmo"
-  ],
-  "buddismi": [
-    "budːizmi"
-  ],
-  "buddismo": [
-    "budːizmo"
-  ],
-  "buddistica": [
-    "budːistika"
-  ],
-  "buddistiche": [
-    "budːistike"
-  ],
-  "buddistici": [
-    "budːistitʃi"
-  ],
-  "buddistico": [
-    "budːistiko"
-  ],
-  "budella": [
-    "budɛlːa"
-  ],
-  "budellai": [
-    "budɛlːai"
-  ],
-  "budellaia": [
-    "budɛlːaja"
-  ],
-  "budellaie": [
-    "budɛlːaje"
-  ],
-  "budellaio": [
-    "budɛlːajo"
-  ],
-  "budelli": [
-    "budɛlːi"
-  ],
-  "budello": [
-    "budɛlːo"
-  ],
-  "budget": [
-    "badːʒet",
-    "budːʒet"
-  ],
-  "budino": [
-    "budino"
-  ],
-  "bue": [
-    "bue"
-  ],
-  "bufaga": [
-    "bufaɡa"
-  ],
-  "bufaghe": [
-    "bufaɡe"
-  ],
-  "bufala": [
-    "bufala"
-  ],
-  "bufalaio": [
-    "bufalajo"
-  ],
-  "bufali": [
-    "bufali"
-  ],
-  "bufalino": [
-    "bufalino"
-  ],
-  "bufalo": [
-    "bufalo",
-    "bufalɔ"
-  ],
-  "bufare": [
-    "bufare"
-  ],
-  "bufera": [
-    "bufɛra"
-  ],
-  "bufere": [
-    "bufɛre"
-  ],
-  "buffa": [
-    "bufːa"
-  ],
-  "buffamente": [
-    "bufːamente"
-  ],
-  "buffare": [
-    "bufːare"
-  ],
-  "buffe": [
-    "bufːe"
-  ],
-  "bufferizzare": [
-    "bafːeridːzare"
-  ],
-  "buffetta": [
-    "bufːetːa"
-  ],
-  "buffette": [
-    "bufːetːe"
-  ],
-  "buffetti": [
-    "bufːetːi"
-  ],
-  "buffetto": [
-    "bufːetːo"
-  ],
-  "buffi": [
-    "bufːi"
-  ],
-  "buffo": [
-    "bufːo"
-  ],
-  "buffona": [
-    "bufːona"
-  ],
-  "buffonata": [
-    "bufːonata"
-  ],
-  "buffone": [
-    "bufːone"
-  ],
-  "buffoneggiare": [
-    "bufːonedːʒare"
-  ],
-  "buffoneria": [
-    "bufːoneria"
-  ],
-  "buffonesca": [
-    "bufːoneska"
-  ],
-  "buffonescamente": [
-    "bufːoneskamente"
-  ],
-  "buffonesche": [
-    "bufːoneske"
-  ],
-  "buffoneschi": [
-    "bufːoneski"
-  ],
-  "buffonesco": [
-    "bufːonesko"
-  ],
-  "buffoni": [
-    "bufːoni"
-  ],
-  "bufolo": [
-    "bufolo"
-  ],
-  "buganvillea": [
-    "buɡanvilːea"
-  ],
-  "buggerare": [
-    "budːʒerare"
-  ],
-  "buggerata": [
-    "budːʒerata"
-  ],
-  "bugia": [
-    "budʒa",
-    "budʒia"
-  ],
-  "bugìa": [
-    "budʒia"
-  ],
-  "bugiarda": [
-    "budʒarda"
-  ],
-  "bugiardamente": [
-    "budʒardamente"
-  ],
-  "bugiarde": [
-    "budʒarde"
-  ],
-  "bugiardi": [
-    "budʒardi"
-  ],
-  "bugiardino": [
-    "budʒardino"
-  ],
-  "bugiardo": [
-    "budʒardo"
-  ],
-  "bugie": [
-    "budʒie"
-  ],
-  "bugìe": [
-    "budʒie"
-  ],
-  "bugigattolo": [
-    "budʒiɡatːolo"
-  ],
-  "bugio": [
-    "budʒo"
-  ],
-  "bugliolo": [
-    "buʎɔlo"
-  ],
-  "bugliuolo": [
-    "buʎwɔlo"
-  ],
-  "bugna": [
-    "buɲɲa"
-  ],
-  "bugnare": [
-    "buɲɲare"
-  ],
-  "bugnato": [
-    "buɲɲato"
-  ],
-  "bugno": [
-    "buɲɲo"
-  ],
-  "bugnola": [
-    "buɲɲola"
-  ],
-  "bugola": [
-    "buɡola"
-  ],
-  "bui": [
-    "bui"
-  ],
-  "buia": [
-    "buja"
-  ],
-  "buie": [
-    "buje"
-  ],
-  "buio": [
-    "bujo"
-  ],
-  "bulbi": [
-    "bulbi"
-  ],
-  "bulbiforme": [
-    "bulbiforme"
-  ],
-  "bulbiformi": [
-    "bulbiformi"
-  ],
-  "bulbo": [
-    "bulbo"
-  ],
-  "bulbocastano": [
-    "bulbokastano"
-  ],
-  "bulbocodio": [
-    "bulbokɔdjo"
-  ],
-  "bulboso": [
-    "bulboso",
-    "bulbozo"
-  ],
-  "bulè": [
-    "bule",
-    "bulɛ"
-  ],
-  "buleuta": [
-    "bulɛwta"
-  ],
-  "buleuterio": [
-    "bulewtɛrjo"
-  ],
-  "bulgara": [
-    "bulɡara"
-  ],
-  "bulgare": [
-    "bulɡare"
-  ],
-  "bulgari": [
-    "bulɡari"
-  ],
-  "bulgaria": [
-    "bulɡaria"
-  ],
-  "bulgaro": [
-    "bulɡaro"
-  ],
-  "bulicare": [
-    "bulikare"
-  ],
-  "bulimia": [
-    "bulimia"
-  ],
-  "bulimica": [
-    "bulimika"
-  ],
-  "bulimicamente": [
-    "bulimikamente"
-  ],
-  "bulimiche": [
-    "bulimike"
-  ],
-  "bulimici": [
-    "bulimitʃi"
-  ],
-  "bulimico": [
-    "bulimiko"
-  ],
-  "bulimie": [
-    "bulimie"
-  ],
-  "bulinare": [
-    "bulinare"
-  ],
-  "bulini": [
-    "bulini"
-  ],
-  "bulino": [
-    "bulino"
-  ],
-  "bulldog": [
-    "buldɔɡ"
-  ],
-  "bulldozer": [
-    "buldɔdːzer"
-  ],
-  "bulletta": [
-    "bulːetːa"
-  ],
-  "bullettare": [
-    "bulːetːare"
-  ],
-  "bullette": [
-    "bulːetːe"
-  ]
+  "branzino": "brantsino",
+  "brasare": "brazare",
+  "brasata": "brazata",
+  "brasate": "brazate",
+  "brasati": "brazati",
+  "brasato": "brazato",
+  "brasatura": "brazatura",
+  "brasature": "brazature",
+  "brasile": "brazile",
+  "brasiliana": "braziljana",
+  "brasiliane": "braziljane",
+  "brasiliani": "braziljani",
+  "brasiliano": "braziljano",
+  "bratislava": "bratiʃlava",
+  "brattare": "bratːare",
+  "brava": "brava",
+  "bravamente": "bravamente",
+  "bravata": "bravata",
+  "brave": "brave",
+  "bravi": "bravi",
+  "bravino": "bravino",
+  "bravo": "bravo",
+  "bravura": "bravura",
+  "break": "brɛk",
+  "brecchi": "brekːi",
+  "breccia": "bretːʃa",
+  "breccia_2": "brɛtːʃa",
+  "brecciaio": "bretːʃajo",
+  "brecciame": "bretːʃame",
+  "breccie": "brɛtːʃe",
+  "breccioso": "bretːʃoso",
+  "breccioso_2": "bretːʃozo",
+  "brecco": "brekːo",
+  "brefotrofio": "brefotrɔfjo",
+  "bregnanese": "breɲɲanese",
+  "bregnanese_2": "breɲɲaneze",
+  "brema": "brema",
+  "breme": "brɛme",
+  "bremese": "bremese",
+  "bremesi": "bremesi",
+  "brendola": "brɛndola",
+  "brenna": "brenːa",
+  "brenta": "brɛnta",
+  "bresaola": "brezaola",
+  "bresaole": "brezaole",
+  "brescia": "breʃʃa",
+  "bresciana": "breʃʃana",
+  "bresciano": "breʃʃano",
+  "bressanone": "bresːanone",
+  "bretagna": "bretaɲɲa",
+  "bretella": "bretɛlːa",
+  "bretella_2": "brɛtɛlːa",
+  "bretelle": "brɛtɛlːe",
+  "bretellina": "bretelːina",
+  "bretone": "bretone",
+  "bretone_2": "brɛtone",
+  "bretoni": "bretoni",
+  "breva": "breva",
+  "breve": "breve",
+  "breve_2": "brɛve",
+  "brevemente": "brevemente",
+  "brevettabile": "brevetːabile",
+  "brevettabili": "brevetːabili",
+  "brevettata": "brevetːata",
+  "brevettate": "brevetːate",
+  "brevettati": "brevetːati",
+  "brevettato": "brevetːat",
+  "brevettato_2": "brevetːato",
+  "brevetti": "brevetːi",
+  "brevetto": "brevetːo",
+  "brevi": "brɛvi",
+  "breviare": "brevjare",
+  "breviario": "brevjarjo",
+  "brevio": "brɛvjo",
+  "brevissima": "brɛvisːima",
+  "brevissime": "brɛvisːime",
+  "brevissimi": "brɛvisːimi",
+  "brevissimo": "brɛvisːimo",
+  "brevità": "brevita",
+  "brezneviano": "breznevjano",
+  "brezza": "bredːsa",
+  "brezza_2": "bredːza",
+  "brezza_3": "bretːsa",
+  "brezza_4": "brɛtːsa",
+  "brezze": "bretːse",
+  "brianzolo": "briantsɔlo",
+  "bricco": "brikːo",
+  "briccola": "brikːola",
+  "bricconcella": "brikːontʃɛlːa",
+  "bricconcello": "brikːontʃɛlːo",
+  "briccone": "brikːone",
+  "briccone_2": "brikːɔne",
+  "bricconesco": "brikːonesko",
+  "bricconi": "brikːoni",
+  "briciola": "britʃola",
+  "briciole": "britʃole",
+  "briciolo": "britʃolo",
+  "brida": "brida",
+  "bridge": "bridʒ",
+  "bridgista": "bridːʒista",
+  "bridgiste": "bridːʒiste",
+  "bridgisti": "bridːʒisti",
+  "brie": "bri",
+  "briefing": "brifin",
+  "briefing_2": "brifinɡ",
+  "briefing_3": "brifiɲ",
+  "briga": "briɡa",
+  "brigadiera": "briɡadjɛra",
+  "brigadiere": "briɡadjɛre",
+  "brigadieri": "briɡadjɛre",
+  "brigantaggi": "briɡantadːʒi",
+  "brigantaggio": "briɡantadːʒo",
+  "brigante": "briɡante",
+  "brigantesco": "briɡantesko",
+  "brigantessa": "briɡantesːa",
+  "brigantesse": "briɡantesːe",
+  "briganti": "briɡanti",
+  "brigantino": "briɡantino",
+  "brigata": "briɡata",
+  "brigate": "briɡate",
+  "brigatista": "briɡatista",
+  "brighella": "briɡɛlːa",
+  "brigidinaia": "bridʒidinaja",
+  "brigidinaio": "bridʒidinajo",
+  "briglia": "brilʎja",
+  "briglia_2": "briʎa",
+  "briglia_3": "briʎja",
+  "briglie": "brilʎje",
+  "brilla": "brilːa",
+  "brillantare": "brilːantare",
+  "brillante": "brilːante",
+  "brillantemente": "brilːantemente",
+  "brillantezza": "brilːantetːsa",
+  "brillanti": "brilːanti",
+  "brillantina": "brilːantina",
+  "brillantissima": "brilːantisːima",
+  "brillantissimamente": "brilːantisːimamente",
+  "brillantissime": "brilːantisːime",
+  "brillantissimi": "brilːantisːimi",
+  "brillantissimo": "brilːantisːimo",
+  "brillanza": "brilːantsa",
+  "brillare": "brilːare",
+  "brillato": "brilːato",
+  "brille": "brilːe",
+  "brilli": "brilːi",
+  "brillo": "brilːa",
+  "brillo_2": "brilːo",
+  "brina": "brina",
+  "brinare": "brinare",
+  "brindante": "brindante",
+  "brindare": "brindare",
+  "brindato": "brindato",
+  "brindisi": "brindizi",
+  "brindisina": "brindizina",
+  "brindisino": "brindizino",
+  "brinoso": "brinoso",
+  "brinoso_2": "brinozo",
+  "brio": "brio",
+  "brioche": "briɔʃ",
+  "brioche_2": "briɔʃʃ",
+  "briosa": "briɔsa",
+  "briosamente": "briosamente",
+  "briose": "briɔse",
+  "briosi": "briɔsi",
+  "brioso": "brioso",
+  "brioso_2": "briozo",
+  "brioso_3": "briɔso",
+  "briscola": "briskola",
+  "brissottino": "brisːotːino",
+  "britanna": "britanːa",
+  "britanne": "britanːe",
+  "britanni": "britanːi",
+  "britannia": "britanːja",
+  "britannica": "britanːika",
+  "britanniche": "britanːike",
+  "britannici": "britanːitʃi",
+  "britannico": "britanːiko",
+  "britanno": "britanːo",
+  "brividante": "brividante",
+  "brividi": "brividi",
+  "brividio": "brividio",
+  "brivido": "brivido",
+  "brividoso": "brividozo",
+  "brizzolata": "britːsolata",
+  "brizzolate": "britːsolate",
+  "brizzolati": "britːsolati",
+  "brizzolato": "britːsolato",
+  "brocardo": "brokardo",
+  "brocca": "brɔkːa",
+  "broccare": "brokːare",
+  "brocche": "brɔkːe",
+  "brocciare": "brotːʃare",
+  "broccio": "brɔtːʃo",
+  "brocciolo": "brɔtːʃolo",
+  "brocco": "brɔkːo",
+  "broccoli": "brɔkːoli",
+  "broccolo": "brɔkːolo",
+  "brochure": "broʃur",
+  "broda": "brɔda",
+  "brodaio": "brodajo",
+  "brode": "brɔde",
+  "brodetto": "brodetːo",
+  "brodi": "brɔdi",
+  "brodo": "brɔdo",
+  "brodo_2": "brɔdɔ",
+  "brodoso": "brodoso",
+  "brodoso_2": "brodozo",
+  "brogli": "brɔʎi",
+  "brogliaccio": "broʎatːʃo",
+  "brogliare": "broʎare",
+  "broglio": "brɔʎo",
+  "brokeraggio": "brokeradːʒo",
+  "broletti": "broletːi",
+  "broletto": "broletːo",
+  "bromatologia": "bromatolodʒia",
+  "bromatologo": "bromatɔloɡo",
+  "bromeliacee": "bromeljatʃee",
+  "bromo": "brɔmo",
+  "bromoformio": "brɔmofɔrmjo",
+  "bromoindaco": "brɔmoindako",
+  "bromomercurico": "brɔmomerkuriko",
+  "bromometano": "brɔmometano",
+  "bromotoluene": "brɔmotoluɛne",
+  "bromurante": "bromurante",
+  "bromurare": "bromurare",
+  "bromurato": "bromurato",
+  "bromuro": "bromuro",
+  "bronchi": "brɔnki",
+  "bronchiale": "bronkjale",
+  "bronchiolo": "bronkiolo",
+  "bronchite": "bronkite",
+  "bronchite_2": "broɲkite",
+  "bronchiti": "bronkiti",
+  "broncio": "brontʃo",
+  "bronco": "bronko",
+  "bronco_2": "brɔnko",
+  "broncopolmonare": "bronkopolmonare",
+  "broncopolmonari": "bronkopolmonari",
+  "broncopolmonite": "bronkopolmonite",
+  "broncoscopi": "bronkoskɔpi",
+  "broncoscopia": "bronkoskɔpja",
+  "broncoscopica": "bronkoskɔpika",
+  "broncoscopiche": "bronkoskɔpike",
+  "broncoscopici": "bronkoskɔpitʃi",
+  "broncoscopico": "bronkoskɔpiko",
+  "broncoscopio": "bronkoskɔpjo",
+  "brontolare": "brontolare",
+  "brontolato": "brontolato",
+  "brontolio": "brontolio",
+  "brontolone": "brontolone",
+  "brontosauro": "brontosawro",
+  "bronzare": "brondzare",
+  "bronzato": "brondzato",
+  "bronzea": "brondzea",
+  "bronzee": "brondzee",
+  "bronzei": "brondzei",
+  "bronzeo": "brondzeo",
+  "bronzi": "brɔntso",
+  "bronzina": "brondzina",
+  "bronzine": "brondzine",
+  "bronzini": "brondzini",
+  "bronzino": "brondzino",
+  "bronzista": "brondzista",
+  "bronziste": "brondziste",
+  "bronzisti": "brondzisti",
+  "bronzo": "brondzo",
+  "broscia": "brɔʃʃa",
+  "brucare": "brukare",
+  "brucellosi": "brutʃelːɔzi",
+  "brucetiforme": "butʃerotiforme",
+  "bruchi": "bruki",
+  "bruciacchiare": "brutʃakːjare",
+  "bruciacchiarsi": "brutʃakːjarsi",
+  "bruciacchiato": "brutʃakːjato",
+  "bruciacchiatura": "brutʃakːjatura",
+  "bruciaferro": "brutʃafɛrːo",
+  "bruciante": "brutʃante",
+  "brucianti": "brutʃanti",
+  "bruciare": "brutʃare",
+  "bruciarsi": "brutʃarsi",
+  "bruciata": "brutʃata",
+  "bruciate": "brutʃate",
+  "bruciati": "brutʃati",
+  "bruciato": "brutʃato",
+  "bruciatore": "brutʃatore",
+  "bruciatura": "brutʃatura",
+  "bruciature": "brutʃature",
+  "bruciore": "brutʃore",
+  "bruciori": "brutʃori",
+  "bruco": "bruko",
+  "brufoli": "brufɔli",
+  "brufolo": "brufolo",
+  "brufolo_2": "brufɔlo",
+  "brufoloso": "brufoloso",
+  "brufoloso_2": "brufolozo",
+  "bruggia": "brudːʒa",
+  "brughiera": "bruɡjɛra",
+  "brugmansia": "bruɡmansja",
+  "brugo": "bruɡo",
+  "brugola": "bruɡola",
+  "brulicante": "brulikante",
+  "brulicare": "brulikare",
+  "brulicato": "brulikato",
+  "brullo": "brulːo",
+  "brulotto": "brulɔtːo",
+  "bruma": "bruma",
+  "brumaio": "brumajo",
+  "brumazione": "brumatːsjone",
+  "brumazioni": "brumatːsjoni",
+  "brumeggio": "brumedːʒo",
+  "brumoso": "brumoso",
+  "brumoso_2": "brumozo",
+  "bruna": "bruna",
+  "brunelda": "brunelda",
+  "brunello": "brunɛlːo",
+  "brunente": "brunente",
+  "bruniccio": "brunitːʃo",
+  "brunilda": "brunilda",
+  "brunilde": "brunilde",
+  "brunildo": "brunildo",
+  "brunire": "brunire",
+  "brunito": "brunito",
+  "bruno": "bruno",
+  "bruno_2": "brunɔ",
+  "brusca": "bruska",
+  "bruscamente": "bruskamente",
+  "bruscandolo": "bruskandolo",
+  "bruscare": "bruskare",
+  "brusche": "bruske",
+  "bruschetta": "brusketːa",
+  "bruschezza": "brusketːsa",
+  "bruschi": "bruski",
+  "bruschinare": "bruskinare",
+  "brusco": "brusko",
+  "brusio": "bruzio",
+  "brussellese": "brusːelːese",
+  "brussellese_2": "brusːelːeze",
+  "brussellesi": "brusːelːesi",
+  "bruta": "bruta",
+  "brutale": "brutale",
+  "brutali": "brutali",
+  "brutalismi": "brutalizmi",
+  "brutalismo": "brutalizmo",
+  "brutalità": "brutalita",
+  "brutalizzare": "brutalidːzare",
+  "brutalizzato": "brutalidːzato",
+  "brutalizzazione": "brutalidːzazjone",
+  "brutalizzazioni": "brutalidːzazjoni",
+  "brutalmente": "brutalmente",
+  "brute": "brute",
+  "bruteggiare": "brutedːʒare",
+  "bruti": "bruti",
+  "bruto": "bruto",
+  "brutta": "brutːa",
+  "brutte": "brutːe",
+  "bruttezza": "brutːetːsa",
+  "bruttezze": "brutːetːse",
+  "brutti": "brutːi",
+  "bruttino": "brutːino",
+  "bruttissima": "brutːisːima",
+  "bruttissime": "brutːisːime",
+  "bruttissimi": "brutːisːimi",
+  "bruttissimo": "brutːisːimo",
+  "brutto": "brutːo",
+  "bruttura": "brutːura",
+  "bruxelles": "bruksɛl",
+  "bruxelles_2": "brusːɛl",
+  "bruxismo": "bruksizmo",
+  "bu": "bu",
+  "bua": "bua",
+  "bubbolina": "bubːolina",
+  "bubbone": "bubːone",
+  "bubboni": "bubːoni",
+  "bubbonica": "bubːɔnika",
+  "bubboniche": "bubːɔnike",
+  "bubbonici": "bubːɔnitʃi",
+  "bubbonico": "bubːɔniko",
+  "buca": "buka",
+  "bucacchiare": "bukakːjare",
+  "bucalettere": "bukaletːere",
+  "bucaneve": "bukaneve",
+  "bucare": "bukare",
+  "bucata": "bukata",
+  "bucate": "bukate",
+  "bucati": "bukati",
+  "bucatino": "bukatino",
+  "bucato": "bukato",
+  "bucazio": "bukatːsjo",
+  "buccaro": "bukːaro",
+  "bucce": "butːʃe",
+  "buccheri": "bukːeri",
+  "bucchero": "bukːero",
+  "buccia": "butːʃa",
+  "buccio": "butːʃo",
+  "buccolica": "bukːɔlika",
+  "buccolicamente": "bukːolikamente",
+  "buccoliche": "bukːɔlike",
+  "buccolici": "bukːɔlitʃi",
+  "buccolico": "bukːɔliko",
+  "bucefalo": "butʃɛfalo",
+  "bucero": "butʃero",
+  "bucerotide": "butʃerɔtide",
+  "bucerotidi": "butʃerɔtidi",
+  "bucerotiforme": "butʃerotiforme",
+  "bucerotiformi": "butʃerotiformi",
+  "buche": "buke",
+  "bucherellare": "bukerelːare",
+  "buchetto": "buketːo",
+  "buchi": "buki",
+  "buchino": "bukino",
+  "bucintoro": "butʃintɔro",
+  "buco": "buko",
+  "bucolica": "bukɔlika",
+  "bucolicamente": "bukolikamente",
+  "bucoliche": "bukɔlike",
+  "bucolici": "bukɔlitʃi",
+  "bucolico": "bukɔliko",
+  "bucorvo": "bukɔrvo",
+  "bucranio": "bukranjo",
+  "budapest": "budapɛst",
+  "budda": "budːa",
+  "buddhismi": "budːizmi",
+  "buddhismo": "budːizmo",
+  "buddismi": "budːizmi",
+  "buddismo": "budːizmo",
+  "buddistica": "budːistika",
+  "buddistiche": "budːistike",
+  "buddistici": "budːistitʃi",
+  "buddistico": "budːistiko",
+  "budella": "budɛlːa",
+  "budellai": "budɛlːai",
+  "budellaia": "budɛlːaja",
+  "budellaie": "budɛlːaje",
+  "budellaio": "budɛlːajo",
+  "budelli": "budɛlːi",
+  "budello": "budɛlːo",
+  "budget": "badːʒet",
+  "budget_2": "budːʒet",
+  "budino": "budino",
+  "bue": "bue",
+  "bufaga": "bufaɡa",
+  "bufaghe": "bufaɡe",
+  "bufala": "bufala",
+  "bufalaio": "bufalajo",
+  "bufali": "bufali",
+  "bufalino": "bufalino",
+  "bufalo": "bufalo",
+  "bufalo_2": "bufalɔ",
+  "bufare": "bufare",
+  "bufera": "bufɛra",
+  "bufere": "bufɛre",
+  "buffa": "bufːa",
+  "buffamente": "bufːamente",
+  "buffare": "bufːare",
+  "buffe": "bufːe",
+  "bufferizzare": "bafːeridːzare",
+  "buffetta": "bufːetːa",
+  "buffette": "bufːetːe",
+  "buffetti": "bufːetːi",
+  "buffetto": "bufːetːo",
+  "buffi": "bufːi",
+  "buffo": "bufːo",
+  "buffona": "bufːona",
+  "buffonata": "bufːonata",
+  "buffone": "bufːone",
+  "buffoneggiare": "bufːonedːʒare",
+  "buffoneria": "bufːoneria",
+  "buffonesca": "bufːoneska",
+  "buffonescamente": "bufːoneskamente",
+  "buffonesche": "bufːoneske",
+  "buffoneschi": "bufːoneski",
+  "buffonesco": "bufːonesko",
+  "buffoni": "bufːoni",
+  "bufolo": "bufolo",
+  "buganvillea": "buɡanvilːea",
+  "buggerare": "budːʒerare",
+  "buggerata": "budːʒerata",
+  "bugia": "budʒa",
+  "bugia_2": "budʒia",
+  "bugìa": "budʒia",
+  "bugiarda": "budʒarda",
+  "bugiardamente": "budʒardamente",
+  "bugiarde": "budʒarde",
+  "bugiardi": "budʒardi",
+  "bugiardino": "budʒardino",
+  "bugiardo": "budʒardo",
+  "bugie": "budʒie",
+  "bugìe": "budʒie",
+  "bugigattolo": "budʒiɡatːolo",
+  "bugio": "budʒo",
+  "bugliolo": "buʎɔlo",
+  "bugliuolo": "buʎwɔlo",
+  "bugna": "buɲɲa",
+  "bugnare": "buɲɲare",
+  "bugnato": "buɲɲato",
+  "bugno": "buɲɲo",
+  "bugnola": "buɲɲola",
+  "bugola": "buɡola",
+  "bui": "bui",
+  "buia": "buja",
+  "buie": "buje",
+  "buio": "bujo",
+  "bulbi": "bulbi",
+  "bulbiforme": "bulbiforme",
+  "bulbiformi": "bulbiformi",
+  "bulbo": "bulbo",
+  "bulbocastano": "bulbokastano",
+  "bulbocodio": "bulbokɔdjo",
+  "bulboso": "bulboso",
+  "bulboso_2": "bulbozo",
+  "bulè": "bule",
+  "bulè_2": "bulɛ",
+  "buleuta": "bulɛwta",
+  "buleuterio": "bulewtɛrjo",
+  "bulgara": "bulɡara",
+  "bulgare": "bulɡare",
+  "bulgari": "bulɡari",
+  "bulgaria": "bulɡaria",
+  "bulgaro": "bulɡaro",
+  "bulicare": "bulikare",
+  "bulimia": "bulimia",
+  "bulimica": "bulimika",
+  "bulimicamente": "bulimikamente",
+  "bulimiche": "bulimike",
+  "bulimici": "bulimitʃi",
+  "bulimico": "bulimiko",
+  "bulimie": "bulimie",
+  "bulinare": "bulinare",
+  "bulini": "bulini",
+  "bulino": "bulino",
+  "bulldog": "buldɔɡ",
+  "bulldozer": "buldɔdːzer",
+  "bulletta": "bulːetːa",
+  "bullettare": "bulːetːare",
+  "bullette": "bulːetːe"
 }

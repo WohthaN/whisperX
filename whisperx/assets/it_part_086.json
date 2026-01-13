@@ -1,1539 +1,539 @@
 {
-  "fumanti": [
-    "fumanti"
-  ],
-  "fumare": [
-    "fumare"
-  ],
-  "fumarica": [
-    "fumarika"
-  ],
-  "fumariche": [
-    "fumarike"
-  ],
-  "fumarici": [
-    "fumaritʃi"
-  ],
-  "fumarico": [
-    "fumariko"
-  ],
-  "fumarola": [
-    "fumarɔla"
-  ],
-  "fumata": [
-    "fumata"
-  ],
-  "fumatina": [
-    "fumatina"
-  ],
-  "fumato": [
-    "fumato"
-  ],
-  "fumatore": [
-    "fumatore"
-  ],
-  "fumatori": [
-    "fumatori"
-  ],
-  "fumatrice": [
-    "fumatritʃe"
-  ],
-  "fumatrici": [
-    "fumatritʃi"
-  ],
-  "fumettaro": [
-    "fumetːaro"
-  ],
-  "fumetteria": [
-    "fumetːeria"
-  ],
-  "fumettista": [
-    "fumetːista"
-  ],
-  "fumettiste": [
-    "fumetːiste"
-  ],
-  "fumettisti": [
-    "fumetːisti"
-  ],
-  "fumettistica": [
-    "fumetːistika"
-  ],
-  "fumettistico": [
-    "fumetːistiko"
-  ],
-  "fumetto": [
-    "fumetːo"
-  ],
-  "fumista": [
-    "fumista"
-  ],
-  "fumisteria": [
-    "fumisteria"
-  ],
-  "fummo": [
-    "fumːo"
-  ],
-  "fumo": [
-    "fumo"
-  ],
-  "fumogeni": [
-    "fumɔdʒeni"
-  ],
-  "fumogeno": [
-    "fumɔdʒeno"
-  ],
-  "fumosamente": [
-    "fumosamente"
-  ],
-  "fumosità": [
-    "fumosita"
-  ],
-  "fumoso": [
-    "fumoso",
-    "fumozo"
-  ],
-  "funambola": [
-    "funambola"
-  ],
-  "funambole": [
-    "funambole"
-  ],
-  "funamboli": [
-    "funamboli"
-  ],
-  "funambolica": [
-    "funambɔliko"
-  ],
-  "funambolico": [
-    "funambɔliko"
-  ],
-  "funambolismo": [
-    "funambolizmo"
-  ],
-  "funambolo": [
-    "funambolo"
-  ],
-  "funame": [
-    "funame"
-  ],
-  "fune": [
-    "fune",
-    "skɔtːo"
-  ],
-  "funebre": [
-    "funebre",
-    "funɛbre"
-  ],
-  "funerale": [
-    "funerale"
-  ],
-  "funerali": [
-    "funerali"
-  ],
-  "funeralone": [
-    "funeralone"
-  ],
-  "funerante": [
-    "funerante"
-  ],
-  "funerario": [
-    "funerarjo"
-  ],
-  "funeratizio": [
-    "funeratitːsjo"
-  ],
-  "funere": [
-    "funere"
-  ],
-  "funereo": [
-    "funɛreo"
-  ],
-  "funesta": [
-    "funɛsta"
-  ],
-  "funestamente": [
-    "funestamente"
-  ],
-  "funeste": [
-    "funɛste"
-  ],
-  "funesti": [
-    "funɛsti"
-  ],
-  "funesto": [
-    "funɛsto"
-  ],
-  "fungaio": [
-    "funɡajo"
-  ],
-  "fungere": [
-    "fundʒere"
-  ],
-  "funghetto": [
-    "funɡetːo"
-  ],
-  "funghi": [
-    "funɡi"
-  ],
-  "funghicoltore": [
-    "funɡikoltore"
-  ],
-  "funghicoltura": [
-    "funɡikoltura"
-  ],
-  "funghicolture": [
-    "funɡikolture"
-  ],
-  "fungibile": [
-    "fundʒibile"
-  ],
-  "fungicoltura": [
-    "fundʒikoltura"
-  ],
-  "fungicolture": [
-    "fundʒikolture"
-  ],
-  "fungiforme": [
-    "fundʒiforme",
-    "fundʒifɔrme"
-  ],
-  "fungiformi": [
-    "fundʒifɔrmi"
-  ],
-  "fungo": [
-    "fuɲɡo"
-  ],
-  "funi": [
-    "funi"
-  ],
-  "funicolare": [
-    "funikolare"
-  ],
-  "funicolo": [
-    "funikolo"
-  ],
-  "funivia": [
-    "funivia"
-  ],
-  "funtore": [
-    "funtore"
-  ],
-  "funtori": [
-    "funtori"
-  ],
-  "funzionale": [
-    "funtsjonale"
-  ],
-  "funzionali": [
-    "funtsjonalisːimi"
-  ],
-  "funzionalissima": [
-    "funtsjonalisːima"
-  ],
-  "funzionalissime": [
-    "funtsjonalisːime"
-  ],
-  "funzionalissimi": [
-    "funtsjonalisːimi"
-  ],
-  "funzionalissimo": [
-    "funtsjonalisːimo"
-  ],
-  "funzionalista": [
-    "funtsjonalista"
-  ],
-  "funzionaliste": [
-    "funtsjonaliste"
-  ],
-  "funzionalisti": [
-    "funtsjonalisti"
-  ],
-  "funzionalistico": [
-    "funtsjonalistiko"
-  ],
-  "funzionalità": [
-    "funtsjonalita"
-  ],
-  "funzionalmente": [
-    "funtsjonalmente"
-  ],
-  "funzionamento": [
-    "funtsjonamento"
-  ],
-  "funzionante": [
-    "funtsjonante"
-  ],
-  "funzionare": [
-    "funtsjonare"
-  ],
-  "funzionari": [
-    "funtsjonari"
-  ],
-  "funzionaria": [
-    "funtsjonarja"
-  ],
-  "funzionarie": [
-    "funtsjonarje"
-  ],
-  "funzionario": [
-    "funtsjonarjo"
-  ],
-  "funzionato": [
-    "funtsjonato"
-  ],
-  "funzione": [
-    "funtsjone",
-    "funtsjɔne"
-  ],
-  "funziono": [
-    "funtsjono"
-  ],
-  "fuocherello": [
-    "fwokerɛlːo"
-  ],
-  "fuochi": [
-    "fwoki",
-    "fwɔki"
-  ],
-  "fuochista": [
-    "fwokista"
-  ],
-  "fuochiste": [
-    "fwokiste"
-  ],
-  "fuochisti": [
-    "fwokisti"
-  ],
-  "fuoco": [
-    "fuɔko",
-    "fwɔko"
-  ],
-  "fuor": [
-    "fwɔr"
-  ],
-  "fuori": [
-    "fuɔri",
-    "fwɔri"
-  ],
-  "fuoribordo": [
-    "fwɔribordo"
-  ],
-  "fuoricampo": [
-    "fwɔrikampo"
-  ],
-  "fuoriclasse": [
-    "fwɔriklasːe"
-  ],
-  "fuoricombattimenti": [
-    "fwɔrikombatːimenti"
-  ],
-  "fuoricombattimento": [
-    "fwɔrikombatːimento"
-  ],
-  "fuoricorso": [
-    "fwɔrikorso"
-  ],
-  "fuorilegge": [
-    "fworiledːʒe"
-  ],
-  "fuorimano": [
-    "fworimano"
-  ],
-  "fuorionda": [
-    "fwɔrionda"
-  ],
-  "fuoriserie": [
-    "fwɔrisɛrje"
-  ],
-  "fuoriuscita": [
-    "fwɔriuʃʃita"
-  ],
-  "fuoriuscito": [
-    "fwɔriuʃʃito"
-  ],
-  "fuorviante": [
-    "fwɔrviante"
-  ],
-  "fuorviato": [
-    "fwɔrviato"
-  ],
-  "furace": [
-    "furatʃe"
-  ],
-  "furare": [
-    "furare"
-  ],
-  "furba": [
-    "furba"
-  ],
-  "furbacchione": [
-    "furbakːjone"
-  ],
-  "furbamente": [
-    "furbamente"
-  ],
-  "furbastro": [
-    "furbastro"
-  ],
-  "furbe": [
-    "furbe"
-  ],
-  "furberia": [
-    "furberia"
-  ],
-  "furbescamente": [
-    "furbeskamente"
-  ],
-  "furbetto": [
-    "furbetːo"
-  ],
-  "furbi": [
-    "furbi"
-  ],
-  "furbizia": [
-    "furbitːsja"
-  ],
-  "furbo": [
-    "furbo"
-  ],
-  "furente": [
-    "furɛnte"
-  ],
-  "furere": [
-    "furere"
-  ],
-  "fureria": [
-    "fureria"
-  ],
-  "furerie": [
-    "furerie"
-  ],
-  "furetti": [
-    "furetːi"
-  ],
-  "furetto": [
-    "furetːo"
-  ],
-  "furfante": [
-    "furfante"
-  ],
-  "furfantesco": [
-    "furfantesko"
-  ],
-  "furfanti": [
-    "furfanti"
-  ],
-  "furgone": [
-    "furɡone"
-  ],
-  "furia": [
-    "furja"
-  ],
-  "furibonda": [
-    "furibɔnda"
-  ],
-  "furibonde": [
-    "furibɔnde"
-  ],
-  "furibondi": [
-    "furibɔndi"
-  ],
-  "furibondo": [
-    "furibondo",
-    "furibɔndɔ"
-  ],
-  "furiosamente": [
-    "furjosamente"
-  ],
-  "furioso": [
-    "furjoso",
-    "furjɔzɔ"
-  ],
-  "furnaride": [
-    "furnaride"
-  ],
-  "furnaridi": [
-    "furnaridi"
-  ],
-  "furo": [
-    "furo"
-  ],
-  "furono": [
-    "furono"
-  ],
-  "furore": [
-    "furore",
-    "furɔre"
-  ],
-  "furori": [
-    "furɔri"
-  ],
-  "furti": [
-    "furti"
-  ],
-  "furtiva": [
-    "furtiva"
-  ],
-  "furtivamente": [
-    "furtivamente"
-  ],
-  "furtive": [
-    "furtive"
-  ],
-  "furtivi": [
-    "furtivi"
-  ],
-  "furtività": [
-    "furtivita"
-  ],
-  "furtivo": [
-    "furtivo"
-  ],
-  "furto": [
-    "furto"
-  ],
-  "fusa": [
-    "fusa",
-    "fuza"
-  ],
-  "fuscello": [
-    "fuʃʃɛlːo"
-  ],
-  "fusibile": [
-    "fuzibile"
-  ],
-  "fusibili": [
-    "fuzibili"
-  ],
-  "fusibilità": [
-    "fuzibilita"
-  ],
-  "fusiforme": [
-    "fuziforme"
-  ],
-  "fusiformi": [
-    "fuziformi"
-  ],
-  "fusilli": [
-    "fusilːi",
-    "fuzilːi"
-  ],
-  "fusillo": [
-    "fusilːo",
-    "fuzilːo"
-  ],
-  "fusionabile": [
-    "fuzjonabile"
-  ],
-  "fusionabili": [
-    "fuzjonabili"
-  ],
-  "fusione": [
-    "fuzjone"
-  ],
-  "fuso": [
-    "fuso",
-    "fuzo"
-  ],
-  "fusoliera": [
-    "fuzoliɛra"
-  ],
-  "fusse": [
-    "fusːe"
-  ],
-  "fussi": [
-    "fusːi"
-  ],
-  "fustagnaio": [
-    "fustaɲɲajo"
-  ],
-  "fustagno": [
-    "fustaɲɲo"
-  ],
-  "fusti": [
-    "fusti"
-  ],
-  "fustigare": [
-    "fustiɡare"
-  ],
-  "fustigatore": [
-    "fustiɡatore"
-  ],
-  "fustigazione": [
-    "fustiɡatːsjone"
-  ],
-  "fusto": [
-    "fusto"
-  ],
-  "futile": [
-    "futile"
-  ],
-  "futilità": [
-    "futilita"
-  ],
-  "futuri": [
-    "futuri"
-  ],
-  "futuribile": [
-    "futuribile"
-  ],
-  "futurismo": [
-    "futurizmo"
-  ],
-  "futurista": [
-    "futurista"
-  ],
-  "futuristico": [
-    "futuristiko"
-  ],
-  "futuro": [
-    "futuro"
-  ],
-  "futurologa": [
-    "futurɔloɡa"
-  ],
-  "futurologo": [
-    "futurɔloɡo"
-  ],
-  "g": [
-    "dʒ",
-    "dʒi",
-    "ɡ"
-  ],
-  "gabardine": [
-    "ɡabardin",
-    "ɡabardine"
-  ],
-  "gabba": [
-    "ɡabːa"
-  ],
-  "gabbamento": [
-    "ɡabːamento"
-  ],
-  "gabbano": [
-    "ɡabːano"
-  ],
-  "gabbare": [
-    "ɡabːare"
-  ],
-  "gabbeo": [
-    "ɡabːɛo"
-  ],
-  "gabbia": [
-    "ɡabːja"
-  ],
-  "gabbiaia": [
-    "ɡabːjaja"
-  ],
-  "gabbiaio": [
-    "ɡabːjajo"
-  ],
-  "gabbianelli": [
-    "ɡabːjanɛlːi"
-  ],
-  "gabbianello": [
-    "ɡabːjanɛlːo"
-  ],
-  "gabbiani": [
-    "ɡabːjani"
-  ],
-  "gabbiano": [
-    "ɡabːjano"
-  ],
-  "gabbie": [
-    "ɡabːje"
-  ],
-  "gabbietta": [
-    "ɡabːjetːa"
-  ],
-  "gabbio": [
-    "ɡabːjo"
-  ],
-  "gabbionata": [
-    "ɡabːjonata"
-  ],
-  "gabbionate": [
-    "ɡabːjonate"
-  ],
-  "gabbione": [
-    "ɡabːjone"
-  ],
-  "gabbioni": [
-    "ɡabːjoni"
-  ],
-  "gabbiotto": [
-    "ɡabːjɔtːo"
-  ],
-  "gabbo": [
-    "ɡabːo"
-  ],
-  "gabbro": [
-    "ɡabːro"
-  ],
-  "gabella": [
-    "ɡabɛlːa"
-  ],
-  "gabinetti": [
-    "ɡabinetːi"
-  ],
-  "gabinetto": [
-    "ɡabinetːo"
-  ],
-  "gabon": [
-    "ɡabon"
-  ],
-  "gabonese": [
-    "ɡabonese"
-  ],
-  "gabonesi": [
-    "ɡabonesi"
-  ],
-  "gabriele": [
-    "ɡabriɛle"
-  ],
-  "gabriella": [
-    "ɡabriɛlːa"
-  ],
-  "gadolinio": [
-    "ɡadolinjo"
-  ],
-  "gaeta": [
-    "ɡaeta"
-  ],
-  "gaetana": [
-    "ɡaetana"
-  ],
-  "gaetano": [
-    "ɡaetano"
-  ],
-  "gaffa": [
-    "ɡafːa"
-  ],
-  "gaggia": [
-    "ɡadːʒa",
-    "ɡadːʒia"
-  ],
-  "gaggio": [
-    "ɡadːʒo"
-  ],
-  "gagliarda": [
-    "ɡaʎarda"
-  ],
-  "gagliardo": [
-    "ɡaʎardo"
-  ],
-  "gaglioffi": [
-    "ɡaʎɔfːi"
-  ],
-  "gaglioffo": [
-    "ɡaʎɔfːo"
-  ],
-  "gaia": [
-    "ɡaja"
-  ],
-  "gaiamente": [
-    "ɡaiamente"
-  ],
-  "gaillardia": [
-    "ɡailːardja"
-  ],
-  "gaio": [
-    "ɡajo"
-  ],
-  "gaja": [
-    "ɡaja"
-  ],
-  "gala": [
-    "ɡala"
-  ],
-  "galactagoga": [
-    "ɡalaktaɡoɡa"
-  ],
-  "galactagoghe": [
-    "ɡalaktaɡoɡe"
-  ],
-  "galactagoghi": [
-    "ɡalaktaɡoɡi"
-  ],
-  "galactagogo": [
-    "ɡalaktaɡoɡo"
-  ],
-  "galano": [
-    "ɡalano"
-  ],
-  "galante": [
-    "ɡalante"
-  ],
-  "galanteria": [
-    "ɡalanteria"
-  ],
-  "galanterie": [
-    "ɡalanterie"
-  ],
-  "galanti": [
-    "ɡalante"
-  ],
-  "galantuomo": [
-    "ɡalantwɔmo"
-  ],
-  "galassia": [
-    "ɡalasːja"
-  ],
-  "galassie": [
-    "ɡalasːja",
-    "ɡalasːje"
-  ],
-  "galatei": [
-    "ɡalatɛi"
-  ],
-  "galateo": [
-    "ɡalatɛo"
-  ],
-  "galattagogo": [
-    "ɡalatːaɡɔɡo"
-  ],
-  "galattica": [
-    "ɡalatːika"
-  ],
-  "galattiche": [
-    "ɡalatːike"
-  ],
-  "galattici": [
-    "ɡalatːitʃi"
-  ],
-  "galattico": [
-    "ɡalatːiko"
-  ],
-  "galattorrea": [
-    "ɡalatːorːɛa"
-  ],
-  "galattosio": [
-    "ɡalatːɔzjo"
-  ],
-  "galbano": [
-    "ɡalbano"
-  ],
-  "galea": [
-    "ɡalɛa"
-  ],
-  "galeazza": [
-    "ɡaleatːsa"
-  ],
-  "galeazzo": [
-    "ɡaleatːso"
-  ],
-  "galenico": [
-    "ɡalɛniko"
-  ],
-  "galeone": [
-    "ɡaleone"
-  ],
-  "galeopitechi": [
-    "ɡalɛopiteki"
-  ],
-  "galeopiteco": [
-    "ɡaleopitɛko",
-    "ɡalɛopiteko"
-  ],
-  "galeotto": [
-    "ɡaleɔtːo"
-  ],
-  "galera": [
-    "ɡalɛra"
-  ],
-  "galere": [
-    "ɡalɛre"
-  ],
-  "galeri": [
-    "ɡalɛri"
-  ],
-  "galero": [
-    "ɡalɛro"
-  ],
-  "galestro": [
-    "ɡalɛstro"
-  ],
-  "galileano": [
-    "ɡalileano"
-  ],
-  "galileiano": [
-    "ɡalilejano"
-  ],
-  "galileo": [
-    "ɡalilɛo"
-  ],
-  "galiziano": [
-    "ɡalitːsjano"
-  ],
-  "galla": [
-    "ɡalːa"
-  ],
-  "gallatagoga": [
-    "ɡalːataɡoɡa"
-  ],
-  "gallatagoghe": [
-    "ɡalːataɡoɡe"
-  ],
-  "gallatagoghi": [
-    "ɡalːataɡoɡi"
-  ],
-  "gallatagogo": [
-    "ɡalːataɡoɡo"
-  ],
-  "gallega": [
-    "ɡalːɛɡa"
-  ],
-  "galleggiante": [
-    "ɡalːedːʒante"
-  ],
-  "galleggianti": [
-    "ɡalːedːʒanti"
-  ],
-  "galleggiare": [
-    "ɡalːedːʒare"
-  ],
-  "galleggiato": [
-    "ɡalːedːʒato"
-  ],
-  "gallego": [
-    "ɡalːɛɡo"
-  ],
-  "galleria": [
-    "ɡalːeria",
-    "ɡalːɛrja"
-  ],
-  "gallerie": [
-    "ɡalːɛrje"
-  ],
-  "gallerista": [
-    "ɡalːerista"
-  ],
-  "galleriste": [
-    "ɡalːeriste"
-  ],
-  "galleristi": [
-    "ɡalːeristi"
-  ],
-  "gallese": [
-    "ɡalese",
-    "ɡalːese",
-    "ɡalːeze"
-  ],
-  "gallesi": [
-    "ɡalesi"
-  ],
-  "galletta": [
-    "ɡalːetːa"
-  ],
-  "galletto": [
-    "ɡalːetːo"
-  ],
-  "galli": [
-    "ɡaʎi"
-  ],
-  "gallia": [
-    "ɡalːia",
-    "ɡalːja"
-  ],
-  "galliambo": [
-    "ɡalːjambo"
-  ],
-  "gallicanismo": [
-    "ɡalːikanizmo"
-  ],
-  "gallicano": [
-    "ɡalːikano"
-  ],
-  "gallicinio": [
-    "ɡalːitʃinjo"
-  ],
-  "gallicismi": [
-    "ɡalːitʃizmi"
-  ],
-  "gallicismo": [
-    "ɡalːitʃizmo"
-  ],
-  "gallico": [
-    "ɡalːiko"
-  ],
-  "galliforme": [
-    "ɡalːiforme"
-  ],
-  "galliformi": [
-    "ɡalːiformi"
-  ],
-  "gallina": [
-    "ɡalːina"
-  ],
-  "gallinaccio": [
-    "ɡalːinatːʃo"
-  ],
-  "gallinacei": [
-    "ɡalːinatʃei"
-  ],
-  "gallinaceo": [
-    "ɡalːinatʃeo"
-  ],
-  "galline": [
-    "ɡalːine"
-  ],
-  "gallio": [
-    "ɡalːjo"
-  ],
-  "gallo": [
-    "ɡalːo"
-  ],
-  "gallofobia": [
-    "ɡalːofobia"
-  ],
-  "galloitalico": [
-    "ɡalːoitaliko"
-  ],
-  "gallone": [
-    "ɡalːone"
-  ],
-  "gallura": [
-    "ɡalːura"
-  ],
-  "gallurese": [
-    "ɡalːurese",
-    "ɡalːureze"
-  ],
-  "galluresi": [
-    "ɡalːuresi"
-  ],
-  "galoppante": [
-    "ɡalopːante"
-  ],
-  "galoppare": [
-    "ɡalopːare"
-  ],
-  "galoppato": [
-    "ɡalopːato"
-  ],
-  "galoppino": [
-    "ɡalopːino"
-  ],
-  "galoppo": [
-    "ɡalɔpːo"
-  ],
-  "galvani": [
-    "ɡalvani"
-  ],
-  "galvanica": [
-    "ɡalvanika"
-  ],
-  "galvaniche": [
-    "ɡalvanike"
-  ],
-  "galvanici": [
-    "ɡalvanitʃi"
-  ],
-  "galvanico": [
-    "ɡalvaniko"
-  ],
-  "galvanismi": [
-    "ɡalvanizmi"
-  ],
-  "galvanismo": [
-    "ɡalvanizmo"
-  ],
-  "galvanizzante": [
-    "ɡalvanidːzante"
-  ],
-  "galvanizzare": [
-    "ɡalvanidːzare"
-  ],
-  "galvanizzato": [
-    "ɡalvanidːzato"
-  ],
-  "galvanizzazione": [
-    "ɡalvanidːzatsjone"
-  ],
-  "galvanizzazioni": [
-    "ɡalvanidːzatsjoni"
-  ],
-  "galvano": [
-    "ɡalvano"
-  ],
-  "galvanomagnetica": [
-    "ɡalvanomaɲɲɛtika"
-  ],
-  "galvanomagnetiche": [
-    "ɡalvanomaɲɲɛtike"
-  ],
-  "galvanomagnetici": [
-    "ɡalvanomaɲɲɛtitʃi"
-  ],
-  "galvanomagnetico": [
-    "ɡalvanomaɲɲɛtiko"
-  ],
-  "galvanometri": [
-    "ɡalvanɔmetri"
-  ],
-  "galvanometro": [
-    "ɡalvanɔmetro"
-  ],
-  "galvanoplastica": [
-    "ɡalvanoplastika"
-  ],
-  "galvanoplastiche": [
-    "ɡalvanoplastike"
-  ],
-  "galvanoplastico": [
-    "ɡalvanoplastiko"
-  ],
-  "galvanostegia": [
-    "ɡalvanostedʒia"
-  ],
-  "galvanotipia": [
-    "ɡalvanotipia"
-  ],
-  "galvanotipie": [
-    "ɡalvanotipie"
-  ],
-  "galvanotipista": [
-    "ɡalvanotipista"
-  ],
-  "galvanotipiste": [
-    "ɡalvanotipiste"
-  ],
-  "galvanotipisti": [
-    "ɡalvanotipisti"
-  ],
-  "gamba": [
-    "ɡamba"
-  ],
-  "gambalaio": [
-    "ɡambalajo"
-  ],
-  "gambasecca": [
-    "ɡambazekːa"
-  ],
-  "gambe": [
-    "ɡambe"
-  ],
-  "gambecchi": [
-    "ɡambekːjo"
-  ],
-  "gambecchio": [
-    "ɡambekːjo"
-  ],
-  "gamberana": [
-    "ɡamberana"
-  ],
-  "gamberetti": [
-    "ɡamberetːi"
-  ],
-  "gamberetto": [
-    "ɡamberetːo"
-  ],
-  "gamberi": [
-    "ɡambɛri"
-  ],
-  "gambero": [
-    "ɡambero",
-    "ɡambɛro"
-  ],
-  "gambetto": [
-    "ɡambetːo"
-  ],
-  "gambia": [
-    "ɡambja"
-  ],
-  "gambiana": [
-    "ɡambjana"
-  ],
-  "gambiane": [
-    "ɡambjane"
-  ],
-  "gambiani": [
-    "ɡambjani"
-  ],
-  "gambiano": [
-    "ɡambjano"
-  ],
-  "gambina": [
-    "ɡambina"
-  ],
-  "gambista": [
-    "ɡambista"
-  ],
-  "gambiste": [
-    "ɡambiste"
-  ],
-  "gambisti": [
-    "ɡambisti"
-  ],
-  "gambitto": [
-    "ɡambitːo"
-  ],
-  "gambizzare": [
-    "ɡambidːzare"
-  ],
-  "gambizzazione": [
-    "ɡambidːzatːsjone"
-  ],
-  "game": [
-    "ɡejm"
-  ],
-  "gamella": [
-    "ɡamelːa"
-  ],
-  "gamete": [
-    "ɡamɛte"
-  ],
-  "gameti": [
-    "ɡamɛti"
-  ],
-  "gamma": [
-    "ɡamːa"
-  ],
-  "gammacismo": [
-    "ɡamːatʃizmo"
-  ],
-  "gammato": [
-    "ɡamːato"
-  ],
-  "gamurra": [
-    "ɡamurːa"
-  ],
-  "ganaese": [
-    "ɡanaese"
-  ],
-  "ganaesi": [
-    "ɡanaesi"
-  ],
-  "ganascia": [
-    "ɡanaʃʃa"
-  ],
-  "gancio": [
-    "ɡantʃo"
-  ],
-  "gandhiano": [
-    "ɡandjano"
-  ],
-  "gandolfo": [
-    "ɡandɔlfo"
-  ],
-  "ganeana": [
-    "ɡaeana"
-  ],
-  "ganeane": [
-    "ɡaeane"
-  ],
-  "ganeani": [
-    "ɡaeani"
-  ],
-  "ganeano": [
-    "ɡaeano"
-  ],
-  "ganese": [
-    "ɡanese"
-  ],
-  "ganesi": [
-    "ɡanesi"
-  ],
-  "gang": [
-    "ɡanɡ",
-    "ɡɛnɡ"
-  ],
-  "ganga": [
-    "ɡanɡa",
-    "ɡaɲɡa"
-  ],
-  "gange": [
-    "ɡandʒe"
-  ],
-  "gangheri": [
-    "ɡanɡeri"
-  ],
-  "ganghero": [
-    "ɡanɡero"
-  ],
-  "gangia": [
-    "ɡandʒa"
-  ],
-  "gangli": [
-    "ɡanɡli"
-  ],
-  "gangliforme": [
-    "ɡanɡliforme"
-  ],
-  "ganglio": [
-    "ɡanɡljo"
-  ],
-  "gangrena": [
-    "ɡanɡrɛna"
-  ],
-  "gangrene": [
-    "ɡanɡrɛne"
-  ],
-  "gangster": [
-    "ɡanɡster",
-    "ɡɛnɡster",
-    "ɡɛnster"
-  ],
-  "ganimede": [
-    "ɡanimɛde"
-  ],
-  "gannire": [
-    "ɡanːire"
-  ],
-  "gap": [
-    "ɡɛp"
-  ],
-  "gara": [
-    "ɡara"
-  ],
-  "garage": [
-    "ɡaraʒ"
-  ],
-  "garagista": [
-    "ɡaradʒista",
-    "ɡaraʒista"
-  ],
-  "garagiste": [
-    "ɡaradʒiste"
-  ],
-  "garagisti": [
-    "ɡaradʒisti"
-  ],
-  "garante": [
-    "ɡarante"
-  ],
-  "garanti": [
-    "ɡaranti"
-  ],
-  "garantire": [
-    "ɡarantire"
-  ],
-  "garantismi": [
-    "ɡarantizmi"
-  ],
-  "garantismo": [
-    "ɡarantizmo"
-  ],
-  "garantista": [
-    "ɡarantista"
-  ],
-  "garantita": [
-    "ɡarantita"
-  ],
-  "garantite": [
-    "ɡarantite"
-  ],
-  "garantiti": [
-    "ɡarantiti"
-  ],
-  "garantito": [
-    "ɡarantito"
-  ],
-  "garanzia": [
-    "ɡarantsia"
-  ],
-  "garanzie": [
-    "ɡarantsie"
-  ],
-  "garbatamente": [
-    "ɡarbatamente"
-  ],
-  "garbatezza": [
-    "ɡarbatetːsa"
-  ],
-  "garbato": [
-    "ɡarbato"
-  ],
-  "garbino": [
-    "ɡarbino"
-  ],
-  "garbo": [
-    "ɡarbo"
-  ],
-  "garbuglio": [
-    "ɡarbuʎo"
-  ],
-  "gardenese": [
-    "ɡardenese",
-    "ɡardeneze"
-  ],
-  "gardenia": [
-    "ɡardɛnja"
-  ],
-  "gareggiare": [
-    "ɡaredːʒare"
-  ],
-  "gareggiato": [
-    "ɡaredːʒato"
-  ],
-  "gareggiatrice": [
-    "ɡaredːʒatritʃe"
-  ],
-  "garenna": [
-    "ɡarɛnːa"
-  ],
-  "garganella": [
-    "ɡarɡanɛlːa"
-  ],
-  "gargantuesca": [
-    "ɡarɡantueska"
-  ],
-  "gargantuesche": [
-    "ɡarɡantueske"
-  ],
-  "gargantuesci": [
-    "ɡarɡantuestʃi"
-  ],
-  "gargantuesco": [
-    "ɡarɡantuesko"
-  ],
-  "gargarismo": [
-    "ɡarɡarizmo"
-  ],
-  "gargarozzo": [
-    "ɡarɡarɔtːso"
-  ],
-  "gargia": [
-    "ɡardʒa"
-  ],
-  "garibaldina": [
-    "ɡaribaldina"
-  ],
-  "garibaldine": [
-    "ɡaribaldine"
-  ],
-  "garibaldini": [
-    "ɡaribaldini"
-  ],
-  "garibaldino": [
-    "ɡaribaldino"
-  ],
-  "garitta": [
-    "ɡaritːa"
-  ],
-  "garofani": [
-    "ɡarɔfani"
-  ],
-  "garofano": [
-    "ɡarɔfano"
-  ],
-  "garrente": [
-    "ɡarente"
-  ],
-  "garrese": [
-    "ɡarːese",
-    "ɡarːeze"
-  ],
-  "garrire": [
-    "ɡarːire"
-  ],
-  "garrito": [
-    "ɡarːito"
-  ],
-  "garrulo": [
-    "ɡarːulo"
-  ],
-  "garusa": [
-    "ɡaruza"
-  ],
-  "garza": [
-    "ɡardza"
-  ],
-  "garzare": [
-    "ɡardzare"
-  ],
-  "garze": [
-    "ɡardze"
-  ],
-  "garzetta": [
-    "ɡardzetːa"
-  ],
-  "garzonato": [
-    "ɡardzonato"
-  ],
-  "garzone": [
-    "ɡardzone"
-  ],
-  "gas": [
-    "ɡas"
-  ],
-  "gasdinamica": [
-    "ɡaʃdinamika"
-  ],
-  "gasdotti": [
-    "ɡazdotːi"
-  ],
-  "gasdotto": [
-    "ɡazdotːo"
-  ],
-  "gasista": [
-    "ɡazista"
-  ],
-  "gasiste": [
-    "ɡaziste"
-  ],
-  "gasisti": [
-    "ɡazisti"
-  ],
-  "gasolina": [
-    "ɡazolina"
-  ],
-  "gasolio": [
-    "ɡazɔljo"
-  ],
-  "gasometri": [
-    "ɡazometri",
-    "ɡazɔmetri"
-  ],
-  "gasometro": [
-    "ɡazometro",
-    "ɡazɔmetro"
-  ],
-  "gassato": [
-    "ɡasːato"
-  ],
-  "gassificabile": [
-    "ɡasːifikabil"
-  ],
-  "gassificabili": [
-    "ɡasːifikabili"
-  ],
-  "gassificare": [
-    "ɡasːifikare"
-  ],
-  "gassificazione": [
-    "ɡasːifikatsjone"
-  ],
-  "gassista": [
-    "ɡasːista"
-  ],
-  "gassiste": [
-    "ɡasːiste"
-  ],
-  "gassisti": [
-    "ɡasːisti"
-  ],
-  "gassogeno": [
-    "ɡasːɔdʒeno"
-  ],
-  "gassometri": [
-    "ɡasːometri"
-  ],
-  "gassometria": [
-    "ɡasːometria"
-  ],
-  "gassometro": [
-    "ɡasːometro"
-  ],
-  "gassoso": [
-    "ɡasːoso",
-    "ɡasːozo"
-  ],
-  "gasteropode": [
-    "ɡasterɔpode"
-  ],
-  "gasteropodi": [
-    "ɡasterɔpodi"
-  ]
+  "fumanti": "fumanti",
+  "fumare": "fumare",
+  "fumarica": "fumarika",
+  "fumariche": "fumarike",
+  "fumarici": "fumaritʃi",
+  "fumarico": "fumariko",
+  "fumarola": "fumarɔla",
+  "fumata": "fumata",
+  "fumatina": "fumatina",
+  "fumato": "fumato",
+  "fumatore": "fumatore",
+  "fumatori": "fumatori",
+  "fumatrice": "fumatritʃe",
+  "fumatrici": "fumatritʃi",
+  "fumettaro": "fumetːaro",
+  "fumetteria": "fumetːeria",
+  "fumettista": "fumetːista",
+  "fumettiste": "fumetːiste",
+  "fumettisti": "fumetːisti",
+  "fumettistica": "fumetːistika",
+  "fumettistico": "fumetːistiko",
+  "fumetto": "fumetːo",
+  "fumista": "fumista",
+  "fumisteria": "fumisteria",
+  "fummo": "fumːo",
+  "fumo": "fumo",
+  "fumogeni": "fumɔdʒeni",
+  "fumogeno": "fumɔdʒeno",
+  "fumosamente": "fumosamente",
+  "fumosità": "fumosita",
+  "fumoso": "fumoso",
+  "fumoso_2": "fumozo",
+  "funambola": "funambola",
+  "funambole": "funambole",
+  "funamboli": "funamboli",
+  "funambolica": "funambɔliko",
+  "funambolico": "funambɔliko",
+  "funambolismo": "funambolizmo",
+  "funambolo": "funambolo",
+  "funame": "funame",
+  "fune": "fune",
+  "fune_2": "skɔtːo",
+  "funebre": "funebre",
+  "funebre_2": "funɛbre",
+  "funerale": "funerale",
+  "funerali": "funerali",
+  "funeralone": "funeralone",
+  "funerante": "funerante",
+  "funerario": "funerarjo",
+  "funeratizio": "funeratitːsjo",
+  "funere": "funere",
+  "funereo": "funɛreo",
+  "funesta": "funɛsta",
+  "funestamente": "funestamente",
+  "funeste": "funɛste",
+  "funesti": "funɛsti",
+  "funesto": "funɛsto",
+  "fungaio": "funɡajo",
+  "fungere": "fundʒere",
+  "funghetto": "funɡetːo",
+  "funghi": "funɡi",
+  "funghicoltore": "funɡikoltore",
+  "funghicoltura": "funɡikoltura",
+  "funghicolture": "funɡikolture",
+  "fungibile": "fundʒibile",
+  "fungicoltura": "fundʒikoltura",
+  "fungicolture": "fundʒikolture",
+  "fungiforme": "fundʒiforme",
+  "fungiforme_2": "fundʒifɔrme",
+  "fungiformi": "fundʒifɔrmi",
+  "fungo": "fuɲɡo",
+  "funi": "funi",
+  "funicolare": "funikolare",
+  "funicolo": "funikolo",
+  "funivia": "funivia",
+  "funtore": "funtore",
+  "funtori": "funtori",
+  "funzionale": "funtsjonale",
+  "funzionali": "funtsjonalisːimi",
+  "funzionalissima": "funtsjonalisːima",
+  "funzionalissime": "funtsjonalisːime",
+  "funzionalissimi": "funtsjonalisːimi",
+  "funzionalissimo": "funtsjonalisːimo",
+  "funzionalista": "funtsjonalista",
+  "funzionaliste": "funtsjonaliste",
+  "funzionalisti": "funtsjonalisti",
+  "funzionalistico": "funtsjonalistiko",
+  "funzionalità": "funtsjonalita",
+  "funzionalmente": "funtsjonalmente",
+  "funzionamento": "funtsjonamento",
+  "funzionante": "funtsjonante",
+  "funzionare": "funtsjonare",
+  "funzionari": "funtsjonari",
+  "funzionaria": "funtsjonarja",
+  "funzionarie": "funtsjonarje",
+  "funzionario": "funtsjonarjo",
+  "funzionato": "funtsjonato",
+  "funzione": "funtsjone",
+  "funzione_2": "funtsjɔne",
+  "funziono": "funtsjono",
+  "fuocherello": "fwokerɛlːo",
+  "fuochi": "fwoki",
+  "fuochi_2": "fwɔki",
+  "fuochista": "fwokista",
+  "fuochiste": "fwokiste",
+  "fuochisti": "fwokisti",
+  "fuoco": "fuɔko",
+  "fuoco_2": "fwɔko",
+  "fuor": "fwɔr",
+  "fuori": "fuɔri",
+  "fuori_2": "fwɔri",
+  "fuoribordo": "fwɔribordo",
+  "fuoricampo": "fwɔrikampo",
+  "fuoriclasse": "fwɔriklasːe",
+  "fuoricombattimenti": "fwɔrikombatːimenti",
+  "fuoricombattimento": "fwɔrikombatːimento",
+  "fuoricorso": "fwɔrikorso",
+  "fuorilegge": "fworiledːʒe",
+  "fuorimano": "fworimano",
+  "fuorionda": "fwɔrionda",
+  "fuoriserie": "fwɔrisɛrje",
+  "fuoriuscita": "fwɔriuʃʃita",
+  "fuoriuscito": "fwɔriuʃʃito",
+  "fuorviante": "fwɔrviante",
+  "fuorviato": "fwɔrviato",
+  "furace": "furatʃe",
+  "furare": "furare",
+  "furba": "furba",
+  "furbacchione": "furbakːjone",
+  "furbamente": "furbamente",
+  "furbastro": "furbastro",
+  "furbe": "furbe",
+  "furberia": "furberia",
+  "furbescamente": "furbeskamente",
+  "furbetto": "furbetːo",
+  "furbi": "furbi",
+  "furbizia": "furbitːsja",
+  "furbo": "furbo",
+  "furente": "furɛnte",
+  "furere": "furere",
+  "fureria": "fureria",
+  "furerie": "furerie",
+  "furetti": "furetːi",
+  "furetto": "furetːo",
+  "furfante": "furfante",
+  "furfantesco": "furfantesko",
+  "furfanti": "furfanti",
+  "furgone": "furɡone",
+  "furia": "furja",
+  "furibonda": "furibɔnda",
+  "furibonde": "furibɔnde",
+  "furibondi": "furibɔndi",
+  "furibondo": "furibondo",
+  "furibondo_2": "furibɔndɔ",
+  "furiosamente": "furjosamente",
+  "furioso": "furjoso",
+  "furioso_2": "furjɔzɔ",
+  "furnaride": "furnaride",
+  "furnaridi": "furnaridi",
+  "furo": "furo",
+  "furono": "furono",
+  "furore": "furore",
+  "furore_2": "furɔre",
+  "furori": "furɔri",
+  "furti": "furti",
+  "furtiva": "furtiva",
+  "furtivamente": "furtivamente",
+  "furtive": "furtive",
+  "furtivi": "furtivi",
+  "furtività": "furtivita",
+  "furtivo": "furtivo",
+  "furto": "furto",
+  "fusa": "fusa",
+  "fusa_2": "fuza",
+  "fuscello": "fuʃʃɛlːo",
+  "fusibile": "fuzibile",
+  "fusibili": "fuzibili",
+  "fusibilità": "fuzibilita",
+  "fusiforme": "fuziforme",
+  "fusiformi": "fuziformi",
+  "fusilli": "fusilːi",
+  "fusilli_2": "fuzilːi",
+  "fusillo": "fusilːo",
+  "fusillo_2": "fuzilːo",
+  "fusionabile": "fuzjonabile",
+  "fusionabili": "fuzjonabili",
+  "fusione": "fuzjone",
+  "fuso": "fuso",
+  "fuso_2": "fuzo",
+  "fusoliera": "fuzoliɛra",
+  "fusse": "fusːe",
+  "fussi": "fusːi",
+  "fustagnaio": "fustaɲɲajo",
+  "fustagno": "fustaɲɲo",
+  "fusti": "fusti",
+  "fustigare": "fustiɡare",
+  "fustigatore": "fustiɡatore",
+  "fustigazione": "fustiɡatːsjone",
+  "fusto": "fusto",
+  "futile": "futile",
+  "futilità": "futilita",
+  "futuri": "futuri",
+  "futuribile": "futuribile",
+  "futurismo": "futurizmo",
+  "futurista": "futurista",
+  "futuristico": "futuristiko",
+  "futuro": "futuro",
+  "futurologa": "futurɔloɡa",
+  "futurologo": "futurɔloɡo",
+  "g": "dʒ",
+  "g_2": "dʒi",
+  "g_3": "ɡ",
+  "gabardine": "ɡabardin",
+  "gabardine_2": "ɡabardine",
+  "gabba": "ɡabːa",
+  "gabbamento": "ɡabːamento",
+  "gabbano": "ɡabːano",
+  "gabbare": "ɡabːare",
+  "gabbeo": "ɡabːɛo",
+  "gabbia": "ɡabːja",
+  "gabbiaia": "ɡabːjaja",
+  "gabbiaio": "ɡabːjajo",
+  "gabbianelli": "ɡabːjanɛlːi",
+  "gabbianello": "ɡabːjanɛlːo",
+  "gabbiani": "ɡabːjani",
+  "gabbiano": "ɡabːjano",
+  "gabbie": "ɡabːje",
+  "gabbietta": "ɡabːjetːa",
+  "gabbio": "ɡabːjo",
+  "gabbionata": "ɡabːjonata",
+  "gabbionate": "ɡabːjonate",
+  "gabbione": "ɡabːjone",
+  "gabbioni": "ɡabːjoni",
+  "gabbiotto": "ɡabːjɔtːo",
+  "gabbo": "ɡabːo",
+  "gabbro": "ɡabːro",
+  "gabella": "ɡabɛlːa",
+  "gabinetti": "ɡabinetːi",
+  "gabinetto": "ɡabinetːo",
+  "gabon": "ɡabon",
+  "gabonese": "ɡabonese",
+  "gabonesi": "ɡabonesi",
+  "gabriele": "ɡabriɛle",
+  "gabriella": "ɡabriɛlːa",
+  "gadolinio": "ɡadolinjo",
+  "gaeta": "ɡaeta",
+  "gaetana": "ɡaetana",
+  "gaetano": "ɡaetano",
+  "gaffa": "ɡafːa",
+  "gaggia": "ɡadːʒa",
+  "gaggia_2": "ɡadːʒia",
+  "gaggio": "ɡadːʒo",
+  "gagliarda": "ɡaʎarda",
+  "gagliardo": "ɡaʎardo",
+  "gaglioffi": "ɡaʎɔfːi",
+  "gaglioffo": "ɡaʎɔfːo",
+  "gaia": "ɡaja",
+  "gaiamente": "ɡaiamente",
+  "gaillardia": "ɡailːardja",
+  "gaio": "ɡajo",
+  "gaja": "ɡaja",
+  "gala": "ɡala",
+  "galactagoga": "ɡalaktaɡoɡa",
+  "galactagoghe": "ɡalaktaɡoɡe",
+  "galactagoghi": "ɡalaktaɡoɡi",
+  "galactagogo": "ɡalaktaɡoɡo",
+  "galano": "ɡalano",
+  "galante": "ɡalante",
+  "galanteria": "ɡalanteria",
+  "galanterie": "ɡalanterie",
+  "galanti": "ɡalante",
+  "galantuomo": "ɡalantwɔmo",
+  "galassia": "ɡalasːja",
+  "galassie": "ɡalasːja",
+  "galassie_2": "ɡalasːje",
+  "galatei": "ɡalatɛi",
+  "galateo": "ɡalatɛo",
+  "galattagogo": "ɡalatːaɡɔɡo",
+  "galattica": "ɡalatːika",
+  "galattiche": "ɡalatːike",
+  "galattici": "ɡalatːitʃi",
+  "galattico": "ɡalatːiko",
+  "galattorrea": "ɡalatːorːɛa",
+  "galattosio": "ɡalatːɔzjo",
+  "galbano": "ɡalbano",
+  "galea": "ɡalɛa",
+  "galeazza": "ɡaleatːsa",
+  "galeazzo": "ɡaleatːso",
+  "galenico": "ɡalɛniko",
+  "galeone": "ɡaleone",
+  "galeopitechi": "ɡalɛopiteki",
+  "galeopiteco": "ɡaleopitɛko",
+  "galeopiteco_2": "ɡalɛopiteko",
+  "galeotto": "ɡaleɔtːo",
+  "galera": "ɡalɛra",
+  "galere": "ɡalɛre",
+  "galeri": "ɡalɛri",
+  "galero": "ɡalɛro",
+  "galestro": "ɡalɛstro",
+  "galileano": "ɡalileano",
+  "galileiano": "ɡalilejano",
+  "galileo": "ɡalilɛo",
+  "galiziano": "ɡalitːsjano",
+  "galla": "ɡalːa",
+  "gallatagoga": "ɡalːataɡoɡa",
+  "gallatagoghe": "ɡalːataɡoɡe",
+  "gallatagoghi": "ɡalːataɡoɡi",
+  "gallatagogo": "ɡalːataɡoɡo",
+  "gallega": "ɡalːɛɡa",
+  "galleggiante": "ɡalːedːʒante",
+  "galleggianti": "ɡalːedːʒanti",
+  "galleggiare": "ɡalːedːʒare",
+  "galleggiato": "ɡalːedːʒato",
+  "gallego": "ɡalːɛɡo",
+  "galleria": "ɡalːeria",
+  "galleria_2": "ɡalːɛrja",
+  "gallerie": "ɡalːɛrje",
+  "gallerista": "ɡalːerista",
+  "galleriste": "ɡalːeriste",
+  "galleristi": "ɡalːeristi",
+  "gallese": "ɡalese",
+  "gallese_2": "ɡalːese",
+  "gallese_3": "ɡalːeze",
+  "gallesi": "ɡalesi",
+  "galletta": "ɡalːetːa",
+  "galletto": "ɡalːetːo",
+  "galli": "ɡaʎi",
+  "gallia": "ɡalːia",
+  "gallia_2": "ɡalːja",
+  "galliambo": "ɡalːjambo",
+  "gallicanismo": "ɡalːikanizmo",
+  "gallicano": "ɡalːikano",
+  "gallicinio": "ɡalːitʃinjo",
+  "gallicismi": "ɡalːitʃizmi",
+  "gallicismo": "ɡalːitʃizmo",
+  "gallico": "ɡalːiko",
+  "galliforme": "ɡalːiforme",
+  "galliformi": "ɡalːiformi",
+  "gallina": "ɡalːina",
+  "gallinaccio": "ɡalːinatːʃo",
+  "gallinacei": "ɡalːinatʃei",
+  "gallinaceo": "ɡalːinatʃeo",
+  "galline": "ɡalːine",
+  "gallio": "ɡalːjo",
+  "gallo": "ɡalːo",
+  "gallofobia": "ɡalːofobia",
+  "galloitalico": "ɡalːoitaliko",
+  "gallone": "ɡalːone",
+  "gallura": "ɡalːura",
+  "gallurese": "ɡalːurese",
+  "gallurese_2": "ɡalːureze",
+  "galluresi": "ɡalːuresi",
+  "galoppante": "ɡalopːante",
+  "galoppare": "ɡalopːare",
+  "galoppato": "ɡalopːato",
+  "galoppino": "ɡalopːino",
+  "galoppo": "ɡalɔpːo",
+  "galvani": "ɡalvani",
+  "galvanica": "ɡalvanika",
+  "galvaniche": "ɡalvanike",
+  "galvanici": "ɡalvanitʃi",
+  "galvanico": "ɡalvaniko",
+  "galvanismi": "ɡalvanizmi",
+  "galvanismo": "ɡalvanizmo",
+  "galvanizzante": "ɡalvanidːzante",
+  "galvanizzare": "ɡalvanidːzare",
+  "galvanizzato": "ɡalvanidːzato",
+  "galvanizzazione": "ɡalvanidːzatsjone",
+  "galvanizzazioni": "ɡalvanidːzatsjoni",
+  "galvano": "ɡalvano",
+  "galvanomagnetica": "ɡalvanomaɲɲɛtika",
+  "galvanomagnetiche": "ɡalvanomaɲɲɛtike",
+  "galvanomagnetici": "ɡalvanomaɲɲɛtitʃi",
+  "galvanomagnetico": "ɡalvanomaɲɲɛtiko",
+  "galvanometri": "ɡalvanɔmetri",
+  "galvanometro": "ɡalvanɔmetro",
+  "galvanoplastica": "ɡalvanoplastika",
+  "galvanoplastiche": "ɡalvanoplastike",
+  "galvanoplastico": "ɡalvanoplastiko",
+  "galvanostegia": "ɡalvanostedʒia",
+  "galvanotipia": "ɡalvanotipia",
+  "galvanotipie": "ɡalvanotipie",
+  "galvanotipista": "ɡalvanotipista",
+  "galvanotipiste": "ɡalvanotipiste",
+  "galvanotipisti": "ɡalvanotipisti",
+  "gamba": "ɡamba",
+  "gambalaio": "ɡambalajo",
+  "gambasecca": "ɡambazekːa",
+  "gambe": "ɡambe",
+  "gambecchi": "ɡambekːjo",
+  "gambecchio": "ɡambekːjo",
+  "gamberana": "ɡamberana",
+  "gamberetti": "ɡamberetːi",
+  "gamberetto": "ɡamberetːo",
+  "gamberi": "ɡambɛri",
+  "gambero": "ɡambero",
+  "gambero_2": "ɡambɛro",
+  "gambetto": "ɡambetːo",
+  "gambia": "ɡambja",
+  "gambiana": "ɡambjana",
+  "gambiane": "ɡambjane",
+  "gambiani": "ɡambjani",
+  "gambiano": "ɡambjano",
+  "gambina": "ɡambina",
+  "gambista": "ɡambista",
+  "gambiste": "ɡambiste",
+  "gambisti": "ɡambisti",
+  "gambitto": "ɡambitːo",
+  "gambizzare": "ɡambidːzare",
+  "gambizzazione": "ɡambidːzatːsjone",
+  "game": "ɡejm",
+  "gamella": "ɡamelːa",
+  "gamete": "ɡamɛte",
+  "gameti": "ɡamɛti",
+  "gamma": "ɡamːa",
+  "gammacismo": "ɡamːatʃizmo",
+  "gammato": "ɡamːato",
+  "gamurra": "ɡamurːa",
+  "ganaese": "ɡanaese",
+  "ganaesi": "ɡanaesi",
+  "ganascia": "ɡanaʃʃa",
+  "gancio": "ɡantʃo",
+  "gandhiano": "ɡandjano",
+  "gandolfo": "ɡandɔlfo",
+  "ganeana": "ɡaeana",
+  "ganeane": "ɡaeane",
+  "ganeani": "ɡaeani",
+  "ganeano": "ɡaeano",
+  "ganese": "ɡanese",
+  "ganesi": "ɡanesi",
+  "gang": "ɡanɡ",
+  "gang_2": "ɡɛnɡ",
+  "ganga": "ɡanɡa",
+  "ganga_2": "ɡaɲɡa",
+  "gange": "ɡandʒe",
+  "gangheri": "ɡanɡeri",
+  "ganghero": "ɡanɡero",
+  "gangia": "ɡandʒa",
+  "gangli": "ɡanɡli",
+  "gangliforme": "ɡanɡliforme",
+  "ganglio": "ɡanɡljo",
+  "gangrena": "ɡanɡrɛna",
+  "gangrene": "ɡanɡrɛne",
+  "gangster": "ɡanɡster",
+  "gangster_2": "ɡɛnɡster",
+  "gangster_3": "ɡɛnster",
+  "ganimede": "ɡanimɛde",
+  "gannire": "ɡanːire",
+  "gap": "ɡɛp",
+  "gara": "ɡara",
+  "garage": "ɡaraʒ",
+  "garagista": "ɡaradʒista",
+  "garagista_2": "ɡaraʒista",
+  "garagiste": "ɡaradʒiste",
+  "garagisti": "ɡaradʒisti",
+  "garante": "ɡarante",
+  "garanti": "ɡaranti",
+  "garantire": "ɡarantire",
+  "garantismi": "ɡarantizmi",
+  "garantismo": "ɡarantizmo",
+  "garantista": "ɡarantista",
+  "garantita": "ɡarantita",
+  "garantite": "ɡarantite",
+  "garantiti": "ɡarantiti",
+  "garantito": "ɡarantito",
+  "garanzia": "ɡarantsia",
+  "garanzie": "ɡarantsie",
+  "garbatamente": "ɡarbatamente",
+  "garbatezza": "ɡarbatetːsa",
+  "garbato": "ɡarbato",
+  "garbino": "ɡarbino",
+  "garbo": "ɡarbo",
+  "garbuglio": "ɡarbuʎo",
+  "gardenese": "ɡardenese",
+  "gardenese_2": "ɡardeneze",
+  "gardenia": "ɡardɛnja",
+  "gareggiare": "ɡaredːʒare",
+  "gareggiato": "ɡaredːʒato",
+  "gareggiatrice": "ɡaredːʒatritʃe",
+  "garenna": "ɡarɛnːa",
+  "garganella": "ɡarɡanɛlːa",
+  "gargantuesca": "ɡarɡantueska",
+  "gargantuesche": "ɡarɡantueske",
+  "gargantuesci": "ɡarɡantuestʃi",
+  "gargantuesco": "ɡarɡantuesko",
+  "gargarismo": "ɡarɡarizmo",
+  "gargarozzo": "ɡarɡarɔtːso",
+  "gargia": "ɡardʒa",
+  "garibaldina": "ɡaribaldina",
+  "garibaldine": "ɡaribaldine",
+  "garibaldini": "ɡaribaldini",
+  "garibaldino": "ɡaribaldino",
+  "garitta": "ɡaritːa",
+  "garofani": "ɡarɔfani",
+  "garofano": "ɡarɔfano",
+  "garrente": "ɡarente",
+  "garrese": "ɡarːese",
+  "garrese_2": "ɡarːeze",
+  "garrire": "ɡarːire",
+  "garrito": "ɡarːito",
+  "garrulo": "ɡarːulo",
+  "garusa": "ɡaruza",
+  "garza": "ɡardza",
+  "garzare": "ɡardzare",
+  "garze": "ɡardze",
+  "garzetta": "ɡardzetːa",
+  "garzonato": "ɡardzonato",
+  "garzone": "ɡardzone",
+  "gas": "ɡas",
+  "gasdinamica": "ɡaʃdinamika",
+  "gasdotti": "ɡazdotːi",
+  "gasdotto": "ɡazdotːo",
+  "gasista": "ɡazista",
+  "gasiste": "ɡaziste",
+  "gasisti": "ɡazisti",
+  "gasolina": "ɡazolina",
+  "gasolio": "ɡazɔljo",
+  "gasometri": "ɡazometri",
+  "gasometri_2": "ɡazɔmetri",
+  "gasometro": "ɡazometro",
+  "gasometro_2": "ɡazɔmetro",
+  "gassato": "ɡasːato",
+  "gassificabile": "ɡasːifikabil",
+  "gassificabili": "ɡasːifikabili",
+  "gassificare": "ɡasːifikare",
+  "gassificazione": "ɡasːifikatsjone",
+  "gassista": "ɡasːista",
+  "gassiste": "ɡasːiste",
+  "gassisti": "ɡasːisti",
+  "gassogeno": "ɡasːɔdʒeno",
+  "gassometri": "ɡasːometri",
+  "gassometria": "ɡasːometria",
+  "gassometro": "ɡasːometro",
+  "gassoso": "ɡasːoso",
+  "gassoso_2": "ɡasːozo",
+  "gasteropode": "ɡasterɔpode",
+  "gasteropodi": "ɡasterɔpodi"
 }

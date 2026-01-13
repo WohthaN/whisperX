@@ -1,1543 +1,543 @@
 {
-  "levigate": [
-    "leviɡate"
-  ],
-  "levigati": [
-    "leviɡati"
-  ],
-  "levigato": [
-    "leviɡat",
-    "leviɡato"
-  ],
-  "levigatura": [
-    "leviɡatura"
-  ],
-  "levigazione": [
-    "leviɡatːsjone"
-  ],
-  "levigazioni": [
-    "leviɡatːsjoni"
-  ],
-  "levirati": [
-    "levirati"
-  ],
-  "levirato": [
-    "levirato"
-  ],
-  "levita": [
-    "levita"
-  ],
-  "levità": [
-    "levita"
-  ],
-  "levitazione": [
-    "levitatːsjone"
-  ],
-  "levitazioni": [
-    "levitatːsjoni"
-  ],
-  "levitico": [
-    "levitiko"
-  ],
-  "levogiro": [
-    "levodʒiro"
-  ],
-  "lezio": [
-    "lɛtːsjo"
-  ],
-  "lezioncina": [
-    "letːsjontʃina"
-  ],
-  "lezione": [
-    "letsione",
-    "letːsione",
-    "letːsjone",
-    "lɛtsjɔne"
-  ],
-  "lezioni": [
-    "lɛtsjɔni"
-  ],
-  "leziosità": [
-    "letːsjosita"
-  ],
-  "lezioso": [
-    "letːsjoso",
-    "letːsjozo"
-  ],
-  "lezzo": [
-    "ledːzo"
-  ],
-  "li": [
-    "li"
-  ],
-  "lì": [
-    "li"
-  ],
-  "liana": [
-    "liana",
-    "ljana"
-  ],
-  "liassico": [
-    "liasːiko"
-  ],
-  "libagione": [
-    "libadʒone"
-  ],
-  "libamento": [
-    "libamento"
-  ],
-  "libanese": [
-    "libanɛse"
-  ],
-  "libanesi": [
-    "libanɛsi"
-  ],
-  "libano": [
-    "libano"
-  ],
-  "libanomanzia": [
-    "libanomantsia"
-  ],
-  "libazione": [
-    "libatːsjone"
-  ],
-  "libazioni": [
-    "libatːsjoni"
-  ],
-  "libbra": [
-    "libːra"
-  ],
-  "libeccio": [
-    "libetːʃo"
-  ],
-  "libelli": [
-    "libɛlːi"
-  ],
-  "libellista": [
-    "libelːista"
-  ],
-  "libello": [
-    "libɛlːo"
-  ],
-  "libellula": [
-    "libɛlːula"
-  ],
-  "libellule": [
-    "libɛlːule"
-  ],
-  "libera": [
-    "libera"
-  ],
-  "liberabile": [
-    "liberabile"
-  ],
-  "liberabili": [
-    "liberabili"
-  ],
-  "liberale": [
-    "liberale"
-  ],
-  "liberalismi": [
-    "liberalizmi"
-  ],
-  "liberalismo": [
-    "liberalizmo"
-  ],
-  "liberalità": [
-    "liberalita"
-  ],
-  "liberalizzante": [
-    "liberalidːzante"
-  ],
-  "liberalizzanti": [
-    "liberalidːzanti"
-  ],
-  "liberalizzazione": [
-    "liberalidːzatːsjone"
-  ],
-  "liberalmente": [
-    "liberalmente"
-  ],
-  "liberamente": [
-    "liberamente"
-  ],
-  "liberare": [
-    "liberare",
-    "libɛrare"
-  ],
-  "liberarsi": [
-    "liberarsi"
-  ],
-  "liberato": [
-    "liberato"
-  ],
-  "liberatore": [
-    "liberatore"
-  ],
-  "liberatorio": [
-    "liberatɔrjo"
-  ],
-  "liberatrice": [
-    "liberatritʃe"
-  ],
-  "liberatrici": [
-    "liberatritʃi"
-  ],
-  "liberazione": [
-    "liberatsione",
-    "liberatsjone",
-    "liberatːsjone"
-  ],
-  "liberazioni": [
-    "liberatsjoni"
-  ],
-  "libercoli": [
-    "libɛrkoli"
-  ],
-  "libercolo": [
-    "libɛrkolo"
-  ],
-  "libere": [
-    "libere"
-  ],
-  "liberi": [
-    "liberi"
-  ],
-  "liberia": [
-    "libɛrja"
-  ],
-  "liberiana": [
-    "liberjana"
-  ],
-  "liberiane": [
-    "liberjane"
-  ],
-  "liberiani": [
-    "liberjani"
-  ],
-  "liberiano": [
-    "liberjano"
-  ],
-  "liberismi": [
-    "liberizmi"
-  ],
-  "liberismo": [
-    "liberizmo"
-  ],
-  "liberissima": [
-    "liberisːima"
-  ],
-  "liberissime": [
-    "liberisːime"
-  ],
-  "liberissimi": [
-    "liberisːimi"
-  ],
-  "liberissimo": [
-    "liberisːimo"
-  ],
-  "liberista": [
-    "liberista"
-  ],
-  "liberiste": [
-    "liberiste"
-  ],
-  "liberisti": [
-    "liberisti"
-  ],
-  "libero": [
-    "libero"
-  ],
-  "liberoscambismo": [
-    "liberoskambizmo"
-  ],
-  "libertà": [
-    "liberta"
-  ],
-  "libertario": [
-    "libertarjo"
-  ],
-  "libertarismo": [
-    "libertarizmo"
-  ],
-  "liberti": [
-    "libɛrto"
-  ],
-  "liberticida": [
-    "libertitʃida"
-  ],
-  "libertina": [
-    "libertina"
-  ],
-  "libertinaggi": [
-    "libertinadːʒi"
-  ],
-  "libertinaggio": [
-    "libertinadːʒo"
-  ],
-  "libertine": [
-    "libertine"
-  ],
-  "libertini": [
-    "libertini"
-  ],
-  "libertinismi": [
-    "libertinizmo"
-  ],
-  "libertinismo": [
-    "libertinizmo"
-  ],
-  "libertino": [
-    "libertino"
-  ],
-  "liberto": [
-    "libɛrto"
-  ],
-  "libia": [
-    "libja"
-  ],
-  "libica": [
-    "libika"
-  ],
-  "libiche": [
-    "libike"
-  ],
-  "libici": [
-    "libitʃi"
-  ],
-  "libico": [
-    "libiko"
-  ],
-  "libidine": [
-    "libidine"
-  ],
-  "libidinoso": [
-    "libidinoso",
-    "libidinozo"
-  ],
-  "libito": [
-    "libito"
-  ],
-  "libo": [
-    "libo"
-  ],
-  "libra": [
-    "libra"
-  ],
-  "librai": [
-    "librai"
-  ],
-  "libraia": [
-    "libraja"
-  ],
-  "libraie": [
-    "libraje"
-  ],
-  "libraio": [
-    "librajo"
-  ],
-  "librare": [
-    "librare"
-  ],
-  "librario": [
-    "librarjɔ"
-  ],
-  "librato": [
-    "librato"
-  ],
-  "librazione": [
-    "libratːsjone"
-  ],
-  "libreria": [
-    "libreria",
-    "librɛrja"
-  ],
-  "librerie": [
-    "librɛrje"
-  ],
-  "libresco": [
-    "libresko"
-  ],
-  "libretti": [
-    "libretːi"
-  ],
-  "librettista": [
-    "libretːista"
-  ],
-  "librettiste": [
-    "libretːiste"
-  ],
-  "librettisti": [
-    "libretːisti"
-  ],
-  "libretto": [
-    "libretːo"
-  ],
-  "libri": [
-    "libri"
-  ],
-  "libricino": [
-    "libritʃino"
-  ],
-  "libro": [
-    "libro"
-  ],
-  "licantropi": [
-    "likantropi"
-  ],
-  "licantropia": [
-    "likantropia"
-  ],
-  "licantropo": [
-    "likantropo"
-  ],
-  "licaone": [
-    "likaone"
-  ],
-  "licci": [
-    "litːʃo"
-  ],
-  "licciaia": [
-    "litːʃaja"
-  ],
-  "liccio": [
-    "litːʃo"
-  ],
-  "liceale": [
-    "litʃeale"
-  ],
-  "liceità": [
-    "litʃejta"
-  ],
-  "licenza": [
-    "litʃɛntsa"
-  ],
-  "licenze": [
-    "litʃɛntse"
-  ],
-  "licenziamenti": [
-    "litʃentsjamenti"
-  ],
-  "licenziamento": [
-    "litʃentsjamento"
-  ],
-  "licenziare": [
-    "litʃentsjare"
-  ],
-  "licenziarsi": [
-    "litʃentsjarsi"
-  ],
-  "licenziato": [
-    "litʃentsjato"
-  ],
-  "licenziosamente": [
-    "litʃentsjosamente",
-    "litʃentsjozamente"
-  ],
-  "licenzioso": [
-    "litʃentsjoso",
-    "litʃentsjozo"
-  ],
-  "liceo": [
-    "litʃeo",
-    "litʃɛo"
-  ],
-  "licere": [
-    "litʃere"
-  ],
-  "lichene": [
-    "likɛne"
-  ],
-  "licheni": [
-    "likɛni"
-  ],
-  "lichenicola": [
-    "likɛnikola"
-  ],
-  "lichenicole": [
-    "likɛnikole"
-  ],
-  "lichenicoli": [
-    "likɛnikoli"
-  ],
-  "lichenicolo": [
-    "likɛnikolo"
-  ],
-  "lichenizzazione": [
-    "likenidːzatːsjone"
-  ],
-  "lichenologica": [
-    "likenolɔdʒika"
-  ],
-  "lichenologiche": [
-    "likenolɔdʒike"
-  ],
-  "lichenologici": [
-    "likenolɔdʒitʃi"
-  ],
-  "lichenologico": [
-    "likenolɔdʒiko"
-  ],
-  "licinio": [
-    "litʃinjo"
-  ],
-  "licitazione": [
-    "litʃitatːsjone"
-  ],
-  "licitazioni": [
-    "litʃitatːsjoni"
-  ],
-  "licito": [
-    "litʃito"
-  ],
-  "licopene": [
-    "likopɛne"
-  ],
-  "licurgo": [
-    "likurɡo"
-  ],
-  "lido": [
-    "lido"
-  ],
-  "lieta": [
-    "ljɛta"
-  ],
-  "lietamente": [
-    "ljetamente"
-  ],
-  "liete": [
-    "ljɛte"
-  ],
-  "lieti": [
-    "ljɛti"
-  ],
-  "lieto": [
-    "liɛto",
-    "ljɛto"
-  ],
-  "lieve": [
-    "ljɛve"
-  ],
-  "lievemente": [
-    "ljevemente",
-    "ljɛvemente"
-  ],
-  "lievi": [
-    "ljɛvi"
-  ],
-  "lievitato": [
-    "ljevitato"
-  ],
-  "lievitazione": [
-    "ljevitatsione"
-  ],
-  "lieviti": [
-    "ljɛviti"
-  ],
-  "lievito": [
-    "ljɛvito"
-  ],
-  "ligando": [
-    "liɡando"
-  ],
-  "ligazione": [
-    "liɡatːsjone"
-  ],
-  "ligazioni": [
-    "liɡatːsjoni"
-  ],
-  "light": [
-    "lait"
-  ],
-  "lighthouse": [
-    "lajtaws"
-  ],
-  "ligio": [
-    "lidʒo"
-  ],
-  "lignaggi": [
-    "liɲɲadːʒi"
-  ],
-  "lignaggio": [
-    "liɲɲadːʒo"
-  ],
-  "ligneo": [
-    "liɲɲeo"
-  ],
-  "lignina": [
-    "liɲɲina"
-  ],
-  "lignite": [
-    "liɲɲite"
-  ],
-  "ligodio": [
-    "liɡɔdjo"
-  ],
-  "ligre": [
-    "liɡre"
-  ],
-  "ligroina": [
-    "liɡroina"
-  ],
-  "ligula": [
-    "liɡula"
-  ],
-  "ligure": [
-    "liɡure"
-  ],
-  "liguri": [
-    "liɡure"
-  ],
-  "liguria": [
-    "liɡurja"
-  ],
-  "ligurismo": [
-    "liɡurizmo"
-  ],
-  "ligustico": [
-    "liɡustiko"
-  ],
-  "ligustro": [
-    "liɡustro"
-  ],
-  "liliacee": [
-    "liljatʃee"
-  ],
-  "liliale": [
-    "liliale"
-  ],
-  "lilla": [
-    "lilːa"
-  ],
-  "lillà": [
-    "lilːa"
-  ],
-  "lillipuziana": [
-    "lilːiputːsjana"
-  ],
-  "lillipuziane": [
-    "lilːiputːsjane"
-  ],
-  "lillipuziani": [
-    "lilːiputːsjani"
-  ],
-  "lillipuziano": [
-    "lilːiputːsjano"
-  ],
-  "lima": [
-    "lima"
-  ],
-  "limaccio": [
-    "limatːʃo"
-  ],
-  "limare": [
-    "limare"
-  ],
-  "limatura": [
-    "limatura"
-  ],
-  "limbico": [
-    "limbiko"
-  ],
-  "limbo": [
-    "limbo"
-  ],
-  "lime": [
-    "lajm",
-    "lime"
-  ],
-  "limegno": [
-    "limeɲɲo"
-  ],
-  "limetta": [
-    "limetːa"
-  ],
-  "limi": [
-    "limi"
-  ],
-  "limicolo": [
-    "limikolo"
-  ],
-  "liminare": [
-    "liminare"
-  ],
-  "limitabile": [
-    "limitabile"
-  ],
-  "limitabili": [
-    "limitabili"
-  ],
-  "limitando": [
-    "limitando"
-  ],
-  "limitante": [
-    "limitante"
-  ],
-  "limitanti": [
-    "limitanti"
-  ],
-  "limitare": [
-    "limitare"
-  ],
-  "limitata": [
-    "limitata"
-  ],
-  "limitatamente": [
-    "limitatamente"
-  ],
-  "limitate": [
-    "limitate"
-  ],
-  "limitatezza": [
-    "limitatetːsa",
-    "limitetːsa"
-  ],
-  "limitatezze": [
-    "limitetːse"
-  ],
-  "limitativo": [
-    "limitativo"
-  ],
-  "limitato": [
-    "limitato"
-  ],
-  "limitazione": [
-    "limitatːsjone"
-  ],
-  "limite": [
-    "limite"
-  ],
-  "limiti": [
-    "limiti"
-  ],
-  "limitrofo": [
-    "limitrofo"
-  ],
-  "limnometro": [
-    "limnɔmetro"
-  ],
-  "limo": [
-    "limo"
-  ],
-  "limonata": [
-    "limonata"
-  ],
-  "limonate": [
-    "limonate"
-  ],
-  "limoncelli": [
-    "limontʃɛlːi"
-  ],
-  "limoncello": [
-    "limontʃɛlːo"
-  ],
-  "limoncina": [
-    "limonkina"
-  ],
-  "limoncine": [
-    "limonkine"
-  ],
-  "limoncini": [
-    "limonkini"
-  ],
-  "limoncino": [
-    "limonkino",
-    "limontʃino"
-  ],
-  "limone": [
-    "limone",
-    "limɔne"
-  ],
-  "limonene": [
-    "limonɛne"
-  ],
-  "limoni": [
-    "limɔni"
-  ],
-  "limonte": [
-    "limonte"
-  ],
-  "limpidamente": [
-    "limpidamente"
-  ],
-  "limpide": [
-    "limpide"
-  ],
-  "limpidezza": [
-    "limpidetːsa"
-  ],
-  "limpido": [
-    "limpido"
-  ],
-  "lince": [
-    "lintʃe"
-  ],
-  "linci": [
-    "lintʃi"
-  ],
-  "linciaggio": [
-    "lintʃadːʒo"
-  ],
-  "linciare": [
-    "lintʃare",
-    "lintʃiare"
-  ],
-  "linciato": [
-    "lintʃato"
-  ],
-  "linda": [
-    "linda"
-  ],
-  "linde": [
-    "linde"
-  ],
-  "lindi": [
-    "lindi"
-  ],
-  "lindo": [
-    "lindo"
-  ],
-  "lindura": [
-    "lindura"
-  ],
-  "linea": [
-    "linea",
-    "linɛa"
-  ],
-  "lineale": [
-    "lineale"
-  ],
-  "linealmente": [
-    "linealmɛnte"
-  ],
-  "lineamenti": [
-    "lineamenti"
-  ],
-  "lineamento": [
-    "lineamento"
-  ],
-  "lineare": [
-    "lineare"
-  ],
-  "lineari": [
-    "lineari"
-  ],
-  "linearmente": [
-    "linearmente"
-  ],
-  "lineato": [
-    "lineato"
-  ],
-  "linee": [
-    "linɛe"
-  ],
-  "lineetta": [
-    "lineetːa"
-  ],
-  "linfa": [
-    "linfa",
-    "liɲfa"
-  ],
-  "linfadenoma": [
-    "linfadenɔma"
-  ],
-  "linfadenosi": [
-    "linfadenɔzi"
-  ],
-  "linfagogo": [
-    "linfaɡɔɡo"
-  ],
-  "linfatico": [
-    "linfatiko"
-  ],
-  "linfe": [
-    "liɲfe"
-  ],
-  "linfedema": [
-    "linfedɛma"
-  ],
-  "linfedemi": [
-    "linfedɛmi"
-  ],
-  "linfoblastico": [
-    "linfoblastiko"
-  ],
-  "linfoblasto": [
-    "linfoblasto"
-  ],
-  "linfocita": [
-    "linfotʃita"
-  ],
-  "linfocitario": [
-    "linfotʃitarjo"
-  ],
-  "linfociti": [
-    "linfotʃiti"
-  ],
-  "linfocitico": [
-    "linfotʃito"
-  ],
-  "linfocito": [
-    "linfotʃito"
-  ],
-  "linfodrenaggi": [
-    "linfodrenadːʒi"
-  ],
-  "linfodrenaggio": [
-    "linfodrenadːʒo"
-  ],
-  "linfoghiandola": [
-    "linfoɡjandola"
-  ],
-  "linfogranuloma": [
-    "linfoɡranulɔma"
-  ],
-  "linfogranulomatoso": [
-    "linfoɡranulomatoso",
-    "linfoɡranulomatozo"
-  ],
-  "linfoide": [
-    "linfɔjde"
-  ],
-  "linfoidi": [
-    "linfɔjdi"
-  ],
-  "linfoma": [
-    "linfɔma"
-  ],
-  "linfomatoso": [
-    "linfomatoso",
-    "linfomatozo"
-  ],
-  "linfome": [
-    "linfɔmi"
-  ],
-  "linfomegalia": [
-    "linfomeɡalia"
-  ],
-  "linfomegalie": [
-    "linfomeɡalie"
-  ],
-  "linfonodale": [
-    "linfonodale"
-  ],
-  "linfonodo": [
-    "linfonɔdo"
-  ],
-  "linfopatia": [
-    "linfopatia"
-  ],
-  "lingeria": [
-    "lindʒeria"
-  ],
-  "lingerie": [
-    "lindʒerie",
-    "linʒeri"
-  ],
-  "lingio": [
-    "lindʒo"
-  ],
-  "lingottare": [
-    "linɡotːare"
-  ],
-  "lingottatura": [
-    "linɡotːatura"
-  ],
-  "lingottature": [
-    "linɡotːature"
-  ],
-  "lingotti": [
-    "linɡɔtːi"
-  ],
-  "lingottiera": [
-    "linɡotːjera"
-  ],
-  "lingottino": [
-    "linɡotːino"
-  ],
-  "lingotto": [
-    "linɡɔtːo"
-  ],
-  "lingua": [
-    "linɡwa",
-    "liɲɡwa"
-  ],
-  "linguaccia": [
-    "linɡwatːʃa"
-  ],
-  "linguacciuto": [
-    "linɡwatːʃuto"
-  ],
-  "linguaggi": [
-    "linɡwadːʒi"
-  ],
-  "linguaggio": [
-    "linɡuadːʒo",
-    "linɡwadːʒo"
-  ],
-  "linguaiolo": [
-    "linɡwajɔlo"
-  ],
-  "linguardo": [
-    "linɡwardo"
-  ],
-  "linguattola": [
-    "linɡwatːola"
-  ],
-  "linguetta": [
-    "linɡwetːa"
-  ],
-  "linguiforme": [
-    "liɲɡwiforme"
-  ],
-  "linguiformi": [
-    "liɲɡwiformi"
-  ],
-  "linguina": [
-    "linɡuina",
-    "linɡwina"
-  ],
-  "linguine": [
-    "linɡwine",
-    "liɲɡwine"
-  ],
-  "linguista": [
-    "linɡwista"
-  ],
-  "linguiste": [
-    "linɡwiste"
-  ],
-  "linguisti": [
-    "linɡwisti"
-  ],
-  "linguistica": [
-    "linɡuistika",
-    "linɡwistika"
-  ],
-  "linguisticamente": [
-    "linɡwistikamente"
-  ],
-  "linguistiche": [
-    "linɡwistike"
-  ],
-  "linguistici": [
-    "linɡwistitʃi"
-  ],
-  "linguistico": [
-    "linɡuistiko",
-    "linɡwistiko"
-  ],
-  "linguolabiale": [
-    "linɡwolabjale"
-  ],
-  "linguoversione": [
-    "linɡwoversjone"
-  ],
-  "lini": [
-    "lini"
-  ],
-  "liniero": [
-    "linjɛro"
-  ],
-  "linificio": [
-    "linifitʃo"
-  ],
-  "linneano": [
-    "linːeano"
-  ],
-  "lino": [
-    "lino"
-  ],
-  "linoleum": [
-    "linɔleum",
-    "linɔlewm"
-  ],
-  "linone": [
-    "linone"
-  ],
-  "linoni": [
-    "linoni"
-  ],
-  "linotipia": [
-    "linotipia"
-  ],
-  "linotipie": [
-    "linotipie"
-  ],
-  "linotipista": [
-    "linotipista"
-  ],
-  "linotipiste": [
-    "linotipiste"
-  ],
-  "linotipisti": [
-    "linotipisti"
-  ],
-  "linotype": [
-    "linotipe"
-  ],
-  "linsanghi": [
-    "linsanɡi"
-  ],
-  "linsango": [
-    "linsanɡo"
-  ],
-  "liocorno": [
-    "ljokɔrno"
-  ],
-  "liofilizzare": [
-    "liofilidːzare"
-  ],
-  "liofilo": [
-    "liɔfilo"
-  ],
-  "lione": [
-    "ljone"
-  ],
-  "lionese": [
-    "lioneze"
-  ],
-  "liparide": [
-    "liparide"
-  ],
-  "lipedema": [
-    "lipedɛma"
-  ],
-  "lipedemi": [
-    "lipedɛmi"
-  ],
-  "lipide": [
-    "lipide"
-  ],
-  "lipidico": [
-    "lipidiko"
-  ],
-  "lipocito": [
-    "lipotʃito"
-  ],
-  "lipoedema": [
-    "lipoedɛma"
-  ],
-  "lipoedemi": [
-    "lipoedɛmi"
-  ],
-  "lipoforo": [
-    "lipɔforo"
-  ],
-  "lipoma": [
-    "lipɔma"
-  ],
-  "lipomi": [
-    "lipɔmi"
-  ],
-  "lipoproteina": [
-    "lipoproteina"
-  ],
-  "liposarcoma": [
-    "liposarkɔma"
-  ],
-  "liposarcomi": [
-    "liposarkɔmi"
-  ],
-  "liposolubile": [
-    "liposolubile"
-  ],
-  "liposolubili": [
-    "liposolubili"
-  ],
-  "liposoma": [
-    "liposɔma"
-  ],
-  "liposomi": [
-    "liposɔmi"
-  ],
-  "liposuzione": [
-    "liposutːsjone"
-  ],
-  "lippa": [
-    "lipːa"
-  ],
-  "lippo": [
-    "lipːo"
-  ],
-  "lipsanoteca": [
-    "lipsanotɛka"
-  ],
-  "liquame": [
-    "likwame"
-  ],
-  "liquami": [
-    "likwami"
-  ],
-  "liquazione": [
-    "likwatːsjone"
-  ],
-  "liquazioni": [
-    "likwatːsjoni"
-  ],
-  "liquefacibile": [
-    "likwefatʃibile"
-  ],
-  "liquefacibili": [
-    "likwefatʃibili"
-  ],
-  "liquefare": [
-    "likwefare"
-  ],
-  "liquefatta": [
-    "likwefatːa"
-  ],
-  "liquefatte": [
-    "likwefatːe"
-  ],
-  "liquefatti": [
-    "likwefatːi"
-  ],
-  "liquefattibile": [
-    "likwefatːibile"
-  ],
-  "liquefattibili": [
-    "likwefatːibili"
-  ],
-  "liquefatto": [
-    "likwefatːo"
-  ],
-  "liquida": [
-    "likwida"
-  ],
-  "liquidante": [
-    "likwidante"
-  ],
-  "liquidare": [
-    "likuidare",
-    "likwidare"
-  ],
-  "liquidate": [
-    "likwidate"
-  ],
-  "liquidato": [
-    "likwidato"
-  ],
-  "liquidatore": [
-    "likwidare",
-    "likwidatore"
-  ],
-  "liquidatori": [
-    "likwidatori"
-  ],
-  "liquidatorio": [
-    "likwidatɔrjo"
-  ],
-  "liquidatrice": [
-    "likwidatritʃe"
-  ],
-  "liquidatrici": [
-    "likwidatritʃi"
-  ],
-  "liquidazione": [
-    "likwidatsione",
-    "likwidatːsjone"
-  ],
-  "liquide": [
-    "likwide"
-  ],
-  "liquidi": [
-    "likwidi"
-  ],
-  "liquidità": [
-    "likwidita"
-  ],
-  "liquido": [
-    "likwido"
-  ],
-  "liquirizia": [
-    "likwiritːsja"
-  ],
-  "liquore": [
-    "likwore"
-  ],
-  "liquori": [
-    "likwori"
-  ],
-  "liquorista": [
-    "likworista"
-  ],
-  "liquoriste": [
-    "likworiste"
-  ],
-  "liquoristi": [
-    "likworisti"
-  ],
-  "lira": [
-    "lira"
-  ],
-  "lire": [
-    "lire"
-  ],
-  "lirica": [
-    "lirika"
-  ],
-  "lirico": [
-    "liriko"
-  ],
-  "liriforme": [
-    "liriforme"
-  ],
-  "liriformi": [
-    "liriformi"
-  ],
-  "lirismo": [
-    "lirizmo"
-  ],
-  "lirista": [
-    "lirista"
-  ],
-  "lisca": [
-    "liska"
-  ],
-  "lisce": [
-    "liʃe"
-  ],
-  "lische": [
-    "liske"
-  ],
-  "lisci": [
-    "liʃi",
-    "liʃʃi"
-  ],
-  "liscia": [
-    "liʃa",
-    "liʃʃa"
-  ],
-  "lisciante": [
-    "liʃʃante"
-  ],
-  "lisciardo": [
-    "liʃʃardo"
-  ],
-  "lisciare": [
-    "liʃʃare"
-  ],
-  "lisciato": [
-    "liʃʃato"
-  ],
-  "liscie": [
-    "liʃʃe"
-  ],
-  "liscio": [
-    "liʃo",
-    "liʃɔ",
-    "liʃʃo"
-  ],
-  "liscissima": [
-    "liʃisːima"
-  ],
-  "liscissime": [
-    "liʃisːime"
-  ],
-  "liscissimi": [
-    "liʃisːimi"
-  ],
-  "liscissimo": [
-    "liʃisːimo"
-  ],
-  "liscivia": [
-    "liʃʃivja"
-  ],
-  "lisciviazione": [
-    "liʃʃivjatsione"
-  ],
-  "lise": [
-    "lise"
-  ],
-  "lisifobia": [
-    "lizifobia"
-  ],
-  "lisimetri": [
-    "lizimetri"
-  ],
-  "lisimetro": [
-    "lizimetro"
-  ],
-  "lisina": [
-    "lizina"
-  ],
-  "lisine": [
-    "lizine"
-  ],
-  "liso": [
-    "lizo"
-  ],
-  "lisosoma": [
-    "lizosɔma"
-  ],
-  "lisosomi": [
-    "lizosɔmi"
-  ],
-  "lista": [
-    "lista"
-  ],
-  "listare": [
-    "listare"
-  ],
-  "listerella": [
-    "listerɛlːa"
-  ],
-  "listeria": [
-    "listɛrja"
-  ],
-  "listeriosi": [
-    "listerjɔzi"
-  ],
-  "listino": [
-    "listino"
-  ],
-  "listo": [
-    "listo"
-  ],
-  "litania": [
-    "litania"
-  ],
-  "lite": [
-    "lite"
-  ],
-  "liti": [
-    "liti"
-  ],
-  "litica": [
-    "litika"
-  ],
-  "litiche": [
-    "litike"
-  ],
-  "litici": [
-    "lititʃi"
-  ],
-  "liticine": [
-    "lititʃine"
-  ],
-  "litico": [
-    "litiko"
-  ],
-  "litigante": [
-    "litiɡante"
-  ],
-  "litiganti": [
-    "litiɡanti"
-  ],
-  "litigare": [
-    "litiɡare"
-  ],
-  "litigio": [
-    "litidʒo"
-  ],
-  "litigiosità": [
-    "litidʒiosita"
-  ],
-  "litigioso": [
-    "litidʒoso",
-    "litidʒozo"
-  ],
-  "litio": [
-    "litjo"
-  ],
-  "litioalchile": [
-    "litjoalkile"
-  ],
-  "litochelifopedio": [
-    "litokelifopɛdjo"
-  ],
-  "litocromia": [
-    "litokromia"
-  ],
-  "litocromie": [
-    "litokromie"
-  ],
-  "litodoma": [
-    "litɔdoma"
-  ],
-  "litodome": [
-    "litɔdome"
-  ],
-  "litodomi": [
-    "litɔdomi"
-  ],
-  "litodomo": [
-    "litɔdomo"
-  ],
-  "litofaga": [
-    "litɔfaɡa"
-  ],
-  "litofaghe": [
-    "litɔfaɡe"
-  ],
-  "litofagi": [
-    "litɔfadʒi"
-  ],
-  "litofago": [
-    "litɔfaɡo"
-  ],
-  "litografia": [
-    "litoɡrafia"
-  ],
-  "litografie": [
-    "litoɡrafie"
-  ],
-  "litologia": [
-    "litoloɡia"
-  ],
-  "litologica": [
-    "litolɔdʒika"
-  ],
-  "litologiche": [
-    "litolɔdʒike"
-  ],
-  "litologici": [
-    "litolɔdʒitʃi"
-  ],
-  "litologico": [
-    "litolɔdʒiko"
-  ],
-  "litopedio": [
-    "litopɛdjo"
-  ],
-  "litoraneo": [
-    "litoraneo"
-  ],
-  "litosfera": [
-    "litosfɛra"
-  ],
-  "litosfere": [
-    "litosfɛre"
-  ],
-  "litosferica": [
-    "litosfɛrika"
-  ],
-  "litosferiche": [
-    "litosfɛrike"
-  ],
-  "litosferici": [
-    "litosfɛritʃi"
-  ],
-  "litosferico": [
-    "litosfɛriko"
-  ],
-  "litostratigrafica": [
-    "litostratiɡrafika"
-  ],
-  "litostratigrafiche": [
-    "litostratiɡrafike"
-  ],
-  "litostratigrafici": [
-    "litostratiɡrafitʃi"
-  ],
-  "litostratigrafico": [
-    "litostratiɡrafiko"
-  ],
-  "litote": [
-    "litɔte"
-  ],
-  "litoteca": [
-    "litotɛka"
-  ]
+  "levigate": "leviɡate",
+  "levigati": "leviɡati",
+  "levigato": "leviɡat",
+  "levigato_2": "leviɡato",
+  "levigatura": "leviɡatura",
+  "levigazione": "leviɡatːsjone",
+  "levigazioni": "leviɡatːsjoni",
+  "levirati": "levirati",
+  "levirato": "levirato",
+  "levita": "levita",
+  "levità": "levita",
+  "levitazione": "levitatːsjone",
+  "levitazioni": "levitatːsjoni",
+  "levitico": "levitiko",
+  "levogiro": "levodʒiro",
+  "lezio": "lɛtːsjo",
+  "lezioncina": "letːsjontʃina",
+  "lezione": "letsione",
+  "lezione_2": "letːsione",
+  "lezione_3": "letːsjone",
+  "lezione_4": "lɛtsjɔne",
+  "lezioni": "lɛtsjɔni",
+  "leziosità": "letːsjosita",
+  "lezioso": "letːsjoso",
+  "lezioso_2": "letːsjozo",
+  "lezzo": "ledːzo",
+  "li": "li",
+  "lì": "li",
+  "liana": "liana",
+  "liana_2": "ljana",
+  "liassico": "liasːiko",
+  "libagione": "libadʒone",
+  "libamento": "libamento",
+  "libanese": "libanɛse",
+  "libanesi": "libanɛsi",
+  "libano": "libano",
+  "libanomanzia": "libanomantsia",
+  "libazione": "libatːsjone",
+  "libazioni": "libatːsjoni",
+  "libbra": "libːra",
+  "libeccio": "libetːʃo",
+  "libelli": "libɛlːi",
+  "libellista": "libelːista",
+  "libello": "libɛlːo",
+  "libellula": "libɛlːula",
+  "libellule": "libɛlːule",
+  "libera": "libera",
+  "liberabile": "liberabile",
+  "liberabili": "liberabili",
+  "liberale": "liberale",
+  "liberalismi": "liberalizmi",
+  "liberalismo": "liberalizmo",
+  "liberalità": "liberalita",
+  "liberalizzante": "liberalidːzante",
+  "liberalizzanti": "liberalidːzanti",
+  "liberalizzazione": "liberalidːzatːsjone",
+  "liberalmente": "liberalmente",
+  "liberamente": "liberamente",
+  "liberare": "liberare",
+  "liberare_2": "libɛrare",
+  "liberarsi": "liberarsi",
+  "liberato": "liberato",
+  "liberatore": "liberatore",
+  "liberatorio": "liberatɔrjo",
+  "liberatrice": "liberatritʃe",
+  "liberatrici": "liberatritʃi",
+  "liberazione": "liberatsione",
+  "liberazione_2": "liberatsjone",
+  "liberazione_3": "liberatːsjone",
+  "liberazioni": "liberatsjoni",
+  "libercoli": "libɛrkoli",
+  "libercolo": "libɛrkolo",
+  "libere": "libere",
+  "liberi": "liberi",
+  "liberia": "libɛrja",
+  "liberiana": "liberjana",
+  "liberiane": "liberjane",
+  "liberiani": "liberjani",
+  "liberiano": "liberjano",
+  "liberismi": "liberizmi",
+  "liberismo": "liberizmo",
+  "liberissima": "liberisːima",
+  "liberissime": "liberisːime",
+  "liberissimi": "liberisːimi",
+  "liberissimo": "liberisːimo",
+  "liberista": "liberista",
+  "liberiste": "liberiste",
+  "liberisti": "liberisti",
+  "libero": "libero",
+  "liberoscambismo": "liberoskambizmo",
+  "libertà": "liberta",
+  "libertario": "libertarjo",
+  "libertarismo": "libertarizmo",
+  "liberti": "libɛrto",
+  "liberticida": "libertitʃida",
+  "libertina": "libertina",
+  "libertinaggi": "libertinadːʒi",
+  "libertinaggio": "libertinadːʒo",
+  "libertine": "libertine",
+  "libertini": "libertini",
+  "libertinismi": "libertinizmo",
+  "libertinismo": "libertinizmo",
+  "libertino": "libertino",
+  "liberto": "libɛrto",
+  "libia": "libja",
+  "libica": "libika",
+  "libiche": "libike",
+  "libici": "libitʃi",
+  "libico": "libiko",
+  "libidine": "libidine",
+  "libidinoso": "libidinoso",
+  "libidinoso_2": "libidinozo",
+  "libito": "libito",
+  "libo": "libo",
+  "libra": "libra",
+  "librai": "librai",
+  "libraia": "libraja",
+  "libraie": "libraje",
+  "libraio": "librajo",
+  "librare": "librare",
+  "librario": "librarjɔ",
+  "librato": "librato",
+  "librazione": "libratːsjone",
+  "libreria": "libreria",
+  "libreria_2": "librɛrja",
+  "librerie": "librɛrje",
+  "libresco": "libresko",
+  "libretti": "libretːi",
+  "librettista": "libretːista",
+  "librettiste": "libretːiste",
+  "librettisti": "libretːisti",
+  "libretto": "libretːo",
+  "libri": "libri",
+  "libricino": "libritʃino",
+  "libro": "libro",
+  "licantropi": "likantropi",
+  "licantropia": "likantropia",
+  "licantropo": "likantropo",
+  "licaone": "likaone",
+  "licci": "litːʃo",
+  "licciaia": "litːʃaja",
+  "liccio": "litːʃo",
+  "liceale": "litʃeale",
+  "liceità": "litʃejta",
+  "licenza": "litʃɛntsa",
+  "licenze": "litʃɛntse",
+  "licenziamenti": "litʃentsjamenti",
+  "licenziamento": "litʃentsjamento",
+  "licenziare": "litʃentsjare",
+  "licenziarsi": "litʃentsjarsi",
+  "licenziato": "litʃentsjato",
+  "licenziosamente": "litʃentsjosamente",
+  "licenziosamente_2": "litʃentsjozamente",
+  "licenzioso": "litʃentsjoso",
+  "licenzioso_2": "litʃentsjozo",
+  "liceo": "litʃeo",
+  "liceo_2": "litʃɛo",
+  "licere": "litʃere",
+  "lichene": "likɛne",
+  "licheni": "likɛni",
+  "lichenicola": "likɛnikola",
+  "lichenicole": "likɛnikole",
+  "lichenicoli": "likɛnikoli",
+  "lichenicolo": "likɛnikolo",
+  "lichenizzazione": "likenidːzatːsjone",
+  "lichenologica": "likenolɔdʒika",
+  "lichenologiche": "likenolɔdʒike",
+  "lichenologici": "likenolɔdʒitʃi",
+  "lichenologico": "likenolɔdʒiko",
+  "licinio": "litʃinjo",
+  "licitazione": "litʃitatːsjone",
+  "licitazioni": "litʃitatːsjoni",
+  "licito": "litʃito",
+  "licopene": "likopɛne",
+  "licurgo": "likurɡo",
+  "lido": "lido",
+  "lieta": "ljɛta",
+  "lietamente": "ljetamente",
+  "liete": "ljɛte",
+  "lieti": "ljɛti",
+  "lieto": "liɛto",
+  "lieto_2": "ljɛto",
+  "lieve": "ljɛve",
+  "lievemente": "ljevemente",
+  "lievemente_2": "ljɛvemente",
+  "lievi": "ljɛvi",
+  "lievitato": "ljevitato",
+  "lievitazione": "ljevitatsione",
+  "lieviti": "ljɛviti",
+  "lievito": "ljɛvito",
+  "ligando": "liɡando",
+  "ligazione": "liɡatːsjone",
+  "ligazioni": "liɡatːsjoni",
+  "light": "lait",
+  "lighthouse": "lajtaws",
+  "ligio": "lidʒo",
+  "lignaggi": "liɲɲadːʒi",
+  "lignaggio": "liɲɲadːʒo",
+  "ligneo": "liɲɲeo",
+  "lignina": "liɲɲina",
+  "lignite": "liɲɲite",
+  "ligodio": "liɡɔdjo",
+  "ligre": "liɡre",
+  "ligroina": "liɡroina",
+  "ligula": "liɡula",
+  "ligure": "liɡure",
+  "liguri": "liɡure",
+  "liguria": "liɡurja",
+  "ligurismo": "liɡurizmo",
+  "ligustico": "liɡustiko",
+  "ligustro": "liɡustro",
+  "liliacee": "liljatʃee",
+  "liliale": "liliale",
+  "lilla": "lilːa",
+  "lillà": "lilːa",
+  "lillipuziana": "lilːiputːsjana",
+  "lillipuziane": "lilːiputːsjane",
+  "lillipuziani": "lilːiputːsjani",
+  "lillipuziano": "lilːiputːsjano",
+  "lima": "lima",
+  "limaccio": "limatːʃo",
+  "limare": "limare",
+  "limatura": "limatura",
+  "limbico": "limbiko",
+  "limbo": "limbo",
+  "lime": "lajm",
+  "lime_2": "lime",
+  "limegno": "limeɲɲo",
+  "limetta": "limetːa",
+  "limi": "limi",
+  "limicolo": "limikolo",
+  "liminare": "liminare",
+  "limitabile": "limitabile",
+  "limitabili": "limitabili",
+  "limitando": "limitando",
+  "limitante": "limitante",
+  "limitanti": "limitanti",
+  "limitare": "limitare",
+  "limitata": "limitata",
+  "limitatamente": "limitatamente",
+  "limitate": "limitate",
+  "limitatezza": "limitatetːsa",
+  "limitatezza_2": "limitetːsa",
+  "limitatezze": "limitetːse",
+  "limitativo": "limitativo",
+  "limitato": "limitato",
+  "limitazione": "limitatːsjone",
+  "limite": "limite",
+  "limiti": "limiti",
+  "limitrofo": "limitrofo",
+  "limnometro": "limnɔmetro",
+  "limo": "limo",
+  "limonata": "limonata",
+  "limonate": "limonate",
+  "limoncelli": "limontʃɛlːi",
+  "limoncello": "limontʃɛlːo",
+  "limoncina": "limonkina",
+  "limoncine": "limonkine",
+  "limoncini": "limonkini",
+  "limoncino": "limonkino",
+  "limoncino_2": "limontʃino",
+  "limone": "limone",
+  "limone_2": "limɔne",
+  "limonene": "limonɛne",
+  "limoni": "limɔni",
+  "limonte": "limonte",
+  "limpidamente": "limpidamente",
+  "limpide": "limpide",
+  "limpidezza": "limpidetːsa",
+  "limpido": "limpido",
+  "lince": "lintʃe",
+  "linci": "lintʃi",
+  "linciaggio": "lintʃadːʒo",
+  "linciare": "lintʃare",
+  "linciare_2": "lintʃiare",
+  "linciato": "lintʃato",
+  "linda": "linda",
+  "linde": "linde",
+  "lindi": "lindi",
+  "lindo": "lindo",
+  "lindura": "lindura",
+  "linea": "linea",
+  "linea_2": "linɛa",
+  "lineale": "lineale",
+  "linealmente": "linealmɛnte",
+  "lineamenti": "lineamenti",
+  "lineamento": "lineamento",
+  "lineare": "lineare",
+  "lineari": "lineari",
+  "linearmente": "linearmente",
+  "lineato": "lineato",
+  "linee": "linɛe",
+  "lineetta": "lineetːa",
+  "linfa": "linfa",
+  "linfa_2": "liɲfa",
+  "linfadenoma": "linfadenɔma",
+  "linfadenosi": "linfadenɔzi",
+  "linfagogo": "linfaɡɔɡo",
+  "linfatico": "linfatiko",
+  "linfe": "liɲfe",
+  "linfedema": "linfedɛma",
+  "linfedemi": "linfedɛmi",
+  "linfoblastico": "linfoblastiko",
+  "linfoblasto": "linfoblasto",
+  "linfocita": "linfotʃita",
+  "linfocitario": "linfotʃitarjo",
+  "linfociti": "linfotʃiti",
+  "linfocitico": "linfotʃito",
+  "linfocito": "linfotʃito",
+  "linfodrenaggi": "linfodrenadːʒi",
+  "linfodrenaggio": "linfodrenadːʒo",
+  "linfoghiandola": "linfoɡjandola",
+  "linfogranuloma": "linfoɡranulɔma",
+  "linfogranulomatoso": "linfoɡranulomatoso",
+  "linfogranulomatoso_2": "linfoɡranulomatozo",
+  "linfoide": "linfɔjde",
+  "linfoidi": "linfɔjdi",
+  "linfoma": "linfɔma",
+  "linfomatoso": "linfomatoso",
+  "linfomatoso_2": "linfomatozo",
+  "linfome": "linfɔmi",
+  "linfomegalia": "linfomeɡalia",
+  "linfomegalie": "linfomeɡalie",
+  "linfonodale": "linfonodale",
+  "linfonodo": "linfonɔdo",
+  "linfopatia": "linfopatia",
+  "lingeria": "lindʒeria",
+  "lingerie": "lindʒerie",
+  "lingerie_2": "linʒeri",
+  "lingio": "lindʒo",
+  "lingottare": "linɡotːare",
+  "lingottatura": "linɡotːatura",
+  "lingottature": "linɡotːature",
+  "lingotti": "linɡɔtːi",
+  "lingottiera": "linɡotːjera",
+  "lingottino": "linɡotːino",
+  "lingotto": "linɡɔtːo",
+  "lingua": "linɡwa",
+  "lingua_2": "liɲɡwa",
+  "linguaccia": "linɡwatːʃa",
+  "linguacciuto": "linɡwatːʃuto",
+  "linguaggi": "linɡwadːʒi",
+  "linguaggio": "linɡuadːʒo",
+  "linguaggio_2": "linɡwadːʒo",
+  "linguaiolo": "linɡwajɔlo",
+  "linguardo": "linɡwardo",
+  "linguattola": "linɡwatːola",
+  "linguetta": "linɡwetːa",
+  "linguiforme": "liɲɡwiforme",
+  "linguiformi": "liɲɡwiformi",
+  "linguina": "linɡuina",
+  "linguina_2": "linɡwina",
+  "linguine": "linɡwine",
+  "linguine_2": "liɲɡwine",
+  "linguista": "linɡwista",
+  "linguiste": "linɡwiste",
+  "linguisti": "linɡwisti",
+  "linguistica": "linɡuistika",
+  "linguistica_2": "linɡwistika",
+  "linguisticamente": "linɡwistikamente",
+  "linguistiche": "linɡwistike",
+  "linguistici": "linɡwistitʃi",
+  "linguistico": "linɡuistiko",
+  "linguistico_2": "linɡwistiko",
+  "linguolabiale": "linɡwolabjale",
+  "linguoversione": "linɡwoversjone",
+  "lini": "lini",
+  "liniero": "linjɛro",
+  "linificio": "linifitʃo",
+  "linneano": "linːeano",
+  "lino": "lino",
+  "linoleum": "linɔleum",
+  "linoleum_2": "linɔlewm",
+  "linone": "linone",
+  "linoni": "linoni",
+  "linotipia": "linotipia",
+  "linotipie": "linotipie",
+  "linotipista": "linotipista",
+  "linotipiste": "linotipiste",
+  "linotipisti": "linotipisti",
+  "linotype": "linotipe",
+  "linsanghi": "linsanɡi",
+  "linsango": "linsanɡo",
+  "liocorno": "ljokɔrno",
+  "liofilizzare": "liofilidːzare",
+  "liofilo": "liɔfilo",
+  "lione": "ljone",
+  "lionese": "lioneze",
+  "liparide": "liparide",
+  "lipedema": "lipedɛma",
+  "lipedemi": "lipedɛmi",
+  "lipide": "lipide",
+  "lipidico": "lipidiko",
+  "lipocito": "lipotʃito",
+  "lipoedema": "lipoedɛma",
+  "lipoedemi": "lipoedɛmi",
+  "lipoforo": "lipɔforo",
+  "lipoma": "lipɔma",
+  "lipomi": "lipɔmi",
+  "lipoproteina": "lipoproteina",
+  "liposarcoma": "liposarkɔma",
+  "liposarcomi": "liposarkɔmi",
+  "liposolubile": "liposolubile",
+  "liposolubili": "liposolubili",
+  "liposoma": "liposɔma",
+  "liposomi": "liposɔmi",
+  "liposuzione": "liposutːsjone",
+  "lippa": "lipːa",
+  "lippo": "lipːo",
+  "lipsanoteca": "lipsanotɛka",
+  "liquame": "likwame",
+  "liquami": "likwami",
+  "liquazione": "likwatːsjone",
+  "liquazioni": "likwatːsjoni",
+  "liquefacibile": "likwefatʃibile",
+  "liquefacibili": "likwefatʃibili",
+  "liquefare": "likwefare",
+  "liquefatta": "likwefatːa",
+  "liquefatte": "likwefatːe",
+  "liquefatti": "likwefatːi",
+  "liquefattibile": "likwefatːibile",
+  "liquefattibili": "likwefatːibili",
+  "liquefatto": "likwefatːo",
+  "liquida": "likwida",
+  "liquidante": "likwidante",
+  "liquidare": "likuidare",
+  "liquidare_2": "likwidare",
+  "liquidate": "likwidate",
+  "liquidato": "likwidato",
+  "liquidatore": "likwidare",
+  "liquidatore_2": "likwidatore",
+  "liquidatori": "likwidatori",
+  "liquidatorio": "likwidatɔrjo",
+  "liquidatrice": "likwidatritʃe",
+  "liquidatrici": "likwidatritʃi",
+  "liquidazione": "likwidatsione",
+  "liquidazione_2": "likwidatːsjone",
+  "liquide": "likwide",
+  "liquidi": "likwidi",
+  "liquidità": "likwidita",
+  "liquido": "likwido",
+  "liquirizia": "likwiritːsja",
+  "liquore": "likwore",
+  "liquori": "likwori",
+  "liquorista": "likworista",
+  "liquoriste": "likworiste",
+  "liquoristi": "likworisti",
+  "lira": "lira",
+  "lire": "lire",
+  "lirica": "lirika",
+  "lirico": "liriko",
+  "liriforme": "liriforme",
+  "liriformi": "liriformi",
+  "lirismo": "lirizmo",
+  "lirista": "lirista",
+  "lisca": "liska",
+  "lisce": "liʃe",
+  "lische": "liske",
+  "lisci": "liʃi",
+  "lisci_2": "liʃʃi",
+  "liscia": "liʃa",
+  "liscia_2": "liʃʃa",
+  "lisciante": "liʃʃante",
+  "lisciardo": "liʃʃardo",
+  "lisciare": "liʃʃare",
+  "lisciato": "liʃʃato",
+  "liscie": "liʃʃe",
+  "liscio": "liʃo",
+  "liscio_2": "liʃɔ",
+  "liscio_3": "liʃʃo",
+  "liscissima": "liʃisːima",
+  "liscissime": "liʃisːime",
+  "liscissimi": "liʃisːimi",
+  "liscissimo": "liʃisːimo",
+  "liscivia": "liʃʃivja",
+  "lisciviazione": "liʃʃivjatsione",
+  "lise": "lise",
+  "lisifobia": "lizifobia",
+  "lisimetri": "lizimetri",
+  "lisimetro": "lizimetro",
+  "lisina": "lizina",
+  "lisine": "lizine",
+  "liso": "lizo",
+  "lisosoma": "lizosɔma",
+  "lisosomi": "lizosɔmi",
+  "lista": "lista",
+  "listare": "listare",
+  "listerella": "listerɛlːa",
+  "listeria": "listɛrja",
+  "listeriosi": "listerjɔzi",
+  "listino": "listino",
+  "listo": "listo",
+  "litania": "litania",
+  "lite": "lite",
+  "liti": "liti",
+  "litica": "litika",
+  "litiche": "litike",
+  "litici": "lititʃi",
+  "liticine": "lititʃine",
+  "litico": "litiko",
+  "litigante": "litiɡante",
+  "litiganti": "litiɡanti",
+  "litigare": "litiɡare",
+  "litigio": "litidʒo",
+  "litigiosità": "litidʒiosita",
+  "litigioso": "litidʒoso",
+  "litigioso_2": "litidʒozo",
+  "litio": "litjo",
+  "litioalchile": "litjoalkile",
+  "litochelifopedio": "litokelifopɛdjo",
+  "litocromia": "litokromia",
+  "litocromie": "litokromie",
+  "litodoma": "litɔdoma",
+  "litodome": "litɔdome",
+  "litodomi": "litɔdomi",
+  "litodomo": "litɔdomo",
+  "litofaga": "litɔfaɡa",
+  "litofaghe": "litɔfaɡe",
+  "litofagi": "litɔfadʒi",
+  "litofago": "litɔfaɡo",
+  "litografia": "litoɡrafia",
+  "litografie": "litoɡrafie",
+  "litologia": "litoloɡia",
+  "litologica": "litolɔdʒika",
+  "litologiche": "litolɔdʒike",
+  "litologici": "litolɔdʒitʃi",
+  "litologico": "litolɔdʒiko",
+  "litopedio": "litopɛdjo",
+  "litoraneo": "litoraneo",
+  "litosfera": "litosfɛra",
+  "litosfere": "litosfɛre",
+  "litosferica": "litosfɛrika",
+  "litosferiche": "litosfɛrike",
+  "litosferici": "litosfɛritʃi",
+  "litosferico": "litosfɛriko",
+  "litostratigrafica": "litostratiɡrafika",
+  "litostratigrafiche": "litostratiɡrafike",
+  "litostratigrafici": "litostratiɡrafitʃi",
+  "litostratigrafico": "litostratiɡrafiko",
+  "litote": "litɔte",
+  "litoteca": "litotɛka"
 }

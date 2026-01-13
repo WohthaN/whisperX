@@ -1,1539 +1,539 @@
 {
-  "laburismo": [
-    "laburizmo"
-  ],
-  "laburista": [
-    "laburista"
-  ],
-  "lacca": [
-    "lakːa"
-  ],
-  "laccare": [
-    "lakːare"
-  ],
-  "laccatura": [
-    "lakːatura"
-  ],
-  "lacchè": [
-    "lakːɛ"
-  ],
-  "lacchezzo": [
-    "lakːedːzo"
-  ],
-  "lacci": [
-    "latːʃi"
-  ],
-  "laccifero": [
-    "latːʃifero"
-  ],
-  "laccio": [
-    "latːʃo"
-  ],
-  "lacciola": [
-    "latːʃɔla"
-  ],
-  "lacciolo": [
-    "latːʃɔlo"
-  ],
-  "laccolo": [
-    "lakːɔlo"
-  ],
-  "lacedemone": [
-    "latʃedɛmone"
-  ],
-  "lacedemonico": [
-    "latʃedemɔniko"
-  ],
-  "lacedemonio": [
-    "latʃedemɔnjo"
-  ],
-  "lacerante": [
-    "latʃerante"
-  ],
-  "lacerare": [
-    "latʃerare"
-  ],
-  "lacerato": [
-    "latʃerato"
-  ],
-  "lacerazione": [
-    "latʃeratːsione",
-    "latʃeratːsjone"
-  ],
-  "lacerazioni": [
-    "latʃeratːsioni"
-  ],
-  "lacero": [
-    "latʃero"
-  ],
-  "lacertide": [
-    "latʃɛrtidei"
-  ],
-  "lacertidi": [
-    "latʃɛrtidi"
-  ],
-  "lacertiforme": [
-    "latʃɛrtiforme"
-  ],
-  "lacerto": [
-    "latʃɛrto"
-  ],
-  "lacertola": [
-    "latʃɛrtola"
-  ],
-  "laco": [
-    "lako"
-  ],
-  "laconicamente": [
-    "lakonikamente"
-  ],
-  "laconicismo": [
-    "lakonitʃizmo"
-  ],
-  "laconico": [
-    "lakɔniko"
-  ],
-  "laconismo": [
-    "lakonizmo"
-  ],
-  "lacrima": [
-    "lakrima"
-  ],
-  "lacrimale": [
-    "lakrimale"
-  ],
-  "lacrimali": [
-    "lakrimali"
-  ],
-  "lacrimante": [
-    "lakrimante"
-  ],
-  "lacrimare": [
-    "lakrimare"
-  ],
-  "lacrimazione": [
-    "lakrimatːjone",
-    "lakrimatːsjone"
-  ],
-  "lacrimazioni": [
-    "lakrimatːjoni"
-  ],
-  "lacrime": [
-    "lakrime"
-  ],
-  "lacrimevole": [
-    "lakrimevole"
-  ],
-  "lacrimevoli": [
-    "lakrimevoli"
-  ],
-  "lacrimogena": [
-    "lakrimɔdʒena"
-  ],
-  "lacrimogene": [
-    "lakrimɔdʒene"
-  ],
-  "lacrimogeni": [
-    "lakrimɔdʒeni"
-  ],
-  "lacrimogeno": [
-    "lakrimɔdʒeno"
-  ],
-  "lacrimosa": [
-    "lakrimosa"
-  ],
-  "lacrimose": [
-    "lakrimose"
-  ],
-  "lacrimosi": [
-    "lakrimosi"
-  ],
-  "lacrimoso": [
-    "lakrimoso",
-    "lakrimozo"
-  ],
-  "lactagoga": [
-    "laktaɡoɡa"
-  ],
-  "lactagoghe": [
-    "laktaɡoɡe"
-  ],
-  "lactagoghi": [
-    "laktaɡoɡi"
-  ],
-  "lactagogo": [
-    "ɡalaktaɡoɡo",
-    "laktaɡoɡo",
-    "laktaɡɔɡo"
-  ],
-  "lacuna": [
-    "lakuna"
-  ],
-  "lacune": [
-    "lakune"
-  ],
-  "lacunoso": [
-    "lakunoso",
-    "lakunozo"
-  ],
-  "lacustre": [
-    "lakustre"
-  ],
-  "laddia": [
-    "ladːia"
-  ],
-  "ladini": [
-    "ladini"
-  ],
-  "ladino": [
-    "ladino"
-  ],
-  "ladra": [
-    "ladra"
-  ],
-  "ladre": [
-    "ladre"
-  ],
-  "ladresco": [
-    "ladresko"
-  ],
-  "ladri": [
-    "ladri"
-  ],
-  "ladro": [
-    "ladro"
-  ],
-  "ladrocinio": [
-    "ladrotʃinjo"
-  ],
-  "ladrona": [
-    "ladrona"
-  ],
-  "ladroncella": [
-    "ladrontʃɛlːa"
-  ],
-  "ladroncello": [
-    "ladrontʃɛlːo"
-  ],
-  "ladrone": [
-    "ladrone"
-  ],
-  "ladroneccio": [
-    "ladronetːʃo"
-  ],
-  "ladroneggio": [
-    "ladronedːʒo"
-  ],
-  "ladroni": [
-    "ladroni"
-  ],
-  "lady": [
-    "lɛdi"
-  ],
-  "lager": [
-    "laɡer"
-  ],
-  "laggiù": [
-    "ladːʒu"
-  ],
-  "laghetto": [
-    "laɡetːo"
-  ],
-  "laghi": [
-    "laɡi"
-  ],
-  "lagide": [
-    "ladʒide"
-  ],
-  "lagidi": [
-    "ladʒidi"
-  ],
-  "lagna": [
-    "laɲɲa"
-  ],
-  "lagnanza": [
-    "laɲɲantsa"
-  ],
-  "lagnare": [
-    "laɲɲare"
-  ],
-  "lagnarsi": [
-    "laɲarsi",
-    "laɲɲarsi"
-  ],
-  "lagno": [
-    "laɲɲo"
-  ],
-  "lago": [
-    "laɡo",
-    "laɡɔ"
-  ],
-  "lagomorfi": [
-    "laɡomɔrfi"
-  ],
-  "lagomorfo": [
-    "laɡomɔrfo"
-  ],
-  "lagrima": [
-    "laɡrima"
-  ],
-  "lagrimare": [
-    "laɡrimare"
-  ],
-  "lagrimazione": [
-    "laɡrimatːjone"
-  ],
-  "lagrime": [
-    "laɡrime"
-  ],
-  "lagrimevole": [
-    "laɡrimevole"
-  ],
-  "lagrimevoli": [
-    "laɡrimevoli"
-  ],
-  "laguna": [
-    "laɡuna"
-  ],
-  "lagune": [
-    "laɡune"
-  ],
-  "laicismi": [
-    "lajtʃizmi"
-  ],
-  "laicismo": [
-    "lajtʃizmo"
-  ],
-  "laicità": [
-    "lajtʃita"
-  ],
-  "laicizzare": [
-    "lajtʃidːzare"
-  ],
-  "laico": [
-    "laiko"
-  ],
-  "laido": [
-    "laido"
-  ],
-  "lama": [
-    "lama"
-  ],
-  "lamaismo": [
-    "lamaizmo"
-  ],
-  "lamantini": [
-    "lamantini"
-  ],
-  "lamantino": [
-    "lamantino"
-  ],
-  "lamarazza": [
-    "lamaratːsa"
-  ],
-  "lamarazzo": [
-    "lamaratːso"
-  ],
-  "lamarckismi": [
-    "lamarkizmi"
-  ],
-  "lamarckismo": [
-    "lamarkizmo"
-  ],
-  "lamare": [
-    "lamare"
-  ],
-  "lamaseria": [
-    "lamaseria"
-  ],
-  "lamatura": [
-    "lamatura"
-  ],
-  "lamature": [
-    "lamature"
-  ],
-  "lamba": [
-    "lamba"
-  ],
-  "lambdacismo": [
-    "lambdatʃizmo"
-  ],
-  "lambere": [
-    "lambere"
-  ],
-  "lamberto": [
-    "lambɛrto"
-  ],
-  "lambicco": [
-    "lambikːo"
-  ],
-  "lambire": [
-    "lambire"
-  ],
-  "lamborghini": [
-    "lamborɡini"
-  ],
-  "lambretta": [
-    "lambretːa"
-  ],
-  "lambro": [
-    "lambro"
-  ],
-  "lambrusco": [
-    "lambrusko"
-  ],
-  "lame": [
-    "lame"
-  ],
-  "lamed": [
-    "lamed"
-  ],
-  "lamella": [
-    "lamɛlːa"
-  ],
-  "lamelliforme": [
-    "lamelːiforme"
-  ],
-  "lamelliformi": [
-    "lamelːiformi"
-  ],
-  "lamenta": [
-    "lamɛnta"
-  ],
-  "lamentai": [
-    "lamɛntai"
-  ],
-  "lamentammo": [
-    "lamɛntamːo"
-  ],
-  "lamentando": [
-    "lamɛntando"
-  ],
-  "lamentano": [
-    "lamɛntano"
-  ],
-  "lamentante": [
-    "lamɛntante"
-  ],
-  "lamentare": [
-    "lamentare",
-    "lamɛntare"
-  ],
-  "lamentarono": [
-    "lamɛntarono"
-  ],
-  "lamentarsi": [
-    "lamentarsi",
-    "lamɛntarsi"
-  ],
-  "lamentasse": [
-    "lamɛntasːe"
-  ],
-  "lamentassero": [
-    "lamɛntasːero"
-  ],
-  "lamentassi": [
-    "lamɛntasːi"
-  ],
-  "lamentassimo": [
-    "lamɛntasːimo"
-  ],
-  "lamentaste": [
-    "lamɛntaste"
-  ],
-  "lamentasti": [
-    "lamɛntasti"
-  ],
-  "lamentata": [
-    "lamɛntata"
-  ],
-  "lamentate": [
-    "lamɛntate"
-  ],
-  "lamentati": [
-    "lamɛntati"
-  ],
-  "lamentato": [
-    "lamɛntato"
-  ],
-  "lamentava": [
-    "lamɛntava"
-  ],
-  "lamentavamo": [
-    "lamɛntavamo"
-  ],
-  "lamentavano": [
-    "lamɛntavano"
-  ],
-  "lamentavate": [
-    "lamɛntavate"
-  ],
-  "lamentavi": [
-    "lamɛntavi"
-  ],
-  "lamentavo": [
-    "lamɛntavo"
-  ],
-  "lamentazione": [
-    "lamentatːsione",
-    "lamentatːsjone"
-  ],
-  "lamentazioni": [
-    "lamentatːsjoni"
-  ],
-  "lamentela": [
-    "lamentɛla"
-  ],
-  "lamenterà": [
-    "lamɛntera"
-  ],
-  "lamenterai": [
-    "lamɛnterai"
-  ],
-  "lamenteranno": [
-    "lamɛnteranːo"
-  ],
-  "lamenterebbe": [
-    "lamɛnterebːe"
-  ],
-  "lamenterebbero": [
-    "lamɛnterebːero"
-  ],
-  "lamenterei": [
-    "lamɛnterei"
-  ],
-  "lamenteremmo": [
-    "lamɛnteremːo"
-  ],
-  "lamenteremo": [
-    "lamɛnteremo"
-  ],
-  "lamentereste": [
-    "lamɛntereste"
-  ],
-  "lamenteresti": [
-    "lamɛnteresti"
-  ],
-  "lamenterete": [
-    "lamɛnterete"
-  ],
-  "lamenterò": [
-    "lamɛntero"
-  ],
-  "lamentevole": [
-    "lamentevole"
-  ],
-  "lamenti": [
-    "lamɛnti"
-  ],
-  "lamentiamo": [
-    "lamɛntjamo"
-  ],
-  "lamentiate": [
-    "lamɛntjate"
-  ],
-  "lamentino": [
-    "lamɛntino"
-  ],
-  "lamento": [
-    "lamento",
-    "lamɛnto"
-  ],
-  "lamentò": [
-    "lamɛnto"
-  ],
-  "lamentosamente": [
-    "lamentosamente"
-  ],
-  "lamentoso": [
-    "lamentoso",
-    "lamentozo"
-  ],
-  "lamiera": [
-    "lamiɛra"
-  ],
-  "lamierino": [
-    "lamjerino"
-  ],
-  "lamina": [
-    "lamina"
-  ],
-  "laminare": [
-    "laminare"
-  ],
-  "laminato": [
-    "laminato"
-  ],
-  "laminatura": [
-    "laminatura"
-  ],
-  "laminazione": [
-    "laminatsjone"
-  ],
-  "lampa": [
-    "lampa"
-  ],
-  "lampada": [
-    "lampada"
-  ],
-  "lampadari": [
-    "lampadari"
-  ],
-  "lampadario": [
-    "lampadarjo"
-  ],
-  "lampade": [
-    "lampade"
-  ],
-  "lampadina": [
-    "lampadina"
-  ],
-  "lampadinaia": [
-    "lampadinaja"
-  ],
-  "lampadinaio": [
-    "lampadinajo"
-  ],
-  "lampadine": [
-    "lampadine"
-  ],
-  "lampana": [
-    "lampana"
-  ],
-  "lampante": [
-    "lampante"
-  ],
-  "lampanti": [
-    "lampante"
-  ],
-  "lampare": [
-    "lampare"
-  ],
-  "lampeggiamenti": [
-    "lampedːʒamenti"
-  ],
-  "lampeggiamento": [
-    "lampedːʒamento"
-  ],
-  "lampeggiante": [
-    "lampedːʒante"
-  ],
-  "lampeggiare": [
-    "lampedːʒare"
-  ],
-  "lampeggio": [
-    "lampedːʒo"
-  ],
-  "lampi": [
-    "lampi"
-  ],
-  "lampione": [
-    "lampione",
-    "lampjone"
-  ],
-  "lampioni": [
-    "lampjoni"
-  ],
-  "lampiride": [
-    "lampiride"
-  ],
-  "lampiridi": [
-    "lampiridi"
-  ],
-  "lampo": [
-    "lampo"
-  ],
-  "lampone": [
-    "lampone"
-  ],
-  "lamponi": [
-    "lamponi"
-  ],
-  "lampreda": [
-    "lamprɛda"
-  ],
-  "lampredotto": [
-    "lampredɔtːo"
-  ],
-  "lampuga": [
-    "lampuɡa"
-  ],
-  "lana": [
-    "lana"
-  ],
-  "lance": [
-    "lantʃe"
-  ],
-  "lancetta": [
-    "lantʃetːa"
-  ],
-  "lanci": [
-    "lantʃi"
-  ],
-  "lancia": [
-    "lantʃa"
-  ],
-  "lanciabas": [
-    "lantʃabas"
-  ],
-  "lanciabile": [
-    "lantʃabile"
-  ],
-  "lanciabili": [
-    "lantʃabili"
-  ],
-  "lanciabombe": [
-    "lantʃabombe"
-  ],
-  "lanciafiamme": [
-    "lantʃafjamːe"
-  ],
-  "lanciagranate": [
-    "lantʃaɡranate"
-  ],
-  "lanciamenti": [
-    "lantʃamenti"
-  ],
-  "lanciamento": [
-    "lantʃamento"
-  ],
-  "lanciamissili": [
-    "lantʃamisːile",
-    "lantʃamisːili"
-  ],
-  "lanciante": [
-    "lantʃante"
-  ],
-  "lanciarazzi": [
-    "lantʃaradːzi",
-    "lantʃaratːsi"
-  ],
-  "lanciare": [
-    "lantʃare",
-    "lantʃiare"
-  ],
-  "lanciarsi": [
-    "lantʃarsi"
-  ],
-  "lanciato": [
-    "lantʃato"
-  ],
-  "lancinante": [
-    "lantʃinante"
-  ],
-  "lancio": [
-    "lantʃo"
-  ],
-  "lanciola": [
-    "lantʃɔla"
-  ],
-  "lanciuola": [
-    "lantʃwɔla"
-  ],
-  "langarolo": [
-    "lanɡarɔlo"
-  ],
-  "langhe": [
-    "lanɡe"
-  ],
-  "langravio": [
-    "lanɡravjo"
-  ],
-  "languidamente": [
-    "lanɡwidamente"
-  ],
-  "languido": [
-    "lanɡwido"
-  ],
-  "languire": [
-    "lanɡuire"
-  ],
-  "languore": [
-    "lanɡwore"
-  ],
-  "languori": [
-    "lanɡwori"
-  ],
-  "lanide": [
-    "lanide"
-  ],
-  "lanidi": [
-    "lanidi"
-  ],
-  "laniero": [
-    "lanjɛro"
-  ],
-  "lanificio": [
-    "lanifitʃo"
-  ],
-  "lanista": [
-    "lanista"
-  ],
-  "lanisti": [
-    "lanisti"
-  ],
-  "lansio": [
-    "lansjo"
-  ],
-  "lantanide": [
-    "lantanide"
-  ],
-  "lantanio": [
-    "lantanjo"
-  ],
-  "lanterna": [
-    "lantɛrna"
-  ],
-  "lanterne": [
-    "lantɛrne"
-  ],
-  "lanternino": [
-    "lanternino"
-  ],
-  "lanugine": [
-    "lanudʒine"
-  ],
-  "lanugo": [
-    "lanuɡo"
-  ],
-  "lanzardo": [
-    "lantsardo"
-  ],
-  "lanzichenecca": [
-    "lantsikenekːa"
-  ],
-  "lanzichenecche": [
-    "lantsikenekːe"
-  ],
-  "lanzichenecco": [
-    "lantsikenekːo"
-  ],
-  "lanzo": [
-    "lantso"
-  ],
-  "lao": [
-    "lao"
-  ],
-  "laonde": [
-    "laonde"
-  ],
-  "laos": [
-    "laos"
-  ],
-  "laosiano": [
-    "laosjano",
-    "laozjano"
-  ],
-  "laotiana": [
-    "laotjana"
-  ],
-  "laotiane": [
-    "laotjane"
-  ],
-  "laotiani": [
-    "laotjani"
-  ],
-  "laotiano": [
-    "laotjano"
-  ],
-  "lapalissianamente": [
-    "lapalisːjanamente"
-  ],
-  "lapalissiano": [
-    "lapalisːjano"
-  ],
-  "laparoscopia": [
-    "laparoskopia"
-  ],
-  "laparoscopica": [
-    "laparoskɔpika"
-  ],
-  "laparoscopiche": [
-    "laparoskɔpike"
-  ],
-  "laparoscopici": [
-    "laparoskɔpitʃi"
-  ],
-  "laparoscopico": [
-    "laparoskɔpiko"
-  ],
-  "laparoscopie": [
-    "laparoskopie"
-  ],
-  "laparotomia": [
-    "laparotomia"
-  ],
-  "lapazio": [
-    "lapatːsjo"
-  ],
-  "lapidare": [
-    "lapidare"
-  ],
-  "lapidario": [
-    "lapidarjo"
-  ],
-  "lapidazione": [
-    "lapidatsione",
-    "lapidatːsjone"
-  ],
-  "lapidazioni": [
-    "lapidatsioni"
-  ],
-  "lapide": [
-    "lapide"
-  ],
-  "lapidescente": [
-    "lapideʃʃɛnte"
-  ],
-  "lapidificazione": [
-    "lapidifikatːsjone"
-  ],
-  "lapidificazioni": [
-    "lapidifikatːsjoni"
-  ],
-  "lapillo": [
-    "lapilːo"
-  ],
-  "lapis": [
-    "lapis"
-  ],
-  "lapislazzolo": [
-    "lapizladːzolo",
-    "lapizlatːsolo"
-  ],
-  "lapislazzuli": [
-    "lapizladːzuli",
-    "lapizlatːsuli"
-  ],
-  "laplaciano": [
-    "laplatʃano"
-  ],
-  "lappa": [
-    "lapːa"
-  ],
-  "lappatore": [
-    "lapːatore"
-  ],
-  "lapsus": [
-    "lapsus"
-  ],
-  "lardo": [
-    "lardo",
-    "lardɔ"
-  ],
-  "larga": [
-    "larɡa"
-  ],
-  "largamente": [
-    "larɡamente"
-  ],
-  "larghe": [
-    "larɡe"
-  ],
-  "larghezza": [
-    "larɡetːsa",
-    "larɡɛtːsa"
-  ],
-  "larghezze": [
-    "larɡetːse"
-  ],
-  "larghi": [
-    "larɡi"
-  ],
-  "larghissima": [
-    "larɡisːima"
-  ],
-  "larghissime": [
-    "larɡisːime"
-  ],
-  "larghissimi": [
-    "larɡisːimi"
-  ],
-  "larghissimo": [
-    "larɡisːimo"
-  ],
-  "largire": [
-    "lardʒire"
-  ],
-  "largo": [
-    "larɡo"
-  ],
-  "larice": [
-    "laritʃe"
-  ],
-  "laride": [
-    "laride"
-  ],
-  "laridi": [
-    "laridi"
-  ],
-  "laringe": [
-    "lariɲdʒe"
-  ],
-  "laringeo": [
-    "larindʒeo",
-    "larindʒɛo"
-  ],
-  "laringi": [
-    "lariɲdʒi"
-  ],
-  "laringofoni": [
-    "larinɡofɔni"
-  ],
-  "laringofono": [
-    "larinɡofɔno"
-  ],
-  "laringologica": [
-    "larinɡolɔdʒika"
-  ],
-  "laringologiche": [
-    "larinɡolɔdʒike"
-  ],
-  "laringologici": [
-    "larinɡolɔdʒitʃi"
-  ],
-  "laringologico": [
-    "larinɡolɔdʒiko"
-  ],
-  "laringoscopi": [
-    "larinɡoskɔpi"
-  ],
-  "laringoscopica": [
-    "larinɡoskɔpika"
-  ],
-  "laringoscopiche": [
-    "larinɡoskɔpike"
-  ],
-  "laringoscopici": [
-    "larinɡoskɔpitʃi"
-  ],
-  "laringoscopico": [
-    "larinɡoskɔpiko"
-  ],
-  "laringoscopio": [
-    "larinɡoskɔpjo"
-  ],
-  "laringotracheite": [
-    "larinɡotrakeite"
-  ],
-  "larva": [
-    "larva"
-  ],
-  "larvale": [
-    "larvale"
-  ],
-  "larvali": [
-    "larvali"
-  ],
-  "larviforme": [
-    "larvaforme"
-  ],
-  "larviformi": [
-    "larvaformi"
-  ],
-  "larvipara": [
-    "larvipara"
-  ],
-  "larvipare": [
-    "larvipare"
-  ],
-  "larvipari": [
-    "larvipari"
-  ],
-  "larviparità": [
-    "larviparita"
-  ],
-  "larviparo": [
-    "larviparo"
-  ],
-  "lasagna": [
-    "lazaɲa",
-    "lazaɲɲa"
-  ],
-  "lasagne": [
-    "lasaɲe",
-    "lazaɲe"
-  ],
-  "lasciante": [
-    "laʃʃante"
-  ],
-  "lasciapassare": [
-    "laʃʃapasːare"
-  ],
-  "lasciare": [
-    "laʃʃare",
-    "laʃʃiare"
-  ],
-  "lasciarsi": [
-    "laʃarsi",
-    "laʃʃarsi",
-    "laʃʃiarsi"
-  ],
-  "lasciato": [
-    "laʃʃato"
-  ],
-  "lascio": [
-    "laʃʃo"
-  ],
-  "lascito": [
-    "laʃʃito"
-  ],
-  "lascivamente": [
-    "laʃʃivamente"
-  ],
-  "lascivia": [
-    "laʃʃivia",
-    "laʃʃivja"
-  ],
-  "lascivie": [
-    "laʃʃivie"
-  ],
-  "lascivo": [
-    "laʃʃivo"
-  ],
-  "lasco": [
-    "lasko"
-  ],
-  "laser": [
-    "lazer"
-  ],
-  "lassa": [
-    "lasːa"
-  ],
-  "lassativo": [
-    "lasːativo"
-  ],
-  "lasse": [
-    "lasːe"
-  ],
-  "lassi": [
-    "lasːi"
-  ],
-  "lassismo": [
-    "lasːizmo"
-  ],
-  "lassista": [
-    "lasːista"
-  ],
-  "lassiste": [
-    "lasːiste"
-  ],
-  "lassisti": [
-    "lasːisti"
-  ],
-  "lasso": [
-    "lasːo"
-  ],
-  "lassù": [
-    "lasːu"
-  ],
-  "lastra": [
-    "lastra"
-  ],
-  "lastre": [
-    "lastre"
-  ],
-  "lastricato": [
-    "lastrikato"
-  ],
-  "lastrico": [
-    "lastriko"
-  ],
-  "lastrone": [
-    "lastrone"
-  ],
-  "lata": [
-    "lata"
-  ],
-  "latamente": [
-    "latamente"
-  ],
-  "late": [
-    "late"
-  ],
-  "latebra": [
-    "latebra",
-    "latɛbra"
-  ],
-  "latente": [
-    "latɛnte"
-  ],
-  "latenti": [
-    "latɛnti"
-  ],
-  "latenza": [
-    "latɛntsa"
-  ],
-  "laterale": [
-    "laterale"
-  ],
-  "laterali": [
-    "laterali"
-  ],
-  "lateralità": [
-    "lateralita"
-  ],
-  "lateralmente": [
-    "lateralmente"
-  ],
-  "laterizio": [
-    "lateritːsjo"
-  ],
-  "latex": [
-    "lateks"
-  ],
-  "lati": [
-    "lati"
-  ],
-  "latice": [
-    "latitʃe"
-  ],
-  "latici": [
-    "latitʃi"
-  ],
-  "laticlavio": [
-    "latiklavjo"
-  ],
-  "latifoglia": [
-    "latifɔʎa"
-  ],
-  "latifondismo": [
-    "latifondizmo"
-  ],
-  "latifondo": [
-    "latifondo"
-  ],
-  "latina": [
-    "latina"
-  ],
-  "latinamente": [
-    "latinamente"
-  ],
-  "latine": [
-    "latine"
-  ],
-  "latinense": [
-    "latinɛnse"
-  ],
-  "latini": [
-    "latini"
-  ],
-  "latinismi": [
-    "latinizmi"
-  ],
-  "latinismo": [
-    "latinizmo"
-  ],
-  "latinista": [
-    "latinista"
-  ],
-  "latiniste": [
-    "latiniste"
-  ],
-  "latinisti": [
-    "latinisti"
-  ],
-  "latinità": [
-    "latinita"
-  ],
-  "latino": [
-    "latino"
-  ],
-  "latinorum": [
-    "latinɔrum"
-  ],
-  "latiri": [
-    "latiri"
-  ],
-  "latirismo": [
-    "latirizmo"
-  ],
-  "latiro": [
-    "latiro"
-  ],
-  "latitante": [
-    "latitante"
-  ],
-  "latitato": [
-    "latitato"
-  ],
-  "latitudinale": [
-    "latitudinale"
-  ],
-  "latitudinalmente": [
-    "latitudinalmente"
-  ],
-  "latitudine": [
-    "latitudine"
-  ],
-  "lato": [
-    "lato",
-    "latɔ"
-  ],
-  "latomia": [
-    "latomia",
-    "latɔmja"
-  ],
-  "latore": [
-    "latore"
-  ],
-  "latori": [
-    "latori"
-  ],
-  "latrante": [
-    "latrante"
-  ],
-  "latrare": [
-    "latrare"
-  ],
-  "latrato": [
-    "latrato"
-  ],
-  "latrina": [
-    "latrina"
-  ],
-  "latro": [
-    "latro"
-  ],
-  "latroneccio": [
-    "latronetːʃo"
-  ],
-  "latta": [
-    "latːa"
-  ],
-  "lattacidemia": [
-    "latːatʃidemia"
-  ],
-  "lattacidemie": [
-    "latːatʃidemie"
-  ],
-  "lattagoga": [
-    "latːaɡoɡa"
-  ],
-  "lattagoghe": [
-    "latːaɡoɡe"
-  ],
-  "lattagoghi": [
-    "latːaɡoɡi"
-  ],
-  "lattagogo": [
-    "latːaɡoɡo",
-    "latːaɡɔɡo"
-  ],
-  "lattai": [
-    "latːai"
-  ],
-  "lattaio": [
-    "latːajo"
-  ],
-  "lattaiola": [
-    "latːajɔla"
-  ],
-  "lattaiolo": [
-    "latːajɔlo"
-  ],
-  "lattamento": [
-    "latːamento"
-  ],
-  "lattante": [
-    "latːante"
-  ],
-  "lattario": [
-    "latːarjo"
-  ],
-  "lattazione": [
-    "latːatːsjone"
-  ],
-  "lattazioni": [
-    "latːatːsjoni"
-  ],
-  "latte": [
-    "latːe"
-  ],
-  "lattea": [
-    "latːea"
-  ],
-  "lattee": [
-    "latːee"
-  ],
-  "lattei": [
-    "latːei"
-  ],
-  "latteo": [
-    "latːeo"
-  ],
-  "latteria": [
-    "latːeria"
-  ],
-  "latti": [
-    "latːi"
-  ],
-  "lattica": [
-    "latːika"
-  ],
-  "lattice": [
-    "latːitʃe"
-  ],
-  "latticelli": [
-    "latːitʃɛlːi"
-  ],
-  "latticello": [
-    "latːitʃɛlːo"
-  ],
-  "lattiche": [
-    "latːike"
-  ],
-  "lattici": [
-    "latːitʃi"
-  ],
-  "latticini": [
-    "latːitʃini"
-  ],
-  "latticinio": [
-    "latːitʃinjo"
-  ],
-  "latticino": [
-    "latːitʃino"
-  ],
-  "lattico": [
-    "latːiko"
-  ],
-  "latticodeidrogenasi": [
-    "latːikodeidrodʒenazi"
-  ],
-  "lattide": [
-    "latːide"
-  ],
-  "lattiera": [
-    "latːjɛra"
-  ],
-  "lattiero": [
-    "latːjɛro"
-  ],
-  "lattifera": [
-    "latːifɛra"
-  ],
-  "lattifere": [
-    "latːifɛre"
-  ],
-  "lattiferi": [
-    "latːifɛri"
-  ],
-  "lattiginosa": [
-    "latːidʒinosa"
-  ],
-  "lattiginose": [
-    "latːidʒinose"
-  ],
-  "lattiginosi": [
-    "latːidʒinosi"
-  ],
-  "lattiginoso": [
-    "latːidʒinoso"
-  ],
-  "lattobacilli": [
-    "latːobatʃilːi"
-  ],
-  "lattobacillo": [
-    "latːobatʃilːo"
-  ],
-  "lattococchi": [
-    "latːokɔkːi"
-  ],
-  "lattococco": [
-    "latːokɔkːo"
-  ],
-  "lattone": [
-    "latːone"
-  ],
-  "lattonizzazione": [
-    "latːonidːʒatsjone"
-  ],
-  "lattonizzazioni": [
-    "latːonidːʒatsjoni"
-  ],
-  "lattonzo": [
-    "latːontso"
-  ],
-  "lattonzolo": [
-    "latːontsolo"
-  ],
-  "lattosio": [
-    "latːozjo"
-  ],
-  "lattotropo": [
-    "latːɔtropo"
-  ],
-  "lattuccio": [
-    "latːutːʃo"
-  ],
-  "lattuga": [
-    "latːuɡa"
-  ],
-  "lattugaccio": [
-    "latːuɡatːʃo"
-  ],
-  "lattughe": [
-    "latːuɡe"
-  ],
-  "lattughella": [
-    "latːuɡɛlːa"
-  ],
-  "lattughetta": [
-    "latːuɡetːa"
-  ],
-  "lattughina": [
-    "latːuɡina"
-  ],
-  "lauda": [
-    "lawda"
-  ],
-  "laudare": [
-    "lawdare"
-  ],
-  "laudativa": [
-    "laudativa"
-  ],
-  "laudative": [
-    "laudative",
-    "lawdative"
-  ],
-  "laudativi": [
-    "laudativi"
-  ],
-  "laudativo": [
-    "laudativo"
-  ],
-  "laudo": [
-    "laudo"
-  ],
-  "lauracea": [
-    "lawratʃea"
-  ],
-  "lauracee": [
-    "lawratʃee"
-  ],
-  "laurea": [
-    "laurea",
-    "lawrea"
-  ],
-  "laureando": [
-    "lawreando"
-  ],
-  "laureare": [
-    "laureare",
-    "lawreare"
-  ],
-  "laurearsi": [
-    "lawrearsi"
-  ],
-  "laureata": [
-    "laureata"
-  ],
-  "laureate": [
-    "laureate"
-  ],
-  "laureati": [
-    "laureati"
-  ]
+  "laburismo": "laburizmo",
+  "laburista": "laburista",
+  "lacca": "lakːa",
+  "laccare": "lakːare",
+  "laccatura": "lakːatura",
+  "lacchè": "lakːɛ",
+  "lacchezzo": "lakːedːzo",
+  "lacci": "latːʃi",
+  "laccifero": "latːʃifero",
+  "laccio": "latːʃo",
+  "lacciola": "latːʃɔla",
+  "lacciolo": "latːʃɔlo",
+  "laccolo": "lakːɔlo",
+  "lacedemone": "latʃedɛmone",
+  "lacedemonico": "latʃedemɔniko",
+  "lacedemonio": "latʃedemɔnjo",
+  "lacerante": "latʃerante",
+  "lacerare": "latʃerare",
+  "lacerato": "latʃerato",
+  "lacerazione": "latʃeratːsione",
+  "lacerazione_2": "latʃeratːsjone",
+  "lacerazioni": "latʃeratːsioni",
+  "lacero": "latʃero",
+  "lacertide": "latʃɛrtidei",
+  "lacertidi": "latʃɛrtidi",
+  "lacertiforme": "latʃɛrtiforme",
+  "lacerto": "latʃɛrto",
+  "lacertola": "latʃɛrtola",
+  "laco": "lako",
+  "laconicamente": "lakonikamente",
+  "laconicismo": "lakonitʃizmo",
+  "laconico": "lakɔniko",
+  "laconismo": "lakonizmo",
+  "lacrima": "lakrima",
+  "lacrimale": "lakrimale",
+  "lacrimali": "lakrimali",
+  "lacrimante": "lakrimante",
+  "lacrimare": "lakrimare",
+  "lacrimazione": "lakrimatːjone",
+  "lacrimazione_2": "lakrimatːsjone",
+  "lacrimazioni": "lakrimatːjoni",
+  "lacrime": "lakrime",
+  "lacrimevole": "lakrimevole",
+  "lacrimevoli": "lakrimevoli",
+  "lacrimogena": "lakrimɔdʒena",
+  "lacrimogene": "lakrimɔdʒene",
+  "lacrimogeni": "lakrimɔdʒeni",
+  "lacrimogeno": "lakrimɔdʒeno",
+  "lacrimosa": "lakrimosa",
+  "lacrimose": "lakrimose",
+  "lacrimosi": "lakrimosi",
+  "lacrimoso": "lakrimoso",
+  "lacrimoso_2": "lakrimozo",
+  "lactagoga": "laktaɡoɡa",
+  "lactagoghe": "laktaɡoɡe",
+  "lactagoghi": "laktaɡoɡi",
+  "lactagogo": "ɡalaktaɡoɡo",
+  "lactagogo_2": "laktaɡoɡo",
+  "lactagogo_3": "laktaɡɔɡo",
+  "lacuna": "lakuna",
+  "lacune": "lakune",
+  "lacunoso": "lakunoso",
+  "lacunoso_2": "lakunozo",
+  "lacustre": "lakustre",
+  "laddia": "ladːia",
+  "ladini": "ladini",
+  "ladino": "ladino",
+  "ladra": "ladra",
+  "ladre": "ladre",
+  "ladresco": "ladresko",
+  "ladri": "ladri",
+  "ladro": "ladro",
+  "ladrocinio": "ladrotʃinjo",
+  "ladrona": "ladrona",
+  "ladroncella": "ladrontʃɛlːa",
+  "ladroncello": "ladrontʃɛlːo",
+  "ladrone": "ladrone",
+  "ladroneccio": "ladronetːʃo",
+  "ladroneggio": "ladronedːʒo",
+  "ladroni": "ladroni",
+  "lady": "lɛdi",
+  "lager": "laɡer",
+  "laggiù": "ladːʒu",
+  "laghetto": "laɡetːo",
+  "laghi": "laɡi",
+  "lagide": "ladʒide",
+  "lagidi": "ladʒidi",
+  "lagna": "laɲɲa",
+  "lagnanza": "laɲɲantsa",
+  "lagnare": "laɲɲare",
+  "lagnarsi": "laɲarsi",
+  "lagnarsi_2": "laɲɲarsi",
+  "lagno": "laɲɲo",
+  "lago": "laɡo",
+  "lago_2": "laɡɔ",
+  "lagomorfi": "laɡomɔrfi",
+  "lagomorfo": "laɡomɔrfo",
+  "lagrima": "laɡrima",
+  "lagrimare": "laɡrimare",
+  "lagrimazione": "laɡrimatːjone",
+  "lagrime": "laɡrime",
+  "lagrimevole": "laɡrimevole",
+  "lagrimevoli": "laɡrimevoli",
+  "laguna": "laɡuna",
+  "lagune": "laɡune",
+  "laicismi": "lajtʃizmi",
+  "laicismo": "lajtʃizmo",
+  "laicità": "lajtʃita",
+  "laicizzare": "lajtʃidːzare",
+  "laico": "laiko",
+  "laido": "laido",
+  "lama": "lama",
+  "lamaismo": "lamaizmo",
+  "lamantini": "lamantini",
+  "lamantino": "lamantino",
+  "lamarazza": "lamaratːsa",
+  "lamarazzo": "lamaratːso",
+  "lamarckismi": "lamarkizmi",
+  "lamarckismo": "lamarkizmo",
+  "lamare": "lamare",
+  "lamaseria": "lamaseria",
+  "lamatura": "lamatura",
+  "lamature": "lamature",
+  "lamba": "lamba",
+  "lambdacismo": "lambdatʃizmo",
+  "lambere": "lambere",
+  "lamberto": "lambɛrto",
+  "lambicco": "lambikːo",
+  "lambire": "lambire",
+  "lamborghini": "lamborɡini",
+  "lambretta": "lambretːa",
+  "lambro": "lambro",
+  "lambrusco": "lambrusko",
+  "lame": "lame",
+  "lamed": "lamed",
+  "lamella": "lamɛlːa",
+  "lamelliforme": "lamelːiforme",
+  "lamelliformi": "lamelːiformi",
+  "lamenta": "lamɛnta",
+  "lamentai": "lamɛntai",
+  "lamentammo": "lamɛntamːo",
+  "lamentando": "lamɛntando",
+  "lamentano": "lamɛntano",
+  "lamentante": "lamɛntante",
+  "lamentare": "lamentare",
+  "lamentare_2": "lamɛntare",
+  "lamentarono": "lamɛntarono",
+  "lamentarsi": "lamentarsi",
+  "lamentarsi_2": "lamɛntarsi",
+  "lamentasse": "lamɛntasːe",
+  "lamentassero": "lamɛntasːero",
+  "lamentassi": "lamɛntasːi",
+  "lamentassimo": "lamɛntasːimo",
+  "lamentaste": "lamɛntaste",
+  "lamentasti": "lamɛntasti",
+  "lamentata": "lamɛntata",
+  "lamentate": "lamɛntate",
+  "lamentati": "lamɛntati",
+  "lamentato": "lamɛntato",
+  "lamentava": "lamɛntava",
+  "lamentavamo": "lamɛntavamo",
+  "lamentavano": "lamɛntavano",
+  "lamentavate": "lamɛntavate",
+  "lamentavi": "lamɛntavi",
+  "lamentavo": "lamɛntavo",
+  "lamentazione": "lamentatːsione",
+  "lamentazione_2": "lamentatːsjone",
+  "lamentazioni": "lamentatːsjoni",
+  "lamentela": "lamentɛla",
+  "lamenterà": "lamɛntera",
+  "lamenterai": "lamɛnterai",
+  "lamenteranno": "lamɛnteranːo",
+  "lamenterebbe": "lamɛnterebːe",
+  "lamenterebbero": "lamɛnterebːero",
+  "lamenterei": "lamɛnterei",
+  "lamenteremmo": "lamɛnteremːo",
+  "lamenteremo": "lamɛnteremo",
+  "lamentereste": "lamɛntereste",
+  "lamenteresti": "lamɛnteresti",
+  "lamenterete": "lamɛnterete",
+  "lamenterò": "lamɛntero",
+  "lamentevole": "lamentevole",
+  "lamenti": "lamɛnti",
+  "lamentiamo": "lamɛntjamo",
+  "lamentiate": "lamɛntjate",
+  "lamentino": "lamɛntino",
+  "lamento": "lamento",
+  "lamento_2": "lamɛnto",
+  "lamentò": "lamɛnto",
+  "lamentosamente": "lamentosamente",
+  "lamentoso": "lamentoso",
+  "lamentoso_2": "lamentozo",
+  "lamiera": "lamiɛra",
+  "lamierino": "lamjerino",
+  "lamina": "lamina",
+  "laminare": "laminare",
+  "laminato": "laminato",
+  "laminatura": "laminatura",
+  "laminazione": "laminatsjone",
+  "lampa": "lampa",
+  "lampada": "lampada",
+  "lampadari": "lampadari",
+  "lampadario": "lampadarjo",
+  "lampade": "lampade",
+  "lampadina": "lampadina",
+  "lampadinaia": "lampadinaja",
+  "lampadinaio": "lampadinajo",
+  "lampadine": "lampadine",
+  "lampana": "lampana",
+  "lampante": "lampante",
+  "lampanti": "lampante",
+  "lampare": "lampare",
+  "lampeggiamenti": "lampedːʒamenti",
+  "lampeggiamento": "lampedːʒamento",
+  "lampeggiante": "lampedːʒante",
+  "lampeggiare": "lampedːʒare",
+  "lampeggio": "lampedːʒo",
+  "lampi": "lampi",
+  "lampione": "lampione",
+  "lampione_2": "lampjone",
+  "lampioni": "lampjoni",
+  "lampiride": "lampiride",
+  "lampiridi": "lampiridi",
+  "lampo": "lampo",
+  "lampone": "lampone",
+  "lamponi": "lamponi",
+  "lampreda": "lamprɛda",
+  "lampredotto": "lampredɔtːo",
+  "lampuga": "lampuɡa",
+  "lana": "lana",
+  "lance": "lantʃe",
+  "lancetta": "lantʃetːa",
+  "lanci": "lantʃi",
+  "lancia": "lantʃa",
+  "lanciabas": "lantʃabas",
+  "lanciabile": "lantʃabile",
+  "lanciabili": "lantʃabili",
+  "lanciabombe": "lantʃabombe",
+  "lanciafiamme": "lantʃafjamːe",
+  "lanciagranate": "lantʃaɡranate",
+  "lanciamenti": "lantʃamenti",
+  "lanciamento": "lantʃamento",
+  "lanciamissili": "lantʃamisːile",
+  "lanciamissili_2": "lantʃamisːili",
+  "lanciante": "lantʃante",
+  "lanciarazzi": "lantʃaradːzi",
+  "lanciarazzi_2": "lantʃaratːsi",
+  "lanciare": "lantʃare",
+  "lanciare_2": "lantʃiare",
+  "lanciarsi": "lantʃarsi",
+  "lanciato": "lantʃato",
+  "lancinante": "lantʃinante",
+  "lancio": "lantʃo",
+  "lanciola": "lantʃɔla",
+  "lanciuola": "lantʃwɔla",
+  "langarolo": "lanɡarɔlo",
+  "langhe": "lanɡe",
+  "langravio": "lanɡravjo",
+  "languidamente": "lanɡwidamente",
+  "languido": "lanɡwido",
+  "languire": "lanɡuire",
+  "languore": "lanɡwore",
+  "languori": "lanɡwori",
+  "lanide": "lanide",
+  "lanidi": "lanidi",
+  "laniero": "lanjɛro",
+  "lanificio": "lanifitʃo",
+  "lanista": "lanista",
+  "lanisti": "lanisti",
+  "lansio": "lansjo",
+  "lantanide": "lantanide",
+  "lantanio": "lantanjo",
+  "lanterna": "lantɛrna",
+  "lanterne": "lantɛrne",
+  "lanternino": "lanternino",
+  "lanugine": "lanudʒine",
+  "lanugo": "lanuɡo",
+  "lanzardo": "lantsardo",
+  "lanzichenecca": "lantsikenekːa",
+  "lanzichenecche": "lantsikenekːe",
+  "lanzichenecco": "lantsikenekːo",
+  "lanzo": "lantso",
+  "lao": "lao",
+  "laonde": "laonde",
+  "laos": "laos",
+  "laosiano": "laosjano",
+  "laosiano_2": "laozjano",
+  "laotiana": "laotjana",
+  "laotiane": "laotjane",
+  "laotiani": "laotjani",
+  "laotiano": "laotjano",
+  "lapalissianamente": "lapalisːjanamente",
+  "lapalissiano": "lapalisːjano",
+  "laparoscopia": "laparoskopia",
+  "laparoscopica": "laparoskɔpika",
+  "laparoscopiche": "laparoskɔpike",
+  "laparoscopici": "laparoskɔpitʃi",
+  "laparoscopico": "laparoskɔpiko",
+  "laparoscopie": "laparoskopie",
+  "laparotomia": "laparotomia",
+  "lapazio": "lapatːsjo",
+  "lapidare": "lapidare",
+  "lapidario": "lapidarjo",
+  "lapidazione": "lapidatsione",
+  "lapidazione_2": "lapidatːsjone",
+  "lapidazioni": "lapidatsioni",
+  "lapide": "lapide",
+  "lapidescente": "lapideʃʃɛnte",
+  "lapidificazione": "lapidifikatːsjone",
+  "lapidificazioni": "lapidifikatːsjoni",
+  "lapillo": "lapilːo",
+  "lapis": "lapis",
+  "lapislazzolo": "lapizladːzolo",
+  "lapislazzolo_2": "lapizlatːsolo",
+  "lapislazzuli": "lapizladːzuli",
+  "lapislazzuli_2": "lapizlatːsuli",
+  "laplaciano": "laplatʃano",
+  "lappa": "lapːa",
+  "lappatore": "lapːatore",
+  "lapsus": "lapsus",
+  "lardo": "lardo",
+  "lardo_2": "lardɔ",
+  "larga": "larɡa",
+  "largamente": "larɡamente",
+  "larghe": "larɡe",
+  "larghezza": "larɡetːsa",
+  "larghezza_2": "larɡɛtːsa",
+  "larghezze": "larɡetːse",
+  "larghi": "larɡi",
+  "larghissima": "larɡisːima",
+  "larghissime": "larɡisːime",
+  "larghissimi": "larɡisːimi",
+  "larghissimo": "larɡisːimo",
+  "largire": "lardʒire",
+  "largo": "larɡo",
+  "larice": "laritʃe",
+  "laride": "laride",
+  "laridi": "laridi",
+  "laringe": "lariɲdʒe",
+  "laringeo": "larindʒeo",
+  "laringeo_2": "larindʒɛo",
+  "laringi": "lariɲdʒi",
+  "laringofoni": "larinɡofɔni",
+  "laringofono": "larinɡofɔno",
+  "laringologica": "larinɡolɔdʒika",
+  "laringologiche": "larinɡolɔdʒike",
+  "laringologici": "larinɡolɔdʒitʃi",
+  "laringologico": "larinɡolɔdʒiko",
+  "laringoscopi": "larinɡoskɔpi",
+  "laringoscopica": "larinɡoskɔpika",
+  "laringoscopiche": "larinɡoskɔpike",
+  "laringoscopici": "larinɡoskɔpitʃi",
+  "laringoscopico": "larinɡoskɔpiko",
+  "laringoscopio": "larinɡoskɔpjo",
+  "laringotracheite": "larinɡotrakeite",
+  "larva": "larva",
+  "larvale": "larvale",
+  "larvali": "larvali",
+  "larviforme": "larvaforme",
+  "larviformi": "larvaformi",
+  "larvipara": "larvipara",
+  "larvipare": "larvipare",
+  "larvipari": "larvipari",
+  "larviparità": "larviparita",
+  "larviparo": "larviparo",
+  "lasagna": "lazaɲa",
+  "lasagna_2": "lazaɲɲa",
+  "lasagne": "lasaɲe",
+  "lasagne_2": "lazaɲe",
+  "lasciante": "laʃʃante",
+  "lasciapassare": "laʃʃapasːare",
+  "lasciare": "laʃʃare",
+  "lasciare_2": "laʃʃiare",
+  "lasciarsi": "laʃarsi",
+  "lasciarsi_2": "laʃʃarsi",
+  "lasciarsi_3": "laʃʃiarsi",
+  "lasciato": "laʃʃato",
+  "lascio": "laʃʃo",
+  "lascito": "laʃʃito",
+  "lascivamente": "laʃʃivamente",
+  "lascivia": "laʃʃivia",
+  "lascivia_2": "laʃʃivja",
+  "lascivie": "laʃʃivie",
+  "lascivo": "laʃʃivo",
+  "lasco": "lasko",
+  "laser": "lazer",
+  "lassa": "lasːa",
+  "lassativo": "lasːativo",
+  "lasse": "lasːe",
+  "lassi": "lasːi",
+  "lassismo": "lasːizmo",
+  "lassista": "lasːista",
+  "lassiste": "lasːiste",
+  "lassisti": "lasːisti",
+  "lasso": "lasːo",
+  "lassù": "lasːu",
+  "lastra": "lastra",
+  "lastre": "lastre",
+  "lastricato": "lastrikato",
+  "lastrico": "lastriko",
+  "lastrone": "lastrone",
+  "lata": "lata",
+  "latamente": "latamente",
+  "late": "late",
+  "latebra": "latebra",
+  "latebra_2": "latɛbra",
+  "latente": "latɛnte",
+  "latenti": "latɛnti",
+  "latenza": "latɛntsa",
+  "laterale": "laterale",
+  "laterali": "laterali",
+  "lateralità": "lateralita",
+  "lateralmente": "lateralmente",
+  "laterizio": "lateritːsjo",
+  "latex": "lateks",
+  "lati": "lati",
+  "latice": "latitʃe",
+  "latici": "latitʃi",
+  "laticlavio": "latiklavjo",
+  "latifoglia": "latifɔʎa",
+  "latifondismo": "latifondizmo",
+  "latifondo": "latifondo",
+  "latina": "latina",
+  "latinamente": "latinamente",
+  "latine": "latine",
+  "latinense": "latinɛnse",
+  "latini": "latini",
+  "latinismi": "latinizmi",
+  "latinismo": "latinizmo",
+  "latinista": "latinista",
+  "latiniste": "latiniste",
+  "latinisti": "latinisti",
+  "latinità": "latinita",
+  "latino": "latino",
+  "latinorum": "latinɔrum",
+  "latiri": "latiri",
+  "latirismo": "latirizmo",
+  "latiro": "latiro",
+  "latitante": "latitante",
+  "latitato": "latitato",
+  "latitudinale": "latitudinale",
+  "latitudinalmente": "latitudinalmente",
+  "latitudine": "latitudine",
+  "lato": "lato",
+  "lato_2": "latɔ",
+  "latomia": "latomia",
+  "latomia_2": "latɔmja",
+  "latore": "latore",
+  "latori": "latori",
+  "latrante": "latrante",
+  "latrare": "latrare",
+  "latrato": "latrato",
+  "latrina": "latrina",
+  "latro": "latro",
+  "latroneccio": "latronetːʃo",
+  "latta": "latːa",
+  "lattacidemia": "latːatʃidemia",
+  "lattacidemie": "latːatʃidemie",
+  "lattagoga": "latːaɡoɡa",
+  "lattagoghe": "latːaɡoɡe",
+  "lattagoghi": "latːaɡoɡi",
+  "lattagogo": "latːaɡoɡo",
+  "lattagogo_2": "latːaɡɔɡo",
+  "lattai": "latːai",
+  "lattaio": "latːajo",
+  "lattaiola": "latːajɔla",
+  "lattaiolo": "latːajɔlo",
+  "lattamento": "latːamento",
+  "lattante": "latːante",
+  "lattario": "latːarjo",
+  "lattazione": "latːatːsjone",
+  "lattazioni": "latːatːsjoni",
+  "latte": "latːe",
+  "lattea": "latːea",
+  "lattee": "latːee",
+  "lattei": "latːei",
+  "latteo": "latːeo",
+  "latteria": "latːeria",
+  "latti": "latːi",
+  "lattica": "latːika",
+  "lattice": "latːitʃe",
+  "latticelli": "latːitʃɛlːi",
+  "latticello": "latːitʃɛlːo",
+  "lattiche": "latːike",
+  "lattici": "latːitʃi",
+  "latticini": "latːitʃini",
+  "latticinio": "latːitʃinjo",
+  "latticino": "latːitʃino",
+  "lattico": "latːiko",
+  "latticodeidrogenasi": "latːikodeidrodʒenazi",
+  "lattide": "latːide",
+  "lattiera": "latːjɛra",
+  "lattiero": "latːjɛro",
+  "lattifera": "latːifɛra",
+  "lattifere": "latːifɛre",
+  "lattiferi": "latːifɛri",
+  "lattiginosa": "latːidʒinosa",
+  "lattiginose": "latːidʒinose",
+  "lattiginosi": "latːidʒinosi",
+  "lattiginoso": "latːidʒinoso",
+  "lattobacilli": "latːobatʃilːi",
+  "lattobacillo": "latːobatʃilːo",
+  "lattococchi": "latːokɔkːi",
+  "lattococco": "latːokɔkːo",
+  "lattone": "latːone",
+  "lattonizzazione": "latːonidːʒatsjone",
+  "lattonizzazioni": "latːonidːʒatsjoni",
+  "lattonzo": "latːontso",
+  "lattonzolo": "latːontsolo",
+  "lattosio": "latːozjo",
+  "lattotropo": "latːɔtropo",
+  "lattuccio": "latːutːʃo",
+  "lattuga": "latːuɡa",
+  "lattugaccio": "latːuɡatːʃo",
+  "lattughe": "latːuɡe",
+  "lattughella": "latːuɡɛlːa",
+  "lattughetta": "latːuɡetːa",
+  "lattughina": "latːuɡina",
+  "lauda": "lawda",
+  "laudare": "lawdare",
+  "laudativa": "laudativa",
+  "laudative": "laudative",
+  "laudative_2": "lawdative",
+  "laudativi": "laudativi",
+  "laudativo": "laudativo",
+  "laudo": "laudo",
+  "lauracea": "lawratʃea",
+  "lauracee": "lawratʃee",
+  "laurea": "laurea",
+  "laurea_2": "lawrea",
+  "laureando": "lawreando",
+  "laureare": "laureare",
+  "laureare_2": "lawreare",
+  "laurearsi": "lawrearsi",
+  "laureata": "laureata",
+  "laureate": "laureate",
+  "laureati": "laureati"
 }

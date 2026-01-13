@@ -1,1532 +1,532 @@
 {
-  "risorto": [
-    "risorto"
-  ],
-  "risospingere": [
-    "risospindʒere"
-  ],
-  "risostenere": [
-    "risostenere"
-  ],
-  "risotti": [
-    "risɔtːi"
-  ],
-  "risotto": [
-    "risɔtːo"
-  ],
-  "risparmi": [
-    "risparmi"
-  ],
-  "risparmiare": [
-    "risparmiare",
-    "risparmjare"
-  ],
-  "risparmiarsi": [
-    "risparmjarsi"
-  ],
-  "risparmiato": [
-    "risparmjato"
-  ],
-  "risparmiatore": [
-    "risparmjatore"
-  ],
-  "risparmio": [
-    "risparmjo"
-  ],
-  "risparmioso": [
-    "risparmjoso",
-    "risparmjozo"
-  ],
-  "rispettabile": [
-    "rispetːabile"
-  ],
-  "rispettabili": [
-    "rispetːabili"
-  ],
-  "rispettabilità": [
-    "rispetːabilita"
-  ],
-  "rispettabilmente": [
-    "rispetːabilmente"
-  ],
-  "rispettare": [
-    "rispetːare",
-    "rispɛtːare"
-  ],
-  "rispettato": [
-    "rispetːato"
-  ],
-  "rispetti": [
-    "rispɛtːi"
-  ],
-  "rispettivamente": [
-    "rispɛtːivamente"
-  ],
-  "rispettivo": [
-    "rispetːivo"
-  ],
-  "rispetto": [
-    "rispɛtːo",
-    "rispɛtːɔ"
-  ],
-  "rispettosamente": [
-    "rispetːosamente"
-  ],
-  "rispettoso": [
-    "rispetːoso",
-    "rispetːozo"
-  ],
-  "rispingere": [
-    "rispindʒere"
-  ],
-  "risplendente": [
-    "risplɛndente"
-  ],
-  "risplendenti": [
-    "risplɛndenti"
-  ],
-  "risplendere": [
-    "risplɛndere",
-    "risplɛndɛre"
-  ],
-  "rispolverare": [
-    "rispolverare"
-  ],
-  "rispondere": [
-    "rispondere"
-  ],
-  "rispondersi": [
-    "rispondersi"
-  ],
-  "risposta": [
-    "risposta",
-    "rispɔsta"
-  ],
-  "risposte": [
-    "rispɔste"
-  ],
-  "risposto": [
-    "risposto"
-  ],
-  "risprangare": [
-    "rispranɡare"
-  ],
-  "rissa": [
-    "risːa"
-  ],
-  "rissoso": [
-    "risːoso",
-    "risːozo"
-  ],
-  "ristabilimenti": [
-    "ristabilimenti"
-  ],
-  "ristabilimento": [
-    "ristabilimento"
-  ],
-  "ristabilire": [
-    "ristabilire"
-  ],
-  "ristagno": [
-    "ristaɲɲo"
-  ],
-  "ristampabile": [
-    "ristampabile"
-  ],
-  "ristampabili": [
-    "ristampabili"
-  ],
-  "ristampare": [
-    "ristampare"
-  ],
-  "ristare": [
-    "ristare"
-  ],
-  "ristaurabile": [
-    "ristawrabile"
-  ],
-  "ristaurabili": [
-    "ristawrabili"
-  ],
-  "ristorante": [
-    "ristorante",
-    "ristɔrante"
-  ],
-  "ristoranti": [
-    "ristɔranti"
-  ],
-  "ristorare": [
-    "ristorare"
-  ],
-  "ristorato": [
-    "ristorato"
-  ],
-  "ristoratore": [
-    "ristoratore"
-  ],
-  "ristorazione": [
-    "ristoratsjone"
-  ],
-  "ristorazioni": [
-    "ristoratsjoni"
-  ],
-  "ristoro": [
-    "ristɔro"
-  ],
-  "ristrettezza": [
-    "ristretːetːsa"
-  ],
-  "ristrettivo": [
-    "ristretːivo"
-  ],
-  "ristretto": [
-    "ristretːo"
-  ],
-  "ristringere": [
-    "ristrindʒere"
-  ],
-  "ristringerei": [
-    "ristrindʒerɛj"
-  ],
-  "ristrutturazione": [
-    "ristrutːuratːsjone"
-  ],
-  "risucchi": [
-    "risukːi"
-  ],
-  "risucchiare": [
-    "risukːjare"
-  ],
-  "risucchio": [
-    "risukːjo"
-  ],
-  "risultante": [
-    "risultante"
-  ],
-  "risultanza": [
-    "risultantsa",
-    "rizultantsa"
-  ],
-  "risultare": [
-    "risultare"
-  ],
-  "risultati": [
-    "rizultati"
-  ],
-  "risultato": [
-    "risultato",
-    "rizultato",
-    "rizultatɔ"
-  ],
-  "risuonare": [
-    "riswonare"
-  ],
-  "risuonato": [
-    "riswonato"
-  ],
-  "risurgere": [
-    "risurdʒere"
-  ],
-  "risurrezione": [
-    "risurːetsjone"
-  ],
-  "risurto": [
-    "risurto"
-  ],
-  "risuscitare": [
-    "risuʃʃitare"
-  ],
-  "risvegli": [
-    "rizveʎi"
-  ],
-  "risvegliare": [
-    "rizveʎare"
-  ],
-  "risvegliarsi": [
-    "rizveʎarsi"
-  ],
-  "risveglio": [
-    "rizveʎo"
-  ],
-  "risvoltare": [
-    "rizvoltare"
-  ],
-  "risvolto": [
-    "rizvɔlto"
-  ],
-  "rita": [
-    "rita"
-  ],
-  "ritagliare": [
-    "ritaʎare"
-  ],
-  "ritaglio": [
-    "ritaʎo"
-  ],
-  "ritardabile": [
-    "ritardabile"
-  ],
-  "ritardabili": [
-    "ritardabili"
-  ],
-  "ritardando": [
-    "ritardando"
-  ],
-  "ritardare": [
-    "ritardare"
-  ],
-  "ritardatario": [
-    "ritardatarjo"
-  ],
-  "ritardato": [
-    "ritardato"
-  ],
-  "ritardi": [
-    "ritardi"
-  ],
-  "ritardo": [
-    "ritardo"
-  ],
-  "ritarerà": [
-    "ritarera"
-  ],
-  "ritegno": [
-    "riteɲɲo"
-  ],
-  "ritelefonare": [
-    "ritelefonare"
-  ],
-  "ritemere": [
-    "ritemere"
-  ],
-  "ritemprato": [
-    "ritemprato"
-  ],
-  "ritenente": [
-    "ritenente"
-  ],
-  "ritenere": [
-    "ritenere"
-  ],
-  "ritergere": [
-    "ritɛrdʒere"
-  ],
-  "riti": [
-    "riti"
-  ],
-  "ritidectomia": [
-    "ritidektomia"
-  ],
-  "ritidectomie": [
-    "ritidektomie"
-  ],
-  "ritidoma": [
-    "ritidɔma"
-  ],
-  "ritingere": [
-    "ritindʒere"
-  ],
-  "ritirare": [
-    "ritirare"
-  ],
-  "ritirarsi": [
-    "ritirarsi"
-  ],
-  "ritirata": [
-    "ritirata"
-  ],
-  "ritirate": [
-    "ritirate"
-  ],
-  "ritirato": [
-    "ritirato"
-  ],
-  "ritiro": [
-    "ritiro"
-  ],
-  "ritmato": [
-    "ritmato"
-  ],
-  "ritmi": [
-    "ritmi"
-  ],
-  "ritmica": [
-    "ritmika"
-  ],
-  "ritmicamente": [
-    "ritmikamente"
-  ],
-  "ritmiche": [
-    "ritmie",
-    "ritmike"
-  ],
-  "ritmici": [
-    "ritmitʃi"
-  ],
-  "ritmico": [
-    "ritmiko"
-  ],
-  "ritmo": [
-    "ritmo"
-  ],
-  "rito": [
-    "rito"
-  ],
-  "ritoccare": [
-    "ritokːare"
-  ],
-  "ritoccarsi": [
-    "ritokːarsi"
-  ],
-  "ritoccato": [
-    "ritokːato"
-  ],
-  "ritocco": [
-    "ritokːo"
-  ],
-  "ritogliere": [
-    "ritɔʎere"
-  ],
-  "ritornammo": [
-    "ritornamːo"
-  ],
-  "ritornare": [
-    "ritornare"
-  ],
-  "ritornato": [
-    "ritornato"
-  ],
-  "ritornelli": [
-    "ritornelːi"
-  ],
-  "ritornello": [
-    "ritornelːo"
-  ],
-  "ritornerai": [
-    "ritornerai"
-  ],
-  "ritorni": [
-    "ritorni"
-  ],
-  "ritorno": [
-    "ritorno"
-  ],
-  "ritorsione": [
-    "ritorsjone"
-  ],
-  "ritradotta": [
-    "ritradotːa"
-  ],
-  "ritradotte": [
-    "ritradotːe"
-  ],
-  "ritradotti": [
-    "ritradotːi"
-  ],
-  "ritradotto": [
-    "ritradotːo"
-  ],
-  "ritraduca": [
-    "ritraduka"
-  ],
-  "ritraducano": [
-    "ritradukano"
-  ],
-  "ritraduce": [
-    "ritradutʃe"
-  ],
-  "ritraducemmo": [
-    "ritradutʃemːo"
-  ],
-  "ritraducendo": [
-    "ritradutʃendo"
-  ],
-  "ritraducente": [
-    "ritradutʃente"
-  ],
-  "ritraducesse": [
-    "ritradutʃesːe"
-  ],
-  "ritraducessero": [
-    "ritradutʃesːero"
-  ],
-  "ritraducessi": [
-    "ritradutʃesːi"
-  ],
-  "ritraducessimo": [
-    "ritradutʃesːimo"
-  ],
-  "ritraduceste": [
-    "ritradutʃeste"
-  ],
-  "ritraducesti": [
-    "ritradutʃesti"
-  ],
-  "ritraducete": [
-    "ritradutʃete"
-  ],
-  "ritraduceva": [
-    "ritradutʃeva"
-  ],
-  "ritraducevamo": [
-    "ritradutʃevamo"
-  ],
-  "ritraducevano": [
-    "ritradutʃevano"
-  ],
-  "ritraducevate": [
-    "ritradutʃevate"
-  ],
-  "ritraducevi": [
-    "ritradutʃevi"
-  ],
-  "ritraducevo": [
-    "ritradutʃevo"
-  ],
-  "ritraduci": [
-    "ritradutʃi"
-  ],
-  "ritraduciamo": [
-    "ritradutʃamo"
-  ],
-  "ritraduciate": [
-    "ritradutʃate"
-  ],
-  "ritraduco": [
-    "ritraduko"
-  ],
-  "ritraducono": [
-    "ritradukono"
-  ],
-  "ritradurrà": [
-    "ritradura"
-  ],
-  "ritradurrai": [
-    "ritradurːai"
-  ],
-  "ritradurranno": [
-    "ritradurːanːo"
-  ],
-  "ritradurre": [
-    "ritradurːe"
-  ],
-  "ritradurrebbe": [
-    "ritradurːebːe"
-  ],
-  "ritradurrebbero": [
-    "ritradurːebːero"
-  ],
-  "ritradurrei": [
-    "ritradurːei"
-  ],
-  "ritradurremmo": [
-    "ritradurːemːo"
-  ],
-  "ritradurremo": [
-    "ritradurːemo"
-  ],
-  "ritradurreste": [
-    "ritradurːeste"
-  ],
-  "ritradurresti": [
-    "ritradurːesti"
-  ],
-  "ritradurrete": [
-    "ritradurːete"
-  ],
-  "ritradurrò": [
-    "ritradurːo"
-  ],
-  "ritradusse": [
-    "ritradusːe"
-  ],
-  "ritradussero": [
-    "ritradusːero"
-  ],
-  "ritradussi": [
-    "ritradusːi"
-  ],
-  "ritrae": [
-    "ritrae"
-  ],
-  "ritraemmo": [
-    "ritraemːo"
-  ],
-  "ritraendo": [
-    "ritraendo"
-  ],
-  "ritraente": [
-    "ritraente"
-  ],
-  "ritraesse": [
-    "ritraesːe"
-  ],
-  "ritraessero": [
-    "ritraesːero"
-  ],
-  "ritraessi": [
-    "ritraesːi"
-  ],
-  "ritraessimo": [
-    "ritraesːimo"
-  ],
-  "ritraeste": [
-    "ritraeste"
-  ],
-  "ritraesti": [
-    "ritraesti"
-  ],
-  "ritraete": [
-    "ritraete"
-  ],
-  "ritraeva": [
-    "ritraeva"
-  ],
-  "ritraevamo": [
-    "ritraevamo"
-  ],
-  "ritraevano": [
-    "ritraevano"
-  ],
-  "ritraevate": [
-    "ritraevate"
-  ],
-  "ritraevi": [
-    "ritraevi"
-  ],
-  "ritraevo": [
-    "ritraevo"
-  ],
-  "ritragga": [
-    "ritraɡːa"
-  ],
-  "ritraggano": [
-    "ritraɡːano"
-  ],
-  "ritraggere": [
-    "ritradːʒere"
-  ],
-  "ritraggo": [
-    "ritraɡːo"
-  ],
-  "ritraggono": [
-    "ritraɡːono"
-  ],
-  "ritrai": [
-    "ritrai"
-  ],
-  "ritraiamo": [
-    "ritrajamo"
-  ],
-  "ritraiate": [
-    "ritrajate"
-  ],
-  "ritrarrà": [
-    "ritrarːa"
-  ],
-  "ritrarrai": [
-    "ritrarːai"
-  ],
-  "ritrarranno": [
-    "ritrarːanːo"
-  ],
-  "ritrarre": [
-    "ritrarːe"
-  ],
-  "ritrarrebbe": [
-    "ritrarːebːe"
-  ],
-  "ritrarrebbero": [
-    "ritrarːebːero"
-  ],
-  "ritrarrei": [
-    "ritrarːei"
-  ],
-  "ritrarremmo": [
-    "ritrarːemo"
-  ],
-  "ritrarremo": [
-    "ritrarːemo"
-  ],
-  "ritrarreste": [
-    "ritrarːeste"
-  ],
-  "ritrarresti": [
-    "ritrarːesti"
-  ],
-  "ritrarrete": [
-    "ritrarːete"
-  ],
-  "ritrarrò": [
-    "ritrarːo"
-  ],
-  "ritrasmessa": [
-    "ritrazmesːa"
-  ],
-  "ritrasmesse": [
-    "ritrazmesːe"
-  ],
-  "ritrasmessi": [
-    "ritrazmesːi"
-  ],
-  "ritrasmesso": [
-    "ritrazmesːo"
-  ],
-  "ritrasmetta": [
-    "ritrazmetːa"
-  ],
-  "ritrasmettano": [
-    "ritrazmetːano"
-  ],
-  "ritrasmette": [
-    "ritrazmetːe"
-  ],
-  "ritrasmettemmo": [
-    "ritrametːemːo"
-  ],
-  "ritrasmettendo": [
-    "ritrazmetːendo"
-  ],
-  "ritrasmettente": [
-    "ritrazmetːente"
-  ],
-  "ritrasmetterà": [
-    "ritrazmetːera"
-  ],
-  "ritrasmetterai": [
-    "ritrazmetːerai"
-  ],
-  "ritrasmetteranno": [
-    "ritrazmetːeranːo"
-  ],
-  "ritrasmettere": [
-    "ritrazmetːere"
-  ],
-  "ritrasmetterebbe": [
-    "ritrazmetːerebːe"
-  ],
-  "ritrasmetterebbero": [
-    "ritrazmetːerebːero"
-  ],
-  "ritrasmetterei": [
-    "ritrazmetːerei"
-  ],
-  "ritrasmetteremmo": [
-    "ritrazmetːeremːo"
-  ],
-  "ritrasmetteremo": [
-    "ritrazmetːeremo"
-  ],
-  "ritrasmettereste": [
-    "ritrazmetːereste"
-  ],
-  "ritrasmetteresti": [
-    "ritrazmetːeresti"
-  ],
-  "ritrasmetterete": [
-    "ritrazmetːerete"
-  ],
-  "ritrasmetterò": [
-    "ritrazmetːero"
-  ],
-  "ritrasmettesse": [
-    "ritrazmetːesːe"
-  ],
-  "ritrasmettessero": [
-    "ritrazmetːesːero"
-  ],
-  "ritrasmettessi": [
-    "ritrazmetːesːi"
-  ],
-  "ritrasmettessimo": [
-    "ritrazmetːesːimo"
-  ],
-  "ritrasmetteste": [
-    "ritrametːeste"
-  ],
-  "ritrasmettesti": [
-    "ritrametːesti"
-  ],
-  "ritrasmettete": [
-    "ritrazmetːete"
-  ],
-  "ritrasmetteva": [
-    "ritrazmetːeva"
-  ],
-  "ritrasmettevamo": [
-    "ritrazmetːevamo"
-  ],
-  "ritrasmettevano": [
-    "ritrazmetːevano"
-  ],
-  "ritrasmettevate": [
-    "ritrazmetːevate"
-  ],
-  "ritrasmettevi": [
-    "ritrazmetːevi"
-  ],
-  "ritrasmettevo": [
-    "ritrazmetːevo"
-  ],
-  "ritrasmetti": [
-    "ritrazmetːi"
-  ],
-  "ritrasmettiamo": [
-    "ritrazmetːjamo"
-  ],
-  "ritrasmettiate": [
-    "ritrazmetːjate"
-  ],
-  "ritrasmetto": [
-    "ritrazmetːo"
-  ],
-  "ritrasmettono": [
-    "ritrazmetːono"
-  ],
-  "ritrasmise": [
-    "ritrazmize"
-  ],
-  "ritrasmisero": [
-    "ritrazmizero"
-  ],
-  "ritrasmisi": [
-    "ritrazmizi"
-  ],
-  "ritrasmissione": [
-    "ritrazmisːjone"
-  ],
-  "ritrasmissioni": [
-    "ritrazmisːjoni"
-  ],
-  "ritraspone": [
-    "ritraspone"
-  ],
-  "ritrasponemmo": [
-    "ritrasponemːo"
-  ],
-  "ritrasponendo": [
-    "ritrasponendo"
-  ],
-  "ritrasponente": [
-    "ritrasponente"
-  ],
-  "ritrasponesse": [
-    "ritrasponesːe"
-  ],
-  "ritrasponessero": [
-    "ritrasponesːero"
-  ],
-  "ritrasponessi": [
-    "ritrasponesːi"
-  ],
-  "ritrasponessimo": [
-    "ritrasponesːimo"
-  ],
-  "ritrasponeste": [
-    "ritrasponːeste"
-  ],
-  "ritrasponesti": [
-    "ritrasponesti"
-  ],
-  "ritrasponete": [
-    "ritrasponete"
-  ],
-  "ritrasponeva": [
-    "ritrasponeva"
-  ],
-  "ritrasponevamo": [
-    "ritrasponevamo"
-  ],
-  "ritrasponevano": [
-    "ritrasponevano"
-  ],
-  "ritrasponevate": [
-    "ritrasponevate"
-  ],
-  "ritrasponevi": [
-    "ritrasponevi"
-  ],
-  "ritrasponevo": [
-    "ritrasponevo"
-  ],
-  "ritrasponga": [
-    "ritrasponɡa"
-  ],
-  "ritraspongano": [
-    "ritrasponɡano"
-  ],
-  "ritraspongo": [
-    "ritrasponɡo"
-  ],
-  "ritraspongono": [
-    "ritrasponɡono"
-  ],
-  "ritrasponi": [
-    "ritrasponi"
-  ],
-  "ritrasponiamo": [
-    "ritrasponjamo"
-  ],
-  "ritrasponiate": [
-    "ritrasponjate"
-  ],
-  "ritrasporrà": [
-    "porːa"
-  ],
-  "ritrasporrai": [
-    "ritrasporːai"
-  ],
-  "ritrasporranno": [
-    "ritrasporːanːo"
-  ],
-  "ritrasporre": [
-    "ritrasporːe"
-  ],
-  "ritrasporrebbe": [
-    "ritrasporːebːe"
-  ],
-  "ritrasporrebbero": [
-    "ritrasporːebːero"
-  ],
-  "ritrasporrei": [
-    "ritrasporːei"
-  ],
-  "ritrasporremmo": [
-    "ritrasporːemo"
-  ],
-  "ritrasporremo": [
-    "ritrasporːemo"
-  ],
-  "ritrasporreste": [
-    "ritrasporːeste"
-  ],
-  "ritrasporresti": [
-    "ritrasporːesti"
-  ],
-  "ritrasporrete": [
-    "ritrasporːete"
-  ],
-  "ritrasporrò": [
-    "ritrasporːo"
-  ],
-  "ritraspose": [
-    "ritraspose"
-  ],
-  "ritrasposero": [
-    "ritrasposero"
-  ],
-  "ritrasposi": [
-    "ritrasposi"
-  ],
-  "ritrasposta": [
-    "ritrasposta"
-  ],
-  "ritrasposte": [
-    "ritrasposte"
-  ],
-  "ritrasposti": [
-    "ritrasposti"
-  ],
-  "ritrasposto": [
-    "ritrasposto"
-  ],
-  "ritrasse": [
-    "ritrasːe"
-  ],
-  "ritrassero": [
-    "ritrasːero"
-  ],
-  "ritrassi": [
-    "ritrasːi"
-  ],
-  "ritratta": [
-    "ritratːa"
-  ],
-  "ritrattamenti": [
-    "ritratːamenti"
-  ],
-  "ritrattamento": [
-    "ritratːamento"
-  ],
-  "ritrattare": [
-    "ritratːare"
-  ],
-  "ritrattato": [
-    "ritratːato"
-  ],
-  "ritrattazione": [
-    "ritratːatːsjone"
-  ],
-  "ritrattazioni": [
-    "ritratːatːsjoni"
-  ],
-  "ritratte": [
-    "ritratːe"
-  ],
-  "ritratti": [
-    "ritratːi"
-  ],
-  "ritrattista": [
-    "ritratːista"
-  ],
-  "ritrattiste": [
-    "ritratːiste"
-  ],
-  "ritrattisti": [
-    "ritratːisti"
-  ],
-  "ritratto": [
-    "ritratːo"
-  ],
-  "ritroso": [
-    "ritroso",
-    "ritrozo"
-  ],
-  "ritrovabile": [
-    "ritrovabile"
-  ],
-  "ritrovabili": [
-    "ritrovabili"
-  ],
-  "ritrovamento": [
-    "ritrovamento"
-  ],
-  "ritrovare": [
-    "ritrovare"
-  ],
-  "ritrovarsi": [
-    "ritrovarsi"
-  ],
-  "ritrovato": [
-    "ritrovato"
-  ],
-  "ritrovo": [
-    "ritrɔvo"
-  ],
-  "rituale": [
-    "rituale",
-    "ritwale"
-  ],
-  "rituali": [
-    "rituali"
-  ],
-  "ritualismi": [
-    "ritualizmi"
-  ],
-  "ritualismo": [
-    "ritualizmo"
-  ],
-  "ritualista": [
-    "ritualista"
-  ],
-  "ritualiste": [
-    "ritualiste"
-  ],
-  "ritualisti": [
-    "ritualisti"
-  ],
-  "ritualistica": [
-    "ritualistika"
-  ],
-  "ritualistiche": [
-    "ritualistike"
-  ],
-  "ritualistici": [
-    "ritualistitʃi"
-  ],
-  "ritualistico": [
-    "ritualistiko"
-  ],
-  "ritualità": [
-    "ritualita"
-  ],
-  "ritualizzare": [
-    "ritualidːzare"
-  ],
-  "ritualizzarsi": [
-    "ritualidːzarsi"
-  ],
-  "ritualizzata": [
-    "ritualidːzata"
-  ],
-  "ritualizzate": [
-    "ritualidːzate"
-  ],
-  "ritualizzati": [
-    "ritualidːzati"
-  ],
-  "ritualizzato": [
-    "ritualidːzato"
-  ],
-  "ritualizzazione": [
-    "ritualidːzatsjone"
-  ],
-  "ritualizzazioni": [
-    "ritualidːzatsjoni"
-  ],
-  "ritualmente": [
-    "ritualmente"
-  ],
-  "riunente": [
-    "rjunente"
-  ],
-  "riunificabile": [
-    "unifikabile"
-  ],
-  "riunificabili": [
-    "riunifikabili"
-  ],
-  "riunificante": [
-    "rjunifikante"
-  ],
-  "riunificare": [
-    "rjunifikare"
-  ],
-  "riunificarsi": [
-    "rjunifikarsi"
-  ],
-  "riunificato": [
-    "rjunifikato"
-  ],
-  "riunione": [
-    "rjunjone"
-  ],
-  "riunire": [
-    "riunire",
-    "rjunire"
-  ],
-  "riunirsi": [
-    "riunirsi",
-    "rjunirsi"
-  ],
-  "riunito": [
-    "riunito",
-    "rjunito"
-  ],
-  "riuscente": [
-    "rjuʃʃente"
-  ],
-  "riuscire": [
-    "riuʃire",
-    "riuʃʃire",
-    "rjuʃire",
-    "rjuʃʃire"
-  ],
-  "riuscita": [
-    "riuʃʃita"
-  ],
-  "riuscito": [
-    "riuʃʃito",
-    "rjuʃʃito"
-  ],
-  "riuso": [
-    "riuzo"
-  ],
-  "riutilizzabile": [
-    "riutilidːzabile"
-  ],
-  "riutilizzabili": [
-    "riutilidːzabili"
-  ],
-  "riutilizzante": [
-    "rjutilitːzante"
-  ],
-  "riutilizzare": [
-    "rjutilitːzare"
-  ],
-  "riutilizzato": [
-    "rjutilitːzato"
-  ],
-  "riva": [
-    "riva"
-  ],
-  "rivagire": [
-    "rivadʒire"
-  ],
-  "rivagito": [
-    "rivadʒito"
-  ],
-  "rivale": [
-    "rivale"
-  ],
-  "rivaleggiare": [
-    "rivaledːʒare"
-  ],
-  "rivalersi": [
-    "rivalersi"
-  ],
-  "rivali": [
-    "rivali"
-  ],
-  "rivalità": [
-    "rivalita"
-  ],
-  "rivalutare": [
-    "rivalutare"
-  ],
-  "rivalutazione": [
-    "rivalutatːsjone"
-  ],
-  "rivedere": [
-    "rivedere"
-  ],
-  "rivedersi": [
-    "rivedersi"
-  ],
-  "riveduto": [
-    "riveduto"
-  ],
-  "rivelabile": [
-    "rivelabile"
-  ],
-  "rivelabili": [
-    "rivelabili"
-  ],
-  "rivelare": [
-    "rivelare"
-  ],
-  "rivelato": [
-    "rivelato"
-  ],
-  "rivelatore": [
-    "rilevatore",
-    "rivelatore"
-  ],
-  "rivelatori": [
-    "rivelatori"
-  ],
-  "rivelatrice": [
-    "rivelatritʃe"
-  ],
-  "rivelatrici": [
-    "rivelatritʃi"
-  ],
-  "rivelazione": [
-    "rivelatːsjone"
-  ],
-  "rivelazioni": [
-    "rivelatːsjoni"
-  ],
-  "rivendere": [
-    "rivendere"
-  ],
-  "rivendibile": [
-    "rivendibile"
-  ],
-  "rivendibili": [
-    "rivendibili"
-  ],
-  "rivendicabile": [
-    "rivendikabile"
-  ],
-  "rivendicabili": [
-    "rivendikabili"
-  ],
-  "rivendicare": [
-    "rivendikare"
-  ],
-  "rivendicazione": [
-    "rivendikatːsjone"
-  ],
-  "rivendita": [
-    "rivendita"
-  ],
-  "rivenditore": [
-    "rivenditore"
-  ],
-  "rivendugliolo": [
-    "rivenduʎolo"
-  ],
-  "rivenire": [
-    "rivɛnire"
-  ],
-  "riverbero": [
-    "rivɛrbero"
-  ],
-  "riverente": [
-    "riverɛnte"
-  ],
-  "riverentemente": [
-    "riverentemente"
-  ],
-  "riverenza": [
-    "riverɛntsa"
-  ],
-  "riverenze": [
-    "riverɛntse"
-  ],
-  "riverire": [
-    "riverire"
-  ],
-  "riverito": [
-    "riverito"
-  ],
-  "riversare": [
-    "riversare"
-  ],
-  "riversarsi": [
-    "riversarsi"
-  ],
-  "riversibile": [
-    "riversibile"
-  ],
-  "riversibili": [
-    "riversibili"
-  ],
-  "riversibilità": [
-    "riversibilita"
-  ],
-  "rivestimenti": [
-    "rivestimenti"
-  ],
-  "rivestimento": [
-    "rivestimento"
-  ],
-  "rivestire": [
-    "rivestire"
-  ],
-  "rivestiti": [
-    "rivestiti"
-  ],
-  "rivestito": [
-    "rivestito"
-  ],
-  "rivettare": [
-    "rivetːare"
-  ],
-  "rivettatrice": [
-    "rivetːatritʃe"
-  ],
-  "rivettatrici": [
-    "rivetːatritʃi"
-  ],
-  "rivettatura": [
-    "rivetːatura"
-  ],
-  "rivettature": [
-    "rivetːature"
-  ],
-  "rivetti": [
-    "rivetːi"
-  ],
-  "rivetto": [
-    "rivetːo"
-  ],
-  "riviera": [
-    "rivjɛra"
-  ],
-  "rivincita": [
-    "rivintʃita"
-  ],
-  "rivincite": [
-    "rivintʃite"
-  ],
-  "rivisitare": [
-    "rivizitare"
-  ],
-  "rivista": [
-    "rivista"
-  ],
-  "riviste": [
-    "riviste"
-  ],
-  "rivitalizzare": [
-    "rivitalidːzare"
-  ],
-  "rivivere": [
-    "rivivere"
-  ],
-  "rivolante": [
-    "rivolante"
-  ],
-  "rivolare": [
-    "rivolare"
-  ],
-  "rivolato": [
-    "rivolato"
-  ],
-  "rivolgere": [
-    "rivɔldʒere"
-  ],
-  "rivolgersi": [
-    "rivɔldʒersi"
-  ],
-  "rivolgimento": [
-    "rivoldʒimento"
-  ],
-  "rivolo": [
-    "rivolo"
-  ],
-  "rivolta": [
-    "rivɔlta",
-    "rivɔlte"
-  ],
-  "rivoltante": [
-    "rivoltante"
-  ],
-  "rivoltanti": [
-    "rivoltanti"
-  ],
-  "rivoltare": [
-    "rivɔltare"
-  ],
-  "rivoltato": [
-    "rivoltato"
-  ],
-  "rivolte": [
-    "rivɔlte"
-  ],
-  "rivoltella": [
-    "rivoltɛlːa"
-  ],
-  "rivoltelle": [
-    "rivoltɛlːe"
-  ],
-  "rivoltoso": [
-    "rivoltoso",
-    "rivoltozo"
-  ],
-  "rivoluzionante": [
-    "rivolutsjonante"
-  ],
-  "rivoluzionare": [
-    "rivolutsjonare",
-    "rivolutːsjonare"
-  ],
-  "rivoluzionari": [
-    "rivolutsjonari"
-  ],
-  "rivoluzionaria": [
-    "rivolutsjonarja"
-  ],
-  "rivoluzionarie": [
-    "rivolutsjonarje"
-  ],
-  "rivoluzionario": [
-    "rivolutsjonarjo",
-    "rivolutːsjonarjo"
-  ],
-  "rivoluzionarismi": [
-    "rivolutsjonarismi"
-  ],
-  "rivoluzionarismo": [
-    "rivolutsjonarismo",
-    "rivolutːsjonarizmo"
-  ],
-  "rivoluzionarista": [
-    "rivolutsjonista"
-  ],
-  "rivoluzionariste": [
-    "rivolutsjoniste"
-  ],
-  "rivoluzionaristi": [
-    "rivolutsjonisti"
-  ],
-  "rivoluzionata": [
-    "rivolutsjonata"
-  ],
-  "rivoluzionate": [
-    "rivolutsjonate"
-  ],
-  "rivoluzionati": [
-    "rivolutsjonati"
-  ],
-  "rivoluzionato": [
-    "rivolutsjonato",
-    "rivolutːsjonato"
-  ],
-  "rivoluzione": [
-    "rivolutsjone",
-    "rivolutːsjone"
-  ],
-  "rivoluzioni": [
-    "rivolutsjoni"
-  ],
-  "rivolvere": [
-    "rivɔlvere"
-  ],
-  "rizatono": [
-    "ridːzatono"
-  ],
-  "rizoatono": [
-    "ridːzoatono"
-  ],
-  "rizoma": [
-    "ridzɔma"
-  ],
-  "rizomatosa": [
-    "ridzɔmatoza"
-  ],
-  "rizomatose": [
-    "ridzɔmatoze"
-  ],
-  "rizomatosi": [
-    "ridzɔmatozi"
-  ],
-  "rizomatoso": [
-    "ridzɔmatozo"
-  ],
-  "rizomi": [
-    "ridzɔmi"
-  ],
-  "rizomidi": [
-    "ridːzɔmidi"
-  ],
-  "rizomorfa": [
-    "ridːzomɔrfa"
-  ],
-  "rizomorfe": [
-    "ridːzomɔrfe"
-  ],
-  "rizomorfi": [
-    "ridːzomɔrfi"
-  ],
-  "rizomorfo": [
-    "ridːzomɔrfo"
-  ],
-  "rizosfera": [
-    "ridzosfɛra"
-  ],
-  "rizosfere": [
-    "ridzosfɛre"
-  ],
-  "rizotonica": [
-    "ridːzotɔnika"
-  ],
-  "rizotoniche": [
-    "ridːzotɔnike"
-  ],
-  "rizotonici": [
-    "ridːzotɔnitʃi"
-  ],
-  "rizotonico": [
-    "ridːzotɔniko"
-  ],
-  "rizzacazzi": [
-    "ritːsakatːsi"
-  ],
-  "rizzuto": [
-    "ritːsuto"
-  ],
-  "roaming": [
-    "rɔminɡ"
-  ],
-  "roba": [
-    "rɔba"
-  ],
-  "robe": [
-    "rɔbe"
-  ],
-  "roberta": [
-    "robɛrta"
-  ],
-  "roberto": [
-    "robɛrto"
-  ],
-  "roberziana": [
-    "robertsjana"
-  ],
-  "robetta": [
-    "robetːa"
-  ]
+  "risorto": "risorto",
+  "risospingere": "risospindʒere",
+  "risostenere": "risostenere",
+  "risotti": "risɔtːi",
+  "risotto": "risɔtːo",
+  "risparmi": "risparmi",
+  "risparmiare": "risparmiare",
+  "risparmiare_2": "risparmjare",
+  "risparmiarsi": "risparmjarsi",
+  "risparmiato": "risparmjato",
+  "risparmiatore": "risparmjatore",
+  "risparmio": "risparmjo",
+  "risparmioso": "risparmjoso",
+  "risparmioso_2": "risparmjozo",
+  "rispettabile": "rispetːabile",
+  "rispettabili": "rispetːabili",
+  "rispettabilità": "rispetːabilita",
+  "rispettabilmente": "rispetːabilmente",
+  "rispettare": "rispetːare",
+  "rispettare_2": "rispɛtːare",
+  "rispettato": "rispetːato",
+  "rispetti": "rispɛtːi",
+  "rispettivamente": "rispɛtːivamente",
+  "rispettivo": "rispetːivo",
+  "rispetto": "rispɛtːo",
+  "rispetto_2": "rispɛtːɔ",
+  "rispettosamente": "rispetːosamente",
+  "rispettoso": "rispetːoso",
+  "rispettoso_2": "rispetːozo",
+  "rispingere": "rispindʒere",
+  "risplendente": "risplɛndente",
+  "risplendenti": "risplɛndenti",
+  "risplendere": "risplɛndere",
+  "risplendere_2": "risplɛndɛre",
+  "rispolverare": "rispolverare",
+  "rispondere": "rispondere",
+  "rispondersi": "rispondersi",
+  "risposta": "risposta",
+  "risposta_2": "rispɔsta",
+  "risposte": "rispɔste",
+  "risposto": "risposto",
+  "risprangare": "rispranɡare",
+  "rissa": "risːa",
+  "rissoso": "risːoso",
+  "rissoso_2": "risːozo",
+  "ristabilimenti": "ristabilimenti",
+  "ristabilimento": "ristabilimento",
+  "ristabilire": "ristabilire",
+  "ristagno": "ristaɲɲo",
+  "ristampabile": "ristampabile",
+  "ristampabili": "ristampabili",
+  "ristampare": "ristampare",
+  "ristare": "ristare",
+  "ristaurabile": "ristawrabile",
+  "ristaurabili": "ristawrabili",
+  "ristorante": "ristorante",
+  "ristorante_2": "ristɔrante",
+  "ristoranti": "ristɔranti",
+  "ristorare": "ristorare",
+  "ristorato": "ristorato",
+  "ristoratore": "ristoratore",
+  "ristorazione": "ristoratsjone",
+  "ristorazioni": "ristoratsjoni",
+  "ristoro": "ristɔro",
+  "ristrettezza": "ristretːetːsa",
+  "ristrettivo": "ristretːivo",
+  "ristretto": "ristretːo",
+  "ristringere": "ristrindʒere",
+  "ristringerei": "ristrindʒerɛj",
+  "ristrutturazione": "ristrutːuratːsjone",
+  "risucchi": "risukːi",
+  "risucchiare": "risukːjare",
+  "risucchio": "risukːjo",
+  "risultante": "risultante",
+  "risultanza": "risultantsa",
+  "risultanza_2": "rizultantsa",
+  "risultare": "risultare",
+  "risultati": "rizultati",
+  "risultato": "risultato",
+  "risultato_2": "rizultato",
+  "risultato_3": "rizultatɔ",
+  "risuonare": "riswonare",
+  "risuonato": "riswonato",
+  "risurgere": "risurdʒere",
+  "risurrezione": "risurːetsjone",
+  "risurto": "risurto",
+  "risuscitare": "risuʃʃitare",
+  "risvegli": "rizveʎi",
+  "risvegliare": "rizveʎare",
+  "risvegliarsi": "rizveʎarsi",
+  "risveglio": "rizveʎo",
+  "risvoltare": "rizvoltare",
+  "risvolto": "rizvɔlto",
+  "rita": "rita",
+  "ritagliare": "ritaʎare",
+  "ritaglio": "ritaʎo",
+  "ritardabile": "ritardabile",
+  "ritardabili": "ritardabili",
+  "ritardando": "ritardando",
+  "ritardare": "ritardare",
+  "ritardatario": "ritardatarjo",
+  "ritardato": "ritardato",
+  "ritardi": "ritardi",
+  "ritardo": "ritardo",
+  "ritarerà": "ritarera",
+  "ritegno": "riteɲɲo",
+  "ritelefonare": "ritelefonare",
+  "ritemere": "ritemere",
+  "ritemprato": "ritemprato",
+  "ritenente": "ritenente",
+  "ritenere": "ritenere",
+  "ritergere": "ritɛrdʒere",
+  "riti": "riti",
+  "ritidectomia": "ritidektomia",
+  "ritidectomie": "ritidektomie",
+  "ritidoma": "ritidɔma",
+  "ritingere": "ritindʒere",
+  "ritirare": "ritirare",
+  "ritirarsi": "ritirarsi",
+  "ritirata": "ritirata",
+  "ritirate": "ritirate",
+  "ritirato": "ritirato",
+  "ritiro": "ritiro",
+  "ritmato": "ritmato",
+  "ritmi": "ritmi",
+  "ritmica": "ritmika",
+  "ritmicamente": "ritmikamente",
+  "ritmiche": "ritmie",
+  "ritmiche_2": "ritmike",
+  "ritmici": "ritmitʃi",
+  "ritmico": "ritmiko",
+  "ritmo": "ritmo",
+  "rito": "rito",
+  "ritoccare": "ritokːare",
+  "ritoccarsi": "ritokːarsi",
+  "ritoccato": "ritokːato",
+  "ritocco": "ritokːo",
+  "ritogliere": "ritɔʎere",
+  "ritornammo": "ritornamːo",
+  "ritornare": "ritornare",
+  "ritornato": "ritornato",
+  "ritornelli": "ritornelːi",
+  "ritornello": "ritornelːo",
+  "ritornerai": "ritornerai",
+  "ritorni": "ritorni",
+  "ritorno": "ritorno",
+  "ritorsione": "ritorsjone",
+  "ritradotta": "ritradotːa",
+  "ritradotte": "ritradotːe",
+  "ritradotti": "ritradotːi",
+  "ritradotto": "ritradotːo",
+  "ritraduca": "ritraduka",
+  "ritraducano": "ritradukano",
+  "ritraduce": "ritradutʃe",
+  "ritraducemmo": "ritradutʃemːo",
+  "ritraducendo": "ritradutʃendo",
+  "ritraducente": "ritradutʃente",
+  "ritraducesse": "ritradutʃesːe",
+  "ritraducessero": "ritradutʃesːero",
+  "ritraducessi": "ritradutʃesːi",
+  "ritraducessimo": "ritradutʃesːimo",
+  "ritraduceste": "ritradutʃeste",
+  "ritraducesti": "ritradutʃesti",
+  "ritraducete": "ritradutʃete",
+  "ritraduceva": "ritradutʃeva",
+  "ritraducevamo": "ritradutʃevamo",
+  "ritraducevano": "ritradutʃevano",
+  "ritraducevate": "ritradutʃevate",
+  "ritraducevi": "ritradutʃevi",
+  "ritraducevo": "ritradutʃevo",
+  "ritraduci": "ritradutʃi",
+  "ritraduciamo": "ritradutʃamo",
+  "ritraduciate": "ritradutʃate",
+  "ritraduco": "ritraduko",
+  "ritraducono": "ritradukono",
+  "ritradurrà": "ritradura",
+  "ritradurrai": "ritradurːai",
+  "ritradurranno": "ritradurːanːo",
+  "ritradurre": "ritradurːe",
+  "ritradurrebbe": "ritradurːebːe",
+  "ritradurrebbero": "ritradurːebːero",
+  "ritradurrei": "ritradurːei",
+  "ritradurremmo": "ritradurːemːo",
+  "ritradurremo": "ritradurːemo",
+  "ritradurreste": "ritradurːeste",
+  "ritradurresti": "ritradurːesti",
+  "ritradurrete": "ritradurːete",
+  "ritradurrò": "ritradurːo",
+  "ritradusse": "ritradusːe",
+  "ritradussero": "ritradusːero",
+  "ritradussi": "ritradusːi",
+  "ritrae": "ritrae",
+  "ritraemmo": "ritraemːo",
+  "ritraendo": "ritraendo",
+  "ritraente": "ritraente",
+  "ritraesse": "ritraesːe",
+  "ritraessero": "ritraesːero",
+  "ritraessi": "ritraesːi",
+  "ritraessimo": "ritraesːimo",
+  "ritraeste": "ritraeste",
+  "ritraesti": "ritraesti",
+  "ritraete": "ritraete",
+  "ritraeva": "ritraeva",
+  "ritraevamo": "ritraevamo",
+  "ritraevano": "ritraevano",
+  "ritraevate": "ritraevate",
+  "ritraevi": "ritraevi",
+  "ritraevo": "ritraevo",
+  "ritragga": "ritraɡːa",
+  "ritraggano": "ritraɡːano",
+  "ritraggere": "ritradːʒere",
+  "ritraggo": "ritraɡːo",
+  "ritraggono": "ritraɡːono",
+  "ritrai": "ritrai",
+  "ritraiamo": "ritrajamo",
+  "ritraiate": "ritrajate",
+  "ritrarrà": "ritrarːa",
+  "ritrarrai": "ritrarːai",
+  "ritrarranno": "ritrarːanːo",
+  "ritrarre": "ritrarːe",
+  "ritrarrebbe": "ritrarːebːe",
+  "ritrarrebbero": "ritrarːebːero",
+  "ritrarrei": "ritrarːei",
+  "ritrarremmo": "ritrarːemo",
+  "ritrarremo": "ritrarːemo",
+  "ritrarreste": "ritrarːeste",
+  "ritrarresti": "ritrarːesti",
+  "ritrarrete": "ritrarːete",
+  "ritrarrò": "ritrarːo",
+  "ritrasmessa": "ritrazmesːa",
+  "ritrasmesse": "ritrazmesːe",
+  "ritrasmessi": "ritrazmesːi",
+  "ritrasmesso": "ritrazmesːo",
+  "ritrasmetta": "ritrazmetːa",
+  "ritrasmettano": "ritrazmetːano",
+  "ritrasmette": "ritrazmetːe",
+  "ritrasmettemmo": "ritrametːemːo",
+  "ritrasmettendo": "ritrazmetːendo",
+  "ritrasmettente": "ritrazmetːente",
+  "ritrasmetterà": "ritrazmetːera",
+  "ritrasmetterai": "ritrazmetːerai",
+  "ritrasmetteranno": "ritrazmetːeranːo",
+  "ritrasmettere": "ritrazmetːere",
+  "ritrasmetterebbe": "ritrazmetːerebːe",
+  "ritrasmetterebbero": "ritrazmetːerebːero",
+  "ritrasmetterei": "ritrazmetːerei",
+  "ritrasmetteremmo": "ritrazmetːeremːo",
+  "ritrasmetteremo": "ritrazmetːeremo",
+  "ritrasmettereste": "ritrazmetːereste",
+  "ritrasmetteresti": "ritrazmetːeresti",
+  "ritrasmetterete": "ritrazmetːerete",
+  "ritrasmetterò": "ritrazmetːero",
+  "ritrasmettesse": "ritrazmetːesːe",
+  "ritrasmettessero": "ritrazmetːesːero",
+  "ritrasmettessi": "ritrazmetːesːi",
+  "ritrasmettessimo": "ritrazmetːesːimo",
+  "ritrasmetteste": "ritrametːeste",
+  "ritrasmettesti": "ritrametːesti",
+  "ritrasmettete": "ritrazmetːete",
+  "ritrasmetteva": "ritrazmetːeva",
+  "ritrasmettevamo": "ritrazmetːevamo",
+  "ritrasmettevano": "ritrazmetːevano",
+  "ritrasmettevate": "ritrazmetːevate",
+  "ritrasmettevi": "ritrazmetːevi",
+  "ritrasmettevo": "ritrazmetːevo",
+  "ritrasmetti": "ritrazmetːi",
+  "ritrasmettiamo": "ritrazmetːjamo",
+  "ritrasmettiate": "ritrazmetːjate",
+  "ritrasmetto": "ritrazmetːo",
+  "ritrasmettono": "ritrazmetːono",
+  "ritrasmise": "ritrazmize",
+  "ritrasmisero": "ritrazmizero",
+  "ritrasmisi": "ritrazmizi",
+  "ritrasmissione": "ritrazmisːjone",
+  "ritrasmissioni": "ritrazmisːjoni",
+  "ritraspone": "ritraspone",
+  "ritrasponemmo": "ritrasponemːo",
+  "ritrasponendo": "ritrasponendo",
+  "ritrasponente": "ritrasponente",
+  "ritrasponesse": "ritrasponesːe",
+  "ritrasponessero": "ritrasponesːero",
+  "ritrasponessi": "ritrasponesːi",
+  "ritrasponessimo": "ritrasponesːimo",
+  "ritrasponeste": "ritrasponːeste",
+  "ritrasponesti": "ritrasponesti",
+  "ritrasponete": "ritrasponete",
+  "ritrasponeva": "ritrasponeva",
+  "ritrasponevamo": "ritrasponevamo",
+  "ritrasponevano": "ritrasponevano",
+  "ritrasponevate": "ritrasponevate",
+  "ritrasponevi": "ritrasponevi",
+  "ritrasponevo": "ritrasponevo",
+  "ritrasponga": "ritrasponɡa",
+  "ritraspongano": "ritrasponɡano",
+  "ritraspongo": "ritrasponɡo",
+  "ritraspongono": "ritrasponɡono",
+  "ritrasponi": "ritrasponi",
+  "ritrasponiamo": "ritrasponjamo",
+  "ritrasponiate": "ritrasponjate",
+  "ritrasporrà": "porːa",
+  "ritrasporrai": "ritrasporːai",
+  "ritrasporranno": "ritrasporːanːo",
+  "ritrasporre": "ritrasporːe",
+  "ritrasporrebbe": "ritrasporːebːe",
+  "ritrasporrebbero": "ritrasporːebːero",
+  "ritrasporrei": "ritrasporːei",
+  "ritrasporremmo": "ritrasporːemo",
+  "ritrasporremo": "ritrasporːemo",
+  "ritrasporreste": "ritrasporːeste",
+  "ritrasporresti": "ritrasporːesti",
+  "ritrasporrete": "ritrasporːete",
+  "ritrasporrò": "ritrasporːo",
+  "ritraspose": "ritraspose",
+  "ritrasposero": "ritrasposero",
+  "ritrasposi": "ritrasposi",
+  "ritrasposta": "ritrasposta",
+  "ritrasposte": "ritrasposte",
+  "ritrasposti": "ritrasposti",
+  "ritrasposto": "ritrasposto",
+  "ritrasse": "ritrasːe",
+  "ritrassero": "ritrasːero",
+  "ritrassi": "ritrasːi",
+  "ritratta": "ritratːa",
+  "ritrattamenti": "ritratːamenti",
+  "ritrattamento": "ritratːamento",
+  "ritrattare": "ritratːare",
+  "ritrattato": "ritratːato",
+  "ritrattazione": "ritratːatːsjone",
+  "ritrattazioni": "ritratːatːsjoni",
+  "ritratte": "ritratːe",
+  "ritratti": "ritratːi",
+  "ritrattista": "ritratːista",
+  "ritrattiste": "ritratːiste",
+  "ritrattisti": "ritratːisti",
+  "ritratto": "ritratːo",
+  "ritroso": "ritroso",
+  "ritroso_2": "ritrozo",
+  "ritrovabile": "ritrovabile",
+  "ritrovabili": "ritrovabili",
+  "ritrovamento": "ritrovamento",
+  "ritrovare": "ritrovare",
+  "ritrovarsi": "ritrovarsi",
+  "ritrovato": "ritrovato",
+  "ritrovo": "ritrɔvo",
+  "rituale": "rituale",
+  "rituale_2": "ritwale",
+  "rituali": "rituali",
+  "ritualismi": "ritualizmi",
+  "ritualismo": "ritualizmo",
+  "ritualista": "ritualista",
+  "ritualiste": "ritualiste",
+  "ritualisti": "ritualisti",
+  "ritualistica": "ritualistika",
+  "ritualistiche": "ritualistike",
+  "ritualistici": "ritualistitʃi",
+  "ritualistico": "ritualistiko",
+  "ritualità": "ritualita",
+  "ritualizzare": "ritualidːzare",
+  "ritualizzarsi": "ritualidːzarsi",
+  "ritualizzata": "ritualidːzata",
+  "ritualizzate": "ritualidːzate",
+  "ritualizzati": "ritualidːzati",
+  "ritualizzato": "ritualidːzato",
+  "ritualizzazione": "ritualidːzatsjone",
+  "ritualizzazioni": "ritualidːzatsjoni",
+  "ritualmente": "ritualmente",
+  "riunente": "rjunente",
+  "riunificabile": "unifikabile",
+  "riunificabili": "riunifikabili",
+  "riunificante": "rjunifikante",
+  "riunificare": "rjunifikare",
+  "riunificarsi": "rjunifikarsi",
+  "riunificato": "rjunifikato",
+  "riunione": "rjunjone",
+  "riunire": "riunire",
+  "riunire_2": "rjunire",
+  "riunirsi": "riunirsi",
+  "riunirsi_2": "rjunirsi",
+  "riunito": "riunito",
+  "riunito_2": "rjunito",
+  "riuscente": "rjuʃʃente",
+  "riuscire": "riuʃire",
+  "riuscire_2": "riuʃʃire",
+  "riuscire_3": "rjuʃire",
+  "riuscire_4": "rjuʃʃire",
+  "riuscita": "riuʃʃita",
+  "riuscito": "riuʃʃito",
+  "riuscito_2": "rjuʃʃito",
+  "riuso": "riuzo",
+  "riutilizzabile": "riutilidːzabile",
+  "riutilizzabili": "riutilidːzabili",
+  "riutilizzante": "rjutilitːzante",
+  "riutilizzare": "rjutilitːzare",
+  "riutilizzato": "rjutilitːzato",
+  "riva": "riva",
+  "rivagire": "rivadʒire",
+  "rivagito": "rivadʒito",
+  "rivale": "rivale",
+  "rivaleggiare": "rivaledːʒare",
+  "rivalersi": "rivalersi",
+  "rivali": "rivali",
+  "rivalità": "rivalita",
+  "rivalutare": "rivalutare",
+  "rivalutazione": "rivalutatːsjone",
+  "rivedere": "rivedere",
+  "rivedersi": "rivedersi",
+  "riveduto": "riveduto",
+  "rivelabile": "rivelabile",
+  "rivelabili": "rivelabili",
+  "rivelare": "rivelare",
+  "rivelato": "rivelato",
+  "rivelatore": "rilevatore",
+  "rivelatore_2": "rivelatore",
+  "rivelatori": "rivelatori",
+  "rivelatrice": "rivelatritʃe",
+  "rivelatrici": "rivelatritʃi",
+  "rivelazione": "rivelatːsjone",
+  "rivelazioni": "rivelatːsjoni",
+  "rivendere": "rivendere",
+  "rivendibile": "rivendibile",
+  "rivendibili": "rivendibili",
+  "rivendicabile": "rivendikabile",
+  "rivendicabili": "rivendikabili",
+  "rivendicare": "rivendikare",
+  "rivendicazione": "rivendikatːsjone",
+  "rivendita": "rivendita",
+  "rivenditore": "rivenditore",
+  "rivendugliolo": "rivenduʎolo",
+  "rivenire": "rivɛnire",
+  "riverbero": "rivɛrbero",
+  "riverente": "riverɛnte",
+  "riverentemente": "riverentemente",
+  "riverenza": "riverɛntsa",
+  "riverenze": "riverɛntse",
+  "riverire": "riverire",
+  "riverito": "riverito",
+  "riversare": "riversare",
+  "riversarsi": "riversarsi",
+  "riversibile": "riversibile",
+  "riversibili": "riversibili",
+  "riversibilità": "riversibilita",
+  "rivestimenti": "rivestimenti",
+  "rivestimento": "rivestimento",
+  "rivestire": "rivestire",
+  "rivestiti": "rivestiti",
+  "rivestito": "rivestito",
+  "rivettare": "rivetːare",
+  "rivettatrice": "rivetːatritʃe",
+  "rivettatrici": "rivetːatritʃi",
+  "rivettatura": "rivetːatura",
+  "rivettature": "rivetːature",
+  "rivetti": "rivetːi",
+  "rivetto": "rivetːo",
+  "riviera": "rivjɛra",
+  "rivincita": "rivintʃita",
+  "rivincite": "rivintʃite",
+  "rivisitare": "rivizitare",
+  "rivista": "rivista",
+  "riviste": "riviste",
+  "rivitalizzare": "rivitalidːzare",
+  "rivivere": "rivivere",
+  "rivolante": "rivolante",
+  "rivolare": "rivolare",
+  "rivolato": "rivolato",
+  "rivolgere": "rivɔldʒere",
+  "rivolgersi": "rivɔldʒersi",
+  "rivolgimento": "rivoldʒimento",
+  "rivolo": "rivolo",
+  "rivolta": "rivɔlta",
+  "rivolta_2": "rivɔlte",
+  "rivoltante": "rivoltante",
+  "rivoltanti": "rivoltanti",
+  "rivoltare": "rivɔltare",
+  "rivoltato": "rivoltato",
+  "rivolte": "rivɔlte",
+  "rivoltella": "rivoltɛlːa",
+  "rivoltelle": "rivoltɛlːe",
+  "rivoltoso": "rivoltoso",
+  "rivoltoso_2": "rivoltozo",
+  "rivoluzionante": "rivolutsjonante",
+  "rivoluzionare": "rivolutsjonare",
+  "rivoluzionare_2": "rivolutːsjonare",
+  "rivoluzionari": "rivolutsjonari",
+  "rivoluzionaria": "rivolutsjonarja",
+  "rivoluzionarie": "rivolutsjonarje",
+  "rivoluzionario": "rivolutsjonarjo",
+  "rivoluzionario_2": "rivolutːsjonarjo",
+  "rivoluzionarismi": "rivolutsjonarismi",
+  "rivoluzionarismo": "rivolutsjonarismo",
+  "rivoluzionarismo_2": "rivolutːsjonarizmo",
+  "rivoluzionarista": "rivolutsjonista",
+  "rivoluzionariste": "rivolutsjoniste",
+  "rivoluzionaristi": "rivolutsjonisti",
+  "rivoluzionata": "rivolutsjonata",
+  "rivoluzionate": "rivolutsjonate",
+  "rivoluzionati": "rivolutsjonati",
+  "rivoluzionato": "rivolutsjonato",
+  "rivoluzionato_2": "rivolutːsjonato",
+  "rivoluzione": "rivolutsjone",
+  "rivoluzione_2": "rivolutːsjone",
+  "rivoluzioni": "rivolutsjoni",
+  "rivolvere": "rivɔlvere",
+  "rizatono": "ridːzatono",
+  "rizoatono": "ridːzoatono",
+  "rizoma": "ridzɔma",
+  "rizomatosa": "ridzɔmatoza",
+  "rizomatose": "ridzɔmatoze",
+  "rizomatosi": "ridzɔmatozi",
+  "rizomatoso": "ridzɔmatozo",
+  "rizomi": "ridzɔmi",
+  "rizomidi": "ridːzɔmidi",
+  "rizomorfa": "ridːzomɔrfa",
+  "rizomorfe": "ridːzomɔrfe",
+  "rizomorfi": "ridːzomɔrfi",
+  "rizomorfo": "ridːzomɔrfo",
+  "rizosfera": "ridzosfɛra",
+  "rizosfere": "ridzosfɛre",
+  "rizotonica": "ridːzotɔnika",
+  "rizotoniche": "ridːzotɔnike",
+  "rizotonici": "ridːzotɔnitʃi",
+  "rizotonico": "ridːzotɔniko",
+  "rizzacazzi": "ritːsakatːsi",
+  "rizzuto": "ritːsuto",
+  "roaming": "rɔminɡ",
+  "roba": "rɔba",
+  "robe": "rɔbe",
+  "roberta": "robɛrta",
+  "roberto": "robɛrto",
+  "roberziana": "robertsjana",
+  "robetta": "robetːa"
 }

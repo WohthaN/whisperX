@@ -1,1546 +1,546 @@
 {
-  "giro": [
-    "dʒiro"
-  ],
-  "girobussola": [
-    "dʒirobusːola"
-  ],
-  "giroconto": [
-    "dʒirokonto"
-  ],
-  "girocotteri": [
-    "dʒirokɔtːeri"
-  ],
-  "girocottero": [
-    "dʒirokɔtːero"
-  ],
-  "giromagnetismi": [
-    "dʒiromaɲɲetizmi"
-  ],
-  "giromagnetismo": [
-    "dʒiromaɲɲetizmo"
-  ],
-  "giromanica": [
-    "dʒiromanika"
-  ],
-  "girometri": [
-    "dʒirometri"
-  ],
-  "girometro": [
-    "dʒirometro"
-  ],
-  "gironda": [
-    "dʒironda"
-  ],
-  "gironzolare": [
-    "dʒirondzolare",
-    "dʒirontsolare"
-  ],
-  "giropilota": [
-    "dʒiropilɔta"
-  ],
-  "giropiloti": [
-    "dʒiropilɔti"
-  ],
-  "giroscopi": [
-    "dʒiroskɔpi"
-  ],
-  "giroscopica": [
-    "dʒiroskɔpika"
-  ],
-  "giroscopiche": [
-    "dʒiroskɔpike"
-  ],
-  "giroscopici": [
-    "dʒiroskɔpitʃi"
-  ],
-  "giroscopico": [
-    "dʒiroskɔpiko"
-  ],
-  "giroscopio": [
-    "dʒiroskɔpjo"
-  ],
-  "girostatica": [
-    "dʒirostatika"
-  ],
-  "girostatiche": [
-    "dʒirostatike"
-  ],
-  "girostatici": [
-    "dʒirostatitʃi"
-  ],
-  "girostatico": [
-    "dʒirostatiko"
-  ],
-  "girotondo": [
-    "dʒirotondo"
-  ],
-  "girovagare": [
-    "dʒirovaɡare"
-  ],
-  "girovago": [
-    "dʒirɔvaɡo"
-  ],
-  "gisarma": [
-    "dʒizarma"
-  ],
-  "gita": [
-    "dʒita"
-  ],
-  "gitante": [
-    "ɡi"
-  ],
-  "gite": [
-    "dʒite"
-  ],
-  "gittaione": [
-    "dʒitːajone"
-  ],
-  "gittaioni": [
-    "dʒitːajoni"
-  ],
-  "gittata": [
-    "dʒitːata"
-  ],
-  "giù": [
-    "dʒu"
-  ],
-  "giuba": [
-    "dʒuba"
-  ],
-  "giubba": [
-    "dʒubːa"
-  ],
-  "giubbato": [
-    "dʒubːato"
-  ],
-  "giubbe": [
-    "dʒubːe"
-  ],
-  "giubbilare": [
-    "dʒubːilare"
-  ],
-  "giubbilari": [
-    "dʒubːilari"
-  ],
-  "giubbilazione": [
-    "dʒubːilatsjone"
-  ],
-  "giubbilazioni": [
-    "dʒubːilatsjoni"
-  ],
-  "giubbilei": [
-    "dʒubːilɛi"
-  ],
-  "giubbili": [
-    "dʒubːili"
-  ],
-  "giubbilo": [
-    "dʒubːilo"
-  ],
-  "giubbino": [
-    "dʒubːino"
-  ],
-  "giubbotti": [
-    "dʒubːɔtːi"
-  ],
-  "giubbotto": [
-    "dʒubːɔtːo"
-  ],
-  "giubilante": [
-    "dʒubilante"
-  ],
-  "giubilare": [
-    "dʒubilare"
-  ],
-  "giubilato": [
-    "dʒubilato"
-  ],
-  "giubilazioni": [
-    "dʒubilatsjoni"
-  ],
-  "giubilei": [
-    "dʒubilɛi"
-  ],
-  "giubileo": [
-    "dʒubilɛo"
-  ],
-  "giubili": [
-    "dʒubili"
-  ],
-  "giubilo": [
-    "dʒubilo"
-  ],
-  "giucare": [
-    "dʒukare"
-  ],
-  "giucco": [
-    "dʒukːo"
-  ],
-  "giuda": [
-    "dʒiuda",
-    "dʒuda"
-  ],
-  "giudaico": [
-    "dʒudajko"
-  ],
-  "giudaismo": [
-    "dʒudaizmo"
-  ],
-  "giudecca": [
-    "dʒudɛkːa"
-  ],
-  "giudeo": [
-    "dʒudɛo"
-  ],
-  "giudicabile": [
-    "dʒudikabile"
-  ],
-  "giudicabili": [
-    "dʒudikabili"
-  ],
-  "giudicabilità": [
-    "dʒudikabilita",
-    "dʒudikabilital"
-  ],
-  "giudicale": [
-    "dʒudikale"
-  ],
-  "giudicamento": [
-    "dʒudikamento"
-  ],
-  "giudicante": [
-    "dʒudikante"
-  ],
-  "giudicanti": [
-    "dʒudikanti"
-  ],
-  "giudicare": [
-    "dʒudikare"
-  ],
-  "giudicarsi": [
-    "dʒudikarsi"
-  ],
-  "giudicata": [
-    "dʒudikata"
-  ],
-  "giudicate": [
-    "dʒudikate"
-  ],
-  "giudicati": [
-    "dʒudikati"
-  ],
-  "giudicativa": [
-    "dʒudikativa"
-  ],
-  "giudicative": [
-    "dʒudikative"
-  ],
-  "giudicativi": [
-    "dʒudikativi"
-  ],
-  "giudicativo": [
-    "dʒudikativo"
-  ],
-  "giudicato": [
-    "dʒudikato"
-  ],
-  "giudicatore": [
-    "dʒudikatore"
-  ],
-  "giudicatori": [
-    "dʒudikatori",
-    "dʒudikatɔri"
-  ],
-  "giudicatorio": [
-    "dʒudikatɔrjo"
-  ],
-  "giudicatrice": [
-    "dʒudikatritʃe"
-  ],
-  "giudicatrici": [
-    "dʒudikatritʃi"
-  ],
-  "giudicatura": [
-    "dʒudikatura"
-  ],
-  "giudicature": [
-    "dʒudikature"
-  ],
-  "giudicazione": [
-    "dʒudikatsjone"
-  ],
-  "giudicazioni": [
-    "dʒudikatsjone"
-  ],
-  "giudice": [
-    "dʒuditʃe"
-  ],
-  "giùdice": [
-    "dʒuditʃe"
-  ],
-  "giudici": [
-    "dʒuditʃi"
-  ],
-  "giùdici": [
-    "dʒuditʃi"
-  ],
-  "giudicio": [
-    "dʒuditʃo"
-  ],
-  "giudizi": [
-    "dʒuditsi"
-  ],
-  "giudiziale": [
-    "dʒuditsjale",
-    "dʒuditːsjale"
-  ],
-  "giudiziali": [
-    "dʒuditsjali"
-  ],
-  "giudizialmente": [
-    "dʒuditsjalmente",
-    "dʒuditːsjalmente"
-  ],
-  "giudiziari": [
-    "dʒuditsjari"
-  ],
-  "giudiziaria": [
-    "dʒuditsjarja"
-  ],
-  "giudiziariamente": [
-    "dʒuditsjarjamente",
-    "dʒuditːsjarjamente"
-  ],
-  "giudiziarie": [
-    "dʒuditsjarie"
-  ],
-  "giudiziario": [
-    "dʒuditsjarjo",
-    "dʒuditːsjarjo"
-  ],
-  "giudizio": [
-    "dʒuditsjo",
-    "dʒuditːsjo"
-  ],
-  "giudiziosa": [
-    "dʒuditsjoza"
-  ],
-  "giudiziosamente": [
-    "dʒuditːsjosamente",
-    "dʒuditːsjozamente"
-  ],
-  "giudiziose": [
-    "dʒuditsjoze"
-  ],
-  "giudiziosi": [
-    "dʒuditsjozi"
-  ],
-  "giudizioso": [
-    "dʒuditsjozo",
-    "dʒuditːsjoso",
-    "dʒuditːsjozo"
-  ],
-  "giuggiola": [
-    "dʒudːʒola"
-  ],
-  "giuggiolo": [
-    "dʒudːʒolo"
-  ],
-  "giugno": [
-    "dʒuɲɲo"
-  ],
-  "giulebbare": [
-    "dʒulebːare"
-  ],
-  "giulebbe": [
-    "dʒulɛbːe"
-  ],
-  "giulebbi": [
-    "dʒulɛbːi"
-  ],
-  "giulebbo": [
-    "dʒulɛbːo"
-  ],
-  "giuliano": [
-    "dʒuljano"
-  ],
-  "giulio": [
-    "dʒulio",
-    "dʒuljo"
-  ],
-  "giuliva": [
-    "dʒuliva"
-  ],
-  "giulive": [
-    "dʒulive"
-  ],
-  "giulivi": [
-    "dʒulivi"
-  ],
-  "giulivo": [
-    "dʒulivo",
-    "ɡiulivo"
-  ],
-  "giullare": [
-    "dʒulːare"
-  ],
-  "giullaresco": [
-    "dʒulːaresko"
-  ],
-  "giullari": [
-    "dʒulːari"
-  ],
-  "giumenta": [
-    "dʒumenta"
-  ],
-  "giumente": [
-    "dʒumente"
-  ],
-  "giumento": [
-    "dʒumento"
-  ],
-  "giuncata": [
-    "dʒunkata"
-  ],
-  "giunco": [
-    "dʒunko"
-  ],
-  "giunga": [
-    "dʒuɲdʒa"
-  ],
-  "giungano": [
-    "dʒuɲdʒano"
-  ],
-  "giunge": [
-    "dʒuɲdʒe"
-  ],
-  "giungemmo": [
-    "dʒuɲdʒemːo"
-  ],
-  "giungendo": [
-    "dʒuɲdʒendo"
-  ],
-  "giungente": [
-    "dʒuɲdʒente"
-  ],
-  "giungerà": [
-    "dʒuɲdʒera"
-  ],
-  "giungerai": [
-    "dʒuɲdʒerai"
-  ],
-  "giungeranno": [
-    "dʒuɲdʒeranːo"
-  ],
-  "giungere": [
-    "dʒundʒere",
-    "dʒuɲdʒere"
-  ],
-  "giungerebbe": [
-    "dʒuɲdʒerebːe"
-  ],
-  "giungerebbero": [
-    "dʒuɲdʒerebːero"
-  ],
-  "giungerei": [
-    "dʒuɲdʒerei"
-  ],
-  "giungeremmo": [
-    "dʒuɲdʒeremːo"
-  ],
-  "giungeremo": [
-    "dʒuɲdʒeremo"
-  ],
-  "giungereste": [
-    "dʒuɲdʒereste"
-  ],
-  "giungeresti": [
-    "dʒuɲdʒeresti"
-  ],
-  "giungerete": [
-    "dʒuɲdʒerete"
-  ],
-  "giungerò": [
-    "dʒuɲdʒero"
-  ],
-  "giungersi": [
-    "dʒuɲdʒersi"
-  ],
-  "giungesse": [
-    "dʒuɲdʒesːe"
-  ],
-  "giungessero": [
-    "dʒuɲdʒesːero"
-  ],
-  "giungessi": [
-    "dʒuɲdʒesːi"
-  ],
-  "giungessimo": [
-    "dʒuɲdʒesːimo"
-  ],
-  "giungeste": [
-    "dʒuɲdʒeste"
-  ],
-  "giungesti": [
-    "dʒuɲdʒesti"
-  ],
-  "giungete": [
-    "dʒuɲdʒete"
-  ],
-  "giungeva": [
-    "dʒundʒeva",
-    "dʒuɲdʒeva"
-  ],
-  "giungevamo": [
-    "dʒuɲdʒevamo"
-  ],
-  "giungevano": [
-    "dʒuɲdʒevano"
-  ],
-  "giungevate": [
-    "dʒuɲdʒevate"
-  ],
-  "giungevi": [
-    "dʒuɲdʒevi"
-  ],
-  "giungevo": [
-    "dʒuɲdʒevo"
-  ],
-  "giungi": [
-    "dʒuɲdʒi"
-  ],
-  "giungiamo": [
-    "dʒuɲdʒjamo"
-  ],
-  "giungiate": [
-    "dʒuɲdʒjate"
-  ],
-  "giungimento": [
-    "dʒundʒimento"
-  ],
-  "giungla": [
-    "dʒunɡla",
-    "dʒuɲɡla"
-  ],
-  "giungle": [
-    "dʒuɲɡle"
-  ],
-  "giungo": [
-    "dʒuɲdʒo"
-  ],
-  "giungono": [
-    "dʒuɲdʒono"
-  ],
-  "giunone": [
-    "dʒunone"
-  ],
-  "giunse": [
-    "dʒuɲse"
-  ],
-  "giunsero": [
-    "dʒuɲsero"
-  ],
-  "giunsi": [
-    "dʒuɲsi"
-  ],
-  "giunta": [
-    "dʒunta",
-    "dʒuɲta"
-  ],
-  "giunte": [
-    "dʒuɲte"
-  ],
-  "giunti": [
-    "dʒuɲti"
-  ],
-  "giunto": [
-    "dʒunto",
-    "dʒuɲto"
-  ],
-  "giuntura": [
-    "dʒuntura"
-  ],
-  "giunture": [
-    "dʒunture"
-  ],
-  "giunzione": [
-    "dʒuntsjone"
-  ],
-  "giuocare": [
-    "dʒwokare"
-  ],
-  "giuoco": [
-    "dʒwɔko"
-  ],
-  "giura": [
-    "dʒura"
-  ],
-  "giurabbacco": [
-    "dʒurabːakːo"
-  ],
-  "giurabile": [
-    "dʒurabile"
-  ],
-  "giuracchiare": [
-    "dʒurakːjare"
-  ],
-  "giuraddiana": [
-    "dʒuradːjana"
-  ],
-  "giuraddio": [
-    "dʒuradːio"
-  ],
-  "giuramenti": [
-    "dʒuramenti"
-  ],
-  "giuramento": [
-    "dʒuramento"
-  ],
-  "giurano": [
-    "dʒurano"
-  ],
-  "giurante": [
-    "dʒurante"
-  ],
-  "giurare": [
-    "dʒurare"
-  ],
-  "giurarsi": [
-    "dʒurarsi"
-  ],
-  "giurassico": [
-    "dʒurasːiko"
-  ],
-  "giurativo": [
-    "dʒurativo"
-  ],
-  "giurato": [
-    "dʒurato"
-  ],
-  "giuratorio": [
-    "dʒuratɔrjo"
-  ],
-  "giure": [
-    "dʒure"
-  ],
-  "giureconsulto": [
-    "dʒurekonsulto"
-  ],
-  "giurì": [
-    "dʒuri"
-  ],
-  "giuria": [
-    "dʒuria"
-  ],
-  "giuridicamente": [
-    "dʒudikamente",
-    "dʒuridikamente"
-  ],
-  "giuridicismo": [
-    "dʒuriditʃizmo"
-  ],
-  "giuridicità": [
-    "dʒuriditʃita"
-  ],
-  "giuridico": [
-    "dʒuridiko"
-  ],
-  "giurisdicente": [
-    "dʒurizditʃɛnte"
-  ],
-  "giurisdizionale": [
-    "dʒurizditsjonale",
-    "dʒurizditːsjonale"
-  ],
-  "giurisdizionali": [
-    "dʒurizditsjonali"
-  ],
-  "giurisdizionalismi": [
-    "dʒurizditsjonalizmi"
-  ],
-  "giurisdizionalismo": [
-    "dʒurizditsjonalizmo",
-    "dʒurizditːsjonalizmo"
-  ],
-  "giurisdizionalista": [
-    "dʒurizditːsjonalista"
-  ],
-  "giurisdizionalistico": [
-    "dʒurizditːsjonalistiko"
-  ],
-  "giurisdizionalità": [
-    "dʒurizditːsjonalita"
-  ],
-  "giurisdizionalizzazione": [
-    "dʒurizditːsjonalidːzatːsjone"
-  ],
-  "giurisdizionalmente": [
-    "dʒurizditːsjonalmente"
-  ],
-  "giurisdizione": [
-    "dʒurizditsjone",
-    "dʒurizditːsjone"
-  ],
-  "giurisdizioni": [
-    "dʒurizditsjoni"
-  ],
-  "giurisperito": [
-    "dʒurisperito"
-  ],
-  "giurisprudente": [
-    "dʒurisprudɛnte"
-  ],
-  "giurisprudenza": [
-    "dʒurisprudɛntsa"
-  ],
-  "giurisprudenze": [
-    "dʒurisprudɛntse"
-  ],
-  "giurisprudenziale": [
-    "dʒurisprudentsjale"
-  ],
-  "giurista": [
-    "dʒurista"
-  ],
-  "giuriste": [
-    "dʒuriste"
-  ],
-  "giuristi": [
-    "dʒuristi"
-  ],
-  "giuristico": [
-    "dʒuristiko"
-  ],
-  "gius": [
-    "dʒus"
-  ],
-  "giusarma": [
-    "dʒuzarma"
-  ],
-  "giuscanonista": [
-    "dʒuskanonista"
-  ],
-  "giuscibernetica": [
-    "dʒuʃʃibernɛtika"
-  ],
-  "giuscibernetico": [
-    "dʒuʃʃibernɛtiko"
-  ],
-  "giuscivilista": [
-    "dʒuʃʃivilista"
-  ],
-  "giusdicente": [
-    "dʒuzditʃɛnte"
-  ],
-  "giuseppa": [
-    "dʒuzɛpːa"
-  ],
-  "giuseppe": [
-    "dʒuzɛpːe"
-  ],
-  "giuseppinismo": [
-    "dʒuzepːinizmo"
-  ],
-  "giuseppismo": [
-    "dʒuzepːizmo"
-  ],
-  "giuslavorista": [
-    "dʒuslavorista",
-    "dʒuzlavorista"
-  ],
-  "giusnaturalismo": [
-    "dʒuznaturalizmo"
-  ],
-  "giusnaturalista": [
-    "dʒuznaturalista"
-  ],
-  "giusnaturalistico": [
-    "dʒuznaturalistiko"
-  ],
-  "giuso": [
-    "dʒuzo"
-  ],
-  "giuspatronato": [
-    "dʒuspatronato"
-  ],
-  "giuspositivismo": [
-    "dʒuspozitivizmo"
-  ],
-  "giusprivatistico": [
-    "dʒusprivatistiko"
-  ],
-  "giuspubblicista": [
-    "dʒuspubːlitʃista"
-  ],
-  "giuspubblicistico": [
-    "dʒuspubːlitʃistiko"
-  ],
-  "giusquiamo": [
-    "dʒuskwiamo"
-  ],
-  "giusrealismo": [
-    "dʒuzrealizmo"
-  ],
-  "giusta": [
-    "dːʒusta"
-  ],
-  "giustacore": [
-    "dʒustakɔre"
-  ],
-  "giustacorpo": [
-    "dʒustakɔrpo"
-  ],
-  "giustacuore": [
-    "dʒustakwɔre"
-  ],
-  "giustamente": [
-    "dʒustamente"
-  ],
-  "giustappone": [
-    "dʒustapːone"
-  ],
-  "giustapponemmo": [
-    "dʒustapːonemːo"
-  ],
-  "giustapponendo": [
-    "dʒustapːonendo"
-  ],
-  "giustapponente": [
-    "dʒustapːonente"
-  ],
-  "giustapponesse": [
-    "dʒustapːonesːe"
-  ],
-  "giustapponessero": [
-    "dʒustapːonesːero"
-  ],
-  "giustapponessi": [
-    "dʒustapːonesːi"
-  ],
-  "giustapponessimo": [
-    "dʒustapːonesːimo"
-  ],
-  "giustapponeste": [
-    "dʒustapːonːeste"
-  ],
-  "giustapponesti": [
-    "dʒustapːonesti"
-  ],
-  "giustapponete": [
-    "dʒustapːonete"
-  ],
-  "giustapponeva": [
-    "dʒustapːoneva"
-  ],
-  "giustapponevamo": [
-    "dʒustapːonevamo"
-  ],
-  "giustapponevano": [
-    "dʒustapːonevano"
-  ],
-  "giustapponevate": [
-    "dʒustapːonevate"
-  ],
-  "giustapponevi": [
-    "dʒustapːonevi"
-  ],
-  "giustapponevo": [
-    "dʒustapːonevo"
-  ],
-  "giustapponga": [
-    "dʒustapːonɡa"
-  ],
-  "giustappongano": [
-    "dʒustapːonɡano"
-  ],
-  "giustappongo": [
-    "dʒustapːonɡo"
-  ],
-  "giustappongono": [
-    "dʒustapːonɡono"
-  ],
-  "giustapponi": [
-    "dʒustapːoni"
-  ],
-  "giustapponiamo": [
-    "dʒustapːonjamo"
-  ],
-  "giustapponiate": [
-    "dʒustapːonjate"
-  ],
-  "giustapporrà": [
-    "porːa"
-  ],
-  "giustapporrai": [
-    "dʒustapːorːai"
-  ],
-  "giustapporranno": [
-    "dʒustapːorːanːo"
-  ],
-  "giustapporre": [
-    "dʒustapːorːe"
-  ],
-  "giustapporrebbe": [
-    "dʒustapːorːebːe"
-  ],
-  "giustapporrebbero": [
-    "dʒustapːorːebːero"
-  ],
-  "giustapporrei": [
-    "dʒustapːorːei"
-  ],
-  "giustapporremmo": [
-    "dʒustapːorːemo"
-  ],
-  "giustapporremo": [
-    "dʒustapːorːemo"
-  ],
-  "giustapporreste": [
-    "dʒustapːorːeste"
-  ],
-  "giustapporresti": [
-    "dʒustapːorːesti"
-  ],
-  "giustapporrete": [
-    "dʒustapːorːete"
-  ],
-  "giustapporrò": [
-    "dʒustapːorːo"
-  ],
-  "giustapporsi": [
-    "dʒustapːorsi"
-  ],
-  "giustappose": [
-    "dʒustapːose"
-  ],
-  "giustapposero": [
-    "dʒustapːosero"
-  ],
-  "giustapposi": [
-    "dʒustapːosi"
-  ],
-  "giustapposizione": [
-    "dʒustapːozitːsjone"
-  ],
-  "giustapposta": [
-    "dʒustapːosta"
-  ],
-  "giustapposte": [
-    "dʒustapːoste"
-  ],
-  "giustapposti": [
-    "dʒustapːosti"
-  ],
-  "giustapposto": [
-    "dʒustapːosto"
-  ],
-  "giustappunto": [
-    "dʒustapːunto"
-  ],
-  "giuste": [
-    "dʒuste"
-  ],
-  "giustezza": [
-    "dʒustetːsa"
-  ],
-  "giusti": [
-    "dʒusti"
-  ],
-  "giustificabile": [
-    "dʒustifikabile"
-  ],
-  "giustificabili": [
-    "dʒustifikabili"
-  ],
-  "giustificabilità": [
-    "dʒustifikabilita"
-  ],
-  "giustificabilmente": [
-    "dʒustifikabilmente"
-  ],
-  "giustificante": [
-    "dʒustifikante"
-  ],
-  "giustificanti": [
-    "dʒustifikanti"
-  ],
-  "giustificare": [
-    "dʒustifikare"
-  ],
-  "giustificarsi": [
-    "dʒustifikarsi"
-  ],
-  "giustificata": [
-    "dʒustifikata"
-  ],
-  "giustificatamente": [
-    "dʒustifikatamente"
-  ],
-  "giustificate": [
-    "dʒustifikata",
-    "dʒustifikate"
-  ],
-  "giustificatezza": [
-    "dʒustifikatetːsa"
-  ],
-  "giustificati": [
-    "dʒustifikati"
-  ],
-  "giustificativa": [
-    "dʒustifikativa"
-  ],
-  "giustificative": [
-    "dʒustifikative"
-  ],
-  "giustificativi": [
-    "dʒustifikativi"
-  ],
-  "giustificativo": [
-    "dʒustifikativo"
-  ],
-  "giustificato": [
-    "dʒustifikato"
-  ],
-  "giustificatore": [
-    "dʒustifikatore"
-  ],
-  "giustificatori": [
-    "dʒustifikatori",
-    "dʒustifikatorl",
-    "dʒustifikatɔri"
-  ],
-  "giustificatorio": [
-    "dʒustifikatɔrjo"
-  ],
-  "giustificatrice": [
-    "dʒustifikatritʃe"
-  ],
-  "giustificatrici": [
-    "dʒustifikatritʃi"
-  ],
-  "giustificazione": [
-    "dʒustifikatːsjone"
-  ],
-  "giustificazioni": [
-    "dʒustifikatːsjoni"
-  ],
-  "giustificazionismo": [
-    "dʒustifikatːsjonista",
-    "dʒustifikatːsjonizmo"
-  ],
-  "giustificazionista": [
-    "dʒustifikatːsjonista"
-  ],
-  "giustificazionistico": [
-    "dʒustifikatːsjonistiko"
-  ],
-  "giustizia": [
-    "dʒustitsja",
-    "dʒustitːsja"
-  ],
-  "giustizialismo": [
-    "dʒustitsjalizmo",
-    "dʒustitːsjalizmo"
-  ],
-  "giustizialista": [
-    "dʒustitsjalista",
-    "dʒustitːsjalista"
-  ],
-  "giustizialiste": [
-    "dʒustitsjaliste"
-  ],
-  "giustizialisti": [
-    "dʒustitsjalisti"
-  ],
-  "giustiziare": [
-    "dʒustitsjare",
-    "dʒustitːsjare"
-  ],
-  "giustiziato": [
-    "dʒustitːsjato"
-  ],
-  "giustizie": [
-    "dʒustitːsje"
-  ],
-  "giustiziere": [
-    "dʒustitːsjɛre"
-  ],
-  "giusto": [
-    "dʒusto",
-    "dʒustɔ"
-  ],
-  "glabella": [
-    "ɡlabɛlːa"
-  ],
-  "glabro": [
-    "ɡlabro"
-  ],
-  "glaciale": [
-    "ɡlatʃale"
-  ],
-  "glaciali": [
-    "ɡlatʃali"
-  ],
-  "glaciazione": [
-    "ɡlatʃatsjone",
-    "ɡlatʃatːsjone"
-  ],
-  "glaciazioni": [
-    "ɡlatʃatsjoni"
-  ],
-  "glaciologica": [
-    "ɡlatʃolɔdʒika"
-  ],
-  "glaciologiche": [
-    "ɡlatʃolɔdʒike"
-  ],
-  "glaciologici": [
-    "ɡlatʃolɔdʒitʃi"
-  ],
-  "glaciologico": [
-    "ɡlatʃolɔdʒiko"
-  ],
-  "glaciologo": [
-    "ɡlatʃɔloɡo"
-  ],
-  "gladiatore": [
-    "ɡladjatore"
-  ],
-  "gladiatorio": [
-    "ɡladjatɔrjo"
-  ],
-  "gladiatrice": [
-    "ɡladjatritʃe"
-  ],
-  "gladiatrici": [
-    "ɡladjatritʃi"
-  ],
-  "gladio": [
-    "ɡladjo"
-  ],
-  "gladiolo": [
-    "ɡladiolo"
-  ],
-  "glamour": [
-    "ɡlɛmur"
-  ],
-  "glande": [
-    "ɡlande"
-  ],
-  "glandi": [
-    "ɡlandi"
-  ],
-  "glandola": [
-    "ɡlandola"
-  ],
-  "glassa": [
-    "ɡlasːa"
-  ],
-  "glauco": [
-    "ɡlauko"
-  ],
-  "glaucoma": [
-    "ɡlawkɔma"
-  ],
-  "glaucomi": [
-    "ɡlawkɔmi"
-  ],
-  "gleba": [
-    "ɡlɛba"
-  ],
-  "glena": [
-    "ɡlɛna"
-  ],
-  "glene": [
-    "ɡlɛne"
-  ],
-  "glenoide": [
-    "ɡlenɔide",
-    "ɡlenɔjde"
-  ],
-  "glenoideo": [
-    "ɡlenojdɛo"
-  ],
-  "gli": [
-    "ʎ",
-    "ʎi"
-  ],
-  "glia": [
-    "ɡlia"
-  ],
-  "gliale": [
-    "ɡliale"
-  ],
-  "gliali": [
-    "ɡliali"
-  ],
-  "glicemia": [
-    "ɡlitʃemia"
-  ],
-  "glicemica": [
-    "ɡlitʃemika"
-  ],
-  "glicemiche": [
-    "ɡlitʃemike"
-  ],
-  "glicemici": [
-    "ɡlitʃemitʃi"
-  ],
-  "glicemico": [
-    "ɡlitʃemiko"
-  ],
-  "glicemie": [
-    "ɡlitʃemie"
-  ],
-  "glicerina": [
-    "ɡlitʃerina",
-    "ʎitʃerina"
-  ],
-  "gliceroli": [
-    "ɡlitʃerɔli"
-  ],
-  "glicerolo": [
-    "ɡlitʃerɔlo",
-    "ʎitʃerɔlo"
-  ],
-  "glicine": [
-    "ɡlitʃine",
-    "ʎitʃine"
-  ],
-  "glicocalice": [
-    "ʎikokalitʃe"
-  ],
-  "glicogeno": [
-    "ɡlikɔdʒeno"
-  ],
-  "glicol": [
-    "ɡlikol"
-  ],
-  "glicolato": [
-    "ɡlikolato"
-  ],
-  "glicole": [
-    "ɡlikole"
-  ],
-  "glicoli": [
-    "ɡlikoli"
-  ],
-  "glicolica": [
-    "ɡlikɔlika"
-  ],
-  "glicoliche": [
-    "ɡlikɔlike"
-  ],
-  "glicolici": [
-    "ɡlikɔlitʃi"
-  ],
-  "glicolico": [
-    "ɡlikɔliko"
-  ],
-  "glicolide": [
-    "ɡlikolide"
-  ],
-  "glicolile": [
-    "ɡlikolile"
-  ],
-  "glicolisi": [
-    "ɡlikolizi"
-  ],
-  "glicoplastico": [
-    "ʎikoplastiko"
-  ],
-  "glicoproteina": [
-    "ɡlikoproteina"
-  ],
-  "glicoproteine": [
-    "ɡlikoproteine"
-  ],
-  "glicosuria": [
-    "ʎikozurja"
-  ],
-  "glie": [
-    "ɡlie",
-    "ʎe"
-  ],
-  "gliela": [
-    "ʎela"
-  ],
-  "gliele": [
-    "ʎele"
-  ],
-  "glieli": [
-    "ʎeli"
-  ],
-  "glielo": [
-    "ʎelo"
-  ],
-  "gliene": [
-    "ʎene"
-  ],
-  "glifo": [
-    "ɡlifo"
-  ],
-  "glioblasti": [
-    "ɡlioblasti"
-  ],
-  "glioblasto": [
-    "ɡlioblasto"
-  ],
-  "glioblastoma": [
-    "ɡlioblastɔma"
-  ],
-  "glioblastomi": [
-    "ɡlioblastɔmi"
-  ],
-  "glioma": [
-    "ɡlioma"
-  ],
-  "gliomi": [
-    "ɡliomi"
-  ],
-  "gliommero": [
-    "ʎɔmːero"
-  ],
-  "gliptoteca": [
-    "ɡliptotɛka"
-  ],
-  "gliptoteche": [
-    "ɡliptotɛke"
-  ],
-  "gliride": [
-    "ɡliride"
-  ],
-  "gliridi": [
-    "ɡliridi"
-  ],
-  "glissare": [
-    "ɡlisːare"
-  ],
-  "glittoteca": [
-    "ɡlitːotɛka"
-  ],
-  "glittoteche": [
-    "ɡlitːotɛke"
-  ],
-  "globale": [
-    "ɡlobale"
-  ],
-  "globali": [
-    "ɡlobali"
-  ],
-  "globalismo": [
-    "ɡlobalizmo"
-  ],
-  "globalità": [
-    "ɡlobalita"
-  ],
-  "globalizzare": [
-    "ɡlobalidːzare"
-  ],
-  "globalizzarsi": [
-    "ɡlobalidːzare"
-  ],
-  "globalizzato": [
-    "ɡlobalidːzato"
-  ],
-  "globalizzazione": [
-    "ɡlobalidːzatsjone",
-    "ɡlobalidːzatːsjone"
-  ],
-  "globalizzazioni": [
-    "ɡlobalidːzatsjoni"
-  ],
-  "globalmente": [
-    "ɡlobalmente"
-  ],
-  "globi": [
-    "ɡlɔbi"
-  ],
-  "globina": [
-    "ɡlobina"
-  ],
-  "globine": [
-    "ɡlobine"
-  ],
-  "globo": [
-    "ɡlɔbo"
-  ],
-  "globoso": [
-    "ɡloboso",
-    "ɡlobozo"
-  ],
-  "globuli": [
-    "ɡlɔbuli"
-  ],
-  "globulina": [
-    "ɡlobulina"
-  ],
-  "globulo": [
-    "ɡlɔbulo"
-  ],
-  "glocalizzazione": [
-    "ɡlokalidːzatːsjone"
-  ],
-  "glocalizzazioni": [
-    "ɡlokalidːzatːsjoni"
-  ],
-  "gloglottare": [
-    "ɡloɡlotːare"
-  ],
-  "gloria": [
-    "ɡlɔrja"
-  ],
-  "gloriare": [
-    "ɡlorjare"
-  ],
-  "gloriarsi": [
-    "ɡlorjarsi"
-  ],
-  "glorie": [
-    "ɡlɔrje"
-  ],
-  "glorificando": [
-    "ɡlorifikando"
-  ],
-  "glorificante": [
-    "ɡlorifikante"
-  ],
-  "glorificanti": [
-    "ɡlorifikanti"
-  ],
-  "glorificare": [
-    "ɡlorifikare"
-  ],
-  "glorificato": [
-    "ɡlorifikato"
-  ],
-  "glorificazione": [
-    "ɡlorifikatːsjone"
-  ],
-  "glorifico": [
-    "ɡlorifiko"
-  ],
-  "gloriosamente": [
-    "ɡlorjosamente"
-  ],
-  "glorioso": [
-    "ɡlorjoso",
-    "ɡlorjozo"
-  ],
-  "glossa": [
-    "ɡlɔsːa"
-  ],
-  "glossario": [
-    "ɡlosːarjo"
-  ],
-  "glossatore": [
-    "ɡlosːatore"
-  ],
-  "glossatori": [
-    "ɡlosːatori"
-  ],
-  "glossopoeta": [
-    "ɡlosːopoɛta"
-  ],
-  "glossopoiesi": [
-    "ɡlosːopojɛzi"
-  ],
-  "glottale": [
-    "ɡlotːale"
-  ],
-  "glottalizzazione": [
-    "ɡlotːalidːzatːsjone"
-  ],
-  "glottalizzazioni": [
-    "ɡlotːalidːzatːsjoni"
-  ],
-  "glottidale": [
-    "ɡlotːidale"
-  ],
-  "glottide": [
-    "ɡlɔtːide"
-  ],
-  "glottodidattica": [
-    "ɡlɔtːodidatːika"
-  ],
-  "glottologa": [
-    "ɡlotːɔloɡa"
-  ],
-  "glottologhe": [
-    "ɡlotːɔloɡɛ"
-  ],
-  "glottologi": [
-    "ɡlotːɔlodʒi"
-  ],
-  "glottologia": [
-    "ɡlotːolodʒia"
-  ],
-  "glottologica": [
-    "ɡlotːolodʒika"
-  ],
-  "glottologiche": [
-    "ɡlotːolodʒike"
-  ],
-  "glottologici": [
-    "ɡlotːolodʒitʃi"
-  ],
-  "glottologico": [
-    "ɡlotːolodʒiko",
-    "ɡlotːolɔdʒiko"
-  ],
-  "glottologie": [
-    "ɡlotːolodʒie"
-  ],
-  "glottologo": [
-    "ɡlotːɔloɡo"
-  ],
-  "glottotecnica": [
-    "ɡlɔtːotɛknika"
-  ],
-  "glottotecniche": [
-    "ɡlotːɔtɛknike"
-  ],
-  "glottotennica": [
-    "ɡlotːɔtɛnːika"
-  ],
-  "glottotenniche": [
-    "ɡlotːɔtɛnːike"
-  ],
-  "glottoteta": [
-    "ɡlotːotɛta"
-  ],
-  "glottotete": [
-    "ɡlotːotɛte"
-  ],
-  "glottoteti": [
-    "ɡlotːotɛti"
-  ],
-  "glucide": [
-    "ɡlutʃide"
-  ],
-  "glucidico": [
-    "ɡlutʃidiko"
-  ],
-  "glucometri": [
-    "ɡlukɔmetri"
-  ],
-  "glucometro": [
-    "ɡlukɔmetro"
-  ],
-  "gluconato": [
-    "ɡlukonato"
-  ],
-  "glucoside": [
-    "ɡlukozide"
-  ],
-  "glucosio": [
-    "ɡlukɔzjo"
-  ],
-  "gluma": [
-    "ɡluma"
-  ],
-  "gluone": [
-    "ɡluone"
-  ]
+  "giro": "dʒiro",
+  "girobussola": "dʒirobusːola",
+  "giroconto": "dʒirokonto",
+  "girocotteri": "dʒirokɔtːeri",
+  "girocottero": "dʒirokɔtːero",
+  "giromagnetismi": "dʒiromaɲɲetizmi",
+  "giromagnetismo": "dʒiromaɲɲetizmo",
+  "giromanica": "dʒiromanika",
+  "girometri": "dʒirometri",
+  "girometro": "dʒirometro",
+  "gironda": "dʒironda",
+  "gironzolare": "dʒirondzolare",
+  "gironzolare_2": "dʒirontsolare",
+  "giropilota": "dʒiropilɔta",
+  "giropiloti": "dʒiropilɔti",
+  "giroscopi": "dʒiroskɔpi",
+  "giroscopica": "dʒiroskɔpika",
+  "giroscopiche": "dʒiroskɔpike",
+  "giroscopici": "dʒiroskɔpitʃi",
+  "giroscopico": "dʒiroskɔpiko",
+  "giroscopio": "dʒiroskɔpjo",
+  "girostatica": "dʒirostatika",
+  "girostatiche": "dʒirostatike",
+  "girostatici": "dʒirostatitʃi",
+  "girostatico": "dʒirostatiko",
+  "girotondo": "dʒirotondo",
+  "girovagare": "dʒirovaɡare",
+  "girovago": "dʒirɔvaɡo",
+  "gisarma": "dʒizarma",
+  "gita": "dʒita",
+  "gitante": "ɡi",
+  "gite": "dʒite",
+  "gittaione": "dʒitːajone",
+  "gittaioni": "dʒitːajoni",
+  "gittata": "dʒitːata",
+  "giù": "dʒu",
+  "giuba": "dʒuba",
+  "giubba": "dʒubːa",
+  "giubbato": "dʒubːato",
+  "giubbe": "dʒubːe",
+  "giubbilare": "dʒubːilare",
+  "giubbilari": "dʒubːilari",
+  "giubbilazione": "dʒubːilatsjone",
+  "giubbilazioni": "dʒubːilatsjoni",
+  "giubbilei": "dʒubːilɛi",
+  "giubbili": "dʒubːili",
+  "giubbilo": "dʒubːilo",
+  "giubbino": "dʒubːino",
+  "giubbotti": "dʒubːɔtːi",
+  "giubbotto": "dʒubːɔtːo",
+  "giubilante": "dʒubilante",
+  "giubilare": "dʒubilare",
+  "giubilato": "dʒubilato",
+  "giubilazioni": "dʒubilatsjoni",
+  "giubilei": "dʒubilɛi",
+  "giubileo": "dʒubilɛo",
+  "giubili": "dʒubili",
+  "giubilo": "dʒubilo",
+  "giucare": "dʒukare",
+  "giucco": "dʒukːo",
+  "giuda": "dʒiuda",
+  "giuda_2": "dʒuda",
+  "giudaico": "dʒudajko",
+  "giudaismo": "dʒudaizmo",
+  "giudecca": "dʒudɛkːa",
+  "giudeo": "dʒudɛo",
+  "giudicabile": "dʒudikabile",
+  "giudicabili": "dʒudikabili",
+  "giudicabilità": "dʒudikabilita",
+  "giudicabilità_2": "dʒudikabilital",
+  "giudicale": "dʒudikale",
+  "giudicamento": "dʒudikamento",
+  "giudicante": "dʒudikante",
+  "giudicanti": "dʒudikanti",
+  "giudicare": "dʒudikare",
+  "giudicarsi": "dʒudikarsi",
+  "giudicata": "dʒudikata",
+  "giudicate": "dʒudikate",
+  "giudicati": "dʒudikati",
+  "giudicativa": "dʒudikativa",
+  "giudicative": "dʒudikative",
+  "giudicativi": "dʒudikativi",
+  "giudicativo": "dʒudikativo",
+  "giudicato": "dʒudikato",
+  "giudicatore": "dʒudikatore",
+  "giudicatori": "dʒudikatori",
+  "giudicatori_2": "dʒudikatɔri",
+  "giudicatorio": "dʒudikatɔrjo",
+  "giudicatrice": "dʒudikatritʃe",
+  "giudicatrici": "dʒudikatritʃi",
+  "giudicatura": "dʒudikatura",
+  "giudicature": "dʒudikature",
+  "giudicazione": "dʒudikatsjone",
+  "giudicazioni": "dʒudikatsjone",
+  "giudice": "dʒuditʃe",
+  "giùdice": "dʒuditʃe",
+  "giudici": "dʒuditʃi",
+  "giùdici": "dʒuditʃi",
+  "giudicio": "dʒuditʃo",
+  "giudizi": "dʒuditsi",
+  "giudiziale": "dʒuditsjale",
+  "giudiziale_2": "dʒuditːsjale",
+  "giudiziali": "dʒuditsjali",
+  "giudizialmente": "dʒuditsjalmente",
+  "giudizialmente_2": "dʒuditːsjalmente",
+  "giudiziari": "dʒuditsjari",
+  "giudiziaria": "dʒuditsjarja",
+  "giudiziariamente": "dʒuditsjarjamente",
+  "giudiziariamente_2": "dʒuditːsjarjamente",
+  "giudiziarie": "dʒuditsjarie",
+  "giudiziario": "dʒuditsjarjo",
+  "giudiziario_2": "dʒuditːsjarjo",
+  "giudizio": "dʒuditsjo",
+  "giudizio_2": "dʒuditːsjo",
+  "giudiziosa": "dʒuditsjoza",
+  "giudiziosamente": "dʒuditːsjosamente",
+  "giudiziosamente_2": "dʒuditːsjozamente",
+  "giudiziose": "dʒuditsjoze",
+  "giudiziosi": "dʒuditsjozi",
+  "giudizioso": "dʒuditsjozo",
+  "giudizioso_2": "dʒuditːsjoso",
+  "giudizioso_3": "dʒuditːsjozo",
+  "giuggiola": "dʒudːʒola",
+  "giuggiolo": "dʒudːʒolo",
+  "giugno": "dʒuɲɲo",
+  "giulebbare": "dʒulebːare",
+  "giulebbe": "dʒulɛbːe",
+  "giulebbi": "dʒulɛbːi",
+  "giulebbo": "dʒulɛbːo",
+  "giuliano": "dʒuljano",
+  "giulio": "dʒulio",
+  "giulio_2": "dʒuljo",
+  "giuliva": "dʒuliva",
+  "giulive": "dʒulive",
+  "giulivi": "dʒulivi",
+  "giulivo": "dʒulivo",
+  "giulivo_2": "ɡiulivo",
+  "giullare": "dʒulːare",
+  "giullaresco": "dʒulːaresko",
+  "giullari": "dʒulːari",
+  "giumenta": "dʒumenta",
+  "giumente": "dʒumente",
+  "giumento": "dʒumento",
+  "giuncata": "dʒunkata",
+  "giunco": "dʒunko",
+  "giunga": "dʒuɲdʒa",
+  "giungano": "dʒuɲdʒano",
+  "giunge": "dʒuɲdʒe",
+  "giungemmo": "dʒuɲdʒemːo",
+  "giungendo": "dʒuɲdʒendo",
+  "giungente": "dʒuɲdʒente",
+  "giungerà": "dʒuɲdʒera",
+  "giungerai": "dʒuɲdʒerai",
+  "giungeranno": "dʒuɲdʒeranːo",
+  "giungere": "dʒundʒere",
+  "giungere_2": "dʒuɲdʒere",
+  "giungerebbe": "dʒuɲdʒerebːe",
+  "giungerebbero": "dʒuɲdʒerebːero",
+  "giungerei": "dʒuɲdʒerei",
+  "giungeremmo": "dʒuɲdʒeremːo",
+  "giungeremo": "dʒuɲdʒeremo",
+  "giungereste": "dʒuɲdʒereste",
+  "giungeresti": "dʒuɲdʒeresti",
+  "giungerete": "dʒuɲdʒerete",
+  "giungerò": "dʒuɲdʒero",
+  "giungersi": "dʒuɲdʒersi",
+  "giungesse": "dʒuɲdʒesːe",
+  "giungessero": "dʒuɲdʒesːero",
+  "giungessi": "dʒuɲdʒesːi",
+  "giungessimo": "dʒuɲdʒesːimo",
+  "giungeste": "dʒuɲdʒeste",
+  "giungesti": "dʒuɲdʒesti",
+  "giungete": "dʒuɲdʒete",
+  "giungeva": "dʒundʒeva",
+  "giungeva_2": "dʒuɲdʒeva",
+  "giungevamo": "dʒuɲdʒevamo",
+  "giungevano": "dʒuɲdʒevano",
+  "giungevate": "dʒuɲdʒevate",
+  "giungevi": "dʒuɲdʒevi",
+  "giungevo": "dʒuɲdʒevo",
+  "giungi": "dʒuɲdʒi",
+  "giungiamo": "dʒuɲdʒjamo",
+  "giungiate": "dʒuɲdʒjate",
+  "giungimento": "dʒundʒimento",
+  "giungla": "dʒunɡla",
+  "giungla_2": "dʒuɲɡla",
+  "giungle": "dʒuɲɡle",
+  "giungo": "dʒuɲdʒo",
+  "giungono": "dʒuɲdʒono",
+  "giunone": "dʒunone",
+  "giunse": "dʒuɲse",
+  "giunsero": "dʒuɲsero",
+  "giunsi": "dʒuɲsi",
+  "giunta": "dʒunta",
+  "giunta_2": "dʒuɲta",
+  "giunte": "dʒuɲte",
+  "giunti": "dʒuɲti",
+  "giunto": "dʒunto",
+  "giunto_2": "dʒuɲto",
+  "giuntura": "dʒuntura",
+  "giunture": "dʒunture",
+  "giunzione": "dʒuntsjone",
+  "giuocare": "dʒwokare",
+  "giuoco": "dʒwɔko",
+  "giura": "dʒura",
+  "giurabbacco": "dʒurabːakːo",
+  "giurabile": "dʒurabile",
+  "giuracchiare": "dʒurakːjare",
+  "giuraddiana": "dʒuradːjana",
+  "giuraddio": "dʒuradːio",
+  "giuramenti": "dʒuramenti",
+  "giuramento": "dʒuramento",
+  "giurano": "dʒurano",
+  "giurante": "dʒurante",
+  "giurare": "dʒurare",
+  "giurarsi": "dʒurarsi",
+  "giurassico": "dʒurasːiko",
+  "giurativo": "dʒurativo",
+  "giurato": "dʒurato",
+  "giuratorio": "dʒuratɔrjo",
+  "giure": "dʒure",
+  "giureconsulto": "dʒurekonsulto",
+  "giurì": "dʒuri",
+  "giuria": "dʒuria",
+  "giuridicamente": "dʒudikamente",
+  "giuridicamente_2": "dʒuridikamente",
+  "giuridicismo": "dʒuriditʃizmo",
+  "giuridicità": "dʒuriditʃita",
+  "giuridico": "dʒuridiko",
+  "giurisdicente": "dʒurizditʃɛnte",
+  "giurisdizionale": "dʒurizditsjonale",
+  "giurisdizionale_2": "dʒurizditːsjonale",
+  "giurisdizionali": "dʒurizditsjonali",
+  "giurisdizionalismi": "dʒurizditsjonalizmi",
+  "giurisdizionalismo": "dʒurizditsjonalizmo",
+  "giurisdizionalismo_2": "dʒurizditːsjonalizmo",
+  "giurisdizionalista": "dʒurizditːsjonalista",
+  "giurisdizionalistico": "dʒurizditːsjonalistiko",
+  "giurisdizionalità": "dʒurizditːsjonalita",
+  "giurisdizionalizzazione": "dʒurizditːsjonalidːzatːsjone",
+  "giurisdizionalmente": "dʒurizditːsjonalmente",
+  "giurisdizione": "dʒurizditsjone",
+  "giurisdizione_2": "dʒurizditːsjone",
+  "giurisdizioni": "dʒurizditsjoni",
+  "giurisperito": "dʒurisperito",
+  "giurisprudente": "dʒurisprudɛnte",
+  "giurisprudenza": "dʒurisprudɛntsa",
+  "giurisprudenze": "dʒurisprudɛntse",
+  "giurisprudenziale": "dʒurisprudentsjale",
+  "giurista": "dʒurista",
+  "giuriste": "dʒuriste",
+  "giuristi": "dʒuristi",
+  "giuristico": "dʒuristiko",
+  "gius": "dʒus",
+  "giusarma": "dʒuzarma",
+  "giuscanonista": "dʒuskanonista",
+  "giuscibernetica": "dʒuʃʃibernɛtika",
+  "giuscibernetico": "dʒuʃʃibernɛtiko",
+  "giuscivilista": "dʒuʃʃivilista",
+  "giusdicente": "dʒuzditʃɛnte",
+  "giuseppa": "dʒuzɛpːa",
+  "giuseppe": "dʒuzɛpːe",
+  "giuseppinismo": "dʒuzepːinizmo",
+  "giuseppismo": "dʒuzepːizmo",
+  "giuslavorista": "dʒuslavorista",
+  "giuslavorista_2": "dʒuzlavorista",
+  "giusnaturalismo": "dʒuznaturalizmo",
+  "giusnaturalista": "dʒuznaturalista",
+  "giusnaturalistico": "dʒuznaturalistiko",
+  "giuso": "dʒuzo",
+  "giuspatronato": "dʒuspatronato",
+  "giuspositivismo": "dʒuspozitivizmo",
+  "giusprivatistico": "dʒusprivatistiko",
+  "giuspubblicista": "dʒuspubːlitʃista",
+  "giuspubblicistico": "dʒuspubːlitʃistiko",
+  "giusquiamo": "dʒuskwiamo",
+  "giusrealismo": "dʒuzrealizmo",
+  "giusta": "dːʒusta",
+  "giustacore": "dʒustakɔre",
+  "giustacorpo": "dʒustakɔrpo",
+  "giustacuore": "dʒustakwɔre",
+  "giustamente": "dʒustamente",
+  "giustappone": "dʒustapːone",
+  "giustapponemmo": "dʒustapːonemːo",
+  "giustapponendo": "dʒustapːonendo",
+  "giustapponente": "dʒustapːonente",
+  "giustapponesse": "dʒustapːonesːe",
+  "giustapponessero": "dʒustapːonesːero",
+  "giustapponessi": "dʒustapːonesːi",
+  "giustapponessimo": "dʒustapːonesːimo",
+  "giustapponeste": "dʒustapːonːeste",
+  "giustapponesti": "dʒustapːonesti",
+  "giustapponete": "dʒustapːonete",
+  "giustapponeva": "dʒustapːoneva",
+  "giustapponevamo": "dʒustapːonevamo",
+  "giustapponevano": "dʒustapːonevano",
+  "giustapponevate": "dʒustapːonevate",
+  "giustapponevi": "dʒustapːonevi",
+  "giustapponevo": "dʒustapːonevo",
+  "giustapponga": "dʒustapːonɡa",
+  "giustappongano": "dʒustapːonɡano",
+  "giustappongo": "dʒustapːonɡo",
+  "giustappongono": "dʒustapːonɡono",
+  "giustapponi": "dʒustapːoni",
+  "giustapponiamo": "dʒustapːonjamo",
+  "giustapponiate": "dʒustapːonjate",
+  "giustapporrà": "porːa",
+  "giustapporrai": "dʒustapːorːai",
+  "giustapporranno": "dʒustapːorːanːo",
+  "giustapporre": "dʒustapːorːe",
+  "giustapporrebbe": "dʒustapːorːebːe",
+  "giustapporrebbero": "dʒustapːorːebːero",
+  "giustapporrei": "dʒustapːorːei",
+  "giustapporremmo": "dʒustapːorːemo",
+  "giustapporremo": "dʒustapːorːemo",
+  "giustapporreste": "dʒustapːorːeste",
+  "giustapporresti": "dʒustapːorːesti",
+  "giustapporrete": "dʒustapːorːete",
+  "giustapporrò": "dʒustapːorːo",
+  "giustapporsi": "dʒustapːorsi",
+  "giustappose": "dʒustapːose",
+  "giustapposero": "dʒustapːosero",
+  "giustapposi": "dʒustapːosi",
+  "giustapposizione": "dʒustapːozitːsjone",
+  "giustapposta": "dʒustapːosta",
+  "giustapposte": "dʒustapːoste",
+  "giustapposti": "dʒustapːosti",
+  "giustapposto": "dʒustapːosto",
+  "giustappunto": "dʒustapːunto",
+  "giuste": "dʒuste",
+  "giustezza": "dʒustetːsa",
+  "giusti": "dʒusti",
+  "giustificabile": "dʒustifikabile",
+  "giustificabili": "dʒustifikabili",
+  "giustificabilità": "dʒustifikabilita",
+  "giustificabilmente": "dʒustifikabilmente",
+  "giustificante": "dʒustifikante",
+  "giustificanti": "dʒustifikanti",
+  "giustificare": "dʒustifikare",
+  "giustificarsi": "dʒustifikarsi",
+  "giustificata": "dʒustifikata",
+  "giustificatamente": "dʒustifikatamente",
+  "giustificate": "dʒustifikata",
+  "giustificate_2": "dʒustifikate",
+  "giustificatezza": "dʒustifikatetːsa",
+  "giustificati": "dʒustifikati",
+  "giustificativa": "dʒustifikativa",
+  "giustificative": "dʒustifikative",
+  "giustificativi": "dʒustifikativi",
+  "giustificativo": "dʒustifikativo",
+  "giustificato": "dʒustifikato",
+  "giustificatore": "dʒustifikatore",
+  "giustificatori": "dʒustifikatori",
+  "giustificatori_2": "dʒustifikatorl",
+  "giustificatori_3": "dʒustifikatɔri",
+  "giustificatorio": "dʒustifikatɔrjo",
+  "giustificatrice": "dʒustifikatritʃe",
+  "giustificatrici": "dʒustifikatritʃi",
+  "giustificazione": "dʒustifikatːsjone",
+  "giustificazioni": "dʒustifikatːsjoni",
+  "giustificazionismo": "dʒustifikatːsjonista",
+  "giustificazionismo_2": "dʒustifikatːsjonizmo",
+  "giustificazionista": "dʒustifikatːsjonista",
+  "giustificazionistico": "dʒustifikatːsjonistiko",
+  "giustizia": "dʒustitsja",
+  "giustizia_2": "dʒustitːsja",
+  "giustizialismo": "dʒustitsjalizmo",
+  "giustizialismo_2": "dʒustitːsjalizmo",
+  "giustizialista": "dʒustitsjalista",
+  "giustizialista_2": "dʒustitːsjalista",
+  "giustizialiste": "dʒustitsjaliste",
+  "giustizialisti": "dʒustitsjalisti",
+  "giustiziare": "dʒustitsjare",
+  "giustiziare_2": "dʒustitːsjare",
+  "giustiziato": "dʒustitːsjato",
+  "giustizie": "dʒustitːsje",
+  "giustiziere": "dʒustitːsjɛre",
+  "giusto": "dʒusto",
+  "giusto_2": "dʒustɔ",
+  "glabella": "ɡlabɛlːa",
+  "glabro": "ɡlabro",
+  "glaciale": "ɡlatʃale",
+  "glaciali": "ɡlatʃali",
+  "glaciazione": "ɡlatʃatsjone",
+  "glaciazione_2": "ɡlatʃatːsjone",
+  "glaciazioni": "ɡlatʃatsjoni",
+  "glaciologica": "ɡlatʃolɔdʒika",
+  "glaciologiche": "ɡlatʃolɔdʒike",
+  "glaciologici": "ɡlatʃolɔdʒitʃi",
+  "glaciologico": "ɡlatʃolɔdʒiko",
+  "glaciologo": "ɡlatʃɔloɡo",
+  "gladiatore": "ɡladjatore",
+  "gladiatorio": "ɡladjatɔrjo",
+  "gladiatrice": "ɡladjatritʃe",
+  "gladiatrici": "ɡladjatritʃi",
+  "gladio": "ɡladjo",
+  "gladiolo": "ɡladiolo",
+  "glamour": "ɡlɛmur",
+  "glande": "ɡlande",
+  "glandi": "ɡlandi",
+  "glandola": "ɡlandola",
+  "glassa": "ɡlasːa",
+  "glauco": "ɡlauko",
+  "glaucoma": "ɡlawkɔma",
+  "glaucomi": "ɡlawkɔmi",
+  "gleba": "ɡlɛba",
+  "glena": "ɡlɛna",
+  "glene": "ɡlɛne",
+  "glenoide": "ɡlenɔide",
+  "glenoide_2": "ɡlenɔjde",
+  "glenoideo": "ɡlenojdɛo",
+  "gli": "ʎ",
+  "gli_2": "ʎi",
+  "glia": "ɡlia",
+  "gliale": "ɡliale",
+  "gliali": "ɡliali",
+  "glicemia": "ɡlitʃemia",
+  "glicemica": "ɡlitʃemika",
+  "glicemiche": "ɡlitʃemike",
+  "glicemici": "ɡlitʃemitʃi",
+  "glicemico": "ɡlitʃemiko",
+  "glicemie": "ɡlitʃemie",
+  "glicerina": "ɡlitʃerina",
+  "glicerina_2": "ʎitʃerina",
+  "gliceroli": "ɡlitʃerɔli",
+  "glicerolo": "ɡlitʃerɔlo",
+  "glicerolo_2": "ʎitʃerɔlo",
+  "glicine": "ɡlitʃine",
+  "glicine_2": "ʎitʃine",
+  "glicocalice": "ʎikokalitʃe",
+  "glicogeno": "ɡlikɔdʒeno",
+  "glicol": "ɡlikol",
+  "glicolato": "ɡlikolato",
+  "glicole": "ɡlikole",
+  "glicoli": "ɡlikoli",
+  "glicolica": "ɡlikɔlika",
+  "glicoliche": "ɡlikɔlike",
+  "glicolici": "ɡlikɔlitʃi",
+  "glicolico": "ɡlikɔliko",
+  "glicolide": "ɡlikolide",
+  "glicolile": "ɡlikolile",
+  "glicolisi": "ɡlikolizi",
+  "glicoplastico": "ʎikoplastiko",
+  "glicoproteina": "ɡlikoproteina",
+  "glicoproteine": "ɡlikoproteine",
+  "glicosuria": "ʎikozurja",
+  "glie": "ɡlie",
+  "glie_2": "ʎe",
+  "gliela": "ʎela",
+  "gliele": "ʎele",
+  "glieli": "ʎeli",
+  "glielo": "ʎelo",
+  "gliene": "ʎene",
+  "glifo": "ɡlifo",
+  "glioblasti": "ɡlioblasti",
+  "glioblasto": "ɡlioblasto",
+  "glioblastoma": "ɡlioblastɔma",
+  "glioblastomi": "ɡlioblastɔmi",
+  "glioma": "ɡlioma",
+  "gliomi": "ɡliomi",
+  "gliommero": "ʎɔmːero",
+  "gliptoteca": "ɡliptotɛka",
+  "gliptoteche": "ɡliptotɛke",
+  "gliride": "ɡliride",
+  "gliridi": "ɡliridi",
+  "glissare": "ɡlisːare",
+  "glittoteca": "ɡlitːotɛka",
+  "glittoteche": "ɡlitːotɛke",
+  "globale": "ɡlobale",
+  "globali": "ɡlobali",
+  "globalismo": "ɡlobalizmo",
+  "globalità": "ɡlobalita",
+  "globalizzare": "ɡlobalidːzare",
+  "globalizzarsi": "ɡlobalidːzare",
+  "globalizzato": "ɡlobalidːzato",
+  "globalizzazione": "ɡlobalidːzatsjone",
+  "globalizzazione_2": "ɡlobalidːzatːsjone",
+  "globalizzazioni": "ɡlobalidːzatsjoni",
+  "globalmente": "ɡlobalmente",
+  "globi": "ɡlɔbi",
+  "globina": "ɡlobina",
+  "globine": "ɡlobine",
+  "globo": "ɡlɔbo",
+  "globoso": "ɡloboso",
+  "globoso_2": "ɡlobozo",
+  "globuli": "ɡlɔbuli",
+  "globulina": "ɡlobulina",
+  "globulo": "ɡlɔbulo",
+  "glocalizzazione": "ɡlokalidːzatːsjone",
+  "glocalizzazioni": "ɡlokalidːzatːsjoni",
+  "gloglottare": "ɡloɡlotːare",
+  "gloria": "ɡlɔrja",
+  "gloriare": "ɡlorjare",
+  "gloriarsi": "ɡlorjarsi",
+  "glorie": "ɡlɔrje",
+  "glorificando": "ɡlorifikando",
+  "glorificante": "ɡlorifikante",
+  "glorificanti": "ɡlorifikanti",
+  "glorificare": "ɡlorifikare",
+  "glorificato": "ɡlorifikato",
+  "glorificazione": "ɡlorifikatːsjone",
+  "glorifico": "ɡlorifiko",
+  "gloriosamente": "ɡlorjosamente",
+  "glorioso": "ɡlorjoso",
+  "glorioso_2": "ɡlorjozo",
+  "glossa": "ɡlɔsːa",
+  "glossario": "ɡlosːarjo",
+  "glossatore": "ɡlosːatore",
+  "glossatori": "ɡlosːatori",
+  "glossopoeta": "ɡlosːopoɛta",
+  "glossopoiesi": "ɡlosːopojɛzi",
+  "glottale": "ɡlotːale",
+  "glottalizzazione": "ɡlotːalidːzatːsjone",
+  "glottalizzazioni": "ɡlotːalidːzatːsjoni",
+  "glottidale": "ɡlotːidale",
+  "glottide": "ɡlɔtːide",
+  "glottodidattica": "ɡlɔtːodidatːika",
+  "glottologa": "ɡlotːɔloɡa",
+  "glottologhe": "ɡlotːɔloɡɛ",
+  "glottologi": "ɡlotːɔlodʒi",
+  "glottologia": "ɡlotːolodʒia",
+  "glottologica": "ɡlotːolodʒika",
+  "glottologiche": "ɡlotːolodʒike",
+  "glottologici": "ɡlotːolodʒitʃi",
+  "glottologico": "ɡlotːolodʒiko",
+  "glottologico_2": "ɡlotːolɔdʒiko",
+  "glottologie": "ɡlotːolodʒie",
+  "glottologo": "ɡlotːɔloɡo",
+  "glottotecnica": "ɡlɔtːotɛknika",
+  "glottotecniche": "ɡlotːɔtɛknike",
+  "glottotennica": "ɡlotːɔtɛnːika",
+  "glottotenniche": "ɡlotːɔtɛnːike",
+  "glottoteta": "ɡlotːotɛta",
+  "glottotete": "ɡlotːotɛte",
+  "glottoteti": "ɡlotːotɛti",
+  "glucide": "ɡlutʃide",
+  "glucidico": "ɡlutʃidiko",
+  "glucometri": "ɡlukɔmetri",
+  "glucometro": "ɡlukɔmetro",
+  "gluconato": "ɡlukonato",
+  "glucoside": "ɡlukozide",
+  "glucosio": "ɡlukɔzjo",
+  "gluma": "ɡluma",
+  "gluone": "ɡluone"
 }

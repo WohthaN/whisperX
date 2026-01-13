@@ -1,1546 +1,546 @@
 {
-  "litoteche": [
-    "litotɛke"
-  ],
-  "litotecnica": [
-    "litotɛknika"
-  ],
-  "litoti": [
-    "litɔti"
-  ],
-  "litri": [
-    "litri"
-  ],
-  "litro": [
-    "litro"
-  ],
-  "littore": [
-    "litːore"
-  ],
-  "littorio": [
-    "litːɔrjo"
-  ],
-  "lituana": [
-    "lituana"
-  ],
-  "lituane": [
-    "lituane"
-  ],
-  "lituani": [
-    "lituani"
-  ],
-  "lituania": [
-    "lituanja"
-  ],
-  "lituano": [
-    "lituano"
-  ],
-  "lituo": [
-    "lituo"
-  ],
-  "liturgia": [
-    "liturdʒia",
-    "liturɡia"
-  ],
-  "liturgica": [
-    "liturdʒika"
-  ],
-  "liturgicamente": [
-    "liturdʒikamente"
-  ],
-  "liturgiche": [
-    "liturdʒike"
-  ],
-  "liturgici": [
-    "liturdʒitʃi"
-  ],
-  "liturgico": [
-    "liturdʒiko"
-  ],
-  "liturgie": [
-    "liturdʒie"
-  ],
-  "liturgista": [
-    "liturdʒista"
-  ],
-  "liturgiste": [
-    "liturdʒiste"
-  ],
-  "liturgisti": [
-    "liturdʒisti"
-  ],
-  "liturgo": [
-    "liturɡo"
-  ],
-  "liutaio": [
-    "ljutajo"
-  ],
-  "liutista": [
-    "ljutista"
-  ],
-  "liutiste": [
-    "ljutiste"
-  ],
-  "liutisti": [
-    "ljutisti"
-  ],
-  "live": [
-    "lajv"
-  ],
-  "livella": [
-    "livɛlːa"
-  ],
-  "livellamenti": [
-    "livelːamenti"
-  ],
-  "livellamento": [
-    "livelːamento"
-  ],
-  "livellato": [
-    "livelːato",
-    "livɛlːato"
-  ],
-  "livellatore": [
-    "livelːatore"
-  ],
-  "livelli": [
-    "livɛlːi"
-  ],
-  "livello": [
-    "livɛlːo",
-    "livɛlːɔ"
-  ],
-  "livermorio": [
-    "livermɔrjo"
-  ],
-  "livia": [
-    "livja"
-  ],
-  "lividi": [
-    "lividi"
-  ],
-  "livido": [
-    "livido"
-  ],
-  "livore": [
-    "livore"
-  ],
-  "livori": [
-    "livori"
-  ],
-  "livornese": [
-    "livornese",
-    "livorneze"
-  ],
-  "livornesi": [
-    "livornesi"
-  ],
-  "livorno": [
-    "livorno"
-  ],
-  "lizza": [
-    "litːsa"
-  ],
-  "lo": [
-    "lo"
-  ],
-  "loa": [
-    "lɔa"
-  ],
-  "lobbista": [
-    "lobːista"
-  ],
-  "lobbiste": [
-    "lobːiste"
-  ],
-  "lobbisti": [
-    "lobːisti"
-  ],
-  "lobby": [
-    "lɔbːi"
-  ],
-  "lobbycrazia": [
-    "lobːikratsia"
-  ],
-  "lobectomia": [
-    "lobektomia"
-  ],
-  "lobi": [
-    "lɔbi"
-  ],
-  "lobo": [
-    "lɔbo"
-  ],
-  "lobotomia": [
-    "lɔbotɔmia",
-    "lɔbotɔmja"
-  ],
-  "lobotomie": [
-    "lɔbotɔmie"
-  ],
-  "lobotomizzare": [
-    "lobotomidːzare"
-  ],
-  "locago": [
-    "lokaɡo"
-  ],
-  "locale": [
-    "lokale"
-  ],
-  "locali": [
-    "lokali"
-  ],
-  "località": [
-    "lokalita"
-  ],
-  "localizza": [
-    "lokalitːsa"
-  ],
-  "localizzai": [
-    "lokalitːsai"
-  ],
-  "localizzammo": [
-    "lokalitːsamːo"
-  ],
-  "localizzando": [
-    "lokalitːsando"
-  ],
-  "localizzano": [
-    "lokalitːsano"
-  ],
-  "localizzante": [
-    "lokalitːsaɲte"
-  ],
-  "localizzare": [
-    "lokalidːzare",
-    "lokalidːʒare"
-  ],
-  "localizzarono": [
-    "lokalitːsarono"
-  ],
-  "localizzarsi": [
-    "lokalitːsarsi"
-  ],
-  "localizzasse": [
-    "lokalitːsasːe"
-  ],
-  "localizzassero": [
-    "lokalitːsasːero"
-  ],
-  "localizzassi": [
-    "lokalitːsasːi"
-  ],
-  "localizzassimo": [
-    "lokalitːsasːimo"
-  ],
-  "localizzaste": [
-    "lokalitːsaste"
-  ],
-  "localizzasti": [
-    "lokalitːsasti"
-  ],
-  "localizzata": [
-    "lokalitːsata"
-  ],
-  "localizzate": [
-    "lokalitːsate"
-  ],
-  "localizzati": [
-    "lokalitːsati"
-  ],
-  "localizzato": [
-    "lokalitːsato"
-  ],
-  "localizzava": [
-    "lokalitːsava"
-  ],
-  "localizzavamo": [
-    "lokalitːsavamo"
-  ],
-  "localizzavano": [
-    "lokalitːsavano"
-  ],
-  "localizzavate": [
-    "lokalitːsavate"
-  ],
-  "localizzavi": [
-    "lokalitːsavi"
-  ],
-  "localizzavo": [
-    "lokalitːsavo"
-  ],
-  "localizzazione": [
-    "lokalidːzatːsjone",
-    "lokalidːʒatsjone"
-  ],
-  "localizzerà": [
-    "lokalitːsera"
-  ],
-  "localizzerai": [
-    "lokalitːserai"
-  ],
-  "localizzeranno": [
-    "lokalitːseranːo"
-  ],
-  "localizzerebbe": [
-    "lokalitːserebːe"
-  ],
-  "localizzerebbero": [
-    "lokalitːserebːero"
-  ],
-  "localizzerei": [
-    "lokalitːserei"
-  ],
-  "localizzeremmo": [
-    "lokalitːseremːo"
-  ],
-  "localizzeremo": [
-    "lokalitːseremo"
-  ],
-  "localizzereste": [
-    "lokalitːsereste"
-  ],
-  "localizzeresti": [
-    "lokalitːseresti"
-  ],
-  "localizzerete": [
-    "lokalitːserete"
-  ],
-  "localizzerò": [
-    "lokalitːsero"
-  ],
-  "localizzi": [
-    "lokalitːsi"
-  ],
-  "localizziamo": [
-    "lokalitːsiamo"
-  ],
-  "localizziate": [
-    "lokalitːsiate"
-  ],
-  "localizzino": [
-    "lokalitːsino"
-  ],
-  "localizzo": [
-    "lokalitːso"
-  ],
-  "localizzò": [
-    "lokalitːso"
-  ],
-  "localmente": [
-    "lokalmente"
-  ],
-  "locanda": [
-    "lokanda"
-  ],
-  "locandina": [
-    "lokandina"
-  ],
-  "locare": [
-    "lokare"
-  ],
-  "locatari": [
-    "lokatari"
-  ],
-  "locataria": [
-    "lokatarja"
-  ],
-  "locatarie": [
-    "lokatarje"
-  ],
-  "locatario": [
-    "lokatarjo"
-  ],
-  "locativo": [
-    "lokativo"
-  ],
-  "locatizio": [
-    "lokatitːsjo"
-  ],
-  "locatore": [
-    "lokatore"
-  ],
-  "locatrice": [
-    "lokatritʃe"
-  ],
-  "locatrici": [
-    "lokatritʃi"
-  ],
-  "locazione": [
-    "lokatsione",
-    "lokatːsjone"
-  ],
-  "lochi": [
-    "lɔki"
-  ],
-  "lockiano": [
-    "lo"
-  ],
-  "loco": [
-    "lɔko"
-  ],
-  "locomotiva": [
-    "lokomotiva",
-    "lɔkɔmɔtiva"
-  ],
-  "locomotive": [
-    "lɔkɔmɔtive"
-  ],
-  "locomotore": [
-    "lokomotore"
-  ],
-  "locomotorio": [
-    "lokomotɔrjo"
-  ],
-  "locomotrice": [
-    "lokomotritʃe"
-  ],
-  "locomozione": [
-    "lokomotːsjone"
-  ],
-  "loculi": [
-    "lɔkuli"
-  ],
-  "loculo": [
-    "lɔkulo"
-  ],
-  "locupleti": [
-    "lokuplɛti"
-  ],
-  "locus": [
-    "lɔkus"
-  ],
-  "locusta": [
-    "lokusta"
-  ],
-  "locuste": [
-    "lokuste"
-  ],
-  "locustoidei": [
-    "lokustojdɛi"
-  ],
-  "locustoideo": [
-    "lokustojdɛo"
-  ],
-  "locutore": [
-    "lokutore"
-  ],
-  "locutori": [
-    "lokutori"
-  ],
-  "locutrice": [
-    "lokutritʃe"
-  ],
-  "locutrici": [
-    "lokutritʃi"
-  ],
-  "locuzione": [
-    "lokutsione",
-    "lokutsjone",
-    "lokutːsjone"
-  ],
-  "locuzioni": [
-    "lokutsjoni"
-  ],
-  "lodante": [
-    "lodante"
-  ],
-  "lodare": [
-    "lodare"
-  ],
-  "lodarsi": [
-    "ladarsi",
-    "lodarsi"
-  ],
-  "lodatamente": [
-    "lodatamente"
-  ],
-  "lodativo": [
-    "lodativo"
-  ],
-  "lodato": [
-    "lodato"
-  ],
-  "lode": [
-    "lɔde"
-  ],
-  "lodevole": [
-    "lodevole"
-  ],
-  "lodevolmente": [
-    "lodevolmente"
-  ],
-  "lodigiano": [
-    "lodidʒano"
-  ],
-  "lodinese": [
-    "lodineze"
-  ],
-  "lodo": [
-    "lɔdo"
-  ],
-  "lodola": [
-    "lɔdola"
-  ],
-  "lodole": [
-    "lɔdole"
-  ],
-  "lodovica": [
-    "lodovika"
-  ],
-  "lodovico": [
-    "lodoviko"
-  ],
-  "loft": [
-    "lɔft"
-  ],
-  "logaritmi": [
-    "loɡaritmi"
-  ],
-  "logaritmo": [
-    "loɡaritmo"
-  ],
-  "loggia": [
-    "lɔdːʒa"
-  ],
-  "loggione": [
-    "lodːʒone"
-  ],
-  "loghi": [
-    "loɡi",
-    "lɔɡi"
-  ],
-  "logica": [
-    "lɔdʒika"
-  ],
-  "logicamente": [
-    "lodʒikamente"
-  ],
-  "logiche": [
-    "lodʒike"
-  ],
-  "logici": [
-    "lodʒitʃi"
-  ],
-  "logicismo": [
-    "lodʒitʃizmo"
-  ],
-  "logicità": [
-    "lodʒitʃita"
-  ],
-  "logico": [
-    "lɔdʒiko"
-  ],
-  "login": [
-    "loɡin"
-  ],
-  "logista": [
-    "lodʒista"
-  ],
-  "logistica": [
-    "lodʒistika"
-  ],
-  "logistico": [
-    "lodʒistiko"
-  ],
-  "loglio": [
-    "lɔʎo"
-  ],
-  "logo": [
-    "loɡo",
-    "lɔɡo"
-  ],
-  "logografia": [
-    "loɡoɡrafia"
-  ],
-  "logografico": [
-    "loɡoɡrafiko"
-  ],
-  "logografo": [
-    "loɡɔɡrafo"
-  ],
-  "logogrifo": [
-    "loɡoɡrifo"
-  ],
-  "logomachia": [
-    "loɡomakia",
-    "loɡomakja"
-  ],
-  "logopedia": [
-    "loɡopedia"
-  ],
-  "logopedista": [
-    "loɡopedista"
-  ],
-  "logopediste": [
-    "loɡopediste"
-  ],
-  "logopedisti": [
-    "loɡopedisti"
-  ],
-  "logorare": [
-    "loɡorare"
-  ],
-  "logorarsi": [
-    "loɡorarsi"
-  ],
-  "logorassi": [
-    "loɡorasːi"
-  ],
-  "logorato": [
-    "loɡorato"
-  ],
-  "logorio": [
-    "loɡorio"
-  ],
-  "logorizia": [
-    "loɡoritːsja"
-  ],
-  "logoro": [
-    "loɡoro"
-  ],
-  "logorrea": [
-    "loɡorːɛa"
-  ],
-  "logorroicamente": [
-    "loɡorːojkamente"
-  ],
-  "logorroico": [
-    "loɡorːɔjko"
-  ],
-  "logos": [
-    "lɔɡos"
-  ],
-  "logudorese": [
-    "loɡudorese",
-    "loɡudoreze"
-  ],
-  "lollove": [
-    "lolovɛ"
-  ],
-  "lombaggine": [
-    "lombadːʒine"
-  ],
-  "lombaggini": [
-    "lombadːʒini"
-  ],
-  "lombalgia": [
-    "lombaldʒia"
-  ],
-  "lombalgie": [
-    "lombaldʒie"
-  ],
-  "lombarda": [
-    "lombarda"
-  ],
-  "lombarde": [
-    "lombarde"
-  ],
-  "lombardia": [
-    "lombardia",
-    "lombardja"
-  ],
-  "lombardismo": [
-    "lombardizmo"
-  ],
-  "lombardo": [
-    "lombardo"
-  ],
-  "lombare": [
-    "lombare"
-  ],
-  "lombari": [
-    "lombare"
-  ],
-  "lombi": [
-    "lombi"
-  ],
-  "lombo": [
-    "lombo"
-  ],
-  "lombosacrale": [
-    "lombosakrale"
-  ],
-  "lombricaio": [
-    "lombrikajo"
-  ],
-  "lombrichi": [
-    "lombriki"
-  ],
-  "lombrico": [
-    "lombriko"
-  ],
-  "lombricoltura": [
-    "lombrikoltura"
-  ],
-  "lombricolture": [
-    "lombrikolture"
-  ],
-  "lombricompostaggi": [
-    "lombrikompostadːʒi"
-  ],
-  "lombricompostaggio": [
-    "lombrikompostadːʒo"
-  ],
-  "londinese": [
-    "londinese",
-    "londineze"
-  ],
-  "londra": [
-    "londra",
-    "lɔndra"
-  ],
-  "longanime": [
-    "lonɡanime"
-  ],
-  "longevità": [
-    "londʒevita"
-  ],
-  "longevo": [
-    "londʒɛvo"
-  ],
-  "longherone": [
-    "loɲɡerone"
-  ],
-  "longheroni": [
-    "loɲɡeroni"
-  ],
-  "longilineo": [
-    "londʒilineo"
-  ],
-  "longitudinale": [
-    "londʒitudinale"
-  ],
-  "longitudinali": [
-    "londʒitudinali"
-  ],
-  "longitudinalmente": [
-    "londʒitudinalmente"
-  ],
-  "longitudine": [
-    "londʒitudine",
-    "loɲdʒitudine"
-  ],
-  "longo": [
-    "lɔnɡo"
-  ],
-  "longobardo": [
-    "lonɡobardo"
-  ],
-  "lontanamente": [
-    "lontanamente"
-  ],
-  "lontananza": [
-    "lontanantsa"
-  ],
-  "lontananze": [
-    "lontanantse"
-  ],
-  "lontano": [
-    "lontano",
-    "lɔntanɔ"
-  ],
-  "lontra": [
-    "lontra"
-  ],
-  "lontre": [
-    "lontre"
-  ],
-  "lonza": [
-    "lontsa"
-  ],
-  "look": [
-    "luk"
-  ],
-  "loppaio": [
-    "lopːajo"
-  ],
-  "loquace": [
-    "lokuatʃe",
-    "lokwatʃe"
-  ],
-  "loquacemente": [
-    "lokwatʃemente"
-  ],
-  "loquaci": [
-    "lokwatʃi"
-  ],
-  "loquacità": [
-    "lokwatʃita"
-  ],
-  "loquela": [
-    "lokwɛla"
-  ],
-  "lord": [
-    "lɔrd"
-  ],
-  "lorda": [
-    "lorda"
-  ],
-  "lordamente": [
-    "lordamente"
-  ],
-  "lordare": [
-    "lordare"
-  ],
-  "lorde": [
-    "lorde"
-  ],
-  "lordi": [
-    "lordi"
-  ],
-  "lordo": [
-    "lordo"
-  ],
-  "lordura": [
-    "lordura"
-  ],
-  "loredana": [
-    "loredana"
-  ],
-  "loredano": [
-    "loredano"
-  ],
-  "lorena": [
-    "lorɛna"
-  ],
-  "lorenese": [
-    "lorenɛse"
-  ],
-  "lorenesi": [
-    "lorenɛsi"
-  ],
-  "loreno": [
-    "lorɛno"
-  ],
-  "lorenzo": [
-    "lorɛntso"
-  ],
-  "lori": [
-    "lɔri"
-  ],
-  "loro": [
-    "loro",
-    "lɔro"
-  ],
-  "losanga": [
-    "losaɲɡa",
-    "lozanɡa"
-  ],
-  "losangelino": [
-    "losandʒelino"
-  ],
-  "losca": [
-    "loska"
-  ],
-  "losche": [
-    "loske"
-  ],
-  "loschi": [
-    "loski"
-  ],
-  "losco": [
-    "losko"
-  ],
-  "lossodromia": [
-    "losːodromia",
-    "losːodrɔmja"
-  ],
-  "lotaringio": [
-    "lotarindʒo"
-  ],
-  "loto": [
-    "loto",
-    "lɔto"
-  ],
-  "lotofaga": [
-    "lotɔfaɡa"
-  ],
-  "lotofaghe": [
-    "lotɔfaɡe"
-  ],
-  "lotofagi": [
-    "lotɔfadʒi"
-  ],
-  "lotofago": [
-    "lotɔfaɡo"
-  ],
-  "lotta": [
-    "lɔtːa"
-  ],
-  "lottare": [
-    "lotːare",
-    "lɔtːare"
-  ],
-  "lottatore": [
-    "lotːatore",
-    "lɔtːatore"
-  ],
-  "lottatori": [
-    "lɔtːatori"
-  ],
-  "lottatrice": [
-    "lɔtːatritʃe"
-  ],
-  "lottatrici": [
-    "lɔtːatritʃi"
-  ],
-  "lotteria": [
-    "lotːeria"
-  ],
-  "lotterie": [
-    "lotːerie"
-  ],
-  "lotto": [
-    "lɔtːo"
-  ],
-  "lovato": [
-    "lovato"
-  ],
-  "lozione": [
-    "lotːsjone"
-  ],
-  "lozioni": [
-    "lotːsjoni"
-  ],
-  "lubecchio": [
-    "lubekːjo"
-  ],
-  "lubrica": [
-    "lubrika"
-  ],
-  "lubricare": [
-    "lubrifikare"
-  ],
-  "lubriche": [
-    "lubrikr"
-  ],
-  "lubrici": [
-    "lubritʃi"
-  ],
-  "lubrico": [
-    "lubriko"
-  ],
-  "lubrificante": [
-    "lubrifikante"
-  ],
-  "lubrificanti": [
-    "lubrifikante"
-  ],
-  "lubrificare": [
-    "lubrifikare"
-  ],
-  "lubrificata": [
-    "lubrifikata"
-  ],
-  "lubrificate": [
-    "lubrifikate"
-  ],
-  "lubrificati": [
-    "lubrifikati"
-  ],
-  "lubrificato": [
-    "lubrifikato"
-  ],
-  "lubrificazione": [
-    "lubrifikatːsjone"
-  ],
-  "lubrificazioni": [
-    "lubrifikatːsjoni"
-  ],
-  "lubrorefrigerante": [
-    "lubrorefridʒerate"
-  ],
-  "luca": [
-    "luka"
-  ],
-  "lucana": [
-    "lukana"
-  ],
-  "lucane": [
-    "lukane"
-  ],
-  "lucani": [
-    "lukani"
-  ],
-  "lucania": [
-    "lukanja"
-  ],
-  "lucanidi": [
-    "lukanidi"
-  ],
-  "lucano": [
-    "lukano"
-  ],
-  "lucchese": [
-    "lukːese",
-    "lukːeze"
-  ],
-  "lucchettabile": [
-    "lukːetːabile"
-  ],
-  "lucchettabili": [
-    "lukːetːabili"
-  ],
-  "lucchetti": [
-    "lukːetːi"
-  ],
-  "lucchetto": [
-    "lukːetːo"
-  ],
-  "lucci": [
-    "lutːi"
-  ],
-  "luccicante": [
-    "lutːʃikante"
-  ],
-  "luccicare": [
-    "lutːʃikare"
-  ],
-  "luccio": [
-    "lutːʃo"
-  ],
-  "lucciola": [
-    "lutːʃola"
-  ],
-  "lucciole": [
-    "lutːʃole"
-  ],
-  "luce": [
-    "lutʃe"
-  ],
-  "lucente": [
-    "lutʃɛnte"
-  ],
-  "lucentemente": [
-    "lutʃentemente"
-  ],
-  "lucentezza": [
-    "lutʃentetːsa"
-  ],
-  "lucentezze": [
-    "lutʃentetːse"
-  ],
-  "lucere": [
-    "lutʃere"
-  ],
-  "lucerna": [
-    "lutʃɛrna"
-  ],
-  "lucerne": [
-    "lutʃɛrne"
-  ],
-  "lucertola": [
-    "lutʃɛrtola"
-  ],
-  "lucertole": [
-    "lutʃɛrtole"
-  ],
-  "lucertolo": [
-    "lutʃɛrtolo"
-  ],
-  "lucetta": [
-    "lutʃetːa"
-  ],
-  "lucherino": [
-    "lukerino"
-  ],
-  "luci": [
-    "lutʃi"
-  ],
-  "lucia": [
-    "lutʃia"
-  ],
-  "lucida": [
-    "lutʃida"
-  ],
-  "lucidalabbra": [
-    "lutʃidalabːra"
-  ],
-  "lucidamente": [
-    "lutʃidamente"
-  ],
-  "lucidare": [
-    "lutʃidare"
-  ],
-  "lucidatura": [
-    "lutʃidatura"
-  ],
-  "lucidature": [
-    "lutʃidature"
-  ],
-  "lucide": [
-    "lutʃide"
-  ],
-  "lucidi": [
-    "lutʃidi"
-  ],
-  "lucidità": [
-    "lutʃidita"
-  ],
-  "lucido": [
-    "lutʃido"
-  ],
-  "luciferasi": [
-    "lutʃiferazi"
-  ],
-  "luciferiano": [
-    "lutʃiferjano"
-  ],
-  "luciferico": [
-    "lutʃifɛriko"
-  ],
-  "luciferina": [
-    "lutʃiferina"
-  ],
-  "luciferino": [
-    "lutʃiferino"
-  ],
-  "lucifero": [
-    "lutʃifero"
-  ],
-  "lucifuga": [
-    "lutʃifuɡa"
-  ],
-  "lucifughe": [
-    "lutʃifuɡe"
-  ],
-  "lucifughi": [
-    "lutʃifuɡi"
-  ],
-  "lucifugo": [
-    "lutʃifuɡo"
-  ],
-  "lucio": [
-    "lutʃo"
-  ],
-  "luco": [
-    "luko"
-  ],
-  "lucrare": [
-    "lukrare"
-  ],
-  "lucrativo": [
-    "lukrativo"
-  ],
-  "lucri": [
-    "lukri"
-  ],
-  "lucro": [
-    "lukro"
-  ],
-  "lucrosa": [
-    "lukroza"
-  ],
-  "lucrose": [
-    "lukroze"
-  ],
-  "lucrosi": [
-    "lukrozi"
-  ],
-  "lucroso": [
-    "lukrozɔ"
-  ],
-  "luculento": [
-    "lukulɛnto"
-  ],
-  "lucullianamente": [
-    "lukulːjanamente"
-  ],
-  "luculliano": [
-    "lukulːjano"
-  ],
-  "lucumone": [
-    "lukumone"
-  ],
-  "lucumonia": [
-    "lukumɔnja"
-  ],
-  "ludere": [
-    "ludere"
-  ],
-  "ludibrio": [
-    "ludibrjo"
-  ],
-  "ludica": [
-    "ludika"
-  ],
-  "ludiche": [
-    "ludike"
-  ],
-  "ludici": [
-    "luditʃi"
-  ],
-  "ludico": [
-    "ludiko"
-  ],
-  "ludione": [
-    "ludjone"
-  ],
-  "ludo": [
-    "ludo"
-  ],
-  "ludoteca": [
-    "ludotɛka"
-  ],
-  "ludoteche": [
-    "ludotɛke"
-  ],
-  "ludovica": [
-    "ludovika"
-  ],
-  "ludovico": [
-    "ludoviko"
-  ],
-  "lue": [
-    "lue"
-  ],
-  "luetico": [
-    "luetiko"
-  ],
-  "luglio": [
-    "luʎo"
-  ],
-  "lugo": [
-    "luɡo"
-  ],
-  "lugubre": [
-    "luɡubre"
-  ],
-  "lui": [
-    "lui",
-    "luj"
-  ],
-  "luì": [
-    "lui"
-  ],
-  "luigi": [
-    "luidʒi",
-    "lwidʒi"
-  ],
-  "luisa": [
-    "luiza"
-  ],
-  "luisiana": [
-    "lujzjana"
-  ],
-  "lumaca": [
-    "lumaka"
-  ],
-  "lumache": [
-    "lumake"
-  ],
-  "lumachella": [
-    "lumakɛlːa"
-  ],
-  "lumachicida": [
-    "lumakitʃida"
-  ],
-  "lumacoso": [
-    "lumakozo"
-  ],
-  "lume": [
-    "lume"
-  ],
-  "lumi": [
-    "lumi"
-  ],
-  "lumicino": [
-    "lumitʃino"
-  ],
-  "lumiera": [
-    "lumjɛra"
-  ],
-  "luminanza": [
-    "luminantsa"
-  ],
-  "luminanze": [
-    "luminantse"
-  ],
-  "luminare": [
-    "luminare"
-  ],
-  "luminaria": [
-    "luminarja"
-  ],
-  "luminario": [
-    "luminarjo"
-  ],
-  "luminescente": [
-    "lumineʃʃɛnte"
-  ],
-  "luminescenti": [
-    "lumineʃʃɛnti"
-  ],
-  "luminescenza": [
-    "lumineʃʃɛntsa"
-  ],
-  "luminescenze": [
-    "lumineʃʃɛntse"
-  ],
-  "luminio": [
-    "luminio"
-  ],
-  "luminismo": [
-    "luminizmo"
-  ],
-  "luminista": [
-    "luminista"
-  ],
-  "luministica": [
-    "luministika"
-  ],
-  "luministico": [
-    "luministiko"
-  ],
-  "lumino": [
-    "lumino"
-  ],
-  "luminosa": [
-    "luminosa"
-  ],
-  "luminose": [
-    "luminose"
-  ],
-  "luminosi": [
-    "luminosi"
-  ],
-  "luminosità": [
-    "luminosita"
-  ],
-  "luminoso": [
-    "luminoso",
-    "luminozo"
-  ],
-  "luna": [
-    "luna"
-  ],
-  "lunare": [
-    "lunare"
-  ],
-  "lunario": [
-    "lunarjo"
-  ],
-  "lunatica": [
-    "lunatika"
-  ],
-  "lunatiche": [
-    "lunatike"
-  ],
-  "lunatici": [
-    "lunatitʃi"
-  ],
-  "lunatico": [
-    "lunatiko"
-  ],
-  "lunato": [
-    "lunato"
-  ],
-  "lunazione": [
-    "lunatːsjone"
-  ],
-  "lune": [
-    "lune"
-  ],
-  "lunedì": [
-    "lunedi"
-  ],
-  "lunella": [
-    "lunɛlːa"
-  ],
-  "lunello": [
-    "lunɛlːo"
-  ],
-  "lunense": [
-    "lunɛnse"
-  ],
-  "lunensi": [
-    "lunɛnsi"
-  ],
-  "lunetta": [
-    "lunetːa",
-    "lunɛtːa"
-  ],
-  "lunga": [
-    "luɲɡa"
-  ],
-  "lungaggine": [
-    "lunɡadːʒine"
-  ],
-  "lungamente": [
-    "lunɡamente"
-  ],
-  "lungarno": [
-    "lunɡarno",
-    "luɲɡarno"
-  ],
-  "lunge": [
-    "lundʒe"
-  ],
-  "lunghe": [
-    "luɲɡe"
-  ],
-  "lungherone": [
-    "luɲɡerone"
-  ],
-  "lungheroni": [
-    "luɲɡeroni"
-  ],
-  "lunghezza": [
-    "lunɡetːsa"
-  ],
-  "lunghezze": [
-    "lunɡetːse"
-  ],
-  "lunghi": [
-    "luɲɡi"
-  ],
-  "lunghissima": [
-    "luɲɡisːima"
-  ],
-  "lunghissime": [
-    "luɲɡisːime"
-  ],
-  "lunghissimi": [
-    "luɲɡisːimi"
-  ],
-  "lunghissimo": [
-    "lunɡisːimo",
-    "luɲɡisːimo"
-  ],
-  "lunghista": [
-    "lunɡista"
-  ],
-  "lunghiste": [
-    "lunɡiste"
-  ],
-  "lunghisti": [
-    "lunɡisti"
-  ],
-  "lungi": [
-    "lundʒi"
-  ],
-  "lungimirante": [
-    "lundʒimirante",
-    "luɲdʒimirante"
-  ],
-  "lungimiranza": [
-    "lunʒimirantsa"
-  ],
-  "lungo": [
-    "lunɡo",
-    "lunɡɔ",
-    "luɲɡo"
-  ],
-  "lungofiume": [
-    "luɲɡofjume"
-  ],
-  "lungofiumi": [
-    "luɲɡofjumi"
-  ],
-  "lungolaghi": [
-    "luɲɡolaɡi"
-  ],
-  "lungolago": [
-    "luɲɡolaɡo"
-  ],
-  "lungomare": [
-    "lunɡomare"
-  ],
-  "lungomari": [
-    "lunɡomari"
-  ],
-  "lungometraggi": [
-    "lunɡometːradːʒi"
-  ],
-  "lungometraggio": [
-    "lunɡometradːʒo",
-    "lunɡometːradːʒo"
-  ],
-  "lungosenna": [
-    "lunɡosenːa",
-    "lunɡosɛnːa",
-    "luɲɡosenːa"
-  ],
-  "lungotevere": [
-    "lunɡotevere",
-    "luɲɡotevere"
-  ],
-  "lungoteveri": [
-    "luɲɡoteveri"
-  ],
-  "lunina": [
-    "lunina"
-  ],
-  "lunisolare": [
-    "lunisolare"
-  ],
-  "lunotto": [
-    "lunɔtːo"
-  ],
-  "luoghi": [
-    "lwɔɡi"
-  ],
-  "luogo": [
-    "luɔɡo",
-    "lwɔɡo",
-    "lwɔɡɔ"
-  ],
-  "luogotenente": [
-    "lwoɡotenɛnte"
-  ],
-  "lupa": [
-    "lupa"
-  ],
-  "lupanare": [
-    "lupanare"
-  ],
-  "lupanari": [
-    "lupanari"
-  ],
-  "lupara": [
-    "lupara"
-  ],
-  "luparia": [
-    "luparja"
-  ],
-  "lupicante": [
-    "lupikante"
-  ],
-  "lupinella": [
-    "lupinɛlːa"
-  ],
-  "lupini": [
-    "lupini"
-  ],
-  "lupino": [
-    "lupino"
-  ],
-  "lupo": [
-    "lupo"
-  ],
-  "luppolamenti": [
-    "lupːolamenti"
-  ],
-  "luppolamento": [
-    "lupːolamento"
-  ],
-  "luppolatura": [
-    "lupːolatura"
-  ],
-  "luppolature": [
-    "lupːolature"
-  ],
-  "luppoli": [
-    "lupːoli"
-  ],
-  "luppolo": [
-    "lupːolo"
-  ],
-  "lurido": [
-    "lurido"
-  ],
-  "lusazia": [
-    "luzatsja"
-  ]
+  "litoteche": "litotɛke",
+  "litotecnica": "litotɛknika",
+  "litoti": "litɔti",
+  "litri": "litri",
+  "litro": "litro",
+  "littore": "litːore",
+  "littorio": "litːɔrjo",
+  "lituana": "lituana",
+  "lituane": "lituane",
+  "lituani": "lituani",
+  "lituania": "lituanja",
+  "lituano": "lituano",
+  "lituo": "lituo",
+  "liturgia": "liturdʒia",
+  "liturgia_2": "liturɡia",
+  "liturgica": "liturdʒika",
+  "liturgicamente": "liturdʒikamente",
+  "liturgiche": "liturdʒike",
+  "liturgici": "liturdʒitʃi",
+  "liturgico": "liturdʒiko",
+  "liturgie": "liturdʒie",
+  "liturgista": "liturdʒista",
+  "liturgiste": "liturdʒiste",
+  "liturgisti": "liturdʒisti",
+  "liturgo": "liturɡo",
+  "liutaio": "ljutajo",
+  "liutista": "ljutista",
+  "liutiste": "ljutiste",
+  "liutisti": "ljutisti",
+  "live": "lajv",
+  "livella": "livɛlːa",
+  "livellamenti": "livelːamenti",
+  "livellamento": "livelːamento",
+  "livellato": "livelːato",
+  "livellato_2": "livɛlːato",
+  "livellatore": "livelːatore",
+  "livelli": "livɛlːi",
+  "livello": "livɛlːo",
+  "livello_2": "livɛlːɔ",
+  "livermorio": "livermɔrjo",
+  "livia": "livja",
+  "lividi": "lividi",
+  "livido": "livido",
+  "livore": "livore",
+  "livori": "livori",
+  "livornese": "livornese",
+  "livornese_2": "livorneze",
+  "livornesi": "livornesi",
+  "livorno": "livorno",
+  "lizza": "litːsa",
+  "lo": "lo",
+  "loa": "lɔa",
+  "lobbista": "lobːista",
+  "lobbiste": "lobːiste",
+  "lobbisti": "lobːisti",
+  "lobby": "lɔbːi",
+  "lobbycrazia": "lobːikratsia",
+  "lobectomia": "lobektomia",
+  "lobi": "lɔbi",
+  "lobo": "lɔbo",
+  "lobotomia": "lɔbotɔmia",
+  "lobotomia_2": "lɔbotɔmja",
+  "lobotomie": "lɔbotɔmie",
+  "lobotomizzare": "lobotomidːzare",
+  "locago": "lokaɡo",
+  "locale": "lokale",
+  "locali": "lokali",
+  "località": "lokalita",
+  "localizza": "lokalitːsa",
+  "localizzai": "lokalitːsai",
+  "localizzammo": "lokalitːsamːo",
+  "localizzando": "lokalitːsando",
+  "localizzano": "lokalitːsano",
+  "localizzante": "lokalitːsaɲte",
+  "localizzare": "lokalidːzare",
+  "localizzare_2": "lokalidːʒare",
+  "localizzarono": "lokalitːsarono",
+  "localizzarsi": "lokalitːsarsi",
+  "localizzasse": "lokalitːsasːe",
+  "localizzassero": "lokalitːsasːero",
+  "localizzassi": "lokalitːsasːi",
+  "localizzassimo": "lokalitːsasːimo",
+  "localizzaste": "lokalitːsaste",
+  "localizzasti": "lokalitːsasti",
+  "localizzata": "lokalitːsata",
+  "localizzate": "lokalitːsate",
+  "localizzati": "lokalitːsati",
+  "localizzato": "lokalitːsato",
+  "localizzava": "lokalitːsava",
+  "localizzavamo": "lokalitːsavamo",
+  "localizzavano": "lokalitːsavano",
+  "localizzavate": "lokalitːsavate",
+  "localizzavi": "lokalitːsavi",
+  "localizzavo": "lokalitːsavo",
+  "localizzazione": "lokalidːzatːsjone",
+  "localizzazione_2": "lokalidːʒatsjone",
+  "localizzerà": "lokalitːsera",
+  "localizzerai": "lokalitːserai",
+  "localizzeranno": "lokalitːseranːo",
+  "localizzerebbe": "lokalitːserebːe",
+  "localizzerebbero": "lokalitːserebːero",
+  "localizzerei": "lokalitːserei",
+  "localizzeremmo": "lokalitːseremːo",
+  "localizzeremo": "lokalitːseremo",
+  "localizzereste": "lokalitːsereste",
+  "localizzeresti": "lokalitːseresti",
+  "localizzerete": "lokalitːserete",
+  "localizzerò": "lokalitːsero",
+  "localizzi": "lokalitːsi",
+  "localizziamo": "lokalitːsiamo",
+  "localizziate": "lokalitːsiate",
+  "localizzino": "lokalitːsino",
+  "localizzo": "lokalitːso",
+  "localizzò": "lokalitːso",
+  "localmente": "lokalmente",
+  "locanda": "lokanda",
+  "locandina": "lokandina",
+  "locare": "lokare",
+  "locatari": "lokatari",
+  "locataria": "lokatarja",
+  "locatarie": "lokatarje",
+  "locatario": "lokatarjo",
+  "locativo": "lokativo",
+  "locatizio": "lokatitːsjo",
+  "locatore": "lokatore",
+  "locatrice": "lokatritʃe",
+  "locatrici": "lokatritʃi",
+  "locazione": "lokatsione",
+  "locazione_2": "lokatːsjone",
+  "lochi": "lɔki",
+  "lockiano": "lo",
+  "loco": "lɔko",
+  "locomotiva": "lokomotiva",
+  "locomotiva_2": "lɔkɔmɔtiva",
+  "locomotive": "lɔkɔmɔtive",
+  "locomotore": "lokomotore",
+  "locomotorio": "lokomotɔrjo",
+  "locomotrice": "lokomotritʃe",
+  "locomozione": "lokomotːsjone",
+  "loculi": "lɔkuli",
+  "loculo": "lɔkulo",
+  "locupleti": "lokuplɛti",
+  "locus": "lɔkus",
+  "locusta": "lokusta",
+  "locuste": "lokuste",
+  "locustoidei": "lokustojdɛi",
+  "locustoideo": "lokustojdɛo",
+  "locutore": "lokutore",
+  "locutori": "lokutori",
+  "locutrice": "lokutritʃe",
+  "locutrici": "lokutritʃi",
+  "locuzione": "lokutsione",
+  "locuzione_2": "lokutsjone",
+  "locuzione_3": "lokutːsjone",
+  "locuzioni": "lokutsjoni",
+  "lodante": "lodante",
+  "lodare": "lodare",
+  "lodarsi": "ladarsi",
+  "lodarsi_2": "lodarsi",
+  "lodatamente": "lodatamente",
+  "lodativo": "lodativo",
+  "lodato": "lodato",
+  "lode": "lɔde",
+  "lodevole": "lodevole",
+  "lodevolmente": "lodevolmente",
+  "lodigiano": "lodidʒano",
+  "lodinese": "lodineze",
+  "lodo": "lɔdo",
+  "lodola": "lɔdola",
+  "lodole": "lɔdole",
+  "lodovica": "lodovika",
+  "lodovico": "lodoviko",
+  "loft": "lɔft",
+  "logaritmi": "loɡaritmi",
+  "logaritmo": "loɡaritmo",
+  "loggia": "lɔdːʒa",
+  "loggione": "lodːʒone",
+  "loghi": "loɡi",
+  "loghi_2": "lɔɡi",
+  "logica": "lɔdʒika",
+  "logicamente": "lodʒikamente",
+  "logiche": "lodʒike",
+  "logici": "lodʒitʃi",
+  "logicismo": "lodʒitʃizmo",
+  "logicità": "lodʒitʃita",
+  "logico": "lɔdʒiko",
+  "login": "loɡin",
+  "logista": "lodʒista",
+  "logistica": "lodʒistika",
+  "logistico": "lodʒistiko",
+  "loglio": "lɔʎo",
+  "logo": "loɡo",
+  "logo_2": "lɔɡo",
+  "logografia": "loɡoɡrafia",
+  "logografico": "loɡoɡrafiko",
+  "logografo": "loɡɔɡrafo",
+  "logogrifo": "loɡoɡrifo",
+  "logomachia": "loɡomakia",
+  "logomachia_2": "loɡomakja",
+  "logopedia": "loɡopedia",
+  "logopedista": "loɡopedista",
+  "logopediste": "loɡopediste",
+  "logopedisti": "loɡopedisti",
+  "logorare": "loɡorare",
+  "logorarsi": "loɡorarsi",
+  "logorassi": "loɡorasːi",
+  "logorato": "loɡorato",
+  "logorio": "loɡorio",
+  "logorizia": "loɡoritːsja",
+  "logoro": "loɡoro",
+  "logorrea": "loɡorːɛa",
+  "logorroicamente": "loɡorːojkamente",
+  "logorroico": "loɡorːɔjko",
+  "logos": "lɔɡos",
+  "logudorese": "loɡudorese",
+  "logudorese_2": "loɡudoreze",
+  "lollove": "lolovɛ",
+  "lombaggine": "lombadːʒine",
+  "lombaggini": "lombadːʒini",
+  "lombalgia": "lombaldʒia",
+  "lombalgie": "lombaldʒie",
+  "lombarda": "lombarda",
+  "lombarde": "lombarde",
+  "lombardia": "lombardia",
+  "lombardia_2": "lombardja",
+  "lombardismo": "lombardizmo",
+  "lombardo": "lombardo",
+  "lombare": "lombare",
+  "lombari": "lombare",
+  "lombi": "lombi",
+  "lombo": "lombo",
+  "lombosacrale": "lombosakrale",
+  "lombricaio": "lombrikajo",
+  "lombrichi": "lombriki",
+  "lombrico": "lombriko",
+  "lombricoltura": "lombrikoltura",
+  "lombricolture": "lombrikolture",
+  "lombricompostaggi": "lombrikompostadːʒi",
+  "lombricompostaggio": "lombrikompostadːʒo",
+  "londinese": "londinese",
+  "londinese_2": "londineze",
+  "londra": "londra",
+  "londra_2": "lɔndra",
+  "longanime": "lonɡanime",
+  "longevità": "londʒevita",
+  "longevo": "londʒɛvo",
+  "longherone": "loɲɡerone",
+  "longheroni": "loɲɡeroni",
+  "longilineo": "londʒilineo",
+  "longitudinale": "londʒitudinale",
+  "longitudinali": "londʒitudinali",
+  "longitudinalmente": "londʒitudinalmente",
+  "longitudine": "londʒitudine",
+  "longitudine_2": "loɲdʒitudine",
+  "longo": "lɔnɡo",
+  "longobardo": "lonɡobardo",
+  "lontanamente": "lontanamente",
+  "lontananza": "lontanantsa",
+  "lontananze": "lontanantse",
+  "lontano": "lontano",
+  "lontano_2": "lɔntanɔ",
+  "lontra": "lontra",
+  "lontre": "lontre",
+  "lonza": "lontsa",
+  "look": "luk",
+  "loppaio": "lopːajo",
+  "loquace": "lokuatʃe",
+  "loquace_2": "lokwatʃe",
+  "loquacemente": "lokwatʃemente",
+  "loquaci": "lokwatʃi",
+  "loquacità": "lokwatʃita",
+  "loquela": "lokwɛla",
+  "lord": "lɔrd",
+  "lorda": "lorda",
+  "lordamente": "lordamente",
+  "lordare": "lordare",
+  "lorde": "lorde",
+  "lordi": "lordi",
+  "lordo": "lordo",
+  "lordura": "lordura",
+  "loredana": "loredana",
+  "loredano": "loredano",
+  "lorena": "lorɛna",
+  "lorenese": "lorenɛse",
+  "lorenesi": "lorenɛsi",
+  "loreno": "lorɛno",
+  "lorenzo": "lorɛntso",
+  "lori": "lɔri",
+  "loro": "loro",
+  "loro_2": "lɔro",
+  "losanga": "losaɲɡa",
+  "losanga_2": "lozanɡa",
+  "losangelino": "losandʒelino",
+  "losca": "loska",
+  "losche": "loske",
+  "loschi": "loski",
+  "losco": "losko",
+  "lossodromia": "losːodromia",
+  "lossodromia_2": "losːodrɔmja",
+  "lotaringio": "lotarindʒo",
+  "loto": "loto",
+  "loto_2": "lɔto",
+  "lotofaga": "lotɔfaɡa",
+  "lotofaghe": "lotɔfaɡe",
+  "lotofagi": "lotɔfadʒi",
+  "lotofago": "lotɔfaɡo",
+  "lotta": "lɔtːa",
+  "lottare": "lotːare",
+  "lottare_2": "lɔtːare",
+  "lottatore": "lotːatore",
+  "lottatore_2": "lɔtːatore",
+  "lottatori": "lɔtːatori",
+  "lottatrice": "lɔtːatritʃe",
+  "lottatrici": "lɔtːatritʃi",
+  "lotteria": "lotːeria",
+  "lotterie": "lotːerie",
+  "lotto": "lɔtːo",
+  "lovato": "lovato",
+  "lozione": "lotːsjone",
+  "lozioni": "lotːsjoni",
+  "lubecchio": "lubekːjo",
+  "lubrica": "lubrika",
+  "lubricare": "lubrifikare",
+  "lubriche": "lubrikr",
+  "lubrici": "lubritʃi",
+  "lubrico": "lubriko",
+  "lubrificante": "lubrifikante",
+  "lubrificanti": "lubrifikante",
+  "lubrificare": "lubrifikare",
+  "lubrificata": "lubrifikata",
+  "lubrificate": "lubrifikate",
+  "lubrificati": "lubrifikati",
+  "lubrificato": "lubrifikato",
+  "lubrificazione": "lubrifikatːsjone",
+  "lubrificazioni": "lubrifikatːsjoni",
+  "lubrorefrigerante": "lubrorefridʒerate",
+  "luca": "luka",
+  "lucana": "lukana",
+  "lucane": "lukane",
+  "lucani": "lukani",
+  "lucania": "lukanja",
+  "lucanidi": "lukanidi",
+  "lucano": "lukano",
+  "lucchese": "lukːese",
+  "lucchese_2": "lukːeze",
+  "lucchettabile": "lukːetːabile",
+  "lucchettabili": "lukːetːabili",
+  "lucchetti": "lukːetːi",
+  "lucchetto": "lukːetːo",
+  "lucci": "lutːi",
+  "luccicante": "lutːʃikante",
+  "luccicare": "lutːʃikare",
+  "luccio": "lutːʃo",
+  "lucciola": "lutːʃola",
+  "lucciole": "lutːʃole",
+  "luce": "lutʃe",
+  "lucente": "lutʃɛnte",
+  "lucentemente": "lutʃentemente",
+  "lucentezza": "lutʃentetːsa",
+  "lucentezze": "lutʃentetːse",
+  "lucere": "lutʃere",
+  "lucerna": "lutʃɛrna",
+  "lucerne": "lutʃɛrne",
+  "lucertola": "lutʃɛrtola",
+  "lucertole": "lutʃɛrtole",
+  "lucertolo": "lutʃɛrtolo",
+  "lucetta": "lutʃetːa",
+  "lucherino": "lukerino",
+  "luci": "lutʃi",
+  "lucia": "lutʃia",
+  "lucida": "lutʃida",
+  "lucidalabbra": "lutʃidalabːra",
+  "lucidamente": "lutʃidamente",
+  "lucidare": "lutʃidare",
+  "lucidatura": "lutʃidatura",
+  "lucidature": "lutʃidature",
+  "lucide": "lutʃide",
+  "lucidi": "lutʃidi",
+  "lucidità": "lutʃidita",
+  "lucido": "lutʃido",
+  "luciferasi": "lutʃiferazi",
+  "luciferiano": "lutʃiferjano",
+  "luciferico": "lutʃifɛriko",
+  "luciferina": "lutʃiferina",
+  "luciferino": "lutʃiferino",
+  "lucifero": "lutʃifero",
+  "lucifuga": "lutʃifuɡa",
+  "lucifughe": "lutʃifuɡe",
+  "lucifughi": "lutʃifuɡi",
+  "lucifugo": "lutʃifuɡo",
+  "lucio": "lutʃo",
+  "luco": "luko",
+  "lucrare": "lukrare",
+  "lucrativo": "lukrativo",
+  "lucri": "lukri",
+  "lucro": "lukro",
+  "lucrosa": "lukroza",
+  "lucrose": "lukroze",
+  "lucrosi": "lukrozi",
+  "lucroso": "lukrozɔ",
+  "luculento": "lukulɛnto",
+  "lucullianamente": "lukulːjanamente",
+  "luculliano": "lukulːjano",
+  "lucumone": "lukumone",
+  "lucumonia": "lukumɔnja",
+  "ludere": "ludere",
+  "ludibrio": "ludibrjo",
+  "ludica": "ludika",
+  "ludiche": "ludike",
+  "ludici": "luditʃi",
+  "ludico": "ludiko",
+  "ludione": "ludjone",
+  "ludo": "ludo",
+  "ludoteca": "ludotɛka",
+  "ludoteche": "ludotɛke",
+  "ludovica": "ludovika",
+  "ludovico": "ludoviko",
+  "lue": "lue",
+  "luetico": "luetiko",
+  "luglio": "luʎo",
+  "lugo": "luɡo",
+  "lugubre": "luɡubre",
+  "lui": "lui",
+  "lui_2": "luj",
+  "luì": "lui",
+  "luigi": "luidʒi",
+  "luigi_2": "lwidʒi",
+  "luisa": "luiza",
+  "luisiana": "lujzjana",
+  "lumaca": "lumaka",
+  "lumache": "lumake",
+  "lumachella": "lumakɛlːa",
+  "lumachicida": "lumakitʃida",
+  "lumacoso": "lumakozo",
+  "lume": "lume",
+  "lumi": "lumi",
+  "lumicino": "lumitʃino",
+  "lumiera": "lumjɛra",
+  "luminanza": "luminantsa",
+  "luminanze": "luminantse",
+  "luminare": "luminare",
+  "luminaria": "luminarja",
+  "luminario": "luminarjo",
+  "luminescente": "lumineʃʃɛnte",
+  "luminescenti": "lumineʃʃɛnti",
+  "luminescenza": "lumineʃʃɛntsa",
+  "luminescenze": "lumineʃʃɛntse",
+  "luminio": "luminio",
+  "luminismo": "luminizmo",
+  "luminista": "luminista",
+  "luministica": "luministika",
+  "luministico": "luministiko",
+  "lumino": "lumino",
+  "luminosa": "luminosa",
+  "luminose": "luminose",
+  "luminosi": "luminosi",
+  "luminosità": "luminosita",
+  "luminoso": "luminoso",
+  "luminoso_2": "luminozo",
+  "luna": "luna",
+  "lunare": "lunare",
+  "lunario": "lunarjo",
+  "lunatica": "lunatika",
+  "lunatiche": "lunatike",
+  "lunatici": "lunatitʃi",
+  "lunatico": "lunatiko",
+  "lunato": "lunato",
+  "lunazione": "lunatːsjone",
+  "lune": "lune",
+  "lunedì": "lunedi",
+  "lunella": "lunɛlːa",
+  "lunello": "lunɛlːo",
+  "lunense": "lunɛnse",
+  "lunensi": "lunɛnsi",
+  "lunetta": "lunetːa",
+  "lunetta_2": "lunɛtːa",
+  "lunga": "luɲɡa",
+  "lungaggine": "lunɡadːʒine",
+  "lungamente": "lunɡamente",
+  "lungarno": "lunɡarno",
+  "lungarno_2": "luɲɡarno",
+  "lunge": "lundʒe",
+  "lunghe": "luɲɡe",
+  "lungherone": "luɲɡerone",
+  "lungheroni": "luɲɡeroni",
+  "lunghezza": "lunɡetːsa",
+  "lunghezze": "lunɡetːse",
+  "lunghi": "luɲɡi",
+  "lunghissima": "luɲɡisːima",
+  "lunghissime": "luɲɡisːime",
+  "lunghissimi": "luɲɡisːimi",
+  "lunghissimo": "lunɡisːimo",
+  "lunghissimo_2": "luɲɡisːimo",
+  "lunghista": "lunɡista",
+  "lunghiste": "lunɡiste",
+  "lunghisti": "lunɡisti",
+  "lungi": "lundʒi",
+  "lungimirante": "lundʒimirante",
+  "lungimirante_2": "luɲdʒimirante",
+  "lungimiranza": "lunʒimirantsa",
+  "lungo": "lunɡo",
+  "lungo_2": "lunɡɔ",
+  "lungo_3": "luɲɡo",
+  "lungofiume": "luɲɡofjume",
+  "lungofiumi": "luɲɡofjumi",
+  "lungolaghi": "luɲɡolaɡi",
+  "lungolago": "luɲɡolaɡo",
+  "lungomare": "lunɡomare",
+  "lungomari": "lunɡomari",
+  "lungometraggi": "lunɡometːradːʒi",
+  "lungometraggio": "lunɡometradːʒo",
+  "lungometraggio_2": "lunɡometːradːʒo",
+  "lungosenna": "lunɡosenːa",
+  "lungosenna_2": "lunɡosɛnːa",
+  "lungosenna_3": "luɲɡosenːa",
+  "lungotevere": "lunɡotevere",
+  "lungotevere_2": "luɲɡotevere",
+  "lungoteveri": "luɲɡoteveri",
+  "lunina": "lunina",
+  "lunisolare": "lunisolare",
+  "lunotto": "lunɔtːo",
+  "luoghi": "lwɔɡi",
+  "luogo": "luɔɡo",
+  "luogo_2": "lwɔɡo",
+  "luogo_3": "lwɔɡɔ",
+  "luogotenente": "lwoɡotenɛnte",
+  "lupa": "lupa",
+  "lupanare": "lupanare",
+  "lupanari": "lupanari",
+  "lupara": "lupara",
+  "luparia": "luparja",
+  "lupicante": "lupikante",
+  "lupinella": "lupinɛlːa",
+  "lupini": "lupini",
+  "lupino": "lupino",
+  "lupo": "lupo",
+  "luppolamenti": "lupːolamenti",
+  "luppolamento": "lupːolamento",
+  "luppolatura": "lupːolatura",
+  "luppolature": "lupːolature",
+  "luppoli": "lupːoli",
+  "luppolo": "lupːolo",
+  "lurido": "lurido",
+  "lusazia": "luzatsja"
 }
