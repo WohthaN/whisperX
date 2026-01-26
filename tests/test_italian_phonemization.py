@@ -1,9 +1,39 @@
 import pytest
+from pathlib import Path
 from whisperx.ipa_converter import ItalianIPAConverter, ItalianDictionary
 
-def parse_test_reference_phrases(filepath):
+def parse_reference_phrases(filepath):
     """
     Parse TEST_REFERENCE_PHRASES file.
+    Returns list of (text, ipa) tuples.
+    """
+    phrases = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        if line and not line.startswith('/'):
+            text = line
+            if i + 1 < len(lines):
+                ipa_line = lines[i + 1].strip()
+                if ipa_line.startswith('/'):
+                    ipa = ipa_line.strip('/')
+                    phrases.append((text, ipa))
+                    i += 2
+                else:
+                    i += 1
+            else:
+                i += 1
+        else:
+            i += 1
+    
+    return phrases
+
+def parse_reference_phrases(filepath):
+    """
+    Parse REFERENCE_PHRASES.md file.
     Returns list of (text, ipa) tuples.
     """
     phrases = []
@@ -78,8 +108,8 @@ def test_italian_phonemization():
     """
     converter = ItalianIPAConverter()
     
-    test_file = '/home/data/work/work/business/vibe_tech_group/vibe/whisperX/TEST_REFERENCE_PHRASES'
-    phrases = parse_test_reference_phrases(test_file)
+    test_file = Path(__file__).parent / 'REFERENCE_PHRASES.md'
+    phrases = parse_reference_phrases(test_file)
     
     results = []
     total_phrases = len(phrases)
