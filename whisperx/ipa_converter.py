@@ -7,6 +7,7 @@ from typing import Dict, List, Tuple, Optional
 import re
 import json
 import os
+import sqlite3
 from pathlib import Path
 from whisperx.log_utils import get_logger
 
@@ -16,7 +17,7 @@ logger = get_logger(__name__)
 class ItalianDictionary:
     """
     Manages Italian pronunciation dictionary for IPA transcription.
-    Loads and provides lookup functionality for Italian word pronunciations.
+    Loads from SQLite database and provides lookup functionality.
     """
     
     def __init__(self, assets_dir: Optional[str] = None):
@@ -26,9 +27,6 @@ class ItalianDictionary:
         Args:
             assets_dir: Path to assets directory containing dictionary files
         """
-        self.dictionary = {}
-        self.is_loaded_flag = False
-        
         if assets_dir is None:
             # Default assets directory relative to this file
             current_dir = Path(__file__).parent
@@ -36,46 +34,49 @@ class ItalianDictionary:
         else:
             self.assets_dir = Path(assets_dir)
         
+        self.conn = None
+        self.is_loaded_flag = False
+        
         self._load_dictionary()
     
     def _load_dictionary(self):
-        """Load Italian pronunciation dictionary from split assets."""
-        import glob
+        """Load Italian pronunciation dictionary from SQLite database."""
+        db_path = self.assets_dir / "italian_dictionary.db"
         
         try:
-            self.dictionary = {}
-            loaded_files = []
-            
-            # Find all it_part_*.json files
-            part_files = glob.glob(str(self.assets_dir / "it_part_*.json"))
-            part_files.sort()  # Ensure files are loaded in order
-            
-            if not part_files:
-                logger.warning("No it_part_*.json files found in assets directory")
+            if not db_path.exists():
+                logger.warning(f"SQLite database not found at {db_path}")
                 self.is_loaded_flag = False
                 return
             
-            # Load each part file and merge
-            for part_file in part_files:
-                try:
-                    with open(part_file, 'r', encoding='utf-8') as f:
-                        part_dict = json.load(f)
-                        self.dictionary.update(part_dict)
-                        loaded_files.append(Path(part_file).name)
-                except Exception as e:
-                    logger.error(f"Failed to load {part_file}: {e}")
-                    continue
+            # Open database connection
+            self.conn = sqlite3.connect(str(db_path))
+            self.conn.row_factory = sqlite3.Row
             
-            if loaded_files:
-                self.is_loaded_flag = True
-                logger.info(f"Loaded {len(self.dictionary)} Italian word pronunciations from {len(loaded_files)} split files")
-            else:
-                logger.warning("No Italian dictionary files were successfully loaded")
+            # Verify database has expected tables
+            cursor = self.conn.cursor()
+            cursor.execute("SELECT name FROM sqlite_master WHERE type='table'")
+            tables = [row[0] for row in cursor.fetchall()]
+            
+            if 'dictionary' not in tables:
+                logger.error(f"Database at {db_path} missing 'dictionary' table")
+                self.conn.close()
+                self.conn = None
                 self.is_loaded_flag = False
-                
+                return
+            
+            # Get dictionary stats
+            cursor.execute('SELECT COUNT(DISTINCT word) FROM dictionary')
+            unique_words = cursor.fetchone()[0]
+            
+            self.is_loaded_flag = True
+            logger.info(f"Loaded Italian dictionary from SQLite: {unique_words:,} unique words")
+            
         except Exception as e:
-            logger.error(f"Failed to load Italian dictionary: {e}")
-            self.dictionary = {}
+            logger.error(f"Failed to load Italian dictionary from SQLite: {e}")
+            if self.conn:
+                self.conn.close()
+                self.conn = None
             self.is_loaded_flag = False
     
     def lookup_word(self, word: str) -> List[str]:
@@ -88,22 +89,42 @@ class ItalianDictionary:
         Returns:
             List of IPA transcriptions (empty if not found)
         """
-        if not self.is_loaded_flag:
+        if not self.is_loaded_flag or not self.conn:
             return []
         
+        cursor = self.conn.cursor()
+        
         # Try exact match first
-        if word in self.dictionary:
-            return self.dictionary[word]
+        cursor.execute(
+            'SELECT ipa_transcription FROM dictionary WHERE word = ? ORDER BY pronunciation_index',
+            (word,)
+        )
+        exact_results = [row[0] for row in cursor.fetchall()]
         
-        # Try lowercase match
-        lower_word = word.lower()
-        if lower_word in self.dictionary:
-            return self.dictionary[lower_word]
+        if exact_results:
+            return exact_results
         
-        # Try removing common accents/diacritics
+        # Try case-insensitive match
+        cursor.execute(
+            'SELECT ipa_transcription FROM dictionary WHERE word = ? COLLATE NOCASE ORDER BY word, pronunciation_index',
+            (word,)
+        )
+        caseless_results = [row[0] for row in cursor.fetchall()]
+        
+        if caseless_results:
+            return caseless_results
+        
+        # Try normalized match (remove accents)
         normalized_word = self._normalize_word(word)
-        if normalized_word in self.dictionary:
-            return self.dictionary[normalized_word]
+        if normalized_word != word:
+            cursor.execute(
+                'SELECT ipa_transcription FROM dictionary WHERE word = ? COLLATE NOCASE ORDER BY pronunciation_index',
+                (normalized_word,)
+            )
+            normalized_results = [row[0] for row in cursor.fetchall()]
+            
+            if normalized_results:
+                return normalized_results
         
         return []
     
@@ -142,8 +163,18 @@ class ItalianDictionary:
         return self.is_loaded_flag
     
     def get_dictionary_size(self) -> int:
-        """Get the number of entries in the dictionary."""
-        return len(self.dictionary)
+        """Get the number of unique words in the dictionary."""
+        if not self.is_loaded_flag or not self.conn:
+            return 0
+        
+        cursor = self.conn.cursor()
+        cursor.execute('SELECT COUNT(DISTINCT word) FROM dictionary')
+        return cursor.fetchone()[0]
+    
+    def __del__(self):
+        """Close database connection when object is destroyed."""
+        if self.conn:
+            self.conn.close()
 
 
 class ItalianIPAConverter:
