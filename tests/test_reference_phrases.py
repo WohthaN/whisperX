@@ -55,17 +55,8 @@ def split_phrase_into_words(text):
     Split phrase into words, preserving Italian contractions like "l'illumina"
     Returns list of words with apostrophes preserved for contraction matching
     """
-    # Find all contractions (apostrophe followed by word)
-    contractions = re.findall(r"[LlDdun]'\\w+", text)
-    
-    # If contractions found, preserve them as-is for matching
-    # Otherwise, use standard word boundary matching
-    if contractions:
-        # Preserve contractions with apostrophes
-        words = re.findall(r"\\b\\w+'\\w+\\b|\\b\\w+\\b", text, re.UNICODE)
-    else:
-        # No contractions, just split normally
-        words = re.findall(r'\\b\\w+\\b', text, re.UNICODE)
+    # Match words including contractions (words with both regular and curly apostrophes)
+    words = re.findall(r"\b\w+(?:[\u0027\u2019]\w+)?\b", text, re.UNICODE)
     
     return words
 
@@ -90,12 +81,15 @@ def test_reference_phrases():
         words = split_phrase_into_words(text)
         reference_ipa_tokens = reference_ipa.split()
         phrase_mismatches = []
+        generated_ipa_words = []
         
         # Convert each word and compare (1-to-1 word-to-IPA mapping)
         for word_idx, word in enumerate(words):
+            expected_ipa = 'N/A'
             try:
                 ipa_sequence = converter.convert_word_to_ipa_dict_first(word, list(word))
                 converted_ipa = ' '.join([sym for sym, weight in ipa_sequence])
+                generated_ipa_words.append(converted_ipa)
                 normalized_converted = normalize_ipa_for_comparison(converted_ipa)
                 
                 # Get expected IPA for this word (1-to-1 correspondence)
@@ -140,10 +134,12 @@ def test_reference_phrases():
         if not phrase_mismatches:
             passed_phrases += 1
         
+        generated_ipa = ' '.join(generated_ipa_words)
         results.append({
             'index': idx + 1,
             'text': text,
             'reference_ipa': reference_ipa,
+            'generated_ipa': generated_ipa,
             'mismatches': phrase_mismatches,
             'passed': len(phrase_mismatches) == 0
         })
@@ -158,6 +154,16 @@ def test_reference_phrases():
     print(f"Match rate: {passed_phrases/total_phrases*100:.1f}%")
     print(f"Total mismatches: {total_mismatches}")
     print(f"{'='*100}\n")
+    
+    # Print all phrases with comparison
+    print(f"--- PHRASE-BY-PHRASE COMPARISON ---")
+    for result in results:
+        status = "✓ PASS" if result['passed'] else "✗ FAIL"
+        print(f"\nPhrase {result['index']} [{status}]")
+        print(f"  Reference: {result['text']}")
+        print(f"  Reference IPA:   {result['reference_ipa']}")
+        print(f"  Generated IPA:   {result['generated_ipa']}")
+    print(f"\n{'='*100}\n")
     
     # Print mismatched words
     if mismatched_words:

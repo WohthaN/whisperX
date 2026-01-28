@@ -11,7 +11,7 @@ Il dado dorato gira sul tavolo di legno.
 /il ˈdaːdo doˈraːto ˈdʒiːra sul ˈtaːvolo di ˈleɲ:o/
 
 Il cane corre accanto al gatto curioso.
-/il ˈkaːne ˈkor:e a'k:anto al ˈɡat:o kuˈrjoːzo/
+/il ˈkaːne ˈkor:e a'k:anto al ˈɡat:o kuˈrjɔːzo/
 
 Giorgio guida una grande gara in città.
 /ˈdʒordʒo ˈɡwiːda ˈu:na ˈɡrande ˈɡaːra in tʃi't:aː/
@@ -62,7 +62,7 @@ Il vino fine invita amici vicini.
 /il ˈviːno ˈfiːne iŋˈviːta aˈmiːtʃi viˈtʃiːni/
 
 La luna illumina una lunga via.
-/la ˈluːna i'l:uːmina ˈuna ˈluŋɡa ˈviːa/
+/la ˈluːna i'l:uːmina ˈu:na ˈluŋɡa ˈviːa/
 
 Bene o male, ogni scelta conta.
 /ˈbɛːne o ˈmaːle ˈoɲ:i ˈʃelta ˈkonta/
@@ -74,7 +74,7 @@ Il bello del teatro emoziona sempre.
 /il ˈbɛl:o del teˈaːtro eˈmotsjoːna ˈsɛmpre/
 
 La botte rotta perde olio scuro.
-/la ˈbot:e ˈrot:a ˈpɛrde ˈɔljo ˈskuːro/
+/la ˈbot:e ˈrot:a ˈpɛrde ˈɔ:ljo ˈskuːro/
 
 A casa Anna parla calma e chiara.
 /a ˈkaːza ˈan:a ˈparla ˈkalma e ˈkjaːra/
@@ -86,7 +86,7 @@ Una nave grande naviga lenta.
 /ˈuna ˈnaːve ˈɡrande ˈnaːviɡa ˈlɛnta/
 
 La scelta vera nasce dal cuore.
-/la ˈʃɛlta ˈveːra ˈnaʃ:e dal ˈkwɔːre/
+/la ˈʃelta ˈveːra ˈnaʃ:e dal ˈkwɔːre/
 
 Il vento soffia forte fra le foglie.
 /il ˈvɛnto ˈsof:ja ˈfɔrte fra le ˈfɔʎ:e/
@@ -107,10 +107,10 @@ L’aglio profuma l’olio caldo.
 /ˈlaʎ:o proˈfuːma ˈlɔʎjo ˈkaldo/
 
 Il garage chiuso nasconde un’auto nuova.
-/il ɡaˈraːʒ ˈkjuːzo naˈskonde ˈun ˈauto ˈnwɔːva/
+/il ɡaˈraːʒ ˈkjuːzo naˈskonde ˈun-ˈauto ˈnwɔːva/
 
 Sara beve caffè caldo e dolce.
-/ˈsaːra ˈbeve ka’f:ɛ ˈkaldo e ˈdoltʃe/
+/ˈsaːra ˈbe:ve ka’f:ɛ ˈkaldo e ˈdoltʃe/
 
 La luna rossa guarda Roma di notte.
 /la ˈluːna ˈros:a ˈɡwarda ˈroːma di ˈnɔt:e/
