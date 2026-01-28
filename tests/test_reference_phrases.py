@@ -36,7 +36,7 @@ def parse_reference_phrases(filepath):
 def normalize_ipa_for_comparison(ipa):
     """
     Normalize IPA for comparison while preserving gemination markers.
-    Removes stress marks, normalizes length marks, preserves colons.
+    Removes stress marks, normalizes length marks, removes all spaces.
     """
     normalized = ipa
     # Remove stress marks
@@ -45,8 +45,8 @@ def normalize_ipa_for_comparison(ipa):
     normalized = normalized.replace("'", '')
     # Normalize length marks (keep colons for gemination!)
     normalized = normalized.replace('ː', ':')
-    # Remove extra spaces
-    normalized = re.sub(r'\s+', ' ', normalized).strip()
+    # Remove all spaces
+    normalized = re.sub(r'\s+', '', normalized)
     return normalized
 
 
@@ -88,7 +88,7 @@ def test_reference_phrases():
             expected_ipa = 'N/A'
             try:
                 ipa_sequence = converter.convert_word_to_ipa_dict_first(word, list(word))
-                converted_ipa = ' '.join([sym for sym, weight in ipa_sequence])
+                converted_ipa = ''.join([sym for sym, weight in ipa_sequence])
                 generated_ipa_words.append(converted_ipa)
                 normalized_converted = normalize_ipa_for_comparison(converted_ipa)
                 

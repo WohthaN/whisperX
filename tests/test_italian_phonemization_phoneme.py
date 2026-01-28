@@ -54,7 +54,7 @@ def test_italian_phonemization_phoneme_level():
     converter = ItalianIPAConverter()
     
     test_file = Path(__file__).parent / 'REFERENCE_PHRASES.md'
-    phrases = parse_reference_phrases(test_file)
+    phrases = parse_test_reference_phrases(test_file)
     
     results = []
     total_phrases = len(phrases)
@@ -68,13 +68,13 @@ def test_italian_phonemization_phoneme_level():
         for word in words:
             try:
                 ipa_sequence = converter.convert_word_to_ipa_dict_first(word, list(word))
-                converted_ipa = ' '.join([sym for sym, weight in ipa_sequence])
+                converted_ipa = ''.join([sym for sym, weight in ipa_sequence])
                 word_ipas.append(converted_ipa)
             except Exception as e:
                 word_ipas.append(f"ERROR: {e}")
         
         # Join all word IPAs
-        full_converted_ipa = ' '.join(word_ipas)
+        full_converted_ipa = ''.join(word_ipas)
         
         # Normalize and compare
         ref_phonemes = normalize_for_phoneme_comparison(reference_ipa)

@@ -124,7 +124,7 @@ def test_italian_phonemization():
         for word in words:
             try:
                 ipa_sequence = converter.convert_word_to_ipa_dict_first(word, list(word))
-                converted_ipa = ' '.join([sym for sym, weight in ipa_sequence])
+                converted_ipa = ''.join([sym for sym, weight in ipa_sequence])
                 normalized_converted = normalize_ipa(converted_ipa)
                 
                 word_results.append({

@@ -945,7 +945,7 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
                         ipa_segments.append(ipa_segment)
                     
                     # Add IPA to word object
-                    word_ipa = ' '.join([sym for sym, _ in ipa_sequence])
+                    word_ipa = ''.join([sym for sym, _ in ipa_sequence])
                     word_obj["ipa"] = word_ipa
                     continue
                     
@@ -979,7 +979,7 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
                 ipa_segments.append(ipa_segment)
             
             # Add IPA to word object (rule-based)
-            word_ipa = ' '.join([seg["ipa_symbol"] for seg in ipa_segments if seg["start"] >= word_start and seg["end"] <= word_end])
+            word_ipa = ''.join([seg["ipa_symbol"] for seg in ipa_segments if seg["start"] >= word_start and seg["end"] <= word_end])
             word_obj["ipa"] = word_ipa
     else:
         # Fallback to old behavior if no sentence_words provided

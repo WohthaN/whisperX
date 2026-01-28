@@ -34,17 +34,16 @@ def parse_reference_phrases(filepath):
 def normalize_ipa(ipa):
     """
     Normalize IPA for comparison.
-    Remove stress marks, standalone length marks.
-    Keep spaces to preserve word boundaries.
+    Remove stress marks, standalone length marks, and all spaces.
     """
     normalized = ipa
     normalized = normalized.replace('ˈ', '')
     normalized = normalized.replace('ˌ', '')
     normalized = normalized.replace("'", '')
     normalized = normalized.replace('ː', ':')  # Normalize different length marks
-    # Remove extra spaces
+    # Remove all spaces
     import re
-    normalized = re.sub(r'\s+', ' ', normalized).strip()
+    normalized = re.sub(r'\s+', '', normalized)
     return normalized
 
 def split_into_words(text):
@@ -86,13 +85,13 @@ def test_italian_phonemization_detailed():
         for word in words:
             try:
                 ipa_sequence = converter.convert_word_to_ipa_dict_first(word, list(word))
-                converted_ipa = ' '.join([sym for sym, weight in ipa_sequence])
+                converted_ipa = ''.join([sym for sym, weight in ipa_sequence])
                 word_ipas.append(converted_ipa)
             except Exception as e:
                 word_ipas.append(f"ERROR: {e}")
         
         # Join all word IPAs (simulating full phrase IPA)
-        full_converted_ipa = ' '.join(word_ipas)
+        full_converted_ipa = ''.join(word_ipas)
         
         # Try to match
         matched = compare_ipa_sequences(full_converted_ipa, reference_ipa)

@@ -198,6 +198,8 @@ class ItalianIPAConverter:
             self.dictionary = dictionary
         # IPA weights from user's schema (using standard IPA symbols)
         self.ipa_weights = {
+            'ˈ': 1.0,  # Primary stress mark
+            'ˌ': 0.95,  # Secondary stress mark
             'tʃ': 0.9,  # C morbida (es. cena)
             'k': 0.9,  # C dura (es. cane)
             'ʎ': 1.0,  # GLI (es. moglie)
@@ -530,6 +532,7 @@ class ItalianIPAConverter:
         """
         Parse IPA transcription from dictionary into weighted phoneme sequence.
         Handles both space-separated and continuous IPA strings.
+        Preserves stress marks from dictionary entries.
         
         Args:
             ipa_transcription: IPA transcription from dictionary (may be space-separated or continuous)
@@ -540,11 +543,8 @@ class ItalianIPAConverter:
         if not ipa_transcription:
             return []
         
-        # Remove stress marks for parsing
-        ipa_clean = ipa_transcription.replace('ˈ', '').replace('ˌ', '')
-        
-        # Split by spaces and filter out empty strings
-        ipa_symbols = [symbol for symbol in ipa_clean.split() if symbol.strip()]
+        # Preserve stress marks, split by spaces and filter out empty strings
+        ipa_symbols = [symbol for symbol in ipa_transcription.split() if symbol.strip()]
         
         # If no spaces, need to parse the continuous string
         if len(ipa_symbols) == 1 and len(ipa_symbols[0]) > 1:
@@ -575,6 +575,7 @@ class ItalianIPAConverter:
         """
         Parse a continuous IPA string into individual IPA symbols.
         Handles multi-character symbols like tʃ, dʒ, etc.
+        Also handles stress marks (ˈ, ˌ) as separate symbols.
         
         Args:
             ipa_string: Continuous IPA string without spaces
@@ -589,7 +590,13 @@ class ItalianIPAConverter:
         multi_char_symbols = ['tʃ', 'dʒ', 'ts', 'dz', 'ʎ', 'ɲ', 'ʃ']
         
         while i < len(ipa_string):
-            # Check for multi-character symbols first
+            # Check for stress marks first
+            if ipa_string[i] in ['ˈ', 'ˌ']:
+                symbols.append(ipa_string[i])
+                i += 1
+                continue
+            
+            # Check for multi-character symbols
             if i < len(ipa_string) - 1:
                 two_char = ipa_string[i:i+2]
                 if two_char in multi_char_symbols:
