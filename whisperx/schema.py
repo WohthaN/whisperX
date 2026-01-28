@@ -9,6 +9,7 @@ class SingleWordSegment(TypedDict):
     start: float
     end: float
     score: float
+    ipa: Optional[str]  # IPA transcription at word level
 
 class SingleCharSegment(TypedDict):
     """

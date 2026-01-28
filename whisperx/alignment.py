@@ -397,12 +397,26 @@ def align(
                 
                 # Convert to IPA if requested and supported
                 if return_ipa_alignments:
-                    ipa_segments = convert_phonemes_to_ipa(phonemes, model_lang, sentence_text)
+                    ipa_segments = convert_phonemes_to_ipa(phonemes, model_lang, sentence_text, sentence_words)
                     aligned_subsegments[-1]["ipa_segments"] = ipa_segments
                     logger.info(f"Segment {sdx2+1}: generated {len(ipa_segments)} IPA segments")
                     
                     for i, ipa_seg in enumerate(ipa_segments):
                         logger.info(f"  IPA {i}: '{ipa_seg['ipa_symbol']}' ({ipa_seg['orthographic']}) weight={ipa_seg['linguistic_weight']} conf={ipa_seg['confidence']}")
+            
+            # Convert to IPA if requested but phonemes are not
+            if return_ipa_alignments and not return_phoneme_alignments:
+                logger.info(f"Processing segment {sdx2+1} for IPA alignment...")
+                
+                # Convert chars to list of dicts for phoneme grouping
+                chars_list = curr_chars[["char", "start", "end", "score"]].fillna(-1).to_dict("records")
+                chars_list = [{key: val for key, val in char.items() if val != -1} for char in chars_list]
+                
+                phonemes = group_chars_to_phonemes(chars_list, model_lang)
+                
+                ipa_segments = convert_phonemes_to_ipa(phonemes, model_lang, sentence_text, sentence_words)
+                aligned_subsegments[-1]["ipa_segments"] = ipa_segments
+                logger.info(f"Segment {sdx2+1}: generated {len(ipa_segments)} IPA segments")
 
     # Process all accumulated subsegments after the loop
     aligned_subsegments_df = pd.DataFrame(aligned_subsegments)
@@ -840,15 +854,18 @@ def _map_ipa_to_orthographic(ipa_symbol: str, phonemes: List[str], ipa_index: in
 
 def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment], 
                            language: str,
-                           word_context: str = "") -> List[SingleIPASegment]:
+                           word_context: str = "",
+                           sentence_words: List[dict] = None) -> List[SingleIPASegment]:
     """
     Convert phoneme segments to IPA segments for supported languages.
     Uses dictionary-first approach for Italian with rule-based fallback.
+    Processes words individually to respect word boundaries.
     
     Args:
         phoneme_segments: List of phoneme segments from group_chars_to_phonemes
         language: Language code
         word_context: Full word context for IPA conversion rules
+        sentence_words: List of word dictionaries with timing information
         
     Returns:
         List of IPA segments with linguistic weights and descriptions
@@ -870,69 +887,153 @@ def convert_phonemes_to_ipa(phoneme_segments: List[SinglePhonemeSegment],
     
     ipa_segments = []
     
-    # Extract phonemes for dictionary lookup
-    phonemes = [seg["phoneme"] for seg in phoneme_segments]
-    
-    # Try dictionary-first conversion for the whole word
-    try:
-        ipa_sequence = ipa_converter.convert_word_to_ipa_dict_first(word_context, phonemes)
-        
-        # If we got IPA from dictionary, create segments with timing
-        if len(ipa_sequence) > 0:
-            # Distribute timing evenly across IPA symbols from dictionary
-            total_duration = phoneme_segments[-1]["end"] - phoneme_segments[0]["start"]
-            segment_duration = total_duration / len(ipa_sequence) if len(ipa_sequence) > 0 else total_duration
+    # Process words individually to respect word boundaries
+    if sentence_words:
+        for word_obj in sentence_words:
+            word_text = word_obj.get("word", "")
+            word_start = word_obj.get("start")
+            word_end = word_obj.get("end")
             
-            for i, (ipa_symbol, linguistic_weight) in enumerate(ipa_sequence):
-                start_time = phoneme_segments[0]["start"] + (i * segment_duration)
-                end_time = start_time + segment_duration
+            if not word_text or word_start is None or word_end is None:
+                continue
+            
+            # Filter phonemes that belong to this word
+            word_phonemes = [
+                p for p in phoneme_segments 
+                if p["start"] >= word_start and p["end"] <= word_end
+            ]
+            
+            if not word_phonemes:
+                continue
+            
+            # Extract phonemes for dictionary lookup
+            phonemes = [seg["phoneme"] for seg in word_phonemes]
+            
+            # Try dictionary-first conversion for this word
+            try:
+                ipa_sequence = ipa_converter.convert_word_to_ipa_dict_first(word_text, phonemes)
                 
+                # If we got IPA from dictionary, create segments with timing
+                if len(ipa_sequence) > 0:
+                    # Distribute timing evenly across IPA symbols from dictionary
+                    total_duration = word_phonemes[-1]["end"] - word_phonemes[0]["start"]
+                    segment_duration = total_duration / len(ipa_sequence) if len(ipa_sequence) > 0 else total_duration
+                    
+                    for i, (ipa_symbol, linguistic_weight) in enumerate(ipa_sequence):
+                        start_time = word_phonemes[0]["start"] + (i * segment_duration)
+                        end_time = start_time + segment_duration
+                        
+                        # Constrain to word boundaries
+                        start_time = max(start_time, word_start)
+                        end_time = min(end_time, word_end)
+                        
+                        description = ipa_converter.get_phoneme_description(ipa_symbol)
+                        
+                        # Map IPA symbol back to corresponding orthographic phoneme(s)
+                        orthographic_repr = _map_ipa_to_orthographic(ipa_symbol, phonemes, i)
+                        
+                        ipa_segment: SingleIPASegment = {
+                            "ipa_symbol": ipa_symbol,
+                            "orthographic": orthographic_repr,
+                            "start": round(start_time, 4),
+                            "end": round(end_time, 4),
+                            "linguistic_weight": linguistic_weight,
+                            "confidence": 1.0,  # Dictionary entries have high confidence
+                            "description": description
+                        }
+                        
+                        ipa_segments.append(ipa_segment)
+                    
+                    # Add IPA to word object
+                    word_ipa = ' '.join([sym for sym, _ in ipa_sequence])
+                    word_obj["ipa"] = word_ipa
+                    continue
+                    
+            except Exception as e:
+                # If dictionary conversion fails, fall back to rule-based
+                import logging
+                logging.getLogger(__name__).debug(f"Dictionary conversion failed for '{word_text}': {e}, using rule-based fallback")
+            
+            # Fallback to rule-based conversion for each phoneme
+            for phoneme_seg in word_phonemes:
+                orthographic = phoneme_seg["phoneme"]
+                
+                # Convert to IPA with context
+                ipa_symbol, linguistic_weight = ipa_converter.convert_orthographic_to_ipa(
+                    orthographic, 0, word_text
+                )
+                
+                # Get description
                 description = ipa_converter.get_phoneme_description(ipa_symbol)
-                
-                # Map IPA symbol back to corresponding orthographic phoneme(s)
-                orthographic_repr = _map_ipa_to_orthographic(ipa_symbol, phonemes, i)
                 
                 ipa_segment: SingleIPASegment = {
                     "ipa_symbol": ipa_symbol,
-                    "orthographic": orthographic_repr,
-                    "start": round(start_time, 4),
-                    "end": round(end_time, 4),
+                    "orthographic": orthographic,
+                    "start": phoneme_seg["start"],
+                    "end": phoneme_seg["end"],
                     "linguistic_weight": linguistic_weight,
-                    "confidence": 1.0,  # Dictionary entries have high confidence
+                    "confidence": phoneme_seg.get("score", 1.0),
                     "description": description
                 }
                 
                 ipa_segments.append(ipa_segment)
             
-            return ipa_segments
+            # Add IPA to word object (rule-based)
+            word_ipa = ' '.join([seg["ipa_symbol"] for seg in ipa_segments if seg["start"] >= word_start and seg["end"] <= word_end])
+            word_obj["ipa"] = word_ipa
+    else:
+        # Fallback to old behavior if no sentence_words provided
+        phonemes = [seg["phoneme"] for seg in phoneme_segments]
+        
+        try:
+            ipa_sequence = ipa_converter.convert_word_to_ipa_dict_first(word_context, phonemes)
             
-    except Exception as e:
-        # If dictionary conversion fails, fall back to rule-based
-        import logging
-        logging.getLogger(__name__).debug(f"Dictionary conversion failed for '{word_context}': {e}, using rule-based fallback")
-    
-    # Fallback to rule-based conversion (original logic)
-    for phoneme_seg in phoneme_segments:
-        orthographic = phoneme_seg["phoneme"]
+            if len(ipa_sequence) > 0:
+                total_duration = phoneme_segments[-1]["end"] - phoneme_segments[0]["start"]
+                segment_duration = total_duration / len(ipa_sequence) if len(ipa_sequence) > 0 else total_duration
+                
+                for i, (ipa_symbol, linguistic_weight) in enumerate(ipa_sequence):
+                    start_time = phoneme_segments[0]["start"] + (i * segment_duration)
+                    end_time = start_time + segment_duration
+                    
+                    description = ipa_converter.get_phoneme_description(ipa_symbol)
+                    orthographic_repr = _map_ipa_to_orthographic(ipa_symbol, phonemes, i)
+                    
+                    ipa_segment: SingleIPASegment = {
+                        "ipa_symbol": ipa_symbol,
+                        "orthographic": orthographic_repr,
+                        "start": round(start_time, 4),
+                        "end": round(end_time, 4),
+                        "linguistic_weight": linguistic_weight,
+                        "confidence": 1.0,
+                        "description": description
+                    }
+                    
+                    ipa_segments.append(ipa_segment)
+                
+                return ipa_segments
+                
+        except Exception as e:
+            import logging
+            logging.getLogger(__name__).debug(f"Dictionary conversion failed for '{word_context}': {e}, using rule-based fallback")
         
-        # Convert to IPA with context
-        ipa_symbol, linguistic_weight = ipa_converter.convert_orthographic_to_ipa(
-            orthographic, 0, word_context
-        )
-        
-        # Get description
-        description = ipa_converter.get_phoneme_description(ipa_symbol)
-        
-        ipa_segment: SingleIPASegment = {
-            "ipa_symbol": ipa_symbol,
-            "orthographic": orthographic,
-            "start": phoneme_seg["start"],
-            "end": phoneme_seg["end"],
-            "linguistic_weight": linguistic_weight,
-            "confidence": phoneme_seg.get("score", 1.0),
-            "description": description
-        }
-        
-        ipa_segments.append(ipa_segment)
+        for phoneme_seg in phoneme_segments:
+            orthographic = phoneme_seg["phoneme"]
+            ipa_symbol, linguistic_weight = ipa_converter.convert_orthographic_to_ipa(
+                orthographic, 0, word_context
+            )
+            description = ipa_converter.get_phoneme_description(ipa_symbol)
+            
+            ipa_segment: SingleIPASegment = {
+                "ipa_symbol": ipa_symbol,
+                "orthographic": orthographic,
+                "start": phoneme_seg["start"],
+                "end": phoneme_seg["end"],
+                "linguistic_weight": linguistic_weight,
+                "confidence": phoneme_seg.get("score", 1.0),
+                "description": description
+            }
+            
+            ipa_segments.append(ipa_segment)
     
     return ipa_segments

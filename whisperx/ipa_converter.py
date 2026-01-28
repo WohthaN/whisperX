@@ -196,25 +196,28 @@ class ItalianIPAConverter:
             self.dictionary = ItalianDictionary()
         else:
             self.dictionary = dictionary
-        # IPA weights from user's schema
+        # IPA weights from user's schema (using standard IPA symbols)
         self.ipa_weights = {
-            'ʧ': 0.9,  # C morbida (es. cena)
+            'tʃ': 0.9,  # C morbida (es. cena)
             'k': 0.9,  # C dura (es. cane)
             'ʎ': 1.0,  # GLI (es. moglie)
             'r': 0.8,  # R (vibrante)
-            'Z': 0.8,  # S sonora (es. casa)
-            'S': 0.9,  # S silente (es. sole)
-            'T': 0.7,  # T
+            'z': 0.8,  # S sonora (es. casa)
+            's': 0.9,  # S silente (es. sole)
+            't': 0.7,  # T
             'ɲ': 0.9,  # GN (es. gnomo)
             'dz': 0.8, # Z sonora (es. zero)
-            'ʦ': 0.8, # Z silente (es. pazzo)
-            'ʤ': 0.9, # g gente
+            'ts': 0.8, # Z silente (es. pazzo)
+            'dʒ': 0.9, # g gente
             'ʃ': 0.8, # Sc scena
             'j': 0.6, # j di iena
             'e': 0.9, # e chiusa di vede
             'ɛ': 0.9, # e aperto di bello
             'ɔ': 0.9, # o aperta
             'o': 0.9, # o chiusa
+            'a': 0.9, # a
+            'i': 0.9, # i
+            'u': 0.9, # u
             'DOPPIE': 1.0, # Le doppie
         }
         
@@ -225,16 +228,16 @@ class ItalianIPAConverter:
             'semivowel': 0.7
         }
         
-        # Italian orthography to IPA mappings with context rules
+        # Italian orthography to IPA mappings with context rules (standard IPA)
         self.consonant_mappings = {
             # C and G patterns
-            'ci': 'ʧ', 'ce': 'ʧ',  # soft c before i,e
-            'gi': 'ʤ', 'ge': 'ʤ',  # soft g before i,e
+            'ci': 'tʃ', 'ce': 'tʃ',  # soft c before i,e
+            'gi': 'dʒ', 'ge': 'dʒ',  # soft g before i,e
             'gli': 'ʎ',  # before i,e
             'gn': 'ɲ',
             'sc': 'ʃ',  # before i,e
-            's': {'voiced': 'Z', 'voiceless': 'S'},
-            'z': {'voiced': 'dz', 'voiceless': 'ʦ'}
+            's': {'voiced': 'z', 'voiceless': 's'},
+            'z': {'voiced': 'dz', 'voiceless': 'ts'}
         }
         
         # Vowel mappings with open/closed distinction
@@ -280,9 +283,9 @@ class ItalianIPAConverter:
             
             # C and G soft patterns
             if two_char in ['ci', 'ce']:
-                return 'ʧ', self.ipa_weights['ʧ']
+                return 'tʃ', self.ipa_weights['tʃ']
             elif two_char in ['gi', 'ge']:
-                return 'ʤ', self.ipa_weights['ʤ']
+                return 'dʒ', self.ipa_weights['dʒ']
             elif two_char == 'gli':
                 return 'ʎ', self.ipa_weights['ʎ']
             elif two_char == 'gn':
@@ -350,9 +353,9 @@ class ItalianIPAConverter:
         
         if lower_phoneme in consonant_map:
             ipa = consonant_map[lower_phoneme]
-            # T gets special IPA symbol and weight
+            # t gets standard IPA symbol and weight
             if lower_phoneme == 't':
-                return 'T', self.ipa_weights.get('T', 0.7)
+                return 't', self.ipa_weights.get('t', 0.7)
             return ipa, self.ipa_weights.get(ipa, 0.8)
         
         # Default vowel handling
@@ -452,23 +455,26 @@ class ItalianIPAConverter:
     def get_phoneme_description(self, ipa_symbol: str) -> str:
         """Get phonetic description for IPA symbol."""
         descriptions = {
-            'ʧ': "C morbida (es. cena)",
+            'tʃ': "C morbida (es. cena)",
             'k': "C dura (es. cane)",
             'ʎ': "GLI (es. moglie)",
             'r': "R (vibrante)",
-            'Z': "S sonora (es. casa)",
-            'S': "S sorda (es. sole)",
-            'T': "T",
+            'z': "S sonora (es. casa)",
+            's': "S sorda (es. sole)",
+            't': "T",
             'ɲ': "GN (es. gnomo)",
             'dz': "Z sonora (es. zero)",
-            'ʦ': "Z sorda (es. pazzo)",
-            'ʤ': "G morbido (es. gente)",
+            'ts': "Z sorda (es. pazzo)",
+            'dʒ': "G morbido (es. gente)",
             'ʃ': "SC (es. scena)",
             'j': "I glide (es. iato)",
             'e': "E chiusa (es. vede)",
             'ɛ': "E aperta (es. bello)",
             'ɔ': "O aperta (es. ora)",
-            'o': "O chiusa (es. porta)"
+            'o': "O chiusa (es. porta)",
+            'a': "A",
+            'i': "I",
+            'u': "U"
         }
         return descriptions.get(ipa_symbol, f"IPA symbol: {ipa_symbol}")
     
@@ -508,7 +514,9 @@ class ItalianIPAConverter:
         """
         # Try dictionary lookup first
         if self.dictionary.is_loaded():
-            dictionary_transcriptions = self.dictionary.lookup_word(word)
+            # Strip punctuation for dictionary lookup
+            word_for_lookup = word.strip('.,!?;:"\'')
+            dictionary_transcriptions = self.dictionary.lookup_word(word_for_lookup)
             if dictionary_transcriptions:
                 # Use the first transcription from dictionary
                 ipa_transcription = dictionary_transcriptions[0]
@@ -521,9 +529,10 @@ class ItalianIPAConverter:
     def _parse_dictionary_ipa(self, ipa_transcription: str) -> List[Tuple[str, float]]:
         """
         Parse IPA transcription from dictionary into weighted phoneme sequence.
+        Handles both space-separated and continuous IPA strings.
         
         Args:
-            ipa_transcription: Space-separated IPA symbols from dictionary
+            ipa_transcription: IPA transcription from dictionary (may be space-separated or continuous)
             
         Returns:
             List of (IPA_symbol, linguistic_weight) tuples
@@ -531,8 +540,15 @@ class ItalianIPAConverter:
         if not ipa_transcription:
             return []
         
+        # Remove stress marks for parsing
+        ipa_clean = ipa_transcription.replace('ˈ', '').replace('ˌ', '')
+        
         # Split by spaces and filter out empty strings
-        ipa_symbols = [symbol for symbol in ipa_transcription.split() if symbol.strip()]
+        ipa_symbols = [symbol for symbol in ipa_clean.split() if symbol.strip()]
+        
+        # If no spaces, need to parse the continuous string
+        if len(ipa_symbols) == 1 and len(ipa_symbols[0]) > 1:
+            ipa_symbols = self._parse_continuous_ipa(ipa_symbols[0])
         
         ipa_sequence = []
         for symbol in ipa_symbols:
@@ -554,6 +570,44 @@ class ItalianIPAConverter:
             ipa_sequence.append((symbol, final_weight))
         
         return ipa_sequence
+    
+    def _parse_continuous_ipa(self, ipa_string: str) -> List[str]:
+        """
+        Parse a continuous IPA string into individual IPA symbols.
+        Handles multi-character symbols like tʃ, dʒ, etc.
+        
+        Args:
+            ipa_string: Continuous IPA string without spaces
+            
+        Returns:
+            List of individual IPA symbols
+        """
+        symbols = []
+        i = 0
+        
+        # Multi-character IPA symbols to check for
+        multi_char_symbols = ['tʃ', 'dʒ', 'ts', 'dz', 'ʎ', 'ɲ', 'ʃ']
+        
+        while i < len(ipa_string):
+            # Check for multi-character symbols first
+            if i < len(ipa_string) - 1:
+                two_char = ipa_string[i:i+2]
+                if two_char in multi_char_symbols:
+                    symbols.append(two_char)
+                    i += 2
+                    continue
+            
+            # Check for length mark (colon)
+            if i < len(ipa_string) - 1 and ipa_string[i+1] == ':':
+                symbols.append(ipa_string[i] + ':')
+                i += 2
+                continue
+            
+            # Single character symbol
+            symbols.append(ipa_string[i])
+            i += 1
+        
+        return symbols
 
 
 def create_italian_ipa_converter(dictionary: Optional[ItalianDictionary] = None) -> ItalianIPAConverter:
