@@ -575,13 +575,13 @@ class ItalianIPAConverter:
         """
         Parse a continuous IPA string into individual IPA symbols.
         Handles multi-character symbols like tʃ, dʒ, etc.
-        Also handles stress marks (ˈ, ˌ) as separate symbols.
+        Stress marks (ˈ, ˌ) are merged with the following symbol.
         
         Args:
             ipa_string: Continuous IPA string without spaces
             
         Returns:
-            List of individual IPA symbols
+            List of individual IPA symbols with stress marks merged
         """
         symbols = []
         i = 0
@@ -590,13 +590,37 @@ class ItalianIPAConverter:
         multi_char_symbols = ['tʃ', 'dʒ', 'ts', 'dz', 'ʎ', 'ɲ', 'ʃ']
         
         while i < len(ipa_string):
-            # Check for stress marks first
+            # Check for stress marks first - merge with next symbol
             if ipa_string[i] in ['ˈ', 'ˌ']:
-                symbols.append(ipa_string[i])
+                stress_mark = ipa_string[i]
                 i += 1
-                continue
+                # Merge stress mark with the following symbol
+                if i < len(ipa_string):
+                    # Check for multi-character symbols after stress mark
+                    if i < len(ipa_string) - 1:
+                        two_char = ipa_string[i:i+2]
+                        if two_char in multi_char_symbols:
+                            symbols.append(stress_mark + two_char)
+                            i += 2
+                            continue
+                    
+                    # Check for length mark (colon or IPA ː) after stress mark
+                    if i < len(ipa_string) - 1 and ipa_string[i+1] in [':', 'ː']:
+                        symbols.append(stress_mark + ipa_string[i] + ipa_string[i+1])
+                        i += 2
+                        continue
+                    
+                    # Single character symbol after stress mark
+                    symbols.append(stress_mark + ipa_string[i])
+                    i += 1
+                    continue
+                else:
+                    # Stress mark at end (edge case), add it alone
+                    symbols.append(stress_mark)
+                    i += 1
+                    continue
             
-            # Check for multi-character symbols
+            # Check for multi-character symbols (without stress mark)
             if i < len(ipa_string) - 1:
                 two_char = ipa_string[i:i+2]
                 if two_char in multi_char_symbols:
@@ -604,13 +628,13 @@ class ItalianIPAConverter:
                     i += 2
                     continue
             
-            # Check for length mark (colon)
-            if i < len(ipa_string) - 1 and ipa_string[i+1] == ':':
-                symbols.append(ipa_string[i] + ':')
+            # Check for length mark (colon or IPA ː) (without stress mark)
+            if i < len(ipa_string) - 1 and ipa_string[i+1] in [':', 'ː']:
+                symbols.append(ipa_string[i] + ipa_string[i+1])
                 i += 2
                 continue
             
-            # Single character symbol
+            # Single character symbol (without stress mark)
             symbols.append(ipa_string[i])
             i += 1
         
