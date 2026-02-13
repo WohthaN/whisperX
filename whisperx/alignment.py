@@ -420,25 +420,24 @@ def align(
 
     # Process all accumulated subsegments after the loop
     aligned_subsegments_df = pd.DataFrame(aligned_subsegments)
-    aligned_subsegments_df["start"] = interpolate_nans(aligned_subsegments_df["start"], method=interpolate_method)
-    aligned_subsegments_df["end"] = interpolate_nans(aligned_subsegments_df["end"], method=interpolate_method)
-    # concatenate sentences with same timestamps
-    agg_dict = {"text": " ".join, "words": "sum"}
-    if model_lang in LANGUAGES_WITHOUT_SPACES:
-        agg_dict["text"] = "".join
-    if return_char_alignments:
-        agg_dict["chars"] = "sum"
-    if return_phoneme_alignments:
-        agg_dict["phonemes"] = "sum"
-    if return_ipa_alignments:
-        agg_dict["ipa_segments"] = "sum"
-    
     if len(aligned_subsegments_df) > 0:
+        aligned_subsegments_df["start"] = interpolate_nans(aligned_subsegments_df["start"], method=interpolate_method)
+        aligned_subsegments_df["end"] = interpolate_nans(aligned_subsegments_df["end"], method=interpolate_method)
+        # concatenate sentences with same timestamps
+        agg_dict = {"text": " ".join, "words": "sum"}
+        if model_lang in LANGUAGES_WITHOUT_SPACES:
+            agg_dict["text"] = "".join
+        if return_char_alignments:
+            agg_dict["chars"] = "sum"
+        if return_phoneme_alignments:
+            agg_dict["phonemes"] = "sum"
+        if return_ipa_alignments:
+            agg_dict["ipa_segments"] = "sum"
+        
         aligned_subsegments_grouped = aligned_subsegments_df.groupby(["start", "end"], as_index=False).agg(agg_dict)
         aligned_subsegments = aligned_subsegments_grouped.to_dict('records')
-        aligned_segments += aligned_subsegments
-    else:
-        aligned_segments += aligned_subsegments
+    
+    aligned_segments += aligned_subsegments
 
     # create word_segments and phoneme_segments lists
     word_segments: List[SingleWordSegment] = []
